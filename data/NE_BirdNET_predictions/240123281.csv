@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.9994124,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.997965,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.47755766,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.26301014,2.0,5.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16712758,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.2073771,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11658158,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10043098,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.10407076,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.99408025,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.99824417,14.0,17.0
+Setophaga citrina_Hooded Warbler,0.9970907,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.4286186,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.42078036,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.20216915,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.23532258,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13832256,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.9920954,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.9893762,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.97291595,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10988237,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10890765,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.11861596,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10328006,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.6179925,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.99687237,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.99756277,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.9951556,41.0,44.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10702046,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.18532082,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.9965873,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.99417555,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.9927522,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.83699703,55.0,58.0
+Setophaga citrina_Hooded Warbler,0.99657625,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.99729925,57.0,60.0
+Setophaga citrina_Hooded Warbler,0.9939865,58.0,61.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10431097,58.0,61.0
+Buteo platypterus_Broad-winged Hawk,0.11151908,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.10458237,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.9914834,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.9985611,66.0,69.0
+Setophaga citrina_Hooded Warbler,0.99727815,67.0,70.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.612586,68.0,71.0
+Setophaga citrina_Hooded Warbler,0.26109698,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.16375442,68.0,71.0
+Limnothlypis swainsonii_Swainson's Warbler,0.110708825,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10272658,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.10863134,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.991017,74.0,77.0
+Setophaga citrina_Hooded Warbler,0.99752873,75.0,78.0
+Setophaga citrina_Hooded Warbler,0.99795914,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.4830626,77.0,80.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.41404402,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.1404685,77.0,80.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14889988,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.13734542,78.0,81.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13711193,79.0,82.0
+Buteo platypterus_Broad-winged Hawk,0.14187752,80.0,83.0
+Setophaga cerulea_Cerulean Warbler,0.13787666,80.0,83.0
+Setophaga citrina_Hooded Warbler,0.9944359,84.0,87.0
+Setophaga citrina_Hooded Warbler,0.9971186,85.0,88.0
+Setophaga citrina_Hooded Warbler,0.99622726,86.0,89.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5341544,87.0,90.0
+Buteo platypterus_Broad-winged Hawk,0.11358356,88.0,91.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19537406,89.0,92.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12090465,90.0,93.0
+Buteo platypterus_Broad-winged Hawk,0.17616574,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13148761,92.0,95.0
+Setophaga citrina_Hooded Warbler,0.99532336,94.0,97.0
+Setophaga citrina_Hooded Warbler,0.99832386,95.0,98.0
+Setophaga citrina_Hooded Warbler,0.9984281,96.0,98.13600907029479

@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Passerella iliaca_Fox Sparrow,0.3168826,0.0,3.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1359762,0.0,3.0
+Phylloscopus fuscatus_Dusky Warbler,0.109419584,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11729656,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.2404793,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16531287,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.1056169,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.12691726,5.0,8.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.12201836,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10192535,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21631667,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.10888815,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18184629,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.12838323,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.14531572,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.13118137,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102295816,9.0,12.0
+Geothlypis trichas_Common Yellowthroat,0.43597785,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.10880158,10.0,13.0
+Geothlypis trichas_Common Yellowthroat,0.64549047,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.27272624,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.40660274,13.0,16.0
+Setophaga coronata_Yellow-rumped Warbler,0.3403589,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.11963201,14.0,17.0
+Setophaga coronata_Yellow-rumped Warbler,0.11773579,14.0,17.0
+Setophaga coronata_Yellow-rumped Warbler,0.14088349,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.12997606,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11071563,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.1399905,17.0,20.0
+Geothlypis trichas_Common Yellowthroat,0.13735375,17.0,20.0
+Cardellina canadensis_Canada Warbler,0.114136904,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26832303,18.0,21.0
+Cyornis whitei_Hill Blue Flycatcher,0.1286469,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10913236,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28440177,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22753571,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.14066502,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.10095101,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.3782344,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22287253,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.13497946,27.0,30.0
+Mniotilta varia_Black-and-white Warbler,0.10237256,27.0,30.0
+Cardellina pusilla_Wilson's Warbler,0.5545157,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.11006259,28.0,31.0
+Cardellina pusilla_Wilson's Warbler,0.2136135,29.0,32.0
+Cardellina canadensis_Canada Warbler,0.16938427,29.0,32.0
+Cardellina pusilla_Wilson's Warbler,0.18647934,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.17871785,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.5983273,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18742655,31.0,34.0
+Geothlypis philadelphia_Mourning Warbler,0.10554389,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.32559064,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.60557896,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.33210275,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31332037,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12830319,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.10090613,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.39053208,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.26324096,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15567012,34.0,37.0
+Geothlypis trichas_Common Yellowthroat,0.13249008,34.0,37.0
+Geothlypis trichas_Common Yellowthroat,0.62506574,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.49689594,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33250928,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.21385875,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.42310354,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.30619314,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28185317,37.0,40.0
+Geothlypis philadelphia_Mourning Warbler,0.11328298,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25174907,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.12550135,38.0,41.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11754087,46.0,49.0

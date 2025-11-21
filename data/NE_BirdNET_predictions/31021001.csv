@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.11107294,0.0,3.0
+Junco phaeonotus_Yellow-eyed Junco,0.71032906,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.45354643,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.34075928,2.0,5.0
+Junco phaeonotus_Yellow-eyed Junco,0.3303838,2.0,5.0
+Setophaga ruticilla_American Redstart,0.1294292,2.0,5.0
+Setophaga ruticilla_American Redstart,0.3265264,3.0,6.0
+Setophaga ruticilla_American Redstart,0.24506877,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.17152058,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.11041681,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.19797769,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.1428671,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.2048224,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.12742375,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.20327039,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.14248712,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.5684919,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.120305955,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.16688387,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14653139,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11756407,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.13487163,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.29375967,13.0,16.0
+Junco phaeonotus_Yellow-eyed Junco,0.11362326,13.0,16.0
+Setophaga ruticilla_American Redstart,0.18600173,14.0,17.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10850469,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13527156,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.12267314,15.0,18.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1510148,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.14636916,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13101566,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.12701336,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.12175532,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.11172861,16.0,19.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.17829902,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12640928,17.0,20.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2065639,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.1331965,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12284679,18.0,21.0
+Junco phaeonotus_Yellow-eyed Junco,0.3902839,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.21062548,20.0,23.0
+Junco phaeonotus_Yellow-eyed Junco,0.14088307,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.1106423,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1278685,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10134126,24.0,27.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1370355,25.0,28.0
+Setophaga ruticilla_American Redstart,0.40991607,26.0,29.0
+Junco phaeonotus_Yellow-eyed Junco,0.37499857,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.1843365,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.15947649,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.27797994,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.10198877,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.55751956,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.22603151,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.16228807,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.3218259,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21989493,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.20699802,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.41499338,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.2742178,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1525363,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.60737777,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.38761705,35.0,38.0
+Junco phaeonotus_Yellow-eyed Junco,0.5707988,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.56020516,37.0,40.0
+Junco phaeonotus_Yellow-eyed Junco,0.32936478,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.27604705,38.0,41.0
+Poecile palustris_Marsh Tit,0.16203777,38.0,41.0
+Poecile palustris_Marsh Tit,0.8414878,39.0,42.0
+Troglodytes troglodytes_Eurasian Wren,0.111297056,39.0,42.0
+Limnothlypis swainsonii_Swainson's Warbler,0.3782986,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.33197507,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.17426048,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16507162,40.0,43.0

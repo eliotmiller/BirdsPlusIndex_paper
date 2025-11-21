@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Tringa semipalmata_Willet,0.10794109,1.0,4.0
+Coragyps atratus_Black Vulture,0.13305427,3.0,6.0
+Eudocimus albus_White Ibis,0.11611398,3.0,6.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1633127,4.0,7.0
+Coragyps atratus_Black Vulture,0.15359965,4.0,7.0
+Archilochus colubris_Ruby-throated Hummingbird,0.16588508,5.0,8.0
+Tringa semipalmata_Willet,0.15560815,5.0,8.0
+Archilochus colubris_Ruby-throated Hummingbird,0.2849349,6.0,9.0
+Tringa semipalmata_Willet,0.20656621,6.0,9.0
+Tringa semipalmata_Willet,0.45866325,7.0,10.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14468446,7.0,10.0
+Tringa semipalmata_Willet,0.3140772,10.0,13.0
+Tringa semipalmata_Willet,0.49304122,11.0,14.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10397668,11.0,14.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10843839,12.0,15.0
+Coragyps atratus_Black Vulture,0.13114297,14.0,17.0
+Tringa semipalmata_Willet,0.70894563,16.0,19.0
+Tringa semipalmata_Willet,0.871183,17.0,20.0
+Tringa semipalmata_Willet,0.80341065,18.0,21.0
+Tringa semipalmata_Willet,0.16280171,19.0,22.0
+Tringa semipalmata_Willet,0.5175843,22.0,25.0
+Tringa semipalmata_Willet,0.44828033,23.0,26.0
+Tringa semipalmata_Willet,0.3884812,24.0,27.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11010496,24.0,27.0
+Tringa semipalmata_Willet,0.34640902,27.0,30.0
+Porphyrio martinica_Purple Gallinule,0.12928312,27.0,30.0
+Tringa semipalmata_Willet,0.81574893,28.0,31.0
+Porphyrio martinica_Purple Gallinule,0.35831988,28.0,31.0
+Tringa semipalmata_Willet,0.28751808,29.0,32.0
+Porphyrio martinica_Purple Gallinule,0.27714482,29.0,32.0
+Tringa semipalmata_Willet,0.44210327,30.0,33.0
+Porphyrio martinica_Purple Gallinule,0.21140552,30.0,33.0
+Tringa semipalmata_Willet,0.68799627,31.0,34.0
+Tringa semipalmata_Willet,0.35080963,32.0,35.0
+Platalea ajaja_Roseate Spoonbill,0.16077536,32.0,35.0
+Porphyrio martinica_Purple Gallinule,0.11398056,32.0,35.0
+Tringa semipalmata_Willet,0.6728261,33.0,36.0
+Tringa semipalmata_Willet,0.88220435,34.0,37.0
+Scytalopus chocoensis_Choco Tapaculo,0.14099044,34.0,37.0
+Tringa semipalmata_Willet,0.71930844,35.0,38.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.21895757,35.0,38.0
+Tringa semipalmata_Willet,0.8634665,36.0,39.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18503906,36.0,39.0
+Tringa semipalmata_Willet,0.8837401,37.0,40.0
+Tringa semipalmata_Willet,0.9264206,38.0,41.0
+Scytalopus chocoensis_Choco Tapaculo,0.16372932,38.0,41.0
+Tringa semipalmata_Willet,0.8180828,39.0,42.0
+Tringa semipalmata_Willet,0.8907485,40.0,43.0
+Tringa semipalmata_Willet,0.96507704,41.0,44.0
+Tringa semipalmata_Willet,0.98949766,42.0,45.0
+Tringa semipalmata_Willet,0.98598886,43.0,46.0
+Tringa semipalmata_Willet,0.8693024,44.0,47.0
+Tringa semipalmata_Willet,0.7815849,45.0,48.0
+Tringa semipalmata_Willet,0.8457965,46.0,49.0
+Tringa semipalmata_Willet,0.6065429,47.0,50.0
+Tringa semipalmata_Willet,0.20721498,50.0,53.0
+Tringa semipalmata_Willet,0.46481007,51.0,54.0
+Tringa semipalmata_Willet,0.41386566,52.0,55.0
+Tringa semipalmata_Willet,0.87272495,53.0,56.0
+Tringa semipalmata_Willet,0.80155224,54.0,57.0
+Tringa semipalmata_Willet,0.8890233,55.0,58.0
+Tringa semipalmata_Willet,0.92815715,56.0,59.0
+Tringa semipalmata_Willet,0.96077716,57.0,60.0
+Tringa semipalmata_Willet,0.956558,58.0,61.0
+Tringa semipalmata_Willet,0.97821414,59.0,62.0
+Tringa semipalmata_Willet,0.9445558,60.0,63.0
+Tringa semipalmata_Willet,0.9529641,61.0,64.0
+Tringa semipalmata_Willet,0.76677704,62.0,65.0
+Tringa semipalmata_Willet,0.4682812,63.0,66.0
+Tringa semipalmata_Willet,0.22755669,64.0,67.0
+Tringa semipalmata_Willet,0.21500394,65.0,68.0

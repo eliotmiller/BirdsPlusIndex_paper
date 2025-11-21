@@ -1,0 +1,32 @@
+species,score,start_time,end_time
+Bucephala albeola_Bufflehead,0.15499565,0.0,3.0
+Bucephala albeola_Bufflehead,0.12950386,1.0,4.0
+Bucephala albeola_Bufflehead,0.2931086,2.0,5.0
+Anas platyrhynchos_Mallard,0.20041747,3.0,6.0
+Anas platyrhynchos_Mallard,0.49001494,4.0,7.0
+Anas platyrhynchos_Mallard,0.20088379,5.0,8.0
+Chroicocephalus ridibundus_Black-headed Gull,0.10104677,5.0,8.0
+Anas platyrhynchos_Mallard,0.25895655,6.0,9.0
+Anas platyrhynchos_Mallard,0.49978504,7.0,10.0
+Lophonetta specularioides_Crested Duck,0.14725265,7.0,10.0
+Anas platyrhynchos_Mallard,0.75539714,8.0,11.0
+Lophonetta specularioides_Crested Duck,0.3461958,8.0,11.0
+Histrionicus histrionicus_Harlequin Duck,0.18582305,8.0,11.0
+Anas platyrhynchos_Mallard,0.53887016,9.0,12.0
+Lophonetta specularioides_Crested Duck,0.4747995,9.0,12.0
+Anas platyrhynchos_Mallard,0.39651358,10.0,13.0
+Lophonetta specularioides_Crested Duck,0.27179298,10.0,13.0
+Anas platyrhynchos_Mallard,0.34024858,11.0,14.0
+Anas platyrhynchos_Mallard,0.26373756,12.0,15.0
+Histrionicus histrionicus_Harlequin Duck,0.41481745,13.0,16.0
+Anas platyrhynchos_Mallard,0.13146454,13.0,16.0
+Anas castanea_Chestnut Teal,0.10666099,13.0,16.0
+Melospiza melodia_Song Sparrow,0.16379134,21.0,24.0
+Melospiza melodia_Song Sparrow,0.23002957,22.0,25.0
+Poecile rufescens_Chestnut-backed Chickadee,0.15378569,24.0,27.0
+Bucephala albeola_Bufflehead,0.13884299,25.0,28.0
+Plectrophenax hyperboreus_McKay's Bunting,0.10820071,27.0,30.0
+Plectrophenax hyperboreus_McKay's Bunting,0.1153046,29.0,32.0
+Melospiza melodia_Song Sparrow,0.31456146,31.0,34.0
+Spizella breweri_Brewer's Sparrow,0.18702938,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.13557144,34.0,37.0

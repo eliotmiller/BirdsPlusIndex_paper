@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Chaetura vauxi_Vaux's Swift,0.31185132,1.0,4.0
+Chaetura vauxi_Vaux's Swift,0.12747318,3.0,6.0
+Acanthiza nana_Yellow Thornbill,0.12583481,4.0,7.0
+Leiothlypis peregrina_Tennessee Warbler,0.13647513,5.0,8.0
+Vermivora cyanoptera_Blue-winged Warbler,0.15370567,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30543196,16.0,19.0
+Setophaga dominica_Yellow-throated Warbler,0.13671005,16.0,19.0
+Pnoepyga albiventer_Scaly-breasted Cupwing,0.17258738,17.0,20.0
+Setophaga dominica_Yellow-throated Warbler,0.15658703,17.0,20.0
+Setophaga ruticilla_American Redstart,0.15290685,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106708564,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14268716,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17748877,21.0,24.0
+Bombycilla cedrorum_Cedar Waxwing,0.16437075,22.0,25.0
+Leiothlypis peregrina_Tennessee Warbler,0.13324924,22.0,25.0
+Vermivora chrysoptera_Golden-winged Warbler,0.23456271,27.0,30.0
+Vermivora chrysoptera_Golden-winged Warbler,0.17108375,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10626925,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12043248,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16516797,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12466577,36.0,39.0
+Peucaea aestivalis_Bachman's Sparrow,0.1781755,38.0,41.0
+Vermivora cyanoptera_Blue-winged Warbler,0.16718885,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.10049457,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.15890394,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.15247577,45.0,48.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10820347,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.11575967,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.13679186,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.12732129,52.0,55.0
+Setophaga townsendi_Townsend's Warbler,0.10853715,52.0,55.0
+Setophaga occidentalis_Hermit Warbler,0.101625204,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21741937,54.0,57.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20561966,55.0,58.0
+Pipilo erythrophthalmus_Eastern Towhee,0.42267188,56.0,59.0
+Vermivora chrysoptera_Golden-winged Warbler,0.18472242,56.0,59.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12460551,56.0,59.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18154405,58.0,61.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21923803,59.0,62.0
+Setophaga discolor_Prairie Warbler,0.113822214,59.0,62.0
+Pipilo erythrophthalmus_Eastern Towhee,0.37784597,60.0,63.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24928673,62.0,65.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10288111,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17249963,63.0,66.0
+Peucaea aestivalis_Bachman's Sparrow,0.1425208,63.0,66.0
+Pipilo erythrophthalmus_Eastern Towhee,0.121255435,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18268274,66.0,69.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11375536,67.0,70.0
+Bombycilla cedrorum_Cedar Waxwing,0.14650941,69.0,72.0
+Setophaga ruticilla_American Redstart,0.15484104,70.0,73.0
+Setophaga americana_Northern Parula,0.11999127,70.0,73.0
+Bombycilla cedrorum_Cedar Waxwing,0.12088605,71.0,74.0
+Setophaga ruticilla_American Redstart,0.10767109,71.0,74.0
+Setophaga dominica_Yellow-throated Warbler,0.15162846,72.0,75.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12225691,72.0,75.0
+Peucaea aestivalis_Bachman's Sparrow,0.22178514,73.0,76.0
+Bombycilla cedrorum_Cedar Waxwing,0.13567065,73.0,76.0
+Bombycilla cedrorum_Cedar Waxwing,0.27431583,74.0,77.0
+Peucaea aestivalis_Bachman's Sparrow,0.13086031,74.0,77.0
+Bombycilla cedrorum_Cedar Waxwing,0.14669867,75.0,78.0
+Cardellina canadensis_Canada Warbler,0.14746167,77.0,80.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10807544,88.0,91.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10591388,88.0,91.0
+Oporornis agilis_Connecticut Warbler,0.15407753,90.0,93.0
+Cardellina canadensis_Canada Warbler,0.15510887,102.0,105.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10378484,104.0,106.53600907029478

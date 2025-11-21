@@ -1,0 +1,223 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.44025,0.0,3.0
+Setophaga americana_Northern Parula,0.17757033,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.14319779,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5924534,1.0,4.0
+Corvus brachyrhynchos_American Crow,0.19480121,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.59810907,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.6026196,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.29911873,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.19665055,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10967536,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.36303473,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.28401044,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.18561569,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.100922406,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.2205807,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.11614643,7.0,10.0
+Pipilo erythrophthalmus_Eastern Towhee,0.62961835,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.54040545,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.40388572,8.0,11.0
+Troglodytes hiemalis_Winter Wren,0.15157373,8.0,11.0
+Cardinalis cardinalis_Northern Cardinal,0.15057245,8.0,11.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.101973325,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.7562586,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1752578,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.13028404,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.12450596,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.99148715,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.77403307,10.0,13.0
+Cardinalis cardinalis_Northern Cardinal,0.2196215,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.19856432,10.0,13.0
+Poecile atricapillus_Black-capped Chickadee,0.11008638,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.10277484,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.10066223,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.9810526,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.42592555,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.29235354,11.0,14.0
+Cardinalis cardinalis_Northern Cardinal,0.2391239,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.21447787,11.0,14.0
+Poecile atricapillus_Black-capped Chickadee,0.17747054,11.0,14.0
+Setophaga ruticilla_American Redstart,0.12558031,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.7280299,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.5106354,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.19247799,12.0,15.0
+Cardinalis cardinalis_Northern Cardinal,0.16790617,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13706173,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.12939905,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.21904215,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.15119725,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.92332447,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.28236535,14.0,17.0
+Cardinalis cardinalis_Northern Cardinal,0.11578055,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.9312827,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.3450734,15.0,18.0
+Turdus migratorius_American Robin,0.19681638,15.0,18.0
+Molothrus ater_Brown-headed Cowbird,0.12672095,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1126337,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.67576975,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40603507,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.19765866,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7628206,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.10925575,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5144725,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.7666104,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28305668,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.10683026,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18070376,20.0,23.0
+Corvus brachyrhynchos_American Crow,0.31705812,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.20817214,21.0,24.0
+Cardinalis cardinalis_Northern Cardinal,0.18306774,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.17069224,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.69009507,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.62324566,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.22024822,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11279787,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.9095669,23.0,26.0
+Corvus brachyrhynchos_American Crow,0.8903142,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.21414918,23.0,26.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.21163575,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.108602956,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10791177,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.9315825,24.0,27.0
+Corvus brachyrhynchos_American Crow,0.41608083,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.13907887,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.11100333,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.26232332,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.17573136,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.1654839,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.104074985,25.0,28.0
+Setophaga occidentalis_Hermit Warbler,0.3664271,30.0,33.0
+Piranga ludoviciana_Western Tanager,0.32854128,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.21481143,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.19137955,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.65368676,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.80175185,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.23405309,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.350386,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.23177104,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.14483832,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.12688628,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.86500275,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.6874364,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.67493546,34.0,37.0
+Poecile atricapillus_Black-capped Chickadee,0.11103143,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.9927511,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9025556,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.30368868,35.0,38.0
+Poecile atricapillus_Black-capped Chickadee,0.268502,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.1398854,35.0,38.0
+Cardinalis cardinalis_Northern Cardinal,0.13245821,35.0,38.0
+Corvus brachyrhynchos_American Crow,0.99747735,36.0,39.0
+Pipilo erythrophthalmus_Eastern Towhee,0.87256503,36.0,39.0
+Poecile atricapillus_Black-capped Chickadee,0.7033607,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.4550318,36.0,39.0
+Cardinalis cardinalis_Northern Cardinal,0.44909546,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.2949046,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.16254088,36.0,39.0
+Colaptes auratus_Northern Flicker,0.12571965,36.0,39.0
+Corvus brachyrhynchos_American Crow,0.99864477,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5808129,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.5771159,37.0,40.0
+Poecile atricapillus_Black-capped Chickadee,0.2462555,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.23224208,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.13319108,37.0,40.0
+Cardinalis cardinalis_Northern Cardinal,0.12222519,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.9951121,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.64268434,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.6389828,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14207014,38.0,41.0
+Molothrus ater_Brown-headed Cowbird,0.110270455,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.9791267,39.0,42.0
+Corvus brachyrhynchos_American Crow,0.9707893,39.0,42.0
+Molothrus ater_Brown-headed Cowbird,0.24457325,39.0,42.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1503875,39.0,42.0
+Cardinalis cardinalis_Northern Cardinal,0.12461134,39.0,42.0
+Corvus brachyrhynchos_American Crow,0.99640864,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.9794612,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22329557,40.0,43.0
+Cardinalis cardinalis_Northern Cardinal,0.19829334,40.0,43.0
+Molothrus ater_Brown-headed Cowbird,0.16395822,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.13791522,40.0,43.0
+Colaptes auratus_Northern Flicker,0.12998521,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.11308338,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.9789533,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.96786857,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.3577624,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1048924,41.0,44.0
+Molothrus ater_Brown-headed Cowbird,0.10411119,41.0,44.0
+Corvus brachyrhynchos_American Crow,0.92795795,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.7900124,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41846743,43.0,46.0
+Setophaga americana_Northern Parula,0.21552028,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.16000134,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4103665,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.12551764,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5586156,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.17446762,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.61101246,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27056414,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.19745247,46.0,49.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3605516,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.35310954,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.89301634,48.0,51.0
+Corvus brachyrhynchos_American Crow,0.81949323,48.0,51.0
+Pipilo erythrophthalmus_Eastern Towhee,0.6336824,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.22590792,48.0,51.0
+Cardinalis cardinalis_Northern Cardinal,0.21013527,48.0,51.0
+Poecile atricapillus_Black-capped Chickadee,0.14950319,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.104175545,48.0,51.0
+Corvus brachyrhynchos_American Crow,0.9253739,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.3191932,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.17257422,49.0,52.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12431142,49.0,52.0
+Cardinalis cardinalis_Northern Cardinal,0.12225325,49.0,52.0
+Corvus brachyrhynchos_American Crow,0.985436,50.0,53.0
+Corvus brachyrhynchos_American Crow,0.98376197,51.0,54.0
+Piranga ludoviciana_Western Tanager,0.498711,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.16880324,51.0,54.0
+Setophaga occidentalis_Hermit Warbler,0.12857385,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.11201386,51.0,54.0
+Corvus brachyrhynchos_American Crow,0.97854996,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.39721903,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.37245244,52.0,55.0
+Vireo olivaceus_Red-eyed Vireo,0.35522288,52.0,55.0
+Geothlypis formosa_Kentucky Warbler,0.32309946,52.0,55.0
+Setophaga citrina_Hooded Warbler,0.12729178,52.0,55.0
+Corvus brachyrhynchos_American Crow,0.9230058,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.51922643,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.25327668,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.10270566,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9157726,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9292506,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.25170654,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18901576,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15665373,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.7506109,58.0,61.0
+Corvus brachyrhynchos_American Crow,0.36340788,58.0,61.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24808578,58.0,61.0
+Poecile atricapillus_Black-capped Chickadee,0.12318039,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.99474156,59.0,62.0
+Corvus brachyrhynchos_American Crow,0.8688961,59.0,62.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19747594,59.0,62.0
+Cardinalis cardinalis_Northern Cardinal,0.17113353,59.0,62.0
+Poecile atricapillus_Black-capped Chickadee,0.14216198,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.9884416,60.0,63.0
+Corvus brachyrhynchos_American Crow,0.88163775,60.0,63.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5767073,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.13008499,60.0,63.0
+Poecile atricapillus_Black-capped Chickadee,0.10016126,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.77262986,61.0,64.0
+Corvus brachyrhynchos_American Crow,0.23715906,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.54613423,64.0,67.0
+Setophaga americana_Northern Parula,0.108097106,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.10380595,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8878821,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.14511672,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.6680702,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23127212,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.96657795,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.99185306,68.0,71.0
+Poecile atricapillus_Black-capped Chickadee,0.3730301,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.36797354,69.0,71.97600907029478
+Pipilo erythrophthalmus_Eastern Towhee,0.106501505,69.0,71.97600907029478

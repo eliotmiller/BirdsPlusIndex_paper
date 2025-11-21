@@ -1,0 +1,1172 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.29298988,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.13588229,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.42134422,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18135333,1.0,4.0
+Icterus galbula_Baltimore Oriole,0.47735727,2.0,5.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5034533,3.0,6.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16239236,3.0,6.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6059464,4.0,7.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.45265785,4.0,7.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6050482,5.0,8.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7826904,6.0,9.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24381757,6.0,9.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7294415,7.0,10.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5340032,7.0,10.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.84931886,8.0,11.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8678611,9.0,12.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.26988927,9.0,12.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8440443,10.0,13.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.34273937,10.0,13.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.100818045,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30580714,12.0,15.0
+Tamias striatus_Eastern Chipmunk,0.24413161,12.0,15.0
+Empidonax minimus_Least Flycatcher,0.11225313,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28071997,13.0,16.0
+Tamias striatus_Eastern Chipmunk,0.22395246,13.0,16.0
+Empidonax minimus_Least Flycatcher,0.112058744,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.1052307,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31916165,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.17138469,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.12444124,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25286582,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.1367289,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.2953417,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29166177,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1351125,16.0,19.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.47293517,17.0,20.0
+Icterus galbula_Baltimore Oriole,0.42776036,17.0,20.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.58078504,18.0,21.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.92479783,19.0,22.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17360276,19.0,22.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.84977806,20.0,23.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5084555,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43162978,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8795133,22.0,25.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.42335576,22.0,25.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.12520759,22.0,25.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8143783,23.0,26.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.21989493,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.34836963,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20761538,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.11804497,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3660456,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.15670264,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.46531492,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.111404896,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10353423,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.10253182,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23093575,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19507018,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.17005403,28.0,31.0
+Geothlypis philadelphia_Mourning Warbler,0.11409149,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25042945,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5490237,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.17031837,30.0,33.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4492193,31.0,34.0
+Icterus galbula_Baltimore Oriole,0.27311194,31.0,34.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.767452,32.0,35.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9298378,33.0,36.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22473861,33.0,36.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.82602364,34.0,37.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.25568527,34.0,37.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.75890696,35.0,38.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4545022,35.0,38.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.62618506,36.0,39.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.54401964,36.0,39.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6166177,37.0,40.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.58735234,37.0,40.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8016368,38.0,41.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1604296,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.17078057,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17003906,40.0,43.0
+Buteo platypterus_Broad-winged Hawk,0.19716126,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23110539,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17366046,43.0,46.0
+Catharus fuscescens_Veery,0.13489404,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.10280196,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30796537,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.26489598,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7458759,45.0,48.0
+Icterus galbula_Baltimore Oriole,0.34913954,45.0,48.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8335626,46.0,49.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.84414166,47.0,50.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.106687464,47.0,50.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4636497,48.0,51.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.25637513,48.0,51.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.79542935,49.0,52.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35010213,49.0,52.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6309925,50.0,53.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.52517045,50.0,53.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7523183,51.0,54.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1056294,51.0,54.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.83549494,52.0,55.0
+Icterus galbula_Baltimore Oriole,0.19866875,53.0,56.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1340274,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.3420778,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15618782,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.42441362,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1008237,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122024976,56.0,59.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5755553,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10210189,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.55763364,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19260089,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.11390689,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37582347,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29195017,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.28879806,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.1240362,59.0,62.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.68069756,60.0,63.0
+Icterus galbula_Baltimore Oriole,0.30781168,60.0,63.0
+Piranga rubra_Summer Tanager,0.12925848,60.0,63.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.51291716,61.0,64.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8675872,62.0,65.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.133695,62.0,65.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.107000664,62.0,65.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.64124924,63.0,66.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.503085,63.0,66.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.1599179,63.0,66.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8923172,64.0,67.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.26289055,64.0,67.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.69411707,65.0,68.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5262504,65.0,68.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.58178574,66.0,69.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.21253572,66.0,69.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.85242283,67.0,70.0
+Piranga olivacea_Scarlet Tanager,0.37370005,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25535208,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.23564072,69.0,72.0
+Piranga olivacea_Scarlet Tanager,0.15083785,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1237346,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14738505,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12858921,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.10725042,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22737582,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36566088,72.0,75.0
+Setophaga citrina_Hooded Warbler,0.22634731,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20654587,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.17725751,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.13869143,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.35103962,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17738332,74.0,77.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11775045,74.0,77.0
+Setophaga magnolia_Magnolia Warbler,0.10308473,74.0,77.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.48229384,75.0,78.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.14898245,75.0,78.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.60025746,76.0,79.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5380285,76.0,79.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.89324117,77.0,80.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.44824952,77.0,80.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.74977595,78.0,81.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3046428,78.0,81.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.78730905,79.0,82.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.49667057,79.0,82.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.97122866,80.0,83.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.81505334,81.0,84.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21069129,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18201537,83.0,86.0
+Setophaga magnolia_Magnolia Warbler,0.14636393,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.156217,84.0,87.0
+Setophaga citrina_Hooded Warbler,0.12234287,84.0,87.0
+Catharus fuscescens_Veery,0.4089527,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12958722,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.10686396,85.0,88.0
+Cyanolyca pumilo_Black-throated Jay,0.12252037,86.0,89.0
+Piranga olivacea_Scarlet Tanager,0.23583421,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18042445,88.0,91.0
+Piranga olivacea_Scarlet Tanager,0.101837784,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23280287,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.28980908,90.0,93.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20235284,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1269777,90.0,93.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.30505976,91.0,94.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4672761,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.12860723,92.0,95.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23419333,93.0,96.0
+Setophaga fusca_Blackburnian Warbler,0.18289861,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18174627,93.0,96.0
+Setophaga magnolia_Magnolia Warbler,0.12665573,93.0,96.0
+Setophaga citrina_Hooded Warbler,0.3263624,94.0,97.0
+Setophaga citrina_Hooded Warbler,0.2388768,95.0,98.0
+Icterus galbula_Baltimore Oriole,0.35072598,97.0,100.0
+Turdus cardis_Japanese Thrush,0.11135218,97.0,100.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.44746283,98.0,101.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.86095583,99.0,102.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24899782,99.0,102.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9474168,100.0,103.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24599724,100.0,103.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8944833,101.0,104.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.440268,101.0,104.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5074632,102.0,105.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.19094664,102.0,105.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6043779,103.0,106.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.86035776,104.0,107.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.64192957,104.0,107.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1424048,104.0,107.0
+Setophaga citrina_Hooded Warbler,0.23787981,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17405647,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.12074899,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21972485,107.0,110.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21849363,108.0,111.0
+Icterus galbula_Baltimore Oriole,0.10392309,108.0,111.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.83135283,109.0,112.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9600942,110.0,113.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6478609,111.0,114.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.55659205,111.0,114.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8612508,112.0,115.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2784337,112.0,115.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8835226,113.0,116.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35740516,113.0,116.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36696464,114.0,117.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3407673,114.0,117.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.17999364,114.0,117.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.81585604,115.0,118.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21218787,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.4358184,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2500364,117.0,120.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15070549,117.0,120.0
+Setophaga fusca_Blackburnian Warbler,0.12172645,117.0,120.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29714435,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25005966,118.0,121.0
+Setophaga fusca_Blackburnian Warbler,0.13103274,118.0,121.0
+Setophaga cerulea_Cerulean Warbler,0.10859684,118.0,121.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4415936,119.0,122.0
+Setophaga fusca_Blackburnian Warbler,0.1457586,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121655695,119.0,122.0
+Icterus galbula_Baltimore Oriole,0.20683236,120.0,123.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8259777,121.0,124.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.79989374,122.0,125.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8669261,123.0,126.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.853466,124.0,127.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2660279,124.0,127.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8278136,125.0,128.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.14134324,125.0,128.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.11335023,125.0,128.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9510738,126.0,129.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8031314,127.0,130.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5963796,128.0,131.0
+Geothlypis philadelphia_Mourning Warbler,0.14945458,128.0,131.0
+Parkesia motacilla_Louisiana Waterthrush,0.18929993,129.0,132.0
+Cardellina canadensis_Canada Warbler,0.14313081,129.0,132.0
+Mniotilta varia_Black-and-white Warbler,0.15719408,131.0,134.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9647521,132.0,135.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.74963754,133.0,136.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3429214,133.0,136.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8917421,134.0,137.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14020284,134.0,137.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7815312,135.0,138.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2447281,135.0,138.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7519547,136.0,139.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3547919,136.0,139.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6531331,137.0,140.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.14828925,137.0,140.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7403741,138.0,141.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.17083506,138.0,141.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.943161,139.0,142.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.10111432,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.106904946,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11169357,143.0,146.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.10850599,144.0,147.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7995462,145.0,148.0
+Icterus galbula_Baltimore Oriole,0.22970848,145.0,148.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.32776874,146.0,149.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24718101,146.0,149.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8213134,147.0,150.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17659874,147.0,150.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.868934,148.0,151.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15435442,148.0,151.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7640721,149.0,152.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.31641573,149.0,152.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6868445,150.0,153.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.33856586,150.0,153.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.71013707,151.0,154.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.13795558,151.0,154.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.13292997,151.0,154.0
+Piranga olivacea_Scarlet Tanager,0.29528335,153.0,156.0
+Setophaga cerulea_Cerulean Warbler,0.1562125,153.0,156.0
+Piranga olivacea_Scarlet Tanager,0.27821633,154.0,157.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11425909,154.0,157.0
+Tamias striatus_Eastern Chipmunk,0.23862465,156.0,159.0
+Tamias striatus_Eastern Chipmunk,0.3265456,157.0,160.0
+Tamias striatus_Eastern Chipmunk,0.20661205,158.0,161.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18207537,159.0,162.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.11576985,159.0,162.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14475171,160.0,163.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5659774,161.0,164.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.31730145,162.0,165.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36348477,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1736574,166.0,169.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8643494,167.0,170.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9285144,168.0,171.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27741608,168.0,171.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9692239,169.0,172.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.782584,170.0,173.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.32698327,170.0,173.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.55467373,171.0,174.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4560779,171.0,174.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.64414173,172.0,175.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.16215643,172.0,175.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5045421,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13681051,174.0,177.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2117205,175.0,178.0
+Setophaga virens_Black-throated Green Warbler,0.1823383,175.0,178.0
+Setophaga fusca_Blackburnian Warbler,0.13040146,175.0,178.0
+Seiurus aurocapilla_Ovenbird,0.10193784,175.0,178.0
+Seiurus aurocapilla_Ovenbird,0.49080366,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17167325,176.0,179.0
+Seiurus aurocapilla_Ovenbird,0.50721246,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12866908,177.0,180.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.27595487,179.0,182.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18396686,179.0,182.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6441145,180.0,183.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15467267,180.0,183.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.84177834,181.0,184.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.110859595,181.0,184.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8117782,182.0,185.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1657221,182.0,185.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8858883,183.0,186.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.81924486,184.0,187.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.10552442,184.0,187.0
+Setophaga fusca_Blackburnian Warbler,0.16996166,185.0,188.0
+Setophaga magnolia_Magnolia Warbler,0.12614083,185.0,188.0
+Setophaga fusca_Blackburnian Warbler,0.6002561,186.0,189.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15028761,187.0,190.0
+Setophaga cerulea_Cerulean Warbler,0.122233264,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106510535,187.0,190.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8276619,188.0,191.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.20092566,188.0,191.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7560604,189.0,192.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5911622,189.0,192.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.87555224,190.0,193.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.29990816,190.0,193.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6784911,191.0,194.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.50778824,191.0,194.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8162727,192.0,195.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.57121587,192.0,195.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.18904701,193.0,196.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12368931,193.0,196.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3495124,194.0,197.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.334979,194.0,197.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.56565166,195.0,198.0
+Vireo brevipennis_Slaty Vireo,0.25999,195.0,198.0
+Setophaga citrina_Hooded Warbler,0.8078722,196.0,199.0
+Setophaga magnolia_Magnolia Warbler,0.19377743,196.0,199.0
+Setophaga citrina_Hooded Warbler,0.7372906,197.0,200.0
+Setophaga magnolia_Magnolia Warbler,0.38713884,197.0,200.0
+Setophaga citrina_Hooded Warbler,0.9030048,198.0,201.0
+Setophaga magnolia_Magnolia Warbler,0.1240571,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20574464,199.0,202.0
+Setophaga fusca_Blackburnian Warbler,0.10428216,199.0,202.0
+Icterus galbula_Baltimore Oriole,0.6818943,200.0,203.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11402011,200.0,203.0
+Dumetella carolinensis_Gray Catbird,0.11286708,200.0,203.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.620439,201.0,204.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40719768,202.0,205.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.36774614,202.0,205.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8378582,203.0,206.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15894702,203.0,206.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.679634,204.0,207.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43402824,204.0,207.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.10487649,204.0,207.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.75552,205.0,208.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4043699,205.0,208.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.79134697,206.0,209.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.138866,206.0,209.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4717925,207.0,210.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.38203937,207.0,210.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.20901708,208.0,211.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16796182,208.0,211.0
+Setophaga citrina_Hooded Warbler,0.8230096,209.0,212.0
+Setophaga magnolia_Magnolia Warbler,0.32979465,209.0,212.0
+Setophaga citrina_Hooded Warbler,0.8137357,210.0,213.0
+Setophaga magnolia_Magnolia Warbler,0.24418971,210.0,213.0
+Mniotilta varia_Black-and-white Warbler,0.18095236,211.0,214.0
+Colluricincla harmonica_Gray Shrikethrush,0.14078368,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16243765,212.0,215.0
+Setophaga fusca_Blackburnian Warbler,0.13007595,212.0,215.0
+Mniotilta varia_Black-and-white Warbler,0.12481999,212.0,215.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5254955,213.0,216.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.15925157,213.0,216.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8220273,214.0,217.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.415261,214.0,217.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9371891,215.0,218.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.80283993,216.0,219.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37618938,216.0,219.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7657745,217.0,220.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.32727215,217.0,220.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.103643745,217.0,220.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.88094735,218.0,221.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9255203,219.0,222.0
+Parkesia motacilla_Louisiana Waterthrush,0.9181276,220.0,223.0
+Setophaga virens_Black-throated Green Warbler,0.106744,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19378328,222.0,225.0
+Setophaga fusca_Blackburnian Warbler,0.10398419,222.0,225.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.61544585,223.0,226.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.6487435,224.0,227.0
+Icterus galbula_Baltimore Oriole,0.4095891,225.0,228.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7871243,226.0,229.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4040963,227.0,230.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.28271535,227.0,230.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.15148151,227.0,230.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.75262815,228.0,231.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.117799595,228.0,231.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8019803,229.0,232.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.40023124,229.0,232.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.83572733,230.0,233.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.542649,231.0,234.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.38154128,231.0,234.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.76555055,232.0,235.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.67420334,232.0,235.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.44794655,232.0,235.0
+Setophaga fusca_Blackburnian Warbler,0.1513223,233.0,236.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1388655,233.0,236.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8647468,234.0,237.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8271726,235.0,238.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.85484797,236.0,239.0
+Seiurus aurocapilla_Ovenbird,0.290895,237.0,240.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25922355,237.0,240.0
+Mniotilta varia_Black-and-white Warbler,0.16987929,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14262372,237.0,240.0
+Setophaga fusca_Blackburnian Warbler,0.14143449,237.0,240.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7907614,238.0,241.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.17253488,238.0,241.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8961921,239.0,242.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.68116075,240.0,243.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5021829,240.0,243.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.78007346,241.0,244.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7610775,241.0,244.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7954203,242.0,245.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.67913073,242.0,245.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.1020073,242.0,245.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8464967,243.0,246.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2579921,243.0,246.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.13413863,243.0,246.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9709481,244.0,247.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.50417554,245.0,248.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.85326964,246.0,249.0
+Seiurus aurocapilla_Ovenbird,0.5609334,247.0,250.0
+Setophaga fusca_Blackburnian Warbler,0.1596995,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14750071,247.0,250.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13204966,247.0,250.0
+Setophaga virens_Black-throated Green Warbler,0.113597326,247.0,250.0
+Vireo solitarius_Blue-headed Vireo,0.32302606,248.0,251.0
+Seiurus aurocapilla_Ovenbird,0.12655663,248.0,251.0
+Setophaga citrina_Hooded Warbler,0.590321,249.0,252.0
+Setophaga magnolia_Magnolia Warbler,0.22120872,249.0,252.0
+Setophaga citrina_Hooded Warbler,0.8869242,250.0,253.0
+Setophaga magnolia_Magnolia Warbler,0.27097058,250.0,253.0
+Setophaga citrina_Hooded Warbler,0.6997231,251.0,254.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.29119775,252.0,255.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3319237,253.0,256.0
+Turdus boulboul_Gray-winged Blackbird,0.15212083,253.0,256.0
+Icterus galbula_Baltimore Oriole,0.11684097,253.0,256.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35903558,254.0,257.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.94331086,255.0,258.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17119709,255.0,258.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.80509335,256.0,259.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6848054,256.0,259.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.82289654,257.0,260.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.25026855,257.0,260.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.87839574,258.0,261.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.16185714,258.0,261.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.63946015,259.0,262.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.39762828,259.0,262.0
+Setophaga citrina_Hooded Warbler,0.9144689,260.0,263.0
+Setophaga citrina_Hooded Warbler,0.97152406,261.0,264.0
+Setophaga citrina_Hooded Warbler,0.75727355,262.0,265.0
+Setophaga fusca_Blackburnian Warbler,0.15803453,263.0,266.0
+Piranga olivacea_Scarlet Tanager,0.77240705,264.0,267.0
+Piranga olivacea_Scarlet Tanager,0.44488427,265.0,268.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.33579737,266.0,269.0
+Piranga olivacea_Scarlet Tanager,0.21877904,266.0,269.0
+Icterus galbula_Baltimore Oriole,0.3397269,267.0,270.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7277876,269.0,272.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.80112725,270.0,273.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4612849,271.0,274.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2837738,271.0,274.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.678135,272.0,275.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2388316,272.0,275.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4546453,273.0,276.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7360107,274.0,277.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.13763951,274.0,277.0
+Setophaga citrina_Hooded Warbler,0.49437323,275.0,278.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3035275,275.0,278.0
+Setophaga citrina_Hooded Warbler,0.79345906,276.0,279.0
+Setophaga magnolia_Magnolia Warbler,0.23659788,276.0,279.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.95329237,277.0,280.0
+Icterus galbula_Baltimore Oriole,0.3390938,278.0,281.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21562366,278.0,281.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.70779014,279.0,282.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7361924,280.0,283.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.81587124,281.0,284.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7515715,282.0,285.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30198738,282.0,285.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.659046,283.0,286.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.37069243,283.0,286.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.1207685,283.0,286.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.45154014,284.0,287.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.112553634,284.0,287.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11529427,285.0,288.0
+Setophaga citrina_Hooded Warbler,0.80630237,286.0,289.0
+Setophaga citrina_Hooded Warbler,0.35971707,287.0,290.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10989054,287.0,290.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9636436,288.0,291.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.88267297,289.0,292.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.93655354,290.0,293.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.81747085,291.0,294.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18312542,291.0,294.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14271697,292.0,295.0
+Setophaga fusca_Blackburnian Warbler,0.10693177,292.0,295.0
+Vireo solitarius_Blue-headed Vireo,0.10415336,293.0,296.0
+Setophaga citrina_Hooded Warbler,0.24303588,294.0,297.0
+Melanotis caerulescens_Blue Mockingbird,0.10128393,294.0,297.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23132105,295.0,298.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.13572042,295.0,298.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.34161574,296.0,299.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.16586168,297.0,300.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12503313,297.0,300.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.41819608,298.0,301.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.28777865,298.0,301.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5126851,299.0,302.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.23425443,299.0,302.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.2240964,299.0,302.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5915176,300.0,303.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.13532108,300.0,303.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8854018,301.0,304.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21638452,301.0,304.0
+Cyanoloxia cyanoides_Blue-black Grosbeak,0.10551483,301.0,304.0
+Seiurus aurocapilla_Ovenbird,0.12975252,302.0,305.0
+Setophaga citrina_Hooded Warbler,0.7480653,304.0,307.0
+Setophaga citrina_Hooded Warbler,0.6630555,305.0,308.0
+Setophaga citrina_Hooded Warbler,0.49081108,306.0,309.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2146772,307.0,310.0
+Setophaga fusca_Blackburnian Warbler,0.14119333,307.0,310.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.50416166,308.0,311.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9343237,309.0,312.0
+Icterus galbula_Baltimore Oriole,0.33256346,310.0,313.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1755508,310.0,313.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14844269,310.0,313.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35658738,311.0,314.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.55209756,312.0,315.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.922015,313.0,316.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18410365,314.0,317.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.16793543,314.0,317.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30617183,315.0,318.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.111060284,315.0,318.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.56525546,316.0,319.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27742285,316.0,319.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6878037,317.0,320.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.22260766,317.0,320.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.78296787,318.0,321.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.34395236,318.0,321.0
+Setophaga cerulea_Cerulean Warbler,0.16174565,319.0,322.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12651095,319.0,322.0
+Piranga olivacea_Scarlet Tanager,0.12441323,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11775793,319.0,322.0
+Setophaga fusca_Blackburnian Warbler,0.105482966,319.0,322.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.3046573,320.0,323.0
+Piranga olivacea_Scarlet Tanager,0.15684731,320.0,323.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10952536,320.0,323.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.2149873,321.0,324.0
+Tamias striatus_Eastern Chipmunk,0.15725358,321.0,324.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.14745265,321.0,324.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.4485597,322.0,325.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1673318,323.0,326.0
+Icterus galbula_Baltimore Oriole,0.13995151,323.0,326.0
+Icterus galbula_Baltimore Oriole,0.42213526,324.0,327.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22573216,324.0,327.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.278106,325.0,328.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22012879,325.0,328.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.81842434,326.0,329.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.59750175,327.0,330.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.41368666,328.0,331.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20551428,328.0,331.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.72249776,329.0,332.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.74212533,330.0,333.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.110514134,330.0,333.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19248371,331.0,334.0
+Setophaga citrina_Hooded Warbler,0.4577898,332.0,335.0
+Setophaga citrina_Hooded Warbler,0.47572514,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11796901,334.0,337.0
+Setophaga citrina_Hooded Warbler,0.11623381,334.0,337.0
+Piranga olivacea_Scarlet Tanager,0.3243361,335.0,338.0
+Setophaga fusca_Blackburnian Warbler,0.102127306,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10086528,335.0,338.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.91416806,336.0,339.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27000803,337.0,340.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1075938,337.0,340.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.693759,338.0,341.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2970916,338.0,341.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.46223584,339.0,342.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14283934,339.0,342.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.66324997,340.0,343.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5747099,340.0,343.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.56557435,341.0,344.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1016669,341.0,344.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.35952246,342.0,345.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.67785096,343.0,346.0
+Setophaga citrina_Hooded Warbler,0.43538234,344.0,347.0
+Cardellina canadensis_Canada Warbler,0.107674524,345.0,348.0
+Piranga olivacea_Scarlet Tanager,0.101145245,345.0,348.0
+Piranga olivacea_Scarlet Tanager,0.13264984,347.0,350.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5031299,348.0,351.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.94845754,349.0,352.0
+Icterus galbula_Baltimore Oriole,0.6994916,350.0,353.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.14610504,350.0,353.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27250296,351.0,354.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24084735,351.0,354.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.66372323,352.0,355.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19066288,352.0,355.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.80535674,353.0,356.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6220156,354.0,357.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.45762157,354.0,357.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.64460766,355.0,358.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2363094,355.0,358.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1695464,355.0,358.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.49955228,356.0,359.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16521639,356.0,359.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.7801616,357.0,360.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2074398,358.0,361.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.124209344,358.0,361.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.88812464,359.0,362.0
+Setophaga citrina_Hooded Warbler,0.4120378,360.0,363.0
+Setophaga citrina_Hooded Warbler,0.72514987,361.0,364.0
+Icterus galbula_Baltimore Oriole,0.70023906,362.0,365.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.56226206,362.0,365.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8892834,363.0,366.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6997669,364.0,367.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.11026772,364.0,367.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.13656993,365.0,368.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.10863584,365.0,368.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.18774123,366.0,369.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12848917,366.0,369.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.7288812,367.0,370.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.114580914,367.0,370.0
+Perisoreus canadensis_Canada Jay,0.11716259,368.0,371.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23201557,369.0,372.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.15630442,369.0,372.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11037845,370.0,373.0
+Setophaga citrina_Hooded Warbler,0.73683685,371.0,374.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5707089,372.0,375.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.36517727,372.0,375.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5414113,373.0,376.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.10052636,373.0,376.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.46872368,374.0,377.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17685188,374.0,377.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.512469,375.0,378.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43792346,375.0,378.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3632331,376.0,379.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.23554793,376.0,379.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.12907656,376.0,379.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.34577334,377.0,380.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24003772,377.0,380.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.620656,378.0,381.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.44495445,378.0,381.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9296072,379.0,382.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21888253,379.0,382.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.40782103,380.0,383.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8916036,381.0,384.0
+Seiurus aurocapilla_Ovenbird,0.14675345,381.0,384.0
+Setophaga citrina_Hooded Warbler,0.44645855,382.0,385.0
+Setophaga citrina_Hooded Warbler,0.83521974,383.0,386.0
+Setophaga citrina_Hooded Warbler,0.51358503,384.0,387.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.25077477,385.0,388.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8846001,386.0,389.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.78413904,387.0,390.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.12560406,387.0,390.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7705279,388.0,391.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.60415727,388.0,391.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.78108025,389.0,392.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2186124,389.0,392.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.48291042,390.0,393.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.33631575,390.0,393.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2938136,391.0,394.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.15814091,391.0,394.0
+Setophaga citrina_Hooded Warbler,0.17589188,393.0,396.0
+Setophaga fusca_Blackburnian Warbler,0.33276322,396.0,399.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22736539,396.0,399.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1393505,396.0,399.0
+Setophaga castanea_Bay-breasted Warbler,0.10813583,396.0,399.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.30689603,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1196526,397.0,400.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16108818,398.0,401.0
+Lampornis sybillae_Green-breasted Mountain-gem,0.13731252,399.0,402.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23610127,400.0,403.0
+Setophaga citrina_Hooded Warbler,0.2578973,401.0,404.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13563046,401.0,404.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7808859,402.0,405.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8517493,403.0,406.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7294628,404.0,407.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.31813523,404.0,407.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5948994,405.0,408.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5821322,405.0,408.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.79688305,406.0,409.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.73939174,406.0,409.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.34027037,407.0,410.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.19710481,407.0,410.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.14844906,407.0,410.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.71781355,408.0,411.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.10458463,408.0,411.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5626591,409.0,412.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.3687992,409.0,412.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22330882,410.0,413.0
+Dryobates villosus_Hairy Woodpecker,0.11424989,410.0,413.0
+Setophaga cerulea_Cerulean Warbler,0.20904121,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20387484,412.0,415.0
+Setophaga citrina_Hooded Warbler,0.13856652,412.0,415.0
+Dryobates villosus_Hairy Woodpecker,0.111746244,413.0,416.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.79544383,414.0,417.0
+Icterus galbula_Baltimore Oriole,0.6710614,414.0,417.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6531394,415.0,418.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.45290223,415.0,418.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8017512,416.0,419.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22750744,416.0,419.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.15498145,416.0,419.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.84183633,417.0,420.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6679265,418.0,421.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6287023,418.0,421.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6805508,419.0,422.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.44776964,419.0,422.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.16523801,419.0,422.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4661395,420.0,423.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.16541018,420.0,423.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7602951,421.0,424.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.13533378,421.0,424.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15610938,422.0,425.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10203144,423.0,426.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20532168,424.0,427.0
+Setophaga cerulea_Cerulean Warbler,0.10993338,424.0,427.0
+Icterus galbula_Baltimore Oriole,0.64272904,425.0,428.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5178088,426.0,429.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.93669224,427.0,430.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8915585,428.0,431.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18861902,428.0,431.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.69944066,429.0,432.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3612042,429.0,432.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30985194,430.0,433.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.28059977,430.0,433.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.22243218,430.0,433.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.60579455,431.0,434.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.37514257,431.0,434.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.23861305,431.0,434.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.90499043,432.0,435.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24250352,432.0,435.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21919352,432.0,435.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14094408,433.0,436.0
+Buteo platypterus_Broad-winged Hawk,0.1373973,433.0,436.0
+Setophaga virens_Black-throated Green Warbler,0.103703454,433.0,436.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17863318,434.0,437.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15672104,434.0,437.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14457083,435.0,438.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116661295,435.0,438.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3310444,436.0,439.0
+Setophaga magnolia_Magnolia Warbler,0.10288055,436.0,439.0
+Icterus galbula_Baltimore Oriole,0.72491145,437.0,440.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23311928,437.0,440.0
+Piranga rubra_Summer Tanager,0.119985364,437.0,440.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3589207,438.0,441.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4291825,439.0,442.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.74296564,440.0,443.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20236038,440.0,443.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5165044,441.0,444.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.45051208,441.0,444.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.60586005,442.0,445.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27773452,442.0,445.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.21678911,442.0,445.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7253828,443.0,446.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21120185,443.0,446.0
+Icterus galbula_Baltimore Oriole,0.5278041,444.0,447.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.42120105,444.0,447.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.90539443,445.0,448.0
+Setophaga cerulea_Cerulean Warbler,0.12700613,445.0,448.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7867608,446.0,449.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19578792,446.0,449.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.66799784,447.0,450.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25468516,448.0,451.0
+Setophaga fusca_Blackburnian Warbler,0.15739016,448.0,451.0
+Setophaga cerulea_Cerulean Warbler,0.1245928,448.0,451.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20698568,449.0,452.0
+Setophaga fusca_Blackburnian Warbler,0.15778896,449.0,452.0
+Tamias striatus_Eastern Chipmunk,0.28192908,450.0,453.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2662177,450.0,453.0
+Setophaga fusca_Blackburnian Warbler,0.13926724,450.0,453.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.107691124,450.0,453.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19806702,451.0,454.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15956776,451.0,454.0
+Tamias striatus_Eastern Chipmunk,0.13541879,451.0,454.0
+Setophaga fusca_Blackburnian Warbler,0.121158704,451.0,454.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28042898,452.0,455.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.21358451,452.0,455.0
+Setophaga fusca_Blackburnian Warbler,0.12389849,452.0,455.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18567936,453.0,456.0
+Setophaga virens_Black-throated Green Warbler,0.14318994,453.0,456.0
+Setophaga fusca_Blackburnian Warbler,0.113388754,453.0,456.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19150247,454.0,457.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11411867,455.0,458.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46567985,456.0,459.0
+Tamias striatus_Eastern Chipmunk,0.10537407,456.0,459.0
+Icterus galbula_Baltimore Oriole,0.22036968,457.0,460.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3681063,458.0,461.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.79214215,459.0,462.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21543111,459.0,462.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.72416085,460.0,463.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.59744143,461.0,464.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3380682,461.0,464.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.13525958,461.0,464.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.41611722,462.0,465.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.38939518,462.0,465.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3085658,463.0,466.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24964093,464.0,467.0
+Setophaga fusca_Blackburnian Warbler,0.1761267,464.0,467.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38918424,465.0,468.0
+Setophaga fusca_Blackburnian Warbler,0.14644454,465.0,468.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23641443,466.0,469.0
+Setophaga fusca_Blackburnian Warbler,0.10521828,466.0,469.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2780159,467.0,470.0
+Setophaga fusca_Blackburnian Warbler,0.21574761,467.0,470.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22614925,468.0,471.0
+Setophaga virens_Black-throated Green Warbler,0.15857936,468.0,471.0
+Setophaga fusca_Blackburnian Warbler,0.15035468,468.0,471.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21271667,469.0,472.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6734258,470.0,473.0
+Icterus galbula_Baltimore Oriole,0.42559418,470.0,473.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8414022,471.0,474.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.40131617,472.0,475.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.38691515,472.0,475.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4838538,473.0,476.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36662194,473.0,476.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8554901,474.0,477.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.510325,474.0,477.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.76825595,475.0,478.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24640162,475.0,478.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9247822,476.0,479.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35957387,476.0,479.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8435725,477.0,480.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.114769205,477.0,480.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.88605875,478.0,481.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43328092,478.0,481.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.18570721,478.0,481.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23313095,479.0,482.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25644922,480.0,483.0
+Setophaga virens_Black-throated Green Warbler,0.19883677,480.0,483.0
+Setophaga fusca_Blackburnian Warbler,0.16576731,480.0,483.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8173078,481.0,484.0
+Setophaga fusca_Blackburnian Warbler,0.11182296,481.0,484.0
+Setophaga cerulea_Cerulean Warbler,0.104062654,481.0,484.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7820128,482.0,485.0
+Setophaga fusca_Blackburnian Warbler,0.44183484,482.0,485.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6589283,483.0,486.0
+Setophaga fusca_Blackburnian Warbler,0.25612846,483.0,486.0
+Setophaga cerulea_Cerulean Warbler,0.17492594,483.0,486.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32777828,484.0,487.0
+Setophaga fusca_Blackburnian Warbler,0.27698216,484.0,487.0
+Setophaga cerulea_Cerulean Warbler,0.12913874,484.0,487.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8610702,485.0,488.0
+Icterus galbula_Baltimore Oriole,0.15985587,485.0,488.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7899529,486.0,489.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.102862075,486.0,489.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4710447,487.0,490.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13248923,487.0,490.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8586839,488.0,491.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13560843,488.0,491.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.90016174,489.0,492.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3645094,489.0,492.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9163529,490.0,493.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.12025172,490.0,493.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9252647,491.0,494.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.18744302,491.0,494.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7821416,493.0,496.0
+Setophaga cerulea_Cerulean Warbler,0.109208405,493.0,496.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7521985,494.0,497.0
+Setophaga cerulea_Cerulean Warbler,0.35024297,494.0,497.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8087379,496.0,499.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.88843125,497.0,500.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.31478536,497.0,500.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7557384,498.0,501.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17131014,498.0,501.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6666971,499.0,502.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.61473614,499.0,502.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8751634,500.0,503.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.34980404,500.0,503.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.14028877,500.0,503.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1382841,500.0,503.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9559858,501.0,504.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.87608075,502.0,505.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21150321,502.0,505.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.122921765,502.0,505.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17342333,503.0,506.0
+Setophaga virens_Black-throated Green Warbler,0.15193513,503.0,506.0
+Buteo platypterus_Broad-winged Hawk,0.111838445,503.0,506.0
+Setophaga fusca_Blackburnian Warbler,0.10600854,503.0,506.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21631497,504.0,507.0
+Setophaga citrina_Hooded Warbler,0.13134728,504.0,507.0
+Setophaga virens_Black-throated Green Warbler,0.11669361,504.0,507.0
+Setophaga fusca_Blackburnian Warbler,0.21409029,505.0,508.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18225221,505.0,508.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.402299,506.0,509.0
+Setophaga fusca_Blackburnian Warbler,0.21398288,506.0,509.0
+Setophaga cerulea_Cerulean Warbler,0.104338944,506.0,509.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5398302,507.0,510.0
+Icterus galbula_Baltimore Oriole,0.11314138,507.0,510.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.29170245,509.0,512.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.20480184,509.0,512.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13397038,509.0,512.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.68050176,510.0,513.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.26085833,510.0,513.0
+Pheucticus chrysogaster_Golden Grosbeak,0.12355381,510.0,513.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.11068204,510.0,513.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1023946,510.0,513.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8010085,511.0,514.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.2660463,511.0,514.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.23730475,511.0,514.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9239946,512.0,515.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5289149,513.0,516.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.18461005,513.0,516.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20736037,514.0,517.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1311736,514.0,517.0
+Setophaga cerulea_Cerulean Warbler,0.12950279,514.0,517.0
+Piranga olivacea_Scarlet Tanager,0.1266704,514.0,517.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8301149,515.0,518.0
+Limnothlypis swainsonii_Swainson's Warbler,0.20296358,515.0,518.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9495167,516.0,519.0
+Icterus galbula_Baltimore Oriole,0.8768574,517.0,520.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36725533,517.0,520.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27574566,517.0,520.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2571279,518.0,521.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.19984475,518.0,521.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.28276083,519.0,522.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22140335,519.0,522.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5979267,520.0,523.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14121102,520.0,523.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5387946,521.0,524.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4774045,521.0,524.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9245722,522.0,525.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.13613722,522.0,525.0
+Pheucticus aureoventris_Black-backed Grosbeak,0.10963053,522.0,525.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.903451,523.0,526.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5149641,524.0,527.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8639569,525.0,528.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50583935,526.0,529.0
+Setophaga virens_Black-throated Green Warbler,0.196585,526.0,529.0
+Setophaga virens_Black-throated Green Warbler,0.4693127,527.0,530.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30142856,527.0,530.0
+Seiurus aurocapilla_Ovenbird,0.10836603,528.0,531.0
+Icterus galbula_Baltimore Oriole,0.7955522,529.0,532.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.69014984,529.0,532.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.79545444,530.0,533.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.51139903,531.0,534.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.18329257,531.0,534.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.88304585,532.0,535.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3054467,532.0,535.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8776719,533.0,536.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.19808355,533.0,536.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9456445,534.0,537.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.10098395,534.0,537.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.95767635,535.0,538.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.92981803,536.0,539.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16774713,537.0,540.0
+Setophaga fusca_Blackburnian Warbler,0.118887216,537.0,540.0
+Setophaga virens_Black-throated Green Warbler,0.10954078,537.0,540.0
+Setophaga virens_Black-throated Green Warbler,0.40239424,538.0,541.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17089808,538.0,541.0
+Icterus galbula_Baltimore Oriole,0.8763255,539.0,542.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7506444,539.0,542.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6298106,540.0,543.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7442965,541.0,544.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6319034,542.0,545.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.62887114,542.0,545.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7237973,543.0,546.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.41847908,543.0,546.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8044985,544.0,547.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1543309,544.0,547.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5450696,545.0,548.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.19952875,545.0,548.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.8733883,546.0,549.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21311066,546.0,549.0
+Piranga olivacea_Scarlet Tanager,0.27219954,548.0,551.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11226519,549.0,552.0
+Icterus galbula_Baltimore Oriole,0.36668906,550.0,553.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12928432,550.0,553.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7683375,551.0,554.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.57938915,552.0,555.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.10248687,552.0,555.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.88725656,553.0,556.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24003674,553.0,556.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.70661473,554.0,557.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.43035427,554.0,557.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8382518,555.0,558.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.44742054,555.0,558.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.60918754,556.0,559.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.45691606,557.0,560.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.3455765,557.0,560.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.63201696,558.0,561.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.5204592,558.0,561.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11704817,558.0,561.0
+Piranga olivacea_Scarlet Tanager,0.14786766,560.0,563.0
+Setophaga virens_Black-throated Green Warbler,0.26467952,561.0,564.0
+Piranga olivacea_Scarlet Tanager,0.16336843,561.0,564.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14604066,561.0,564.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.54794073,562.0,565.0
+Setophaga virens_Black-throated Green Warbler,0.13976406,562.0,565.0
+Piranga olivacea_Scarlet Tanager,0.11347562,562.0,565.0
+Turdus boulboul_Gray-winged Blackbird,0.5821566,563.0,566.0
+Turdus albocinctus_White-collared Blackbird,0.561383,563.0,566.0
+Icterus galbula_Baltimore Oriole,0.29664207,563.0,566.0
+Leiothrix argentauris_Silver-eared Mesia,0.11082862,563.0,566.0
+Turdus rubrocanus_Chestnut Thrush,0.101018,563.0,566.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.41315106,564.0,567.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2991777,564.0,567.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.65802306,565.0,568.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.622503,565.0,568.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.88983077,566.0,569.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.90001404,567.0,570.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.21147458,567.0,570.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.93911403,568.0,571.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.80801696,569.0,572.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1394401,569.0,572.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.13917707,570.0,573.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16624962,572.0,575.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16126855,573.0,576.0
+Piranga olivacea_Scarlet Tanager,0.1062047,573.0,576.0
+Icterus galbula_Baltimore Oriole,0.3751757,574.0,577.0
+Piranga olivacea_Scarlet Tanager,0.11850464,574.0,577.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.31442943,575.0,578.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.16008803,575.0,578.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6588764,576.0,579.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3721411,576.0,579.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.81578356,577.0,580.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.54648334,577.0,580.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7925394,578.0,581.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.60240215,578.0,581.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8841891,579.0,582.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.15429993,579.0,582.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.65264606,580.0,583.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.13396317,580.0,583.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.8780774,581.0,584.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2305866,581.0,584.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13081577,581.0,584.0
+Colluricincla harmonica_Gray Shrikethrush,0.3086899,582.0,585.0
+Piranga olivacea_Scarlet Tanager,0.72838885,585.0,588.0
+Icterus galbula_Baltimore Oriole,0.32772946,586.0,589.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16834489,586.0,589.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7575394,587.0,590.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5219311,588.0,591.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27105734,588.0,591.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.48273045,589.0,592.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.33868062,589.0,592.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.90127236,590.0,593.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1280751,590.0,593.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.89150196,591.0,594.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.87425065,591.0,594.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2374774,591.0,594.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9256491,592.0,595.0
+Setophaga citrina_Hooded Warbler,0.14008868,593.0,596.0
+Setophaga citrina_Hooded Warbler,0.27715114,594.0,597.0
+Setophaga citrina_Hooded Warbler,0.25171518,595.0,598.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13441111,598.0,601.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.86427134,599.0,602.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.77518106,600.0,603.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2502384,600.0,603.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7928654,601.0,604.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.6451773,601.0,604.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8507369,602.0,605.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.48095977,602.0,605.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.75436974,603.0,606.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.7244774,603.0,606.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9245347,604.0,607.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.94220483,605.0,608.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3463644,606.0,609.0
+Icterus galbula_Baltimore Oriole,0.13849401,606.0,609.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11819514,607.0,610.0
+Tamias striatus_Eastern Chipmunk,0.3598117,608.0,611.0
+Icterus galbula_Baltimore Oriole,0.10243876,609.0,612.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.113475524,610.0,613.0
+Turdus boulboul_Gray-winged Blackbird,0.10103705,610.0,613.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8006783,611.0,614.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3638418,611.0,614.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8602861,612.0,615.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.44556236,612.0,615.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9007878,613.0,616.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.44519448,613.0,616.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.84628904,614.0,617.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.49449173,614.0,617.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.88487494,615.0,618.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.14444552,615.0,618.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43517628,616.0,619.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.3863181,616.0,619.0
+Rubigula flaviventris_Black-crested Bulbul,0.73236835,617.0,620.0
+Tamias striatus_Eastern Chipmunk,0.110449016,620.0,623.0
+Icterus galbula_Baltimore Oriole,0.2004816,622.0,625.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13776778,622.0,625.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5213933,623.0,626.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20940863,623.0,626.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.9068515,624.0,627.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4197936,624.0,627.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7281143,625.0,628.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4479953,625.0,628.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.86970985,626.0,629.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2695132,626.0,629.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9442689,627.0,630.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9319522,628.0,631.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.13084623,628.0,631.0
+Rubigula flaviventris_Black-crested Bulbul,0.23052347,629.0,632.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4938981,630.0,633.0
+Tamias striatus_Eastern Chipmunk,0.12218796,630.0,633.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46867812,631.0,634.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23879673,632.0,635.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13419256,632.0,635.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.28393456,633.0,636.0
+Icterus galbula_Baltimore Oriole,0.44123545,634.0,637.0
+Turdus boulboul_Gray-winged Blackbird,0.3638845,634.0,637.0
+Turdus albocinctus_White-collared Blackbird,0.20389344,634.0,637.0
+Melanotis caerulescens_Blue Mockingbird,0.122955926,634.0,637.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.38997307,635.0,638.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.32042393,636.0,639.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.25503132,636.0,639.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.702005,637.0,640.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.25330195,637.0,640.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.74826306,638.0,641.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.26557097,638.0,641.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.86752367,639.0,642.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.25972983,639.0,642.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35462815,640.0,643.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27238935,641.0,644.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.22773862,641.0,644.0
+Leiothrix argentauris_Silver-eared Mesia,0.16999725,641.0,644.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1549553,641.0,644.0
+Piranga olivacea_Scarlet Tanager,0.41426075,642.0,645.0
+Tamias striatus_Eastern Chipmunk,0.27852473,642.0,645.0
+Tamias striatus_Eastern Chipmunk,0.63909835,643.0,646.0
+Icterus galbula_Baltimore Oriole,0.3336103,644.0,647.0
+Melanotis caerulescens_Blue Mockingbird,0.21278429,644.0,647.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.55177116,645.0,648.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13881136,645.0,648.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.8879211,646.0,649.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19111204,646.0,649.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6917009,647.0,650.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5990755,647.0,650.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8818548,648.0,651.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4998296,648.0,651.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9379446,649.0,652.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.30102998,649.0,652.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5513299,650.0,653.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.24150187,650.0,653.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.108252786,650.0,653.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6877033,651.0,654.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.1934118,651.0,654.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.124769546,652.0,655.0
+Piranga olivacea_Scarlet Tanager,0.36896253,653.0,656.0
+Tamias striatus_Eastern Chipmunk,0.151328,653.0,656.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.42472234,656.0,659.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3870358,657.0,660.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4739137,658.0,661.0
+Piranga olivacea_Scarlet Tanager,0.29099476,659.0,662.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14626916,659.0,662.0
+Piranga olivacea_Scarlet Tanager,0.13856958,666.0,669.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.13404992,667.0,670.0
+Piranga olivacea_Scarlet Tanager,0.2074639,672.0,675.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12634674,673.0,676.0
+Tamias striatus_Eastern Chipmunk,0.12005865,673.0,676.0
+Tamias striatus_Eastern Chipmunk,0.1254017,677.0,680.0
+Piranga olivacea_Scarlet Tanager,0.14811969,680.0,683.0

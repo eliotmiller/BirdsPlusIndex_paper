@@ -1,0 +1,23 @@
+species,score,start_time,end_time
+Accipiter cooperii_Cooper's Hawk,0.9294244,0.0,3.0
+Colaptes auratus_Northern Flicker,0.42123896,0.0,3.0
+Accipiter cooperii_Cooper's Hawk,0.9416037,1.0,4.0
+Colaptes auratus_Northern Flicker,0.20714614,1.0,4.0
+Accipiter cooperii_Cooper's Hawk,0.33421373,2.0,5.0
+Chordeiles gundlachii_Antillean Nighthawk,0.12984298,3.0,6.0
+Accipiter cooperii_Cooper's Hawk,0.6144991,4.0,7.0
+Sturnus vulgaris_European Starling,0.16127546,4.0,7.0
+Accipiter cooperii_Cooper's Hawk,0.9245024,5.0,8.0
+Accipiter cooperii_Cooper's Hawk,0.7691586,6.0,9.0
+Gallinula galeata_Common Gallinule,0.12744989,6.0,9.0
+Tyrannus tyrannus_Eastern Kingbird,0.78091687,8.0,11.0
+Tyrannus tyrannus_Eastern Kingbird,0.56813097,9.0,12.0
+Tyrannus tyrannus_Eastern Kingbird,0.88890046,10.0,13.0
+Accipiter cooperii_Cooper's Hawk,0.98050743,13.0,16.0
+Colaptes auratus_Northern Flicker,0.10470268,13.0,16.0
+Accipiter cooperii_Cooper's Hawk,0.9721705,14.0,17.0
+Colaptes auratus_Northern Flicker,0.16552407,14.0,17.0
+Icterus bullockii_Bullock's Oriole,0.10148589,14.0,17.0
+Accipiter cooperii_Cooper's Hawk,0.9937109,15.0,18.0
+Colaptes auratus_Northern Flicker,0.14770626,15.0,18.0
+Accipiter cooperii_Cooper's Hawk,0.6955511,16.0,19.0

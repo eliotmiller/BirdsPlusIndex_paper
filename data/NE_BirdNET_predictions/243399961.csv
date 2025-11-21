@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Mniotilta varia_Black-and-white Warbler,0.6568442,0.0,3.0
+Leiothlypis ruficapilla_Nashville Warbler,0.15373662,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.73946077,1.0,4.0
+Leiothlypis ruficapilla_Nashville Warbler,0.101703264,1.0,4.0
+Mniotilta varia_Black-and-white Warbler,0.5826653,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.28806108,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.112969816,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.14541285,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10658471,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.10621826,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.1340235,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.11972705,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.3505695,7.0,10.0
+Troglodytes hiemalis_Winter Wren,0.8390882,8.0,11.0
+Troglodytes hiemalis_Winter Wren,0.87037826,9.0,12.0
+Troglodytes hiemalis_Winter Wren,0.4732641,10.0,13.0
+Buteo platypterus_Broad-winged Hawk,0.13869353,10.0,13.0
+Thryothorus ludovicianus_Carolina Wren,0.24400702,11.0,14.0
+Tigrisoma mexicanum_Bare-throated Tiger-Heron,0.16301554,12.0,15.0
+Thryothorus ludovicianus_Carolina Wren,0.13257733,13.0,16.0
+Alectura lathami_Australian Brushturkey,0.1639049,14.0,17.0
+Thryothorus ludovicianus_Carolina Wren,0.30222094,15.0,18.0
+Thryothorus ludovicianus_Carolina Wren,0.25697467,16.0,19.0
+Thryothorus ludovicianus_Carolina Wren,0.11068763,17.0,20.0
+Thryothorus ludovicianus_Carolina Wren,0.3777577,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.62587875,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.39948538,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.6352092,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.627932,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.5451469,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.16976237,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2639297,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.105551474,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16352211,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14081702,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17101829,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29438514,39.0,42.0
+Buteo platypterus_Broad-winged Hawk,0.14244266,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1715733,40.0,43.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11950294,42.0,45.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16381636,44.0,47.0
+Tamias striatus_Eastern Chipmunk,0.12902896,44.0,47.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10585706,45.0,48.0
+Troglodytes hiemalis_Winter Wren,0.18788835,46.0,49.0
+Troglodytes hiemalis_Winter Wren,0.69247603,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.40558794,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.17508093,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.5198814,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.19535479,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.10392562,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.55709624,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15172565,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.50378877,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20163873,52.0,55.0
+Cardellina canadensis_Canada Warbler,0.103334814,52.0,55.0
+Empidonax minimus_Least Flycatcher,0.33088425,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11424027,53.0,56.0
+Empidonax minimus_Least Flycatcher,0.16860096,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12460669,54.0,57.0
+Parkesia motacilla_Louisiana Waterthrush,0.12089104,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15191098,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1323689,56.0,59.0
+Empidonax minimus_Least Flycatcher,0.106137514,56.0,59.0
+Troglodytes hiemalis_Winter Wren,0.45861262,57.0,60.0
+Troglodytes hiemalis_Winter Wren,0.8562141,58.0,61.0
+Troglodytes hiemalis_Winter Wren,0.6960999,59.0,62.0
+Troglodytes pacificus_Pacific Wren,0.13853757,59.0,62.0
+Troglodytes hiemalis_Winter Wren,0.13002515,60.0,63.0
+Troglodytes hiemalis_Winter Wren,0.48814523,61.0,64.0
+Troglodytes hiemalis_Winter Wren,0.7982836,62.0,65.0
+Troglodytes hiemalis_Winter Wren,0.940738,63.0,66.0
+Troglodytes hiemalis_Winter Wren,0.92225933,64.0,67.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11853563,64.0,67.0
+Troglodytes hiemalis_Winter Wren,0.9236296,65.0,68.0
+Troglodytes hiemalis_Winter Wren,0.1421998,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.13334674,66.0,69.0
