@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Lithobates clamitans_Green Frog,0.2071917,0.0,3.0
+Lithobates clamitans_Green Frog,0.69958824,1.0,4.0
+Ixobrychus exilis_Least Bittern,0.13134854,1.0,4.0
+Lithobates clamitans_Green Frog,0.12518091,2.0,5.0
+Lithobates clamitans_Green Frog,0.17373146,3.0,6.0
+Dumetella carolinensis_Gray Catbird,0.1114266,3.0,6.0
+Tyrannus tyrannus_Eastern Kingbird,0.18178676,4.0,7.0
+Tyrannus tyrannus_Eastern Kingbird,0.17147112,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.17143804,8.0,11.0
+Lithobates clamitans_Green Frog,0.23935878,9.0,12.0
+Melospiza georgiana_Swamp Sparrow,0.5998377,11.0,14.0
+Melospiza georgiana_Swamp Sparrow,0.8187908,12.0,15.0
+Melospiza georgiana_Swamp Sparrow,0.5340467,13.0,16.0
+Melospiza georgiana_Swamp Sparrow,0.24774058,14.0,17.0
+Ixobrychus exilis_Least Bittern,0.12048771,14.0,17.0
+Rallus limicola_Virginia Rail,0.11379101,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.112274356,15.0,18.0
+Lithobates clamitans_Green Frog,0.78836256,16.0,19.0
+Lithobates clamitans_Green Frog,0.7030549,17.0,20.0
+Lithobates clamitans_Green Frog,0.5838452,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.14395547,21.0,24.0
+Catharus fuscescens_Veery,0.13943745,24.0,27.0
+Geothlypis trichas_Common Yellowthroat,0.10854202,24.0,27.0
+Lithobates clamitans_Green Frog,0.17716509,25.0,28.0
+Catharus fuscescens_Veery,0.8880739,26.0,29.0
+Catharus fuscescens_Veery,0.48473838,27.0,30.0
+Catharus fuscescens_Veery,0.43004844,28.0,31.0
+Ixobrychus exilis_Least Bittern,0.14890398,32.0,35.0
+Ixobrychus exilis_Least Bittern,0.13447785,33.0,36.0
+Lithobates clamitans_Green Frog,0.30013728,34.0,37.0
+Ixobrychus exilis_Least Bittern,0.10410796,34.0,37.0
+Lithobates clamitans_Green Frog,0.64853907,35.0,38.0
+Bombycilla cedrorum_Cedar Waxwing,0.111140646,35.0,38.0
+Lithobates clamitans_Green Frog,0.605745,36.0,39.0
+Bombycilla cedrorum_Cedar Waxwing,0.48576185,37.0,40.0
+Ixobrychus exilis_Least Bittern,0.18994087,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.112068824,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.5339338,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.15090129,39.0,42.0
+Bombycilla cedrorum_Cedar Waxwing,0.29713556,40.0,43.0
+Ixobrychus exilis_Least Bittern,0.15494463,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17417288,41.0,44.0
+Bombycilla cedrorum_Cedar Waxwing,0.17201038,41.0,44.0
+Ixobrychus exilis_Least Bittern,0.16407497,41.0,44.0
+Ixobrychus exilis_Least Bittern,0.21061423,42.0,45.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17880677,42.0,45.0
+Ixobrychus exilis_Least Bittern,0.36400062,43.0,46.0
+Melospiza georgiana_Swamp Sparrow,0.15186873,45.0,48.0
+Ixobrychus exilis_Least Bittern,0.15763833,49.0,52.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15319349,49.0,52.0
+Catharus fuscescens_Veery,0.40231162,50.0,53.0
+Catharus fuscescens_Veery,0.58916205,51.0,54.0
+Lithobates clamitans_Green Frog,0.47400358,51.0,54.0
+Catharus fuscescens_Veery,0.94296646,52.0,55.0
+Lithobates clamitans_Green Frog,0.49998897,52.0,55.0
+Tyrannus tyrannus_Eastern Kingbird,0.2094561,53.0,56.0
+Catharus fuscescens_Veery,0.8673259,54.0,57.0
+Catharus fuscescens_Veery,0.9420038,55.0,58.0
+Lithobates clamitans_Green Frog,0.96642137,56.0,59.0
+Catharus fuscescens_Veery,0.724904,56.0,59.0
+Lithobates catesbeianus_American Bullfrog,0.14861967,56.0,59.0
+Lithobates clamitans_Green Frog,0.7777708,57.0,60.0
+Lithobates clamitans_Green Frog,0.800128,58.0,61.0
+Lithobates catesbeianus_American Bullfrog,0.24031477,58.0,61.0
+Catharus fuscescens_Veery,0.42750707,59.0,62.0

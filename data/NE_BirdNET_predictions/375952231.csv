@@ -1,0 +1,41 @@
+species,score,start_time,end_time
+Bombycilla cedrorum_Cedar Waxwing,0.1137315,5.0,8.0
+Bombycilla cedrorum_Cedar Waxwing,0.18526506,6.0,9.0
+Contopus virens_Eastern Wood-Pewee,0.10310335,6.0,9.0
+Tyrannus dominicensis_Gray Kingbird,0.25197285,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.9607885,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.963828,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.9020904,20.0,23.0
+Human non-vocal_Human non-vocal,0.18529573,21.0,24.0
+Baeolophus bicolor_Tufted Titmouse,0.13468097,28.0,31.0
+Human non-vocal_Human non-vocal,0.6460034,29.0,32.0
+Baeolophus bicolor_Tufted Titmouse,0.1584846,29.0,32.0
+Cathartes aura_Turkey Vulture,0.13265525,29.0,32.0
+Baeolophus bicolor_Tufted Titmouse,0.35633785,30.0,33.0
+Human non-vocal_Human non-vocal,0.18985425,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.7089253,31.0,34.0
+Human non-vocal_Human non-vocal,0.3170251,31.0,34.0
+Strix uralensis_Ural Owl,0.5533913,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.3395066,32.0,35.0
+Human non-vocal_Human non-vocal,0.19453456,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.9586917,33.0,36.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.6071011,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.5858976,34.0,37.0
+Certhia americana_Brown Creeper,0.11541404,37.0,40.0
+Regulus satrapa_Golden-crowned Kinglet,0.105939835,37.0,40.0
+Colluricincla megarhyncha_Arafura Shrikethrush,0.1208023,53.0,56.0
+Engine_Engine,0.28314894,56.0,59.0
+Contopus virens_Eastern Wood-Pewee,0.98585576,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.9792685,58.0,61.0
+Contopus virens_Eastern Wood-Pewee,0.9485571,59.0,62.0
+Engine_Engine,0.18212414,66.0,69.0
+Engine_Engine,0.108264245,71.0,74.0
+Human non-vocal_Human non-vocal,0.18827537,74.0,77.0
+Centrocercus urophasianus_Greater Sage-Grouse,0.33511657,75.0,78.0
+Human non-vocal_Human non-vocal,0.18909144,75.0,78.0
+Engine_Engine,0.11229352,83.0,86.0
+Nothocrax urumutum_Nocturnal Curassow,0.21564731,86.0,89.0
+Human non-vocal_Human non-vocal,0.13514102,88.0,91.0
+Engine_Engine,0.106487595,94.0,97.0
+Engine_Engine,0.116174586,96.0,99.0
+Engine_Engine,0.13074936,97.0,99.07201814058956

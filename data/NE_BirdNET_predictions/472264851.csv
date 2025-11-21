@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Attila phoenicurus_Rufous-tailed Attila,0.29201084,0.0,3.0
+Haematopus palliatus_American Oystercatcher,0.17955439,0.0,3.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.11555425,0.0,3.0
+Nymphicus hollandicus_Cockatiel,0.101549976,0.0,3.0
+Attila phoenicurus_Rufous-tailed Attila,0.10860509,1.0,4.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.40196955,2.0,5.0
+Haematopus palliatus_American Oystercatcher,0.11132673,2.0,5.0
+Haematopus palliatus_American Oystercatcher,0.3588214,3.0,6.0
+Haematopus ater_Blackish Oystercatcher,0.34008256,3.0,6.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.317926,3.0,6.0
+Haematopus palliatus_American Oystercatcher,0.3309586,4.0,7.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.18179396,4.0,7.0
+Haematopus ater_Blackish Oystercatcher,0.15721174,4.0,7.0
+Haematopus bachmani_Black Oystercatcher,0.10717739,4.0,7.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.57346386,5.0,8.0
+Haematopus palliatus_American Oystercatcher,0.1510221,5.0,8.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.6158505,6.0,9.0
+Haematopus palliatus_American Oystercatcher,0.10690748,6.0,9.0
+Haematopus palliatus_American Oystercatcher,0.44522655,7.0,10.0
+Haematopus bachmani_Black Oystercatcher,0.20898376,7.0,10.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.16300806,7.0,10.0
+Haematopus bachmani_Black Oystercatcher,0.9211272,8.0,11.0
+Haematopus palliatus_American Oystercatcher,0.5327766,8.0,11.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.14051968,8.0,11.0
+Haematopus bachmani_Black Oystercatcher,0.99725515,9.0,12.0
+Haematopus palliatus_American Oystercatcher,0.27882046,9.0,12.0
+Haematopus bachmani_Black Oystercatcher,0.97911924,10.0,13.0
+Haematopus palliatus_American Oystercatcher,0.17947884,10.0,13.0
+Haematopus bachmani_Black Oystercatcher,0.943808,11.0,14.0
+Haematopus palliatus_American Oystercatcher,0.13113715,11.0,14.0
+Haematopus bachmani_Black Oystercatcher,0.8714047,12.0,15.0
+Haematopus palliatus_American Oystercatcher,0.26286778,12.0,15.0
+Haematopus palliatus_American Oystercatcher,0.3915295,13.0,16.0
+Haematopus bachmani_Black Oystercatcher,0.31556457,13.0,16.0
+Haematopus palliatus_American Oystercatcher,0.2548969,14.0,17.0
+Haematopus palliatus_American Oystercatcher,0.7752974,15.0,18.0
+Haematopus bachmani_Black Oystercatcher,0.408514,15.0,18.0
+Haematopus bachmani_Black Oystercatcher,0.66974056,16.0,19.0
+Haematopus palliatus_American Oystercatcher,0.62639886,16.0,19.0
+Haematopus palliatus_American Oystercatcher,0.53183,17.0,20.0
+Haematopus bachmani_Black Oystercatcher,0.352732,17.0,20.0
+Circus aeruginosus_Eurasian Marsh-Harrier,0.1264339,22.0,25.0
+Circus aeruginosus_Eurasian Marsh-Harrier,0.15263852,23.0,26.0
+Lullula arborea_Wood Lark,0.10294844,27.0,30.0
+Haematopus bachmani_Black Oystercatcher,0.50976247,28.0,31.0
+Haematopus palliatus_American Oystercatcher,0.47574064,28.0,31.0
+Haematopus bachmani_Black Oystercatcher,0.9540627,29.0,32.0
+Haematopus palliatus_American Oystercatcher,0.5755105,29.0,32.0
+Haematopus bachmani_Black Oystercatcher,0.9773318,30.0,33.0
+Haematopus palliatus_American Oystercatcher,0.5856705,30.0,33.0
+Haematopus bachmani_Black Oystercatcher,0.98094326,31.0,34.0
+Haematopus palliatus_American Oystercatcher,0.35652903,31.0,34.0
+Haematopus bachmani_Black Oystercatcher,0.9338824,32.0,35.0
+Haematopus palliatus_American Oystercatcher,0.14999641,32.0,35.0
+Haematopus bachmani_Black Oystercatcher,0.93373156,33.0,36.0
+Haematopus bachmani_Black Oystercatcher,0.5978213,34.0,37.0
+Pluvialis squatarola_Black-bellied Plover,0.2099074,35.0,38.0
+Pluvialis dominica_American Golden-Plover,0.12981619,35.0,38.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.7170385,41.0,44.0
+Tringa semipalmata_Willet,0.11863127,41.0,44.0
+Limosa lapponica_Bar-tailed Godwit,0.41819647,42.0,45.0
+Tringa semipalmata_Willet,0.27377936,42.0,45.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.19852972,42.0,45.0
+Calidris canutus_Red Knot,0.120189436,42.0,45.0
+Thalasseus sandvicensis_Sandwich Tern,0.10452379,42.0,45.0
+Thalasseus sandvicensis_Sandwich Tern,0.26630324,43.0,46.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.24963064,43.0,46.0
+Tringa semipalmata_Willet,0.10467731,43.0,46.0
+Limosa limosa_Black-tailed Godwit,0.10320104,43.0,46.0
+Tringa semipalmata_Willet,0.29381284,45.0,48.0
+Tringa semipalmata_Willet,0.239675,46.0,49.0
+Limosa lapponica_Bar-tailed Godwit,0.50565743,47.0,50.0
+Calidris canutus_Red Knot,0.18795487,47.0,50.0
+Limosa limosa_Black-tailed Godwit,0.10306896,47.0,50.0
+Limosa lapponica_Bar-tailed Godwit,0.4111459,48.0,51.0
+Tringa semipalmata_Willet,0.18839125,48.0,51.0
+Tringa semipalmata_Willet,0.44661495,49.0,52.0
+Limosa lapponica_Bar-tailed Godwit,0.41768566,49.0,52.0
+Limosa limosa_Black-tailed Godwit,0.20330952,49.0,52.0
+Tringa semipalmata_Willet,0.5703858,50.0,53.0
+Limosa limosa_Black-tailed Godwit,0.1248339,50.0,53.0
+Tringa semipalmata_Willet,0.18285553,51.0,54.0
+Limosa limosa_Black-tailed Godwit,0.13157272,51.0,54.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.10251357,51.0,54.0
+Tringa semipalmata_Willet,0.6220734,52.0,55.0
+Tringa semipalmata_Willet,0.40065622,53.0,56.0
+Limosa lapponica_Bar-tailed Godwit,0.13804035,53.0,56.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.11386598,53.0,56.0
+Tringa semipalmata_Willet,0.48387668,54.0,57.0
+Tringa semipalmata_Willet,0.2265433,55.0,58.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.1416008,55.0,58.0
+Tringa semipalmata_Willet,0.71224093,56.0,59.0
+Calidris canutus_Red Knot,0.27275068,58.0,61.0

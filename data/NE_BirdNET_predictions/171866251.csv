@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Larus argentatus_Herring Gull,0.72872293,0.0,3.0
+Larus michahellis_Yellow-legged Gull,0.34464994,0.0,3.0
+Larus fuscus_Lesser Black-backed Gull,0.14658557,0.0,3.0
+Larus argentatus_Herring Gull,0.56959534,1.0,4.0
+Larus fuscus_Lesser Black-backed Gull,0.12462529,1.0,4.0
+Larus dominicanus_Kelp Gull,0.10187926,1.0,4.0
+Aramus guarauna_Limpkin,0.818059,2.0,5.0
+Larus argentatus_Herring Gull,0.74243116,2.0,5.0
+Larus dominicanus_Kelp Gull,0.19767046,2.0,5.0
+Aramus guarauna_Limpkin,0.58426493,3.0,6.0
+Larus argentatus_Herring Gull,0.5381015,3.0,6.0
+Larus dominicanus_Kelp Gull,0.2160416,3.0,6.0
+Larus argentatus_Herring Gull,0.40431052,4.0,7.0
+Larus dominicanus_Kelp Gull,0.13201953,4.0,7.0
+Larus argentatus_Herring Gull,0.45356664,5.0,8.0
+Larus fuscus_Lesser Black-backed Gull,0.113887616,5.0,8.0
+Larus dominicanus_Kelp Gull,0.113268204,5.0,8.0
+Larus argentatus_Herring Gull,0.45835742,6.0,9.0
+Larus fuscus_Lesser Black-backed Gull,0.1266136,6.0,9.0
+Larus argentatus_Herring Gull,0.26011065,7.0,10.0
+Larus argentatus_Herring Gull,0.115233675,8.0,11.0
+Larus dominicanus_Kelp Gull,0.10782252,8.0,11.0
+Perisoreus canadensis_Canada Jay,0.10073076,8.0,11.0
+Larus fuscus_Lesser Black-backed Gull,0.100577764,8.0,11.0
+Larus argentatus_Herring Gull,0.49951357,9.0,12.0
+Larus dominicanus_Kelp Gull,0.27423778,9.0,12.0
+Larus fuscus_Lesser Black-backed Gull,0.1945549,9.0,12.0
+Larus argentatus_Herring Gull,0.6904008,10.0,13.0
+Larus dominicanus_Kelp Gull,0.47899398,10.0,13.0
+Larus fuscus_Lesser Black-backed Gull,0.21378544,10.0,13.0
+Larus michahellis_Yellow-legged Gull,0.18197984,10.0,13.0
+Larus argentatus_Herring Gull,0.63968307,11.0,14.0
+Larus dominicanus_Kelp Gull,0.4179775,11.0,14.0
+Larus fuscus_Lesser Black-backed Gull,0.34539488,11.0,14.0
+Larus argentatus_Herring Gull,0.55189145,12.0,15.0
+Larus dominicanus_Kelp Gull,0.34954393,12.0,15.0
+Larus fuscus_Lesser Black-backed Gull,0.21283466,12.0,15.0
+Larus argentatus_Herring Gull,0.45549068,13.0,16.0
+Larus fuscus_Lesser Black-backed Gull,0.14065634,13.0,16.0
+Larus dominicanus_Kelp Gull,0.12277482,13.0,16.0
+Larus argentatus_Herring Gull,0.38760644,14.0,17.0
+Larus argentatus_Herring Gull,0.34889284,15.0,18.0
+Larus argentatus_Herring Gull,0.32279626,16.0,19.0
+Larus argentatus_Herring Gull,0.3916594,17.0,20.0
+Larus argentatus_Herring Gull,0.34927005,18.0,21.0
+Larus michahellis_Yellow-legged Gull,0.26633045,18.0,21.0
+Larus argentatus_Herring Gull,0.3314768,19.0,22.0
+Larus michahellis_Yellow-legged Gull,0.15321703,19.0,22.0
+Larus hyperboreus_Glaucous Gull,0.11153249,19.0,22.0
+Larus argentatus_Herring Gull,0.33015835,20.0,23.0
+Larus michahellis_Yellow-legged Gull,0.12378241,20.0,23.0
+Larus argentatus_Herring Gull,0.61111456,21.0,24.0
+Larus argentatus_Herring Gull,0.46813372,22.0,25.0
+Larus argentatus_Herring Gull,0.48863733,23.0,26.0
+Larus dominicanus_Kelp Gull,0.14752941,23.0,26.0
+Larus argentatus_Herring Gull,0.7106269,24.0,27.0
+Larus dominicanus_Kelp Gull,0.3208541,24.0,27.0
+Larus argentatus_Herring Gull,0.7831603,25.0,28.0
+Larus dominicanus_Kelp Gull,0.12725715,25.0,28.0
+Larus argentatus_Herring Gull,0.864435,26.0,29.0
+Larus dominicanus_Kelp Gull,0.17154635,26.0,29.0
+Larus argentatus_Herring Gull,0.89079505,27.0,30.0
+Larus argentatus_Herring Gull,0.8751096,28.0,31.0
+Larus michahellis_Yellow-legged Gull,0.14721887,28.0,31.0
+Larus argentatus_Herring Gull,0.8571389,29.0,32.0
+Larus argentatus_Herring Gull,0.72653407,30.0,33.0
+Larus dominicanus_Kelp Gull,0.16603644,30.0,33.0
+Larus argentatus_Herring Gull,0.6081573,31.0,34.0
+Larus dominicanus_Kelp Gull,0.17559576,31.0,34.0
+Larus argentatus_Herring Gull,0.7560226,32.0,35.0
+Larus michahellis_Yellow-legged Gull,0.15213236,32.0,35.0
+Larus dominicanus_Kelp Gull,0.12820134,32.0,35.0
+Larus argentatus_Herring Gull,0.8537529,33.0,36.0
+Larus dominicanus_Kelp Gull,0.20555441,33.0,36.0
+Larus michahellis_Yellow-legged Gull,0.12929958,33.0,36.0
+Larus argentatus_Herring Gull,0.84863454,34.0,37.0
+Larus dominicanus_Kelp Gull,0.104195766,34.0,37.0
+Larus argentatus_Herring Gull,0.51284385,35.0,38.0
+Larus argentatus_Herring Gull,0.60921836,36.0,39.0
+Larus dominicanus_Kelp Gull,0.17677389,36.0,39.0
+Larus argentatus_Herring Gull,0.7392467,37.0,40.0
+Larus dominicanus_Kelp Gull,0.27241328,37.0,40.0
+Larus argentatus_Herring Gull,0.80094546,38.0,41.0
+Larus dominicanus_Kelp Gull,0.2873302,38.0,41.0
+Larus argentatus_Herring Gull,0.72035503,39.0,42.0
+Larus dominicanus_Kelp Gull,0.40025842,39.0,42.0
+Larus argentatus_Herring Gull,0.6892373,40.0,42.43201814058957
+Larus dominicanus_Kelp Gull,0.22938827,40.0,42.43201814058957

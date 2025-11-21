@@ -1,0 +1,84 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.29383925,0.0,3.0
+Pnoepyga pusilla_Pygmy Cupwing,0.18377021,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.116527386,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.44522226,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.2977056,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.5394732,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.16984108,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.31678057,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.3160425,4.0,7.0
+Setophaga occidentalis_Hermit Warbler,0.23541306,5.0,8.0
+Regulus satrapa_Golden-crowned Kinglet,0.21422051,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.1554227,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.10950019,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.42929035,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.2617845,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.41106334,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.2684009,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.11383178,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.74775535,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.15317903,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.109334484,11.0,14.0
+Regulus satrapa_Golden-crowned Kinglet,0.23037621,12.0,15.0
+Regulus satrapa_Golden-crowned Kinglet,0.62249464,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.14671037,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.3584051,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.23001096,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.23354164,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.420136,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.13097982,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.23456557,17.0,20.0
+Setophaga magnolia_Magnolia Warbler,0.19410478,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.6911857,18.0,21.0
+Setophaga magnolia_Magnolia Warbler,0.23647356,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.12467994,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.2038838,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.11150155,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.113789186,21.0,24.0
+Regulus satrapa_Golden-crowned Kinglet,0.22801553,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.22035615,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.1444764,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.48390514,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.21111578,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.12545174,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.49518195,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.21407092,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.14332156,24.0,27.0
+Regulus satrapa_Golden-crowned Kinglet,0.14039947,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.47231334,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.13252,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.10269868,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1640238,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.2369061,28.0,31.0
+Setophaga occidentalis_Hermit Warbler,0.10190543,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.101350956,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.16981383,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.11891747,30.0,33.0
+Setophaga magnolia_Magnolia Warbler,0.15896893,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.11489528,31.0,34.0
+Setophaga magnolia_Magnolia Warbler,0.21810374,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.19130613,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.12896837,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.10468592,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.18137984,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.1565744,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.1520564,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10616108,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.18825206,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.10409755,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.15384,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13780428,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.134418,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.59406555,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35781035,37.0,40.0
+Cardellina canadensis_Canada Warbler,0.16894528,37.0,40.0
+Cardellina canadensis_Canada Warbler,0.26676732,38.0,41.0
+Setophaga magnolia_Magnolia Warbler,0.21590395,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16676873,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.14341754,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.1276281,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.10248867,39.0,42.0
+Setophaga magnolia_Magnolia Warbler,0.6692161,40.0,42.336009070294786
+Setophaga citrina_Hooded Warbler,0.22838669,40.0,42.336009070294786
+Setophaga fusca_Blackburnian Warbler,0.13293703,40.0,42.336009070294786

@@ -1,0 +1,160 @@
+species,score,start_time,end_time
+Engine_Engine,0.15662406,0.0,3.0
+Engine_Engine,0.19319017,1.0,4.0
+Engine_Engine,0.7494117,2.0,5.0
+Cistothorus palustris_Marsh Wren,0.9855413,3.0,6.0
+Cistothorus palustris_Marsh Wren,0.9655167,4.0,7.0
+Cistothorus palustris_Marsh Wren,0.9906625,5.0,8.0
+Engine_Engine,0.48520735,7.0,10.0
+Cistothorus palustris_Marsh Wren,0.9469012,9.0,12.0
+Cistothorus palustris_Marsh Wren,0.92234135,10.0,13.0
+Cistothorus palustris_Marsh Wren,0.948466,11.0,14.0
+Cistothorus palustris_Marsh Wren,0.3423023,12.0,15.0
+Cistothorus palustris_Marsh Wren,0.29297328,13.0,16.0
+Euphagus carolinus_Rusty Blackbird,0.18491063,13.0,16.0
+Tringa ochropus_Green Sandpiper,0.47396988,15.0,18.0
+Actitis macularius_Spotted Sandpiper,0.21321066,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.119563475,15.0,18.0
+Tringa ochropus_Green Sandpiper,0.9396112,16.0,19.0
+Actitis macularius_Spotted Sandpiper,0.13535269,16.0,19.0
+Cistothorus palustris_Marsh Wren,0.8925463,18.0,21.0
+Cistothorus palustris_Marsh Wren,0.98703814,19.0,22.0
+Cistothorus palustris_Marsh Wren,0.7166639,20.0,23.0
+Engine_Engine,0.102958456,21.0,24.0
+Lanius ludovicianus_Loggerhead Shrike,0.17737474,22.0,25.0
+Turdus migratorius_American Robin,0.34368888,23.0,26.0
+Turdus migratorius_American Robin,0.23022816,24.0,27.0
+Cistothorus palustris_Marsh Wren,0.9332645,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.9580121,26.0,29.0
+Cistothorus palustris_Marsh Wren,0.90814805,27.0,30.0
+Cistothorus palustris_Marsh Wren,0.9813973,28.0,31.0
+Cistothorus palustris_Marsh Wren,0.943784,30.0,33.0
+Cistothorus palustris_Marsh Wren,0.9700061,31.0,34.0
+Cistothorus palustris_Marsh Wren,0.97165525,32.0,35.0
+Cistothorus palustris_Marsh Wren,0.96931094,33.0,36.0
+Hieraaetus pennatus_Booted Eagle,0.20878367,34.0,37.0
+Cistothorus palustris_Marsh Wren,0.84123576,35.0,38.0
+Cistothorus palustris_Marsh Wren,0.8815961,36.0,39.0
+Cistothorus palustris_Marsh Wren,0.7428615,37.0,40.0
+Troglodytes aedon_House Wren,0.38879114,37.0,40.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.62750757,39.0,42.0
+Cistothorus palustris_Marsh Wren,0.87867564,40.0,43.0
+Cistothorus palustris_Marsh Wren,0.9524103,41.0,44.0
+Cistothorus palustris_Marsh Wren,0.969455,42.0,45.0
+Troglodytes aedon_House Wren,0.14981051,42.0,45.0
+Cistothorus palustris_Marsh Wren,0.6215185,44.0,47.0
+Cistothorus palustris_Marsh Wren,0.98316574,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.97797126,46.0,49.0
+Cistothorus palustris_Marsh Wren,0.98333055,47.0,50.0
+Engine_Engine,0.16395897,48.0,51.0
+Cistothorus palustris_Marsh Wren,0.834037,49.0,52.0
+Cistothorus palustris_Marsh Wren,0.9411747,50.0,53.0
+Cistothorus palustris_Marsh Wren,0.9811235,51.0,54.0
+Cistothorus palustris_Marsh Wren,0.9783497,52.0,55.0
+Lanius ludovicianus_Loggerhead Shrike,0.10006894,54.0,57.0
+Cistothorus palustris_Marsh Wren,0.8453301,55.0,58.0
+Cistothorus palustris_Marsh Wren,0.9802756,56.0,59.0
+Cistothorus palustris_Marsh Wren,0.9850728,57.0,60.0
+Cistothorus palustris_Marsh Wren,0.94318783,60.0,63.0
+Cistothorus palustris_Marsh Wren,0.9551935,61.0,64.0
+Cistothorus palustris_Marsh Wren,0.96638864,62.0,65.0
+Cistothorus palustris_Marsh Wren,0.9706938,63.0,66.0
+Ixobrychus exilis_Least Bittern,0.10776488,63.0,66.0
+Vireo olivaceus_Red-eyed Vireo,0.1699854,64.0,67.0
+Cistothorus palustris_Marsh Wren,0.44590238,65.0,68.0
+Cistothorus palustris_Marsh Wren,0.89137834,66.0,69.0
+Cistothorus palustris_Marsh Wren,0.9744668,67.0,70.0
+Cistothorus palustris_Marsh Wren,0.9494633,68.0,71.0
+Troglodytes aedon_House Wren,0.119139805,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.2848572,69.0,72.0
+Spinus tristis_American Goldfinch,0.13902153,69.0,72.0
+Vireo olivaceus_Red-eyed Vireo,0.29309508,70.0,73.0
+Contopus virens_Eastern Wood-Pewee,0.12564488,70.0,73.0
+Vireo olivaceus_Red-eyed Vireo,0.41205627,71.0,74.0
+Contopus virens_Eastern Wood-Pewee,0.107692964,71.0,74.0
+Cistothorus palustris_Marsh Wren,0.8699111,72.0,75.0
+Cistothorus palustris_Marsh Wren,0.9452391,73.0,76.0
+Cistothorus palustris_Marsh Wren,0.988199,74.0,77.0
+Cistothorus palustris_Marsh Wren,0.9717619,75.0,78.0
+Cistothorus palustris_Marsh Wren,0.1574083,76.0,79.0
+Lanius ludovicianus_Loggerhead Shrike,0.105659716,76.0,79.0
+Cistothorus palustris_Marsh Wren,0.31238756,77.0,80.0
+Cistothorus palustris_Marsh Wren,0.5777812,78.0,81.0
+Cistothorus palustris_Marsh Wren,0.83055013,79.0,82.0
+Campylorhynchus jocosus_Boucard's Wren,0.19273275,82.0,85.0
+Pycnonotus conradi_Streak-eared Bulbul,0.14916776,82.0,85.0
+Mazaria propinqua_White-bellied Spinetail,0.107313916,82.0,85.0
+Campylorhynchus jocosus_Boucard's Wren,0.1728709,83.0,86.0
+Mazaria propinqua_White-bellied Spinetail,0.1600643,84.0,87.0
+Megaceryle alcyon_Belted Kingfisher,0.13544986,86.0,89.0
+Campylorhynchus jocosus_Boucard's Wren,0.11140481,91.0,94.0
+Sitta carolinensis_White-breasted Nuthatch,0.13483797,98.0,101.0
+Campylorhynchus jocosus_Boucard's Wren,0.29103878,100.0,103.0
+Campylorhynchus jocosus_Boucard's Wren,0.28760046,101.0,104.0
+Aimophila rufescens_Rusty Sparrow,0.13666695,102.0,105.0
+Phaethon rubricauda_Red-tailed Tropicbird,0.33436516,107.0,110.0
+Acrocephalus orientalis_Oriental Reed Warbler,0.12295898,110.0,113.0
+Ninox boobook_Southern Boobook,0.110909015,111.0,114.0
+Calliope calliope_Siberian Rubythroat,0.111395374,116.0,119.0
+Calliope calliope_Siberian Rubythroat,0.23669893,117.0,120.0
+Acrocephalus orientalis_Oriental Reed Warbler,0.1091646,117.0,120.0
+Argya striata_Jungle Babbler,0.17075877,118.0,121.0
+Quiscalus quiscula_Common Grackle,0.12420702,123.0,126.0
+Cistothorus palustris_Marsh Wren,0.88305503,124.0,127.0
+Troglodytes aedon_House Wren,0.13170229,124.0,127.0
+Cistothorus palustris_Marsh Wren,0.95606184,125.0,128.0
+Cistothorus palustris_Marsh Wren,0.911341,126.0,129.0
+Cistothorus palustris_Marsh Wren,0.92070687,127.0,130.0
+Hemitriccus margaritaceiventer_Pearly-vented Tody-Tyrant,0.47438517,128.0,131.0
+Hemitriccus obsoletus_Brown-breasted Pygmy-Tyrant,0.16315949,128.0,131.0
+Cistothorus palustris_Marsh Wren,0.92840827,129.0,132.0
+Cistothorus palustris_Marsh Wren,0.96943027,130.0,133.0
+Cistothorus palustris_Marsh Wren,0.9869801,131.0,134.0
+Engine_Engine,0.2882366,134.0,137.0
+Engine_Engine,0.31293732,135.0,138.0
+Engine_Engine,0.47548267,136.0,139.0
+Engine_Engine,0.13287109,137.0,140.0
+Vireo olivaceus_Red-eyed Vireo,0.12540357,137.0,140.0
+Engine_Engine,0.1914835,138.0,141.0
+Engine_Engine,0.31666115,139.0,142.0
+Engine_Engine,0.12655488,140.0,143.0
+Turdus migratorius_American Robin,0.24900182,145.0,148.0
+Cistothorus palustris_Marsh Wren,0.9063274,146.0,149.0
+Cistothorus palustris_Marsh Wren,0.97825384,147.0,150.0
+Cistothorus palustris_Marsh Wren,0.94406545,148.0,151.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11206752,149.0,152.0
+Engine_Engine,0.26849177,151.0,154.0
+Engine_Engine,0.19471979,152.0,155.0
+Engine_Engine,0.16767366,153.0,156.0
+Strix aluco_Tawny Owl,0.2702727,156.0,159.0
+Columbina inca_Inca Dove,0.13072987,156.0,159.0
+Botaurus stellaris_Great Bittern,0.101314776,156.0,159.0
+Engine_Engine,0.33246884,157.0,160.0
+Engine_Engine,0.37091655,158.0,161.0
+Engine_Engine,0.3035858,159.0,162.0
+Colaptes melanochloros_Green-barred Woodpecker,0.75368154,161.0,164.0
+Pterorhinus perspicillatus_Masked Laughingthrush,0.26343116,161.0,164.0
+Colaptes melanochloros_Green-barred Woodpecker,0.4245554,162.0,165.0
+Pterorhinus perspicillatus_Masked Laughingthrush,0.18121357,162.0,165.0
+Colaptes melanochloros_Green-barred Woodpecker,0.3212846,163.0,166.0
+Fluvicola nengeta_Masked Water-Tyrant,0.14802156,163.0,166.0
+Pterorhinus perspicillatus_Masked Laughingthrush,0.11738877,163.0,166.0
+Turnix sylvaticus_Small Buttonquail,0.12869348,164.0,167.0
+Engine_Engine,0.1178986,164.0,167.0
+Engine_Engine,0.47113016,165.0,168.0
+Engine_Engine,0.10036199,166.0,169.0
+Engine_Engine,0.16582951,167.0,170.0
+Cistothorus palustris_Marsh Wren,0.91624135,168.0,171.0
+Cistothorus palustris_Marsh Wren,0.9618342,169.0,172.0
+Cistothorus palustris_Marsh Wren,0.9419243,170.0,173.0
+Cistothorus palustris_Marsh Wren,0.25475353,171.0,174.0
+Lochmias nematura_Sharp-tailed Streamcreeper,0.12390858,171.0,174.0
+Aimophila rufescens_Rusty Sparrow,0.112169765,171.0,174.0
+Engine_Engine,0.17565052,172.0,175.0
+Bubo virginianus_Great Horned Owl,0.14260282,173.0,176.0
+Engine_Engine,0.103233665,187.0,190.0
+Pandion haliaetus_Osprey,0.32225695,190.0,193.0
+Cistothorus palustris_Marsh Wren,0.94456905,191.0,194.0
+Cistothorus palustris_Marsh Wren,0.9811038,192.0,195.0
+Cistothorus palustris_Marsh Wren,0.98546255,193.0,196.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.12744524,194.0,196.00802721088436

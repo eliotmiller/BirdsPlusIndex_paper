@@ -1,0 +1,607 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.9327998,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.9566518,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.9569972,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.95317596,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43833664,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.17609037,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50474465,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.33383468,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.15070932,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5771608,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.1866634,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39521548,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.24032295,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.117985226,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16129348,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.12483012,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.120914765,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14021426,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.1128628,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.7824837,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.9750933,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.98765904,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.95101213,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.879124,14.0,17.0
+Catharus fuscescens_Veery,0.21182752,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.19766356,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1483021,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.12890667,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17973314,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.76039773,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.12775819,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.58767086,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22465053,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.119096704,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.10610334,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.9194061,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.9824594,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.98937243,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.98285174,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.14771137,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15775046,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10851106,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15134598,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.12358431,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36018515,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.120755844,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3871677,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.18797874,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.18586168,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4402649,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.30151427,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.92391735,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.12320279,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.952154,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.96675515,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.944183,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.7006715,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28011918,36.0,39.0
+Buteo platypterus_Broad-winged Hawk,0.1889285,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.13841847,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.110467665,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10186768,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15677238,37.0,40.0
+Tamias striatus_Eastern Chipmunk,0.11436519,37.0,40.0
+Buteo platypterus_Broad-winged Hawk,0.10582796,37.0,40.0
+Tamiasciurus hudsonicus_Red Squirrel,0.101617046,39.0,42.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19447292,41.0,44.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24758554,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.10326978,42.0,45.0
+Tamiasciurus hudsonicus_Red Squirrel,0.76856554,43.0,46.0
+Tamias striatus_Eastern Chipmunk,0.17586753,43.0,46.0
+Todus subulatus_Broad-billed Tody,0.101441056,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.4548219,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.6693492,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.59909993,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.72887504,47.0,50.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10564048,48.0,51.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3269948,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15711334,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.120201156,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13747685,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32339644,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.13919,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.10259581,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111532606,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.7195909,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.9580446,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.9214795,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.97476304,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13614014,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19599108,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3421948,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.13991584,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15793075,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.13038324,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16236836,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.13705944,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23662625,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.152808,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19142447,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.11253258,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2564136,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.15763094,68.0,71.0
+Setophaga cerulea_Cerulean Warbler,0.122748844,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17793305,69.0,72.0
+Setophaga fusca_Blackburnian Warbler,0.16102086,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.14606154,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21187705,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.17206208,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.1469583,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.9415925,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.9160094,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.96253014,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.9803216,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1347435,75.0,78.0
+Setophaga fusca_Blackburnian Warbler,0.11250323,75.0,78.0
+Buteo platypterus_Broad-winged Hawk,0.107816085,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1809173,76.0,79.0
+Setophaga fusca_Blackburnian Warbler,0.11136873,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3839097,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.19958861,77.0,80.0
+Setophaga cerulea_Cerulean Warbler,0.1228121,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.11050094,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32035926,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.14446333,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2686735,79.0,82.0
+Setophaga cerulea_Cerulean Warbler,0.17431845,79.0,82.0
+Setophaga fusca_Blackburnian Warbler,0.11967529,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.312286,80.0,83.0
+Setophaga cerulea_Cerulean Warbler,0.21782207,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.140317,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19690579,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.100719444,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20116244,83.0,86.0
+Buteo platypterus_Broad-winged Hawk,0.13995089,83.0,86.0
+Setophaga fusca_Blackburnian Warbler,0.11514244,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.9559679,84.0,87.0
+Piranga olivacea_Scarlet Tanager,0.9794397,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.97288054,86.0,89.0
+Piranga olivacea_Scarlet Tanager,0.99479586,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.23664305,88.0,91.0
+Setophaga cerulea_Cerulean Warbler,0.19328052,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14333767,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31694192,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.2420333,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.10281605,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.22825347,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18883269,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.1490945,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3086066,91.0,94.0
+Setophaga cerulea_Cerulean Warbler,0.1811045,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.15459536,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32560518,92.0,95.0
+Setophaga cerulea_Cerulean Warbler,0.18902972,92.0,95.0
+Setophaga virens_Black-throated Green Warbler,0.1113762,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2722207,93.0,96.0
+Setophaga fusca_Blackburnian Warbler,0.19429927,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.14206384,93.0,96.0
+Buteo platypterus_Broad-winged Hawk,0.10687436,93.0,96.0
+Setophaga virens_Black-throated Green Warbler,0.10665017,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2935874,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.13963434,94.0,97.0
+Setophaga fusca_Blackburnian Warbler,0.12650251,94.0,97.0
+Setophaga virens_Black-throated Green Warbler,0.111901656,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21656485,95.0,98.0
+Setophaga fusca_Blackburnian Warbler,0.14061782,95.0,98.0
+Setophaga cerulea_Cerulean Warbler,0.12173536,95.0,98.0
+Piranga olivacea_Scarlet Tanager,0.9406654,96.0,99.0
+Piranga olivacea_Scarlet Tanager,0.9664825,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.97073853,98.0,101.0
+Piranga olivacea_Scarlet Tanager,0.98099905,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22777082,100.0,103.0
+Setophaga fusca_Blackburnian Warbler,0.14686194,100.0,103.0
+Setophaga cerulea_Cerulean Warbler,0.13992465,100.0,103.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1984363,101.0,104.0
+Setophaga fusca_Blackburnian Warbler,0.14616194,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2303839,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.13825391,102.0,105.0
+Setophaga fusca_Blackburnian Warbler,0.10873606,102.0,105.0
+Buteo platypterus_Broad-winged Hawk,0.104356706,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36837307,103.0,106.0
+Setophaga cerulea_Cerulean Warbler,0.13005306,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.11407337,103.0,106.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40244246,104.0,107.0
+Setophaga cerulea_Cerulean Warbler,0.14867789,104.0,107.0
+Setophaga fusca_Blackburnian Warbler,0.10526338,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5948794,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.27594513,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28418124,106.0,109.0
+Setophaga fusca_Blackburnian Warbler,0.17398258,106.0,109.0
+Setophaga cerulea_Cerulean Warbler,0.10749533,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13081825,107.0,110.0
+Piranga olivacea_Scarlet Tanager,0.9300046,108.0,111.0
+Piranga olivacea_Scarlet Tanager,0.9587294,109.0,112.0
+Piranga olivacea_Scarlet Tanager,0.9654699,110.0,113.0
+Piranga olivacea_Scarlet Tanager,0.96488756,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19441618,112.0,115.0
+Setophaga fusca_Blackburnian Warbler,0.15917274,112.0,115.0
+Setophaga cerulea_Cerulean Warbler,0.10808277,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22373067,113.0,116.0
+Setophaga fusca_Blackburnian Warbler,0.20306927,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28184482,114.0,117.0
+Setophaga virens_Black-throated Green Warbler,0.10323156,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3021074,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.16961104,115.0,118.0
+Setophaga fusca_Blackburnian Warbler,0.120162755,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22602347,116.0,119.0
+Setophaga cerulea_Cerulean Warbler,0.17898947,116.0,119.0
+Setophaga fusca_Blackburnian Warbler,0.13134587,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.309091,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.19050848,117.0,120.0
+Setophaga virens_Black-throated Green Warbler,0.10640243,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2085448,118.0,121.0
+Setophaga fusca_Blackburnian Warbler,0.17956166,118.0,121.0
+Catharus fuscescens_Veery,0.13482532,119.0,122.0
+Piranga olivacea_Scarlet Tanager,0.10884704,119.0,122.0
+Piranga olivacea_Scarlet Tanager,0.9122766,120.0,123.0
+Piranga olivacea_Scarlet Tanager,0.9807587,121.0,124.0
+Piranga olivacea_Scarlet Tanager,0.9926604,122.0,125.0
+Piranga olivacea_Scarlet Tanager,0.98676294,123.0,126.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17012936,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.10914006,126.0,129.0
+Setophaga fusca_Blackburnian Warbler,0.101307094,126.0,129.0
+Setophaga cerulea_Cerulean Warbler,0.11191596,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103854954,129.0,132.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16407718,130.0,133.0
+Setophaga fusca_Blackburnian Warbler,0.104042895,130.0,133.0
+Piranga olivacea_Scarlet Tanager,0.9687347,132.0,135.0
+Piranga olivacea_Scarlet Tanager,0.9806739,133.0,136.0
+Piranga olivacea_Scarlet Tanager,0.95569813,134.0,137.0
+Piranga olivacea_Scarlet Tanager,0.99342537,135.0,138.0
+Setophaga fusca_Blackburnian Warbler,0.2320775,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20063095,136.0,139.0
+Setophaga cerulea_Cerulean Warbler,0.11687376,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19352448,137.0,140.0
+Setophaga fusca_Blackburnian Warbler,0.19276997,137.0,140.0
+Setophaga virens_Black-throated Green Warbler,0.16068149,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.101613775,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27898225,138.0,141.0
+Setophaga fusca_Blackburnian Warbler,0.14410314,138.0,141.0
+Tamias striatus_Eastern Chipmunk,0.11330415,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15603183,139.0,142.0
+Setophaga fusca_Blackburnian Warbler,0.13028158,139.0,142.0
+Tamias striatus_Eastern Chipmunk,0.112764776,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23817223,140.0,143.0
+Tamias striatus_Eastern Chipmunk,0.16163394,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15059532,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19748789,142.0,145.0
+Setophaga fusca_Blackburnian Warbler,0.14362192,142.0,145.0
+Piranga olivacea_Scarlet Tanager,0.20284434,143.0,146.0
+Piranga olivacea_Scarlet Tanager,0.9771212,144.0,147.0
+Piranga olivacea_Scarlet Tanager,0.99491185,145.0,148.0
+Piranga olivacea_Scarlet Tanager,0.97556245,146.0,149.0
+Piranga olivacea_Scarlet Tanager,0.99578285,147.0,150.0
+Piranga ludoviciana_Western Tanager,0.10953271,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25972822,148.0,151.0
+Setophaga cerulea_Cerulean Warbler,0.10511566,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20992248,149.0,152.0
+Setophaga fusca_Blackburnian Warbler,0.13147935,149.0,152.0
+Setophaga cerulea_Cerulean Warbler,0.12522268,149.0,152.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26079944,150.0,153.0
+Setophaga cerulea_Cerulean Warbler,0.13325576,150.0,153.0
+Setophaga fusca_Blackburnian Warbler,0.1729523,151.0,154.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13933201,151.0,154.0
+Buteo platypterus_Broad-winged Hawk,0.11293887,151.0,154.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23560731,152.0,155.0
+Setophaga fusca_Blackburnian Warbler,0.13078406,152.0,155.0
+Setophaga virens_Black-throated Green Warbler,0.12204435,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24304791,153.0,156.0
+Setophaga virens_Black-throated Green Warbler,0.12097023,153.0,156.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21443044,154.0,157.0
+Setophaga fusca_Blackburnian Warbler,0.110295326,154.0,157.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17988992,155.0,158.0
+Setophaga fusca_Blackburnian Warbler,0.1584571,155.0,158.0
+Setophaga virens_Black-throated Green Warbler,0.103230596,155.0,158.0
+Piranga olivacea_Scarlet Tanager,0.95116884,157.0,160.0
+Piranga olivacea_Scarlet Tanager,0.99082094,158.0,161.0
+Piranga olivacea_Scarlet Tanager,0.9939663,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.9920609,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22665645,161.0,164.0
+Setophaga fusca_Blackburnian Warbler,0.14827926,161.0,164.0
+Setophaga virens_Black-throated Green Warbler,0.1228512,161.0,164.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22098853,162.0,165.0
+Setophaga fusca_Blackburnian Warbler,0.19140442,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22725686,163.0,166.0
+Setophaga fusca_Blackburnian Warbler,0.13782543,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14608452,164.0,167.0
+Setophaga fusca_Blackburnian Warbler,0.10484208,164.0,167.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20284587,165.0,168.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28615198,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34077018,167.0,170.0
+Piranga olivacea_Scarlet Tanager,0.9542149,168.0,171.0
+Piranga olivacea_Scarlet Tanager,0.98495746,169.0,172.0
+Piranga olivacea_Scarlet Tanager,0.99292845,170.0,173.0
+Piranga olivacea_Scarlet Tanager,0.9870301,171.0,174.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15131178,172.0,175.0
+Setophaga fusca_Blackburnian Warbler,0.10541083,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22366415,173.0,176.0
+Setophaga fusca_Blackburnian Warbler,0.120137654,173.0,176.0
+Setophaga virens_Black-throated Green Warbler,0.10526164,173.0,176.0
+Tamias striatus_Eastern Chipmunk,0.105057515,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3277674,174.0,177.0
+Setophaga fusca_Blackburnian Warbler,0.13237841,174.0,177.0
+Setophaga virens_Black-throated Green Warbler,0.100781396,174.0,177.0
+Setophaga fusca_Blackburnian Warbler,0.22360608,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17702202,175.0,178.0
+Tamias striatus_Eastern Chipmunk,0.119409345,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22950058,176.0,179.0
+Setophaga fusca_Blackburnian Warbler,0.12450441,176.0,179.0
+Setophaga virens_Black-throated Green Warbler,0.122008845,176.0,179.0
+Setophaga fusca_Blackburnian Warbler,0.1581179,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1517229,177.0,180.0
+Piranga olivacea_Scarlet Tanager,0.9796052,178.0,181.0
+Piranga olivacea_Scarlet Tanager,0.9884007,179.0,182.0
+Piranga olivacea_Scarlet Tanager,0.9929932,180.0,183.0
+Piranga olivacea_Scarlet Tanager,0.9941445,181.0,184.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23864132,182.0,185.0
+Setophaga cerulea_Cerulean Warbler,0.14116168,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29758745,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13788551,184.0,187.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24672568,185.0,188.0
+Setophaga fusca_Blackburnian Warbler,0.12803249,185.0,188.0
+Setophaga fusca_Blackburnian Warbler,0.16041522,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14669551,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22070043,187.0,190.0
+Setophaga fusca_Blackburnian Warbler,0.14779244,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17398834,188.0,191.0
+Setophaga fusca_Blackburnian Warbler,0.15311746,188.0,191.0
+Piranga olivacea_Scarlet Tanager,0.7404705,189.0,192.0
+Piranga olivacea_Scarlet Tanager,0.9650558,190.0,193.0
+Piranga olivacea_Scarlet Tanager,0.9850235,191.0,194.0
+Piranga olivacea_Scarlet Tanager,0.9753572,192.0,195.0
+Piranga olivacea_Scarlet Tanager,0.66162455,193.0,196.0
+Catharus fuscescens_Veery,0.12172586,193.0,196.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3758112,194.0,197.0
+Setophaga cerulea_Cerulean Warbler,0.19004604,194.0,197.0
+Setophaga fusca_Blackburnian Warbler,0.16286641,194.0,197.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30057797,195.0,198.0
+Setophaga cerulea_Cerulean Warbler,0.21702465,195.0,198.0
+Tamias striatus_Eastern Chipmunk,0.17012046,196.0,199.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1353708,196.0,199.0
+Setophaga fusca_Blackburnian Warbler,0.18354006,198.0,201.0
+Setophaga fusca_Blackburnian Warbler,0.28956544,199.0,202.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12753922,199.0,202.0
+Setophaga fusca_Blackburnian Warbler,0.26045704,200.0,203.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14558409,200.0,203.0
+Buteo platypterus_Broad-winged Hawk,0.105299085,200.0,203.0
+Piranga olivacea_Scarlet Tanager,0.90667313,201.0,204.0
+Piranga olivacea_Scarlet Tanager,0.98656946,202.0,205.0
+Piranga olivacea_Scarlet Tanager,0.9852621,203.0,206.0
+Piranga olivacea_Scarlet Tanager,0.99460757,204.0,207.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16055338,205.0,208.0
+Piranga olivacea_Scarlet Tanager,0.112451665,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45953453,207.0,210.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29845402,208.0,211.0
+Setophaga virens_Black-throated Green Warbler,0.11304059,208.0,211.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31801018,209.0,212.0
+Setophaga virens_Black-throated Green Warbler,0.114730425,209.0,212.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3059671,210.0,213.0
+Odocoileus virginianus_White-tailed Deer,0.14479975,210.0,213.0
+Setophaga virens_Black-throated Green Warbler,0.1412505,210.0,213.0
+Setophaga cerulea_Cerulean Warbler,0.12531446,210.0,213.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17586637,211.0,214.0
+Setophaga fusca_Blackburnian Warbler,0.14466353,211.0,214.0
+Tamias striatus_Eastern Chipmunk,0.13692832,211.0,214.0
+Setophaga virens_Black-throated Green Warbler,0.13504994,211.0,214.0
+Setophaga fusca_Blackburnian Warbler,0.2543868,212.0,215.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18806371,212.0,215.0
+Setophaga fusca_Blackburnian Warbler,0.19237414,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15398838,214.0,217.0
+Piranga olivacea_Scarlet Tanager,0.9595927,215.0,218.0
+Piranga olivacea_Scarlet Tanager,0.9925458,216.0,219.0
+Piranga olivacea_Scarlet Tanager,0.9952441,217.0,220.0
+Piranga olivacea_Scarlet Tanager,0.992436,218.0,221.0
+Picoides arcticus_Black-backed Woodpecker,0.14719513,219.0,222.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.72489625,221.0,224.0
+Setophaga cerulea_Cerulean Warbler,0.2687615,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18670821,222.0,225.0
+Setophaga cerulea_Cerulean Warbler,0.14284258,222.0,225.0
+Setophaga virens_Black-throated Green Warbler,0.10773109,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21437187,223.0,226.0
+Setophaga fusca_Blackburnian Warbler,0.15939856,223.0,226.0
+Setophaga cerulea_Cerulean Warbler,0.15181236,223.0,226.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.316092,224.0,227.0
+Setophaga cerulea_Cerulean Warbler,0.19366537,224.0,227.0
+Setophaga fusca_Blackburnian Warbler,0.23045935,225.0,228.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1206387,225.0,228.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11536863,225.0,228.0
+Setophaga cerulea_Cerulean Warbler,0.11011659,225.0,228.0
+Piranga olivacea_Scarlet Tanager,0.41009793,226.0,229.0
+Piranga olivacea_Scarlet Tanager,0.965331,227.0,230.0
+Piranga olivacea_Scarlet Tanager,0.986815,228.0,231.0
+Piranga olivacea_Scarlet Tanager,0.9643996,229.0,232.0
+Piranga olivacea_Scarlet Tanager,0.3654346,230.0,233.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21151756,231.0,234.0
+Setophaga fusca_Blackburnian Warbler,0.14129822,231.0,234.0
+Setophaga virens_Black-throated Green Warbler,0.12058757,231.0,234.0
+Setophaga virens_Black-throated Green Warbler,0.17984621,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14000739,232.0,235.0
+Setophaga fusca_Blackburnian Warbler,0.1161165,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120314084,233.0,236.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14487813,234.0,237.0
+Setophaga fusca_Blackburnian Warbler,0.13704209,234.0,237.0
+Setophaga virens_Black-throated Green Warbler,0.11645389,234.0,237.0
+Tamias striatus_Eastern Chipmunk,0.10627461,234.0,237.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32913893,235.0,238.0
+Setophaga fusca_Blackburnian Warbler,0.15106283,235.0,238.0
+Setophaga cerulea_Cerulean Warbler,0.13296184,235.0,238.0
+Setophaga virens_Black-throated Green Warbler,0.107275285,235.0,238.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2571482,236.0,239.0
+Setophaga fusca_Blackburnian Warbler,0.15671173,236.0,239.0
+Setophaga cerulea_Cerulean Warbler,0.114056356,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23765157,237.0,240.0
+Setophaga cerulea_Cerulean Warbler,0.11788642,237.0,240.0
+Piranga olivacea_Scarlet Tanager,0.94667923,238.0,241.0
+Piranga olivacea_Scarlet Tanager,0.98332834,239.0,242.0
+Piranga olivacea_Scarlet Tanager,0.978307,240.0,243.0
+Piranga olivacea_Scarlet Tanager,0.9734456,241.0,244.0
+Piranga olivacea_Scarlet Tanager,0.116185606,242.0,245.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13151605,243.0,246.0
+Setophaga fusca_Blackburnian Warbler,0.11990402,243.0,246.0
+Setophaga virens_Black-throated Green Warbler,0.10982382,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19112931,244.0,247.0
+Setophaga fusca_Blackburnian Warbler,0.12049352,244.0,247.0
+Setophaga virens_Black-throated Green Warbler,0.10572433,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22047105,245.0,248.0
+Tamias striatus_Eastern Chipmunk,0.15721203,245.0,248.0
+Setophaga virens_Black-throated Green Warbler,0.10933816,245.0,248.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1306991,246.0,249.0
+Setophaga cerulea_Cerulean Warbler,0.12237779,246.0,249.0
+Tamias striatus_Eastern Chipmunk,0.10271117,246.0,249.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17232066,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24495593,248.0,251.0
+Setophaga fusca_Blackburnian Warbler,0.20919058,248.0,251.0
+Piranga olivacea_Scarlet Tanager,0.84512144,249.0,252.0
+Piranga olivacea_Scarlet Tanager,0.97334605,250.0,253.0
+Piranga olivacea_Scarlet Tanager,0.99058306,251.0,254.0
+Piranga olivacea_Scarlet Tanager,0.99526876,252.0,255.0
+Piranga olivacea_Scarlet Tanager,0.78542244,253.0,256.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4712965,254.0,257.0
+Setophaga virens_Black-throated Green Warbler,0.11220302,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25987917,255.0,258.0
+Setophaga virens_Black-throated Green Warbler,0.11007457,255.0,258.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15681536,256.0,259.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30812207,257.0,260.0
+Setophaga cerulea_Cerulean Warbler,0.17274654,257.0,260.0
+Setophaga virens_Black-throated Green Warbler,0.1124978,257.0,260.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22497648,259.0,262.0
+Setophaga fusca_Blackburnian Warbler,0.14809692,259.0,262.0
+Piranga olivacea_Scarlet Tanager,0.5649759,260.0,263.0
+Piranga olivacea_Scarlet Tanager,0.9851906,261.0,264.0
+Piranga olivacea_Scarlet Tanager,0.9810322,262.0,265.0
+Piranga olivacea_Scarlet Tanager,0.9916813,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26568943,264.0,267.0
+Setophaga fusca_Blackburnian Warbler,0.13165228,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21517748,265.0,268.0
+Setophaga fusca_Blackburnian Warbler,0.10563584,265.0,268.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21463704,266.0,269.0
+Setophaga virens_Black-throated Green Warbler,0.107155055,266.0,269.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17449018,267.0,270.0
+Tamias striatus_Eastern Chipmunk,0.16288069,267.0,270.0
+Tamiasciurus hudsonicus_Red Squirrel,0.100896075,270.0,273.0
+Tamiasciurus hudsonicus_Red Squirrel,0.4334306,271.0,274.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13363966,272.0,275.0
+Setophaga fusca_Blackburnian Warbler,0.107889056,272.0,275.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14076339,273.0,276.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13716577,274.0,277.0
+Buteo platypterus_Broad-winged Hawk,0.11127647,274.0,277.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14672743,275.0,278.0
+Buteo platypterus_Broad-winged Hawk,0.10223136,275.0,278.0
+Piranga olivacea_Scarlet Tanager,0.9747884,276.0,279.0
+Piranga olivacea_Scarlet Tanager,0.99326915,277.0,280.0
+Piranga olivacea_Scarlet Tanager,0.98479176,278.0,281.0
+Piranga olivacea_Scarlet Tanager,0.9933129,279.0,282.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.49737847,280.0,283.0
+Setophaga cerulea_Cerulean Warbler,0.15154864,280.0,283.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24273738,281.0,284.0
+Setophaga fusca_Blackburnian Warbler,0.16313446,281.0,284.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123814784,281.0,284.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18987708,282.0,285.0
+Seiurus aurocapilla_Ovenbird,0.18232363,282.0,285.0
+Setophaga virens_Black-throated Green Warbler,0.10309946,282.0,285.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18723457,283.0,286.0
+Seiurus aurocapilla_Ovenbird,0.15681556,283.0,286.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17915274,284.0,287.0
+Piranga olivacea_Scarlet Tanager,0.90282017,285.0,288.0
+Piranga olivacea_Scarlet Tanager,0.99616843,286.0,289.0
+Piranga olivacea_Scarlet Tanager,0.96928656,287.0,290.0
+Piranga olivacea_Scarlet Tanager,0.98003584,288.0,291.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34422487,289.0,292.0
+Setophaga cerulea_Cerulean Warbler,0.11886212,289.0,292.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32199296,290.0,293.0
+Setophaga virens_Black-throated Green Warbler,0.13389528,290.0,293.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124548435,291.0,294.0
+Setophaga virens_Black-throated Green Warbler,0.11333958,291.0,294.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14631973,292.0,295.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102955244,293.0,296.0
+Buteo platypterus_Broad-winged Hawk,0.15550405,294.0,297.0
+Setophaga fusca_Blackburnian Warbler,0.15206853,294.0,297.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14842719,294.0,297.0
+Setophaga virens_Black-throated Green Warbler,0.12506942,294.0,297.0
+Helmitheros vermivorum_Worm-eating Warbler,0.111407466,294.0,297.0
+Setophaga fusca_Blackburnian Warbler,0.15542625,295.0,298.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1549732,295.0,298.0
+Piranga olivacea_Scarlet Tanager,0.63376564,296.0,299.0
+Piranga olivacea_Scarlet Tanager,0.9838049,297.0,300.0
+Piranga olivacea_Scarlet Tanager,0.9923942,298.0,301.0
+Piranga olivacea_Scarlet Tanager,0.9963086,299.0,302.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.49503127,300.0,303.0
+Setophaga citrina_Hooded Warbler,0.15980522,300.0,303.0
+Setophaga cerulea_Cerulean Warbler,0.14494833,300.0,303.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23887447,301.0,304.0
+Setophaga fusca_Blackburnian Warbler,0.17842259,301.0,304.0
+Setophaga virens_Black-throated Green Warbler,0.13452147,301.0,304.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21189462,302.0,305.0
+Setophaga fusca_Blackburnian Warbler,0.17513926,302.0,305.0
+Setophaga virens_Black-throated Green Warbler,0.10484936,302.0,305.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29980615,303.0,306.0
+Setophaga fusca_Blackburnian Warbler,0.16404557,303.0,306.0
+Setophaga virens_Black-throated Green Warbler,0.11018763,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16107534,304.0,307.0
+Setophaga fusca_Blackburnian Warbler,0.14642258,304.0,307.0
+Setophaga virens_Black-throated Green Warbler,0.10054307,304.0,307.0
+Setophaga fusca_Blackburnian Warbler,0.16857289,305.0,308.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14168406,305.0,308.0
+Piranga olivacea_Scarlet Tanager,0.97967654,307.0,310.0
+Piranga olivacea_Scarlet Tanager,0.9820086,308.0,311.0
+Piranga olivacea_Scarlet Tanager,0.9828128,309.0,312.0
+Piranga olivacea_Scarlet Tanager,0.99453944,310.0,313.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33053017,311.0,314.0
+Setophaga cerulea_Cerulean Warbler,0.1451831,311.0,314.0
+Setophaga fusca_Blackburnian Warbler,0.12325152,311.0,314.0
+Setophaga virens_Black-throated Green Warbler,0.11043445,311.0,314.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14940324,312.0,315.0
+Setophaga cerulea_Cerulean Warbler,0.13645615,312.0,315.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13993709,313.0,316.0
+Setophaga fusca_Blackburnian Warbler,0.12916003,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12303923,314.0,317.0
+Setophaga fusca_Blackburnian Warbler,0.11578732,314.0,317.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24486344,315.0,318.0
+Setophaga fusca_Blackburnian Warbler,0.12305367,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2501848,316.0,319.0
+Setophaga fusca_Blackburnian Warbler,0.12918618,316.0,319.0
+Setophaga fusca_Blackburnian Warbler,0.15536995,317.0,320.0
+Piranga olivacea_Scarlet Tanager,0.52338344,318.0,321.0
+Piranga olivacea_Scarlet Tanager,0.98330414,319.0,322.0
+Piranga olivacea_Scarlet Tanager,0.97650677,320.0,323.0
+Piranga olivacea_Scarlet Tanager,0.98701894,321.0,324.0
+Piranga olivacea_Scarlet Tanager,0.5620452,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30779845,323.0,326.0
+Setophaga cerulea_Cerulean Warbler,0.1651611,323.0,326.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22930355,324.0,327.0
+Tamias striatus_Eastern Chipmunk,0.15542163,324.0,327.0
+Setophaga fusca_Blackburnian Warbler,0.12103277,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16255324,325.0,328.0
+Setophaga fusca_Blackburnian Warbler,0.11836122,325.0,328.0
+Setophaga virens_Black-throated Green Warbler,0.10182298,325.0,328.0
+Odocoileus virginianus_White-tailed Deer,0.10120157,325.0,328.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12377833,326.0,329.0
+Setophaga fusca_Blackburnian Warbler,0.25755125,327.0,330.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15555046,327.0,330.0
+Setophaga fusca_Blackburnian Warbler,0.26909715,328.0,331.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15871575,328.0,331.0
+Piranga olivacea_Scarlet Tanager,0.6891425,329.0,332.0
+Piranga olivacea_Scarlet Tanager,0.97076976,330.0,333.0
+Piranga olivacea_Scarlet Tanager,0.9934469,331.0,334.0
+Piranga olivacea_Scarlet Tanager,0.9891895,332.0,335.0
+Piranga olivacea_Scarlet Tanager,0.8340543,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17641065,334.0,337.0
+Setophaga fusca_Blackburnian Warbler,0.13504793,334.0,337.0
+Setophaga fusca_Blackburnian Warbler,0.14213134,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11036542,335.0,338.0
+Setophaga fusca_Blackburnian Warbler,0.16660598,336.0,339.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16396351,336.0,339.0
+Buteo platypterus_Broad-winged Hawk,0.11371629,336.0,339.0
+Setophaga fusca_Blackburnian Warbler,0.28177193,337.0,340.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12856603,337.0,340.0
+Setophaga fusca_Blackburnian Warbler,0.3157407,338.0,341.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18415958,338.0,341.0
+Setophaga virens_Black-throated Green Warbler,0.103323236,338.0,341.0
+Piranga olivacea_Scarlet Tanager,0.1306132,339.0,342.0
+Piranga olivacea_Scarlet Tanager,0.98409295,340.0,343.0
+Piranga olivacea_Scarlet Tanager,0.9676061,341.0,344.0
+Piranga olivacea_Scarlet Tanager,0.9799788,342.0,345.0
+Piranga olivacea_Scarlet Tanager,0.7127511,343.0,346.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122922614,343.0,346.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4392181,344.0,347.0
+Dryocopus pileatus_Pileated Woodpecker,0.28092775,344.0,347.0
+Setophaga cerulea_Cerulean Warbler,0.2002087,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20884244,345.0,348.0
+Dryocopus pileatus_Pileated Woodpecker,0.17739409,345.0,348.0
+Setophaga fusca_Blackburnian Warbler,0.17691356,345.0,348.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23029475,346.0,349.0
+Dryocopus pileatus_Pileated Woodpecker,0.19823244,346.0,349.0
+Setophaga fusca_Blackburnian Warbler,0.1387464,346.0,349.0
+Dryocopus pileatus_Pileated Woodpecker,0.23368333,347.0,350.0
+Setophaga fusca_Blackburnian Warbler,0.20431116,347.0,350.0
+Dryocopus pileatus_Pileated Woodpecker,0.19811821,348.0,351.0
+Setophaga fusca_Blackburnian Warbler,0.13214438,348.0,351.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12737127,348.0,351.0
+Setophaga cerulea_Cerulean Warbler,0.109698206,348.0,351.0
+Piranga olivacea_Scarlet Tanager,0.9850418,349.0,352.0
+Piranga olivacea_Scarlet Tanager,0.9959413,350.0,353.0
+Piranga olivacea_Scarlet Tanager,0.9959611,351.0,354.0
+Piranga olivacea_Scarlet Tanager,0.8743017,352.0,354.5280272108844
+Vireo flavifrons_Yellow-throated Vireo,0.1194067,352.0,354.5280272108844

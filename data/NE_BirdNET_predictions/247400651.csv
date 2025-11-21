@@ -1,0 +1,155 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.8613464,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.23977213,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.12013544,1.0,4.0
+Buteo platypterus_Broad-winged Hawk,0.10947157,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.37807775,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.74562556,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.106213965,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.7426794,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.13813736,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.67669785,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.5328519,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.59874254,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.5974791,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.20595439,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1169953,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.57994884,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.27286455,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10975939,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.40705943,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.17556806,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.6011384,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.15319373,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.2541892,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.48714456,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.6255577,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.65735096,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121293485,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.10404331,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.51380545,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.39584365,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.2737651,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.21760702,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.16824687,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.27985862,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.7124773,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.1866727,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.11722875,21.0,24.0
+Dryobates pubescens_Downy Woodpecker,0.30132073,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15429911,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.21170741,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10431831,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13511243,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12917508,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100511014,30.0,33.0
+Catharus minimus_Gray-cheeked Thrush,0.14285691,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10511355,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.57541096,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.46173933,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.39645773,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.31704897,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.41299152,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.42099532,40.0,43.0
+Geothlypis formosa_Kentucky Warbler,0.10434471,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.43404675,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.15212336,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.71506727,42.0,45.0
+Empidonax virescens_Acadian Flycatcher,0.5520637,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.30984578,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.26006323,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3152708,46.0,49.0
+Vermivora cyanoptera_Blue-winged Warbler,0.142095,46.0,49.0
+Catharus fuscescens_Veery,0.5409876,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.1676112,47.0,50.0
+Catharus fuscescens_Veery,0.2333556,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.22051235,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.3161087,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.17562367,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108501896,51.0,54.0
+Catharus fuscescens_Veery,0.7037176,52.0,55.0
+Hylocichla mustelina_Wood Thrush,0.31459147,53.0,56.0
+Catharus fuscescens_Veery,0.16756645,53.0,56.0
+Catharus fuscescens_Veery,0.4641028,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.20206073,54.0,57.0
+Empidonax virescens_Acadian Flycatcher,0.9004934,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.10165805,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.9225431,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.88994646,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.15082417,58.0,61.0
+Catharus fuscescens_Veery,0.14849734,58.0,61.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14685908,58.0,61.0
+Catharus fuscescens_Veery,0.14814842,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10023398,59.0,62.0
+Ixoreus naevius_Varied Thrush,0.23140982,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15179183,60.0,63.0
+Catharus fuscescens_Veery,0.37345603,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.13051845,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.4961988,63.0,66.0
+Catharus fuscescens_Veery,0.33740696,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11427366,64.0,67.0
+Catharus fuscescens_Veery,0.38009194,65.0,68.0
+Catharus fuscescens_Veery,0.78502804,66.0,69.0
+Catharus fuscescens_Veery,0.9012441,67.0,70.0
+Catharus fuscescens_Veery,0.26642337,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.16851431,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.4750254,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.40362042,70.0,73.0
+Geothlypis formosa_Kentucky Warbler,0.15228282,70.0,73.0
+Catharus fuscescens_Veery,0.12554811,71.0,74.0
+Empidonax virescens_Acadian Flycatcher,0.7328239,72.0,75.0
+Empidonax virescens_Acadian Flycatcher,0.8742243,73.0,76.0
+Empidonax virescens_Acadian Flycatcher,0.971797,74.0,77.0
+Empidonax virescens_Acadian Flycatcher,0.6551018,75.0,78.0
+Catharus fuscescens_Veery,0.20415144,77.0,80.0
+Catharus fuscescens_Veery,0.906202,78.0,81.0
+Catharus fuscescens_Veery,0.85935026,79.0,82.0
+Catharus fuscescens_Veery,0.7920497,80.0,83.0
+Catharus fuscescens_Veery,0.124640934,81.0,84.0
+Catharus guttatus_Hermit Thrush,0.109771244,81.0,84.0
+Catharus fuscescens_Veery,0.5999051,82.0,85.0
+Catharus fuscescens_Veery,0.5500757,83.0,86.0
+Empidonax virescens_Acadian Flycatcher,0.64684856,84.0,87.0
+Empidonax virescens_Acadian Flycatcher,0.91637933,85.0,88.0
+Empidonax virescens_Acadian Flycatcher,0.50899506,86.0,89.0
+Catharus fuscescens_Veery,0.47028252,86.0,89.0
+Catharus fuscescens_Veery,0.33609504,87.0,90.0
+Catharus fuscescens_Veery,0.95360994,88.0,91.0
+Catharus fuscescens_Veery,0.9750886,89.0,92.0
+Catharus fuscescens_Veery,0.22743016,90.0,93.0
+Catharus fuscescens_Veery,0.23472801,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12796657,91.0,94.0
+Catharus fuscescens_Veery,0.6558897,92.0,95.0
+Catharus fuscescens_Veery,0.60091174,93.0,96.0
+Hylocichla mustelina_Wood Thrush,0.10144897,93.0,96.0
+Catharus fuscescens_Veery,0.7609233,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.3568287,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.4288494,95.0,98.0
+Catharus fuscescens_Veery,0.28621745,95.0,98.0
+Geothlypis formosa_Kentucky Warbler,0.12238079,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.22986718,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117702655,96.0,99.0
+Geothlypis formosa_Kentucky Warbler,0.19275615,97.0,100.0
+Setophaga citrina_Hooded Warbler,0.19261517,97.0,100.0
+Empidonax virescens_Acadian Flycatcher,0.23313333,98.0,101.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10773302,98.0,101.0
+Catharus fuscescens_Veery,0.34174794,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.28148672,100.0,103.0
+Empidonax virescens_Acadian Flycatcher,0.24415116,100.0,103.0
+Empidonax virescens_Acadian Flycatcher,0.59724015,101.0,104.0
+Hylocichla mustelina_Wood Thrush,0.25203052,101.0,104.0
+Empidonax virescens_Acadian Flycatcher,0.6150262,102.0,105.0
+Hylocichla mustelina_Wood Thrush,0.15598708,102.0,105.0
+Catharus fuscescens_Veery,0.15424256,103.0,106.0
+Catharus fuscescens_Veery,0.67972696,104.0,107.0
+Catharus fuscescens_Veery,0.62188125,105.0,108.0
+Empidonax virescens_Acadian Flycatcher,0.84316474,106.0,109.0
+Empidonax virescens_Acadian Flycatcher,0.716739,107.0,110.0
+Catharus fuscescens_Veery,0.7183819,108.0,111.0
+Empidonax virescens_Acadian Flycatcher,0.10678657,108.0,111.0
+Catharus fuscescens_Veery,0.8785979,109.0,112.0
+Catharus fuscescens_Veery,0.795854,110.0,113.0
+Catharus fuscescens_Veery,0.8163081,111.0,114.0
+Hylocichla mustelina_Wood Thrush,0.538578,112.0,115.0
+Hylocichla mustelina_Wood Thrush,0.811012,113.0,116.0
+Hylocichla mustelina_Wood Thrush,0.36524412,114.0,116.04

@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.79653764,0.0,3.0
+Loxia curvirostra_Red Crossbill,0.14686294,0.0,3.0
+Melospiza melodia_Song Sparrow,0.15927975,1.0,4.0
+Melospiza melodia_Song Sparrow,0.16902886,2.0,5.0
+Anthus rubescens_American Pipit,0.3154768,4.0,7.0
+Lullula arborea_Wood Lark,0.10062697,6.0,9.0
+Tachycineta bicolor_Tree Swallow,0.10214271,7.0,10.0
+Molothrus ater_Brown-headed Cowbird,0.5388127,10.0,13.0
+Molothrus ater_Brown-headed Cowbird,0.50976634,11.0,14.0
+Molothrus ater_Brown-headed Cowbird,0.24985702,12.0,15.0
+Coturnix pectoralis_Stubble Quail,0.43160406,13.0,16.0
+Vireo philadelphicus_Philadelphia Vireo,0.3242495,13.0,16.0
+Tringa ochropus_Green Sandpiper,0.21652576,13.0,16.0
+Spizelloides arborea_American Tree Sparrow,0.1311566,13.0,16.0
+Phylloscopus magnirostris_Large-billed Leaf Warbler,0.15828638,14.0,17.0
+Melospiza melodia_Song Sparrow,0.32235482,16.0,19.0
+Spizella pusilla_Field Sparrow,0.12520279,17.0,20.0
+Peucaea aestivalis_Bachman's Sparrow,0.59427303,18.0,21.0
+Spizella pusilla_Field Sparrow,0.20106752,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12282183,18.0,21.0
+Molothrus ater_Brown-headed Cowbird,0.2081298,19.0,22.0
+Setophaga tigrina_Cape May Warbler,0.13853677,19.0,22.0
+Molothrus ater_Brown-headed Cowbird,0.28404066,20.0,23.0
+Setophaga tigrina_Cape May Warbler,0.11055422,20.0,23.0
+Molothrus ater_Brown-headed Cowbird,0.412952,21.0,24.0
+Zapornia pusilla_Baillon's Crake,0.18852596,23.0,26.0
+Locustella luscinioides_Savi's Warbler,0.17730226,23.0,26.0
+Mimus polyglottos_Northern Mockingbird,0.109019645,25.0,28.0
+Megaceryle alcyon_Belted Kingfisher,0.37206364,26.0,29.0
+Colinus virginianus_Northern Bobwhite,0.100821264,28.0,31.0
+Melospiza melodia_Song Sparrow,0.29347804,31.0,34.0
+Melospiza melodia_Song Sparrow,0.38079756,32.0,35.0
+Melospiza melodia_Song Sparrow,0.32343316,33.0,36.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1212611,35.0,38.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.10102096,43.0,46.0
+Pluvialis squatarola_Black-bellied Plover,0.36431664,44.0,47.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.15814249,44.0,47.0
+Buteo jamaicensis_Red-tailed Hawk,0.11054865,44.0,47.0
+Brachyramphus marmoratus_Marbled Murrelet,0.10023329,44.0,47.0
+Setophaga discolor_Prairie Warbler,0.20733324,46.0,49.0
+Spizella pusilla_Field Sparrow,0.14530198,46.0,49.0
+Ammospiza nelsoni_Nelson's Sparrow,0.42966837,50.0,53.0
+Molothrus ater_Brown-headed Cowbird,0.2029429,50.0,53.0
+Turdus merula_Eurasian Blackbird,0.1539111,58.0,61.0
+Molothrus ater_Brown-headed Cowbird,0.13435358,62.0,65.0
+Parus major_Great Tit,0.11331232,62.0,65.0
+Spizella pusilla_Field Sparrow,0.24137339,63.0,66.0
+Melospiza melodia_Song Sparrow,0.54528606,64.0,67.0
+Melospiza melodia_Song Sparrow,0.3063316,65.0,68.0
+Melospiza melodia_Song Sparrow,0.26787597,66.0,69.0
+Ammospiza nelsoni_Nelson's Sparrow,0.5606747,67.0,70.0
+Melospiza melodia_Song Sparrow,0.13595262,67.0,70.0
+Engine_Engine,0.13582599,76.0,79.0
+Engine_Engine,0.10375437,77.0,80.0
+Buteo platypterus_Broad-winged Hawk,0.13375215,85.0,88.0
+Spizella pusilla_Field Sparrow,0.36876005,86.0,89.0
+Setophaga discolor_Prairie Warbler,0.120899975,86.0,89.0
+Melospiza melodia_Song Sparrow,0.2674142,87.0,90.0
+Spizella pusilla_Field Sparrow,0.12896028,88.0,91.0
+Setophaga discolor_Prairie Warbler,0.113439575,88.0,91.0
