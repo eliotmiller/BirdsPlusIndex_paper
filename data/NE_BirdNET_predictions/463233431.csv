@@ -1,0 +1,176 @@
+species,score,start_time,end_time
+Mimus polyglottos_Northern Mockingbird,0.7556481,0.0,3.0
+Turdus philomelos_Song Thrush,0.15081428,0.0,3.0
+Loxia curvirostra_Red Crossbill,0.14077535,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.86599386,1.0,4.0
+Passerina amoena_Lazuli Bunting,0.4615715,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.99701154,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.9955224,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.98525083,4.0,7.0
+Peucaea aestivalis_Bachman's Sparrow,0.7050055,5.0,8.0
+Amphispiza bilineata_Black-throated Sparrow,0.14818236,5.0,8.0
+Spizella pusilla_Field Sparrow,0.12463298,7.0,10.0
+Spizella pusilla_Field Sparrow,0.18908189,8.0,11.0
+Spizella pusilla_Field Sparrow,0.16588905,9.0,12.0
+Zonotrichia albicollis_White-throated Sparrow,0.10861861,9.0,12.0
+Spizella pusilla_Field Sparrow,0.19122179,10.0,13.0
+Spizella pusilla_Field Sparrow,0.44474304,11.0,14.0
+Spizella pusilla_Field Sparrow,0.2662342,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.118568465,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.9859612,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.9926178,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.9884471,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.9561275,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.1421737,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15429027,21.0,24.0
+Icteria virens_Yellow-breasted Chat,0.1977071,23.0,26.0
+Sitta carolinensis_White-breasted Nuthatch,0.124196835,23.0,26.0
+Scytalopus atratus_White-crowned Tapaculo,0.16676714,24.0,27.0
+Icteria virens_Yellow-breasted Chat,0.13781397,25.0,28.0
+Clibanornis erythrocephalus_Henna-hooded Foliage-gleaner,0.13898093,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.891306,27.0,30.0
+Passerina amoena_Lazuli Bunting,0.4716975,27.0,30.0
+Phylloscopus trochilus_Willow Warbler,0.1455532,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.9977149,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.9909127,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.98268867,30.0,33.0
+Amphispiza bilineata_Black-throated Sparrow,0.125638,31.0,34.0
+Toxostoma rufum_Brown Thrasher,0.1337967,32.0,35.0
+Mimus polyglottos_Northern Mockingbird,0.19457357,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.3403331,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.6284076,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.47285295,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.5911793,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.49678886,38.0,41.0
+Toxostoma rufum_Brown Thrasher,0.5789759,39.0,42.0
+Zonotrichia querula_Harris's Sparrow,0.21347271,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.13984811,39.0,42.0
+Zonotrichia albicollis_White-throated Sparrow,0.13844728,39.0,42.0
+Toxostoma rufum_Brown Thrasher,0.18280652,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.111050606,40.0,43.0
+Zonotrichia albicollis_White-throated Sparrow,0.11032219,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.41267702,41.0,44.0
+Toxostoma rufum_Brown Thrasher,0.17690597,41.0,44.0
+Mimus polyglottos_Northern Mockingbird,0.36764187,42.0,45.0
+Mimus polyglottos_Northern Mockingbird,0.32913798,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.750937,44.0,47.0
+Passerina amoena_Lazuli Bunting,0.41036242,44.0,47.0
+Passerina cyanea_Indigo Bunting,0.99155563,45.0,48.0
+Passerina cyanea_Indigo Bunting,0.9974952,46.0,49.0
+Passerina cyanea_Indigo Bunting,0.98799986,47.0,50.0
+Passerina cyanea_Indigo Bunting,0.9546031,48.0,51.0
+Emberiza schoeniclus_Reed Bunting,0.14705463,48.0,51.0
+Milvago chimango_Chimango Caracara,0.25081456,49.0,52.0
+Milvago chimachima_Yellow-headed Caracara,0.14838368,49.0,52.0
+Mimus polyglottos_Northern Mockingbird,0.108441584,50.0,53.0
+Mimus polyglottos_Northern Mockingbird,0.1505757,51.0,54.0
+Mimus polyglottos_Northern Mockingbird,0.19110389,52.0,55.0
+Dumetella carolinensis_Gray Catbird,0.53066695,54.0,57.0
+Dumetella carolinensis_Gray Catbird,0.59769434,55.0,58.0
+Dumetella carolinensis_Gray Catbird,0.32967213,57.0,60.0
+Tachycineta bicolor_Tree Swallow,0.15899952,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.10554095,58.0,61.0
+Passerina cyanea_Indigo Bunting,0.7360975,59.0,62.0
+Leiothlypis ruficapilla_Nashville Warbler,0.22252041,59.0,62.0
+Passerina amoena_Lazuli Bunting,0.14837041,59.0,62.0
+Passerina cyanea_Indigo Bunting,0.9707101,60.0,63.0
+Passerina cyanea_Indigo Bunting,0.98883384,61.0,64.0
+Passerina cyanea_Indigo Bunting,0.9839426,62.0,65.0
+Passerina cyanea_Indigo Bunting,0.9469311,63.0,66.0
+Emberiza schoeniclus_Reed Bunting,0.12460419,63.0,66.0
+Acanthis flammea_Common Redpoll,0.1259042,64.0,67.0
+Dumetella carolinensis_Gray Catbird,0.7911737,65.0,68.0
+Dumetella carolinensis_Gray Catbird,0.68260825,66.0,69.0
+Dumetella carolinensis_Gray Catbird,0.6440566,67.0,70.0
+Mimus polyglottos_Northern Mockingbird,0.10773291,70.0,73.0
+Spizella pusilla_Field Sparrow,0.24089502,71.0,74.0
+Dumetella carolinensis_Gray Catbird,0.12570564,71.0,74.0
+Spizella pusilla_Field Sparrow,0.45987582,72.0,75.0
+Spizella pusilla_Field Sparrow,0.37243274,73.0,76.0
+Passerina cyanea_Indigo Bunting,0.7037436,74.0,77.0
+Passerina amoena_Lazuli Bunting,0.30677426,74.0,77.0
+Leiothlypis ruficapilla_Nashville Warbler,0.10892112,74.0,77.0
+Passerina cyanea_Indigo Bunting,0.95296234,75.0,78.0
+Passerina cyanea_Indigo Bunting,0.96135163,76.0,79.0
+Passerina cyanea_Indigo Bunting,0.9617844,77.0,80.0
+Dumetella carolinensis_Gray Catbird,0.13835895,79.0,82.0
+Mimus polyglottos_Northern Mockingbird,0.16625069,80.0,83.0
+Dumetella carolinensis_Gray Catbird,0.11387767,80.0,83.0
+Mimus polyglottos_Northern Mockingbird,0.17056897,81.0,84.0
+Mimus polyglottos_Northern Mockingbird,0.5214883,82.0,85.0
+Mimus gilvus_Tropical Mockingbird,0.22395952,82.0,85.0
+Mimus polyglottos_Northern Mockingbird,0.73084086,83.0,86.0
+Mimus gilvus_Tropical Mockingbird,0.51862675,83.0,86.0
+Turdus philomelos_Song Thrush,0.13194421,83.0,86.0
+Turdus philomelos_Song Thrush,0.798116,84.0,87.0
+Mimus polyglottos_Northern Mockingbird,0.44823712,84.0,87.0
+Mimus gilvus_Tropical Mockingbird,0.22891611,84.0,87.0
+Myiothlypis flaveola_Flavescent Warbler,0.22333136,85.0,88.0
+Troglodytes troglodytes_Eurasian Wren,0.19005242,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.9920373,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.988117,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.97831327,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.9901037,89.0,92.0
+Passerina cyanea_Indigo Bunting,0.6551606,90.0,93.0
+Emberiza schoeniclus_Reed Bunting,0.25138667,90.0,93.0
+Junco phaeonotus_Yellow-eyed Junco,0.12372348,90.0,93.0
+Progne subis_Purple Martin,0.44897252,92.0,95.0
+Progne subis_Purple Martin,0.34736782,93.0,96.0
+Progne subis_Purple Martin,0.24231881,94.0,97.0
+Progne subis_Purple Martin,0.6273338,95.0,98.0
+Progne subis_Purple Martin,0.9601075,96.0,99.0
+Progne subis_Purple Martin,0.93125707,97.0,100.0
+Phaenostictus mcleannani_Ocellated Antbird,0.47548968,98.0,101.0
+Spizella pusilla_Field Sparrow,0.4535692,98.0,101.0
+Progne subis_Purple Martin,0.1354466,98.0,101.0
+Spizella pusilla_Field Sparrow,0.8424081,99.0,102.0
+Mimus polyglottos_Northern Mockingbird,0.44186988,100.0,103.0
+Progne subis_Purple Martin,0.20568448,100.0,103.0
+Mimus polyglottos_Northern Mockingbird,0.23697086,102.0,105.0
+Mimus polyglottos_Northern Mockingbird,0.15854508,104.0,107.0
+Mimus polyglottos_Northern Mockingbird,0.17244235,105.0,108.0
+Mimus polyglottos_Northern Mockingbird,0.21849976,106.0,109.0
+Mimus polyglottos_Northern Mockingbird,0.22948064,107.0,110.0
+Passerina amoena_Lazuli Bunting,0.85457265,108.0,111.0
+Passerina cyanea_Indigo Bunting,0.3336749,108.0,111.0
+Passerina cyanea_Indigo Bunting,0.99076384,109.0,112.0
+Passerina cyanea_Indigo Bunting,0.99325436,110.0,113.0
+Passerina cyanea_Indigo Bunting,0.9799486,111.0,114.0
+Amphispiza bilineata_Black-throated Sparrow,0.38122335,112.0,115.0
+Mimus polyglottos_Northern Mockingbird,0.65269953,113.0,116.0
+Mimus polyglottos_Northern Mockingbird,0.29581824,114.0,117.0
+Mimus polyglottos_Northern Mockingbird,0.15957707,115.0,118.0
+Rallus limicola_Virginia Rail,0.17533489,116.0,119.0
+Mimus polyglottos_Northern Mockingbird,0.19906992,119.0,122.0
+Dumetella carolinensis_Gray Catbird,0.22225496,120.0,123.0
+Mimus polyglottos_Northern Mockingbird,0.13686498,121.0,124.0
+Dumetella carolinensis_Gray Catbird,0.10421003,121.0,124.0
+Dumetella carolinensis_Gray Catbird,0.23844124,122.0,125.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.12564833,127.0,130.0
+Gryllus rubens_Southeastern Field Cricket,0.17803518,128.0,131.0
+Sayornis phoebe_Eastern Phoebe,0.48420268,129.0,132.0
+Sayornis phoebe_Eastern Phoebe,0.8445127,130.0,133.0
+Sayornis phoebe_Eastern Phoebe,0.49527973,131.0,134.0
+Sayornis phoebe_Eastern Phoebe,0.47171682,132.0,135.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.1885434,133.0,136.0
+Gryllus rubens_Southeastern Field Cricket,0.108880565,133.0,136.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.102055274,133.0,136.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.10830471,134.0,137.0
+Gryllus rubens_Southeastern Field Cricket,0.10418644,134.0,137.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.13551849,138.0,141.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.33956134,143.0,146.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.929642,144.0,147.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.24827881,144.0,147.0
+Oecanthus pini_Pine Tree Cricket,0.2267323,144.0,147.0
+Oecanthus quadripunctatus_Four-spotted Tree Cricket,0.18239859,144.0,147.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.6482177,145.0,148.0
+Sialia currucoides_Mountain Bluebird,0.2127509,146.0,149.0
+Mimus polyglottos_Northern Mockingbird,0.10887135,148.0,151.0
+Mimus gilvus_Tropical Mockingbird,0.1183188,149.0,152.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.16897456,151.0,154.0
+Sialia mexicana_Western Bluebird,0.10053726,151.0,154.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.112059005,153.0,156.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.13934417,154.0,157.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.12771676,155.0,158.0
+Mimus polyglottos_Northern Mockingbird,0.29987037,159.0,162.0
+Mimus polyglottos_Northern Mockingbird,0.42089367,160.0,162.0960090702948

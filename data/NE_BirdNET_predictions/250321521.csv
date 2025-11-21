@@ -1,0 +1,36 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.9986559,0.0,3.0
+Strix occidentalis_Spotted Owl,0.35126087,0.0,3.0
+Strix varia_Barred Owl,0.95773715,1.0,4.0
+Setophaga americana_Northern Parula,0.12234412,1.0,4.0
+Strix occidentalis_Spotted Owl,0.12227088,1.0,4.0
+Buteo platypterus_Broad-winged Hawk,0.11451149,1.0,4.0
+Strix varia_Barred Owl,0.979977,2.0,5.0
+Strix occidentalis_Spotted Owl,0.1886182,2.0,5.0
+Setophaga americana_Northern Parula,0.14202847,2.0,5.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.15998426,13.0,16.0
+Strix varia_Barred Owl,0.23673564,14.0,17.0
+Strix varia_Barred Owl,0.48021814,15.0,18.0
+Strix varia_Barred Owl,0.17111073,16.0,19.0
+Strix varia_Barred Owl,0.96533513,19.0,22.0
+Strix varia_Barred Owl,0.99498785,20.0,23.0
+Strix occidentalis_Spotted Owl,0.1372723,20.0,23.0
+Strix varia_Barred Owl,0.99352115,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14802127,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.14126173,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2689881,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.19317098,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19093603,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.10384046,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11435355,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12007923,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.105255194,30.0,33.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.100173295,30.0,33.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.2079884,33.0,36.0
+Strix varia_Barred Owl,0.99410015,36.0,39.0
+Strix varia_Barred Owl,0.9994823,37.0,40.0
+Strix occidentalis_Spotted Owl,0.15847844,37.0,40.0
+Strix varia_Barred Owl,0.99926704,38.0,41.0
+Strix occidentalis_Spotted Owl,0.121716775,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.15141205,40.0,43.0
+Mecocerculus stictopterus_White-banded Tyrannulet,0.10020929,43.0,45.86403628117914

@@ -1,0 +1,1466 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.11778026,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.10595744,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17828587,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.1219021,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14018318,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.12180893,2.0,5.0
+Catharus ustulatus_Swainson's Thrush,0.21440813,3.0,6.0
+Catharus ustulatus_Swainson's Thrush,0.99739826,4.0,7.0
+Catharus ustulatus_Swainson's Thrush,0.9992399,5.0,8.0
+Catharus ustulatus_Swainson's Thrush,0.98562014,6.0,9.0
+Catharus ustulatus_Swainson's Thrush,0.1703996,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.7969594,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.84243804,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10582229,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13829373,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.12266012,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.10414604,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.26420394,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.25360575,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114978224,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11052602,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.10604474,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.17478023,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10158323,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16481054,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.15189917,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.11622135,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.10578675,18.0,21.0
+Catharus ustulatus_Swainson's Thrush,0.98718435,19.0,22.0
+Catharus ustulatus_Swainson's Thrush,0.99765706,20.0,23.0
+Catharus ustulatus_Swainson's Thrush,0.99861133,21.0,24.0
+Catharus ustulatus_Swainson's Thrush,0.99483216,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21013476,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.16263698,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.15226081,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10150322,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.17293575,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14667538,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.122152045,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123332515,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.11194504,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10928435,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.10994079,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.1075099,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18864888,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.106914125,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.10119427,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19052753,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.10602731,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19767006,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.115968466,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17991932,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12898283,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24741384,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.20023626,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.27264732,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21314327,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15363929,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.1532031,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.29137933,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17070119,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.22880305,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19490544,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.13395903,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.33818924,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1551575,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.13644084,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.23575622,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18929169,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.15776299,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.42775774,39.0,42.0
+Catharus ustulatus_Swainson's Thrush,0.1642187,39.0,42.0
+Catharus ustulatus_Swainson's Thrush,0.9912247,40.0,43.0
+Catharus ustulatus_Swainson's Thrush,0.98407507,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.12570347,41.0,44.0
+Catharus ustulatus_Swainson's Thrush,0.97905535,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16684581,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.115917265,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2097898,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.19321735,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.12548664,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10133793,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.13841315,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.13103871,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12750292,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.15848237,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13555449,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.60593265,47.0,50.0
+Catharus ustulatus_Swainson's Thrush,0.99114096,48.0,51.0
+Catharus ustulatus_Swainson's Thrush,0.9961391,49.0,52.0
+Catharus ustulatus_Swainson's Thrush,0.98925656,50.0,53.0
+Catharus ustulatus_Swainson's Thrush,0.7719357,51.0,54.0
+Catharus guttatus_Hermit Thrush,0.38446745,51.0,54.0
+Catharus fuscescens_Veery,0.10188426,51.0,54.0
+Bombycilla cedrorum_Cedar Waxwing,0.1309667,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11506358,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13900736,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.12936832,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.23739675,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18807715,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.13464586,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14126836,56.0,59.0
+Setophaga cerulea_Cerulean Warbler,0.105691135,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22526088,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.14553197,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.14106068,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.13657531,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17840742,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.13500823,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.11124278,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12295349,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.110152245,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.13766606,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.11778055,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106743775,60.0,63.0
+Catharus ustulatus_Swainson's Thrush,0.9692495,61.0,64.0
+Catharus ustulatus_Swainson's Thrush,0.99800104,62.0,65.0
+Catharus ustulatus_Swainson's Thrush,0.99888486,63.0,66.0
+Catharus ustulatus_Swainson's Thrush,0.99566674,64.0,67.0
+Catharus ustulatus_Swainson's Thrush,0.7040888,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.28314215,65.0,68.0
+Setophaga magnolia_Magnolia Warbler,0.10516045,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18783632,66.0,69.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.112586506,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19374746,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.1552004,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.12128891,67.0,70.0
+Vireo olivaceus_Red-eyed Vireo,0.11745024,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12677254,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.116257586,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20975888,69.0,72.0
+Vireo olivaceus_Red-eyed Vireo,0.115009576,69.0,72.0
+Vireo solitarius_Blue-headed Vireo,0.107844636,69.0,72.0
+Catharus ustulatus_Swainson's Thrush,0.9415722,70.0,73.0
+Catharus ustulatus_Swainson's Thrush,0.9727475,71.0,74.0
+Catharus ustulatus_Swainson's Thrush,0.99505925,72.0,75.0
+Catharus ustulatus_Swainson's Thrush,0.9925668,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.2386621,74.0,77.0
+Passerina cyanea_Indigo Bunting,0.16762885,74.0,77.0
+Cardellina canadensis_Canada Warbler,0.1226747,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20315652,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.13741498,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.13096,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19669619,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2037496,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1603257,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22073407,79.0,82.0
+Setophaga cerulea_Cerulean Warbler,0.17276247,79.0,82.0
+Setophaga fusca_Blackburnian Warbler,0.10126064,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15657513,80.0,83.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12152538,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13705136,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1521227,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14142542,85.0,88.0
+Setophaga cerulea_Cerulean Warbler,0.15834825,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13964632,86.0,89.0
+Vireo olivaceus_Red-eyed Vireo,0.11369659,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18314974,87.0,90.0
+Setophaga cerulea_Cerulean Warbler,0.13695693,87.0,90.0
+Vireo olivaceus_Red-eyed Vireo,0.10483455,87.0,90.0
+Catharus ustulatus_Swainson's Thrush,0.9806542,88.0,91.0
+Catharus ustulatus_Swainson's Thrush,0.99823403,89.0,92.0
+Catharus ustulatus_Swainson's Thrush,0.99857855,90.0,93.0
+Catharus ustulatus_Swainson's Thrush,0.9964774,91.0,94.0
+Catharus ustulatus_Swainson's Thrush,0.23325098,92.0,95.0
+Setophaga cerulea_Cerulean Warbler,0.20265798,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19343142,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.1163842,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15382804,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.13887069,94.0,97.0
+Contopus virens_Eastern Wood-Pewee,0.13591331,94.0,97.0
+Setophaga citrina_Hooded Warbler,0.101099886,94.0,97.0
+Tamias striatus_Eastern Chipmunk,0.21587913,96.0,99.0
+Tamias striatus_Eastern Chipmunk,0.25224507,97.0,100.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3427032,98.0,101.0
+Tamias striatus_Eastern Chipmunk,0.22570981,98.0,101.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11991916,99.0,102.0
+Tamias striatus_Eastern Chipmunk,0.11472426,99.0,102.0
+Tamias striatus_Eastern Chipmunk,0.21894906,100.0,103.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12714371,100.0,103.0
+Tamias striatus_Eastern Chipmunk,0.13993995,101.0,104.0
+Tamias striatus_Eastern Chipmunk,0.28140643,102.0,105.0
+Tamiasciurus hudsonicus_Red Squirrel,0.25911218,102.0,105.0
+Tamiasciurus hudsonicus_Red Squirrel,0.44196746,103.0,106.0
+Tamias striatus_Eastern Chipmunk,0.16791557,103.0,106.0
+Tamiasciurus hudsonicus_Red Squirrel,0.6058287,104.0,107.0
+Tamias striatus_Eastern Chipmunk,0.4232088,104.0,107.0
+Tamiasciurus hudsonicus_Red Squirrel,0.755349,105.0,108.0
+Tamias striatus_Eastern Chipmunk,0.2837752,105.0,108.0
+Tamias striatus_Eastern Chipmunk,0.19782388,106.0,109.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15645604,106.0,109.0
+Setophaga cerulea_Cerulean Warbler,0.12430524,106.0,109.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12686795,107.0,110.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24120367,108.0,111.0
+Tamias striatus_Eastern Chipmunk,0.23875165,108.0,111.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.1125282,108.0,111.0
+Tamiasciurus hudsonicus_Red Squirrel,0.29213768,109.0,112.0
+Tamias striatus_Eastern Chipmunk,0.20295224,109.0,112.0
+Tamias striatus_Eastern Chipmunk,0.25893804,110.0,113.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11216701,110.0,113.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3774791,111.0,114.0
+Tamias striatus_Eastern Chipmunk,0.368217,111.0,114.0
+Tamias striatus_Eastern Chipmunk,0.34122038,112.0,115.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2456771,112.0,115.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15078558,113.0,116.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2942467,114.0,117.0
+Tamias striatus_Eastern Chipmunk,0.26314306,114.0,117.0
+Tamiasciurus hudsonicus_Red Squirrel,0.25449008,115.0,118.0
+Tamias striatus_Eastern Chipmunk,0.2511391,115.0,118.0
+Tamias striatus_Eastern Chipmunk,0.40037733,116.0,119.0
+Tamiasciurus hudsonicus_Red Squirrel,0.23928995,116.0,119.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12574163,117.0,120.0
+Tamias striatus_Eastern Chipmunk,0.115163036,117.0,120.0
+Tamias striatus_Eastern Chipmunk,0.12268329,118.0,121.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15965958,119.0,122.0
+Tamias striatus_Eastern Chipmunk,0.11659597,119.0,122.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3494516,120.0,123.0
+Tamias striatus_Eastern Chipmunk,0.28132376,120.0,123.0
+Tamiasciurus hudsonicus_Red Squirrel,0.31816828,121.0,124.0
+Tamias striatus_Eastern Chipmunk,0.26420987,122.0,125.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2608806,122.0,125.0
+Tamias striatus_Eastern Chipmunk,0.13237482,123.0,126.0
+Tamiasciurus hudsonicus_Red Squirrel,0.23040512,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.18621275,124.0,127.0
+Tamias striatus_Eastern Chipmunk,0.16075143,124.0,127.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.100461364,124.0,127.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24448882,125.0,128.0
+Tamias striatus_Eastern Chipmunk,0.11156509,125.0,128.0
+Tamias striatus_Eastern Chipmunk,0.40892568,126.0,129.0
+Tamiasciurus hudsonicus_Red Squirrel,0.22853127,126.0,129.0
+Seiurus aurocapilla_Ovenbird,0.1571274,126.0,129.0
+Setophaga cerulea_Cerulean Warbler,0.13805784,126.0,129.0
+Tamias striatus_Eastern Chipmunk,0.830745,127.0,130.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3602002,127.0,130.0
+Setophaga cerulea_Cerulean Warbler,0.12409988,127.0,130.0
+Seiurus aurocapilla_Ovenbird,0.10395584,127.0,130.0
+Tamias striatus_Eastern Chipmunk,0.34078205,128.0,131.0
+Setophaga cerulea_Cerulean Warbler,0.11838741,128.0,131.0
+Tamias striatus_Eastern Chipmunk,0.33567977,129.0,132.0
+Tamias striatus_Eastern Chipmunk,0.21924527,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.13695298,130.0,133.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10296051,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.93324345,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.44842085,132.0,135.0
+Catharus fuscescens_Veery,0.16645886,132.0,135.0
+Catharus ustulatus_Swainson's Thrush,0.9934435,133.0,136.0
+Catharus ustulatus_Swainson's Thrush,0.9958093,134.0,137.0
+Catharus ustulatus_Swainson's Thrush,0.9934221,135.0,138.0
+Catharus ustulatus_Swainson's Thrush,0.94848126,136.0,139.0
+Seiurus aurocapilla_Ovenbird,0.19632071,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13128832,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.1255663,137.0,140.0
+Setophaga virens_Black-throated Green Warbler,0.16796592,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.16518894,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12785527,138.0,141.0
+Catharus ustulatus_Swainson's Thrush,0.95122373,139.0,142.0
+Catharus ustulatus_Swainson's Thrush,0.9988426,140.0,143.0
+Catharus ustulatus_Swainson's Thrush,0.99145633,141.0,144.0
+Catharus ustulatus_Swainson's Thrush,0.96359175,142.0,145.0
+Catharus guttatus_Hermit Thrush,0.14991826,142.0,145.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.39952496,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19964613,144.0,147.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15490794,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14675835,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.10062517,145.0,148.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25344193,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.16848803,146.0,149.0
+Catharus ustulatus_Swainson's Thrush,0.99134254,147.0,150.0
+Catharus ustulatus_Swainson's Thrush,0.99930346,148.0,151.0
+Catharus ustulatus_Swainson's Thrush,0.9987245,149.0,152.0
+Catharus ustulatus_Swainson's Thrush,0.9839595,150.0,153.0
+Catharus ustulatus_Swainson's Thrush,0.15963641,151.0,154.0
+Catharus guttatus_Hermit Thrush,0.1407002,151.0,154.0
+Seiurus aurocapilla_Ovenbird,0.5761942,152.0,155.0
+Setophaga virens_Black-throated Green Warbler,0.33633092,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17653033,152.0,155.0
+Setophaga fusca_Blackburnian Warbler,0.12416094,152.0,155.0
+Piprites chloris_Wing-barred Piprites,0.14449213,153.0,156.0
+Catharus ustulatus_Swainson's Thrush,0.99574286,154.0,157.0
+Catharus ustulatus_Swainson's Thrush,0.9968112,155.0,158.0
+Catharus ustulatus_Swainson's Thrush,0.9993674,156.0,159.0
+Catharus ustulatus_Swainson's Thrush,0.9864848,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.28385296,159.0,162.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21614797,159.0,162.0
+Catharus ustulatus_Swainson's Thrush,0.2922224,160.0,163.0
+Catharus ustulatus_Swainson's Thrush,0.9874243,161.0,164.0
+Catharus ustulatus_Swainson's Thrush,0.99777657,162.0,165.0
+Catharus ustulatus_Swainson's Thrush,0.9957449,163.0,166.0
+Catharus guttatus_Hermit Thrush,0.59715265,164.0,167.0
+Catharus ustulatus_Swainson's Thrush,0.39525077,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.7875854,165.0,168.0
+Setophaga virens_Black-throated Green Warbler,0.14358085,165.0,168.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12629475,165.0,168.0
+Setophaga virens_Black-throated Green Warbler,0.6137443,166.0,169.0
+Setophaga virens_Black-throated Green Warbler,0.96874106,167.0,170.0
+Catharus ustulatus_Swainson's Thrush,0.969144,168.0,171.0
+Catharus ustulatus_Swainson's Thrush,0.99895895,169.0,172.0
+Catharus ustulatus_Swainson's Thrush,0.99955696,170.0,173.0
+Catharus ustulatus_Swainson's Thrush,0.99439776,171.0,174.0
+Catharus guttatus_Hermit Thrush,0.11552145,171.0,174.0
+Catharus guttatus_Hermit Thrush,0.5861249,172.0,175.0
+Catharus ustulatus_Swainson's Thrush,0.21498743,172.0,175.0
+Bonasa umbellus_Ruffed Grouse,0.18864204,173.0,176.0
+Picoides arcticus_Black-backed Woodpecker,0.10552018,174.0,177.0
+Bonasa umbellus_Ruffed Grouse,0.1261754,175.0,178.0
+Procnias tricarunculatus_Three-wattled Bellbird,0.44434038,176.0,179.0
+Catharus ustulatus_Swainson's Thrush,0.99163616,177.0,180.0
+Catharus ustulatus_Swainson's Thrush,0.99509865,178.0,181.0
+Catharus ustulatus_Swainson's Thrush,0.99698037,179.0,182.0
+Catharus ustulatus_Swainson's Thrush,0.9782819,180.0,183.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20143116,182.0,185.0
+Seiurus aurocapilla_Ovenbird,0.15533109,182.0,185.0
+Seiurus aurocapilla_Ovenbird,0.22139552,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21858607,183.0,186.0
+Setophaga fusca_Blackburnian Warbler,0.1187942,183.0,186.0
+Catharus ustulatus_Swainson's Thrush,0.20601426,184.0,187.0
+Catharus ustulatus_Swainson's Thrush,0.9937211,185.0,188.0
+Catharus ustulatus_Swainson's Thrush,0.99841535,186.0,189.0
+Catharus ustulatus_Swainson's Thrush,0.9787159,187.0,190.0
+Catharus ustulatus_Swainson's Thrush,0.72902256,188.0,191.0
+Catharus guttatus_Hermit Thrush,0.47563806,188.0,191.0
+Setophaga virens_Black-throated Green Warbler,0.4648302,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122944236,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16758123,190.0,193.0
+Setophaga fusca_Blackburnian Warbler,0.10029599,190.0,193.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21475005,191.0,194.0
+Setophaga fusca_Blackburnian Warbler,0.10990725,191.0,194.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10497183,191.0,194.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12854631,192.0,195.0
+Catharus ustulatus_Swainson's Thrush,0.96435726,193.0,196.0
+Catharus ustulatus_Swainson's Thrush,0.99449486,194.0,197.0
+Catharus ustulatus_Swainson's Thrush,0.99777836,195.0,198.0
+Catharus ustulatus_Swainson's Thrush,0.96151525,196.0,199.0
+Catharus guttatus_Hermit Thrush,0.6086758,196.0,199.0
+Catharus ustulatus_Swainson's Thrush,0.4871933,197.0,200.0
+Catharus guttatus_Hermit Thrush,0.25139755,197.0,200.0
+Vireo solitarius_Blue-headed Vireo,0.14544295,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13336213,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13408206,199.0,202.0
+Setophaga virens_Black-throated Green Warbler,0.11665722,199.0,202.0
+Catharus ustulatus_Swainson's Thrush,0.48229992,200.0,203.0
+Catharus ustulatus_Swainson's Thrush,0.9971439,201.0,204.0
+Catharus ustulatus_Swainson's Thrush,0.9989519,202.0,205.0
+Catharus ustulatus_Swainson's Thrush,0.99387616,203.0,206.0
+Catharus ustulatus_Swainson's Thrush,0.47838593,204.0,207.0
+Catharus guttatus_Hermit Thrush,0.47088584,204.0,207.0
+Catharus fuscescens_Veery,0.17270203,204.0,207.0
+Seiurus aurocapilla_Ovenbird,0.754068,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15208538,205.0,208.0
+Seiurus aurocapilla_Ovenbird,0.3387831,206.0,209.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20945922,206.0,209.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26570505,207.0,210.0
+Seiurus aurocapilla_Ovenbird,0.1434271,207.0,210.0
+Setophaga fusca_Blackburnian Warbler,0.11373826,207.0,210.0
+Seiurus aurocapilla_Ovenbird,0.1738027,208.0,211.0
+Catharus ustulatus_Swainson's Thrush,0.9938498,209.0,212.0
+Catharus ustulatus_Swainson's Thrush,0.9987802,210.0,213.0
+Catharus ustulatus_Swainson's Thrush,0.9989893,211.0,214.0
+Catharus ustulatus_Swainson's Thrush,0.98124355,212.0,215.0
+Catharus guttatus_Hermit Thrush,0.5057443,213.0,216.0
+Catharus ustulatus_Swainson's Thrush,0.4664816,213.0,216.0
+Setophaga virens_Black-throated Green Warbler,0.38810277,214.0,217.0
+Vireo olivaceus_Red-eyed Vireo,0.27194515,214.0,217.0
+Seiurus aurocapilla_Ovenbird,0.10094622,214.0,217.0
+Setophaga virens_Black-throated Green Warbler,0.48425657,215.0,218.0
+Vireo olivaceus_Red-eyed Vireo,0.4630071,215.0,218.0
+Seiurus aurocapilla_Ovenbird,0.26634967,215.0,218.0
+Piranga olivacea_Scarlet Tanager,0.19293457,215.0,218.0
+Poecile atricapillus_Black-capped Chickadee,0.16062842,215.0,218.0
+Catharus guttatus_Hermit Thrush,0.147193,215.0,218.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12203355,215.0,218.0
+Catharus ustulatus_Swainson's Thrush,0.23893423,216.0,219.0
+Turdus merula_Eurasian Blackbird,0.12239582,216.0,219.0
+Catharus ustulatus_Swainson's Thrush,0.98760426,217.0,220.0
+Catharus ustulatus_Swainson's Thrush,0.9969867,218.0,221.0
+Catharus ustulatus_Swainson's Thrush,0.99780446,219.0,222.0
+Catharus ustulatus_Swainson's Thrush,0.85692555,220.0,223.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17157389,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28580642,222.0,225.0
+Piranga olivacea_Scarlet Tanager,0.12108724,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21512185,223.0,226.0
+Catharus ustulatus_Swainson's Thrush,0.9948803,224.0,227.0
+Catharus ustulatus_Swainson's Thrush,0.999358,225.0,228.0
+Catharus ustulatus_Swainson's Thrush,0.9995943,226.0,229.0
+Catharus ustulatus_Swainson's Thrush,0.7997676,227.0,230.0
+Catharus guttatus_Hermit Thrush,0.3522651,227.0,230.0
+Catharus ustulatus_Swainson's Thrush,0.49147227,228.0,231.0
+Catharus guttatus_Hermit Thrush,0.15393329,228.0,231.0
+Seiurus aurocapilla_Ovenbird,0.2771501,229.0,232.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20257986,229.0,232.0
+Setophaga cerulea_Cerulean Warbler,0.100949794,229.0,232.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2294089,230.0,233.0
+Seiurus aurocapilla_Ovenbird,0.16142637,230.0,233.0
+Setophaga virens_Black-throated Green Warbler,0.116929,230.0,233.0
+Setophaga cerulea_Cerulean Warbler,0.10562372,230.0,233.0
+Catharus ustulatus_Swainson's Thrush,0.9913037,231.0,234.0
+Catharus ustulatus_Swainson's Thrush,0.99863166,232.0,235.0
+Catharus ustulatus_Swainson's Thrush,0.9988896,233.0,236.0
+Catharus ustulatus_Swainson's Thrush,0.9962591,234.0,237.0
+Catharus ustulatus_Swainson's Thrush,0.607133,235.0,238.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119534634,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12599592,237.0,240.0
+Catharus ustulatus_Swainson's Thrush,0.98152494,239.0,242.0
+Catharus ustulatus_Swainson's Thrush,0.9964031,240.0,243.0
+Catharus ustulatus_Swainson's Thrush,0.9933559,241.0,244.0
+Catharus ustulatus_Swainson's Thrush,0.7915218,242.0,245.0
+Catharus guttatus_Hermit Thrush,0.30244002,242.0,245.0
+Seiurus aurocapilla_Ovenbird,0.21103472,244.0,247.0
+Setophaga fusca_Blackburnian Warbler,0.14441946,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106102,244.0,247.0
+Catharus ustulatus_Swainson's Thrush,0.96041924,245.0,248.0
+Catharus ustulatus_Swainson's Thrush,0.9956208,246.0,249.0
+Catharus ustulatus_Swainson's Thrush,0.9991627,247.0,250.0
+Catharus ustulatus_Swainson's Thrush,0.9495122,248.0,251.0
+Catharus guttatus_Hermit Thrush,0.3343606,249.0,252.0
+Catharus ustulatus_Swainson's Thrush,0.1654682,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27013406,250.0,253.0
+Seiurus aurocapilla_Ovenbird,0.20732966,250.0,253.0
+Setophaga fusca_Blackburnian Warbler,0.17269208,250.0,253.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.108337075,250.0,253.0
+Seiurus aurocapilla_Ovenbird,0.5574093,251.0,254.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21445838,251.0,254.0
+Setophaga virens_Black-throated Green Warbler,0.12231958,251.0,254.0
+Setophaga fusca_Blackburnian Warbler,0.12216319,251.0,254.0
+Seiurus aurocapilla_Ovenbird,0.2697017,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21137771,252.0,255.0
+Setophaga virens_Black-throated Green Warbler,0.19544296,252.0,255.0
+Setophaga fusca_Blackburnian Warbler,0.17768688,252.0,255.0
+Catharus ustulatus_Swainson's Thrush,0.98416615,253.0,256.0
+Catharus ustulatus_Swainson's Thrush,0.99656326,254.0,257.0
+Catharus ustulatus_Swainson's Thrush,0.98981434,255.0,258.0
+Catharus ustulatus_Swainson's Thrush,0.976324,256.0,259.0
+Loxia curvirostra_Red Crossbill,0.142134,257.0,260.0
+Loxia curvirostra_Red Crossbill,0.15209156,258.0,261.0
+Catharus ustulatus_Swainson's Thrush,0.7012963,259.0,262.0
+Loxia curvirostra_Red Crossbill,0.26741245,259.0,262.0
+Catharus ustulatus_Swainson's Thrush,0.4686573,260.0,263.0
+Catharus ustulatus_Swainson's Thrush,0.8543633,261.0,264.0
+Catharus ustulatus_Swainson's Thrush,0.92443794,262.0,265.0
+Setophaga magnolia_Magnolia Warbler,0.28952876,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11064197,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28614795,265.0,268.0
+Setophaga fusca_Blackburnian Warbler,0.13662665,265.0,268.0
+Catharus ustulatus_Swainson's Thrush,0.9201525,268.0,271.0
+Catharus ustulatus_Swainson's Thrush,0.8150032,269.0,272.0
+Catharus ustulatus_Swainson's Thrush,0.8606802,270.0,273.0
+Catharus ustulatus_Swainson's Thrush,0.88596797,271.0,274.0
+Vireo olivaceus_Red-eyed Vireo,0.15594557,274.0,277.0
+Setophaga citrina_Hooded Warbler,0.13265413,274.0,277.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1031159,274.0,277.0
+Catharus ustulatus_Swainson's Thrush,0.8556239,275.0,278.0
+Catharus ustulatus_Swainson's Thrush,0.99377245,276.0,279.0
+Catharus ustulatus_Swainson's Thrush,0.9983766,277.0,280.0
+Catharus ustulatus_Swainson's Thrush,0.94604284,278.0,281.0
+Catharus guttatus_Hermit Thrush,0.4444062,278.0,281.0
+Piranga olivacea_Scarlet Tanager,0.18301754,279.0,282.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21740882,280.0,283.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12990941,281.0,284.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14103249,282.0,285.0
+Piranga olivacea_Scarlet Tanager,0.13264805,282.0,285.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12957516,283.0,286.0
+Piranga olivacea_Scarlet Tanager,0.12195722,283.0,286.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2005191,284.0,287.0
+Piranga olivacea_Scarlet Tanager,0.13685198,284.0,287.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21518654,285.0,288.0
+Setophaga virens_Black-throated Green Warbler,0.12447286,285.0,288.0
+Buteo platypterus_Broad-winged Hawk,0.10232818,285.0,288.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2914939,286.0,289.0
+Setophaga cerulea_Cerulean Warbler,0.10534717,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.346882,287.0,290.0
+Setophaga virens_Black-throated Green Warbler,0.14912377,287.0,290.0
+Vireo olivaceus_Red-eyed Vireo,0.12715006,287.0,290.0
+Buteo platypterus_Broad-winged Hawk,0.1216089,287.0,290.0
+Setophaga fusca_Blackburnian Warbler,0.107527725,287.0,290.0
+Catharus ustulatus_Swainson's Thrush,0.91613454,288.0,291.0
+Catharus ustulatus_Swainson's Thrush,0.96736723,289.0,292.0
+Catharus ustulatus_Swainson's Thrush,0.98485285,290.0,293.0
+Catharus ustulatus_Swainson's Thrush,0.89954406,291.0,294.0
+Catharus guttatus_Hermit Thrush,0.46796876,291.0,294.0
+Catharus guttatus_Hermit Thrush,0.14744714,292.0,295.0
+Certhia americana_Brown Creeper,0.12407751,292.0,295.0
+Catharus ustulatus_Swainson's Thrush,0.11294087,292.0,295.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12705262,293.0,296.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1561427,294.0,297.0
+Setophaga virens_Black-throated Green Warbler,0.11945402,294.0,297.0
+Piranga olivacea_Scarlet Tanager,0.10415365,294.0,297.0
+Vireo olivaceus_Red-eyed Vireo,0.10316958,294.0,297.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37125552,295.0,298.0
+Setophaga virens_Black-throated Green Warbler,0.111755505,295.0,298.0
+Empidonax virescens_Acadian Flycatcher,0.10194868,295.0,298.0
+Catharus fuscescens_Veery,0.15452431,296.0,299.0
+Catharus ustulatus_Swainson's Thrush,0.9028769,297.0,300.0
+Catharus ustulatus_Swainson's Thrush,0.97436166,298.0,301.0
+Catharus ustulatus_Swainson's Thrush,0.98364866,299.0,302.0
+Catharus ustulatus_Swainson's Thrush,0.81690997,300.0,303.0
+Catharus fuscescens_Veery,0.14726837,300.0,303.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22105931,301.0,304.0
+Vireo olivaceus_Red-eyed Vireo,0.13729228,301.0,304.0
+Setophaga cerulea_Cerulean Warbler,0.1008292,301.0,304.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19258688,302.0,305.0
+Vireo olivaceus_Red-eyed Vireo,0.12352611,302.0,305.0
+Setophaga cerulea_Cerulean Warbler,0.117665835,302.0,305.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.246136,303.0,306.0
+Setophaga cerulea_Cerulean Warbler,0.17815055,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25949046,304.0,307.0
+Setophaga cerulea_Cerulean Warbler,0.1501556,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34691077,305.0,308.0
+Setophaga cerulea_Cerulean Warbler,0.13016047,305.0,308.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34805995,306.0,309.0
+Setophaga cerulea_Cerulean Warbler,0.11070399,306.0,309.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21050817,307.0,310.0
+Vireo olivaceus_Red-eyed Vireo,0.1642736,307.0,310.0
+Buteo platypterus_Broad-winged Hawk,0.1081098,307.0,310.0
+Piranga olivacea_Scarlet Tanager,0.19663385,308.0,311.0
+Vireo olivaceus_Red-eyed Vireo,0.19550936,308.0,311.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15502904,308.0,311.0
+Catharus ustulatus_Swainson's Thrush,0.88794816,309.0,312.0
+Catharus ustulatus_Swainson's Thrush,0.96593505,310.0,313.0
+Catharus ustulatus_Swainson's Thrush,0.990932,311.0,314.0
+Catharus ustulatus_Swainson's Thrush,0.98643005,312.0,315.0
+Catharus ustulatus_Swainson's Thrush,0.40018952,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20330842,314.0,317.0
+Buteo platypterus_Broad-winged Hawk,0.1638911,314.0,317.0
+Vireo olivaceus_Red-eyed Vireo,0.113315746,314.0,317.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29787943,315.0,318.0
+Setophaga virens_Black-throated Green Warbler,0.12801,315.0,318.0
+Setophaga cerulea_Cerulean Warbler,0.10200246,315.0,318.0
+Setophaga fusca_Blackburnian Warbler,0.10035749,315.0,318.0
+Buteo platypterus_Broad-winged Hawk,0.10025271,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3242424,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22898427,317.0,320.0
+Setophaga cerulea_Cerulean Warbler,0.12065073,317.0,320.0
+Catharus ustulatus_Swainson's Thrush,0.9145667,318.0,321.0
+Catharus ustulatus_Swainson's Thrush,0.9932783,319.0,322.0
+Catharus ustulatus_Swainson's Thrush,0.9971246,320.0,323.0
+Catharus ustulatus_Swainson's Thrush,0.98352146,321.0,324.0
+Setophaga fusca_Blackburnian Warbler,0.20172988,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30850503,323.0,326.0
+Setophaga cerulea_Cerulean Warbler,0.12342772,323.0,326.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29950947,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33925998,325.0,328.0
+Piranga olivacea_Scarlet Tanager,0.12784442,325.0,328.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31422055,326.0,329.0
+Setophaga fusca_Blackburnian Warbler,0.18262605,326.0,329.0
+Setophaga virens_Black-throated Green Warbler,0.15251744,326.0,329.0
+Vireo solitarius_Blue-headed Vireo,0.12272395,326.0,329.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18132083,327.0,330.0
+Setophaga virens_Black-throated Green Warbler,0.15951985,327.0,330.0
+Vireo olivaceus_Red-eyed Vireo,0.12645966,327.0,330.0
+Vireo solitarius_Blue-headed Vireo,0.120664924,327.0,330.0
+Setophaga fusca_Blackburnian Warbler,0.11329982,327.0,330.0
+Catharus ustulatus_Swainson's Thrush,0.9242218,328.0,331.0
+Catharus ustulatus_Swainson's Thrush,0.9953361,329.0,332.0
+Catharus ustulatus_Swainson's Thrush,0.99905473,330.0,333.0
+Catharus ustulatus_Swainson's Thrush,0.9640084,331.0,334.0
+Catharus guttatus_Hermit Thrush,0.1846369,331.0,334.0
+Catharus guttatus_Hermit Thrush,0.5557032,332.0,335.0
+Catharus ustulatus_Swainson's Thrush,0.34658208,332.0,335.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18706074,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11332502,335.0,338.0
+Vireo solitarius_Blue-headed Vireo,0.23162037,336.0,339.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19437017,336.0,339.0
+Setophaga virens_Black-throated Green Warbler,0.14472172,336.0,339.0
+Vireo olivaceus_Red-eyed Vireo,0.123478375,336.0,339.0
+Vireo olivaceus_Red-eyed Vireo,0.46331766,337.0,340.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19159791,337.0,340.0
+Catharus ustulatus_Swainson's Thrush,0.97137004,338.0,341.0
+Catharus ustulatus_Swainson's Thrush,0.993473,339.0,342.0
+Catharus ustulatus_Swainson's Thrush,0.9966647,340.0,343.0
+Catharus ustulatus_Swainson's Thrush,0.9708773,341.0,344.0
+Catharus guttatus_Hermit Thrush,0.18494374,341.0,344.0
+Setophaga fusca_Blackburnian Warbler,0.2980354,342.0,345.0
+Setophaga virens_Black-throated Green Warbler,0.11498837,342.0,345.0
+Tamias striatus_Eastern Chipmunk,0.32302287,343.0,346.0
+Piranga olivacea_Scarlet Tanager,0.18384694,343.0,346.0
+Catharus ustulatus_Swainson's Thrush,0.101858914,347.0,350.0
+Catharus ustulatus_Swainson's Thrush,0.9870864,348.0,351.0
+Catharus ustulatus_Swainson's Thrush,0.9993062,349.0,352.0
+Catharus ustulatus_Swainson's Thrush,0.98972553,350.0,353.0
+Catharus ustulatus_Swainson's Thrush,0.43888733,351.0,354.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22462279,352.0,355.0
+Piranga olivacea_Scarlet Tanager,0.13159846,352.0,355.0
+Vireo olivaceus_Red-eyed Vireo,0.12460078,352.0,355.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2023405,353.0,356.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26272574,354.0,357.0
+Vireo olivaceus_Red-eyed Vireo,0.17255016,354.0,357.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15555824,355.0,358.0
+Vireo olivaceus_Red-eyed Vireo,0.10795119,355.0,358.0
+Setophaga virens_Black-throated Green Warbler,0.105956934,355.0,358.0
+Catharus ustulatus_Swainson's Thrush,0.9600972,356.0,359.0
+Catharus ustulatus_Swainson's Thrush,0.9893806,357.0,360.0
+Catharus ustulatus_Swainson's Thrush,0.9864211,358.0,361.0
+Catharus ustulatus_Swainson's Thrush,0.61939454,359.0,362.0
+Catharus guttatus_Hermit Thrush,0.4018378,359.0,362.0
+Catharus fuscescens_Veery,0.19750139,359.0,362.0
+Vireo olivaceus_Red-eyed Vireo,0.2350049,360.0,363.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16207223,360.0,363.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22116607,361.0,364.0
+Vireo olivaceus_Red-eyed Vireo,0.12112078,361.0,364.0
+Setophaga virens_Black-throated Green Warbler,0.11745333,361.0,364.0
+Setophaga cerulea_Cerulean Warbler,0.11396417,361.0,364.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16120034,362.0,365.0
+Catharus ustulatus_Swainson's Thrush,0.91350365,363.0,366.0
+Catharus ustulatus_Swainson's Thrush,0.99262977,364.0,367.0
+Catharus ustulatus_Swainson's Thrush,0.9935549,365.0,368.0
+Catharus ustulatus_Swainson's Thrush,0.846457,366.0,369.0
+Vireo olivaceus_Red-eyed Vireo,0.19161369,367.0,370.0
+Setophaga virens_Black-throated Green Warbler,0.12768397,367.0,370.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120021746,367.0,370.0
+Vireo olivaceus_Red-eyed Vireo,0.28777498,368.0,371.0
+Setophaga virens_Black-throated Green Warbler,0.14694007,368.0,371.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11296888,368.0,371.0
+Vireo olivaceus_Red-eyed Vireo,0.3267143,369.0,372.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14996606,369.0,372.0
+Setophaga cerulea_Cerulean Warbler,0.106849805,369.0,372.0
+Empidonax virescens_Acadian Flycatcher,0.101382434,369.0,372.0
+Vireo olivaceus_Red-eyed Vireo,0.19209276,370.0,373.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18257122,370.0,373.0
+Vireo olivaceus_Red-eyed Vireo,0.19116159,371.0,374.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16620238,371.0,374.0
+Setophaga virens_Black-throated Green Warbler,0.1537583,371.0,374.0
+Vireo olivaceus_Red-eyed Vireo,0.26876792,372.0,375.0
+Setophaga virens_Black-throated Green Warbler,0.12645334,372.0,375.0
+Corvus brachyrhynchos_American Crow,0.100271374,372.0,375.0
+Catharus ustulatus_Swainson's Thrush,0.8560464,373.0,376.0
+Catharus ustulatus_Swainson's Thrush,0.9650849,374.0,377.0
+Catharus ustulatus_Swainson's Thrush,0.9493364,375.0,378.0
+Catharus ustulatus_Swainson's Thrush,0.2986932,376.0,379.0
+Catharus guttatus_Hermit Thrush,0.13249555,376.0,379.0
+Vireo olivaceus_Red-eyed Vireo,0.47471946,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11099319,377.0,380.0
+Setophaga virens_Black-throated Green Warbler,0.10510778,377.0,380.0
+Vireo olivaceus_Red-eyed Vireo,0.52190584,378.0,381.0
+Piranga olivacea_Scarlet Tanager,0.118438415,378.0,381.0
+Vireo olivaceus_Red-eyed Vireo,0.7873318,379.0,382.0
+Vireo olivaceus_Red-eyed Vireo,0.28169632,380.0,383.0
+Catharus ustulatus_Swainson's Thrush,0.94488436,381.0,384.0
+Catharus ustulatus_Swainson's Thrush,0.99595624,382.0,385.0
+Catharus ustulatus_Swainson's Thrush,0.8799293,383.0,386.0
+Vireo olivaceus_Red-eyed Vireo,0.20989668,384.0,387.0
+Vireo olivaceus_Red-eyed Vireo,0.33100966,385.0,388.0
+Vireo philadelphicus_Philadelphia Vireo,0.11678919,385.0,388.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1836711,386.0,389.0
+Vireo olivaceus_Red-eyed Vireo,0.15255739,386.0,389.0
+Vireo olivaceus_Red-eyed Vireo,0.36604187,387.0,390.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15529145,387.0,390.0
+Seiurus aurocapilla_Ovenbird,0.11928411,387.0,390.0
+Vireo solitarius_Blue-headed Vireo,0.11122916,387.0,390.0
+Catharus ustulatus_Swainson's Thrush,0.37263638,388.0,391.0
+Catharus ustulatus_Swainson's Thrush,0.92343974,389.0,392.0
+Catharus ustulatus_Swainson's Thrush,0.9515806,390.0,393.0
+Catharus ustulatus_Swainson's Thrush,0.85744876,391.0,394.0
+Catharus guttatus_Hermit Thrush,0.103363335,391.0,394.0
+Vireo olivaceus_Red-eyed Vireo,0.26933265,392.0,395.0
+Setophaga cerulea_Cerulean Warbler,0.13098614,392.0,395.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12935412,392.0,395.0
+Vireo olivaceus_Red-eyed Vireo,0.4017533,393.0,396.0
+Vireo olivaceus_Red-eyed Vireo,0.60582805,394.0,397.0
+Vireo olivaceus_Red-eyed Vireo,0.6024891,395.0,398.0
+Vireo philadelphicus_Philadelphia Vireo,0.12967463,395.0,398.0
+Vireo olivaceus_Red-eyed Vireo,0.81044394,396.0,399.0
+Vireo philadelphicus_Philadelphia Vireo,0.10342952,396.0,399.0
+Vireo olivaceus_Red-eyed Vireo,0.718234,397.0,400.0
+Vireo olivaceus_Red-eyed Vireo,0.42249125,398.0,401.0
+Catharus ustulatus_Swainson's Thrush,0.6581205,399.0,402.0
+Catharus ustulatus_Swainson's Thrush,0.82064766,400.0,403.0
+Catharus ustulatus_Swainson's Thrush,0.8763827,401.0,404.0
+Vireo olivaceus_Red-eyed Vireo,0.7022471,402.0,405.0
+Vireo philadelphicus_Philadelphia Vireo,0.12939817,402.0,405.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10380562,402.0,405.0
+Catharus ustulatus_Swainson's Thrush,0.1555139,403.0,406.0
+Vireo olivaceus_Red-eyed Vireo,0.118859164,403.0,406.0
+Catharus ustulatus_Swainson's Thrush,0.94953996,404.0,407.0
+Catharus ustulatus_Swainson's Thrush,0.991735,405.0,408.0
+Catharus ustulatus_Swainson's Thrush,0.88562584,406.0,409.0
+Catharus guttatus_Hermit Thrush,0.27023447,406.0,409.0
+Setophaga fusca_Blackburnian Warbler,0.11565912,407.0,410.0
+Vireo olivaceus_Red-eyed Vireo,0.5475574,408.0,411.0
+Vireo olivaceus_Red-eyed Vireo,0.41876265,409.0,412.0
+Catharus ustulatus_Swainson's Thrush,0.7602843,410.0,413.0
+Catharus ustulatus_Swainson's Thrush,0.9878855,411.0,414.0
+Catharus ustulatus_Swainson's Thrush,0.9792128,412.0,415.0
+Catharus ustulatus_Swainson's Thrush,0.9612218,413.0,416.0
+Vireo olivaceus_Red-eyed Vireo,0.26077676,414.0,417.0
+Setophaga virens_Black-throated Green Warbler,0.24055555,414.0,417.0
+Vireo olivaceus_Red-eyed Vireo,0.48605594,415.0,418.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15365481,415.0,418.0
+Vireo olivaceus_Red-eyed Vireo,0.487383,416.0,419.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12881936,416.0,419.0
+Vireo olivaceus_Red-eyed Vireo,0.63327056,417.0,420.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15460905,417.0,420.0
+Piranga olivacea_Scarlet Tanager,0.12948544,417.0,420.0
+Vireo olivaceus_Red-eyed Vireo,0.5609261,418.0,421.0
+Vireo olivaceus_Red-eyed Vireo,0.7182834,419.0,422.0
+Vireo olivaceus_Red-eyed Vireo,0.2996543,420.0,423.0
+Catharus ustulatus_Swainson's Thrush,0.11006525,420.0,423.0
+Catharus ustulatus_Swainson's Thrush,0.87936294,421.0,424.0
+Catharus ustulatus_Swainson's Thrush,0.94143146,422.0,425.0
+Catharus ustulatus_Swainson's Thrush,0.43027502,423.0,426.0
+Vireo solitarius_Blue-headed Vireo,0.24306835,424.0,427.0
+Vireo solitarius_Blue-headed Vireo,0.7480966,425.0,428.0
+Vireo olivaceus_Red-eyed Vireo,0.6422422,425.0,428.0
+Vireo olivaceus_Red-eyed Vireo,0.4607219,426.0,429.0
+Vireo philadelphicus_Philadelphia Vireo,0.22566377,426.0,429.0
+Vireo philadelphicus_Philadelphia Vireo,0.24364923,427.0,430.0
+Vireo olivaceus_Red-eyed Vireo,0.17931026,427.0,430.0
+Vireo flavifrons_Yellow-throated Vireo,0.13983367,427.0,430.0
+Vireo olivaceus_Red-eyed Vireo,0.6315699,428.0,431.0
+Catharus ustulatus_Swainson's Thrush,0.2939486,429.0,432.0
+Catharus ustulatus_Swainson's Thrush,0.6430612,430.0,433.0
+Vireo olivaceus_Red-eyed Vireo,0.1760761,431.0,434.0
+Vireo olivaceus_Red-eyed Vireo,0.52160287,432.0,435.0
+Vireo olivaceus_Red-eyed Vireo,0.51648533,433.0,436.0
+Vireo olivaceus_Red-eyed Vireo,0.669931,434.0,437.0
+Vireo solitarius_Blue-headed Vireo,0.41589174,434.0,437.0
+Setophaga virens_Black-throated Green Warbler,0.10114202,434.0,437.0
+Catharus ustulatus_Swainson's Thrush,0.14343876,435.0,438.0
+Vireo olivaceus_Red-eyed Vireo,0.10697255,435.0,438.0
+Catharus ustulatus_Swainson's Thrush,0.8350695,436.0,439.0
+Catharus ustulatus_Swainson's Thrush,0.91112435,437.0,440.0
+Catharus ustulatus_Swainson's Thrush,0.9397842,438.0,441.0
+Catharus ustulatus_Swainson's Thrush,0.1514245,439.0,442.0
+Vireo olivaceus_Red-eyed Vireo,0.14800332,439.0,442.0
+Vireo olivaceus_Red-eyed Vireo,0.48695424,440.0,443.0
+Vireo olivaceus_Red-eyed Vireo,0.61146134,441.0,444.0
+Vireo olivaceus_Red-eyed Vireo,0.52287567,442.0,445.0
+Vireo olivaceus_Red-eyed Vireo,0.75326794,443.0,446.0
+Catharus ustulatus_Swainson's Thrush,0.21303983,444.0,447.0
+Hylocichla mustelina_Wood Thrush,0.17044437,444.0,447.0
+Catharus ustulatus_Swainson's Thrush,0.75509655,445.0,448.0
+Catharus ustulatus_Swainson's Thrush,0.92800033,446.0,449.0
+Catharus ustulatus_Swainson's Thrush,0.85236686,447.0,450.0
+Catharus guttatus_Hermit Thrush,0.17104094,447.0,450.0
+Vireo olivaceus_Red-eyed Vireo,0.144698,449.0,452.0
+Piranga olivacea_Scarlet Tanager,0.12641817,449.0,452.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11687279,449.0,452.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3275663,450.0,453.0
+Vireo olivaceus_Red-eyed Vireo,0.26342663,450.0,453.0
+Setophaga virens_Black-throated Green Warbler,0.2122892,450.0,453.0
+Vireo olivaceus_Red-eyed Vireo,0.5056571,451.0,454.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23335837,451.0,454.0
+Setophaga virens_Black-throated Green Warbler,0.19381978,451.0,454.0
+Setophaga cerulea_Cerulean Warbler,0.13574389,451.0,454.0
+Empidonax virescens_Acadian Flycatcher,0.12398671,451.0,454.0
+Vireo olivaceus_Red-eyed Vireo,0.32832953,452.0,455.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18861866,452.0,455.0
+Vireo olivaceus_Red-eyed Vireo,0.32685795,453.0,456.0
+Setophaga virens_Black-throated Green Warbler,0.10697251,453.0,456.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10638567,453.0,456.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15881646,454.0,457.0
+Vireo olivaceus_Red-eyed Vireo,0.13804373,454.0,457.0
+Vireo olivaceus_Red-eyed Vireo,0.16572818,455.0,458.0
+Catharus ustulatus_Swainson's Thrush,0.9189998,456.0,459.0
+Catharus ustulatus_Swainson's Thrush,0.97871757,457.0,460.0
+Catharus guttatus_Hermit Thrush,0.17132582,457.0,460.0
+Catharus ustulatus_Swainson's Thrush,0.8577262,458.0,461.0
+Catharus guttatus_Hermit Thrush,0.1361503,458.0,461.0
+Catharus ustulatus_Swainson's Thrush,0.41643235,459.0,462.0
+Catharus guttatus_Hermit Thrush,0.32782748,459.0,462.0
+Vireo olivaceus_Red-eyed Vireo,0.36306763,460.0,463.0
+Tamias striatus_Eastern Chipmunk,0.10937563,460.0,463.0
+Vireo olivaceus_Red-eyed Vireo,0.61600727,461.0,464.0
+Vireo olivaceus_Red-eyed Vireo,0.936843,462.0,465.0
+Vireo olivaceus_Red-eyed Vireo,0.8511479,463.0,466.0
+Catharus ustulatus_Swainson's Thrush,0.97351587,465.0,468.0
+Catharus ustulatus_Swainson's Thrush,0.9965108,466.0,469.0
+Catharus ustulatus_Swainson's Thrush,0.99510646,467.0,470.0
+Vireo olivaceus_Red-eyed Vireo,0.2764259,468.0,471.0
+Vireo olivaceus_Red-eyed Vireo,0.6701579,469.0,472.0
+Vireo olivaceus_Red-eyed Vireo,0.5457139,470.0,473.0
+Vireo olivaceus_Red-eyed Vireo,0.2463345,471.0,474.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20976634,471.0,474.0
+Vireo olivaceus_Red-eyed Vireo,0.25239593,472.0,475.0
+Vireo olivaceus_Red-eyed Vireo,0.42574877,473.0,476.0
+Vireo olivaceus_Red-eyed Vireo,0.57028484,474.0,477.0
+Vireo olivaceus_Red-eyed Vireo,0.31388626,475.0,478.0
+Setophaga cerulea_Cerulean Warbler,0.13043341,475.0,478.0
+Vireo olivaceus_Red-eyed Vireo,0.41832185,476.0,479.0
+Setophaga virens_Black-throated Green Warbler,0.1878267,476.0,479.0
+Vireo olivaceus_Red-eyed Vireo,0.3865456,477.0,480.0
+Setophaga cerulea_Cerulean Warbler,0.21028642,477.0,480.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12995045,477.0,480.0
+Empidonax virescens_Acadian Flycatcher,0.11601453,477.0,480.0
+Setophaga virens_Black-throated Green Warbler,0.10924979,477.0,480.0
+Catharus ustulatus_Swainson's Thrush,0.9948484,479.0,482.0
+Catharus ustulatus_Swainson's Thrush,0.9995889,480.0,483.0
+Catharus ustulatus_Swainson's Thrush,0.9990584,481.0,484.0
+Catharus ustulatus_Swainson's Thrush,0.73520005,482.0,485.0
+Catharus guttatus_Hermit Thrush,0.31884986,482.0,485.0
+Vireo olivaceus_Red-eyed Vireo,0.63676584,483.0,486.0
+Vireo olivaceus_Red-eyed Vireo,0.5844948,484.0,487.0
+Vireo olivaceus_Red-eyed Vireo,0.6122869,485.0,488.0
+Vireo olivaceus_Red-eyed Vireo,0.2816838,486.0,489.0
+Setophaga cerulea_Cerulean Warbler,0.10732118,486.0,489.0
+Vireo olivaceus_Red-eyed Vireo,0.29481554,487.0,490.0
+Vireo olivaceus_Red-eyed Vireo,0.2900629,488.0,491.0
+Vireo olivaceus_Red-eyed Vireo,0.3729742,489.0,492.0
+Piranga olivacea_Scarlet Tanager,0.17828223,490.0,493.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14198162,490.0,493.0
+Setophaga virens_Black-throated Green Warbler,0.101186484,490.0,493.0
+Vireo solitarius_Blue-headed Vireo,0.17241472,491.0,494.0
+Vireo solitarius_Blue-headed Vireo,0.48407415,492.0,495.0
+Piranga olivacea_Scarlet Tanager,0.28824487,492.0,495.0
+Setophaga virens_Black-throated Green Warbler,0.24986576,492.0,495.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13480937,493.0,496.0
+Setophaga magnolia_Magnolia Warbler,0.12521924,493.0,496.0
+Vireo olivaceus_Red-eyed Vireo,0.54021776,494.0,497.0
+Vireo philadelphicus_Philadelphia Vireo,0.2573936,494.0,497.0
+Vireo olivaceus_Red-eyed Vireo,0.84109044,495.0,498.0
+Vireo olivaceus_Red-eyed Vireo,0.75973386,496.0,499.0
+Vireo olivaceus_Red-eyed Vireo,0.33192924,497.0,500.0
+Piranga olivacea_Scarlet Tanager,0.34869897,498.0,501.0
+Setophaga cerulea_Cerulean Warbler,0.10071832,498.0,501.0
+Vireo olivaceus_Red-eyed Vireo,0.26584077,499.0,502.0
+Vireo olivaceus_Red-eyed Vireo,0.4032794,500.0,503.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10714805,500.0,503.0
+Vireo olivaceus_Red-eyed Vireo,0.6324415,501.0,504.0
+Vireo solitarius_Blue-headed Vireo,0.3060719,502.0,505.0
+Vireo olivaceus_Red-eyed Vireo,0.21600156,502.0,505.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12521404,502.0,505.0
+Vireo solitarius_Blue-headed Vireo,0.4405776,503.0,506.0
+Piranga olivacea_Scarlet Tanager,0.10997945,508.0,511.0
+Turdus merula_Eurasian Blackbird,0.7635735,509.0,512.0
+Catharus ustulatus_Swainson's Thrush,0.40189886,509.0,512.0
+Catharus ustulatus_Swainson's Thrush,0.9929933,510.0,513.0
+Catharus ustulatus_Swainson's Thrush,0.9981793,511.0,514.0
+Catharus ustulatus_Swainson's Thrush,0.98279107,512.0,515.0
+Vireo olivaceus_Red-eyed Vireo,0.2658245,513.0,516.0
+Vireo olivaceus_Red-eyed Vireo,0.55293334,514.0,517.0
+Vireo olivaceus_Red-eyed Vireo,0.5396756,515.0,518.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17255166,515.0,518.0
+Vireo olivaceus_Red-eyed Vireo,0.4523532,516.0,519.0
+Vireo solitarius_Blue-headed Vireo,0.2737334,516.0,519.0
+Vireo olivaceus_Red-eyed Vireo,0.6547707,517.0,520.0
+Vireo olivaceus_Red-eyed Vireo,0.5104935,518.0,521.0
+Vireo solitarius_Blue-headed Vireo,0.1323931,518.0,521.0
+Catharus ustulatus_Swainson's Thrush,0.9695015,519.0,522.0
+Catharus ustulatus_Swainson's Thrush,0.994379,520.0,523.0
+Catharus ustulatus_Swainson's Thrush,0.99799794,521.0,524.0
+Catharus ustulatus_Swainson's Thrush,0.84214026,522.0,525.0
+Catharus guttatus_Hermit Thrush,0.15242368,522.0,525.0
+Vireo olivaceus_Red-eyed Vireo,0.34083444,523.0,526.0
+Vireo philadelphicus_Philadelphia Vireo,0.103596844,523.0,526.0
+Vireo olivaceus_Red-eyed Vireo,0.47378758,524.0,527.0
+Vireo philadelphicus_Philadelphia Vireo,0.2626734,524.0,527.0
+Tamias striatus_Eastern Chipmunk,0.12583931,524.0,527.0
+Vireo olivaceus_Red-eyed Vireo,0.42619446,525.0,528.0
+Tamias striatus_Eastern Chipmunk,0.11997823,525.0,528.0
+Vireo chivi_Chivi Vireo,0.10007789,525.0,528.0
+Tamias striatus_Eastern Chipmunk,0.10127544,526.0,529.0
+Vireo solitarius_Blue-headed Vireo,0.61580557,527.0,530.0
+Vireo olivaceus_Red-eyed Vireo,0.29374152,528.0,531.0
+Vireo olivaceus_Red-eyed Vireo,0.18909909,529.0,532.0
+Tamias striatus_Eastern Chipmunk,0.18411547,529.0,532.0
+Tamias striatus_Eastern Chipmunk,0.24557413,530.0,533.0
+Vireo olivaceus_Red-eyed Vireo,0.110271305,530.0,533.0
+Tamias striatus_Eastern Chipmunk,0.35922828,531.0,534.0
+Vireo olivaceus_Red-eyed Vireo,0.20526181,531.0,534.0
+Vireo philadelphicus_Philadelphia Vireo,0.10113489,531.0,534.0
+Vireo philadelphicus_Philadelphia Vireo,0.19804169,532.0,535.0
+Tamias striatus_Eastern Chipmunk,0.17321004,532.0,535.0
+Vireo philadelphicus_Philadelphia Vireo,0.14268799,533.0,536.0
+Vireo solitarius_Blue-headed Vireo,0.11622398,533.0,536.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18888308,534.0,537.0
+Catharus ustulatus_Swainson's Thrush,0.74894166,535.0,538.0
+Catharus ustulatus_Swainson's Thrush,0.99383575,536.0,539.0
+Catharus ustulatus_Swainson's Thrush,0.9992428,537.0,540.0
+Catharus ustulatus_Swainson's Thrush,0.9990301,538.0,541.0
+Catharus ustulatus_Swainson's Thrush,0.7425289,539.0,542.0
+Catharus guttatus_Hermit Thrush,0.28208417,539.0,542.0
+Setophaga virens_Black-throated Green Warbler,0.2953023,540.0,543.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26124918,540.0,543.0
+Setophaga fusca_Blackburnian Warbler,0.18667793,540.0,543.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11687481,540.0,543.0
+Setophaga virens_Black-throated Green Warbler,0.23625799,541.0,544.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1652225,541.0,544.0
+Setophaga virens_Black-throated Green Warbler,0.24303918,542.0,545.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19327095,542.0,545.0
+Setophaga fusca_Blackburnian Warbler,0.13801834,542.0,545.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24998307,543.0,546.0
+Setophaga virens_Black-throated Green Warbler,0.17251982,543.0,546.0
+Vireo olivaceus_Red-eyed Vireo,0.13593842,543.0,546.0
+Setophaga fusca_Blackburnian Warbler,0.12803423,543.0,546.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16084959,544.0,547.0
+Catharus ustulatus_Swainson's Thrush,0.9183783,545.0,548.0
+Catharus ustulatus_Swainson's Thrush,0.99557567,546.0,549.0
+Catharus ustulatus_Swainson's Thrush,0.9983504,547.0,550.0
+Catharus ustulatus_Swainson's Thrush,0.99205095,548.0,551.0
+Catharus minimus_Gray-cheeked Thrush,0.35752025,549.0,552.0
+Catharus ustulatus_Swainson's Thrush,0.33695832,549.0,552.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24444638,550.0,553.0
+Setophaga virens_Black-throated Green Warbler,0.21315227,550.0,553.0
+Setophaga fusca_Blackburnian Warbler,0.17871076,550.0,553.0
+Catharus ustulatus_Swainson's Thrush,0.98888373,551.0,554.0
+Catharus ustulatus_Swainson's Thrush,0.99920255,552.0,555.0
+Catharus ustulatus_Swainson's Thrush,0.9995889,553.0,556.0
+Catharus ustulatus_Swainson's Thrush,0.9981013,554.0,557.0
+Catharus guttatus_Hermit Thrush,0.12722877,554.0,557.0
+Catharus ustulatus_Swainson's Thrush,0.90923476,555.0,558.0
+Catharus guttatus_Hermit Thrush,0.12928851,555.0,558.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15949209,556.0,559.0
+Setophaga virens_Black-throated Green Warbler,0.10725186,556.0,559.0
+Catharus ustulatus_Swainson's Thrush,0.28727457,557.0,560.0
+Catharus ustulatus_Swainson's Thrush,0.98608506,558.0,561.0
+Catharus ustulatus_Swainson's Thrush,0.9995716,559.0,562.0
+Catharus ustulatus_Swainson's Thrush,0.99920565,560.0,563.0
+Catharus ustulatus_Swainson's Thrush,0.83442557,561.0,564.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20016772,562.0,565.0
+Setophaga fusca_Blackburnian Warbler,0.14428024,562.0,565.0
+Setophaga virens_Black-throated Green Warbler,0.10195412,562.0,565.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25499877,563.0,566.0
+Seiurus aurocapilla_Ovenbird,0.19087057,563.0,566.0
+Setophaga fusca_Blackburnian Warbler,0.15361111,563.0,566.0
+Setophaga cerulea_Cerulean Warbler,0.12007898,563.0,566.0
+Seiurus aurocapilla_Ovenbird,0.2812843,564.0,567.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20490777,564.0,567.0
+Seiurus aurocapilla_Ovenbird,0.26625305,565.0,568.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1457162,565.0,568.0
+Catharus ustulatus_Swainson's Thrush,0.24341476,566.0,569.0
+Turdus merula_Eurasian Blackbird,0.122324914,566.0,569.0
+Catharus ustulatus_Swainson's Thrush,0.9959549,567.0,570.0
+Catharus ustulatus_Swainson's Thrush,0.99977154,568.0,571.0
+Catharus ustulatus_Swainson's Thrush,0.9991105,569.0,572.0
+Catharus ustulatus_Swainson's Thrush,0.5006258,570.0,573.0
+Setophaga virens_Black-throated Green Warbler,0.25924304,571.0,574.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23717971,571.0,574.0
+Buteo platypterus_Broad-winged Hawk,0.16342722,571.0,574.0
+Setophaga fusca_Blackburnian Warbler,0.14201239,571.0,574.0
+Crypturellus tataupa_Tataupa Tinamou,0.28836215,572.0,575.0
+Setophaga virens_Black-throated Green Warbler,0.19487989,572.0,575.0
+Catharus fuscescens_Veery,0.12335569,572.0,575.0
+Catharus ustulatus_Swainson's Thrush,0.9018695,573.0,576.0
+Catharus ustulatus_Swainson's Thrush,0.9886135,574.0,577.0
+Catharus ustulatus_Swainson's Thrush,0.9917053,575.0,578.0
+Catharus ustulatus_Swainson's Thrush,0.7809424,576.0,579.0
+Catharus guttatus_Hermit Thrush,0.42930344,576.0,579.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20319358,577.0,580.0
+Setophaga fusca_Blackburnian Warbler,0.18186212,577.0,580.0
+Piranga olivacea_Scarlet Tanager,0.113512665,577.0,580.0
+Setophaga cerulea_Cerulean Warbler,0.10627225,577.0,580.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28570408,578.0,581.0
+Setophaga fusca_Blackburnian Warbler,0.12996733,578.0,581.0
+Setophaga virens_Black-throated Green Warbler,0.104954734,578.0,581.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32223386,579.0,582.0
+Piranga olivacea_Scarlet Tanager,0.17269672,579.0,582.0
+Empidonax virescens_Acadian Flycatcher,0.1212278,579.0,582.0
+Setophaga virens_Black-throated Green Warbler,0.10947829,579.0,582.0
+Catharus ustulatus_Swainson's Thrush,0.98985404,580.0,583.0
+Catharus ustulatus_Swainson's Thrush,0.9988894,581.0,584.0
+Catharus ustulatus_Swainson's Thrush,0.999318,582.0,585.0
+Catharus ustulatus_Swainson's Thrush,0.9938328,583.0,586.0
+Catharus ustulatus_Swainson's Thrush,0.3065733,584.0,587.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115640484,585.0,588.0
+Setophaga cerulea_Cerulean Warbler,0.10049069,585.0,588.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1950007,586.0,589.0
+Setophaga cerulea_Cerulean Warbler,0.12554453,586.0,589.0
+Catharus ustulatus_Swainson's Thrush,0.9748267,587.0,590.0
+Catharus ustulatus_Swainson's Thrush,0.99184316,588.0,591.0
+Catharus ustulatus_Swainson's Thrush,0.99918395,589.0,592.0
+Catharus ustulatus_Swainson's Thrush,0.9991259,590.0,593.0
+Catharus ustulatus_Swainson's Thrush,0.9439034,591.0,594.0
+Setophaga virens_Black-throated Green Warbler,0.8218422,592.0,595.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22129098,592.0,595.0
+Setophaga fusca_Blackburnian Warbler,0.137275,592.0,595.0
+Setophaga cerulea_Cerulean Warbler,0.10247023,592.0,595.0
+Buteo platypterus_Broad-winged Hawk,0.10037282,592.0,595.0
+Setophaga cerulea_Cerulean Warbler,0.17546463,593.0,596.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16825221,593.0,596.0
+Setophaga virens_Black-throated Green Warbler,0.15381834,593.0,596.0
+Setophaga fusca_Blackburnian Warbler,0.12387084,593.0,596.0
+Setophaga cerulea_Cerulean Warbler,0.21357727,594.0,597.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2071999,594.0,597.0
+Setophaga virens_Black-throated Green Warbler,0.18093261,594.0,597.0
+Setophaga fusca_Blackburnian Warbler,0.118953116,594.0,597.0
+Catharus ustulatus_Swainson's Thrush,0.9815329,595.0,598.0
+Catharus ustulatus_Swainson's Thrush,0.996218,596.0,599.0
+Catharus ustulatus_Swainson's Thrush,0.998939,597.0,600.0
+Catharus ustulatus_Swainson's Thrush,0.99359256,598.0,601.0
+Catharus ustulatus_Swainson's Thrush,0.6363683,599.0,602.0
+Catharus guttatus_Hermit Thrush,0.24146786,599.0,602.0
+Setophaga virens_Black-throated Green Warbler,0.31669894,600.0,603.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20870523,600.0,603.0
+Buteo platypterus_Broad-winged Hawk,0.12229689,600.0,603.0
+Empidonax virescens_Acadian Flycatcher,0.104478434,600.0,603.0
+Contopus virens_Eastern Wood-Pewee,0.10245646,600.0,603.0
+Setophaga virens_Black-throated Green Warbler,0.41480884,601.0,604.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17151934,601.0,604.0
+Contopus virens_Eastern Wood-Pewee,0.15380958,601.0,604.0
+Buteo platypterus_Broad-winged Hawk,0.1281257,601.0,604.0
+Setophaga fusca_Blackburnian Warbler,0.10223705,601.0,604.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2470949,602.0,605.0
+Contopus virens_Eastern Wood-Pewee,0.18135978,602.0,605.0
+Setophaga fusca_Blackburnian Warbler,0.1421541,602.0,605.0
+Catharus ustulatus_Swainson's Thrush,0.61612654,603.0,606.0
+Catharus ustulatus_Swainson's Thrush,0.84958166,604.0,607.0
+Catharus ustulatus_Swainson's Thrush,0.97793204,605.0,608.0
+Catharus ustulatus_Swainson's Thrush,0.97517633,606.0,609.0
+Catharus ustulatus_Swainson's Thrush,0.89524066,607.0,610.0
+Setophaga virens_Black-throated Green Warbler,0.18727706,608.0,611.0
+Buteo platypterus_Broad-winged Hawk,0.17294486,608.0,611.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12500048,608.0,611.0
+Piranga olivacea_Scarlet Tanager,0.10153032,608.0,611.0
+Buteo platypterus_Broad-winged Hawk,0.18917431,609.0,612.0
+Contopus virens_Eastern Wood-Pewee,0.13461825,609.0,612.0
+Catharus ustulatus_Swainson's Thrush,0.915546,610.0,613.0
+Catharus ustulatus_Swainson's Thrush,0.9974806,611.0,614.0
+Catharus ustulatus_Swainson's Thrush,0.9975915,612.0,615.0
+Catharus ustulatus_Swainson's Thrush,0.99646497,613.0,616.0
+Catharus ustulatus_Swainson's Thrush,0.5648589,614.0,617.0
+Catharus guttatus_Hermit Thrush,0.14038248,614.0,617.0
+Contopus virens_Eastern Wood-Pewee,0.29356974,615.0,618.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24461661,615.0,618.0
+Contopus virens_Eastern Wood-Pewee,0.27853364,616.0,619.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.254272,616.0,619.0
+Setophaga virens_Black-throated Green Warbler,0.5839493,617.0,620.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26121032,617.0,620.0
+Setophaga fusca_Blackburnian Warbler,0.13160571,617.0,620.0
+Setophaga virens_Black-throated Green Warbler,0.44224074,618.0,621.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2885799,618.0,621.0
+Catharus ustulatus_Swainson's Thrush,0.9713957,620.0,623.0
+Catharus ustulatus_Swainson's Thrush,0.99743253,621.0,624.0
+Catharus ustulatus_Swainson's Thrush,0.9992022,622.0,625.0
+Catharus ustulatus_Swainson's Thrush,0.87932247,623.0,626.0
+Catharus guttatus_Hermit Thrush,0.38173345,623.0,626.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14312401,624.0,627.0
+Buteo platypterus_Broad-winged Hawk,0.10077684,624.0,627.0
+Contopus virens_Eastern Wood-Pewee,0.17303011,625.0,628.0
+Buteo platypterus_Broad-winged Hawk,0.16147044,625.0,628.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15786467,625.0,628.0
+Setophaga citrina_Hooded Warbler,0.14751375,625.0,628.0
+Vireo solitarius_Blue-headed Vireo,0.12975751,626.0,629.0
+Setophaga virens_Black-throated Green Warbler,0.19872569,627.0,630.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14274132,627.0,630.0
+Seiurus aurocapilla_Ovenbird,0.121416986,627.0,630.0
+Setophaga fusca_Blackburnian Warbler,0.11843006,627.0,630.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10824058,628.0,631.0
+Setophaga cerulea_Cerulean Warbler,0.14492053,629.0,632.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11469671,629.0,632.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20125733,630.0,633.0
+Setophaga cerulea_Cerulean Warbler,0.13240439,630.0,633.0
+Setophaga fusca_Blackburnian Warbler,0.1271872,630.0,633.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17398334,631.0,634.0
+Contopus virens_Eastern Wood-Pewee,0.13258664,631.0,634.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2343085,632.0,635.0
+Contopus virens_Eastern Wood-Pewee,0.20960362,632.0,635.0
+Setophaga cerulea_Cerulean Warbler,0.11235356,632.0,635.0
+Empidonax virescens_Acadian Flycatcher,0.10832806,632.0,635.0
+Setophaga cerulea_Cerulean Warbler,0.15039386,633.0,636.0
+Contopus virens_Eastern Wood-Pewee,0.1465597,633.0,636.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12150587,633.0,636.0
+Catharus ustulatus_Swainson's Thrush,0.19729432,634.0,637.0
+Hylocichla mustelina_Wood Thrush,0.18734878,634.0,637.0
+Catharus ustulatus_Swainson's Thrush,0.9770279,635.0,638.0
+Catharus ustulatus_Swainson's Thrush,0.9976133,636.0,639.0
+Catharus ustulatus_Swainson's Thrush,0.99498403,637.0,640.0
+Catharus ustulatus_Swainson's Thrush,0.86245704,638.0,641.0
+Catharus guttatus_Hermit Thrush,0.69219834,638.0,641.0
+Seiurus aurocapilla_Ovenbird,0.4310986,639.0,642.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17262025,639.0,642.0
+Seiurus aurocapilla_Ovenbird,0.3529576,640.0,643.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28613052,640.0,643.0
+Setophaga virens_Black-throated Green Warbler,0.17388234,640.0,643.0
+Buteo platypterus_Broad-winged Hawk,0.112365566,640.0,643.0
+Seiurus aurocapilla_Ovenbird,0.47209677,641.0,644.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37129977,641.0,644.0
+Catharus ustulatus_Swainson's Thrush,0.9809771,642.0,645.0
+Catharus ustulatus_Swainson's Thrush,0.99901223,643.0,646.0
+Catharus ustulatus_Swainson's Thrush,0.9992581,644.0,647.0
+Catharus ustulatus_Swainson's Thrush,0.9832565,645.0,648.0
+Setophaga fusca_Blackburnian Warbler,0.2156997,646.0,649.0
+Catharus ustulatus_Swainson's Thrush,0.12819898,646.0,649.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24947284,647.0,650.0
+Setophaga virens_Black-throated Green Warbler,0.18643373,647.0,650.0
+Setophaga fusca_Blackburnian Warbler,0.11168264,647.0,650.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16434044,648.0,651.0
+Buteo platypterus_Broad-winged Hawk,0.15087044,648.0,651.0
+Setophaga virens_Black-throated Green Warbler,0.1298702,648.0,651.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16115434,649.0,652.0
+Setophaga cerulea_Cerulean Warbler,0.113177575,649.0,652.0
+Contopus virens_Eastern Wood-Pewee,0.37309,650.0,653.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2083185,650.0,653.0
+Contopus virens_Eastern Wood-Pewee,0.2544509,651.0,654.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23439927,651.0,654.0
+Catharus ustulatus_Swainson's Thrush,0.9925695,652.0,655.0
+Catharus ustulatus_Swainson's Thrush,0.9956027,653.0,656.0
+Catharus ustulatus_Swainson's Thrush,0.99656844,654.0,657.0
+Catharus ustulatus_Swainson's Thrush,0.37526008,655.0,658.0
+Catharus guttatus_Hermit Thrush,0.16337174,655.0,658.0
+Setophaga virens_Black-throated Green Warbler,0.53241926,656.0,659.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28360137,656.0,659.0
+Setophaga fusca_Blackburnian Warbler,0.10389419,656.0,659.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23635511,657.0,660.0
+Setophaga cerulea_Cerulean Warbler,0.14120147,657.0,660.0
+Setophaga fusca_Blackburnian Warbler,0.12983036,657.0,660.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27627894,658.0,661.0
+Setophaga cerulea_Cerulean Warbler,0.12761521,658.0,661.0
+Setophaga fusca_Blackburnian Warbler,0.12172385,658.0,661.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10591103,659.0,662.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31663316,660.0,663.0
+Setophaga cerulea_Cerulean Warbler,0.15124775,660.0,663.0
+Setophaga fusca_Blackburnian Warbler,0.11316693,660.0,663.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24785492,661.0,664.0
+Setophaga cerulea_Cerulean Warbler,0.1464558,661.0,664.0
+Catharus ustulatus_Swainson's Thrush,0.5492473,662.0,665.0
+Catharus ustulatus_Swainson's Thrush,0.9952396,663.0,666.0
+Catharus ustulatus_Swainson's Thrush,0.9989973,664.0,667.0
+Catharus ustulatus_Swainson's Thrush,0.9983217,665.0,668.0
+Catharus ustulatus_Swainson's Thrush,0.79636806,666.0,669.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10141557,667.0,670.0
+Catharus ustulatus_Swainson's Thrush,0.206398,668.0,671.0
+Hylocichla mustelina_Wood Thrush,0.10065891,668.0,671.0
+Catharus ustulatus_Swainson's Thrush,0.9945087,669.0,672.0
+Catharus ustulatus_Swainson's Thrush,0.99803025,670.0,673.0
+Catharus ustulatus_Swainson's Thrush,0.9981452,671.0,674.0
+Catharus ustulatus_Swainson's Thrush,0.98210657,672.0,675.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13929054,673.0,676.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22046629,674.0,677.0
+Setophaga cerulea_Cerulean Warbler,0.117264085,674.0,677.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22787383,675.0,678.0
+Setophaga cerulea_Cerulean Warbler,0.13979022,675.0,678.0
+Setophaga virens_Black-throated Green Warbler,0.10323333,675.0,678.0
+Piranga olivacea_Scarlet Tanager,0.10246981,675.0,678.0
+Vireo solitarius_Blue-headed Vireo,0.10052788,675.0,678.0
+Catharus ustulatus_Swainson's Thrush,0.8735158,676.0,679.0
+Hylocichla mustelina_Wood Thrush,0.1073377,676.0,679.0
+Catharus ustulatus_Swainson's Thrush,0.99490947,677.0,680.0
+Catharus ustulatus_Swainson's Thrush,0.9994686,678.0,681.0
+Catharus ustulatus_Swainson's Thrush,0.9955551,679.0,682.0
+Catharus ustulatus_Swainson's Thrush,0.6935535,680.0,683.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22838143,681.0,684.0
+Setophaga citrina_Hooded Warbler,0.1142599,681.0,684.0
+Geothlypis formosa_Kentucky Warbler,0.101711065,681.0,684.0
+Vireo olivaceus_Red-eyed Vireo,0.14160036,682.0,685.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11818494,682.0,685.0
+Setophaga cerulea_Cerulean Warbler,0.115557,682.0,685.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24762401,683.0,686.0
+Piranga olivacea_Scarlet Tanager,0.12887198,683.0,686.0
+Catharus ustulatus_Swainson's Thrush,0.77330476,684.0,687.0
+Catharus ustulatus_Swainson's Thrush,0.98939335,685.0,688.0
+Catharus ustulatus_Swainson's Thrush,0.9992594,686.0,689.0
+Catharus ustulatus_Swainson's Thrush,0.9956885,687.0,690.0
+Catharus ustulatus_Swainson's Thrush,0.41634157,688.0,691.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.313471,688.0,691.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15771088,689.0,692.0
+Setophaga virens_Black-throated Green Warbler,0.11984194,689.0,692.0
+Catharus ustulatus_Swainson's Thrush,0.9331003,692.0,695.0
+Catharus ustulatus_Swainson's Thrush,0.9934556,693.0,696.0
+Catharus ustulatus_Swainson's Thrush,0.9995017,694.0,697.0
+Catharus ustulatus_Swainson's Thrush,0.98965526,695.0,698.0
+Catharus ustulatus_Swainson's Thrush,0.5657924,696.0,699.0
+Piranga olivacea_Scarlet Tanager,0.12573297,697.0,700.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.179504,698.0,701.0
+Vireo olivaceus_Red-eyed Vireo,0.15898061,698.0,701.0
+Catharus ustulatus_Swainson's Thrush,0.9684064,699.0,702.0
+Catharus ustulatus_Swainson's Thrush,0.99867165,700.0,703.0
+Catharus ustulatus_Swainson's Thrush,0.9996792,701.0,704.0
+Catharus ustulatus_Swainson's Thrush,0.99075085,702.0,705.0
+Catharus ustulatus_Swainson's Thrush,0.13028182,703.0,706.0
+Setophaga virens_Black-throated Green Warbler,0.2200459,704.0,707.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21513538,704.0,707.0
+Setophaga cerulea_Cerulean Warbler,0.10511743,704.0,707.0
+Seiurus aurocapilla_Ovenbird,0.10471251,704.0,707.0
+Setophaga virens_Black-throated Green Warbler,0.22057699,705.0,708.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17242506,705.0,708.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20582086,706.0,709.0
+Setophaga virens_Black-throated Green Warbler,0.12097943,706.0,709.0
+Setophaga cerulea_Cerulean Warbler,0.10269663,706.0,709.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2715131,707.0,710.0
+Setophaga cerulea_Cerulean Warbler,0.15237732,707.0,710.0
+Contopus virens_Eastern Wood-Pewee,0.12777069,707.0,710.0
+Setophaga fusca_Blackburnian Warbler,0.11722152,707.0,710.0
+Catharus ustulatus_Swainson's Thrush,0.97722864,708.0,711.0
+Catharus ustulatus_Swainson's Thrush,0.99965274,709.0,712.0
+Catharus ustulatus_Swainson's Thrush,0.9998348,710.0,713.0
+Catharus ustulatus_Swainson's Thrush,0.997529,711.0,714.0
+Mniotilta varia_Black-and-white Warbler,0.66081935,712.0,715.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30646864,713.0,716.0
+Setophaga virens_Black-throated Green Warbler,0.25954807,713.0,716.0
+Setophaga cerulea_Cerulean Warbler,0.15872748,713.0,716.0
+Setophaga fusca_Blackburnian Warbler,0.14263853,713.0,716.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12260733,713.0,716.0
+Vireo olivaceus_Red-eyed Vireo,0.106835,713.0,716.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22837111,714.0,717.0
+Setophaga cerulea_Cerulean Warbler,0.20281503,714.0,717.0
+Seiurus aurocapilla_Ovenbird,0.19813761,714.0,717.0
+Setophaga fusca_Blackburnian Warbler,0.18165675,714.0,717.0
+Setophaga virens_Black-throated Green Warbler,0.15889406,714.0,717.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2820409,715.0,718.0
+Seiurus aurocapilla_Ovenbird,0.15350531,715.0,718.0
+Setophaga virens_Black-throated Green Warbler,0.14917058,715.0,718.0
+Setophaga cerulea_Cerulean Warbler,0.14357492,715.0,718.0
+Setophaga fusca_Blackburnian Warbler,0.12933168,715.0,718.0
+Catharus ustulatus_Swainson's Thrush,0.9897826,716.0,719.0
+Catharus ustulatus_Swainson's Thrush,0.9997459,717.0,720.0
+Catharus ustulatus_Swainson's Thrush,0.9999095,718.0,721.0
+Catharus ustulatus_Swainson's Thrush,0.99861014,719.0,722.0
+Catharus ustulatus_Swainson's Thrush,0.35646504,720.0,723.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15808746,721.0,724.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20610566,722.0,725.0
+Setophaga cerulea_Cerulean Warbler,0.11123079,722.0,725.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12373308,723.0,726.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26129928,724.0,727.0
+Setophaga cerulea_Cerulean Warbler,0.14859544,724.0,727.0
+Catharus ustulatus_Swainson's Thrush,0.968614,725.0,728.0
+Catharus ustulatus_Swainson's Thrush,0.99848855,726.0,729.0
+Catharus ustulatus_Swainson's Thrush,0.99969685,727.0,730.0
+Catharus ustulatus_Swainson's Thrush,0.9935899,728.0,731.0
+Catharus ustulatus_Swainson's Thrush,0.25840932,729.0,732.0
+Turdus nigriceps_Andean Slaty Thrush,0.16246162,729.0,732.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21454105,730.0,733.0
+Setophaga cerulea_Cerulean Warbler,0.15136202,730.0,733.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27660477,731.0,734.0
+Setophaga cerulea_Cerulean Warbler,0.19920671,731.0,734.0
+Vireo olivaceus_Red-eyed Vireo,0.103991345,731.0,734.0
+Setophaga ruticilla_American Redstart,0.102939904,731.0,734.0
+Empidonax virescens_Acadian Flycatcher,0.10260231,731.0,734.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23258615,732.0,735.0
+Setophaga cerulea_Cerulean Warbler,0.12926781,732.0,735.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14562325,733.0,736.0
+Setophaga virens_Black-throated Green Warbler,0.12465821,733.0,736.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22247642,734.0,737.0
+Setophaga virens_Black-throated Green Warbler,0.13786004,734.0,737.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25974405,735.0,738.0
+Setophaga virens_Black-throated Green Warbler,0.20412122,735.0,738.0
+Catharus ustulatus_Swainson's Thrush,0.675987,737.0,740.0
+Catharus ustulatus_Swainson's Thrush,0.9940182,738.0,741.0
+Catharus ustulatus_Swainson's Thrush,0.9942983,739.0,742.0
+Catharus ustulatus_Swainson's Thrush,0.9979119,740.0,743.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18925302,742.0,745.0
+Setophaga fusca_Blackburnian Warbler,0.12285625,742.0,745.0
+Setophaga cerulea_Cerulean Warbler,0.10295703,742.0,745.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23273407,743.0,746.0
+Seiurus aurocapilla_Ovenbird,0.17868192,743.0,746.0
+Setophaga cerulea_Cerulean Warbler,0.119698465,743.0,746.0
+Setophaga fusca_Blackburnian Warbler,0.11590325,743.0,746.0
+Catharus ustulatus_Swainson's Thrush,0.8775108,744.0,747.0
+Catharus ustulatus_Swainson's Thrush,0.99803776,745.0,748.0
+Catharus ustulatus_Swainson's Thrush,0.9997793,746.0,749.0
+Catharus ustulatus_Swainson's Thrush,0.9990012,747.0,750.0
+Catharus ustulatus_Swainson's Thrush,0.38340464,748.0,751.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28402483,749.0,752.0
+Setophaga fusca_Blackburnian Warbler,0.15725559,749.0,752.0
+Setophaga cerulea_Cerulean Warbler,0.11856076,749.0,752.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30176482,750.0,753.0
+Setophaga virens_Black-throated Green Warbler,0.14294478,750.0,753.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29173678,751.0,754.0
+Setophaga virens_Black-throated Green Warbler,0.1624268,751.0,754.0
+Buteo platypterus_Broad-winged Hawk,0.11817248,751.0,754.0
+Setophaga virens_Black-throated Green Warbler,0.32433358,752.0,755.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27331728,752.0,755.0
+Catharus ustulatus_Swainson's Thrush,0.9252597,753.0,756.0
+Catharus ustulatus_Swainson's Thrush,0.98544914,754.0,757.0
+Catharus ustulatus_Swainson's Thrush,0.99690646,755.0,758.0
+Catharus ustulatus_Swainson's Thrush,0.989645,756.0,759.0
+Thraupis episcopus_Blue-gray Tanager,0.17720059,757.0,760.0
+Turdus nigriceps_Andean Slaty Thrush,0.10551204,757.0,760.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20250411,758.0,761.0
+Vireo olivaceus_Red-eyed Vireo,0.12759449,758.0,761.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18644117,759.0,762.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25787646,760.0,763.0
+Setophaga cerulea_Cerulean Warbler,0.10588482,760.0,763.0
+Setophaga citrina_Hooded Warbler,0.10215241,760.0,763.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32948124,761.0,764.0
+Catharus ustulatus_Swainson's Thrush,0.9054209,762.0,765.0
+Catharus ustulatus_Swainson's Thrush,0.998131,763.0,766.0
+Catharus ustulatus_Swainson's Thrush,0.999684,764.0,767.0
+Catharus ustulatus_Swainson's Thrush,0.9995703,765.0,768.0
+Catharus ustulatus_Swainson's Thrush,0.93078214,766.0,769.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2730246,767.0,770.0
+Buteo platypterus_Broad-winged Hawk,0.1296226,767.0,770.0
+Setophaga fusca_Blackburnian Warbler,0.119721256,767.0,770.0
+Contopus virens_Eastern Wood-Pewee,0.10744452,767.0,770.0
+Setophaga cerulea_Cerulean Warbler,0.1040641,767.0,770.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35562146,768.0,771.0
+Contopus virens_Eastern Wood-Pewee,0.14116949,768.0,771.0
+Setophaga fusca_Blackburnian Warbler,0.10608841,768.0,771.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33174688,769.0,772.0
+Buteo platypterus_Broad-winged Hawk,0.13774078,769.0,772.0
+Contopus virens_Eastern Wood-Pewee,0.10033082,769.0,772.0
+Setophaga fusca_Blackburnian Warbler,0.100321054,769.0,772.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24466044,770.0,773.0
+Setophaga fusca_Blackburnian Warbler,0.12005865,770.0,773.0
+Setophaga cerulea_Cerulean Warbler,0.103348486,770.0,773.0
+Buteo platypterus_Broad-winged Hawk,0.10152736,770.0,773.0
+Turdus merula_Eurasian Blackbird,0.17724581,771.0,774.0
+Catharus ustulatus_Swainson's Thrush,0.99742293,772.0,775.0
+Catharus ustulatus_Swainson's Thrush,0.9995592,773.0,776.0
+Catharus ustulatus_Swainson's Thrush,0.99965096,774.0,777.0
+Catharus ustulatus_Swainson's Thrush,0.3685357,775.0,778.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21374933,776.0,779.0
+Piranga olivacea_Scarlet Tanager,0.1667127,776.0,779.0
+Vireo olivaceus_Red-eyed Vireo,0.13317859,776.0,779.0
+Setophaga fusca_Blackburnian Warbler,0.107568,776.0,779.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24881504,777.0,780.0
+Piranga olivacea_Scarlet Tanager,0.12390362,777.0,780.0
+Setophaga virens_Black-throated Green Warbler,0.120080866,777.0,780.0
+Setophaga cerulea_Cerulean Warbler,0.105823785,777.0,780.0
+Empidonax virescens_Acadian Flycatcher,0.10507381,777.0,780.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26447275,778.0,781.0
+Setophaga virens_Black-throated Green Warbler,0.17165671,778.0,781.0
+Empidonax virescens_Acadian Flycatcher,0.1542557,778.0,781.0
+Vireo olivaceus_Red-eyed Vireo,0.1473918,778.0,781.0
+Setophaga citrina_Hooded Warbler,0.12516794,778.0,781.0
+Crypturellus tataupa_Tataupa Tinamou,0.36502904,779.0,782.0
+Catharus ustulatus_Swainson's Thrush,0.9972562,780.0,783.0
+Catharus ustulatus_Swainson's Thrush,0.9989956,781.0,784.0
+Catharus ustulatus_Swainson's Thrush,0.9986957,782.0,785.0
+Catharus ustulatus_Swainson's Thrush,0.2763269,783.0,786.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1789518,784.0,787.0
+Setophaga cerulea_Cerulean Warbler,0.11770799,784.0,787.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21786179,785.0,788.0
+Seiurus aurocapilla_Ovenbird,0.121648304,785.0,788.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25084388,786.0,789.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2646142,787.0,790.0
+Seiurus aurocapilla_Ovenbird,0.11356354,787.0,790.0
+Setophaga fusca_Blackburnian Warbler,0.109167896,787.0,790.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16154379,788.0,791.0
+Catharus ustulatus_Swainson's Thrush,0.99067277,790.0,793.0
+Catharus ustulatus_Swainson's Thrush,0.999853,791.0,794.0
+Catharus ustulatus_Swainson's Thrush,0.9986796,792.0,795.0
+Catharus ustulatus_Swainson's Thrush,0.8697756,793.0,796.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24675094,794.0,797.0
+Piranga olivacea_Scarlet Tanager,0.12994099,794.0,797.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21842285,795.0,798.0
+Piranga olivacea_Scarlet Tanager,0.4405226,796.0,799.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13743518,796.0,799.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3213397,797.0,800.0
+Setophaga citrina_Hooded Warbler,0.12229332,797.0,800.0
+Setophaga cerulea_Cerulean Warbler,0.10743826,797.0,800.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22367407,798.0,801.0
+Contopus virens_Eastern Wood-Pewee,0.16955395,798.0,801.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11460102,798.0,801.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28591767,799.0,802.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28777632,800.0,803.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24033009,801.0,804.0
+Crypturellus tataupa_Tataupa Tinamou,0.10516018,802.0,805.0
+Catharus ustulatus_Swainson's Thrush,0.99153453,803.0,806.0
+Catharus ustulatus_Swainson's Thrush,0.9996227,804.0,807.0
+Catharus ustulatus_Swainson's Thrush,0.99896276,805.0,808.0
+Catharus ustulatus_Swainson's Thrush,0.9585827,806.0,809.0
+Catharus guttatus_Hermit Thrush,0.31532627,806.0,809.0
+Piranga olivacea_Scarlet Tanager,0.2665524,807.0,810.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14106725,807.0,810.0
+Contopus virens_Eastern Wood-Pewee,0.13777095,807.0,810.0
+Contopus virens_Eastern Wood-Pewee,0.120352626,808.0,811.0
+Setophaga virens_Black-throated Green Warbler,0.44097632,809.0,812.0
+Vireo solitarius_Blue-headed Vireo,0.26240733,809.0,812.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15161504,809.0,812.0
+Hylocichla mustelina_Wood Thrush,0.12709902,810.0,813.0
+Catharus ustulatus_Swainson's Thrush,0.9880933,811.0,814.0
+Catharus ustulatus_Swainson's Thrush,0.9973792,812.0,815.0
+Catharus ustulatus_Swainson's Thrush,0.9988921,813.0,816.0
+Catharus guttatus_Hermit Thrush,0.69612896,814.0,817.0
+Catharus ustulatus_Swainson's Thrush,0.58025235,814.0,817.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17540464,815.0,818.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19009128,816.0,819.0
+Piranga olivacea_Scarlet Tanager,0.10974551,816.0,819.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24224693,817.0,820.0
+Piranga olivacea_Scarlet Tanager,0.18867764,817.0,820.0
+Setophaga fusca_Blackburnian Warbler,0.14805965,817.0,820.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26649037,818.0,821.0
+Setophaga fusca_Blackburnian Warbler,0.18432803,818.0,821.0
+Setophaga cerulea_Cerulean Warbler,0.1434442,818.0,821.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25520372,819.0,822.0
+Setophaga fusca_Blackburnian Warbler,0.18707505,819.0,822.0
+Piranga olivacea_Scarlet Tanager,0.16621558,819.0,822.0
+Setophaga virens_Black-throated Green Warbler,0.1278639,819.0,822.0
+Setophaga cerulea_Cerulean Warbler,0.12726599,819.0,822.0
+Piranga olivacea_Scarlet Tanager,0.16316147,820.0,823.0
+Catharus fuscescens_Veery,0.12365204,820.0,823.0
+Catharus ustulatus_Swainson's Thrush,0.9824059,821.0,824.0
+Catharus ustulatus_Swainson's Thrush,0.99921906,822.0,825.0
+Catharus ustulatus_Swainson's Thrush,0.9966107,823.0,826.0
+Catharus ustulatus_Swainson's Thrush,0.83007115,824.0,827.0
+Tamias striatus_Eastern Chipmunk,0.16113284,825.0,828.0
+Tamias striatus_Eastern Chipmunk,0.21247767,826.0,829.0
+Tamias striatus_Eastern Chipmunk,0.20454074,827.0,830.0
+Catharus ustulatus_Swainson's Thrush,0.6191783,829.0,832.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1588846,829.0,832.0
+Catharus ustulatus_Swainson's Thrush,0.668924,830.0,833.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16340265,830.0,833.0
+Catharus ustulatus_Swainson's Thrush,0.62933487,831.0,834.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12869321,831.0,834.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10411959,832.0,835.0
+Seiurus aurocapilla_Ovenbird,0.12645066,833.0,836.0
+Catharus ustulatus_Swainson's Thrush,0.22491476,834.0,837.0
+Catharus ustulatus_Swainson's Thrush,0.99270815,835.0,838.0
+Catharus ustulatus_Swainson's Thrush,0.99861467,836.0,839.0
+Catharus ustulatus_Swainson's Thrush,0.9973232,837.0,840.0
+Catharus ustulatus_Swainson's Thrush,0.3853682,838.0,841.0
+Catharus guttatus_Hermit Thrush,0.14921327,838.0,841.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21659236,839.0,842.0
+Setophaga virens_Black-throated Green Warbler,0.16819052,839.0,842.0
+Setophaga fusca_Blackburnian Warbler,0.13931826,839.0,842.0
+Contopus virens_Eastern Wood-Pewee,0.27648315,840.0,843.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14088203,840.0,843.0
+Setophaga fusca_Blackburnian Warbler,0.105058685,840.0,843.0
+Contopus virens_Eastern Wood-Pewee,0.31462532,841.0,844.0
+Piranga olivacea_Scarlet Tanager,0.12950417,841.0,844.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114298224,841.0,844.0
+Contopus virens_Eastern Wood-Pewee,0.22358279,842.0,845.0
+Setophaga fusca_Blackburnian Warbler,0.18797949,843.0,846.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13859472,843.0,846.0
+Setophaga virens_Black-throated Green Warbler,0.119922064,843.0,846.0
+Vireo solitarius_Blue-headed Vireo,0.11927071,843.0,846.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24585223,844.0,847.0
+Vireo solitarius_Blue-headed Vireo,0.16620573,844.0,847.0
+Setophaga fusca_Blackburnian Warbler,0.1479976,844.0,847.0
+Setophaga virens_Black-throated Green Warbler,0.14161238,844.0,847.0
+Setophaga virens_Black-throated Green Warbler,0.79770815,845.0,848.0
+Vireo solitarius_Blue-headed Vireo,0.20679468,845.0,848.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15860318,845.0,848.0
+Setophaga virens_Black-throated Green Warbler,0.7026998,846.0,849.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13487798,846.0,849.0
+Setophaga virens_Black-throated Green Warbler,0.7863498,847.0,850.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2092102,847.0,850.0
+Setophaga virens_Black-throated Green Warbler,0.20977443,848.0,851.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16174635,848.0,851.0
+Setophaga fusca_Blackburnian Warbler,0.12800506,848.0,851.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12589978,849.0,852.0
+Setophaga fusca_Blackburnian Warbler,0.11188149,849.0,852.0
+Crypturellus tataupa_Tataupa Tinamou,0.17577559,852.0,855.0
+Catharus ustulatus_Swainson's Thrush,0.9795751,853.0,856.0
+Catharus ustulatus_Swainson's Thrush,0.999453,854.0,857.0
+Catharus ustulatus_Swainson's Thrush,0.9984864,855.0,858.0
+Catharus ustulatus_Swainson's Thrush,0.43920425,856.0,859.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10590636,857.0,860.0
+Catharus ustulatus_Swainson's Thrush,0.952716,862.0,865.0
+Catharus ustulatus_Swainson's Thrush,0.99467885,863.0,866.0
+Catharus ustulatus_Swainson's Thrush,0.99889696,864.0,867.0
+Catharus ustulatus_Swainson's Thrush,0.98766196,865.0,868.0
+Thraupis palmarum_Palm Tanager,0.1884041,866.0,869.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.11311012,867.0,870.0
+Setophaga virens_Black-throated Green Warbler,0.34079725,868.0,871.0
+Setophaga virens_Black-throated Green Warbler,0.65900946,869.0,872.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12434114,869.0,872.0
+Setophaga virens_Black-throated Green Warbler,0.384049,870.0,873.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15745415,870.0,873.0
+Setophaga virens_Black-throated Green Warbler,0.58751494,871.0,874.0
+Turdus merula_Eurasian Blackbird,0.10380136,872.0,875.0
+Catharus ustulatus_Swainson's Thrush,0.99062437,873.0,876.0
+Catharus ustulatus_Swainson's Thrush,0.9987668,874.0,877.0
+Catharus ustulatus_Swainson's Thrush,0.99908817,875.0,878.0
+Catharus ustulatus_Swainson's Thrush,0.9400328,876.0,879.0
+Catharus guttatus_Hermit Thrush,0.22479689,876.0,879.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11980389,878.0,881.0
+Catharus ustulatus_Swainson's Thrush,0.9548444,880.0,883.0
+Catharus ustulatus_Swainson's Thrush,0.9987657,881.0,884.0
+Catharus ustulatus_Swainson's Thrush,0.9989792,882.0,885.0
+Catharus ustulatus_Swainson's Thrush,0.9963491,883.0,886.0
+Catharus ustulatus_Swainson's Thrush,0.5531823,884.0,887.0
+Seiurus aurocapilla_Ovenbird,0.12820809,885.0,888.0
+Seiurus aurocapilla_Ovenbird,0.25198314,886.0,889.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17858018,886.0,889.0
+Setophaga fusca_Blackburnian Warbler,0.122591145,886.0,889.0
+Turdus migratorius_American Robin,0.13475943,889.0,892.0
+Turdus merula_Eurasian Blackbird,0.24508086,890.0,893.0
+Catharus ustulatus_Swainson's Thrush,0.15673722,890.0,893.0
+Catharus ustulatus_Swainson's Thrush,0.99738556,891.0,894.0
+Catharus ustulatus_Swainson's Thrush,0.9986154,892.0,895.0
+Catharus ustulatus_Swainson's Thrush,0.98690516,893.0,896.0
+Catharus guttatus_Hermit Thrush,0.623484,894.0,897.0
+Catharus guttatus_Hermit Thrush,0.7804927,895.0,897.7920181405896
+Setophaga virens_Black-throated Green Warbler,0.34940928,895.0,897.7920181405896
+Tamiasciurus hudsonicus_Red Squirrel,0.27777326,895.0,897.7920181405896

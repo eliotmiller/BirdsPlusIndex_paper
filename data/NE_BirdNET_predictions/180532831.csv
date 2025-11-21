@@ -1,0 +1,287 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.18513618,0.0,3.0
+Chaetura pelagica_Chimney Swift,0.28171453,2.0,5.0
+Myiarchus crinitus_Great Crested Flycatcher,0.19919121,2.0,5.0
+Chaetura pelagica_Chimney Swift,0.49254635,3.0,6.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3171074,3.0,6.0
+Mimus polyglottos_Northern Mockingbird,0.14025779,4.0,7.0
+Chaetura pelagica_Chimney Swift,0.12971868,4.0,7.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1063075,4.0,7.0
+Mimus polyglottos_Northern Mockingbird,0.14105327,5.0,8.0
+Mimus polyglottos_Northern Mockingbird,0.40864667,6.0,9.0
+Corthylio calendula_Ruby-crowned Kinglet,0.10670114,6.0,9.0
+Mimus polyglottos_Northern Mockingbird,0.16501588,7.0,10.0
+Corthylio calendula_Ruby-crowned Kinglet,0.13498741,7.0,10.0
+Chaetura pelagica_Chimney Swift,0.10845095,7.0,10.0
+Mimus polyglottos_Northern Mockingbird,0.106087975,8.0,11.0
+Thryothorus ludovicianus_Carolina Wren,0.19242315,9.0,12.0
+Chaetura pelagica_Chimney Swift,0.15960827,9.0,12.0
+Thryothorus ludovicianus_Carolina Wren,0.11195841,10.0,13.0
+Haemorhous mexicanus_House Finch,0.18925118,12.0,15.0
+Haemorhous mexicanus_House Finch,0.38055083,13.0,16.0
+Chordeiles minor_Common Nighthawk,0.18306957,16.0,19.0
+Sturnus vulgaris_European Starling,0.12266781,16.0,19.0
+Sturnus vulgaris_European Starling,0.19067134,17.0,20.0
+Sturnus vulgaris_European Starling,0.23530363,18.0,21.0
+Chordeiles minor_Common Nighthawk,0.1022277,18.0,21.0
+Sturnus vulgaris_European Starling,0.26072365,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.12566991,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.4534902,22.0,25.0
+Vireo philadelphicus_Philadelphia Vireo,0.123383746,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.39313194,23.0,26.0
+Vireo philadelphicus_Philadelphia Vireo,0.3671939,23.0,26.0
+Vireo philadelphicus_Philadelphia Vireo,0.60004616,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.39097172,24.0,27.0
+Engine_Engine,0.10087235,25.0,28.0
+Engine_Engine,0.40617523,26.0,29.0
+Engine_Engine,0.2287423,27.0,30.0
+Engine_Engine,0.26201606,28.0,31.0
+Engine_Engine,0.15955327,29.0,32.0
+Engine_Engine,0.11091918,30.0,33.0
+Engine_Engine,0.27111915,31.0,34.0
+Engine_Engine,0.18337578,32.0,35.0
+Calidris canutus_Red Knot,0.22753699,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.36344644,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.12372797,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.15353099,37.0,40.0
+Rallus crepitans_Clapper Rail,0.37409556,42.0,45.0
+Rallus elegans_King Rail,0.3480422,42.0,45.0
+Rallus obsoletus_Ridgway's Rail,0.2856835,42.0,45.0
+Rallus crepitans_Clapper Rail,0.12126853,43.0,46.0
+Rallus elegans_King Rail,0.10895282,43.0,46.0
+Rallus crepitans_Clapper Rail,0.39488348,44.0,47.0
+Rallus elegans_King Rail,0.31062105,44.0,47.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11806262,44.0,47.0
+Spinus psaltria_Lesser Goldfinch,0.13732746,46.0,49.0
+Cardinalis sinuatus_Pyrrhuloxia,0.23276964,47.0,50.0
+Cardinalis cardinalis_Northern Cardinal,0.14811474,48.0,51.0
+Charadrius dubius_Little Ringed Plover,0.1686105,49.0,52.0
+Cardinalis cardinalis_Northern Cardinal,0.1527049,49.0,52.0
+Buteo lineatus_Red-shouldered Hawk,0.6790256,50.0,53.0
+Charadrius dubius_Little Ringed Plover,0.45151505,50.0,53.0
+Buteo lineatus_Red-shouldered Hawk,0.78367746,51.0,54.0
+Charadrius dubius_Little Ringed Plover,0.14738174,51.0,54.0
+Mimus polyglottos_Northern Mockingbird,0.31102777,52.0,55.0
+Buteo lineatus_Red-shouldered Hawk,0.25332472,52.0,55.0
+Baeolophus bicolor_Tufted Titmouse,0.19061919,53.0,56.0
+Buteo lineatus_Red-shouldered Hawk,0.12052171,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.6503816,54.0,57.0
+Mimus polyglottos_Northern Mockingbird,0.2696073,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.71116626,55.0,58.0
+Mimus polyglottos_Northern Mockingbird,0.23273358,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.4379665,56.0,59.0
+Mimus polyglottos_Northern Mockingbird,0.10597677,56.0,59.0
+Baeolophus bicolor_Tufted Titmouse,0.33708352,57.0,60.0
+Baeolophus bicolor_Tufted Titmouse,0.116525106,58.0,61.0
+Baeolophus bicolor_Tufted Titmouse,0.19731964,59.0,62.0
+Mimus polyglottos_Northern Mockingbird,0.19584356,59.0,62.0
+Mimus polyglottos_Northern Mockingbird,0.49532405,60.0,63.0
+Corthylio calendula_Ruby-crowned Kinglet,0.14638469,60.0,63.0
+Mimus polyglottos_Northern Mockingbird,0.37481344,61.0,64.0
+Mimus polyglottos_Northern Mockingbird,0.33166414,62.0,65.0
+Icterus parisorum_Scott's Oriole,0.100970566,62.0,65.0
+Mimus polyglottos_Northern Mockingbird,0.22999246,63.0,66.0
+Toxostoma rufum_Brown Thrasher,0.14729701,63.0,66.0
+Mimus polyglottos_Northern Mockingbird,0.52066875,64.0,67.0
+Mimus polyglottos_Northern Mockingbird,0.45448726,65.0,68.0
+Mimus polyglottos_Northern Mockingbird,0.5820264,66.0,69.0
+Toxostoma rufum_Brown Thrasher,0.25267446,66.0,69.0
+Mimus polyglottos_Northern Mockingbird,0.7353426,67.0,70.0
+Toxostoma rufum_Brown Thrasher,0.44760278,67.0,70.0
+Thryothorus ludovicianus_Carolina Wren,0.14606228,67.0,70.0
+Mimus polyglottos_Northern Mockingbird,0.60504967,68.0,71.0
+Toxostoma rufum_Brown Thrasher,0.40861565,68.0,71.0
+Mimus polyglottos_Northern Mockingbird,0.40676668,69.0,72.0
+Thryothorus ludovicianus_Carolina Wren,0.3591908,69.0,72.0
+Thryothorus ludovicianus_Carolina Wren,0.7709083,70.0,73.0
+Mimus polyglottos_Northern Mockingbird,0.16939445,70.0,73.0
+Baeolophus bicolor_Tufted Titmouse,0.2592198,71.0,74.0
+Mimus polyglottos_Northern Mockingbird,0.14532542,71.0,74.0
+Baeolophus bicolor_Tufted Titmouse,0.6211208,72.0,75.0
+Baeolophus bicolor_Tufted Titmouse,0.89947546,73.0,76.0
+Baeolophus bicolor_Tufted Titmouse,0.9422808,74.0,77.0
+Baeolophus bicolor_Tufted Titmouse,0.7736963,75.0,78.0
+Baeolophus bicolor_Tufted Titmouse,0.50005853,76.0,79.0
+Mimus polyglottos_Northern Mockingbird,0.23086649,78.0,81.0
+Chaetura pelagica_Chimney Swift,0.20297812,78.0,81.0
+Mimus polyglottos_Northern Mockingbird,0.10279712,79.0,82.0
+Mimus polyglottos_Northern Mockingbird,0.521013,80.0,83.0
+Mimus polyglottos_Northern Mockingbird,0.22422248,81.0,84.0
+Mimus polyglottos_Northern Mockingbird,0.18686391,82.0,85.0
+Tringa melanoleuca_Greater Yellowlegs,0.15975481,82.0,85.0
+Mimus polyglottos_Northern Mockingbird,0.23138304,83.0,86.0
+Mimus polyglottos_Northern Mockingbird,0.13163327,84.0,87.0
+Rallus limicola_Virginia Rail,0.17933485,85.0,88.0
+Thryothorus ludovicianus_Carolina Wren,0.17868325,90.0,93.0
+Thryothorus ludovicianus_Carolina Wren,0.13310033,91.0,94.0
+Thryothorus ludovicianus_Carolina Wren,0.18947633,92.0,95.0
+Mimus polyglottos_Northern Mockingbird,0.14104624,97.0,100.0
+Thryothorus ludovicianus_Carolina Wren,0.12032937,98.0,101.0
+Thryothorus ludovicianus_Carolina Wren,0.14578702,99.0,102.0
+Chaetura pelagica_Chimney Swift,0.109637216,99.0,102.0
+Chaetura pelagica_Chimney Swift,0.37590712,100.0,103.0
+Thryothorus ludovicianus_Carolina Wren,0.18346038,100.0,103.0
+Chaetura pelagica_Chimney Swift,0.5791248,101.0,104.0
+Chaetura pelagica_Chimney Swift,0.65273947,102.0,105.0
+Chaetura pelagica_Chimney Swift,0.3423962,103.0,106.0
+Chaetura pelagica_Chimney Swift,0.31593496,104.0,107.0
+Chaetura pelagica_Chimney Swift,0.1330747,105.0,108.0
+Chaetura pelagica_Chimney Swift,0.17510512,106.0,109.0
+Cardinalis cardinalis_Northern Cardinal,0.12621786,106.0,109.0
+Corvus ossifragus_Fish Crow,0.16652448,110.0,113.0
+Corvus brachyrhynchos_American Crow,0.17648946,112.0,115.0
+Corvus ossifragus_Fish Crow,0.1433473,112.0,115.0
+Corvus ossifragus_Fish Crow,0.12606815,113.0,116.0
+Corvus brachyrhynchos_American Crow,0.10115379,113.0,116.0
+Corvus ossifragus_Fish Crow,0.20155504,114.0,117.0
+Corvus brachyrhynchos_American Crow,0.18868296,114.0,117.0
+Corvus brachyrhynchos_American Crow,0.20181364,115.0,118.0
+Corvus ossifragus_Fish Crow,0.16700238,115.0,118.0
+Mimus polyglottos_Northern Mockingbird,0.6468909,116.0,119.0
+Mimus polyglottos_Northern Mockingbird,0.7702569,117.0,120.0
+Mimus polyglottos_Northern Mockingbird,0.50366706,118.0,121.0
+Sialia sialis_Eastern Bluebird,0.14165016,118.0,121.0
+Mimus polyglottos_Northern Mockingbird,0.75592595,119.0,122.0
+Sialia sialis_Eastern Bluebird,0.2786834,119.0,122.0
+Sialia sialis_Eastern Bluebird,0.84689033,120.0,123.0
+Mimus polyglottos_Northern Mockingbird,0.43814123,120.0,123.0
+Mimus polyglottos_Northern Mockingbird,0.64407,121.0,124.0
+Mimus polyglottos_Northern Mockingbird,0.6537799,122.0,125.0
+Thryothorus ludovicianus_Carolina Wren,0.21799459,122.0,125.0
+Mimus polyglottos_Northern Mockingbird,0.6744563,123.0,126.0
+Thryothorus ludovicianus_Carolina Wren,0.36942145,123.0,126.0
+Thryothorus ludovicianus_Carolina Wren,0.86604744,124.0,127.0
+Mimus polyglottos_Northern Mockingbird,0.1798922,124.0,127.0
+Thryothorus ludovicianus_Carolina Wren,0.84607923,125.0,128.0
+Thryothorus ludovicianus_Carolina Wren,0.54156065,126.0,129.0
+Mimus polyglottos_Northern Mockingbird,0.51379144,126.0,129.0
+Mimus polyglottos_Northern Mockingbird,0.86885464,127.0,130.0
+Mimus polyglottos_Northern Mockingbird,0.7791652,128.0,131.0
+Mimus polyglottos_Northern Mockingbird,0.35764325,129.0,132.0
+Toxostoma rufum_Brown Thrasher,0.124178536,129.0,132.0
+Mimus polyglottos_Northern Mockingbird,0.25088522,130.0,133.0
+Toxostoma rufum_Brown Thrasher,0.107924215,130.0,133.0
+Saltator striatipectus_Streaked Saltator,0.12031444,133.0,136.0
+Mimus polyglottos_Northern Mockingbird,0.34080607,135.0,138.0
+Icterus mesomelas_Yellow-tailed Oriole,0.102979265,135.0,138.0
+Mimus polyglottos_Northern Mockingbird,0.5905615,136.0,139.0
+Stephanoaetus coronatus_Crowned Eagle,0.14182398,137.0,140.0
+Cariama cristata_Red-legged Seriema,0.113894515,137.0,140.0
+Falco columbarius_Merlin,0.13491279,138.0,141.0
+Glaucidium brasilianum_Ferruginous Pygmy-Owl,0.21295659,139.0,142.0
+Falco columbarius_Merlin,0.36460555,140.0,143.0
+Turdus migratorius_American Robin,0.19768584,141.0,144.0
+Turdus migratorius_American Robin,0.14172703,142.0,145.0
+Cistothorus palustris_Marsh Wren,0.38811007,143.0,146.0
+Turdus migratorius_American Robin,0.1660018,143.0,146.0
+Lanius ludovicianus_Loggerhead Shrike,0.47833496,144.0,147.0
+Mimus polyglottos_Northern Mockingbird,0.29158667,144.0,147.0
+Lanius ludovicianus_Loggerhead Shrike,0.84037894,145.0,148.0
+Mimus polyglottos_Northern Mockingbird,0.33569744,145.0,148.0
+Lanius ludovicianus_Loggerhead Shrike,0.39022598,146.0,149.0
+Mimus polyglottos_Northern Mockingbird,0.2720722,146.0,149.0
+Agelaius phoeniceus_Red-winged Blackbird,0.116652474,147.0,150.0
+Buteo jamaicensis_Red-tailed Hawk,0.38867053,150.0,153.0
+Pandion haliaetus_Osprey,0.27371684,150.0,153.0
+Haliaeetus leucocephalus_Bald Eagle,0.12680337,150.0,153.0
+Buteo jamaicensis_Red-tailed Hawk,0.4694515,151.0,154.0
+Buteo jamaicensis_Red-tailed Hawk,0.73146516,152.0,155.0
+Haliaeetus leucocephalus_Bald Eagle,0.28281787,152.0,155.0
+Buteo jamaicensis_Red-tailed Hawk,0.41859704,153.0,156.0
+Sayornis phoebe_Eastern Phoebe,0.59862435,154.0,157.0
+Sayornis phoebe_Eastern Phoebe,0.89625096,155.0,158.0
+Sayornis phoebe_Eastern Phoebe,0.9964592,156.0,159.0
+Sayornis phoebe_Eastern Phoebe,0.9978981,157.0,160.0
+Sayornis phoebe_Eastern Phoebe,0.9904026,158.0,161.0
+Sayornis phoebe_Eastern Phoebe,0.99724054,159.0,162.0
+Sayornis phoebe_Eastern Phoebe,0.80815184,160.0,163.0
+Thryothorus ludovicianus_Carolina Wren,0.19589865,160.0,163.0
+Sayornis phoebe_Eastern Phoebe,0.7780149,161.0,164.0
+Thryothorus ludovicianus_Carolina Wren,0.89512545,162.0,165.0
+Thryothorus ludovicianus_Carolina Wren,0.58312577,163.0,166.0
+Thryothorus ludovicianus_Carolina Wren,0.93589985,164.0,167.0
+Mimus polyglottos_Northern Mockingbird,0.77133316,165.0,168.0
+Thryothorus ludovicianus_Carolina Wren,0.2973712,165.0,168.0
+Toxostoma rufum_Brown Thrasher,0.26030585,165.0,168.0
+Mimus polyglottos_Northern Mockingbird,0.47122765,166.0,169.0
+Turdus migratorius_American Robin,0.1619648,166.0,169.0
+Turdus migratorius_American Robin,0.5396493,167.0,170.0
+Buteo jamaicensis_Red-tailed Hawk,0.19811903,168.0,171.0
+Pandion haliaetus_Osprey,0.12400598,168.0,171.0
+Buteo jamaicensis_Red-tailed Hawk,0.8262906,169.0,172.0
+Buteo jamaicensis_Red-tailed Hawk,0.8125578,170.0,173.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.26854572,170.0,173.0
+Haliaeetus leucocephalus_Bald Eagle,0.17878038,170.0,173.0
+Pandion haliaetus_Osprey,0.17049506,170.0,173.0
+Buteo jamaicensis_Red-tailed Hawk,0.855678,171.0,174.0
+Haliaeetus leucocephalus_Bald Eagle,0.20024268,171.0,174.0
+Pandion haliaetus_Osprey,0.18221861,171.0,174.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.12901764,171.0,174.0
+Buteo jamaicensis_Red-tailed Hawk,0.3803992,172.0,175.0
+Haliaeetus leucocephalus_Bald Eagle,0.17954849,172.0,175.0
+Pandion haliaetus_Osprey,0.12903196,172.0,175.0
+Falco peregrinus_Peregrine Falcon,0.12668377,172.0,175.0
+Buteo jamaicensis_Red-tailed Hawk,0.33057144,173.0,176.0
+Haliaeetus leucocephalus_Bald Eagle,0.14646667,173.0,176.0
+Falco columbarius_Merlin,0.11788551,176.0,179.0
+Buteo jamaicensis_Red-tailed Hawk,0.10394328,176.0,179.0
+Chaetura pelagica_Chimney Swift,0.30814117,179.0,182.0
+Chaetura pelagica_Chimney Swift,0.39739573,180.0,183.0
+Mimus polyglottos_Northern Mockingbird,0.5646945,182.0,185.0
+Thryothorus ludovicianus_Carolina Wren,0.22250706,182.0,185.0
+Mimus polyglottos_Northern Mockingbird,0.8273783,183.0,186.0
+Mimus polyglottos_Northern Mockingbird,0.93898845,184.0,187.0
+Mimus polyglottos_Northern Mockingbird,0.7040286,185.0,188.0
+Mimus gilvus_Tropical Mockingbird,0.20163326,185.0,188.0
+Mimus gundlachii_Bahama Mockingbird,0.14813828,185.0,188.0
+Mimus polyglottos_Northern Mockingbird,0.34226957,186.0,189.0
+Mimus gilvus_Tropical Mockingbird,0.26453736,186.0,189.0
+Merops apiaster_European Bee-eater,0.1086208,188.0,191.0
+Mimus polyglottos_Northern Mockingbird,0.10282668,189.0,192.0
+Mimus polyglottos_Northern Mockingbird,0.15563804,190.0,193.0
+Mimus polyglottos_Northern Mockingbird,0.15496027,191.0,194.0
+Acanthagenys rufogularis_Spiny-cheeked Honeyeater,0.13983178,191.0,194.0
+Mimus polyglottos_Northern Mockingbird,0.31287903,192.0,195.0
+Baeolophus bicolor_Tufted Titmouse,0.71975744,194.0,197.0
+Baeolophus bicolor_Tufted Titmouse,0.8774037,195.0,198.0
+Baeolophus bicolor_Tufted Titmouse,0.84543306,196.0,199.0
+Baeolophus bicolor_Tufted Titmouse,0.9272034,197.0,200.0
+Baeolophus bicolor_Tufted Titmouse,0.868491,198.0,201.0
+Corvus ossifragus_Fish Crow,0.10293404,198.0,201.0
+Baeolophus bicolor_Tufted Titmouse,0.8666133,199.0,202.0
+Baeolophus bicolor_Tufted Titmouse,0.94528455,200.0,203.0
+Baeolophus bicolor_Tufted Titmouse,0.8283548,201.0,204.0
+Baeolophus bicolor_Tufted Titmouse,0.70540917,202.0,205.0
+Mimus polyglottos_Northern Mockingbird,0.120566875,202.0,205.0
+Baeolophus bicolor_Tufted Titmouse,0.5249721,203.0,206.0
+Mimus polyglottos_Northern Mockingbird,0.1832589,203.0,206.0
+Myiarchus crinitus_Great Crested Flycatcher,0.45550522,204.0,207.0
+Mimus polyglottos_Northern Mockingbird,0.23642722,204.0,207.0
+Myiarchus crinitus_Great Crested Flycatcher,0.26724616,205.0,208.0
+Colaptes auratus_Northern Flicker,0.15337671,205.0,208.0
+Myiarchus crinitus_Great Crested Flycatcher,0.61280876,206.0,209.0
+Mimus polyglottos_Northern Mockingbird,0.114155866,206.0,209.0
+Myiarchus crinitus_Great Crested Flycatcher,0.27892682,207.0,210.0
+Colaptes auratus_Northern Flicker,0.26265046,208.0,211.0
+Colaptes auratus_Northern Flicker,0.2505749,209.0,212.0
+Pandion haliaetus_Osprey,0.11832134,209.0,212.0
+Colaptes auratus_Northern Flicker,0.16757225,211.0,214.0
+Nothocercus julius_Tawny-breasted Tinamou,0.510625,221.0,224.0
+Merops apiaster_European Bee-eater,0.18137091,223.0,226.0
+Turdus grayi_Clay-colored Thrush,0.4082949,226.0,229.0
+Turdus grayi_Clay-colored Thrush,0.34693477,227.0,230.0
+Cardinalis cardinalis_Northern Cardinal,0.45677844,228.0,231.0
+Mimus polyglottos_Northern Mockingbird,0.20692213,228.0,231.0
+Cardinalis cardinalis_Northern Cardinal,0.4452431,229.0,232.0
+Cardinalis cardinalis_Northern Cardinal,0.37361792,230.0,233.0
+Mimus polyglottos_Northern Mockingbird,0.25999606,230.0,233.0
+Cardinalis cardinalis_Northern Cardinal,0.16091403,231.0,234.0
+Thryothorus ludovicianus_Carolina Wren,0.4902441,232.0,235.0
+Mimus polyglottos_Northern Mockingbird,0.45098117,232.0,235.0
+Thryothorus ludovicianus_Carolina Wren,0.28335848,233.0,236.0
+Toxostoma rufum_Brown Thrasher,0.11382548,233.0,236.0
+Thryothorus ludovicianus_Carolina Wren,0.62499875,234.0,237.0
+Thryothorus ludovicianus_Carolina Wren,0.19293708,235.0,238.0
+Myiagra rubecula_Leaden Flycatcher,0.15227711,236.0,239.0
+Baeolophus bicolor_Tufted Titmouse,0.16203482,238.0,241.0
+Baeolophus bicolor_Tufted Titmouse,0.16082601,239.0,241.8

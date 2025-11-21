@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.367365,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.17172335,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.18163264,1.0,4.0
+Bonasa umbellus_Ruffed Grouse,0.13103035,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.122100286,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.10827071,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.21187381,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110724434,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.10694045,2.0,5.0
+Bonasa umbellus_Ruffed Grouse,0.10305486,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.11947293,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.20584284,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.176303,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107665494,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.22272772,5.0,8.0
+Setophaga ruticilla_American Redstart,0.10402751,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.9416014,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.8657553,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.84998626,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.3378969,9.0,12.0
+Bonasa umbellus_Ruffed Grouse,0.14780723,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.10809449,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.12483996,10.0,13.0
+Bonasa umbellus_Ruffed Grouse,0.113850184,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.13816513,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13652028,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.11682923,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.105219826,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.8617029,16.0,19.0
+Setophaga tigrina_Cape May Warbler,0.11840471,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.49813443,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.74601984,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.33573624,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.1654098,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.18060042,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20859803,23.0,26.0
+Bonasa umbellus_Ruffed Grouse,0.20621613,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.13160424,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.122905225,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.11760104,23.0,26.0
+Bonasa umbellus_Ruffed Grouse,0.1292993,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10920644,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.15397078,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.84904146,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.81619054,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.496393,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.15484604,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11117051,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.117778234,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.1630212,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.11507308,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.15779665,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.138933,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11698581,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14590816,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.13159655,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.2905908,35.0,38.0
+Setophaga ruticilla_American Redstart,0.11785617,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.7354245,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.86222124,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.93542117,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.22300076,39.0,42.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.104970865,42.0,45.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10518872,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12666968,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.11217212,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.13721237,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123157814,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11698611,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.11668256,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11427971,48.0,51.0
+Bonasa umbellus_Ruffed Grouse,0.1591825,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1037244,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.17291018,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.102598265,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.6218191,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.1560969,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.5291997,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.1172902,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.34054655,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.18089902,54.0,57.0
+Bonasa umbellus_Ruffed Grouse,0.14594795,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.11471841,56.0,59.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.102100104,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17109068,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.12841873,57.0,60.0
+Bonasa umbellus_Ruffed Grouse,0.124209955,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.5065024,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.14512013,58.0,61.0
+Setophaga coronata_Yellow-rumped Warbler,0.106328994,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.28186238,59.0,61.24802721088435
+Setophaga coronata_Yellow-rumped Warbler,0.1350008,59.0,61.24802721088435

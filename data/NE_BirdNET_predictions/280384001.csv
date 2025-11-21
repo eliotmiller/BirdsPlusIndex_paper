@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.14959957,0.0,3.0
+Limnothlypis swainsonii_Swainson's Warbler,0.118901335,0.0,3.0
+Setophaga pinus_Pine Warbler,0.9020095,1.0,4.0
+Setophaga pinus_Pine Warbler,0.9865029,2.0,5.0
+Peucaea aestivalis_Bachman's Sparrow,0.124518454,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12036673,2.0,5.0
+Setophaga pinus_Pine Warbler,0.9739259,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14984019,3.0,6.0
+Setophaga pinus_Pine Warbler,0.9228829,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.15619755,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.1336648,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12963848,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.13621992,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.12802231,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.10551091,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.1045905,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.123374686,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.18020114,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.1528373,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.13433175,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.25332484,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.22122253,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.16950502,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.103114925,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.42487362,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.14922059,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14794992,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.104067475,10.0,13.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.6962053,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.18356076,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.1207397,11.0,14.0
+Setophaga pinus_Pine Warbler,0.8655076,12.0,15.0
+Setophaga pinus_Pine Warbler,0.98758763,13.0,16.0
+Setophaga pinus_Pine Warbler,0.9870522,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1740456,14.0,17.0
+Setophaga pinus_Pine Warbler,0.97662985,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.36541504,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.28463915,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16447246,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.17473519,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.15413798,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.12235238,17.0,20.0
+Pipilo erythrophthalmus_Eastern Towhee,0.111886226,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11188508,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.12270973,18.0,21.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12082026,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.12006633,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.119320236,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.10215992,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.22912672,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.14457534,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1433862,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14147379,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.25245485,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19345257,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.1375709,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.68332106,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.10181535,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.53153485,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.2060482,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1251108,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.33991122,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.10223703,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.5545538,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.31757355,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.18804789,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.14900778,25.0,28.0
+Molothrus ater_Brown-headed Cowbird,0.10107001,25.0,28.0
+Setophaga pinus_Pine Warbler,0.9038668,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.12155484,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11725734,26.0,29.0
+Setophaga pinus_Pine Warbler,0.9591035,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17519109,27.0,30.0
+Setophaga pinus_Pine Warbler,0.9223581,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17803003,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22551914,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.14124236,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.12993568,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.11399,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.14060126,30.0,32.92802721088435
