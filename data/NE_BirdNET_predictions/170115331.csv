@@ -1,0 +1,385 @@
+species,score,start_time,end_time
+Protonotaria citrea_Prothonotary Warbler,0.10018838,0.0,3.0
+Melospiza melodia_Song Sparrow,0.5579634,1.0,4.0
+Melospiza melodia_Song Sparrow,0.12561731,2.0,5.0
+Melospiza melodia_Song Sparrow,0.166169,3.0,6.0
+Melospiza melodia_Song Sparrow,0.17222717,5.0,8.0
+Melospiza melodia_Song Sparrow,0.5600565,6.0,9.0
+Melospiza melodia_Song Sparrow,0.22253916,7.0,10.0
+Melospiza melodia_Song Sparrow,0.3151947,8.0,11.0
+Melospiza melodia_Song Sparrow,0.19843294,10.0,13.0
+Melospiza melodia_Song Sparrow,0.4308947,11.0,14.0
+Tyrannus couchii_Couch's Kingbird,0.1762967,13.0,16.0
+Melospiza melodia_Song Sparrow,0.29309177,16.0,19.0
+Melospiza melodia_Song Sparrow,0.57229245,17.0,20.0
+Melospiza melodia_Song Sparrow,0.34339607,18.0,21.0
+Melospiza melodia_Song Sparrow,0.16562226,19.0,22.0
+Melospiza melodia_Song Sparrow,0.41811693,20.0,23.0
+Melospiza melodia_Song Sparrow,0.18054314,21.0,24.0
+Melospiza melodia_Song Sparrow,0.5122755,22.0,25.0
+Melospiza melodia_Song Sparrow,0.5761817,23.0,26.0
+Melospiza melodia_Song Sparrow,0.9220515,24.0,27.0
+Melospiza melodia_Song Sparrow,0.41045105,25.0,28.0
+Melospiza melodia_Song Sparrow,0.50924134,26.0,29.0
+Melospiza melodia_Song Sparrow,0.63798934,27.0,30.0
+Melospiza melodia_Song Sparrow,0.96414465,28.0,31.0
+Melospiza melodia_Song Sparrow,0.9543836,29.0,32.0
+Melospiza melodia_Song Sparrow,0.9562026,30.0,33.0
+Melospiza melodia_Song Sparrow,0.824617,31.0,34.0
+Melospiza melodia_Song Sparrow,0.89564466,32.0,35.0
+Melospiza melodia_Song Sparrow,0.83182144,33.0,36.0
+Melospiza melodia_Song Sparrow,0.935608,34.0,37.0
+Melospiza melodia_Song Sparrow,0.9447098,35.0,38.0
+Melospiza melodia_Song Sparrow,0.8980823,36.0,39.0
+Melospiza melodia_Song Sparrow,0.96165377,37.0,40.0
+Emberiza spodocephala_Black-faced Bunting,0.1718679,38.0,41.0
+Sicalis flaveola_Saffron Finch,0.24700344,39.0,42.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1949309,39.0,42.0
+Emberiza spodocephala_Black-faced Bunting,0.13184385,39.0,42.0
+Setophaga tigrina_Cape May Warbler,0.10652582,39.0,42.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14839849,40.0,43.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19664156,41.0,44.0
+Setophaga tigrina_Cape May Warbler,0.15632212,41.0,44.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2102204,42.0,45.0
+Setophaga tigrina_Cape May Warbler,0.1063738,42.0,45.0
+Setophaga tigrina_Cape May Warbler,0.1185354,44.0,47.0
+Melospiza lincolnii_Lincoln's Sparrow,0.105563514,44.0,47.0
+Emberiza spodocephala_Black-faced Bunting,0.14660129,45.0,48.0
+Setophaga tigrina_Cape May Warbler,0.14688401,49.0,52.0
+Emberiza spodocephala_Black-faced Bunting,0.109033324,49.0,52.0
+Melospiza melodia_Song Sparrow,0.3856849,53.0,56.0
+Melospiza melodia_Song Sparrow,0.1872963,54.0,57.0
+Melospiza melodia_Song Sparrow,0.7602179,55.0,58.0
+Melospiza melodia_Song Sparrow,0.7390514,56.0,59.0
+Melospiza melodia_Song Sparrow,0.9626975,57.0,60.0
+Melospiza melodia_Song Sparrow,0.9590217,58.0,61.0
+Melospiza melodia_Song Sparrow,0.5859242,59.0,62.0
+Melospiza melodia_Song Sparrow,0.7979666,60.0,63.0
+Melospiza melodia_Song Sparrow,0.52748847,61.0,64.0
+Melospiza melodia_Song Sparrow,0.8833709,62.0,65.0
+Melospiza melodia_Song Sparrow,0.8629605,63.0,66.0
+Melospiza melodia_Song Sparrow,0.8928813,64.0,67.0
+Melospiza melodia_Song Sparrow,0.9753528,65.0,68.0
+Melospiza melodia_Song Sparrow,0.93985075,66.0,69.0
+Melospiza melodia_Song Sparrow,0.9274882,67.0,70.0
+Melospiza melodia_Song Sparrow,0.7170907,68.0,71.0
+Melospiza melodia_Song Sparrow,0.7929786,69.0,72.0
+Melospiza melodia_Song Sparrow,0.87368155,70.0,73.0
+Melospiza melodia_Song Sparrow,0.8360187,71.0,74.0
+Melospiza melodia_Song Sparrow,0.8537319,72.0,75.0
+Melospiza melodia_Song Sparrow,0.851201,73.0,76.0
+Melospiza melodia_Song Sparrow,0.9643475,74.0,77.0
+Melospiza melodia_Song Sparrow,0.9582056,75.0,78.0
+Melospiza melodia_Song Sparrow,0.9657568,76.0,79.0
+Melospiza melodia_Song Sparrow,0.9711712,77.0,80.0
+Melospiza melodia_Song Sparrow,0.8753304,78.0,81.0
+Emberiza spodocephala_Black-faced Bunting,0.17387883,79.0,82.0
+Setophaga tigrina_Cape May Warbler,0.11384189,79.0,82.0
+Melospiza melodia_Song Sparrow,0.26973453,81.0,84.0
+Leiothlypis celata_Orange-crowned Warbler,0.18172535,82.0,85.0
+Melospiza melodia_Song Sparrow,0.12715231,82.0,85.0
+Melospiza melodia_Song Sparrow,0.13812894,83.0,86.0
+Melospiza melodia_Song Sparrow,0.22850005,85.0,88.0
+Melospiza melodia_Song Sparrow,0.900487,86.0,89.0
+Melospiza melodia_Song Sparrow,0.87204456,87.0,90.0
+Melospiza melodia_Song Sparrow,0.981094,88.0,91.0
+Melospiza melodia_Song Sparrow,0.9849283,89.0,92.0
+Melospiza melodia_Song Sparrow,0.96818715,90.0,93.0
+Melospiza melodia_Song Sparrow,0.9823889,91.0,94.0
+Melospiza melodia_Song Sparrow,0.9693403,92.0,95.0
+Melospiza melodia_Song Sparrow,0.71843237,93.0,96.0
+Melospiza melodia_Song Sparrow,0.33043477,94.0,97.0
+Melospiza lincolnii_Lincoln's Sparrow,0.20422232,95.0,98.0
+Melospiza melodia_Song Sparrow,0.6726882,96.0,99.0
+Melospiza melodia_Song Sparrow,0.8700362,97.0,100.0
+Melospiza melodia_Song Sparrow,0.9869849,98.0,101.0
+Melospiza melodia_Song Sparrow,0.9608917,99.0,102.0
+Melospiza melodia_Song Sparrow,0.9715086,100.0,103.0
+Melospiza melodia_Song Sparrow,0.94769,101.0,104.0
+Melospiza melodia_Song Sparrow,0.95768607,102.0,105.0
+Melospiza melodia_Song Sparrow,0.88345796,103.0,106.0
+Sicalis flaveola_Saffron Finch,0.18680951,103.0,106.0
+Setophaga tigrina_Cape May Warbler,0.60099244,104.0,107.0
+Sicalis flaveola_Saffron Finch,0.5468649,104.0,107.0
+Sicalis flaveola_Saffron Finch,0.30980644,105.0,108.0
+Setophaga tigrina_Cape May Warbler,0.19224574,105.0,108.0
+Melospiza melodia_Song Sparrow,0.19283353,110.0,113.0
+Melospiza melodia_Song Sparrow,0.74825376,111.0,114.0
+Melospiza melodia_Song Sparrow,0.7367359,112.0,115.0
+Melospiza melodia_Song Sparrow,0.7752392,113.0,116.0
+Melospiza melodia_Song Sparrow,0.91976476,114.0,117.0
+Melospiza melodia_Song Sparrow,0.34941167,115.0,118.0
+Melospiza melodia_Song Sparrow,0.20138355,116.0,119.0
+Melospiza melodia_Song Sparrow,0.27701762,118.0,121.0
+Melospiza melodia_Song Sparrow,0.2190115,119.0,122.0
+Melospiza melodia_Song Sparrow,0.26920816,120.0,123.0
+Passerculus sandwichensis_Savannah Sparrow,0.117325,121.0,124.0
+Melospiza melodia_Song Sparrow,0.7754655,122.0,125.0
+Melospiza melodia_Song Sparrow,0.872416,123.0,126.0
+Melospiza melodia_Song Sparrow,0.7632721,124.0,127.0
+Melospiza melodia_Song Sparrow,0.6956475,125.0,128.0
+Melospiza melodia_Song Sparrow,0.5013866,126.0,129.0
+Melospiza melodia_Song Sparrow,0.30343202,127.0,130.0
+Melospiza melodia_Song Sparrow,0.21394852,129.0,132.0
+Geothlypis trichas_Common Yellowthroat,0.11987652,129.0,132.0
+Melospiza lincolnii_Lincoln's Sparrow,0.28573927,130.0,133.0
+Geothlypis trichas_Common Yellowthroat,0.18031262,130.0,133.0
+Emberiza spodocephala_Black-faced Bunting,0.111981705,132.0,135.0
+Protonotaria citrea_Prothonotary Warbler,0.18182984,133.0,136.0
+Cardinalis cardinalis_Northern Cardinal,0.14274739,136.0,139.0
+Cardinalis cardinalis_Northern Cardinal,0.100927874,137.0,140.0
+Oporornis agilis_Connecticut Warbler,0.10638837,143.0,146.0
+Spinus tristis_American Goldfinch,0.31188682,145.0,148.0
+Spinus tristis_American Goldfinch,0.4503488,146.0,149.0
+Sicalis flaveola_Saffron Finch,0.11811936,146.0,149.0
+Spinus tristis_American Goldfinch,0.38386276,147.0,150.0
+Emberiza spodocephala_Black-faced Bunting,0.12695624,149.0,152.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13193224,151.0,154.0
+Geothlypis trichas_Common Yellowthroat,0.110256106,151.0,154.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.14911865,152.0,155.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1172414,152.0,155.0
+Geothlypis trichas_Common Yellowthroat,0.10036651,152.0,155.0
+Emberiza spodocephala_Black-faced Bunting,0.19690263,154.0,157.0
+Setophaga tigrina_Cape May Warbler,0.10480163,154.0,157.0
+Setophaga tigrina_Cape May Warbler,0.2139266,155.0,158.0
+Emberiza spodocephala_Black-faced Bunting,0.11175847,155.0,158.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2081319,156.0,159.0
+Setophaga tigrina_Cape May Warbler,0.34169582,159.0,162.0
+Setophaga tigrina_Cape May Warbler,0.5722922,160.0,163.0
+Sicalis flaveola_Saffron Finch,0.17508216,160.0,163.0
+Emberiza spodocephala_Black-faced Bunting,0.10683014,160.0,163.0
+Setophaga tigrina_Cape May Warbler,0.28887814,161.0,164.0
+Emberiza spodocephala_Black-faced Bunting,0.20584022,161.0,164.0
+Emberiza spodocephala_Black-faced Bunting,0.21062616,162.0,165.0
+Oriturus superciliosus_Striped Sparrow,0.703785,165.0,168.0
+Spizella pusilla_Field Sparrow,0.11334918,165.0,168.0
+Oriturus superciliosus_Striped Sparrow,0.37333298,167.0,170.0
+Atlapetes pileatus_Rufous-capped Brushfinch,0.11295118,169.0,172.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12207134,170.0,173.0
+Melospiza lincolnii_Lincoln's Sparrow,0.20200306,171.0,174.0
+Oriturus superciliosus_Striped Sparrow,0.139785,173.0,176.0
+Oriturus superciliosus_Striped Sparrow,0.84829205,174.0,177.0
+Oriturus superciliosus_Striped Sparrow,0.7573388,175.0,178.0
+Melozone biarcuata_White-faced Ground-Sparrow,0.118500784,175.0,178.0
+Setophaga tigrina_Cape May Warbler,0.13122776,178.0,181.0
+Setophaga tigrina_Cape May Warbler,0.17791966,179.0,182.0
+Setophaga tigrina_Cape May Warbler,0.23951931,180.0,183.0
+Setophaga tigrina_Cape May Warbler,0.12929481,181.0,184.0
+Setophaga tigrina_Cape May Warbler,0.22339502,182.0,185.0
+Melospiza melodia_Song Sparrow,0.6428979,186.0,189.0
+Melospiza melodia_Song Sparrow,0.7649536,187.0,190.0
+Melospiza melodia_Song Sparrow,0.899618,188.0,191.0
+Melospiza melodia_Song Sparrow,0.7039019,189.0,192.0
+Setophaga tigrina_Cape May Warbler,0.11175819,189.0,192.0
+Setophaga tigrina_Cape May Warbler,0.41770104,190.0,193.0
+Emberiza spodocephala_Black-faced Bunting,0.16043364,190.0,193.0
+Setophaga tigrina_Cape May Warbler,0.28013894,191.0,194.0
+Setophaga tigrina_Cape May Warbler,0.106318936,192.0,195.0
+Emberiza spodocephala_Black-faced Bunting,0.20902997,195.0,198.0
+Sicalis flaveola_Saffron Finch,0.17977954,195.0,198.0
+Emberiza spodocephala_Black-faced Bunting,0.31471604,196.0,199.0
+Setophaga tigrina_Cape May Warbler,0.20005937,196.0,199.0
+Emberiza spodocephala_Black-faced Bunting,0.68618464,197.0,200.0
+Setophaga tigrina_Cape May Warbler,0.20281905,197.0,200.0
+Setophaga tigrina_Cape May Warbler,0.67137307,198.0,201.0
+Emberiza spodocephala_Black-faced Bunting,0.34406546,198.0,201.0
+Setophaga tigrina_Cape May Warbler,0.55682015,199.0,202.0
+Sicalis flaveola_Saffron Finch,0.3025921,199.0,202.0
+Setophaga tigrina_Cape May Warbler,0.71753174,200.0,203.0
+Cardinalis cardinalis_Northern Cardinal,0.116707794,202.0,205.0
+Setophaga tigrina_Cape May Warbler,0.10258255,206.0,209.0
+Emberiza spodocephala_Black-faced Bunting,0.33402613,207.0,210.0
+Setophaga tigrina_Cape May Warbler,0.18604377,208.0,211.0
+Emberiza spodocephala_Black-faced Bunting,0.16494732,208.0,211.0
+Setophaga tigrina_Cape May Warbler,0.11520798,209.0,212.0
+Setophaga tigrina_Cape May Warbler,0.16843827,210.0,213.0
+Setophaga tigrina_Cape May Warbler,0.19515389,211.0,214.0
+Sicalis flaveola_Saffron Finch,0.12473804,211.0,214.0
+Passerculus sandwichensis_Savannah Sparrow,0.12417051,212.0,215.0
+Oriturus superciliosus_Striped Sparrow,0.101441294,214.0,217.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12697415,217.0,220.0
+Spizella pusilla_Field Sparrow,0.16972226,220.0,223.0
+Melospiza melodia_Song Sparrow,0.21289673,221.0,224.0
+Melospiza melodia_Song Sparrow,0.7748202,222.0,225.0
+Melospiza melodia_Song Sparrow,0.81561077,223.0,226.0
+Melospiza melodia_Song Sparrow,0.8830349,224.0,227.0
+Melospiza melodia_Song Sparrow,0.91348326,225.0,228.0
+Melospiza melodia_Song Sparrow,0.6192446,226.0,229.0
+Melospiza melodia_Song Sparrow,0.74056816,227.0,230.0
+Melospiza melodia_Song Sparrow,0.76142216,228.0,231.0
+Melospiza melodia_Song Sparrow,0.79021746,229.0,232.0
+Melospiza melodia_Song Sparrow,0.9211041,230.0,233.0
+Melospiza melodia_Song Sparrow,0.77948815,231.0,234.0
+Melospiza melodia_Song Sparrow,0.98476845,232.0,235.0
+Melospiza melodia_Song Sparrow,0.90186954,233.0,236.0
+Melospiza melodia_Song Sparrow,0.8749231,234.0,237.0
+Melospiza melodia_Song Sparrow,0.6439129,235.0,238.0
+Melospiza melodia_Song Sparrow,0.5288992,236.0,239.0
+Melospiza melodia_Song Sparrow,0.9658193,237.0,240.0
+Melospiza melodia_Song Sparrow,0.8767599,238.0,241.0
+Melospiza melodia_Song Sparrow,0.8737306,239.0,242.0
+Melospiza melodia_Song Sparrow,0.9331881,240.0,243.0
+Melospiza melodia_Song Sparrow,0.9553831,241.0,244.0
+Melospiza melodia_Song Sparrow,0.98846227,242.0,245.0
+Melospiza melodia_Song Sparrow,0.981783,243.0,246.0
+Melospiza melodia_Song Sparrow,0.494403,244.0,247.0
+Melospiza melodia_Song Sparrow,0.5247336,245.0,248.0
+Melospiza melodia_Song Sparrow,0.24771854,246.0,249.0
+Melospiza melodia_Song Sparrow,0.8403548,247.0,250.0
+Melospiza melodia_Song Sparrow,0.7801664,248.0,251.0
+Melospiza melodia_Song Sparrow,0.97110105,249.0,252.0
+Melospiza melodia_Song Sparrow,0.91270703,250.0,253.0
+Melospiza melodia_Song Sparrow,0.76775855,251.0,254.0
+Melospiza melodia_Song Sparrow,0.6312397,252.0,255.0
+Melospiza melodia_Song Sparrow,0.80777085,253.0,256.0
+Melospiza melodia_Song Sparrow,0.40725464,254.0,257.0
+Melospiza melodia_Song Sparrow,0.46997076,255.0,258.0
+Melospiza melodia_Song Sparrow,0.96104664,256.0,259.0
+Melospiza melodia_Song Sparrow,0.9775308,257.0,260.0
+Melospiza melodia_Song Sparrow,0.98493874,258.0,261.0
+Melospiza melodia_Song Sparrow,0.9816243,259.0,262.0
+Melospiza melodia_Song Sparrow,0.9754479,260.0,263.0
+Melospiza melodia_Song Sparrow,0.9835579,261.0,264.0
+Melospiza melodia_Song Sparrow,0.98146904,262.0,265.0
+Melospiza melodia_Song Sparrow,0.9832427,263.0,266.0
+Melospiza melodia_Song Sparrow,0.9686547,264.0,267.0
+Melospiza melodia_Song Sparrow,0.97415876,265.0,268.0
+Melospiza melodia_Song Sparrow,0.98240733,266.0,269.0
+Melospiza melodia_Song Sparrow,0.9884227,267.0,270.0
+Melospiza melodia_Song Sparrow,0.9829495,268.0,271.0
+Melospiza melodia_Song Sparrow,0.8547365,269.0,272.0
+Melospiza melodia_Song Sparrow,0.47697735,270.0,273.0
+Melospiza melodia_Song Sparrow,0.70842075,271.0,274.0
+Dumetella carolinensis_Gray Catbird,0.10370487,271.0,274.0
+Melospiza melodia_Song Sparrow,0.9773287,272.0,275.0
+Melospiza melodia_Song Sparrow,0.9887559,273.0,276.0
+Melospiza melodia_Song Sparrow,0.96819234,274.0,277.0
+Melospiza melodia_Song Sparrow,0.96898425,275.0,278.0
+Melospiza melodia_Song Sparrow,0.943351,276.0,279.0
+Sicalis flaveola_Saffron Finch,0.4429062,277.0,280.0
+Setophaga tigrina_Cape May Warbler,0.2284243,277.0,280.0
+Setophaga tigrina_Cape May Warbler,0.36724323,278.0,281.0
+Emberiza spodocephala_Black-faced Bunting,0.16518448,278.0,281.0
+Tangara dowii_Spangle-cheeked Tanager,0.11684756,278.0,281.0
+Setophaga tigrina_Cape May Warbler,0.18655021,279.0,282.0
+Emberiza spodocephala_Black-faced Bunting,0.15451072,279.0,282.0
+Setophaga tigrina_Cape May Warbler,0.26017877,280.0,283.0
+Emberiza spodocephala_Black-faced Bunting,0.16946927,280.0,283.0
+Setophaga tigrina_Cape May Warbler,0.22846991,281.0,284.0
+Setophaga tigrina_Cape May Warbler,0.44954082,282.0,285.0
+Emberiza spodocephala_Black-faced Bunting,0.21033713,282.0,285.0
+Emberiza spodocephala_Black-faced Bunting,0.30791414,283.0,286.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13294558,283.0,286.0
+Emberiza spodocephala_Black-faced Bunting,0.27050757,284.0,287.0
+Setophaga tigrina_Cape May Warbler,0.15798,284.0,287.0
+Setophaga tigrina_Cape May Warbler,0.33725116,285.0,288.0
+Sicalis flaveola_Saffron Finch,0.10799177,285.0,288.0
+Setophaga tigrina_Cape May Warbler,0.5238574,286.0,289.0
+Dumetella carolinensis_Gray Catbird,0.40388477,286.0,289.0
+Setophaga tigrina_Cape May Warbler,0.6100977,287.0,290.0
+Dumetella carolinensis_Gray Catbird,0.20563078,287.0,290.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11365037,287.0,290.0
+Setophaga tigrina_Cape May Warbler,0.46147907,288.0,291.0
+Dumetella carolinensis_Gray Catbird,0.20431264,288.0,291.0
+Setophaga tigrina_Cape May Warbler,0.3016435,289.0,292.0
+Setophaga tigrina_Cape May Warbler,0.25702187,290.0,293.0
+Sicalis flaveola_Saffron Finch,0.13105552,290.0,293.0
+Sicalis flaveola_Saffron Finch,0.17824231,291.0,294.0
+Setophaga tigrina_Cape May Warbler,0.15962835,291.0,294.0
+Geothlypis trichas_Common Yellowthroat,0.18767425,294.0,297.0
+Dumetella carolinensis_Gray Catbird,0.10085518,297.0,300.0
+Certhiaxis cinnamomeus_Yellow-chinned Spinetail,0.44737077,300.0,303.0
+Cardellina pusilla_Wilson's Warbler,0.2955908,302.0,305.0
+Melospiza melodia_Song Sparrow,0.19553149,306.0,309.0
+Sicalis flaveola_Saffron Finch,0.13766022,306.0,309.0
+Sicalis flaveola_Saffron Finch,0.4258014,307.0,310.0
+Setophaga tigrina_Cape May Warbler,0.18240532,307.0,310.0
+Setophaga tigrina_Cape May Warbler,0.34389508,308.0,311.0
+Sicalis flaveola_Saffron Finch,0.11210897,308.0,311.0
+Emberiza spodocephala_Black-faced Bunting,0.19715929,311.0,314.0
+Emberiza spodocephala_Black-faced Bunting,0.1897522,313.0,316.0
+Emberiza rustica_Rustic Bunting,0.18723421,313.0,316.0
+Emberiza spodocephala_Black-faced Bunting,0.36013916,314.0,317.0
+Tangara dowii_Spangle-cheeked Tanager,0.1112014,314.0,317.0
+Oriturus superciliosus_Striped Sparrow,0.16718888,315.0,318.0
+Oriturus superciliosus_Striped Sparrow,0.11741368,316.0,319.0
+Melospiza melodia_Song Sparrow,0.88396984,320.0,323.0
+Melospiza melodia_Song Sparrow,0.96250993,321.0,324.0
+Melospiza melodia_Song Sparrow,0.28032464,322.0,325.0
+Certhiaxis cinnamomeus_Yellow-chinned Spinetail,0.3696708,323.0,326.0
+Setophaga tigrina_Cape May Warbler,0.19780624,325.0,328.0
+Sicalis flaveola_Saffron Finch,0.18661383,325.0,328.0
+Emberiza spodocephala_Black-faced Bunting,0.1405482,325.0,328.0
+Phacellodomus sibilatrix_Little Thornbird,0.105174586,325.0,328.0
+Setophaga tigrina_Cape May Warbler,0.37862718,326.0,329.0
+Emberiza spodocephala_Black-faced Bunting,0.112805784,326.0,329.0
+Setophaga tigrina_Cape May Warbler,0.53616506,327.0,330.0
+Emberiza spodocephala_Black-faced Bunting,0.18620466,327.0,330.0
+Chondestes grammacus_Lark Sparrow,0.10756299,327.0,330.0
+Setophaga tigrina_Cape May Warbler,0.13891369,328.0,331.0
+Phacellodomus sibilatrix_Little Thornbird,0.1261792,328.0,331.0
+Oriturus superciliosus_Striped Sparrow,0.2752641,331.0,334.0
+Tangara dowii_Spangle-cheeked Tanager,0.10786276,331.0,334.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13237546,332.0,335.0
+Setophaga tigrina_Cape May Warbler,0.115368575,334.0,337.0
+Tangara dowii_Spangle-cheeked Tanager,0.17262651,335.0,338.0
+Tangara dowii_Spangle-cheeked Tanager,0.45872992,336.0,339.0
+Tangara dowii_Spangle-cheeked Tanager,0.18030305,337.0,340.0
+Sicalis flaveola_Saffron Finch,0.36928907,339.0,342.0
+Setophaga tigrina_Cape May Warbler,0.34465548,339.0,342.0
+Sicalis flaveola_Saffron Finch,0.25945085,340.0,343.0
+Setophaga tigrina_Cape May Warbler,0.24100445,340.0,343.0
+Oriturus superciliosus_Striped Sparrow,0.18881314,341.0,344.0
+Dicaeum concolor_Nilgiri Flowerpecker,0.17344874,342.0,345.0
+Melospiza melodia_Song Sparrow,0.566484,343.0,346.0
+Melospiza melodia_Song Sparrow,0.9800771,344.0,347.0
+Melospiza melodia_Song Sparrow,0.9190615,345.0,348.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.13959895,346.0,349.0
+Melospiza melodia_Song Sparrow,0.15725777,347.0,350.0
+Sicalis flaveola_Saffron Finch,0.10123126,347.0,350.0
+Setophaga tigrina_Cape May Warbler,0.25761813,348.0,351.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10082479,348.0,351.0
+Melospiza lincolnii_Lincoln's Sparrow,0.33385348,349.0,352.0
+Setophaga tigrina_Cape May Warbler,0.3128903,349.0,352.0
+Emberiza spodocephala_Black-faced Bunting,0.117045395,349.0,352.0
+Setophaga tigrina_Cape May Warbler,0.19814548,350.0,353.0
+Setophaga tigrina_Cape May Warbler,0.30675578,351.0,354.0
+Emberiza spodocephala_Black-faced Bunting,0.2104863,351.0,354.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11330631,351.0,354.0
+Setophaga tigrina_Cape May Warbler,0.28417084,352.0,355.0
+Emberiza spodocephala_Black-faced Bunting,0.19872116,352.0,355.0
+Setophaga tigrina_Cape May Warbler,0.27727827,354.0,357.0
+Setophaga tigrina_Cape May Warbler,0.3858132,355.0,358.0
+Setophaga tigrina_Cape May Warbler,0.44058287,356.0,359.0
+Setophaga tigrina_Cape May Warbler,0.30714396,357.0,360.0
+Setophaga tigrina_Cape May Warbler,0.45162833,358.0,361.0
+Sicalis flaveola_Saffron Finch,0.35810554,358.0,361.0
+Setophaga tigrina_Cape May Warbler,0.30578825,359.0,362.0
+Sicalis flaveola_Saffron Finch,0.14513946,359.0,362.0
+Setophaga tigrina_Cape May Warbler,0.1974914,360.0,363.0
+Setophaga tigrina_Cape May Warbler,0.23414119,362.0,365.0
+Setophaga tigrina_Cape May Warbler,0.12370584,363.0,366.0
+Sicalis flaveola_Saffron Finch,0.39703807,364.0,367.0
+Setophaga tigrina_Cape May Warbler,0.3579937,364.0,367.0
+Setophaga tigrina_Cape May Warbler,0.5227373,365.0,368.0
+Sicalis flaveola_Saffron Finch,0.12843777,365.0,368.0
+Emberiza spodocephala_Black-faced Bunting,0.10130405,365.0,368.0
+Setophaga tigrina_Cape May Warbler,0.15528607,366.0,369.0
+Arremonops rufivirgatus_Olive Sparrow,0.16674982,367.0,370.0
+Melospiza melodia_Song Sparrow,0.64618945,368.0,371.0
+Melospiza melodia_Song Sparrow,0.9207585,369.0,372.0
+Melospiza melodia_Song Sparrow,0.97782683,370.0,373.0
+Melospiza melodia_Song Sparrow,0.88315266,371.0,374.0
+Melospiza melodia_Song Sparrow,0.8049006,372.0,375.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1555204,378.0,381.0
+Gryllus rubens_Southeastern Field Cricket,0.104288116,388.0,391.0
+Gryllus rubens_Southeastern Field Cricket,0.13246691,391.0,394.0
+Sicalis flaveola_Saffron Finch,0.12436262,396.0,399.0
+Sicalis flaveola_Saffron Finch,0.12203585,405.0,408.0
+Sicalis flaveola_Saffron Finch,0.11987515,406.0,409.0
+Setophaga tigrina_Cape May Warbler,0.15330054,412.0,415.0
+Emberiza spodocephala_Black-faced Bunting,0.123288214,416.0,419.0
+Gryllus rubens_Southeastern Field Cricket,0.11128722,417.0,420.0
+Tangara dowii_Spangle-cheeked Tanager,0.10880193,418.0,421.0
+Gryllus rubens_Southeastern Field Cricket,0.1187444,422.0,425.0
+Emberiza spodocephala_Black-faced Bunting,0.20808965,427.0,429.1440362811791

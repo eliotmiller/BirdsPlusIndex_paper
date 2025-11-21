@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Sayornis phoebe_Eastern Phoebe,0.99604356,0.0,3.0
+Spiza americana_Dickcissel,0.649488,0.0,3.0
+Sayornis phoebe_Eastern Phoebe,0.77712435,1.0,4.0
+Centronyx henslowii_Henslow's Sparrow,0.1474276,1.0,4.0
+Spiza americana_Dickcissel,0.12464236,1.0,4.0
+Sayornis phoebe_Eastern Phoebe,0.97222936,2.0,5.0
+Sayornis phoebe_Eastern Phoebe,0.94073033,3.0,6.0
+Sayornis phoebe_Eastern Phoebe,0.9114352,4.0,7.0
+Copsychus fulicatus_Indian Robin,0.1336402,4.0,7.0
+Sayornis phoebe_Eastern Phoebe,0.24940169,5.0,8.0
+Hydroprogne caspia_Caspian Tern,0.10674587,6.0,9.0
+Sayornis phoebe_Eastern Phoebe,0.92744046,8.0,11.0
+Sayornis phoebe_Eastern Phoebe,0.62402755,9.0,12.0
+Sayornis phoebe_Eastern Phoebe,0.8030124,10.0,13.0
+Spiza americana_Dickcissel,0.3578879,10.0,13.0
+Mimus gundlachii_Bahama Mockingbird,0.16046967,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.13420811,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.2634201,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.27658245,15.0,18.0
+Passerina amoena_Lazuli Bunting,0.14491561,15.0,18.0
+Icteria virens_Yellow-breasted Chat,0.16216896,17.0,20.0
+Sturnus vulgaris_European Starling,0.3948495,18.0,21.0
+Chlidonias hybrida_Whiskered Tern,0.11329744,18.0,21.0
+Spiza americana_Dickcissel,0.36922073,19.0,22.0
+Spiza americana_Dickcissel,0.40877095,20.0,23.0
+Sturnus vulgaris_European Starling,0.13215154,20.0,23.0
+Dicrurus macrocercus_Black Drongo,0.12268317,20.0,23.0
+Spiza americana_Dickcissel,0.7301383,21.0,24.0
+Sturnus vulgaris_European Starling,0.31343144,22.0,25.0
+Spiza americana_Dickcissel,0.51268995,24.0,27.0
+Sturnus vulgaris_European Starling,0.388755,25.0,28.0
+Spiza americana_Dickcissel,0.11330053,25.0,28.0
+Sturnus vulgaris_European Starling,0.40482333,26.0,29.0
+Sturnus vulgaris_European Starling,0.4861783,27.0,30.0
+Sturnus vulgaris_European Starling,0.12982701,28.0,31.0
+Chordeiles minor_Common Nighthawk,0.1119728,28.0,31.0
+Sturnus vulgaris_European Starling,0.8018069,29.0,32.0
+Chlidonias hybrida_Whiskered Tern,0.13647382,29.0,32.0
+Chordeiles minor_Common Nighthawk,0.13198909,29.0,32.0
+Spiza americana_Dickcissel,0.70917785,30.0,33.0
+Chordeiles minor_Common Nighthawk,0.15029152,30.0,33.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15662238,31.0,34.0
+Spiza americana_Dickcissel,0.13798164,31.0,34.0
+Tachycineta bicolor_Tree Swallow,0.10369938,31.0,34.0
+Tachycineta bicolor_Tree Swallow,0.61089456,32.0,35.0
+Tachycineta bicolor_Tree Swallow,0.3544753,33.0,36.0
+Tachycineta bicolor_Tree Swallow,0.6288457,34.0,37.0
+Tachycineta bicolor_Tree Swallow,0.2669977,35.0,38.0
+Spiza americana_Dickcissel,0.1947124,35.0,38.0
+Tachycineta bicolor_Tree Swallow,0.8551885,36.0,39.0
+Tachycineta bicolor_Tree Swallow,0.43989205,37.0,40.0
+Tachycineta bicolor_Tree Swallow,0.34387997,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.30347115,39.0,42.0
+Tachycineta bicolor_Tree Swallow,0.29478523,39.0,42.0
+Lanius ludovicianus_Loggerhead Shrike,0.12565444,39.0,42.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.10423919,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.2762408,40.0,43.0
+Lanius ludovicianus_Loggerhead Shrike,0.10279794,40.0,43.0
+Lanius ludovicianus_Loggerhead Shrike,0.11486488,42.0,45.0
+Mimus polyglottos_Northern Mockingbird,0.52810276,43.0,46.0
+Lanius ludovicianus_Loggerhead Shrike,0.13250259,43.0,46.0
+Mimus polyglottos_Northern Mockingbird,0.7876922,44.0,47.0
+Lanius ludovicianus_Loggerhead Shrike,0.103634536,44.0,47.0
+Mimus polyglottos_Northern Mockingbird,0.9464551,45.0,48.0
+Mimus gilvus_Tropical Mockingbird,0.15336111,45.0,48.0
+Toxostoma crissale_Crissal Thrasher,0.10768822,45.0,48.0
+Mimus polyglottos_Northern Mockingbird,0.8602002,46.0,49.0
+Mimus gilvus_Tropical Mockingbird,0.2628831,46.0,49.0
+Mimus polyglottos_Northern Mockingbird,0.7483338,47.0,50.0
+Mimus gilvus_Tropical Mockingbird,0.32624158,47.0,50.0
+Mimus polyglottos_Northern Mockingbird,0.98102266,48.0,51.0
+Mimus gilvus_Tropical Mockingbird,0.53232867,48.0,51.0
+Mimus polyglottos_Northern Mockingbird,0.9405255,49.0,52.0
+Mimus polyglottos_Northern Mockingbird,0.6081816,50.0,53.0
+Mimus polyglottos_Northern Mockingbird,0.4012669,51.0,54.0
+Mimus polyglottos_Northern Mockingbird,0.7217138,52.0,55.0
+Spiza americana_Dickcissel,0.49562198,53.0,56.0
+Centronyx henslowii_Henslow's Sparrow,0.17301789,53.0,56.0
+Mimus polyglottos_Northern Mockingbird,0.16971417,53.0,56.0
+Spiza americana_Dickcissel,0.5204909,54.0,56.736009070294784
+Centronyx henslowii_Henslow's Sparrow,0.25421113,54.0,56.736009070294784
+Buteo lineatus_Red-shouldered Hawk,0.15844709,54.0,56.736009070294784

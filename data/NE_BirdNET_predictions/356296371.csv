@@ -1,0 +1,132 @@
+species,score,start_time,end_time
+Bombycilla garrulus_Bohemian Waxwing,0.12610796,0.0,3.0
+Engine_Engine,0.17178042,2.0,5.0
+Engine_Engine,0.11044846,9.0,12.0
+Euphagus carolinus_Rusty Blackbird,0.14435336,21.0,24.0
+Euphagus carolinus_Rusty Blackbird,0.33463222,22.0,25.0
+Amphispiza bilineata_Black-throated Sparrow,0.13405256,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6229982,27.0,30.0
+Sturnella magna_Eastern Meadowlark,0.16546017,27.0,30.0
+Ammodramus savannarum_Grasshopper Sparrow,0.87293124,28.0,31.0
+Sturnella magna_Eastern Meadowlark,0.103703626,28.0,31.0
+Ammodramus savannarum_Grasshopper Sparrow,0.73138386,29.0,32.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25748974,30.0,33.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6599287,31.0,34.0
+Pooecetes gramineus_Vesper Sparrow,0.15216446,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.22854926,35.0,38.0
+Pooecetes gramineus_Vesper Sparrow,0.13873716,36.0,39.0
+Emberiza citrinella_Yellowhammer,0.27642864,37.0,40.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5827959,44.0,47.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27337053,45.0,48.0
+Passerculus sandwichensis_Savannah Sparrow,0.1563142,45.0,48.0
+Passerculus sandwichensis_Savannah Sparrow,0.16694507,46.0,49.0
+Passerculus sandwichensis_Savannah Sparrow,0.4842974,47.0,50.0
+Passerculus sandwichensis_Savannah Sparrow,0.4462187,48.0,51.0
+Passerculus sandwichensis_Savannah Sparrow,0.29378664,49.0,52.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1091931,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.1527549,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.28896695,51.0,54.0
+Spiza americana_Dickcissel,0.11195758,51.0,54.0
+Icterus spurius_Orchard Oriole,0.18336055,52.0,55.0
+Dolichonyx oryzivorus_Bobolink,0.17385338,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2869121,56.0,59.0
+Ammodramus savannarum_Grasshopper Sparrow,0.67000014,57.0,60.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31506094,58.0,61.0
+Ammodramus savannarum_Grasshopper Sparrow,0.40117577,60.0,63.0
+Sturnella magna_Eastern Meadowlark,0.29749185,60.0,63.0
+Ammodramus savannarum_Grasshopper Sparrow,0.53835016,61.0,64.0
+Sturnella magna_Eastern Meadowlark,0.21353427,61.0,64.0
+Ammodramus savannarum_Grasshopper Sparrow,0.110053085,62.0,65.0
+Icterus spurius_Orchard Oriole,0.1395262,64.0,67.0
+Icterus spurius_Orchard Oriole,0.15388201,67.0,70.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19029142,69.0,72.0
+Ammodramus savannarum_Grasshopper Sparrow,0.53416336,70.0,73.0
+Ammodramus savannarum_Grasshopper Sparrow,0.24902612,71.0,74.0
+Sturnella magna_Eastern Meadowlark,0.17205757,71.0,74.0
+Passerculus sandwichensis_Savannah Sparrow,0.58038884,73.0,76.0
+Passerculus sandwichensis_Savannah Sparrow,0.59577173,74.0,77.0
+Passerculus sandwichensis_Savannah Sparrow,0.33413774,75.0,78.0
+Passerculus sandwichensis_Savannah Sparrow,0.21946296,76.0,79.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15007435,76.0,79.0
+Sturnella magna_Eastern Meadowlark,0.32688662,77.0,80.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22592731,77.0,80.0
+Sturnella magna_Eastern Meadowlark,0.40134487,78.0,81.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25775352,78.0,81.0
+Centronyx henslowii_Henslow's Sparrow,0.12674879,78.0,81.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.18775322,79.0,82.0
+Icterus spurius_Orchard Oriole,0.13506253,79.0,82.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12746443,79.0,82.0
+Euphagus carolinus_Rusty Blackbird,0.1658032,80.0,83.0
+Quiscalus quiscula_Common Grackle,0.15829906,80.0,83.0
+Icterus spurius_Orchard Oriole,0.114952825,80.0,83.0
+Icterus spurius_Orchard Oriole,0.2183492,81.0,84.0
+Icterus spurius_Orchard Oriole,0.15589893,82.0,85.0
+Dolichonyx oryzivorus_Bobolink,0.1190716,82.0,85.0
+Ammodramus savannarum_Grasshopper Sparrow,0.66464275,83.0,86.0
+Sturnella magna_Eastern Meadowlark,0.13316303,83.0,86.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5479678,84.0,87.0
+Ammodramus savannarum_Grasshopper Sparrow,0.43656284,85.0,88.0
+Sturnella magna_Eastern Meadowlark,0.4008132,86.0,89.0
+Dolichonyx oryzivorus_Bobolink,0.11268463,88.0,91.0
+Ammodramus savannarum_Grasshopper Sparrow,0.61087835,89.0,92.0
+Dolichonyx oryzivorus_Bobolink,0.2412124,89.0,92.0
+Ammodramus savannarum_Grasshopper Sparrow,0.46445957,90.0,93.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7388203,91.0,94.0
+Sturnella magna_Eastern Meadowlark,0.47598505,92.0,95.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17117546,92.0,95.0
+Dolichonyx oryzivorus_Bobolink,0.12474386,92.0,95.0
+Dolichonyx oryzivorus_Bobolink,0.2629093,93.0,96.0
+Icterus spurius_Orchard Oriole,0.21722744,93.0,96.0
+Icterus spurius_Orchard Oriole,0.31681207,94.0,97.0
+Dolichonyx oryzivorus_Bobolink,0.22645953,94.0,97.0
+Passerculus sandwichensis_Savannah Sparrow,0.40910563,95.0,98.0
+Passerculus sandwichensis_Savannah Sparrow,0.25939116,96.0,99.0
+Passerculus sandwichensis_Savannah Sparrow,0.36639643,97.0,100.0
+Passerculus sandwichensis_Savannah Sparrow,0.16651557,98.0,101.0
+Dolichonyx oryzivorus_Bobolink,0.35241303,99.0,102.0
+Passerculus sandwichensis_Savannah Sparrow,0.1087753,99.0,102.0
+Icterus spurius_Orchard Oriole,0.12694718,100.0,103.0
+Corvus ossifragus_Fish Crow,0.11606184,100.0,103.0
+Tachycineta bicolor_Tree Swallow,0.102421515,101.0,104.0
+Tachycineta bicolor_Tree Swallow,0.1275506,102.0,105.0
+Chondestes grammacus_Lark Sparrow,0.111903876,102.0,105.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.11054532,103.0,106.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6528511,104.0,107.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6090511,105.0,108.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.101784036,105.0,108.0
+Ammodramus savannarum_Grasshopper Sparrow,0.36173397,106.0,109.0
+Dolichonyx oryzivorus_Bobolink,0.12206333,106.0,109.0
+Ammodramus savannarum_Grasshopper Sparrow,0.24197797,107.0,110.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31046802,108.0,111.0
+Sturnella magna_Eastern Meadowlark,0.1306329,108.0,111.0
+Ammodramus savannarum_Grasshopper Sparrow,0.62319255,109.0,112.0
+Ixobrychus exilis_Least Bittern,0.14257666,111.0,114.0
+Dolichonyx oryzivorus_Bobolink,0.26839808,112.0,115.0
+Centronyx henslowii_Henslow's Sparrow,0.11365443,112.0,115.0
+Sturnella magna_Eastern Meadowlark,0.105368905,113.0,116.0
+Sturnella magna_Eastern Meadowlark,0.79884416,115.0,118.0
+Sturnella magna_Eastern Meadowlark,0.4940072,116.0,119.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19024155,116.0,119.0
+Spiza americana_Dickcissel,0.12044236,116.0,119.0
+Sturnella magna_Eastern Meadowlark,0.89808714,117.0,120.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14969806,117.0,120.0
+Agelaius phoeniceus_Red-winged Blackbird,0.26711008,118.0,121.0
+Dolichonyx oryzivorus_Bobolink,0.102830485,118.0,121.0
+Passerculus sandwichensis_Savannah Sparrow,0.487611,119.0,122.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20902985,119.0,122.0
+Passerculus sandwichensis_Savannah Sparrow,0.37198606,120.0,123.0
+Passerculus sandwichensis_Savannah Sparrow,0.2989697,121.0,124.0
+Ammodramus savannarum_Grasshopper Sparrow,0.24570389,122.0,125.0
+Passerculus sandwichensis_Savannah Sparrow,0.108351536,122.0,125.0
+Ammospiza leconteii_LeConte's Sparrow,0.10295457,122.0,125.0
+Ammodramus savannarum_Grasshopper Sparrow,0.36895943,123.0,126.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1272111,124.0,127.0
+Agelaius tricolor_Tricolored Blackbird,0.17609867,125.0,128.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.2724069,126.0,129.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1040053,128.0,131.0
+Dolichonyx oryzivorus_Bobolink,0.14300497,129.0,132.0
+Dolichonyx oryzivorus_Bobolink,0.144906,131.0,134.0
+Ammodramus savannarum_Grasshopper Sparrow,0.38048244,132.0,135.0
+Dolichonyx oryzivorus_Bobolink,0.15700485,132.0,135.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17844181,133.0,136.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4182556,134.0,136.48802721088435

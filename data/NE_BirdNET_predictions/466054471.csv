@@ -1,0 +1,57 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.25521255,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.11329699,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.10326664,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.14649825,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.11035547,1.0,4.0
+Zenaida macroura_Mourning Dove,0.13157423,2.0,5.0
+Zenaida macroura_Mourning Dove,0.20438674,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.30922407,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18931003,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15222032,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.21566306,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17623687,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.17535958,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.1301043,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11524786,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.109069444,7.0,10.0
+Buteo platypterus_Broad-winged Hawk,0.10833788,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10105291,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.1065758,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.106304206,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.32166144,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.23245631,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.12400466,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.17385556,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.13410151,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.2689804,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.15421218,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12915011,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11049844,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10037886,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.11515443,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.15761659,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12624548,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.20787907,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.23528187,20.0,23.0
+Vireo philadelphicus_Philadelphia Vireo,0.12735711,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.1784859,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.11286992,21.0,24.0
+Vireo altiloquus_Black-whiskered Vireo,0.17781381,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.15086249,23.0,26.0
+Zenaida macroura_Mourning Dove,0.12509628,23.0,26.0
+Strix varia_Barred Owl,0.115737885,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.28771263,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.27705866,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.3779622,27.0,30.0
+Vireo philadelphicus_Philadelphia Vireo,0.2001711,28.0,31.0
+Vireo philadelphicus_Philadelphia Vireo,0.16891906,29.0,32.0
+Buteo platypterus_Broad-winged Hawk,0.1185798,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109462366,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10311519,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.25153878,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.12400689,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.1998669,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118026644,35.0,38.0
+Buteo platypterus_Broad-winged Hawk,0.112251304,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102103986,36.0,39.0

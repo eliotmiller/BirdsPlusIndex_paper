@@ -1,0 +1,117 @@
+species,score,start_time,end_time
+Acrocephalus australis_Australian Reed Warbler,0.1169326,1.0,4.0
+Dumetella carolinensis_Gray Catbird,0.17074764,2.0,5.0
+Acrocephalus stentoreus_Clamorous Reed Warbler,0.18946204,3.0,6.0
+Dumetella carolinensis_Gray Catbird,0.10854907,3.0,6.0
+Acrocephalus stentoreus_Clamorous Reed Warbler,0.17334157,4.0,7.0
+Dumetella carolinensis_Gray Catbird,0.18821242,5.0,8.0
+Ploceus hypoxanthus_Asian Golden Weaver,0.14690281,6.0,9.0
+Acrocephalus stentoreus_Clamorous Reed Warbler,0.109926775,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.107938334,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.18974869,7.0,10.0
+Acrocephalus australis_Australian Reed Warbler,0.10996169,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.22354299,8.0,11.0
+Dumetella carolinensis_Gray Catbird,0.13336489,8.0,11.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.11542314,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.16082966,9.0,12.0
+Dumetella carolinensis_Gray Catbird,0.1358518,9.0,12.0
+Calliope calliope_Siberian Rubythroat,0.1108975,9.0,12.0
+Calliope calliope_Siberian Rubythroat,0.102459796,10.0,13.0
+Dumetella carolinensis_Gray Catbird,0.98520964,11.0,14.0
+Lanius ludovicianus_Loggerhead Shrike,0.13062441,11.0,14.0
+Lanius ludovicianus_Loggerhead Shrike,0.88207746,12.0,15.0
+Dumetella carolinensis_Gray Catbird,0.69603896,12.0,15.0
+Lanius ludovicianus_Loggerhead Shrike,0.88906676,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.59512234,13.0,16.0
+Lanius ludovicianus_Loggerhead Shrike,0.7841374,14.0,17.0
+Dumetella carolinensis_Gray Catbird,0.4551998,14.0,17.0
+Thryomanes bewickii_Bewick's Wren,0.14989208,14.0,17.0
+Dumetella carolinensis_Gray Catbird,0.7760241,15.0,18.0
+Lanius ludovicianus_Loggerhead Shrike,0.17397757,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.91794527,16.0,19.0
+Lanius ludovicianus_Loggerhead Shrike,0.102372535,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.9525616,17.0,20.0
+Dumetella carolinensis_Gray Catbird,0.7642638,18.0,21.0
+Cisticola exilis_Golden-headed Cisticola,0.10399196,18.0,21.0
+Lanius ludovicianus_Loggerhead Shrike,0.10137179,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.9785791,19.0,22.0
+Dumetella carolinensis_Gray Catbird,0.9681093,20.0,23.0
+Dumetella carolinensis_Gray Catbird,0.9841246,21.0,24.0
+Dumetella carolinensis_Gray Catbird,0.98568106,22.0,25.0
+Dumetella carolinensis_Gray Catbird,0.9928403,23.0,26.0
+Dumetella carolinensis_Gray Catbird,0.9885992,24.0,27.0
+Dumetella carolinensis_Gray Catbird,0.9852743,25.0,28.0
+Dumetella carolinensis_Gray Catbird,0.97417724,26.0,29.0
+Dumetella carolinensis_Gray Catbird,0.9780505,27.0,30.0
+Dumetella carolinensis_Gray Catbird,0.96626973,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.97057635,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.98158526,30.0,33.0
+Dumetella carolinensis_Gray Catbird,0.9936778,31.0,34.0
+Dumetella carolinensis_Gray Catbird,0.9867551,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.9000406,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.9688268,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.9850064,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.98798907,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.9764897,37.0,40.0
+Calliope calliope_Siberian Rubythroat,0.79245585,38.0,41.0
+Icterus spurius_Orchard Oriole,0.12594448,38.0,41.0
+Calliope calliope_Siberian Rubythroat,0.6179528,39.0,42.0
+Calliope calliope_Siberian Rubythroat,0.31768557,40.0,43.0
+Calliope calliope_Siberian Rubythroat,0.47278333,41.0,44.0
+Calliope calliope_Siberian Rubythroat,0.22640334,42.0,45.0
+Dumetella carolinensis_Gray Catbird,0.9166336,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.9604666,44.0,47.0
+Dumetella carolinensis_Gray Catbird,0.966936,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.73600185,46.0,49.0
+Dumetella carolinensis_Gray Catbird,0.32400823,47.0,50.0
+Dumetella carolinensis_Gray Catbird,0.17592168,48.0,51.0
+Calliope calliope_Siberian Rubythroat,0.102696605,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.10231239,50.0,53.0
+Dumetella carolinensis_Gray Catbird,0.27222145,54.0,57.0
+Dumetella carolinensis_Gray Catbird,0.65110725,55.0,58.0
+Lanius ludovicianus_Loggerhead Shrike,0.21373256,55.0,58.0
+Dumetella carolinensis_Gray Catbird,0.81950796,56.0,59.0
+Lanius ludovicianus_Loggerhead Shrike,0.6336786,56.0,59.0
+Lanius ludovicianus_Loggerhead Shrike,0.64568144,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.6031643,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.45895085,58.0,61.0
+Dumetella carolinensis_Gray Catbird,0.7147994,59.0,62.0
+Dumetella carolinensis_Gray Catbird,0.87851745,60.0,63.0
+Dumetella carolinensis_Gray Catbird,0.9370985,61.0,64.0
+Dumetella carolinensis_Gray Catbird,0.6196612,62.0,65.0
+Dumetella carolinensis_Gray Catbird,0.73008263,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.7822481,64.0,67.0
+Lanius ludovicianus_Loggerhead Shrike,0.65771866,64.0,67.0
+Dumetella carolinensis_Gray Catbird,0.7430433,65.0,68.0
+Lanius ludovicianus_Loggerhead Shrike,0.7057147,65.0,68.0
+Dumetella carolinensis_Gray Catbird,0.93521905,66.0,69.0
+Lanius ludovicianus_Loggerhead Shrike,0.35811174,66.0,69.0
+Dumetella carolinensis_Gray Catbird,0.92597586,67.0,70.0
+Lanius excubitor_Great Gray Shrike,0.22382943,67.0,70.0
+Lanius ludovicianus_Loggerhead Shrike,0.15271781,67.0,70.0
+Dumetella carolinensis_Gray Catbird,0.38729483,68.0,71.0
+Lanius excubitor_Great Gray Shrike,0.101790644,68.0,71.0
+Dumetella carolinensis_Gray Catbird,0.6659847,69.0,72.0
+Dumetella carolinensis_Gray Catbird,0.5281664,70.0,73.0
+Lanius ludovicianus_Loggerhead Shrike,0.32151523,70.0,73.0
+Dumetella carolinensis_Gray Catbird,0.291191,71.0,74.0
+Dumetella carolinensis_Gray Catbird,0.9281735,73.0,76.0
+Dumetella carolinensis_Gray Catbird,0.9056164,74.0,77.0
+Dumetella carolinensis_Gray Catbird,0.95143175,75.0,78.0
+Lanius ludovicianus_Loggerhead Shrike,0.22158952,75.0,78.0
+Dumetella carolinensis_Gray Catbird,0.23583849,76.0,79.0
+Lanius ludovicianus_Loggerhead Shrike,0.16562028,76.0,79.0
+Lanius ludovicianus_Loggerhead Shrike,0.32323322,77.0,80.0
+Dumetella carolinensis_Gray Catbird,0.16898844,77.0,80.0
+Dumetella carolinensis_Gray Catbird,0.269045,78.0,81.0
+Dumetella carolinensis_Gray Catbird,0.89688766,79.0,82.0
+Lanius ludovicianus_Loggerhead Shrike,0.22645122,79.0,82.0
+Dumetella carolinensis_Gray Catbird,0.84950405,80.0,83.0
+Lanius ludovicianus_Loggerhead Shrike,0.18163154,80.0,83.0
+Dumetella carolinensis_Gray Catbird,0.44352385,81.0,84.0
+Dumetella carolinensis_Gray Catbird,0.41454735,82.0,85.0
+Dumetella carolinensis_Gray Catbird,0.25435618,83.0,86.0
+Dumetella carolinensis_Gray Catbird,0.43968752,84.0,87.0
+Dumetella carolinensis_Gray Catbird,0.7231458,85.0,88.0
+Dumetella carolinensis_Gray Catbird,0.88939357,86.0,89.0
+Dumetella carolinensis_Gray Catbird,0.9350804,87.0,89.61600907029478

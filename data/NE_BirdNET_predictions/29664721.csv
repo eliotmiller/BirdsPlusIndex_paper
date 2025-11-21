@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Pooecetes gramineus_Vesper Sparrow,0.2997432,0.0,3.0
+Pooecetes gramineus_Vesper Sparrow,0.5170726,1.0,4.0
+Spizella pusilla_Field Sparrow,0.21796936,2.0,5.0
+Ammodramus savannarum_Grasshopper Sparrow,0.121610776,2.0,5.0
+Engine_Engine,0.26661265,5.0,8.0
+Power tools_Power tools,0.13558462,5.0,8.0
+Engine_Engine,0.31550908,6.0,9.0
+Power tools_Power tools,0.19148502,6.0,9.0
+Pooecetes gramineus_Vesper Sparrow,0.17189391,8.0,11.0
+Human non-vocal_Human non-vocal,0.11271428,11.0,14.0
+Human non-vocal_Human non-vocal,0.17289379,12.0,15.0
+Fireworks_Fireworks,0.17038822,12.0,15.0
+Buteo swainsoni_Swainson's Hawk,0.4524431,15.0,18.0
+Fireworks_Fireworks,0.121357515,15.0,18.0
+Fireworks_Fireworks,0.1478928,17.0,20.0
+Buteo swainsoni_Swainson's Hawk,0.1377571,17.0,20.0
+Engine_Engine,0.13774377,17.0,20.0
+Engine_Engine,0.17150877,18.0,21.0
+Engine_Engine,0.5107583,19.0,22.0
+Power tools_Power tools,0.32296082,19.0,22.0
+Buteo swainsoni_Swainson's Hawk,0.11403897,20.0,23.0
+Engine_Engine,0.1071834,20.0,23.0
+Crex crex_Corn Crake,0.11597196,23.0,26.0
+Pooecetes gramineus_Vesper Sparrow,0.3528592,24.0,27.0
+Pooecetes gramineus_Vesper Sparrow,0.63536716,25.0,28.0
+Molothrus ater_Brown-headed Cowbird,0.17958139,25.0,28.0
+Aimophila ruficeps_Rufous-crowned Sparrow,0.104150474,25.0,28.0
+Molothrus ater_Brown-headed Cowbird,0.5764225,26.0,29.0
+Molothrus ater_Brown-headed Cowbird,0.45151973,27.0,30.0
+Human non-vocal_Human non-vocal,0.16214764,28.0,31.0
+Human non-vocal_Human non-vocal,0.10268216,29.0,32.0
+Human non-vocal_Human non-vocal,0.13886517,30.0,33.0
+Peucaea cassinii_Cassin's Sparrow,0.27158058,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13515562,31.0,34.0
+Peucaea cassinii_Cassin's Sparrow,0.21021694,32.0,35.0
+Pooecetes gramineus_Vesper Sparrow,0.18017831,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.108375095,32.0,35.0
+Crex crex_Corn Crake,0.12261329,33.0,36.0
+Pooecetes gramineus_Vesper Sparrow,0.34993744,36.0,39.0
+Molothrus ater_Brown-headed Cowbird,0.32997653,37.0,40.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.18570673,38.0,41.0
+Molothrus ater_Brown-headed Cowbird,0.23705317,39.0,42.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.105177075,39.0,42.0
+Icterus bullockii_Bullock's Oriole,0.11179528,41.0,44.0
+Icteria virens_Yellow-breasted Chat,0.10476367,42.0,45.0
+Icteria virens_Yellow-breasted Chat,0.1461912,43.0,46.0
+Icteria virens_Yellow-breasted Chat,0.15948725,44.0,47.0
+Pooecetes gramineus_Vesper Sparrow,0.9073911,47.0,50.0
+Spizella pusilla_Field Sparrow,0.6301371,47.0,50.0
+Pooecetes gramineus_Vesper Sparrow,0.9246583,48.0,51.0
+Pooecetes gramineus_Vesper Sparrow,0.9343355,49.0,52.0
+Pooecetes gramineus_Vesper Sparrow,0.8005989,50.0,53.0
+Spinus psaltria_Lesser Goldfinch,0.12478787,50.0,53.0
+Pooecetes gramineus_Vesper Sparrow,0.70647585,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1370907,52.0,55.0
+Sialia sialis_Eastern Bluebird,0.11798465,55.0,58.0
+Pooecetes gramineus_Vesper Sparrow,0.83865786,59.0,62.0
+Spizella pusilla_Field Sparrow,0.22797833,59.0,62.0
+Pooecetes gramineus_Vesper Sparrow,0.939489,60.0,63.0
+Pooecetes gramineus_Vesper Sparrow,0.95843416,61.0,64.0
+Pooecetes gramineus_Vesper Sparrow,0.5743711,62.0,65.0
+Pooecetes gramineus_Vesper Sparrow,0.8102397,63.0,66.0
+Aimophila ruficeps_Rufous-crowned Sparrow,0.1393978,63.0,66.0
+Engine_Engine,0.22332677,67.0,70.0
+Human non-vocal_Human non-vocal,0.14137672,67.0,70.0

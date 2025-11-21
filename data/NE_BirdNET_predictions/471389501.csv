@@ -1,0 +1,53 @@
+species,score,start_time,end_time
+Cygnus buccinator_Trumpeter Swan,0.12767479,0.0,3.0
+Human vocal_Human vocal,0.10855987,0.0,3.0
+Human vocal_Human vocal,0.12203486,2.0,5.0
+Pica hudsonia_Black-billed Magpie,0.10662944,5.0,8.0
+Corvus ossifragus_Fish Crow,0.15580064,8.0,11.0
+Geronticus eremita_Northern Bald Ibis,0.10266419,16.0,19.0
+Human vocal_Human vocal,0.24162188,18.0,21.0
+Human vocal_Human vocal,0.15273748,19.0,22.0
+Archilochus colubris_Ruby-throated Hummingbird,0.24781357,61.0,64.0
+Ammodramus savannarum_Grasshopper Sparrow,0.120564945,61.0,64.0
+Archilochus colubris_Ruby-throated Hummingbird,0.12796865,62.0,65.0
+Eudocimus albus_White Ibis,0.36554664,71.0,74.0
+Dog_Dog,0.123246,71.0,74.0
+Egretta thula_Snowy Egret,0.10948739,71.0,74.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18060061,79.0,82.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10480095,81.0,84.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13109238,82.0,85.0
+Otus bakkamoena_Indian Scops-Owl,0.12761965,83.0,86.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.27234307,84.0,87.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.38711146,85.0,88.0
+Archilochus colubris_Ruby-throated Hummingbird,0.19867344,85.0,88.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18960935,86.0,89.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18036993,88.0,91.0
+Archilochus colubris_Ruby-throated Hummingbird,0.36744604,94.0,97.0
+Elanoides forficatus_Swallow-tailed Kite,0.15158069,94.0,97.0
+Haliaeetus leucocephalus_Bald Eagle,0.10231347,94.0,97.0
+Archilochus colubris_Ruby-throated Hummingbird,0.6958133,95.0,98.0
+Archilochus colubris_Ruby-throated Hummingbird,0.32914415,96.0,99.0
+Archilochus colubris_Ruby-throated Hummingbird,0.4711018,97.0,100.0
+Baeolophus bicolor_Tufted Titmouse,0.13680418,116.0,119.0
+Butorides virescens_Green Heron,0.12128754,119.0,122.0
+Archilochus colubris_Ruby-throated Hummingbird,0.12917316,120.0,123.0
+Corvus ossifragus_Fish Crow,0.12970376,121.0,124.0
+Calypte anna_Anna's Hummingbird,0.12532704,124.0,127.0
+Psaltriparus minimus_Bushtit,0.25390223,126.0,129.0
+Psaltriparus minimus_Bushtit,0.26899546,127.0,130.0
+Engine_Engine,0.10158531,128.0,131.0
+Power tools_Power tools,0.17269768,133.0,136.0
+Engine_Engine,0.1620599,133.0,136.0
+Otus bakkamoena_Indian Scops-Owl,0.12132418,138.0,141.0
+Chloris chloris_European Greenfinch,0.16381204,144.0,147.0
+Spinus tristis_American Goldfinch,0.43329158,145.0,148.0
+Spinus tristis_American Goldfinch,0.86805934,146.0,149.0
+Spinus tristis_American Goldfinch,0.4577799,147.0,150.0
+Spinus tristis_American Goldfinch,0.43153006,148.0,151.0
+Spizella pallida_Clay-colored Sparrow,0.29418838,149.0,152.0
+Ammospiza leconteii_LeConte's Sparrow,0.2922467,149.0,152.0
+Spinus tristis_American Goldfinch,0.17302817,149.0,152.0
+Sitta canadensis_Red-breasted Nuthatch,0.2551523,153.0,156.0
+Regulus regulus_Goldcrest,0.11839712,171.0,174.0
+Engine_Engine,0.23142831,181.0,184.0
+Power tools_Power tools,0.106057934,181.0,184.0

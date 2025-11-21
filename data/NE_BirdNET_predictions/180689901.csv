@@ -1,0 +1,189 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.3854959,0.0,3.0
+Ixoreus naevius_Varied Thrush,0.11133879,1.0,4.0
+Spizella passerina_Chipping Sparrow,0.109532855,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.10232069,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.17078765,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.14494024,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.47012544,4.0,7.0
+Spizella passerina_Chipping Sparrow,0.3894126,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.3233409,5.0,8.0
+Bradypterus sylvaticus_Knysna Warbler,0.14294644,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.2445667,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.3847818,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.22449318,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.1950801,11.0,14.0
+Myadestes unicolor_Slate-colored Solitaire,0.17239156,11.0,14.0
+Junco hyemalis_Dark-eyed Junco,0.71275264,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.38136333,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.88601637,13.0,16.0
+Spizella passerina_Chipping Sparrow,0.5121522,13.0,16.0
+Spizella passerina_Chipping Sparrow,0.8593378,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.6505307,14.0,17.0
+Spizella passerina_Chipping Sparrow,0.6020066,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.22718386,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.2025395,16.0,19.0
+Thryomanes bewickii_Bewick's Wren,0.19257769,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17745578,16.0,19.0
+Spizella passerina_Chipping Sparrow,0.13935597,16.0,19.0
+Certhia americana_Brown Creeper,0.22711198,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.45684168,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.36033708,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.258629,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.48865885,22.0,25.0
+Spizella passerina_Chipping Sparrow,0.100114055,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.81593585,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.32379484,23.0,26.0
+Asthenes harterti_Black-throated Thistletail,0.26141053,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.9475278,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.8677829,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.8534824,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.8391887,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.6224468,26.0,29.0
+Spizella passerina_Chipping Sparrow,0.2749683,26.0,29.0
+Asthenes harterti_Black-throated Thistletail,0.11512702,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.12622827,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.1010201,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.11476624,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.10890455,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.10467951,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.19694217,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.1093572,32.0,35.0
+Colluricincla harmonica_Gray Shrikethrush,0.338756,33.0,36.0
+Melanodryas vittata_Dusky Robin,0.15387127,33.0,36.0
+Colluricincla harmonica_Gray Shrikethrush,0.15361483,35.0,38.0
+Colluricincla harmonica_Gray Shrikethrush,0.26915553,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.27693504,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.41444114,38.0,41.0
+Spizella passerina_Chipping Sparrow,0.40949515,38.0,41.0
+Setophaga pinus_Pine Warbler,0.17246881,38.0,41.0
+Spizella passerina_Chipping Sparrow,0.7089084,39.0,42.0
+Junco hyemalis_Dark-eyed Junco,0.7008427,39.0,42.0
+Junco hyemalis_Dark-eyed Junco,0.8232215,40.0,43.0
+Spizella passerina_Chipping Sparrow,0.5105917,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.44843748,41.0,44.0
+Spizella passerina_Chipping Sparrow,0.33635604,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.17357023,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.21364592,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.15421653,43.0,46.0
+Parkesia motacilla_Louisiana Waterthrush,0.104175694,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.1952355,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.18209468,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.17272295,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.9419083,51.0,54.0
+Spizella passerina_Chipping Sparrow,0.31348014,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.8056941,52.0,55.0
+Spizella passerina_Chipping Sparrow,0.7638635,52.0,55.0
+Spizella passerina_Chipping Sparrow,0.86966324,53.0,56.0
+Junco hyemalis_Dark-eyed Junco,0.850512,53.0,56.0
+Spizella passerina_Chipping Sparrow,0.840272,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.5018943,54.0,57.0
+Spizella passerina_Chipping Sparrow,0.4741236,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.11863581,55.0,58.0
+Setophaga magnolia_Magnolia Warbler,0.17771868,56.0,59.0
+Cardellina canadensis_Canada Warbler,0.15083449,56.0,59.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.10130081,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.36466724,57.0,60.0
+Power tools_Power tools,0.2325946,60.0,63.0
+Engine_Engine,0.121289715,60.0,63.0
+Hylocichla mustelina_Wood Thrush,0.108348705,62.0,65.0
+Hylocichla mustelina_Wood Thrush,0.10748079,63.0,66.0
+Regulus satrapa_Golden-crowned Kinglet,0.5988942,64.0,67.0
+Certhia americana_Brown Creeper,0.1575565,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.12760098,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.2685593,66.0,69.0
+Certhia americana_Brown Creeper,0.1942705,66.0,69.0
+Regulus satrapa_Golden-crowned Kinglet,0.16899723,66.0,69.0
+Spizella passerina_Chipping Sparrow,0.18960905,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.10989078,68.0,71.0
+Spizella passerina_Chipping Sparrow,0.5479193,69.0,72.0
+Junco hyemalis_Dark-eyed Junco,0.13939548,69.0,72.0
+Spizella passerina_Chipping Sparrow,0.20465602,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.8558557,73.0,76.0
+Regulus satrapa_Golden-crowned Kinglet,0.4961937,74.0,77.0
+Regulus satrapa_Golden-crowned Kinglet,0.16346984,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.5892217,76.0,79.0
+Setophaga ruticilla_American Redstart,0.122313365,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.88483936,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.3026501,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.15163627,77.0,80.0
+Hylocichla mustelina_Wood Thrush,0.8328185,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.49364308,78.0,81.0
+Setophaga virens_Black-throated Green Warbler,0.25450796,78.0,81.0
+Regulus satrapa_Golden-crowned Kinglet,0.338605,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.3200582,79.0,82.0
+Setophaga virens_Black-throated Green Warbler,0.2068853,79.0,82.0
+Hylocichla mustelina_Wood Thrush,0.19480537,79.0,82.0
+Regulus satrapa_Golden-crowned Kinglet,0.42793736,80.0,83.0
+Junco hyemalis_Dark-eyed Junco,0.16104376,83.0,86.0
+Spizella passerina_Chipping Sparrow,0.13808444,83.0,86.0
+Spizella passerina_Chipping Sparrow,0.7445248,84.0,87.0
+Junco hyemalis_Dark-eyed Junco,0.14559501,84.0,87.0
+Spizella passerina_Chipping Sparrow,0.58609444,85.0,88.0
+Spizella passerina_Chipping Sparrow,0.33785307,86.0,89.0
+Cardellina canadensis_Canada Warbler,0.13622324,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.1269775,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.10767934,90.0,93.0
+Hylocichla mustelina_Wood Thrush,0.1907288,91.0,94.0
+Hylocichla mustelina_Wood Thrush,0.5158742,92.0,95.0
+Certhia americana_Brown Creeper,0.2437955,93.0,96.0
+Certhia americana_Brown Creeper,0.21940826,94.0,97.0
+Regulus satrapa_Golden-crowned Kinglet,0.20828263,94.0,97.0
+Regulus satrapa_Golden-crowned Kinglet,0.5283457,95.0,98.0
+Certhia americana_Brown Creeper,0.3629213,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.22163256,97.0,100.0
+Junco hyemalis_Dark-eyed Junco,0.29444662,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.3430589,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.19208333,103.0,106.0
+Hylocichla mustelina_Wood Thrush,0.98332596,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.44405589,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.3329443,105.0,108.0
+Strix occidentalis_Spotted Owl,0.13600993,108.0,111.0
+Hylocichla mustelina_Wood Thrush,0.4272696,110.0,113.0
+Mniotilta varia_Black-and-white Warbler,0.116646916,110.0,113.0
+Hylocichla mustelina_Wood Thrush,0.500443,111.0,114.0
+Spizella passerina_Chipping Sparrow,0.19484767,112.0,115.0
+Setophaga americana_Northern Parula,0.114926115,112.0,115.0
+Junco hyemalis_Dark-eyed Junco,0.89392495,113.0,116.0
+Spizella passerina_Chipping Sparrow,0.8800751,113.0,116.0
+Junco hyemalis_Dark-eyed Junco,0.7414099,114.0,117.0
+Spizella passerina_Chipping Sparrow,0.72728163,114.0,117.0
+Junco hyemalis_Dark-eyed Junco,0.5676468,115.0,118.0
+Spizella passerina_Chipping Sparrow,0.48876876,115.0,118.0
+Empidonax virescens_Acadian Flycatcher,0.14231259,116.0,119.0
+Hylocichla mustelina_Wood Thrush,0.33248097,117.0,120.0
+Mniotilta varia_Black-and-white Warbler,0.1305066,117.0,120.0
+Hylocichla mustelina_Wood Thrush,0.23230268,118.0,121.0
+Hylocichla mustelina_Wood Thrush,0.22197266,119.0,122.0
+Mniotilta varia_Black-and-white Warbler,0.10649404,119.0,122.0
+Hylocichla mustelina_Wood Thrush,0.5715878,122.0,125.0
+Hylocichla mustelina_Wood Thrush,0.22290526,123.0,126.0
+Junco hyemalis_Dark-eyed Junco,0.61738366,124.0,127.0
+Spizella passerina_Chipping Sparrow,0.18532513,124.0,127.0
+Junco hyemalis_Dark-eyed Junco,0.70989,125.0,128.0
+Spizella passerina_Chipping Sparrow,0.45014632,125.0,128.0
+Junco hyemalis_Dark-eyed Junco,0.7620306,126.0,129.0
+Spizella passerina_Chipping Sparrow,0.75967616,126.0,129.0
+Spizella passerina_Chipping Sparrow,0.5844395,127.0,130.0
+Junco hyemalis_Dark-eyed Junco,0.29787743,127.0,130.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18350291,128.0,131.0
+Junco hyemalis_Dark-eyed Junco,0.17578195,128.0,131.0
+Thryomanes bewickii_Bewick's Wren,0.15979366,128.0,131.0
+Hylocichla mustelina_Wood Thrush,0.7873317,129.0,132.0
+Hylocichla mustelina_Wood Thrush,0.7684382,130.0,133.0
+Hylocichla mustelina_Wood Thrush,0.74982226,131.0,134.0
+Hylocichla mustelina_Wood Thrush,0.833807,135.0,138.0
+Hylocichla mustelina_Wood Thrush,0.8660446,136.0,139.0
+Hylocichla mustelina_Wood Thrush,0.9523093,137.0,140.0
+Seiurus aurocapilla_Ovenbird,0.29669288,138.0,141.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13627361,138.0,141.0
+Setophaga virens_Black-throated Green Warbler,0.13443162,138.0,141.0
+Setophaga pinus_Pine Warbler,0.30641875,139.0,142.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2466762,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.13684128,139.0,142.0
+Setophaga pinus_Pine Warbler,0.13862808,140.0,143.0
+Junco hyemalis_Dark-eyed Junco,0.22214736,141.0,144.0
+Spizella passerina_Chipping Sparrow,0.18599033,141.0,144.0
+Setophaga pinus_Pine Warbler,0.13204677,141.0,144.0
+Spizella passerina_Chipping Sparrow,0.13875872,142.0,144.6960090702948
+Junco hyemalis_Dark-eyed Junco,0.11952116,142.0,144.6960090702948

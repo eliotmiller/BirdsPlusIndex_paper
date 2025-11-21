@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Engine_Engine,0.15328197,1.0,4.0
+Dog_Dog,0.111123666,1.0,4.0
+Engine_Engine,0.1305197,3.0,6.0
+Ardea alba_Great Egret,0.15066716,4.0,7.0
+Ardea alba_Great Egret,0.5001438,5.0,8.0
+Antigone canadensis_Sandhill Crane,0.13465694,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.15505858,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11808674,8.0,11.0
+Ardea alba_Great Egret,0.21962163,9.0,12.0
+Antigone canadensis_Sandhill Crane,0.19442382,9.0,12.0
+Jabiru mycteria_Jabiru,0.13800398,10.0,13.0
+Ictinia mississippiensis_Mississippi Kite,0.16709277,17.0,20.0
+Engine_Engine,0.1229421,19.0,22.0
+Engine_Engine,0.11830302,20.0,23.0
+Meleagris gallopavo_Wild Turkey,0.20444812,27.0,30.0
+Ardea alba_Great Egret,0.17116857,28.0,31.0
+Ardea alba_Great Egret,0.24731447,29.0,32.0
+Ardea alba_Great Egret,0.57609767,30.0,33.0
+Steatornis caripensis_Oilbird,0.1353317,30.0,33.0
+Engine_Engine,0.17083535,34.0,37.0
+Power tools_Power tools,0.10704901,34.0,37.0
+Engine_Engine,0.19617969,35.0,38.0
+Engine_Engine,0.18108605,37.0,40.0
+Engine_Engine,0.34062672,38.0,41.0
+Power tools_Power tools,0.100230984,38.0,41.0
+Engine_Engine,0.59879506,39.0,42.0
+Power tools_Power tools,0.1374098,39.0,42.0
+Engine_Engine,0.35436413,40.0,43.0
+Engine_Engine,0.16438758,41.0,44.0
+Engine_Engine,0.25962722,42.0,45.0
+Power tools_Power tools,0.19668059,42.0,45.0
+Corvus ossifragus_Fish Crow,0.46278054,43.0,46.0
+Corvus ossifragus_Fish Crow,0.5328825,44.0,47.0
+Engine_Engine,0.53348255,45.0,48.0
+Engine_Engine,0.67869675,46.0,49.0
+Power tools_Power tools,0.13554633,46.0,49.0
+Ardea alba_Great Egret,0.40994564,52.0,55.0
+Engine_Engine,0.6274179,54.0,56.90403628117914
+Power tools_Power tools,0.19320509,54.0,56.90403628117914

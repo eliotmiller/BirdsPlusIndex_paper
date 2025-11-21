@@ -1,0 +1,141 @@
+species,score,start_time,end_time
+Human non-vocal_Human non-vocal,0.13933659,1.0,4.0
+Spizella passerina_Chipping Sparrow,0.14721854,2.0,5.0
+Porphyrio martinica_Purple Gallinule,0.14112404,7.0,10.0
+Eudocimus albus_White Ibis,0.47497147,18.0,21.0
+Lithobates clamitans_Green Frog,0.12584718,18.0,21.0
+Pardirallus maculatus_Spotted Rail,0.23155664,19.0,22.0
+Eudocimus albus_White Ibis,0.12865794,19.0,22.0
+Eupsittula canicularis_Orange-fronted Parakeet,0.12223542,23.0,26.0
+Lanius borealis_Northern Shrike,0.11814282,25.0,28.0
+Tityra semifasciata_Masked Tityra,0.1336535,28.0,31.0
+Anas crecca_Green-winged Teal,0.1421957,36.0,39.0
+Pardirallus maculatus_Spotted Rail,0.1834803,49.0,52.0
+Porphyrio martinica_Purple Gallinule,0.11802419,49.0,52.0
+Porphyrio martinica_Purple Gallinule,0.10479023,50.0,53.0
+Tyrannus verticalis_Western Kingbird,0.13800104,51.0,54.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.12989011,55.0,58.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17566909,57.0,60.0
+Meleagris gallopavo_Wild Turkey,0.11524209,62.0,65.0
+Cistothorus palustris_Marsh Wren,0.10791095,64.0,67.0
+Megalurus palustris_Striated Grassbird,0.15549913,72.0,75.0
+Ixobrychus exilis_Least Bittern,0.16295819,80.0,83.0
+Engine_Engine,0.11685952,89.0,92.0
+Anurolimnas viridis_Russet-crowned Crake,0.1546613,93.0,96.0
+Fulica americana_American Coot,0.25184023,99.0,102.0
+Ixobrychus exilis_Least Bittern,0.12535945,99.0,102.0
+Ardea alba_Great Egret,0.25008053,104.0,107.0
+Lithobates clamitans_Green Frog,0.2102696,112.0,115.0
+Lithobates clamitans_Green Frog,0.14343643,113.0,116.0
+Branta bernicla_Brant,0.2358204,118.0,121.0
+Lewinia pectoralis_Lewin's Rail,0.11035133,122.0,125.0
+Fulica americana_American Coot,0.15772423,124.0,127.0
+Mergus merganser_Common Merganser,0.18317159,126.0,129.0
+Platalea ajaja_Roseate Spoonbill,0.16066562,126.0,129.0
+Hirundo rustica_Barn Swallow,0.45723575,132.0,135.0
+Lithobates clamitans_Green Frog,0.10421557,135.0,138.0
+Bubulcus ibis_Cattle Egret,0.44487607,138.0,141.0
+Bubulcus ibis_Cattle Egret,0.12068484,139.0,142.0
+Bubulcus ibis_Cattle Egret,0.3810709,140.0,143.0
+Phoenicopterus ruber_American Flamingo,0.101979464,140.0,143.0
+Bubulcus ibis_Cattle Egret,0.25758728,141.0,144.0
+Brotogeris chiriri_Yellow-chevroned Parakeet,0.3398999,144.0,147.0
+Falco sparverius_American Kestrel,0.862167,145.0,148.0
+Agapornis roseicollis_Rosy-faced Lovebird,0.40958253,145.0,148.0
+Agapornis roseicollis_Rosy-faced Lovebird,0.11043677,146.0,149.0
+Rallus limicola_Virginia Rail,0.321987,150.0,153.0
+Rallus limicola_Virginia Rail,0.53166616,151.0,154.0
+Lithobates clamitans_Green Frog,0.17820437,151.0,154.0
+Rallus limicola_Virginia Rail,0.22939003,152.0,155.0
+Lithobates clamitans_Green Frog,0.14904952,152.0,155.0
+Fulica americana_American Coot,0.11596467,158.0,161.0
+Tyrannus dominicensis_Gray Kingbird,0.1623572,170.0,173.0
+Lithobates clamitans_Green Frog,0.25780153,174.0,177.0
+Lithobates clamitans_Green Frog,0.10360247,175.0,178.0
+Lithobates clamitans_Green Frog,0.20307249,176.0,179.0
+Coragyps atratus_Black Vulture,0.14554247,178.0,181.0
+Psarocolius wagleri_Chestnut-headed Oropendola,0.2262356,187.0,190.0
+Psarocolius montezuma_Montezuma Oropendola,0.17014472,187.0,190.0
+Ixobrychus exilis_Least Bittern,0.2559743,194.0,197.0
+Engine_Engine,0.10830904,198.0,201.0
+Engine_Engine,0.30658686,199.0,202.0
+Anser albifrons_Greater White-fronted Goose,0.15570627,201.0,204.0
+Amazona oratrix_Yellow-headed Parrot,0.10170631,201.0,204.0
+Amazona oratrix_Yellow-headed Parrot,0.16862829,202.0,205.0
+Phoenicopterus roseus_Greater Flamingo,0.13279398,214.0,217.0
+Phoenicopterus roseus_Greater Flamingo,0.11745568,215.0,218.0
+Ardea alba_Great Egret,0.10560886,215.0,218.0
+Gallinula galeata_Common Gallinule,0.107388355,220.0,223.0
+Platalea ajaja_Roseate Spoonbill,0.15222132,234.0,237.0
+Platalea ajaja_Roseate Spoonbill,0.16130614,235.0,238.0
+Pica pica_Eurasian Magpie,0.13372858,236.0,239.0
+Fulica americana_American Coot,0.13859454,237.0,240.0
+Fulica americana_American Coot,0.11256304,248.0,251.0
+Pardirallus maculatus_Spotted Rail,0.12073663,249.0,252.0
+Porphyrio martinica_Purple Gallinule,0.10148195,249.0,252.0
+Gallinula galeata_Common Gallinule,0.13299343,250.0,253.0
+Ixobrychus exilis_Least Bittern,0.122637026,250.0,253.0
+Melospiza georgiana_Swamp Sparrow,0.124110565,255.0,258.0
+Quiscalus quiscula_Common Grackle,0.18723601,257.0,260.0
+Quiscalus quiscula_Common Grackle,0.104437135,258.0,261.0
+Calliope calliope_Siberian Rubythroat,0.67470366,259.0,262.0
+Anser albifrons_Greater White-fronted Goose,0.1154856,262.0,265.0
+Platycercus eximius_Eastern Rosella,0.1393761,263.0,266.0
+Lanius borealis_Northern Shrike,0.104373574,265.0,268.0
+Bubulcus ibis_Cattle Egret,0.20045973,271.0,274.0
+Bubulcus ibis_Cattle Egret,0.11500941,272.0,275.0
+Aix sponsa_Wood Duck,0.12782791,275.0,278.0
+Prinia inornata_Plain Prinia,0.12625854,276.0,279.0
+Aramus guarauna_Limpkin,0.15260151,288.0,291.0
+Lithobates clamitans_Green Frog,0.101913325,291.0,294.0
+Amazona oratrix_Yellow-headed Parrot,0.16560443,296.0,299.0
+Amazona amazonica_Orange-winged Parrot,0.12360279,296.0,299.0
+Amazona oratrix_Yellow-headed Parrot,0.14509206,298.0,301.0
+Psarocolius wagleri_Chestnut-headed Oropendola,0.113816805,300.0,303.0
+Aythya collaris_Ring-necked Duck,0.16288573,302.0,305.0
+Quiscalus quiscula_Common Grackle,0.14965636,304.0,307.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1310409,304.0,307.0
+Quiscalus mexicanus_Great-tailed Grackle,0.10416914,304.0,307.0
+Quiscalus quiscula_Common Grackle,0.20193155,305.0,308.0
+Quiscalus mexicanus_Great-tailed Grackle,0.17137052,305.0,308.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16452056,305.0,308.0
+Agelaius phoeniceus_Red-winged Blackbird,0.105957456,306.0,309.0
+Psarocolius montezuma_Montezuma Oropendola,0.1033638,306.0,309.0
+Psarocolius montezuma_Montezuma Oropendola,0.4647691,307.0,310.0
+Quiscalus mexicanus_Great-tailed Grackle,0.12709533,308.0,311.0
+Quiscalus quiscula_Common Grackle,0.11175689,308.0,311.0
+Psarocolius montezuma_Montezuma Oropendola,0.10509933,308.0,311.0
+Melospiza georgiana_Swamp Sparrow,0.10525661,310.0,313.0
+Melospiza georgiana_Swamp Sparrow,0.13811013,311.0,314.0
+Arremonops rufivirgatus_Olive Sparrow,0.12255262,311.0,314.0
+Pardirallus maculatus_Spotted Rail,0.17727341,316.0,319.0
+Porphyrio martinica_Purple Gallinule,0.10348733,316.0,319.0
+Pardirallus maculatus_Spotted Rail,0.35066858,318.0,321.0
+Pardirallus maculatus_Spotted Rail,0.2544783,319.0,322.0
+Coccothraustes coccothraustes_Hawfinch,0.10123556,324.0,327.0
+Pardirallus maculatus_Spotted Rail,0.25607663,329.0,332.0
+Pardirallus maculatus_Spotted Rail,0.3753221,330.0,333.0
+Oriolus oriolus_Eurasian Golden Oriole,0.13570009,334.0,337.0
+Aythya valisineria_Canvasback,0.25272158,335.0,338.0
+Quiscalus quiscula_Common Grackle,0.12951995,336.0,339.0
+Aix sponsa_Wood Duck,0.1837432,337.0,340.0
+Aix sponsa_Wood Duck,0.2772688,338.0,341.0
+Picus viridis_Eurasian Green Woodpecker,0.14095181,342.0,345.0
+Porphyrio martinica_Purple Gallinule,0.12521853,351.0,354.0
+Aramus guarauna_Limpkin,0.111441724,351.0,354.0
+Lanius sphenocercus_Chinese Gray Shrike,0.16746959,354.0,357.0
+Lanius ludovicianus_Loggerhead Shrike,0.1535013,354.0,357.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.10587728,355.0,358.0
+Euphagus carolinus_Rusty Blackbird,0.106482156,360.0,363.0
+Gallinula galeata_Common Gallinule,0.24403042,366.0,369.0
+Podilymbus podiceps_Pied-billed Grebe,0.2264856,366.0,369.0
+Meleagris gallopavo_Wild Turkey,0.36967134,376.0,379.0
+Meleagris gallopavo_Wild Turkey,0.26725,377.0,380.0
+Porphyrio martinica_Purple Gallinule,0.21739687,388.0,391.0
+Gallinula galeata_Common Gallinule,0.20175408,388.0,391.0
+Podilymbus podiceps_Pied-billed Grebe,0.13569361,388.0,391.0
+Melospiza georgiana_Swamp Sparrow,0.19739208,389.0,392.0
+Quiscalus quiscula_Common Grackle,0.12639938,389.0,392.0
+Melospiza georgiana_Swamp Sparrow,0.25289643,390.0,393.0
+Quiscalus major_Boat-tailed Grackle,0.13506325,394.0,397.0
+Gallinula galeata_Common Gallinule,0.119657576,396.0,399.0

@@ -1,0 +1,15 @@
+species,score,start_time,end_time
+Engine_Engine,0.3260119,0.0,3.0
+Power tools_Power tools,0.30545655,0.0,3.0
+Power tools_Power tools,0.25007063,1.0,4.0
+Engine_Engine,0.16056313,1.0,4.0
+Power tools_Power tools,0.31391138,2.0,5.0
+Power tools_Power tools,0.35214245,3.0,6.0
+Gun_Gun,0.24590859,3.0,6.0
+Power tools_Power tools,0.16571598,4.0,7.0
+Gun_Gun,0.11262883,4.0,7.0
+Power tools_Power tools,0.1775668,5.0,8.0
+Power tools_Power tools,0.12022679,9.0,12.0
+Power tools_Power tools,0.1381067,11.0,14.0
+Human non-vocal_Human non-vocal,0.10293477,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.14343207,12.0,14.4

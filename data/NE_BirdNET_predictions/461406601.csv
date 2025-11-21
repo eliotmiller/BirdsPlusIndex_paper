@@ -1,0 +1,533 @@
+species,score,start_time,end_time
+Passerina cyanea_Indigo Bunting,0.98443836,0.0,3.0
+Passerina amoena_Lazuli Bunting,0.47452304,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.9236516,1.0,4.0
+Passerina amoena_Lazuli Bunting,0.1894348,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.557083,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.7289337,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.66016424,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.1456358,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20263971,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.15864453,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.11621258,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.43719742,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.3440148,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10171864,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.40336075,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10725644,7.0,10.0
+Passerina cyanea_Indigo Bunting,0.3314581,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27061853,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.12456517,8.0,11.0
+Passerina cyanea_Indigo Bunting,0.6925967,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38644785,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35756806,10.0,13.0
+Passerina cyanea_Indigo Bunting,0.1442748,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.11314546,10.0,13.0
+Passerina cyanea_Indigo Bunting,0.5918711,11.0,14.0
+Passerina amoena_Lazuli Bunting,0.30241475,11.0,14.0
+Passerina cyanea_Indigo Bunting,0.619628,12.0,15.0
+Passerina amoena_Lazuli Bunting,0.27199543,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.5386859,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.7665007,14.0,17.0
+Passerina amoena_Lazuli Bunting,0.17876263,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.880739,15.0,18.0
+Passerina amoena_Lazuli Bunting,0.50018907,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.89468026,16.0,19.0
+Passerina amoena_Lazuli Bunting,0.2706006,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.6983628,17.0,20.0
+Passerina amoena_Lazuli Bunting,0.15481424,17.0,20.0
+Passerina cyanea_Indigo Bunting,0.76268554,18.0,21.0
+Passerina amoena_Lazuli Bunting,0.12788263,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1047581,18.0,21.0
+Passerina cyanea_Indigo Bunting,0.6323503,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.1408571,19.0,22.0
+Passerina cyanea_Indigo Bunting,0.41980034,20.0,23.0
+Passerina cyanea_Indigo Bunting,0.5965693,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2367335,21.0,24.0
+Passerina cyanea_Indigo Bunting,0.88790005,22.0,25.0
+Passerina amoena_Lazuli Bunting,0.2094331,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.12713353,22.0,25.0
+Passerina cyanea_Indigo Bunting,0.85920066,23.0,26.0
+Passerina amoena_Lazuli Bunting,0.352978,23.0,26.0
+Passerina cyanea_Indigo Bunting,0.9408165,24.0,27.0
+Passerina amoena_Lazuli Bunting,0.11336795,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.85565585,25.0,28.0
+Passerina amoena_Lazuli Bunting,0.1743845,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.83318764,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.9591216,27.0,30.0
+Passerina amoena_Lazuli Bunting,0.23830141,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.78462833,28.0,31.0
+Passerina amoena_Lazuli Bunting,0.2049298,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.47961554,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.82541335,30.0,33.0
+Passerina cyanea_Indigo Bunting,0.37822613,31.0,34.0
+Passerina amoena_Lazuli Bunting,0.14579041,31.0,34.0
+Passerina cyanea_Indigo Bunting,0.76082194,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11150482,32.0,35.0
+Passerina cyanea_Indigo Bunting,0.7894105,33.0,36.0
+Passerina cyanea_Indigo Bunting,0.8810297,34.0,37.0
+Passerina cyanea_Indigo Bunting,0.94493556,35.0,38.0
+Passerina amoena_Lazuli Bunting,0.24277847,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.8904188,36.0,39.0
+Passerina amoena_Lazuli Bunting,0.41764918,36.0,39.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.12246252,36.0,39.0
+Passerina cyanea_Indigo Bunting,0.93416446,37.0,40.0
+Passerina amoena_Lazuli Bunting,0.13302694,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.812169,38.0,41.0
+Passerina amoena_Lazuli Bunting,0.24127042,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.6478476,39.0,42.0
+Passerina amoena_Lazuli Bunting,0.37698895,39.0,42.0
+Passerina cyanea_Indigo Bunting,0.8877786,40.0,43.0
+Passerina amoena_Lazuli Bunting,0.5948254,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.9198505,41.0,44.0
+Passerina amoena_Lazuli Bunting,0.42843822,41.0,44.0
+Passerina cyanea_Indigo Bunting,0.9207798,42.0,45.0
+Passerina amoena_Lazuli Bunting,0.16466145,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.9317341,43.0,46.0
+Passerina amoena_Lazuli Bunting,0.18285646,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.72247154,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10945093,45.0,48.0
+Ammospiza leconteii_LeConte's Sparrow,0.16769584,48.0,51.0
+Sicalis flaveola_Saffron Finch,0.19887768,49.0,52.0
+Setophaga tigrina_Cape May Warbler,0.41350588,50.0,53.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10962183,50.0,53.0
+Setophaga tigrina_Cape May Warbler,0.2655786,51.0,54.0
+Setophaga tigrina_Cape May Warbler,0.1915873,52.0,55.0
+Sicalis flaveola_Saffron Finch,0.74951667,53.0,56.0
+Setophaga tigrina_Cape May Warbler,0.47942638,53.0,56.0
+Sicalis flaveola_Saffron Finch,0.565885,54.0,57.0
+Setophaga tigrina_Cape May Warbler,0.2868884,54.0,57.0
+Setophaga tigrina_Cape May Warbler,0.37393913,55.0,58.0
+Setophaga tigrina_Cape May Warbler,0.3616829,56.0,59.0
+Sicalis flaveola_Saffron Finch,0.20975174,56.0,59.0
+Setophaga tigrina_Cape May Warbler,0.4651376,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14880323,57.0,60.0
+Sicalis flaveola_Saffron Finch,0.117140025,57.0,60.0
+Setophaga tigrina_Cape May Warbler,0.21083838,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.18364175,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10298678,58.0,61.0
+Setophaga tigrina_Cape May Warbler,0.3574271,59.0,62.0
+Setophaga tigrina_Cape May Warbler,0.35819384,60.0,63.0
+Setophaga tigrina_Cape May Warbler,0.35571852,61.0,64.0
+Sicalis flaveola_Saffron Finch,0.11842249,61.0,64.0
+Sicalis flaveola_Saffron Finch,0.15012848,64.0,67.0
+Setophaga tigrina_Cape May Warbler,0.35671207,65.0,68.0
+Sicalis flaveola_Saffron Finch,0.21325125,65.0,68.0
+Setophaga tigrina_Cape May Warbler,0.23832169,67.0,70.0
+Sicalis flaveola_Saffron Finch,0.13528508,67.0,70.0
+Setophaga tigrina_Cape May Warbler,0.17843422,68.0,71.0
+Setophaga tigrina_Cape May Warbler,0.30298886,69.0,72.0
+Setophaga tigrina_Cape May Warbler,0.28773856,70.0,73.0
+Setophaga tigrina_Cape May Warbler,0.11792659,71.0,74.0
+Sicalis flaveola_Saffron Finch,0.9410957,73.0,76.0
+Setophaga tigrina_Cape May Warbler,0.13190082,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.1537659,76.0,79.0
+Setophaga tigrina_Cape May Warbler,0.10376841,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.20889245,77.0,80.0
+Setophaga tigrina_Cape May Warbler,0.14903098,77.0,80.0
+Setophaga tigrina_Cape May Warbler,0.3367393,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.19208077,78.0,81.0
+Setophaga tigrina_Cape May Warbler,0.20396209,79.0,82.0
+Setophaga tigrina_Cape May Warbler,0.115070134,81.0,84.0
+Sicalis flaveola_Saffron Finch,0.15880835,83.0,86.0
+Sicalis flaveola_Saffron Finch,0.14974928,85.0,88.0
+Ammospiza leconteii_LeConte's Sparrow,0.18524143,89.0,92.0
+Peucaea aestivalis_Bachman's Sparrow,0.117601275,92.0,95.0
+Setophaga tigrina_Cape May Warbler,0.15017681,94.0,97.0
+Sicalis flaveola_Saffron Finch,0.11114048,95.0,98.0
+Sicalis flaveola_Saffron Finch,0.15909101,96.0,99.0
+Sicalis flaveola_Saffron Finch,0.41794577,97.0,100.0
+Sicalis flaveola_Saffron Finch,0.2418745,98.0,101.0
+Sicalis flaveola_Saffron Finch,0.103631034,99.0,102.0
+Sicalis flaveola_Saffron Finch,0.53044593,101.0,104.0
+Setophaga tigrina_Cape May Warbler,0.46835312,102.0,105.0
+Sicalis flaveola_Saffron Finch,0.2161302,102.0,105.0
+Setophaga tigrina_Cape May Warbler,0.5311267,103.0,106.0
+Sicalis flaveola_Saffron Finch,0.32669243,103.0,106.0
+Setophaga tigrina_Cape May Warbler,0.36723527,104.0,107.0
+Sicalis flaveola_Saffron Finch,0.2334298,104.0,107.0
+Setophaga tigrina_Cape May Warbler,0.39442712,105.0,108.0
+Sicalis flaveola_Saffron Finch,0.10123035,105.0,108.0
+Setophaga tigrina_Cape May Warbler,0.16939832,106.0,109.0
+Sicalis flaveola_Saffron Finch,0.11508927,106.0,109.0
+Sicalis flaveola_Saffron Finch,0.36707637,107.0,110.0
+Setophaga tigrina_Cape May Warbler,0.110228926,107.0,110.0
+Sicalis flaveola_Saffron Finch,0.41269654,108.0,111.0
+Setophaga tigrina_Cape May Warbler,0.14182994,108.0,111.0
+Allonemobius allardi_Allard's Ground Cricket,0.11301505,108.0,111.0
+Sicalis flaveola_Saffron Finch,0.6469397,109.0,112.0
+Setophaga tigrina_Cape May Warbler,0.26361766,110.0,113.0
+Sicalis flaveola_Saffron Finch,0.17561547,110.0,113.0
+Setophaga tigrina_Cape May Warbler,0.2970616,111.0,114.0
+Setophaga tigrina_Cape May Warbler,0.6573935,112.0,115.0
+Sicalis flaveola_Saffron Finch,0.18583745,112.0,115.0
+Setophaga tigrina_Cape May Warbler,0.20579918,113.0,116.0
+Sicalis flaveola_Saffron Finch,0.1008956,113.0,116.0
+Sicalis flaveola_Saffron Finch,0.38997525,114.0,117.0
+Setophaga tigrina_Cape May Warbler,0.32385767,114.0,117.0
+Setophaga tigrina_Cape May Warbler,0.15255336,115.0,118.0
+Setophaga tigrina_Cape May Warbler,0.24697469,116.0,119.0
+Seiurus aurocapilla_Ovenbird,0.1434741,116.0,119.0
+Setophaga tigrina_Cape May Warbler,0.25114602,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.11683301,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109526105,117.0,120.0
+Setophaga tigrina_Cape May Warbler,0.28580734,118.0,121.0
+Setophaga tigrina_Cape May Warbler,0.3759206,119.0,122.0
+Sicalis flaveola_Saffron Finch,0.66859454,120.0,123.0
+Sicalis flaveola_Saffron Finch,0.5239166,121.0,124.0
+Setophaga tigrina_Cape May Warbler,0.32698545,121.0,124.0
+Setophaga tigrina_Cape May Warbler,0.28283635,122.0,125.0
+Sicalis flaveola_Saffron Finch,0.13640417,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13603173,122.0,125.0
+Setophaga tigrina_Cape May Warbler,0.21889573,123.0,126.0
+Setophaga tigrina_Cape May Warbler,0.21574299,124.0,127.0
+Sicalis flaveola_Saffron Finch,0.17983745,125.0,128.0
+Sicalis flaveola_Saffron Finch,0.32294893,127.0,130.0
+Setophaga tigrina_Cape May Warbler,0.12625894,127.0,130.0
+Sicalis flaveola_Saffron Finch,0.24231657,128.0,131.0
+Sicalis flaveola_Saffron Finch,0.3091064,129.0,132.0
+Setophaga tigrina_Cape May Warbler,0.10980491,129.0,132.0
+Sicalis flaveola_Saffron Finch,0.6046672,130.0,133.0
+Setophaga tigrina_Cape May Warbler,0.14301503,130.0,133.0
+Setophaga tigrina_Cape May Warbler,0.1456579,131.0,134.0
+Setophaga tigrina_Cape May Warbler,0.1797214,132.0,135.0
+Setophaga tigrina_Cape May Warbler,0.24287233,133.0,136.0
+Setophaga tigrina_Cape May Warbler,0.15556102,134.0,137.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14159502,135.0,138.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14969487,137.0,140.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18609506,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15263101,140.0,143.0
+Setophaga tigrina_Cape May Warbler,0.12577662,140.0,143.0
+Sicalis flaveola_Saffron Finch,0.10062028,140.0,143.0
+Sicalis flaveola_Saffron Finch,0.1228421,145.0,148.0
+Sicalis flaveola_Saffron Finch,0.12209039,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.13373241,150.0,153.0
+Seiurus aurocapilla_Ovenbird,0.12917776,151.0,154.0
+Sicalis flaveola_Saffron Finch,0.1004204,151.0,154.0
+Empidonax virescens_Acadian Flycatcher,0.19147108,155.0,158.0
+Empidonax virescens_Acadian Flycatcher,0.122313015,156.0,159.0
+Setophaga tigrina_Cape May Warbler,0.100353636,157.0,160.0
+Sicalis flaveola_Saffron Finch,0.48933727,160.0,163.0
+Sicalis flaveola_Saffron Finch,0.23590808,162.0,165.0
+Setophaga tigrina_Cape May Warbler,0.116243795,163.0,166.0
+Setophaga tigrina_Cape May Warbler,0.12464686,164.0,167.0
+Sicalis flaveola_Saffron Finch,0.10241325,164.0,167.0
+Setophaga tigrina_Cape May Warbler,0.11411649,165.0,168.0
+Setophaga tigrina_Cape May Warbler,0.12677279,166.0,169.0
+Sicalis flaveola_Saffron Finch,0.13427137,168.0,171.0
+Setophaga tigrina_Cape May Warbler,0.11997537,168.0,171.0
+Sicalis flaveola_Saffron Finch,0.43017364,169.0,172.0
+Sicalis flaveola_Saffron Finch,0.16039804,170.0,173.0
+Sicalis flaveola_Saffron Finch,0.3667012,171.0,174.0
+Setophaga tigrina_Cape May Warbler,0.12853506,171.0,174.0
+Setophaga tigrina_Cape May Warbler,0.139072,172.0,175.0
+Sicalis flaveola_Saffron Finch,0.1287882,172.0,175.0
+Sicalis flaveola_Saffron Finch,0.14867978,173.0,176.0
+Sicalis flaveola_Saffron Finch,0.5044236,174.0,177.0
+Setophaga tigrina_Cape May Warbler,0.21029507,174.0,177.0
+Setophaga tigrina_Cape May Warbler,0.2054252,175.0,178.0
+Sicalis flaveola_Saffron Finch,0.21452515,176.0,179.0
+Setophaga tigrina_Cape May Warbler,0.1673951,176.0,179.0
+Setophaga tigrina_Cape May Warbler,0.18909551,177.0,180.0
+Setophaga tigrina_Cape May Warbler,0.15140633,178.0,181.0
+Setophaga tigrina_Cape May Warbler,0.14334725,179.0,182.0
+Setophaga tigrina_Cape May Warbler,0.2527933,180.0,183.0
+Sicalis flaveola_Saffron Finch,0.20591196,180.0,183.0
+Sicalis flaveola_Saffron Finch,0.13745351,183.0,186.0
+Setophaga tigrina_Cape May Warbler,0.10622303,183.0,186.0
+Sicalis flaveola_Saffron Finch,0.293531,184.0,187.0
+Setophaga tigrina_Cape May Warbler,0.103827335,184.0,187.0
+Sicalis flaveola_Saffron Finch,0.7429492,185.0,188.0
+Setophaga tigrina_Cape May Warbler,0.13816771,185.0,188.0
+Sicalis flaveola_Saffron Finch,0.51897055,186.0,189.0
+Setophaga tigrina_Cape May Warbler,0.21280617,186.0,189.0
+Seiurus aurocapilla_Ovenbird,0.10149301,186.0,189.0
+Setophaga tigrina_Cape May Warbler,0.23742831,187.0,190.0
+Seiurus aurocapilla_Ovenbird,0.13367231,187.0,190.0
+Setophaga tigrina_Cape May Warbler,0.25506142,188.0,191.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10360612,188.0,191.0
+Setophaga tigrina_Cape May Warbler,0.33394232,189.0,192.0
+Sicalis flaveola_Saffron Finch,0.22849485,189.0,192.0
+Sicalis flaveola_Saffron Finch,0.27136043,190.0,193.0
+Setophaga tigrina_Cape May Warbler,0.22233257,190.0,193.0
+Sicalis flaveola_Saffron Finch,0.660002,191.0,194.0
+Setophaga tigrina_Cape May Warbler,0.2556475,191.0,194.0
+Sicalis flaveola_Saffron Finch,0.67559034,192.0,195.0
+Setophaga tigrina_Cape May Warbler,0.30731753,192.0,195.0
+Sicalis flaveola_Saffron Finch,0.88424104,193.0,196.0
+Setophaga tigrina_Cape May Warbler,0.26555234,193.0,196.0
+Sicalis flaveola_Saffron Finch,0.55436015,194.0,197.0
+Setophaga tigrina_Cape May Warbler,0.26503843,194.0,197.0
+Sicalis flaveola_Saffron Finch,0.6205408,195.0,198.0
+Setophaga tigrina_Cape May Warbler,0.18423732,195.0,198.0
+Sicalis flaveola_Saffron Finch,0.88081765,196.0,199.0
+Setophaga tigrina_Cape May Warbler,0.22789332,196.0,199.0
+Myiothlypis leucophrys_White-striped Warbler,0.13001059,196.0,199.0
+Sicalis flaveola_Saffron Finch,0.8491565,197.0,200.0
+Setophaga tigrina_Cape May Warbler,0.25362775,197.0,200.0
+Setophaga tigrina_Cape May Warbler,0.17786252,198.0,201.0
+Sicalis flaveola_Saffron Finch,0.13153479,198.0,201.0
+Setophaga tigrina_Cape May Warbler,0.19844392,199.0,202.0
+Sicalis flaveola_Saffron Finch,0.1616479,199.0,202.0
+Setophaga tigrina_Cape May Warbler,0.22041176,200.0,203.0
+Setophaga tigrina_Cape May Warbler,0.11940837,201.0,204.0
+Setophaga tigrina_Cape May Warbler,0.24719375,202.0,205.0
+Sicalis flaveola_Saffron Finch,0.1895135,202.0,205.0
+Setophaga tigrina_Cape May Warbler,0.20484748,203.0,206.0
+Sicalis flaveola_Saffron Finch,0.111481674,206.0,209.0
+Setophaga tigrina_Cape May Warbler,0.29167232,207.0,210.0
+Sicalis flaveola_Saffron Finch,0.20068124,207.0,210.0
+Setophaga tigrina_Cape May Warbler,0.47228333,208.0,211.0
+Sicalis flaveola_Saffron Finch,0.34794116,208.0,211.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20772709,208.0,211.0
+Seiurus aurocapilla_Ovenbird,0.16318057,208.0,211.0
+Setophaga tigrina_Cape May Warbler,0.58477175,209.0,212.0
+Seiurus aurocapilla_Ovenbird,0.122425,209.0,212.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117655665,209.0,212.0
+Sicalis flaveola_Saffron Finch,0.1117256,209.0,212.0
+Setophaga tigrina_Cape May Warbler,0.4797009,210.0,213.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12872252,210.0,213.0
+Sicalis flaveola_Saffron Finch,0.11344613,210.0,213.0
+Setophaga tigrina_Cape May Warbler,0.32265815,211.0,214.0
+Sicalis flaveola_Saffron Finch,0.20089826,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1053643,211.0,214.0
+Setophaga tigrina_Cape May Warbler,0.1943975,212.0,215.0
+Sicalis flaveola_Saffron Finch,0.66287065,213.0,216.0
+Setophaga tigrina_Cape May Warbler,0.3764468,213.0,216.0
+Sicalis flaveola_Saffron Finch,0.76130927,214.0,217.0
+Setophaga tigrina_Cape May Warbler,0.2424304,214.0,217.0
+Setophaga tigrina_Cape May Warbler,0.17551167,215.0,218.0
+Sicalis flaveola_Saffron Finch,0.8763216,216.0,219.0
+Setophaga tigrina_Cape May Warbler,0.25533628,216.0,219.0
+Setophaga tigrina_Cape May Warbler,0.3104191,217.0,220.0
+Sicalis flaveola_Saffron Finch,0.18227787,217.0,220.0
+Sicalis flaveola_Saffron Finch,0.52011436,218.0,221.0
+Setophaga tigrina_Cape May Warbler,0.12862673,218.0,221.0
+Sicalis flaveola_Saffron Finch,0.31619433,219.0,222.0
+Setophaga tigrina_Cape May Warbler,0.1702885,219.0,222.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10264159,219.0,222.0
+Sicalis flaveola_Saffron Finch,0.63380057,220.0,223.0
+Setophaga tigrina_Cape May Warbler,0.20420453,220.0,223.0
+Sicalis flaveola_Saffron Finch,0.74026716,221.0,224.0
+Setophaga tigrina_Cape May Warbler,0.2012111,221.0,224.0
+Sicalis flaveola_Saffron Finch,0.33474416,222.0,225.0
+Setophaga tigrina_Cape May Warbler,0.12972265,222.0,225.0
+Sicalis flaveola_Saffron Finch,0.18493311,223.0,226.0
+Setophaga tigrina_Cape May Warbler,0.15477686,223.0,226.0
+Setophaga tigrina_Cape May Warbler,0.29757082,225.0,228.0
+Sicalis flaveola_Saffron Finch,0.12197556,226.0,229.0
+Sicalis flaveola_Saffron Finch,0.21822093,227.0,230.0
+Setophaga tigrina_Cape May Warbler,0.17698655,227.0,230.0
+Empidonax virescens_Acadian Flycatcher,0.38984862,228.0,231.0
+Empidonax virescens_Acadian Flycatcher,0.29590806,229.0,232.0
+Seiurus aurocapilla_Ovenbird,0.41490856,230.0,233.0
+Seiurus aurocapilla_Ovenbird,0.30906996,231.0,234.0
+Seiurus aurocapilla_Ovenbird,0.11147315,252.0,255.0
+Seiurus aurocapilla_Ovenbird,0.10506063,253.0,256.0
+Seiurus aurocapilla_Ovenbird,0.111424275,254.0,257.0
+Seiurus aurocapilla_Ovenbird,0.23275398,255.0,258.0
+Atlanticus testaceus_Protean Shieldback,0.13010967,274.0,277.0
+Seiurus aurocapilla_Ovenbird,0.11209751,276.0,279.0
+Pterophylla camellifolia_Common True Katydid,0.11537831,285.0,288.0
+Pterophylla camellifolia_Common True Katydid,0.16014247,286.0,289.0
+Amblycorypha alexanderi_Clicker Round-winged Katydid,0.13531525,295.0,298.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.104534484,295.0,298.0
+Pterophylla camellifolia_Common True Katydid,0.12751558,297.0,300.0
+Brachyramphus marmoratus_Marbled Murrelet,0.10705332,298.0,301.0
+Myiothlypis leucophrys_White-striped Warbler,0.7539788,300.0,303.0
+Sicalis flaveola_Saffron Finch,0.39076486,300.0,303.0
+Sicalis flaveola_Saffron Finch,0.8706164,301.0,304.0
+Myiothlypis leucophrys_White-striped Warbler,0.27081895,301.0,304.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10037538,301.0,304.0
+Myiothlypis leucophrys_White-striped Warbler,0.62039346,302.0,305.0
+Sicalis flaveola_Saffron Finch,0.59719074,302.0,305.0
+Passerina cyanea_Indigo Bunting,0.50035596,304.0,307.0
+Passerina cyanea_Indigo Bunting,0.44694054,305.0,308.0
+Passerina cyanea_Indigo Bunting,0.250473,306.0,309.0
+Passerina cyanea_Indigo Bunting,0.5803201,308.0,311.0
+Passerina cyanea_Indigo Bunting,0.5038685,309.0,312.0
+Myiothlypis leucophrys_White-striped Warbler,0.22847085,310.0,313.0
+Sicalis flaveola_Saffron Finch,0.106655404,310.0,313.0
+Myiothlypis leucophrys_White-striped Warbler,0.27488005,311.0,314.0
+Sicalis flaveola_Saffron Finch,0.22013538,311.0,314.0
+Myiothlypis leucophrys_White-striped Warbler,0.21587938,312.0,315.0
+Passerina cyanea_Indigo Bunting,0.12165677,313.0,316.0
+Passerina cyanea_Indigo Bunting,0.9119182,314.0,317.0
+Passerina cyanea_Indigo Bunting,0.9000579,315.0,318.0
+Passerina amoena_Lazuli Bunting,0.10470101,315.0,318.0
+Coccothraustes coccothraustes_Hawfinch,0.2424623,316.0,319.0
+Passerina cyanea_Indigo Bunting,0.19226395,316.0,319.0
+Coccothraustes coccothraustes_Hawfinch,0.7187365,317.0,320.0
+Sicalis flaveola_Saffron Finch,0.30812308,318.0,321.0
+Tolmomyias sulphurescens_Yellow-olive Flycatcher,0.16824217,318.0,321.0
+Myiothlypis leucophrys_White-striped Warbler,0.15922225,318.0,321.0
+Sicalis flaveola_Saffron Finch,0.54251176,319.0,322.0
+Myiothlypis leucophrys_White-striped Warbler,0.5226517,319.0,322.0
+Myiothlypis leucophrys_White-striped Warbler,0.42010146,320.0,323.0
+Myiothlypis leucophrys_White-striped Warbler,0.40177318,321.0,324.0
+Cinnyris chalybeus_Southern Double-collared Sunbird,0.34918702,321.0,324.0
+Sicalis flaveola_Saffron Finch,0.12337901,321.0,324.0
+Tolmomyias sulphurescens_Yellow-olive Flycatcher,0.108046554,321.0,324.0
+Sicalis flaveola_Saffron Finch,0.8757835,322.0,325.0
+Myiothlypis leucophrys_White-striped Warbler,0.5997076,322.0,325.0
+Passerina cyanea_Indigo Bunting,0.30545196,323.0,326.0
+Passerina cyanea_Indigo Bunting,0.31183875,324.0,327.0
+Coccothraustes coccothraustes_Hawfinch,0.18784185,324.0,327.0
+Coccothraustes coccothraustes_Hawfinch,0.611425,325.0,328.0
+Coccothraustes coccothraustes_Hawfinch,0.5862602,326.0,329.0
+Passerina cyanea_Indigo Bunting,0.85928005,327.0,330.0
+Passerina cyanea_Indigo Bunting,0.97986645,328.0,331.0
+Passerina cyanea_Indigo Bunting,0.50813884,329.0,332.0
+Piranga erythrocephala_Red-headed Tanager,0.18428405,329.0,332.0
+Passerina cyanea_Indigo Bunting,0.40162888,330.0,333.0
+Coccothraustes coccothraustes_Hawfinch,0.10845281,330.0,333.0
+Passerina cyanea_Indigo Bunting,0.8367643,331.0,334.0
+Passerina cyanea_Indigo Bunting,0.54049844,332.0,335.0
+Coccothraustes coccothraustes_Hawfinch,0.109695084,332.0,335.0
+Passerina cyanea_Indigo Bunting,0.26720995,333.0,336.0
+Passerina cyanea_Indigo Bunting,0.3237209,334.0,337.0
+Passerina cyanea_Indigo Bunting,0.78872234,335.0,338.0
+Passerina cyanea_Indigo Bunting,0.75489634,336.0,339.0
+Passerina cyanea_Indigo Bunting,0.95966583,337.0,340.0
+Passerina cyanea_Indigo Bunting,0.9714423,338.0,341.0
+Passerina cyanea_Indigo Bunting,0.97231674,339.0,342.0
+Passerina cyanea_Indigo Bunting,0.67966986,340.0,343.0
+Passerina cyanea_Indigo Bunting,0.12486242,342.0,345.0
+Passerina cyanea_Indigo Bunting,0.4686898,343.0,346.0
+Passerina cyanea_Indigo Bunting,0.8530663,344.0,347.0
+Passerina amoena_Lazuli Bunting,0.13662003,344.0,347.0
+Passerina cyanea_Indigo Bunting,0.97624546,345.0,348.0
+Passerina cyanea_Indigo Bunting,0.61720586,346.0,349.0
+Passerina cyanea_Indigo Bunting,0.2087691,347.0,350.0
+Piranga erythrocephala_Red-headed Tanager,0.14282843,347.0,350.0
+Passerina cyanea_Indigo Bunting,0.94012,348.0,351.0
+Passerina cyanea_Indigo Bunting,0.9819447,349.0,352.0
+Passerina amoena_Lazuli Bunting,0.14233829,349.0,352.0
+Passerina cyanea_Indigo Bunting,0.92334026,350.0,353.0
+Passerina cyanea_Indigo Bunting,0.44009432,351.0,354.0
+Piranga erythrocephala_Red-headed Tanager,0.15664619,351.0,354.0
+Passerina cyanea_Indigo Bunting,0.19232102,352.0,355.0
+Piranga erythrocephala_Red-headed Tanager,0.15611508,352.0,355.0
+Passerina cyanea_Indigo Bunting,0.84016925,353.0,356.0
+Passerina cyanea_Indigo Bunting,0.90932906,354.0,357.0
+Passerina cyanea_Indigo Bunting,0.8526568,355.0,358.0
+Passerina cyanea_Indigo Bunting,0.18423487,356.0,359.0
+Passerina cyanea_Indigo Bunting,0.95986974,357.0,360.0
+Passerina cyanea_Indigo Bunting,0.9596593,358.0,361.0
+Passerina cyanea_Indigo Bunting,0.94008183,359.0,362.0
+Passerina cyanea_Indigo Bunting,0.581765,360.0,363.0
+Passerina cyanea_Indigo Bunting,0.7364939,361.0,364.0
+Passerina cyanea_Indigo Bunting,0.95913994,362.0,365.0
+Passerina cyanea_Indigo Bunting,0.92955077,363.0,366.0
+Passerina cyanea_Indigo Bunting,0.968387,364.0,367.0
+Passerina cyanea_Indigo Bunting,0.9785493,365.0,368.0
+Passerina amoena_Lazuli Bunting,0.10529537,365.0,368.0
+Passerina cyanea_Indigo Bunting,0.9837136,366.0,369.0
+Passerina cyanea_Indigo Bunting,0.96913797,367.0,370.0
+Passerina cyanea_Indigo Bunting,0.348819,368.0,371.0
+Passerina cyanea_Indigo Bunting,0.2409011,369.0,372.0
+Passerina cyanea_Indigo Bunting,0.88038903,370.0,373.0
+Passerina cyanea_Indigo Bunting,0.9387855,371.0,374.0
+Passerina cyanea_Indigo Bunting,0.9105226,372.0,375.0
+Passerina cyanea_Indigo Bunting,0.9868771,373.0,376.0
+Passerina cyanea_Indigo Bunting,0.9831924,374.0,377.0
+Passerina cyanea_Indigo Bunting,0.9103805,375.0,378.0
+Passerina cyanea_Indigo Bunting,0.33646604,376.0,379.0
+Passerina cyanea_Indigo Bunting,0.39414105,377.0,380.0
+Passerina cyanea_Indigo Bunting,0.97502655,378.0,381.0
+Passerina cyanea_Indigo Bunting,0.9605296,379.0,382.0
+Passerina cyanea_Indigo Bunting,0.9008766,380.0,383.0
+Passerina cyanea_Indigo Bunting,0.9233554,381.0,384.0
+Passerina cyanea_Indigo Bunting,0.9262787,382.0,385.0
+Passerina cyanea_Indigo Bunting,0.6520935,383.0,386.0
+Passerina cyanea_Indigo Bunting,0.7475916,384.0,387.0
+Passerina cyanea_Indigo Bunting,0.6397099,385.0,388.0
+Passerina cyanea_Indigo Bunting,0.9772949,386.0,389.0
+Passerina cyanea_Indigo Bunting,0.98589325,387.0,390.0
+Passerina cyanea_Indigo Bunting,0.94414216,388.0,391.0
+Passerina cyanea_Indigo Bunting,0.644551,389.0,392.0
+Passerina cyanea_Indigo Bunting,0.93129253,390.0,393.0
+Passerina cyanea_Indigo Bunting,0.9384825,391.0,394.0
+Passerina cyanea_Indigo Bunting,0.97140276,392.0,395.0
+Passerina cyanea_Indigo Bunting,0.80743235,393.0,396.0
+Coccothraustes coccothraustes_Hawfinch,0.27699384,393.0,396.0
+Passerina cyanea_Indigo Bunting,0.9828752,394.0,397.0
+Passerina cyanea_Indigo Bunting,0.97056556,395.0,398.0
+Passerina cyanea_Indigo Bunting,0.9760503,396.0,399.0
+Passerina cyanea_Indigo Bunting,0.9638879,397.0,400.0
+Passerina cyanea_Indigo Bunting,0.95389825,398.0,401.0
+Passerina cyanea_Indigo Bunting,0.95630467,399.0,402.0
+Passerina cyanea_Indigo Bunting,0.7278594,400.0,403.0
+Passerina cyanea_Indigo Bunting,0.52226985,401.0,404.0
+Passerina cyanea_Indigo Bunting,0.9314255,402.0,405.0
+Passerina cyanea_Indigo Bunting,0.9814866,403.0,406.0
+Passerina cyanea_Indigo Bunting,0.9514227,404.0,407.0
+Passerina cyanea_Indigo Bunting,0.96660644,405.0,408.0
+Passerina cyanea_Indigo Bunting,0.82483864,406.0,409.0
+Passerina cyanea_Indigo Bunting,0.93206805,407.0,410.0
+Passerina cyanea_Indigo Bunting,0.94305116,408.0,411.0
+Passerina cyanea_Indigo Bunting,0.95693564,409.0,412.0
+Passerina cyanea_Indigo Bunting,0.79296494,410.0,413.0
+Passerina cyanea_Indigo Bunting,0.6926695,411.0,414.0
+Passerina cyanea_Indigo Bunting,0.31389052,412.0,415.0
+Passerina cyanea_Indigo Bunting,0.13771522,413.0,416.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12885833,415.0,418.0
+Passerina cyanea_Indigo Bunting,0.3178557,422.0,425.0
+Seiurus aurocapilla_Ovenbird,0.12827088,431.0,434.0
+Seiurus aurocapilla_Ovenbird,0.15391731,432.0,435.0
+Seiurus aurocapilla_Ovenbird,0.18205878,434.0,437.0
+Piranga olivacea_Scarlet Tanager,0.16039158,445.0,448.0
+Seiurus aurocapilla_Ovenbird,0.119629495,447.0,450.0
+Seiurus aurocapilla_Ovenbird,0.11999925,448.0,451.0
+Passerina cyanea_Indigo Bunting,0.13191327,451.0,454.0
+Passerina cyanea_Indigo Bunting,0.21982569,452.0,455.0
+Passerina cyanea_Indigo Bunting,0.11635961,453.0,456.0
+Piranga olivacea_Scarlet Tanager,0.10745723,454.0,457.0
+Geothlypis philadelphia_Mourning Warbler,0.13202813,455.0,458.0
+Piranga olivacea_Scarlet Tanager,0.1695326,459.0,462.0
+Passerina cyanea_Indigo Bunting,0.10181207,461.0,464.0
+Passerina cyanea_Indigo Bunting,0.8777245,462.0,465.0
+Passerina amoena_Lazuli Bunting,0.15685011,462.0,465.0
+Passerina cyanea_Indigo Bunting,0.85575426,463.0,466.0
+Passerina cyanea_Indigo Bunting,0.94148713,464.0,467.0
+Passerina cyanea_Indigo Bunting,0.75804776,465.0,468.0
+Passerina amoena_Lazuli Bunting,0.20840186,465.0,468.0
+Passerina cyanea_Indigo Bunting,0.45190394,466.0,469.0
+Neothraupis fasciata_White-banded Tanager,0.10937454,466.0,469.0
+Neothraupis fasciata_White-banded Tanager,0.47395113,467.0,470.0
+Passerina cyanea_Indigo Bunting,0.398959,467.0,470.0
+Passerina cyanea_Indigo Bunting,0.58542615,468.0,471.0
+Passerina cyanea_Indigo Bunting,0.9080982,469.0,472.0
+Passerina cyanea_Indigo Bunting,0.8844462,470.0,473.0
+Passerina cyanea_Indigo Bunting,0.93839055,471.0,474.0
+Passerina cyanea_Indigo Bunting,0.8766853,472.0,475.0
+Passerina cyanea_Indigo Bunting,0.71068347,473.0,476.0
+Passerina cyanea_Indigo Bunting,0.33513093,474.0,477.0
+Piranga olivacea_Scarlet Tanager,0.18308592,480.0,483.0
+Piranga olivacea_Scarlet Tanager,0.3311215,481.0,484.0
+Piranga olivacea_Scarlet Tanager,0.3578279,482.0,485.0
+Piranga olivacea_Scarlet Tanager,0.26408276,483.0,486.0
+Passerina cyanea_Indigo Bunting,0.12028662,484.0,487.0
+Passerina cyanea_Indigo Bunting,0.10612923,485.0,488.0
+Piranga olivacea_Scarlet Tanager,0.5773756,491.0,494.0
+Piranga olivacea_Scarlet Tanager,0.330393,492.0,495.0
+Piranga olivacea_Scarlet Tanager,0.5120063,493.0,496.0
+Piranga olivacea_Scarlet Tanager,0.47633964,494.0,497.0
+Passerina cyanea_Indigo Bunting,0.4116827,498.0,501.0
+Passerina cyanea_Indigo Bunting,0.14049965,499.0,502.0
+Passerina cyanea_Indigo Bunting,0.14714982,500.0,503.0
+Passerina cyanea_Indigo Bunting,0.28378224,502.0,505.0
+Piranga olivacea_Scarlet Tanager,0.3877522,505.0,508.0
+Piranga olivacea_Scarlet Tanager,0.12105487,506.0,509.0
+Piranga olivacea_Scarlet Tanager,0.3758368,507.0,510.0
+Piranga erythrocephala_Red-headed Tanager,0.22507094,510.0,513.0
+Passerina cyanea_Indigo Bunting,0.14448966,510.0,513.0
+Passerina cyanea_Indigo Bunting,0.23902743,511.0,514.0
+Piranga erythrocephala_Red-headed Tanager,0.19404696,511.0,514.0
+Piranga olivacea_Scarlet Tanager,0.13375632,517.0,520.0
+Seiurus aurocapilla_Ovenbird,0.11816152,518.0,521.0
+Seiurus aurocapilla_Ovenbird,0.10630739,519.0,522.0
+Piranga olivacea_Scarlet Tanager,0.13932948,529.0,532.0
+Piranga olivacea_Scarlet Tanager,0.40100026,530.0,533.0
+Gryllus rubens_Southeastern Field Cricket,0.11628853,532.0,535.0
+Gryllus rubens_Southeastern Field Cricket,0.102285706,533.0,536.0

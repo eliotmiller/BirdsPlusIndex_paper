@@ -1,0 +1,50 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.27610996,0.0,3.0
+Sturnus vulgaris_European Starling,0.25320476,1.0,4.0
+Passerculus sandwichensis_Savannah Sparrow,0.11703131,3.0,6.0
+Passerculus sandwichensis_Savannah Sparrow,0.23145857,4.0,7.0
+Porzana carolina_Sora,0.10133498,4.0,7.0
+Sturnus unicolor_Spotless Starling,0.12730798,5.0,8.0
+Sturnus vulgaris_European Starling,0.115642466,5.0,8.0
+Porzana carolina_Sora,0.1113514,5.0,8.0
+Crotophaga ani_Smooth-billed Ani,0.116260245,6.0,9.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.124348596,7.0,10.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11109875,8.0,11.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.22380863,9.0,12.0
+Turdus migratorius_American Robin,0.20429265,11.0,14.0
+Turdus migratorius_American Robin,0.3597955,12.0,15.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16032363,12.0,15.0
+Passerculus sandwichensis_Savannah Sparrow,0.13934413,15.0,18.0
+Passerculus sandwichensis_Savannah Sparrow,0.38010374,16.0,19.0
+Passerculus sandwichensis_Savannah Sparrow,0.1998517,17.0,20.0
+Ixobrychus exilis_Least Bittern,0.114206,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.33511913,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.22577153,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.34447277,24.0,27.0
+Turdus migratorius_American Robin,0.11150511,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.25807872,25.0,28.0
+Passerculus sandwichensis_Savannah Sparrow,0.13549185,26.0,29.0
+Spiza americana_Dickcissel,0.122682855,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10012918,26.0,29.0
+Passerculus sandwichensis_Savannah Sparrow,0.3886088,27.0,30.0
+Passerculus sandwichensis_Savannah Sparrow,0.10661314,28.0,31.0
+Ixobrychus exilis_Least Bittern,0.14454137,30.0,33.0
+Turdus migratorius_American Robin,0.27798435,31.0,34.0
+Turdus migratorius_American Robin,0.4155817,32.0,35.0
+Turdus migratorius_American Robin,0.43135884,33.0,36.0
+Turdus ignobilis_Black-billed Thrush,0.1038615,33.0,36.0
+Turdus migratorius_American Robin,0.34346253,34.0,37.0
+Passerculus sandwichensis_Savannah Sparrow,0.12638316,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.2385667,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.9515796,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.9500273,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.98456,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.9485449,41.0,44.0
+Hirundo rustica_Barn Swallow,0.62818736,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.20706359,42.0,45.0
+Turdus migratorius_American Robin,0.21315861,43.0,46.0
+Turdus migratorius_American Robin,0.24301997,44.0,47.0
+Molothrus ater_Brown-headed Cowbird,0.12716907,44.0,47.0
+Dumetella carolinensis_Gray Catbird,0.21780193,45.0,48.0
+Turdus migratorius_American Robin,0.18887335,45.0,48.0
+Turdus ignobilis_Black-billed Thrush,0.16272314,45.0,48.0
