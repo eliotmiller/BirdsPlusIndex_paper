@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.49341086,0.0,3.0
+Pandion haliaetus_Osprey,0.2808132,0.0,3.0
+Buteo platypterus_Broad-winged Hawk,0.14899929,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.27294546,4.0,7.0
+Catharus fuscescens_Veery,0.13331515,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.94604325,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.94963217,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.90348715,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.3279347,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13375904,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.6063302,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18540037,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.15337951,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.6785344,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17302027,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.10351529,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.77812934,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12878321,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.10831186,12.0,15.0
+Certhia americana_Brown Creeper,0.46116135,13.0,16.0
+Certhia americana_Brown Creeper,0.9273757,14.0,17.0
+Certhia americana_Brown Creeper,0.8826187,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.103334196,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.4789337,16.0,19.0
+Certhia americana_Brown Creeper,0.18654373,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11564591,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.8448684,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16017954,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.11171164,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.8303807,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1543542,18.0,21.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16557457,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.10914699,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19986877,20.0,23.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10695588,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17763342,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.107485406,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.49072856,23.0,26.0
+Catharus fuscescens_Veery,0.27846354,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.9433845,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.9361213,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.8223476,26.0,29.0
+Certhia americana_Brown Creeper,0.16397509,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.7057419,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12960967,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18135218,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.3449785,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.69140977,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11123235,39.0,42.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.35534763,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.21101399,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.11006868,41.0,44.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5596667,42.0,45.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.4611,43.0,46.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.2330183,43.0,46.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5956591,44.0,47.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.48195994,45.0,48.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.45447752,46.0,49.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.27415332,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.37347525,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10045942,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.7005506,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13082413,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.10615856,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.8867203,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.821304,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.60699105,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16584569,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13488092,53.0,56.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13198403,53.0,56.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11185823,53.0,56.0

@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.17705919,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13624395,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.12940302,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.9721296,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.93736786,2.0,5.0
+Setophaga ruticilla_American Redstart,0.104960606,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.97164506,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.15071371,4.0,7.0
+Bonasa umbellus_Ruffed Grouse,0.11204155,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.111070916,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11832056,6.0,9.0
+Bonasa umbellus_Ruffed Grouse,0.10205622,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.12681617,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.22467645,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.29040912,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.3832389,14.0,17.0
+Cardellina rubrifrons_Red-faced Warbler,0.18209158,14.0,17.0
+Setophaga magnolia_Magnolia Warbler,0.9078475,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.9215317,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.82469666,17.0,20.0
+Cardellina canadensis_Canada Warbler,0.10074286,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14908274,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.12189447,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.11348019,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.17098379,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11276969,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.8875319,21.0,24.0
+Cardellina canadensis_Canada Warbler,0.17755714,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.93881094,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.8780828,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.1939494,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15666625,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13706295,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117477305,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.5739079,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.15800034,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.6730725,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.21386617,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.20826027,28.0,31.0
+Catharus guttatus_Hermit Thrush,0.19955015,28.0,31.0
+Catharus guttatus_Hermit Thrush,0.13026474,29.0,32.0
+Strix uralensis_Ural Owl,0.15370886,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15280734,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.12764025,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.107525714,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.27503672,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22031921,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.16059631,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.13591175,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.13063732,33.0,36.0
+Setophaga magnolia_Magnolia Warbler,0.9216573,34.0,37.0
+Setophaga ruticilla_American Redstart,0.21999659,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.96287537,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.9483709,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.18848044,37.0,40.0
+Strix uralensis_Ural Owl,0.5725826,38.0,41.0
+Xiphidiopicus percussus_Cuban Green Woodpecker,0.2149523,38.0,41.0
+Xiphidiopicus percussus_Cuban Green Woodpecker,0.43733734,39.0,42.0
+Strix uralensis_Ural Owl,0.20297047,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10553683,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.6487343,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2065279,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.21122502,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11544832,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.21191539,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13235152,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.22872365,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1070319,45.0,48.0
+Setophaga magnolia_Magnolia Warbler,0.9668533,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.9729153,48.0,51.0
+Setophaga magnolia_Magnolia Warbler,0.90228134,49.0,52.0
+Tamias striatus_Eastern Chipmunk,0.16172008,50.0,53.0
+Tamias striatus_Eastern Chipmunk,0.12199128,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.17311601,57.0,59.95201814058957

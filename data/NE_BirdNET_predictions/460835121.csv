@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Vireo flavifrons_Yellow-throated Vireo,0.19926082,0.0,3.0
+Pinicola enucleator_Pine Grosbeak,0.11540647,0.0,3.0
+Haemorhous purpureus_Purple Finch,0.10489341,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.72535765,1.0,4.0
+Setophaga pinus_Pine Warbler,0.26676723,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.992806,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.9934936,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7393962,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.5970536,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.39842737,5.0,8.0
+Vireo plumbeus_Plumbeous Vireo,0.10916609,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.8708268,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.67658156,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.9764406,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.95079106,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.19080201,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.98409504,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.992961,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.98856467,16.0,19.0
+Columba livia_Rock Pigeon,0.373726,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.15355323,18.0,21.0
+Vireo flavifrons_Yellow-throated Vireo,0.50569236,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.66217315,20.0,23.0
+Human vocal_Human vocal,0.10349254,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.26312494,21.0,24.0
+Bubo virginianus_Great Horned Owl,0.1971103,21.0,24.0
+Human vocal_Human vocal,0.1775154,21.0,24.0
+Human vocal_Human vocal,0.15572496,22.0,25.0
+Bubo virginianus_Great Horned Owl,0.1470127,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10563163,24.0,27.0
+Vireo flavifrons_Yellow-throated Vireo,0.4292333,25.0,28.0
+Vireo flavifrons_Yellow-throated Vireo,0.34923807,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.29623556,27.0,30.0
+Myiarchus crinitus_Great Crested Flycatcher,0.12749225,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.58275694,28.0,31.0
+Vireo flavifrons_Yellow-throated Vireo,0.41142902,29.0,32.0
+Myiarchus crinitus_Great Crested Flycatcher,0.24376957,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.19076201,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.10737414,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.1181386,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.10152544,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.19975652,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.17392428,32.0,35.0

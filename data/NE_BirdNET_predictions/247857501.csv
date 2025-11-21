@@ -1,0 +1,206 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.6951943,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.38041347,0.0,3.0
+Catharus fuscescens_Veery,0.43732977,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.107881874,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.10348871,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.18954703,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.17303,2.0,5.0
+Catharus dryas_Yellow-throated Nightingale-Thrush,0.11604874,2.0,5.0
+Catharus fuscescens_Veery,0.89214677,5.0,8.0
+Catharus fuscescens_Veery,0.9662712,6.0,9.0
+Catharus fuscescens_Veery,0.9414697,7.0,10.0
+Catharus fuscescens_Veery,0.47144237,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.23800519,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.15320969,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.14762574,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.10367263,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.10976349,10.0,13.0
+Cardellina canadensis_Canada Warbler,0.104639225,10.0,13.0
+Catharus fuscescens_Veery,0.5514888,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.20191605,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.16418855,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.33510715,13.0,16.0
+Catharus fuscescens_Veery,0.14079368,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.13924436,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.27243745,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.11503841,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25549626,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10373138,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.349491,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22110288,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.1090811,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.7522249,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.40712836,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.39665502,18.0,21.0
+Catharus fuscescens_Veery,0.7056416,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.29316294,19.0,22.0
+Catharus fuscescens_Veery,0.29957223,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.13055864,20.0,23.0
+Catharus fuscescens_Veery,0.9013046,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.84790534,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.78668994,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.42244396,25.0,28.0
+Catharus fuscescens_Veery,0.18138283,25.0,28.0
+Catharus fuscescens_Veery,0.92176795,26.0,29.0
+Catharus fuscescens_Veery,0.814836,27.0,30.0
+Catharus fuscescens_Veery,0.7576511,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.5239301,31.0,34.0
+Catharus fuscescens_Veery,0.15731381,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.12940846,31.0,34.0
+Catharus ustulatus_Swainson's Thrush,0.121971704,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.2930672,32.0,35.0
+Catharus fuscescens_Veery,0.26808983,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.12393751,32.0,35.0
+Catharus fuscescens_Veery,0.20152642,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.16337603,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.72354853,34.0,37.0
+Catharus fuscescens_Veery,0.18227449,34.0,37.0
+Myadestes unicolor_Slate-colored Solitaire,0.12587133,35.0,38.0
+Catharus fuscescens_Veery,0.90297586,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.16515096,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.6838427,38.0,41.0
+Catharus fuscescens_Veery,0.38701296,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.15593836,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.6413669,39.0,42.0
+Catharus fuscescens_Veery,0.32898363,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.16170213,39.0,42.0
+Catharus fuscescens_Veery,0.6021883,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.51234734,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.31009415,40.0,43.0
+Catharus fuscescens_Veery,0.74496424,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.13897845,41.0,44.0
+Catharus fuscescens_Veery,0.7397687,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.30672026,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.81240845,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.80150944,44.0,47.0
+Myadestes ralloides_Andean Solitaire,0.23862666,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.92960346,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.4078872,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.12395699,46.0,49.0
+Catharus fuscescens_Veery,0.104122154,46.0,49.0
+Catharus fuscescens_Veery,0.9120088,47.0,50.0
+Catharus fuscescens_Veery,0.6052475,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.17678306,48.0,51.0
+Catharus fuscescens_Veery,0.63737965,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.62249905,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.46446475,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.6963156,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.23570047,50.0,53.0
+Catharus fuscescens_Veery,0.19021417,50.0,53.0
+Catharus fuscescens_Veery,0.32730252,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.3150114,51.0,54.0
+Hylocichla mustelina_Wood Thrush,0.2859582,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.57380533,52.0,55.0
+Catharus fuscescens_Veery,0.8513565,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.74698347,54.0,57.0
+Catharus fuscescens_Veery,0.58536947,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.18497872,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.8669703,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.23724861,55.0,58.0
+Catharus fuscescens_Veery,0.10211809,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.5728602,56.0,59.0
+Catharus fuscescens_Veery,0.25536963,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.20897068,56.0,59.0
+Catharus fuscescens_Veery,0.3051145,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.2699929,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.21856616,57.0,60.0
+Catharus fuscescens_Veery,0.76619405,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.33091518,58.0,61.0
+Catharus fuscescens_Veery,0.92271024,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.30647665,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.5972258,60.0,63.0
+Catharus fuscescens_Veery,0.19504261,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.15223703,60.0,63.0
+Catharus fuscescens_Veery,0.5004498,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.46312115,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.16472855,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.70918506,62.0,65.0
+Catharus fuscescens_Veery,0.9157651,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.16350068,63.0,66.0
+Catharus fuscescens_Veery,0.8572502,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.22232918,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.8575168,65.0,68.0
+Catharus fuscescens_Veery,0.24337232,65.0,68.0
+Piranga olivacea_Scarlet Tanager,0.7045217,66.0,69.0
+Catharus fuscescens_Veery,0.3171565,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.48650545,67.0,70.0
+Catharus fuscescens_Veery,0.39462706,67.0,70.0
+Piranga olivacea_Scarlet Tanager,0.48434812,68.0,71.0
+Catharus fuscescens_Veery,0.2700868,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.22970712,68.0,71.0
+Icterus galbula_Baltimore Oriole,0.20751615,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.14158906,69.0,72.0
+Catharus fuscescens_Veery,0.86871946,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.15524206,70.0,73.0
+Hylocichla mustelina_Wood Thrush,0.63678634,71.0,74.0
+Catharus fuscescens_Veery,0.29973516,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.17546582,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.61631656,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.32892314,72.0,75.0
+Hylocichla mustelina_Wood Thrush,0.47731733,73.0,76.0
+Catharus fuscescens_Veery,0.20081681,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.15934184,73.0,76.0
+Catharus fuscescens_Veery,0.6833042,74.0,77.0
+Catharus fuscescens_Veery,0.66679573,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.18200263,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.44165808,76.0,79.0
+Piranga olivacea_Scarlet Tanager,0.19528936,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.5251026,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11671607,77.0,80.0
+Hylocichla mustelina_Wood Thrush,0.7035962,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10443539,78.0,81.0
+Catharus fuscescens_Veery,0.6687223,79.0,82.0
+Hylocichla mustelina_Wood Thrush,0.56548136,79.0,82.0
+Catharus fuscescens_Veery,0.94897556,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.11277654,80.0,83.0
+Tamias striatus_Eastern Chipmunk,0.12809068,81.0,84.0
+Tamias striatus_Eastern Chipmunk,0.16597249,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.16143177,82.0,85.0
+Tamias striatus_Eastern Chipmunk,0.41860357,83.0,86.0
+Tamias striatus_Eastern Chipmunk,0.5829612,84.0,87.0
+Tamias striatus_Eastern Chipmunk,0.6119998,85.0,88.0
+Tamias striatus_Eastern Chipmunk,0.59486866,86.0,89.0
+Tamias striatus_Eastern Chipmunk,0.14716056,87.0,90.0
+Tamias striatus_Eastern Chipmunk,0.20691502,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.29421204,89.0,92.0
+Catharus fuscescens_Veery,0.88322026,90.0,93.0
+Piranga olivacea_Scarlet Tanager,0.3170034,90.0,93.0
+Catharus fuscescens_Veery,0.946008,91.0,94.0
+Piranga olivacea_Scarlet Tanager,0.19731468,91.0,94.0
+Hylocichla mustelina_Wood Thrush,0.5929208,92.0,95.0
+Piranga olivacea_Scarlet Tanager,0.2899952,92.0,95.0
+Catharus fuscescens_Veery,0.24415348,92.0,95.0
+Catharus fuscescens_Veery,0.5037752,93.0,96.0
+Hylocichla mustelina_Wood Thrush,0.2841434,93.0,96.0
+Piranga olivacea_Scarlet Tanager,0.17547028,93.0,96.0
+Catharus fuscescens_Veery,0.51952136,94.0,97.0
+Piranga olivacea_Scarlet Tanager,0.22423117,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.117862195,94.0,97.0
+Catharus fuscescens_Veery,0.6428386,95.0,98.0
+Piranga olivacea_Scarlet Tanager,0.19582987,95.0,98.0
+Piranga olivacea_Scarlet Tanager,0.84322906,96.0,99.0
+Catharus fuscescens_Veery,0.20567685,96.0,99.0
+Vireo flavifrons_Yellow-throated Vireo,0.10009383,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22493121,97.0,100.0
+Hylocichla mustelina_Wood Thrush,0.695476,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107323565,98.0,101.0
+Hylocichla mustelina_Wood Thrush,0.6649376,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10295593,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.54369175,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.33612734,101.0,104.0
+Hylocichla mustelina_Wood Thrush,0.7129426,102.0,105.0
+Hylocichla mustelina_Wood Thrush,0.45938274,103.0,106.0
+Hylocichla mustelina_Wood Thrush,0.468695,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15529421,105.0,108.0
+Setophaga fusca_Blackburnian Warbler,0.1690777,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11087277,106.0,109.0
+Hylocichla mustelina_Wood Thrush,0.5838698,107.0,110.0
+Hylocichla mustelina_Wood Thrush,0.6424588,108.0,111.0
+Hylocichla mustelina_Wood Thrush,0.6650166,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17447348,109.0,112.0
+Hylocichla mustelina_Wood Thrush,0.4164671,110.0,113.0
+Catharus fuscescens_Veery,0.33340916,111.0,113.11201814058957
+Setophaga caerulescens_Black-throated Blue Warbler,0.16624746,111.0,113.11201814058957
+Vireo flavifrons_Yellow-throated Vireo,0.16524623,111.0,113.11201814058957
+Piranga olivacea_Scarlet Tanager,0.101982154,111.0,113.11201814058957

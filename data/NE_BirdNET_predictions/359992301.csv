@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Cistothorus stellaris_Sedge Wren,0.5604342,0.0,3.0
+Cistothorus platensis_Grass Wren,0.3655091,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.22034352,0.0,3.0
+Setophaga petechia_Yellow Warbler,0.15002431,0.0,3.0
+Cistothorus stellaris_Sedge Wren,0.69417506,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.41871172,1.0,4.0
+Setophaga petechia_Yellow Warbler,0.3615138,1.0,4.0
+Cistothorus platensis_Grass Wren,0.33787876,1.0,4.0
+Cistothorus stellaris_Sedge Wren,0.40004924,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.28460038,2.0,5.0
+Setophaga petechia_Yellow Warbler,0.20543978,2.0,5.0
+Cistothorus platensis_Grass Wren,0.16397904,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.107350096,2.0,5.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.16217715,6.0,9.0
+Melanerpes pucherani_Black-cheeked Woodpecker,0.10738573,6.0,9.0
+Ramphocelus carbo_Silver-beaked Tanager,0.15014948,13.0,16.0
+Lanius senator_Woodchat Shrike,0.11085919,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.1221553,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.13384844,17.0,20.0
+Geothlypis trichas_Common Yellowthroat,0.31337932,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.20317185,22.0,25.0
+Hirundo rustica_Barn Swallow,0.12976207,26.0,29.0
+Chlorophonia elegantissima_Elegant Euphonia,0.100839056,44.0,47.0
+Cistothorus stellaris_Sedge Wren,0.47411227,46.0,49.0
+Cistothorus platensis_Grass Wren,0.15853646,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.11108988,46.0,49.0
+Cistothorus stellaris_Sedge Wren,0.3442442,47.0,50.0
+Setophaga petechia_Yellow Warbler,0.21275513,47.0,50.0
+Cistothorus platensis_Grass Wren,0.15747684,47.0,50.0
+Geothlypis trichas_Common Yellowthroat,0.439189,48.0,51.0
+Setophaga petechia_Yellow Warbler,0.11499993,48.0,51.0
+Cistothorus stellaris_Sedge Wren,0.6602046,49.0,52.0
+Cistothorus platensis_Grass Wren,0.32374606,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.11782443,49.0,52.0
+Cistothorus stellaris_Sedge Wren,0.5682474,50.0,53.0
+Cistothorus platensis_Grass Wren,0.24495241,50.0,53.0
+Cistothorus stellaris_Sedge Wren,0.5613625,51.0,54.0
+Cistothorus platensis_Grass Wren,0.35759833,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.2902698,51.0,54.0
+Chlorophonia elegantissima_Elegant Euphonia,0.19737814,57.0,60.0
+Spinus notatus_Black-headed Siskin,0.12471731,61.0,64.0
+Cistothorus stellaris_Sedge Wren,0.46697083,62.0,65.0
+Cistothorus platensis_Grass Wren,0.3223739,62.0,65.0
+Geothlypis trichas_Common Yellowthroat,0.13553385,62.0,65.0
+Cistothorus stellaris_Sedge Wren,0.49758863,63.0,66.0
+Cistothorus platensis_Grass Wren,0.24128322,63.0,66.0
+Geothlypis trichas_Common Yellowthroat,0.17770377,63.0,66.0
+Cistothorus stellaris_Sedge Wren,0.65497285,64.0,67.0
+Cistothorus platensis_Grass Wren,0.3844351,64.0,67.0
+Geothlypis trichas_Common Yellowthroat,0.19079429,64.0,67.0
+Synallaxis brachyura_Slaty Spinetail,0.19723326,68.0,71.0
+Stilpnia larvata_Golden-hooded Tanager,0.15489055,68.0,71.0
+Stilpnia larvata_Golden-hooded Tanager,0.27319938,69.0,72.0
+Cistothorus stellaris_Sedge Wren,0.16380835,74.0,77.0
+Dolichonyx oryzivorus_Bobolink,0.111126,75.0,78.0
+Icterus spurius_Orchard Oriole,0.10808971,75.0,78.0
+Chamaea fasciata_Wrentit,0.20424148,77.0,80.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13268916,77.0,80.0
+Chamaea fasciata_Wrentit,0.522955,78.0,81.0
+Megaceryle alcyon_Belted Kingfisher,0.14027002,78.0,81.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13304095,79.0,82.0

@@ -1,0 +1,140 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.12372377,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.15611163,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.1269995,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11367031,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1009866,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.1525673,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.10527703,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.13419953,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10567314,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.10327383,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.60074246,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.10339635,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.9969048,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.9987657,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.9979978,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.48355702,9.0,12.0
+Setophaga ruticilla_American Redstart,0.29668304,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.1922479,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.12678462,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.10284531,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.95871854,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.99724674,14.0,17.0
+Setophaga citrina_Hooded Warbler,0.9963756,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.93581635,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.33338442,16.0,19.0
+Protonotaria citrea_Prothonotary Warbler,0.20574489,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.1059398,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.13134095,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.19185993,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.15866572,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.9898108,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.9969073,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.9942789,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.50078803,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.15359648,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.10422103,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.11252143,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.28335536,27.0,30.0
+Cyanocompsa parellina_Blue Bunting,0.15074995,27.0,30.0
+Catharus fuscescens_Veery,0.1218849,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.99362826,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.9965507,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.99003965,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.23171215,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.2651635,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.17727847,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.93175936,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.16636269,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.99262094,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.99754626,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.9889619,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1540806,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.29075423,37.0,40.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17022927,37.0,40.0
+Vireo flavifrons_Yellow-throated Vireo,0.1140189,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.97439426,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.99543947,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.9973437,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.5004841,44.0,47.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21949166,44.0,47.0
+Protonotaria citrea_Prothonotary Warbler,0.16216047,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.11600649,45.0,48.0
+Empidonax virescens_Acadian Flycatcher,0.11885695,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.9697733,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.9968604,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.9895285,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.7791856,50.0,53.0
+Limnothlypis swainsonii_Swainson's Warbler,0.28673407,50.0,53.0
+Protonotaria citrea_Prothonotary Warbler,0.25927624,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.13642569,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.37124193,52.0,55.0
+Catharus fuscescens_Veery,0.11046434,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.23376437,53.0,56.0
+Catharus fuscescens_Veery,0.11053123,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10726041,53.0,56.0
+Setophaga citrina_Hooded Warbler,0.87449515,54.0,57.0
+Setophaga citrina_Hooded Warbler,0.99505734,55.0,58.0
+Setophaga citrina_Hooded Warbler,0.9821578,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.97746354,57.0,60.0
+Limnothlypis swainsonii_Swainson's Warbler,0.157379,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.22495428,58.0,61.0
+Setophaga citrina_Hooded Warbler,0.15530989,58.0,61.0
+Catharus fuscescens_Veery,0.6234047,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.2739837,59.0,62.0
+Empidonax virescens_Acadian Flycatcher,0.128431,59.0,62.0
+Catharus fuscescens_Veery,0.22352931,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.19976571,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1674747,62.0,65.0
+Protonotaria citrea_Prothonotary Warbler,0.12598248,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.12055452,62.0,65.0
+Empidonax virescens_Acadian Flycatcher,0.11375421,62.0,65.0
+Setophaga citrina_Hooded Warbler,0.96750677,63.0,66.0
+Setophaga citrina_Hooded Warbler,0.9954861,64.0,67.0
+Setophaga citrina_Hooded Warbler,0.99798536,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.86663026,66.0,69.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10549807,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.13933241,69.0,72.0
+Piranga olivacea_Scarlet Tanager,0.16424116,70.0,73.0
+Catharus fuscescens_Veery,0.10336097,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.33268967,71.0,74.0
+Geothlypis formosa_Kentucky Warbler,0.14839724,71.0,74.0
+Setophaga cerulea_Cerulean Warbler,0.40645033,72.0,75.0
+Setophaga citrina_Hooded Warbler,0.20035295,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12546656,72.0,75.0
+Geothlypis formosa_Kentucky Warbler,0.100333385,72.0,75.0
+Catharus fuscescens_Veery,0.17955111,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.17334096,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.1278457,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.2557535,74.0,77.0
+Piranga olivacea_Scarlet Tanager,0.11214911,74.0,77.0
+Piranga olivacea_Scarlet Tanager,0.14139977,75.0,78.0
+Empidonax virescens_Acadian Flycatcher,0.10085028,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.50387466,76.0,79.0
+Piranga olivacea_Scarlet Tanager,0.46130306,77.0,80.0
+Piranga olivacea_Scarlet Tanager,0.49577358,78.0,81.0
+Piranga olivacea_Scarlet Tanager,0.5739877,79.0,82.0
+Piranga olivacea_Scarlet Tanager,0.84040856,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.67610043,81.0,84.0
+Catharus fuscescens_Veery,0.19333658,81.0,84.0
+Setophaga citrina_Hooded Warbler,0.36178172,82.0,85.0
+Setophaga citrina_Hooded Warbler,0.72948945,83.0,86.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1187919,83.0,86.0
+Setophaga citrina_Hooded Warbler,0.58232707,84.0,87.0
+Parkesia motacilla_Louisiana Waterthrush,0.24288861,84.0,87.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11957905,84.0,87.0
+Piranga olivacea_Scarlet Tanager,0.6891621,85.0,88.0
+Empidonax virescens_Acadian Flycatcher,0.105934426,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.49159133,86.0,89.0
+Piranga olivacea_Scarlet Tanager,0.6480263,87.0,90.0
+Catharus fuscescens_Veery,0.13283198,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10481831,87.0,90.0
+Piranga olivacea_Scarlet Tanager,0.20150265,88.0,91.0
+Setophaga citrina_Hooded Warbler,0.15823999,88.0,91.0
+Setophaga citrina_Hooded Warbler,0.49092698,89.0,92.0
+Empidonax virescens_Acadian Flycatcher,0.19532864,89.0,92.0
+Piranga olivacea_Scarlet Tanager,0.157173,89.0,92.0
+Setophaga citrina_Hooded Warbler,0.5469696,90.0,93.0
+Empidonax virescens_Acadian Flycatcher,0.10884268,90.0,93.0
+Piranga olivacea_Scarlet Tanager,0.14276579,91.0,93.26403628117914

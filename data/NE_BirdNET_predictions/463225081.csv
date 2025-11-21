@@ -1,0 +1,108 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.74219257,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.88155603,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.7417123,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.40769055,5.0,8.0
+Setophaga pinus_Pine Warbler,0.29557967,6.0,9.0
+Piranga ludoviciana_Western Tanager,0.18072842,8.0,11.0
+Vireo vicinior_Gray Vireo,0.11791674,10.0,13.0
+Troglodytes hiemalis_Winter Wren,0.33124387,15.0,18.0
+Buteo platypterus_Broad-winged Hawk,0.12324319,15.0,18.0
+Troglodytes hiemalis_Winter Wren,0.89825034,17.0,20.0
+Troglodytes hiemalis_Winter Wren,0.28430718,18.0,21.0
+Scolopax rusticola_Eurasian Woodcock,0.10166807,18.0,21.0
+Troglodytes hiemalis_Winter Wren,0.4346953,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.37524238,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1341558,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17339355,36.0,39.0
+Troglodytes hiemalis_Winter Wren,0.30147442,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11766594,51.0,54.0
+Troglodytes hiemalis_Winter Wren,0.16959938,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12460983,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.1245891,53.0,56.0
+Buteo platypterus_Broad-winged Hawk,0.116573386,53.0,56.0
+Catharus fuscescens_Veery,0.32087117,140.0,143.0
+Catharus fuscescens_Veery,0.22411159,141.0,144.0
+Colaptes auratus_Northern Flicker,0.140339,142.0,145.0
+Catharus fuscescens_Veery,0.108653374,142.0,145.0
+Piranga olivacea_Scarlet Tanager,0.24501523,182.0,185.0
+Piranga olivacea_Scarlet Tanager,0.12342475,183.0,186.0
+Piranga olivacea_Scarlet Tanager,0.111013755,195.0,198.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1083472,195.0,198.0
+Hylocichla mustelina_Wood Thrush,0.11681486,198.0,201.0
+Hylocichla mustelina_Wood Thrush,0.111735664,200.0,203.0
+Piranga olivacea_Scarlet Tanager,0.66150194,223.0,226.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13844489,223.0,226.0
+Piranga olivacea_Scarlet Tanager,0.35185295,224.0,227.0
+Setophaga cerulea_Cerulean Warbler,0.15204649,224.0,227.0
+Helmitheros vermivorum_Worm-eating Warbler,0.104896314,224.0,227.0
+Piranga olivacea_Scarlet Tanager,0.2091606,225.0,228.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18990408,225.0,228.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3509492,226.0,229.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14724444,227.0,230.0
+Coccothraustes vespertinus_Evening Grosbeak,0.1737089,228.0,231.0
+Drepanis coccinea_Iiwi,0.11834097,235.0,238.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13163678,238.0,241.0
+Setophaga citrina_Hooded Warbler,0.12588152,239.0,242.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13329476,252.0,255.0
+Hylocichla mustelina_Wood Thrush,0.24991235,253.0,256.0
+Myiarchus crinitus_Great Crested Flycatcher,0.21683982,253.0,256.0
+Cyanocitta cristata_Blue Jay,0.11403138,253.0,256.0
+Engine_Engine,0.15475991,258.0,261.0
+Human non-vocal_Human non-vocal,0.36948785,259.0,262.0
+Human non-vocal_Human non-vocal,0.2952835,260.0,263.0
+Human non-vocal_Human non-vocal,0.30867258,261.0,264.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.19790651,279.0,282.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1951475,280.0,283.0
+Seiurus aurocapilla_Ovenbird,0.24164051,284.0,287.0
+Engine_Engine,0.17742345,285.0,288.0
+Engine_Engine,0.28450674,286.0,289.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12784706,293.0,296.0
+Contopus virens_Eastern Wood-Pewee,0.13878345,294.0,297.0
+Engine_Engine,0.118122846,337.0,340.0
+Engine_Engine,0.12722108,338.0,341.0
+Engine_Engine,0.16165744,342.0,345.0
+Engine_Engine,0.20204662,343.0,346.0
+Engine_Engine,0.16680448,344.0,347.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11493607,344.0,347.0
+Setophaga ruticilla_American Redstart,0.100692794,345.0,348.0
+Engine_Engine,0.20741558,348.0,351.0
+Engine_Engine,0.5005661,349.0,352.0
+Engine_Engine,0.2786051,350.0,353.0
+Engine_Engine,0.21328205,351.0,354.0
+Engine_Engine,0.4649359,352.0,355.0
+Engine_Engine,0.35429007,353.0,356.0
+Engine_Engine,0.15379483,354.0,357.0
+Engine_Engine,0.2925883,356.0,359.0
+Engine_Engine,0.538374,357.0,360.0
+Engine_Engine,0.1517577,358.0,361.0
+Engine_Engine,0.18856439,360.0,363.0
+Engine_Engine,0.10869273,361.0,364.0
+Phaps chalcoptera_Common Bronzewing,0.32304773,366.0,369.0
+Patagioenas fasciata_Band-tailed Pigeon,0.24359271,366.0,369.0
+Phaps chalcoptera_Common Bronzewing,0.28739533,367.0,370.0
+Patagioenas fasciata_Band-tailed Pigeon,0.10260604,367.0,370.0
+Meleagris gallopavo_Wild Turkey,0.11182981,369.0,372.0
+Bonasa umbellus_Ruffed Grouse,0.27042046,370.0,373.0
+Engine_Engine,0.25766373,371.0,374.0
+Engine_Engine,0.26043865,372.0,375.0
+Molothrus ater_Brown-headed Cowbird,0.12067255,373.0,376.0
+Engine_Engine,0.14098938,383.0,386.0
+Engine_Engine,0.11703803,384.0,387.0
+Engine_Engine,0.24794969,385.0,388.0
+Engine_Engine,0.32827747,386.0,389.0
+Engine_Engine,0.15826808,399.0,402.0
+Engine_Engine,0.11300693,400.0,403.0
+Engine_Engine,0.101298824,401.0,404.0
+Engine_Engine,0.16247527,402.0,405.0
+Engine_Engine,0.27661863,403.0,406.0
+Engine_Engine,0.11940319,409.0,412.0
+Sitta canadensis_Red-breasted Nuthatch,0.13971101,427.0,430.0
+Engine_Engine,0.13385834,435.0,438.0
+Engine_Engine,0.121387355,439.0,442.0
+Engine_Engine,0.10095362,453.0,456.0
+Human vocal_Human vocal,0.4454201,454.0,457.0
+Engine_Engine,0.22457998,454.0,457.0
+Human vocal_Human vocal,0.16411306,455.0,458.0
+Engine_Engine,0.10845139,455.0,458.0
+Engine_Engine,0.14262381,457.0,460.0

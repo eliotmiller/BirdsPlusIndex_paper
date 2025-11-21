@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Passerina ciris_Painted Bunting,0.1398955,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.10663484,2.0,5.0
+Passerina ciris_Painted Bunting,0.10163052,2.0,5.0
+Passerina ciris_Painted Bunting,0.25687674,3.0,6.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.11085019,19.0,22.0
+Colinus virginianus_Northern Bobwhite,0.104944095,19.0,22.0
+Colinus virginianus_Northern Bobwhite,0.1340847,20.0,23.0
+Ardea herodias_Great Blue Heron,0.23122959,32.0,35.0
+Ardea herodias_Great Blue Heron,0.41631627,33.0,36.0
+Ardea herodias_Great Blue Heron,0.25115538,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.16286145,37.0,40.0
+Ardea herodias_Great Blue Heron,0.17902318,42.0,45.0
+Ardea herodias_Great Blue Heron,0.13819863,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.31862652,48.0,51.0
+Passerina cyanea_Indigo Bunting,0.689623,49.0,52.0
+Peucaea aestivalis_Bachman's Sparrow,0.1117067,49.0,52.0
+Peucaea aestivalis_Bachman's Sparrow,0.33201218,50.0,53.0
+Passerina cyanea_Indigo Bunting,0.25648892,50.0,53.0
+Peucaea aestivalis_Bachman's Sparrow,0.28355187,51.0,54.0
+Passerina cyanea_Indigo Bunting,0.21855272,51.0,54.0
+Passerina ciris_Painted Bunting,0.17551403,51.0,54.0
+Colinus virginianus_Northern Bobwhite,0.16718398,51.0,54.0
+Spiza americana_Dickcissel,0.10268321,51.0,54.0
+Cardinalis cardinalis_Northern Cardinal,0.12792596,52.0,55.0
+Passerina cyanea_Indigo Bunting,0.30534914,56.0,59.0
+Passerina ciris_Painted Bunting,0.14683267,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.508683,57.0,60.0
+Passerina cyanea_Indigo Bunting,0.51736677,58.0,61.0
+Ardea alba_Great Egret,0.16034353,62.0,65.0
+Centropus milo_Buff-headed Coucal,0.15661113,62.0,65.0
+Ardea herodias_Great Blue Heron,0.12106143,62.0,65.0
+Ardea alba_Great Egret,0.26046368,63.0,66.0
+Centropus milo_Buff-headed Coucal,0.16173282,63.0,66.0
+Ardea alba_Great Egret,0.16501014,64.0,67.0
+Cardinalis cardinalis_Northern Cardinal,0.15661865,65.0,68.0
+Passerina cyanea_Indigo Bunting,0.597764,66.0,69.0
+Passerina ciris_Painted Bunting,0.13157283,66.0,69.0
+Passerina ciris_Painted Bunting,0.15994762,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.12487296,67.0,70.0
+Passerina ciris_Painted Bunting,0.4952445,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.18805653,68.0,71.0
+Colinus virginianus_Northern Bobwhite,0.12047114,68.0,71.0
+Passerina ciris_Painted Bunting,0.16091722,69.0,72.0
+Cardinalis cardinalis_Northern Cardinal,0.11135025,72.0,75.0
+Ardea herodias_Great Blue Heron,0.12636362,74.0,77.0
+Ardea herodias_Great Blue Heron,0.1187653,75.0,78.0
+Cardinalis cardinalis_Northern Cardinal,0.4221986,77.0,80.0
+Passerina ciris_Painted Bunting,0.59793043,78.0,81.0
+Colinus virginianus_Northern Bobwhite,0.11947313,78.0,81.0
+Passerina cyanea_Indigo Bunting,0.10221418,78.0,81.0
+Passerina ciris_Painted Bunting,0.35463312,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.14369646,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.3121334,80.0,83.0
+Passerina ciris_Painted Bunting,0.28730997,80.0,83.0
+Colinus virginianus_Northern Bobwhite,0.12834238,80.0,83.0
+Passerina ciris_Painted Bunting,0.17864601,81.0,84.0
+Cardinalis cardinalis_Northern Cardinal,0.15307714,82.0,85.0
+Cardinalis cardinalis_Northern Cardinal,0.342795,83.0,86.0
+Cardinalis cardinalis_Northern Cardinal,0.30030552,84.0,87.0
+Cardinalis cardinalis_Northern Cardinal,0.30027273,85.0,88.0
+Cardinalis cardinalis_Northern Cardinal,0.10933923,86.0,89.0
+Passerina ciris_Painted Bunting,0.1099094,88.0,91.0
+Passerina ciris_Painted Bunting,0.12098814,89.0,92.0
+Passerina ciris_Painted Bunting,0.17147136,90.0,93.0
+Colinus virginianus_Northern Bobwhite,0.12020094,90.0,93.0
+Cardinalis cardinalis_Northern Cardinal,0.16128525,91.0,94.0
+Passerina ciris_Painted Bunting,0.12201916,91.0,94.0
+Cardinalis cardinalis_Northern Cardinal,0.15286888,93.0,96.0
+Cardinalis cardinalis_Northern Cardinal,0.10027622,95.0,98.0
+Cardinalis cardinalis_Northern Cardinal,0.15172413,96.0,99.0
+Cardinalis cardinalis_Northern Cardinal,0.4647006,97.0,100.0
+Ardea herodias_Great Blue Heron,0.18461615,98.0,101.0
+Corvus corax_Common Raven,0.25242063,99.0,102.0
+Ardea herodias_Great Blue Heron,0.1673157,99.0,102.0
+Corvus corax_Common Raven,0.1630921,100.0,103.0
+Ardea herodias_Great Blue Heron,0.105759144,100.0,103.0
+Cardinalis cardinalis_Northern Cardinal,0.31218073,101.0,104.0
+Passerina cyanea_Indigo Bunting,0.11323825,102.0,105.0
+Passerina cyanea_Indigo Bunting,0.15959431,103.0,106.0
+Passerina cyanea_Indigo Bunting,0.15421338,104.0,107.0
+Colinus virginianus_Northern Bobwhite,0.10381345,104.0,107.0
+Passerina cyanea_Indigo Bunting,0.1017998,105.0,108.0
+Melospiza melodia_Song Sparrow,0.1251924,107.0,110.0
+Melospiza melodia_Song Sparrow,0.11111111,108.0,111.0
+Melospiza melodia_Song Sparrow,0.12308706,118.0,121.0
+Cardinalis cardinalis_Northern Cardinal,0.10056679,118.0,121.0
+Ardea herodias_Great Blue Heron,0.36399567,130.0,133.0
+Ardea herodias_Great Blue Heron,0.24939363,131.0,134.0
+Ardea herodias_Great Blue Heron,0.16243912,132.0,135.0
+Ardea herodias_Great Blue Heron,0.3230511,154.0,157.0
+Ardea purpurea_Purple Heron,0.28378525,154.0,157.0
+Ardea herodias_Great Blue Heron,0.26460624,156.0,159.0

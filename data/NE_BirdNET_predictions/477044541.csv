@@ -1,0 +1,25 @@
+species,score,start_time,end_time
+Turdus migratorius_American Robin,0.47131148,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.46064737,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.14103417,0.0,3.0
+Muscicapa griseisticta_Gray-streaked Flycatcher,0.10893959,0.0,3.0
+Muscicapa griseisticta_Gray-streaked Flycatcher,0.5619734,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.480546,1.0,4.0
+Turdus migratorius_American Robin,0.19923118,1.0,4.0
+Engine_Engine,0.10154333,2.0,5.0
+Engine_Engine,0.21509139,3.0,6.0
+Engine_Engine,0.2549082,4.0,7.0
+Engine_Engine,0.3818884,5.0,8.0
+Engine_Engine,0.40092814,6.0,9.0
+Engine_Engine,0.5374403,7.0,10.0
+Engine_Engine,0.70887,8.0,11.0
+Engine_Engine,0.7086456,9.0,12.0
+Tyrannus tyrannus_Eastern Kingbird,0.20355375,10.0,13.0
+Engine_Engine,0.105536774,10.0,13.0
+Engine_Engine,0.2820336,11.0,14.0
+Anthus trivialis_Tree Pipit,0.3613842,12.0,15.0
+Tyrannus tyrannus_Eastern Kingbird,0.13792183,12.0,15.0
+Engine_Engine,0.39850566,13.0,16.0
+Certhia americana_Brown Creeper,0.2667834,13.0,16.0
+Bombycilla cedrorum_Cedar Waxwing,0.24216318,14.0,16.44
+Turdus iliacus_Redwing,0.14910883,14.0,16.44

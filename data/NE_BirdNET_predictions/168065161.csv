@@ -1,0 +1,113 @@
+species,score,start_time,end_time
+Vireo griseus_White-eyed Vireo,0.7558017,0.0,3.0
+Catharus fuscescens_Veery,0.12797259,0.0,3.0
+Vireo griseus_White-eyed Vireo,0.117632195,1.0,4.0
+Catharus fuscescens_Veery,0.11377235,1.0,4.0
+Vireo griseus_White-eyed Vireo,0.32297537,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.23731232,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.11989275,4.0,7.0
+Vireo griseus_White-eyed Vireo,0.47207975,5.0,8.0
+Vireo griseus_White-eyed Vireo,0.33219698,6.0,9.0
+Vireo griseus_White-eyed Vireo,0.6400455,7.0,10.0
+Protonotaria citrea_Prothonotary Warbler,0.81071895,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.10542942,8.0,11.0
+Vireo griseus_White-eyed Vireo,0.4916353,10.0,13.0
+Catharus fuscescens_Veery,0.17589557,10.0,13.0
+Vireo griseus_White-eyed Vireo,0.36518487,11.0,14.0
+Vireo griseus_White-eyed Vireo,0.2781008,12.0,15.0
+Catharus fuscescens_Veery,0.17444952,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.10564312,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16731098,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14660218,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.101739824,21.0,24.0
+Vireo griseus_White-eyed Vireo,0.14613715,22.0,25.0
+Vireo griseus_White-eyed Vireo,0.17634495,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.39288357,25.0,28.0
+Protonotaria citrea_Prothonotary Warbler,0.2054274,26.0,29.0
+Protonotaria citrea_Prothonotary Warbler,0.10113146,27.0,30.0
+Protonotaria citrea_Prothonotary Warbler,0.110676855,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.2062076,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.114022925,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106160626,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.14877412,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.113252476,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110720046,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17086275,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.13474584,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.17043741,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13603173,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.112445444,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.14472228,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104233585,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.14512159,35.0,38.0
+Vireo griseus_White-eyed Vireo,0.66761833,37.0,40.0
+Vireo griseus_White-eyed Vireo,0.30763918,38.0,41.0
+Catharus fuscescens_Veery,0.1755003,38.0,41.0
+Vireo griseus_White-eyed Vireo,0.5788117,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.14191297,40.0,43.0
+Vireo griseus_White-eyed Vireo,0.19234806,43.0,46.0
+Vireo griseus_White-eyed Vireo,0.23634419,44.0,47.0
+Catharus fuscescens_Veery,0.20562306,44.0,47.0
+Vireo griseus_White-eyed Vireo,0.45453584,45.0,48.0
+Catharus fuscescens_Veery,0.13518237,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.12175919,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.10473619,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.10659286,47.0,50.0
+Melospiza melodia_Song Sparrow,0.12903588,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.10249707,48.0,51.0
+Vireo griseus_White-eyed Vireo,0.7938106,49.0,52.0
+Vireo griseus_White-eyed Vireo,0.8275652,50.0,53.0
+Vireo griseus_White-eyed Vireo,0.6176775,51.0,54.0
+Empidonax virescens_Acadian Flycatcher,0.27619517,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13582,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1810797,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1766243,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.10651112,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100869104,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21777539,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.1127066,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.10124003,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16807361,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1502947,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.114905566,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.11125052,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11405157,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15372485,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121313624,62.0,65.0
+Vireo griseus_White-eyed Vireo,0.8081392,63.0,66.0
+Vireo griseus_White-eyed Vireo,0.49290007,64.0,67.0
+Vireo griseus_White-eyed Vireo,0.6261916,65.0,68.0
+Vireo griseus_White-eyed Vireo,0.53635335,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14172852,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.10331958,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110326916,68.0,71.0
+Buteo platypterus_Broad-winged Hawk,0.10129104,68.0,71.0
+Buteo platypterus_Broad-winged Hawk,0.13852654,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111496836,71.0,74.0
+Zenaida macroura_Mourning Dove,0.103978194,72.0,75.0
+Vireo griseus_White-eyed Vireo,0.22667576,73.0,76.0
+Vireo griseus_White-eyed Vireo,0.29997292,74.0,77.0
+Catharus fuscescens_Veery,0.18108316,74.0,77.0
+Vireo griseus_White-eyed Vireo,0.4260554,75.0,78.0
+Vireo griseus_White-eyed Vireo,0.38858068,76.0,79.0
+Setophaga cerulea_Cerulean Warbler,0.1559431,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15441337,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14072908,77.0,80.0
+Zenaida macroura_Mourning Dove,0.4025659,78.0,81.0
+Zenaida macroura_Mourning Dove,0.49837488,79.0,82.0
+Vireo griseus_White-eyed Vireo,0.77338326,80.0,83.0
+Vireo crassirostris_Thick-billed Vireo,0.38483298,80.0,83.0
+Vireo griseus_White-eyed Vireo,0.81585735,81.0,84.0
+Vireo crassirostris_Thick-billed Vireo,0.15566556,81.0,84.0
+Vireo griseus_White-eyed Vireo,0.7807304,82.0,85.0
+Vireo crassirostris_Thick-billed Vireo,0.14076923,82.0,85.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13516156,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10893778,83.0,86.0
+Empidonax virescens_Acadian Flycatcher,0.10697685,83.0,86.0
+Vireo griseus_White-eyed Vireo,0.5297604,86.0,89.0
+Vireo crassirostris_Thick-billed Vireo,0.15713462,86.0,89.0
+Vireo griseus_White-eyed Vireo,0.89835846,87.0,90.0
+Vireo crassirostris_Thick-billed Vireo,0.20592585,87.0,90.0
+Vireo griseus_White-eyed Vireo,0.88328624,88.0,91.0
+Limnothlypis swainsonii_Swainson's Warbler,0.5113548,89.0,92.0
+Geothlypis formosa_Kentucky Warbler,0.355821,89.0,92.0

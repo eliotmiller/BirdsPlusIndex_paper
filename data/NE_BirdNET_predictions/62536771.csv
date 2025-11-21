@@ -1,0 +1,271 @@
+species,score,start_time,end_time
+Emberiza spodocephala_Black-faced Bunting,0.19690078,0.0,3.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.3912792,1.0,4.0
+Coryphospingus cucullatus_Red-crested Finch,0.118890695,1.0,4.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.44812453,2.0,5.0
+Emberiza spodocephala_Black-faced Bunting,0.18600497,2.0,5.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.18983841,4.0,7.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12881993,4.0,7.0
+Coccothraustes coccothraustes_Hawfinch,0.22509089,6.0,9.0
+Emberiza spodocephala_Black-faced Bunting,0.21413818,9.0,12.0
+Coccothraustes coccothraustes_Hawfinch,0.2783744,10.0,13.0
+Erithacus rubecula_European Robin,0.32804212,11.0,14.0
+Coccothraustes coccothraustes_Hawfinch,0.1279653,11.0,14.0
+Coccothraustes coccothraustes_Hawfinch,0.4699908,12.0,15.0
+Erithacus rubecula_European Robin,0.11999638,12.0,15.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.35937896,14.0,17.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.12065684,15.0,18.0
+Emberiza spodocephala_Black-faced Bunting,0.104673915,15.0,18.0
+Emberiza spodocephala_Black-faced Bunting,0.21581757,16.0,19.0
+Coccothraustes coccothraustes_Hawfinch,0.17381161,18.0,21.0
+Erithacus rubecula_European Robin,0.16999173,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.3660747,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.5024192,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.13248998,24.0,27.0
+Coryphospingus cucullatus_Red-crested Finch,0.1492291,25.0,28.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.21863759,26.0,29.0
+Emberiza spodocephala_Black-faced Bunting,0.27955544,27.0,30.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.19604902,27.0,30.0
+Emberiza spodocephala_Black-faced Bunting,0.7472984,28.0,31.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.11115772,31.0,34.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.10389979,32.0,35.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.35225207,33.0,36.0
+Kleinothraupis parodii_Parodi's Hemispingus,0.11210104,33.0,36.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.49243093,34.0,37.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.55858374,35.0,38.0
+Emberiza spodocephala_Black-faced Bunting,0.18159567,35.0,38.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.7800225,36.0,39.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.41712666,37.0,40.0
+Coccothraustes coccothraustes_Hawfinch,0.43506256,38.0,41.0
+Coccothraustes coccothraustes_Hawfinch,0.670558,39.0,42.0
+Erithacus rubecula_European Robin,0.35872328,39.0,42.0
+Coccothraustes coccothraustes_Hawfinch,0.6243487,40.0,43.0
+Erithacus rubecula_European Robin,0.36910972,40.0,43.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.32670638,41.0,44.0
+Emberiza spodocephala_Black-faced Bunting,0.10471605,41.0,44.0
+Coryphospingus cucullatus_Red-crested Finch,0.47419208,42.0,45.0
+Geothlypis trichas_Common Yellowthroat,0.6871638,43.0,46.0
+Geothlypis trichas_Common Yellowthroat,0.47203705,44.0,47.0
+Geothlypis trichas_Common Yellowthroat,0.93718016,45.0,48.0
+Geothlypis trichas_Common Yellowthroat,0.6957896,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.7603031,47.0,50.0
+Coccothraustes coccothraustes_Hawfinch,0.3669511,48.0,51.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.28698143,49.0,52.0
+Basileuterus tristriatus_Three-striped Warbler,0.15722905,49.0,52.0
+Coryphospingus cucullatus_Red-crested Finch,0.12084718,50.0,53.0
+Erithacus rubecula_European Robin,0.18084352,51.0,54.0
+Atlapetes personatus_Tepui Brushfinch,0.11028775,51.0,54.0
+Atlapetes personatus_Tepui Brushfinch,0.1240936,52.0,55.0
+Atlapetes personatus_Tepui Brushfinch,0.1397827,53.0,56.0
+Coccothraustes coccothraustes_Hawfinch,0.13538727,53.0,56.0
+Coryphospingus cucullatus_Red-crested Finch,0.20563245,54.0,57.0
+Erithacus rubecula_European Robin,0.1175884,54.0,57.0
+Coryphospingus cucullatus_Red-crested Finch,0.35774702,55.0,58.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.31563953,55.0,58.0
+Coryphospingus cucullatus_Red-crested Finch,0.75159615,56.0,59.0
+Erithacus rubecula_European Robin,0.16601364,56.0,59.0
+Geothlypis trichas_Common Yellowthroat,0.7962705,57.0,60.0
+Geothlypis trichas_Common Yellowthroat,0.86053103,58.0,61.0
+Geothlypis trichas_Common Yellowthroat,0.73362255,59.0,62.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12992702,60.0,63.0
+Coccothraustes coccothraustes_Hawfinch,0.5207155,61.0,64.0
+Erithacus rubecula_European Robin,0.5755578,62.0,65.0
+Coccothraustes coccothraustes_Hawfinch,0.27709922,62.0,65.0
+Coccothraustes coccothraustes_Hawfinch,0.74358416,63.0,66.0
+Erithacus rubecula_European Robin,0.17134392,63.0,66.0
+Coccothraustes coccothraustes_Hawfinch,0.82441264,64.0,67.0
+Erithacus rubecula_European Robin,0.5646211,64.0,67.0
+Coccothraustes coccothraustes_Hawfinch,0.9372312,65.0,68.0
+Erithacus rubecula_European Robin,0.54611385,65.0,68.0
+Coccothraustes coccothraustes_Hawfinch,0.94690484,66.0,69.0
+Erithacus rubecula_European Robin,0.72197086,66.0,69.0
+Coccothraustes coccothraustes_Hawfinch,0.9754783,67.0,70.0
+Erithacus rubecula_European Robin,0.61855066,67.0,70.0
+Coccothraustes coccothraustes_Hawfinch,0.9325137,68.0,71.0
+Erithacus rubecula_European Robin,0.67115855,68.0,71.0
+Geothlypis trichas_Common Yellowthroat,0.42250124,69.0,72.0
+Geothlypis trichas_Common Yellowthroat,0.4093997,70.0,73.0
+Geothlypis trichas_Common Yellowthroat,0.8041552,71.0,74.0
+Geothlypis trichas_Common Yellowthroat,0.79115546,72.0,75.0
+Geothlypis trichas_Common Yellowthroat,0.97149146,73.0,76.0
+Geothlypis trichas_Common Yellowthroat,0.6846131,74.0,77.0
+Geothlypis trichas_Common Yellowthroat,0.3120883,75.0,78.0
+Coccothraustes coccothraustes_Hawfinch,0.7253558,76.0,79.0
+Erithacus rubecula_European Robin,0.14784129,76.0,79.0
+Coccothraustes coccothraustes_Hawfinch,0.32457668,77.0,80.0
+Erithacus rubecula_European Robin,0.10298506,77.0,80.0
+Geothlypis trichas_Common Yellowthroat,0.83717537,79.0,82.0
+Ptyonoprogne rupestris_Eurasian Crag-Martin,0.18990017,79.0,82.0
+Geothlypis trichas_Common Yellowthroat,0.92940646,80.0,83.0
+Cardellina canadensis_Canada Warbler,0.11069125,80.0,83.0
+Geothlypis trichas_Common Yellowthroat,0.61511517,81.0,84.0
+Geothlypis trichas_Common Yellowthroat,0.39366895,82.0,85.0
+Emberiza spodocephala_Black-faced Bunting,0.3800068,83.0,86.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.103480615,83.0,86.0
+Emberiza spodocephala_Black-faced Bunting,0.38086736,84.0,87.0
+Coccothraustes coccothraustes_Hawfinch,0.44107354,86.0,89.0
+Erithacus rubecula_European Robin,0.42030978,86.0,89.0
+Erithacus rubecula_European Robin,0.18441549,87.0,90.0
+Coccothraustes coccothraustes_Hawfinch,0.29668736,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.25273603,88.0,91.0
+Erithacus rubecula_European Robin,0.1877757,88.0,91.0
+Erithacus rubecula_European Robin,0.62581456,89.0,92.0
+Coccothraustes coccothraustes_Hawfinch,0.2829153,89.0,92.0
+Scolopax rusticola_Eurasian Woodcock,0.17523791,89.0,92.0
+Coccothraustes coccothraustes_Hawfinch,0.7399873,90.0,93.0
+Erithacus rubecula_European Robin,0.7393699,90.0,93.0
+Emberiza pusilla_Little Bunting,0.22071269,91.0,94.0
+Erithacus rubecula_European Robin,0.2754172,92.0,95.0
+Geothlypis trichas_Common Yellowthroat,0.49191737,93.0,96.0
+Geothlypis trichas_Common Yellowthroat,0.72932255,94.0,97.0
+Cardellina canadensis_Canada Warbler,0.12869734,94.0,97.0
+Geothlypis trichas_Common Yellowthroat,0.5517524,95.0,98.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.12034929,96.0,99.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.44818085,97.0,100.0
+Chlorospingus flavigularis_Yellow-throated Chlorospingus,0.14736296,102.0,105.0
+Coccothraustes coccothraustes_Hawfinch,0.43460056,103.0,106.0
+Coccothraustes coccothraustes_Hawfinch,0.17331547,104.0,107.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12397851,104.0,107.0
+Passerina cyanea_Indigo Bunting,0.4725579,105.0,108.0
+Erithacus rubecula_European Robin,0.10301079,105.0,108.0
+Coccothraustes coccothraustes_Hawfinch,0.10269916,105.0,108.0
+Passerina cyanea_Indigo Bunting,0.20377348,106.0,109.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.14057481,108.0,111.0
+Coccothraustes coccothraustes_Hawfinch,0.84950614,110.0,113.0
+Erithacus rubecula_European Robin,0.3505799,110.0,113.0
+Coccothraustes coccothraustes_Hawfinch,0.8735479,111.0,114.0
+Erithacus rubecula_European Robin,0.7008468,111.0,114.0
+Coccothraustes coccothraustes_Hawfinch,0.61984235,112.0,115.0
+Erithacus rubecula_European Robin,0.6155881,112.0,115.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14828506,112.0,115.0
+Coryphospingus cucullatus_Red-crested Finch,0.14873755,113.0,116.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.1607478,114.0,117.0
+Coryphospingus cucullatus_Red-crested Finch,0.33137414,115.0,118.0
+Cardinalis cardinalis_Northern Cardinal,0.31040794,116.0,119.0
+Cardinalis cardinalis_Northern Cardinal,0.29257762,117.0,120.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.38976696,119.0,122.0
+Cardinalis cardinalis_Northern Cardinal,0.12906034,124.0,127.0
+Cardinalis cardinalis_Northern Cardinal,0.6803431,125.0,128.0
+Coccothraustes coccothraustes_Hawfinch,0.5017974,125.0,128.0
+Erithacus rubecula_European Robin,0.123303264,125.0,128.0
+Cardinalis cardinalis_Northern Cardinal,0.18317567,126.0,129.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.3830192,128.0,131.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.17274949,129.0,132.0
+Coryphospingus cucullatus_Red-crested Finch,0.10449255,133.0,136.0
+Erithacus rubecula_European Robin,0.101794414,134.0,137.0
+Coryphospingus cucullatus_Red-crested Finch,0.33439517,135.0,138.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.12407392,135.0,138.0
+Catamblyrhynchus diadema_Plushcap,0.10336691,135.0,138.0
+Arremonops rufivirgatus_Olive Sparrow,0.18216544,136.0,139.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.34270224,137.0,140.0
+Emberiza spodocephala_Black-faced Bunting,0.20103133,138.0,141.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.17351091,138.0,141.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.20553854,140.0,143.0
+Myiothlypis chrysogaster_Golden-bellied Warbler,0.1290066,140.0,143.0
+Coryphospingus cucullatus_Red-crested Finch,0.6129693,142.0,145.0
+Coccothraustes coccothraustes_Hawfinch,0.19122267,143.0,146.0
+Basileuterus trifasciatus_Three-banded Warbler,0.15807664,143.0,146.0
+Erithacus rubecula_European Robin,0.15488128,143.0,146.0
+Basileuterus tristriatus_Three-striped Warbler,0.13463286,143.0,146.0
+Atlapetes personatus_Tepui Brushfinch,0.10306407,143.0,146.0
+Coccothraustes coccothraustes_Hawfinch,0.7953341,144.0,147.0
+Cardinalis cardinalis_Northern Cardinal,0.12039091,144.0,147.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.20725569,146.0,149.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.16299461,146.0,149.0
+Chlorospingus flavopectus_Common Chlorospingus,0.12969011,146.0,149.0
+Chlorospingus flavopectus_Common Chlorospingus,0.25513005,147.0,150.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.13773656,147.0,150.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.10018655,147.0,150.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.1483983,148.0,151.0
+Emberiza spodocephala_Black-faced Bunting,0.4130497,149.0,152.0
+Emberiza spodocephala_Black-faced Bunting,0.37210318,150.0,153.0
+Chlorospingus flavopectus_Common Chlorospingus,0.2220782,151.0,154.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.20284715,151.0,154.0
+Emberiza spodocephala_Black-faced Bunting,0.17795677,151.0,154.0
+Emberiza spodocephala_Black-faced Bunting,0.12243052,154.0,157.0
+Setophaga tigrina_Cape May Warbler,0.12095619,154.0,157.0
+Emberiza spodocephala_Black-faced Bunting,0.2904251,155.0,158.0
+Emberiza tristrami_Tristram's Bunting,0.2294461,155.0,158.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.110842414,155.0,158.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.15731935,156.0,159.0
+Geothlypis trichas_Common Yellowthroat,0.20061299,158.0,161.0
+Geothlypis trichas_Common Yellowthroat,0.4078699,159.0,162.0
+Coccothraustes coccothraustes_Hawfinch,0.33879402,160.0,163.0
+Geothlypis trichas_Common Yellowthroat,0.11551692,160.0,163.0
+Erithacus rubecula_European Robin,0.11480258,160.0,163.0
+Coccothraustes coccothraustes_Hawfinch,0.76535696,161.0,164.0
+Erithacus rubecula_European Robin,0.46090737,161.0,164.0
+Coccothraustes coccothraustes_Hawfinch,0.5236058,162.0,165.0
+Coccothraustes coccothraustes_Hawfinch,0.40569338,163.0,166.0
+Erithacus rubecula_European Robin,0.15198444,163.0,166.0
+Passerina cyanea_Indigo Bunting,0.120077565,163.0,166.0
+Passerina cyanea_Indigo Bunting,0.462364,165.0,168.0
+Erithacus rubecula_European Robin,0.13162027,165.0,168.0
+Geothlypis trichas_Common Yellowthroat,0.59578395,167.0,170.0
+Geothlypis trichas_Common Yellowthroat,0.6544351,168.0,171.0
+Geothlypis trichas_Common Yellowthroat,0.96835893,169.0,172.0
+Geothlypis trichas_Common Yellowthroat,0.9611269,170.0,173.0
+Geothlypis trichas_Common Yellowthroat,0.9356456,171.0,174.0
+Geothlypis trichas_Common Yellowthroat,0.98751825,172.0,175.0
+Geothlypis trichas_Common Yellowthroat,0.9092118,173.0,176.0
+Geothlypis trichas_Common Yellowthroat,0.93369853,174.0,177.0
+Geothlypis trichas_Common Yellowthroat,0.9534154,175.0,178.0
+Geothlypis trichas_Common Yellowthroat,0.9789813,176.0,179.0
+Geothlypis trichas_Common Yellowthroat,0.45021987,177.0,180.0
+Erithacus rubecula_European Robin,0.2998945,178.0,181.0
+Curruca curruca_Lesser Whitethroat,0.1655596,178.0,181.0
+Sylvia atricapilla_Eurasian Blackcap,0.14213468,178.0,181.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.12378497,178.0,181.0
+Erithacus rubecula_European Robin,0.24802488,179.0,182.0
+Coccothraustes coccothraustes_Hawfinch,0.120561786,179.0,182.0
+Erithacus rubecula_European Robin,0.70765203,180.0,183.0
+Coccothraustes coccothraustes_Hawfinch,0.46978906,180.0,183.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.11486248,180.0,183.0
+Coccothraustes coccothraustes_Hawfinch,0.11612045,181.0,184.0
+Coccothraustes coccothraustes_Hawfinch,0.1195148,182.0,185.0
+Geothlypis trichas_Common Yellowthroat,0.37031972,183.0,186.0
+Geothlypis trichas_Common Yellowthroat,0.834003,184.0,187.0
+Geothlypis trichas_Common Yellowthroat,0.53955865,185.0,188.0
+Geothlypis trichas_Common Yellowthroat,0.6427418,186.0,189.0
+Geothlypis trichas_Common Yellowthroat,0.9244605,187.0,190.0
+Geothlypis trichas_Common Yellowthroat,0.79589117,188.0,191.0
+Coryphospingus cucullatus_Red-crested Finch,0.52423775,189.0,192.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.16791826,189.0,192.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.27660766,190.0,193.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.3078713,191.0,194.0
+Emberiza spodocephala_Black-faced Bunting,0.26130337,191.0,194.0
+Emberiza spodocephala_Black-faced Bunting,0.11275333,192.0,195.0
+Emberiza spodocephala_Black-faced Bunting,0.25332972,193.0,196.0
+Emberiza spodocephala_Black-faced Bunting,0.17512743,194.0,197.0
+Phacellodomus sibilatrix_Little Thornbird,0.1596127,194.0,197.0
+Emberiza spodocephala_Black-faced Bunting,0.6864462,195.0,198.0
+Kleinothraupis atropileus_Black-capped Hemispingus,0.3987361,196.0,199.0
+Emberiza spodocephala_Black-faced Bunting,0.2780709,197.0,200.0
+Emberiza spodocephala_Black-faced Bunting,0.33774126,198.0,201.0
+Emberiza spodocephala_Black-faced Bunting,0.3222456,199.0,202.0
+Atlapetes pallidinucha_Pale-naped Brushfinch,0.18355471,199.0,202.0
+Geothlypis trichas_Common Yellowthroat,0.7217169,201.0,204.0
+Geothlypis trichas_Common Yellowthroat,0.9273462,202.0,205.0
+Erithacus rubecula_European Robin,0.28127098,203.0,206.0
+Coccothraustes coccothraustes_Hawfinch,0.1618069,203.0,206.0
+Coccothraustes coccothraustes_Hawfinch,0.9079492,204.0,207.0
+Erithacus rubecula_European Robin,0.3562842,204.0,207.0
+Geothlypis trichas_Common Yellowthroat,0.4731442,205.0,208.0
+Geothlypis trichas_Common Yellowthroat,0.73863083,206.0,209.0
+Geothlypis trichas_Common Yellowthroat,0.8948133,207.0,210.0
+Coccothraustes coccothraustes_Hawfinch,0.36191744,208.0,211.0
+Erithacus rubecula_European Robin,0.18808335,208.0,211.0
+Cardinalis cardinalis_Northern Cardinal,0.15468901,208.0,211.0
+Geothlypis trichas_Common Yellowthroat,0.66116494,209.0,212.0
+Geothlypis trichas_Common Yellowthroat,0.8786393,210.0,213.0
+Geothlypis trichas_Common Yellowthroat,0.8363495,211.0,214.0
+Emberiza spodocephala_Black-faced Bunting,0.111592725,214.0,217.0
+Erithacus rubecula_European Robin,0.44794694,215.0,218.0
+Coccothraustes coccothraustes_Hawfinch,0.19567019,215.0,218.0
+Erithacus rubecula_European Robin,0.24044882,216.0,219.0
+Coccothraustes coccothraustes_Hawfinch,0.22207905,216.0,219.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13866982,216.0,219.0
+Geothlypis trichas_Common Yellowthroat,0.60800296,217.0,220.0
+Geothlypis trichas_Common Yellowthroat,0.97284126,218.0,221.0
+Geothlypis trichas_Common Yellowthroat,0.862889,219.0,222.0
+Geothlypis trichas_Common Yellowthroat,0.7638421,220.0,222.67201814058956
