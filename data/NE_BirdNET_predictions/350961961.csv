@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Setophaga pinus_Pine Warbler,0.33416677,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.14276232,0.0,3.0
+Regulus satrapa_Golden-crowned Kinglet,0.18324712,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.10709506,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.5105427,2.0,5.0
+Regulus satrapa_Golden-crowned Kinglet,0.10380034,2.0,5.0
+Regulus satrapa_Golden-crowned Kinglet,0.4258494,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.37607428,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.5792736,4.0,7.0
+Regulus satrapa_Golden-crowned Kinglet,0.45712638,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.8125232,5.0,8.0
+Setophaga castanea_Bay-breasted Warbler,0.18669832,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.125855,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.12164188,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12935808,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.10512693,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.55499345,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.6249488,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.55929655,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.7541165,13.0,16.0
+Regulus satrapa_Golden-crowned Kinglet,0.7041311,14.0,17.0
+Regulus satrapa_Golden-crowned Kinglet,0.34592557,15.0,18.0
+Regulus satrapa_Golden-crowned Kinglet,0.3837443,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.13018283,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.44062072,17.0,20.0
+Regulus satrapa_Golden-crowned Kinglet,0.17765528,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.831309,18.0,21.0
+Setophaga pinus_Pine Warbler,0.13048033,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.63721585,19.0,22.0
+Setophaga pinus_Pine Warbler,0.6493018,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10416223,20.0,23.0
+Certhia familiaris_Eurasian Treecreeper,0.13077973,24.0,27.0
+Turdus cardis_Japanese Thrush,0.1075722,24.0,27.0
+Regulus satrapa_Golden-crowned Kinglet,0.6517012,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.9148145,26.0,29.0
+Regulus satrapa_Golden-crowned Kinglet,0.9263674,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.6636944,28.0,31.0
+Setophaga occidentalis_Hermit Warbler,0.12427235,28.0,31.0
+Certhia americana_Brown Creeper,0.105892584,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.60512227,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.56772256,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.24746102,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.5403098,32.0,35.0
+Sitta canadensis_Red-breasted Nuthatch,0.535793,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14853972,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.23573881,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15555103,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.12634651,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12101693,36.0,39.0
+Regulus satrapa_Golden-crowned Kinglet,0.3367162,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.21243069,37.0,40.0
+Regulus satrapa_Golden-crowned Kinglet,0.47851664,38.0,41.0
+Certhia americana_Brown Creeper,0.25129214,38.0,41.0
+Setophaga pinus_Pine Warbler,0.16481914,38.0,41.0
+Regulus satrapa_Golden-crowned Kinglet,0.595277,39.0,42.0
+Certhia americana_Brown Creeper,0.31994855,39.0,42.0
+Sitta canadensis_Red-breasted Nuthatch,0.116322815,39.0,42.0
+Regulus satrapa_Golden-crowned Kinglet,0.42317092,40.0,43.0
+Setophaga pinus_Pine Warbler,0.27815884,40.0,43.0
+Certhia americana_Brown Creeper,0.27170762,40.0,43.0
+Poecile carolinensis_Carolina Chickadee,0.12409715,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16592513,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.15138307,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.11385739,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.66230774,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.92623925,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.9379933,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.8223852,46.0,49.0
+Regulus satrapa_Golden-crowned Kinglet,0.5033291,48.0,51.0
+Regulus satrapa_Golden-crowned Kinglet,0.7989117,49.0,52.0
+Regulus satrapa_Golden-crowned Kinglet,0.9127074,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.25857365,50.0,53.0
+Certhia americana_Brown Creeper,0.100132816,50.0,53.0
+Regulus satrapa_Golden-crowned Kinglet,0.25528204,51.0,53.28

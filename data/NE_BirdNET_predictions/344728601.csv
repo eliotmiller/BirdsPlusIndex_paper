@@ -1,0 +1,21 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.4131012,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10170384,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.12397021,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.22934729,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.18894473,4.0,7.0
+Vireo plumbeus_Plumbeous Vireo,0.16473515,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10898319,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.106245205,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.12579116,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.13812968,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.10942604,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.20050628,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.17013198,22.0,25.0
+Cyclarhis gujanensis_Rufous-browed Peppershrike,0.14726469,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.18708582,27.0,30.0
+Catharus fuscescens_Veery,0.1020032,30.0,33.0
+Baeolophus bicolor_Tufted Titmouse,0.16759925,32.0,35.0
+Menura novaehollandiae_Superb Lyrebird,0.13136607,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.16436133,37.0,40.0
+Vireo plumbeus_Plumbeous Vireo,0.10913222,38.0,41.0

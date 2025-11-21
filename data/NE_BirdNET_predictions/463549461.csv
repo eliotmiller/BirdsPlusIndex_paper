@@ -1,0 +1,105 @@
+species,score,start_time,end_time
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1808478,1.0,4.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.32265225,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.10511004,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.41599652,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.6548308,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.6594527,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.46963793,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.54011416,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.15070836,9.0,12.0
+Catharus fuscescens_Veery,0.119751774,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.42827994,10.0,13.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1306241,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.713019,11.0,14.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.116498165,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.69452083,12.0,15.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.26718578,12.0,15.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.47399104,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1460073,13.0,16.0
+Protonotaria citrea_Prothonotary Warbler,0.13861239,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.11016928,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14480355,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.13353181,14.0,17.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11735867,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.10174584,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18673636,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.13611814,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.10653232,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20887323,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.15995003,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.10218373,16.0,19.0
+Catharus fuscescens_Veery,0.12977219,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11992488,17.0,20.0
+Catharus fuscescens_Veery,0.3734682,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.12847562,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.1279583,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10680488,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.2761491,19.0,22.0
+Catharus fuscescens_Veery,0.15097511,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11916866,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.2474233,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.11829017,20.0,23.0
+Limnothlypis swainsonii_Swainson's Warbler,0.111516185,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.1057964,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.10208523,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.10066303,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37270406,22.0,25.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.48144472,23.0,26.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.47218525,24.0,27.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24065512,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.19741514,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1257523,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.35258108,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.55882865,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.5648743,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.3116581,31.0,34.0
+Catharus fuscescens_Veery,0.102247745,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.5007219,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.104645796,32.0,35.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5214103,33.0,36.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6280531,34.0,37.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19882208,35.0,38.0
+Protonotaria citrea_Prothonotary Warbler,0.12151082,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.111573905,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10933558,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16694315,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.12074626,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.11421739,37.0,40.0
+Protonotaria citrea_Prothonotary Warbler,0.1082471,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.3138512,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13032041,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.43027425,39.0,42.0
+Catharus fuscescens_Veery,0.38351056,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11976393,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.1424808,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14191079,41.0,44.0
+Catharus fuscescens_Veery,0.13187502,41.0,44.0
+Protonotaria citrea_Prothonotary Warbler,0.118265264,41.0,44.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27454582,42.0,45.0
+Protonotaria citrea_Prothonotary Warbler,0.104861096,42.0,45.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36767828,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.11299398,43.0,46.0
+Protonotaria citrea_Prothonotary Warbler,0.15537632,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14903538,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.10484113,45.0,48.0
+Catharus fuscescens_Veery,0.27774364,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.10879516,46.0,49.0
+Catharus fuscescens_Veery,0.17228477,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10460945,47.0,50.0
+Catharus fuscescens_Veery,0.8818989,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.12569739,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.17068438,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.13295434,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.11417714,51.0,54.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.32158852,52.0,55.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8195619,53.0,56.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21760505,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109754376,54.0,57.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10378595,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10315608,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.26089713,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.2677241,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.22005183,58.0,61.0
+Empidonax virescens_Acadian Flycatcher,0.16543269,59.0,61.56
+Seiurus aurocapilla_Ovenbird,0.12843522,59.0,61.56
