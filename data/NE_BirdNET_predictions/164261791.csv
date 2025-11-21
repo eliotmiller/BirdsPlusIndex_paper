@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Cistothorus palustris_Marsh Wren,0.7423727,1.0,4.0
+Cistothorus palustris_Marsh Wren,0.5381404,2.0,5.0
+Cistothorus palustris_Marsh Wren,0.9496279,3.0,6.0
+Cistothorus palustris_Marsh Wren,0.95333153,4.0,7.0
+Ixobrychus exilis_Least Bittern,0.10647228,4.0,7.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14037463,5.0,8.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16751955,6.0,9.0
+Riparia riparia_Bank Swallow,0.11046619,6.0,9.0
+Cistothorus palustris_Marsh Wren,0.8972532,7.0,10.0
+Cistothorus palustris_Marsh Wren,0.9355912,8.0,11.0
+Rallus limicola_Virginia Rail,0.11528205,8.0,11.0
+Cistothorus palustris_Marsh Wren,0.9502918,9.0,12.0
+Cistothorus palustris_Marsh Wren,0.92244095,10.0,13.0
+Melospiza georgiana_Swamp Sparrow,0.13608931,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12664434,12.0,15.0
+Rallus limicola_Virginia Rail,0.11386048,12.0,15.0
+Ixobrychus exilis_Least Bittern,0.11286903,12.0,15.0
+Cistothorus palustris_Marsh Wren,0.22689167,13.0,16.0
+Cistothorus palustris_Marsh Wren,0.9322716,14.0,17.0
+Cistothorus palustris_Marsh Wren,0.9524422,15.0,18.0
+Cistothorus palustris_Marsh Wren,0.9446573,16.0,19.0
+Cistothorus palustris_Marsh Wren,0.7835362,19.0,22.0
+Cistothorus palustris_Marsh Wren,0.96104413,20.0,23.0
+Cistothorus palustris_Marsh Wren,0.8195306,21.0,24.0
+Cistothorus platensis_Grass Wren,0.1021808,21.0,24.0
+Cistothorus palustris_Marsh Wren,0.59726053,22.0,25.0
+Melospiza georgiana_Swamp Sparrow,0.23729946,23.0,26.0
+Anthus trivialis_Tree Pipit,0.57109743,24.0,27.0
+Anthus rubescens_American Pipit,0.11343049,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.14524768,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.18910372,26.0,29.0
+Cistothorus palustris_Marsh Wren,0.9436757,27.0,30.0
+Cistothorus palustris_Marsh Wren,0.9388509,28.0,31.0
+Cistothorus palustris_Marsh Wren,0.9753395,29.0,32.0
+Cistothorus palustris_Marsh Wren,0.15703437,30.0,33.0
+Melospiza georgiana_Swamp Sparrow,0.51511973,33.0,36.0
+Parkesia noveboracensis_Northern Waterthrush,0.13700376,33.0,36.0
+Melospiza georgiana_Swamp Sparrow,0.37633324,34.0,37.0
+Ammospiza nelsoni_Nelson's Sparrow,0.24303715,34.0,37.0
+Cistothorus palustris_Marsh Wren,0.7917129,35.0,38.0
+Cistothorus palustris_Marsh Wren,0.98352444,36.0,39.0
+Cistothorus palustris_Marsh Wren,0.9920677,37.0,40.0
+Cistothorus palustris_Marsh Wren,0.9383389,38.0,41.0
+Ixobrychus exilis_Least Bittern,0.12545161,38.0,41.0
+Ixobrychus exilis_Least Bittern,0.14761283,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.19362009,40.0,43.0
+Empidonax traillii_Willow Flycatcher,0.103803426,40.0,43.0
+Ixobrychus exilis_Least Bittern,0.24167389,41.0,44.0
+Gallinula galeata_Common Gallinule,0.102769114,41.0,44.0
+Dumetella carolinensis_Gray Catbird,0.16417217,43.0,46.0
+Vireo atricapilla_Black-capped Vireo,0.15671547,44.0,47.0
+Cisticola exilis_Golden-headed Cisticola,0.1317124,44.0,47.0
+Cistothorus palustris_Marsh Wren,0.11043302,44.0,47.0
+Troglodytes aedon_House Wren,0.10815754,44.0,47.0
+Cistothorus palustris_Marsh Wren,0.9513045,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.49787888,46.0,49.0
+Cistothorus palustris_Marsh Wren,0.71223736,47.0,50.0
+Charadrius vociferus_Killdeer,0.5216233,48.0,51.0
+Charadrius vociferus_Killdeer,0.8550593,49.0,52.0
+Charadrius vociferus_Killdeer,0.33062986,50.0,53.0
+Charadrius vociferus_Killdeer,0.7677976,51.0,54.0
+Charadrius vociferus_Killdeer,0.9257903,52.0,55.0
+Charadrius vociferus_Killdeer,0.8941977,53.0,56.0
+Charadrius vociferus_Killdeer,0.88790834,54.0,57.0
+Charadrius vociferus_Killdeer,0.1944905,55.0,58.0
+Charadrius vociferus_Killdeer,0.21479352,56.0,59.0
+Charadrius vociferus_Killdeer,0.2452865,57.0,60.0
+Toxostoma rufum_Brown Thrasher,0.109383464,60.0,63.0

@@ -1,0 +1,420 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.7853707,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14212307,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13855614,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.39115876,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28440678,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.5550545,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15431292,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15342906,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.82047653,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16137993,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15881501,3.0,6.0
+Urosphena squameiceps_Asian Stubtail,0.15783033,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.3987306,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1832376,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.6849636,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31754857,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.4626812,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16888797,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15230711,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.48614088,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31171477,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11712475,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.65760845,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44914377,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.74443996,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29353368,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29283118,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.86976224,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.39410454,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18488267,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.5275189,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2726248,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.47393522,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15503469,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.12910134,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11022817,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.5142632,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21744029,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.68843096,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21587813,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15583333,14.0,17.0
+Chlorospingus canigularis_Ashy-throated Chlorospingus,0.14091249,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.30576468,15.0,18.0
+Chlorospingus canigularis_Ashy-throated Chlorospingus,0.2787569,15.0,18.0
+Urosphena squameiceps_Asian Stubtail,0.14676836,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.66295046,16.0,19.0
+Chlorospingus canigularis_Ashy-throated Chlorospingus,0.17133084,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15809964,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115768015,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.6714363,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1873505,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.82755107,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22661012,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18615885,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.5531782,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15191644,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.7706748,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19776608,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111278385,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.7560297,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18774712,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.7344066,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21218735,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.4874044,23.0,26.0
+Junco hyemalis_Dark-eyed Junco,0.11783262,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.52302283,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.78802204,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28796566,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121009596,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.6369796,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19037217,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.44745257,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11031369,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.44267464,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14703566,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.59285384,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2657266,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.47696182,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14655904,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.6785532,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31063256,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.8245479,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21635237,32.0,35.0
+Urosphena squameiceps_Asian Stubtail,0.15536363,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.51232606,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28154492,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11064328,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.45182645,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14436033,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.13197404,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.53647643,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.56601673,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16469355,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.6651622,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14252605,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12561448,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.65160024,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13210586,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.6186388,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18082952,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.6058216,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16610749,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.5926775,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24640882,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.3978454,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2105004,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.54871273,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35357457,43.0,46.0
+Junco hyemalis_Dark-eyed Junco,0.11151422,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.62019295,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2744424,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.6243391,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18419442,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.101812966,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.78628844,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36589506,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.59327567,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27677527,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16602513,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.69931126,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2860923,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23061828,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.81109834,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35259518,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21788406,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.67989874,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2553177,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19923358,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.72458524,51.0,54.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21552274,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13265103,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.7072787,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27788427,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.75927174,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25160497,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13193715,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.6858214,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39942378,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.5522334,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5505664,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.53150547,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3488774,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105851844,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.55949605,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4854232,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.42987177,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.22961079,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.63924897,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21416034,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.54866654,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26365417,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.47372353,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.113241196,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.5321074,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23298734,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.63612604,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1620137,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104588106,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.6152825,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21125227,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.7039995,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45664576,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13406955,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.6268215,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34400892,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.5697031,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.39496335,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.5771936,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17708465,68.0,71.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17680095,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.54731804,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2888017,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21310887,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.285751,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.28293392,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.5395232,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2352333,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14849648,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.3239849,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21483114,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32005852,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.2763465,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.661252,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24630696,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.389842,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.3833965,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.3405218,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15446845,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11267464,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.7229124,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32398993,77.0,80.0
+Urosphena squameiceps_Asian Stubtail,0.2013005,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12157163,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.35679635,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2317736,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.5135637,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21327382,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.4988705,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18444341,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104221985,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.5191156,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23385867,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13295744,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.47364312,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44346994,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.104788065,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.4985987,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47398272,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16989236,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.4032434,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34784427,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24141802,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.6819013,85.0,88.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32617202,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24822555,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.54758984,86.0,89.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31680396,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23337336,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.45496064,87.0,90.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2864112,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110266685,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.199969,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.12653041,88.0,91.0
+Mniotilta varia_Black-and-white Warbler,0.1106285,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.43959102,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27617985,89.0,92.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22345215,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.436633,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27894345,90.0,93.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17530201,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.7750648,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3382974,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27927408,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.54488516,92.0,95.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13856308,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.5104137,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13478112,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.68080616,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14053898,94.0,97.0
+Seiurus aurocapilla_Ovenbird,0.6096098,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26515856,95.0,98.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18108249,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.7057586,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5626993,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37226886,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.31747654,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105990596,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.39484492,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2410223,98.0,101.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12076234,98.0,101.0
+Seiurus aurocapilla_Ovenbird,0.35929972,100.0,103.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24699083,100.0,103.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18232825,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.6221796,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3288072,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19685936,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.6628291,102.0,105.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17631026,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1602199,102.0,105.0
+Hylocichla mustelina_Wood Thrush,0.11269948,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.3904719,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28408098,103.0,106.0
+Hylocichla mustelina_Wood Thrush,0.20756775,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.32502335,104.0,107.0
+Hylocichla mustelina_Wood Thrush,0.2709504,104.0,107.0
+Helmitheros vermivorum_Worm-eating Warbler,0.248866,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.2884317,105.0,108.0
+Hylocichla mustelina_Wood Thrush,0.2662307,105.0,108.0
+Helmitheros vermivorum_Worm-eating Warbler,0.263087,105.0,108.0
+Seiurus aurocapilla_Ovenbird,0.69685316,106.0,109.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30726114,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1964864,106.0,109.0
+Seiurus aurocapilla_Ovenbird,0.6255672,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36135843,107.0,110.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17704071,107.0,110.0
+Seiurus aurocapilla_Ovenbird,0.7208657,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28941134,108.0,111.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10651875,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.6054983,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18646532,109.0,112.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15428258,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.6863928,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37718025,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.5813838,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33989432,111.0,114.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20735012,111.0,114.0
+Seiurus aurocapilla_Ovenbird,0.74024874,112.0,115.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22396708,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22228551,112.0,115.0
+Seiurus aurocapilla_Ovenbird,0.7345551,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3704033,113.0,116.0
+Seiurus aurocapilla_Ovenbird,0.8471071,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44618347,114.0,117.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16813378,114.0,117.0
+Seiurus aurocapilla_Ovenbird,0.66702956,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30323482,115.0,118.0
+Seiurus aurocapilla_Ovenbird,0.15706979,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14603196,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.53942025,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30110067,118.0,121.0
+Seiurus aurocapilla_Ovenbird,0.43029356,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40436217,119.0,122.0
+Seiurus aurocapilla_Ovenbird,0.81587213,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16780387,120.0,123.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11878556,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.6436478,121.0,124.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.210317,121.0,124.0
+Seiurus aurocapilla_Ovenbird,0.6200344,122.0,125.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2209636,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15322888,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.6248757,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20508783,123.0,126.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14141227,123.0,126.0
+Junco hyemalis_Dark-eyed Junco,0.13376299,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.41419554,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25666356,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.20801583,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13227254,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.12679157,126.0,129.0
+Seiurus aurocapilla_Ovenbird,0.2702377,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17541818,127.0,130.0
+Seiurus aurocapilla_Ovenbird,0.3753669,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3075107,128.0,131.0
+Seiurus aurocapilla_Ovenbird,0.6125013,129.0,132.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16195996,129.0,132.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10378308,129.0,132.0
+Seiurus aurocapilla_Ovenbird,0.601209,130.0,133.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32255182,130.0,133.0
+Helmitheros vermivorum_Worm-eating Warbler,0.104585566,130.0,133.0
+Hylocichla mustelina_Wood Thrush,0.29172367,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.25667265,131.0,134.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18992327,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.39491606,132.0,135.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2192962,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14675233,132.0,135.0
+Hylocichla mustelina_Wood Thrush,0.23886488,133.0,136.0
+Seiurus aurocapilla_Ovenbird,0.2252031,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15017593,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11728248,133.0,136.0
+Hylocichla mustelina_Wood Thrush,0.19488795,134.0,137.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12949882,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19435352,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.1301766,135.0,138.0
+Helmitheros vermivorum_Worm-eating Warbler,0.118186496,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.22205177,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1664077,136.0,139.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15149514,136.0,139.0
+Seiurus aurocapilla_Ovenbird,0.27663803,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24135734,137.0,140.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23007701,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3607114,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.35243326,138.0,141.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11976969,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.45050865,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4230181,139.0,142.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10001156,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.57278836,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.43983215,140.0,143.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.51408106,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.4717719,141.0,144.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1070928,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.47317344,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45903423,142.0,145.0
+Setophaga fusca_Blackburnian Warbler,0.12214235,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47360882,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.34700087,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.11297014,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.51320696,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34648204,144.0,147.0
+Setophaga fusca_Blackburnian Warbler,0.100228585,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.7762052,145.0,148.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24456623,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.8174045,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.574766,147.0,150.0
+Seiurus aurocapilla_Ovenbird,0.5257695,148.0,151.0
+Seiurus aurocapilla_Ovenbird,0.41790912,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.7214857,150.0,153.0
+Hylocichla mustelina_Wood Thrush,0.3030057,151.0,154.0
+Hylocichla mustelina_Wood Thrush,0.51541483,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14897513,153.0,156.0
+Seiurus aurocapilla_Ovenbird,0.37840462,154.0,157.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17099248,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.111243136,154.0,157.0
+Seiurus aurocapilla_Ovenbird,0.43809238,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15762365,155.0,158.0
+Seiurus aurocapilla_Ovenbird,0.22301203,156.0,159.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13840355,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.22053087,157.0,160.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1549953,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.24309833,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117307425,158.0,161.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11228506,159.0,162.0
+Seiurus aurocapilla_Ovenbird,0.40110987,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16878569,160.0,163.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1644698,160.0,163.0
+Seiurus aurocapilla_Ovenbird,0.55638146,161.0,164.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18666926,161.0,164.0
+Seiurus aurocapilla_Ovenbird,0.45817277,162.0,165.0
+Seiurus aurocapilla_Ovenbird,0.7553756,163.0,166.0
+Seiurus aurocapilla_Ovenbird,0.506563,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.29650307,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.4463009,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20108792,168.0,171.0
+Seiurus aurocapilla_Ovenbird,0.14640608,168.0,171.0
+Cardellina canadensis_Canada Warbler,0.12706155,168.0,171.0
+Cardellina canadensis_Canada Warbler,0.17575553,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17285104,169.0,172.0
+Seiurus aurocapilla_Ovenbird,0.16239618,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20897798,170.0,173.0
+Seiurus aurocapilla_Ovenbird,0.113781855,170.0,173.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26722068,171.0,174.0
+Seiurus aurocapilla_Ovenbird,0.23922531,171.0,174.0
+Seiurus aurocapilla_Ovenbird,0.25895047,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2146033,172.0,175.0
+Seiurus aurocapilla_Ovenbird,0.28629982,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2632526,173.0,176.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17445187,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18654528,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.12736823,174.0,177.0

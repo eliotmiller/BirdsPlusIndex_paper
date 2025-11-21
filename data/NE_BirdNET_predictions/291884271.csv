@@ -1,0 +1,179 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.9719195,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.9346361,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.829217,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.45036623,3.0,6.0
+Setophaga occidentalis_Hermit Warbler,0.26791418,3.0,6.0
+Setophaga townsendi_Townsend's Warbler,0.11943511,3.0,6.0
+Setophaga ruticilla_American Redstart,0.115797356,3.0,6.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.10211183,3.0,6.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.80235475,8.0,11.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.8321246,9.0,12.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.853403,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.955522,11.0,14.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.30630174,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.9586865,12.0,15.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.27609134,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.918831,13.0,16.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.31143993,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.8790944,14.0,17.0
+Dryobates minor_Lesser Spotted Woodpecker,0.6031603,17.0,20.0
+Dryobates minor_Lesser Spotted Woodpecker,0.47022098,18.0,21.0
+Dryobates minor_Lesser Spotted Woodpecker,0.5349428,19.0,22.0
+Procnias averano_Bearded Bellbird,0.1667989,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.54939413,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.9213137,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.9006165,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.9685296,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.84490824,28.0,31.0
+Setophaga occidentalis_Hermit Warbler,0.19982319,28.0,31.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.13331065,35.0,38.0
+Dryobates minor_Lesser Spotted Woodpecker,0.10112875,35.0,38.0
+Dryobates minor_Lesser Spotted Woodpecker,0.2891722,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.92644125,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9872432,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.97808576,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.98106384,42.0,45.0
+Procnias averano_Bearded Bellbird,0.21967337,46.0,49.0
+Dryocopus pileatus_Pileated Woodpecker,0.13479845,50.0,53.0
+Scytalopus macropus_Large-footed Tapaculo,0.10495319,50.0,53.0
+Rhynchopsitta pachyrhyncha_Thick-billed Parrot,0.12215735,51.0,54.0
+Dryocopus pileatus_Pileated Woodpecker,0.39833498,52.0,55.0
+Xipholena punicea_Pompadour Cotinga,0.25156605,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.88273644,53.0,56.0
+Dryocopus pileatus_Pileated Woodpecker,0.17301291,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.7188396,54.0,57.0
+Dryocopus pileatus_Pileated Woodpecker,0.26576343,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.6052455,55.0,58.0
+Dryocopus pileatus_Pileated Woodpecker,0.12715787,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.6171559,56.0,59.0
+Penelope perspicax_Cauca Guan,0.18762276,59.0,62.0
+Aulacorhynchus prasinus_Northern Emerald-Toucanet,0.13341779,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.75759363,80.0,83.0
+Setophaga virens_Black-throated Green Warbler,0.90354097,81.0,84.0
+Setophaga virens_Black-throated Green Warbler,0.92287064,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.91962606,83.0,86.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10267717,86.0,89.0
+Oreocharis arfaki_Tit Berrypecker,0.1014022,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.611545,95.0,98.0
+Setophaga virens_Black-throated Green Warbler,0.8027713,96.0,99.0
+Setophaga virens_Black-throated Green Warbler,0.69055533,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.16855152,98.0,101.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.35730758,101.0,104.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.22337075,102.0,105.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1245795,103.0,106.0
+Lophodytes cucullatus_Hooded Merganser,0.18883626,105.0,108.0
+Corvus ossifragus_Fish Crow,0.10882857,105.0,108.0
+Chamaeza ruficauda_Rufous-tailed Antthrush,0.12941222,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.19537476,110.0,113.0
+Peucaea aestivalis_Bachman's Sparrow,0.13530083,110.0,113.0
+Setophaga virens_Black-throated Green Warbler,0.7322516,111.0,114.0
+Setophaga virens_Black-throated Green Warbler,0.68350726,112.0,115.0
+Setophaga virens_Black-throated Green Warbler,0.63202554,113.0,116.0
+Setophaga virens_Black-throated Green Warbler,0.5656489,124.0,127.0
+Setophaga virens_Black-throated Green Warbler,0.96471304,125.0,128.0
+Setophaga virens_Black-throated Green Warbler,0.9747331,126.0,129.0
+Setophaga virens_Black-throated Green Warbler,0.967278,127.0,130.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.24316142,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.13045205,128.0,131.0
+Geothlypis formosa_Kentucky Warbler,0.23350611,136.0,139.0
+Geothlypis formosa_Kentucky Warbler,0.7044133,137.0,140.0
+Geothlypis formosa_Kentucky Warbler,0.48817405,138.0,141.0
+Setophaga virens_Black-throated Green Warbler,0.81924415,139.0,142.0
+Setophaga virens_Black-throated Green Warbler,0.9756978,140.0,143.0
+Setophaga virens_Black-throated Green Warbler,0.98671883,141.0,144.0
+Setophaga virens_Black-throated Green Warbler,0.9713364,142.0,145.0
+Geothlypis formosa_Kentucky Warbler,0.119916715,149.0,152.0
+Geothlypis formosa_Kentucky Warbler,0.17433485,151.0,154.0
+Geothlypis formosa_Kentucky Warbler,0.15806517,152.0,155.0
+Setophaga virens_Black-throated Green Warbler,0.7738048,155.0,158.0
+Setophaga virens_Black-throated Green Warbler,0.979763,156.0,159.0
+Setophaga virens_Black-throated Green Warbler,0.958207,157.0,160.0
+Setophaga virens_Black-throated Green Warbler,0.9401706,158.0,161.0
+Geothlypis formosa_Kentucky Warbler,0.34631744,165.0,168.0
+Setophaga citrina_Hooded Warbler,0.100723065,165.0,168.0
+Geothlypis formosa_Kentucky Warbler,0.2864866,166.0,169.0
+Geothlypis formosa_Kentucky Warbler,0.10131066,167.0,170.0
+Setophaga virens_Black-throated Green Warbler,0.9276868,168.0,171.0
+Setophaga virens_Black-throated Green Warbler,0.98239213,169.0,172.0
+Setophaga virens_Black-throated Green Warbler,0.9819848,170.0,173.0
+Setophaga virens_Black-throated Green Warbler,0.98059595,171.0,174.0
+Setophaga virens_Black-throated Green Warbler,0.2353823,172.0,175.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1621906,175.0,178.0
+Empidonax virescens_Acadian Flycatcher,0.10391408,175.0,178.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14373803,176.0,179.0
+Corvus brachyrhynchos_American Crow,0.24031466,179.0,182.0
+Setophaga virens_Black-throated Green Warbler,0.93779707,188.0,191.0
+Setophaga virens_Black-throated Green Warbler,0.98645234,189.0,192.0
+Setophaga virens_Black-throated Green Warbler,0.9922592,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.97212595,191.0,194.0
+Setophaga virens_Black-throated Green Warbler,0.1658739,197.0,200.0
+Setophaga virens_Black-throated Green Warbler,0.9365413,201.0,204.0
+Setophaga virens_Black-throated Green Warbler,0.9276235,202.0,205.0
+Setophaga virens_Black-throated Green Warbler,0.95320165,203.0,206.0
+Setophaga virens_Black-throated Green Warbler,0.95980936,204.0,207.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10358245,205.0,208.0
+Setophaga virens_Black-throated Green Warbler,0.19996871,211.0,214.0
+Setophaga virens_Black-throated Green Warbler,0.14221309,212.0,215.0
+Setophaga virens_Black-throated Green Warbler,0.5451271,213.0,216.0
+Setophaga virens_Black-throated Green Warbler,0.9888116,214.0,217.0
+Setophaga virens_Black-throated Green Warbler,0.9878896,215.0,218.0
+Setophaga virens_Black-throated Green Warbler,0.9679487,216.0,219.0
+Setophaga virens_Black-throated Green Warbler,0.9894114,217.0,220.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1422116,225.0,228.0
+Setophaga virens_Black-throated Green Warbler,0.27905133,226.0,229.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1211871,226.0,229.0
+Setophaga virens_Black-throated Green Warbler,0.94298226,227.0,230.0
+Setophaga virens_Black-throated Green Warbler,0.9594663,228.0,231.0
+Setophaga virens_Black-throated Green Warbler,0.97262144,229.0,232.0
+Setophaga virens_Black-throated Green Warbler,0.6914074,230.0,233.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15395899,231.0,234.0
+Setophaga citrina_Hooded Warbler,0.11557447,231.0,234.0
+Empidonax virescens_Acadian Flycatcher,0.10011316,231.0,234.0
+Setophaga citrina_Hooded Warbler,0.14772032,232.0,235.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12745957,232.0,235.0
+Setophaga citrina_Hooded Warbler,0.25584674,233.0,236.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10515349,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10178384,241.0,244.0
+Setophaga virens_Black-throated Green Warbler,0.97036874,248.0,251.0
+Setophaga virens_Black-throated Green Warbler,0.98870033,249.0,252.0
+Setophaga virens_Black-throated Green Warbler,0.9842376,250.0,253.0
+Setophaga virens_Black-throated Green Warbler,0.979314,251.0,254.0
+Geothlypis formosa_Kentucky Warbler,0.16780305,252.0,255.0
+Setophaga citrina_Hooded Warbler,0.1101268,252.0,255.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13201578,254.0,257.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1357395,255.0,258.0
+Setophaga virens_Black-throated Green Warbler,0.27659085,263.0,266.0
+Setophaga virens_Black-throated Green Warbler,0.13754138,264.0,267.0
+Setophaga virens_Black-throated Green Warbler,0.9794916,265.0,268.0
+Setophaga virens_Black-throated Green Warbler,0.98413336,266.0,269.0
+Setophaga virens_Black-throated Green Warbler,0.98417723,267.0,270.0
+Setophaga virens_Black-throated Green Warbler,0.96596545,268.0,271.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.15057617,273.0,276.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.23673066,274.0,277.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.42033345,275.0,278.0
+Hylocichla mustelina_Wood Thrush,0.12522362,278.0,281.0
+Setophaga virens_Black-throated Green Warbler,0.59198475,280.0,283.0
+Setophaga virens_Black-throated Green Warbler,0.9327242,281.0,284.0
+Setophaga virens_Black-throated Green Warbler,0.9515778,282.0,285.0
+Setophaga virens_Black-throated Green Warbler,0.9514563,283.0,286.0
+Setophaga virens_Black-throated Green Warbler,0.9518897,284.0,287.0
+Setophaga occidentalis_Hermit Warbler,0.4319601,284.0,287.0
+Setophaga townsendi_Townsend's Warbler,0.13451254,284.0,287.0
+Setophaga virens_Black-throated Green Warbler,0.9598404,298.0,301.0
+Setophaga virens_Black-throated Green Warbler,0.9872528,299.0,302.0
+Setophaga virens_Black-throated Green Warbler,0.9942147,300.0,303.0
+Setophaga virens_Black-throated Green Warbler,0.97501695,301.0,304.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17462352,308.0,311.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.50077194,309.0,312.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.79336196,310.0,313.0
+Setophaga virens_Black-throated Green Warbler,0.9085412,313.0,316.0
+Setophaga virens_Black-throated Green Warbler,0.7178614,314.0,317.0
+Setophaga virens_Black-throated Green Warbler,0.8015466,315.0,318.0
+Setophaga virens_Black-throated Green Warbler,0.71029353,316.0,319.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12409926,319.0,322.0
+Myadestes melanops_Black-faced Solitaire,0.10064991,320.0,323.0
+Setophaga virens_Black-throated Green Warbler,0.20262788,327.0,330.0
+Setophaga virens_Black-throated Green Warbler,0.799768,328.0,331.0
+Setophaga virens_Black-throated Green Warbler,0.84516525,329.0,332.0
+Setophaga virens_Black-throated Green Warbler,0.65052974,330.0,333.0

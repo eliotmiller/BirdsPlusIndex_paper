@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Baeolophus bicolor_Tufted Titmouse,0.5703943,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.5910255,1.0,4.0
+Vireolanius eximius_Yellow-browed Shrike-Vireo,0.18190101,1.0,4.0
+Baeolophus bicolor_Tufted Titmouse,0.5284553,2.0,5.0
+Vireolanius eximius_Yellow-browed Shrike-Vireo,0.2829358,2.0,5.0
+Catharus fuscescens_Veery,0.5682383,3.0,6.0
+Catharus fuscescens_Veery,0.80245626,4.0,7.0
+Catharus fuscescens_Veery,0.48057964,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.16439708,5.0,8.0
+Baeolophus bicolor_Tufted Titmouse,0.25561386,6.0,9.0
+Catharus fuscescens_Veery,0.20200641,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.1708735,6.0,9.0
+Catharus fuscescens_Veery,0.8746457,7.0,10.0
+Catharus minimus_Gray-cheeked Thrush,0.21377063,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.10107339,7.0,10.0
+Catharus fuscescens_Veery,0.7620482,8.0,11.0
+Catharus fuscescens_Veery,0.8945114,9.0,12.0
+Catharus fuscescens_Veery,0.5850163,10.0,13.0
+Catharus guttatus_Hermit Thrush,0.1298492,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.82673347,11.0,14.0
+Baeolophus bicolor_Tufted Titmouse,0.11398119,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.85686326,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.27385187,12.0,15.0
+Catharus fuscescens_Veery,0.33279908,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.10039947,13.0,16.0
+Catharus fuscescens_Veery,0.6403544,14.0,17.0
+Catharus fuscescens_Veery,0.928159,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.35995612,16.0,19.0
+Catharus fuscescens_Veery,0.31149364,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.60902065,17.0,20.0
+Baeolophus bicolor_Tufted Titmouse,0.26359755,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.6300265,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.13846307,19.0,22.0
+Catharus fuscescens_Veery,0.9007973,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.10192971,21.0,24.0
+Catharus fuscescens_Veery,0.8115311,22.0,25.0
+Catharus fuscescens_Veery,0.91629016,23.0,26.0
+Catharus fuscescens_Veery,0.94718784,24.0,27.0
+Catharus fuscescens_Veery,0.59533584,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.22289449,25.0,28.0
+Catharus fuscescens_Veery,0.52216727,26.0,29.0
+Baeolophus bicolor_Tufted Titmouse,0.2924989,26.0,29.0
+Baeolophus bicolor_Tufted Titmouse,0.80087894,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.3292922,28.0,31.0
+Baeolophus bicolor_Tufted Titmouse,0.18086605,28.0,31.0
+Baeolophus bicolor_Tufted Titmouse,0.69952,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.14934264,29.0,32.0
+Baeolophus bicolor_Tufted Titmouse,0.8800338,30.0,33.0
+Baeolophus bicolor_Tufted Titmouse,0.6081256,31.0,34.0
+Catharus fuscescens_Veery,0.3135102,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.14531513,32.0,35.0
+Baeolophus bicolor_Tufted Titmouse,0.100357905,33.0,36.0
+Catharus fuscescens_Veery,0.5563676,36.0,39.0
+Catharus fuscescens_Veery,0.47870794,37.0,40.0
+Ixoreus naevius_Varied Thrush,0.20455521,37.0,40.0
+Catharus fuscescens_Veery,0.46741515,38.0,41.0
+Catharus fuscescens_Veery,0.6442342,39.0,42.0
+Catharus fuscescens_Veery,0.42918548,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.114219114,40.0,43.0
+Catharus fuscescens_Veery,0.3729694,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.3018109,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.2304076,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.10041997,42.0,45.0
+Catharus fuscescens_Veery,0.8695285,43.0,46.0
+Catharus fuscescens_Veery,0.56735826,44.0,47.0
+Catharus fuscescens_Veery,0.95697147,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.3247196,45.0,48.0
+Catharus fuscescens_Veery,0.8395724,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.18369631,46.0,49.0
+Catharus fuscescens_Veery,0.72335315,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.11355616,47.0,50.0
+Catharus fuscescens_Veery,0.5618584,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.13585487,48.0,51.0
+Catharus fuscescens_Veery,0.9240402,49.0,52.0
+Catharus fuscescens_Veery,0.86999923,50.0,53.0
+Catharus fuscescens_Veery,0.9954071,51.0,54.0
+Catharus fuscescens_Veery,0.90312576,52.0,55.0
+Catharus fuscescens_Veery,0.44400012,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.15013418,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.7622224,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.11979796,54.0,57.0
+Catharus fuscescens_Veery,0.29038593,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.10723474,55.0,58.0
+Catharus fuscescens_Veery,0.8803669,56.0,59.0
+Catharus fuscescens_Veery,0.8673827,57.0,60.0
+Catharus fuscescens_Veery,0.43695605,58.0,60.45600907029478
+Hylocichla mustelina_Wood Thrush,0.32385665,58.0,60.45600907029478

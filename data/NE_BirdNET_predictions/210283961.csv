@@ -1,0 +1,243 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.405116,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31646103,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.447155,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18407065,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16909619,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10485352,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.5842761,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11783554,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.2998558,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15550433,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28231812,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21001005,5.0,8.0
+Cardellina canadensis_Canada Warbler,0.18349496,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.63592726,6.0,9.0
+Setophaga ruticilla_American Redstart,0.10221486,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2485946,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.22041453,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18847589,7.0,10.0
+Cardellina canadensis_Canada Warbler,0.12168184,7.0,10.0
+Meleagris gallopavo_Wild Turkey,0.16593319,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.30523407,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16630003,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.15630086,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.116138734,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.5084781,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26868248,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.36512393,12.0,15.0
+Cardellina canadensis_Canada Warbler,0.1883488,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17224964,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17173679,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2843625,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.27983528,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.14451906,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13291323,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.5057362,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22963741,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16403939,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.10968314,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.5715191,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.69286096,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5085647,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29269654,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17399485,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.16818748,17.0,20.0
+Setophaga ruticilla_American Redstart,0.106425546,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.26402223,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22389592,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16448255,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.21061888,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12608056,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.1050587,19.0,22.0
+Cardellina canadensis_Canada Warbler,0.1033631,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12190438,20.0,23.0
+Mniotilta varia_Black-and-white Warbler,0.11534719,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.20922732,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19371587,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2191358,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.1748115,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1375473,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.22251573,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11964285,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.15292771,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11331654,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.12647077,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11228977,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28649986,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.1789695,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.108346544,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.11885671,27.0,30.0
+Catharus guttatus_Hermit Thrush,0.11898373,28.0,31.0
+Cardellina canadensis_Canada Warbler,0.1866148,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.13741855,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28185537,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.17149459,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.16747725,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13029557,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12601006,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.3437402,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.255023,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.4401636,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.99215865,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.9970197,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.9985026,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.9979163,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.99599314,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10863405,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10707563,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.102874115,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.44094127,42.0,45.0
+Cardellina canadensis_Canada Warbler,0.24031603,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19080284,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18972324,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.35446385,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19474635,43.0,46.0
+Cardellina canadensis_Canada Warbler,0.15455067,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15106535,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.214454,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15987813,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12543736,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12858269,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.11330712,45.0,48.0
+Geothlypis philadelphia_Mourning Warbler,0.77028763,46.0,49.0
+Geothlypis philadelphia_Mourning Warbler,0.43810466,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.17442417,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15798491,47.0,50.0
+Cardellina canadensis_Canada Warbler,0.14849296,47.0,50.0
+Geothlypis philadelphia_Mourning Warbler,0.28417537,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.2390201,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.10825573,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.3877459,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24558307,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12088941,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.29805502,50.0,53.0
+Geothlypis philadelphia_Mourning Warbler,0.15990478,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.38343596,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31146282,51.0,54.0
+Geothlypis philadelphia_Mourning Warbler,0.25746828,51.0,54.0
+Melospiza lincolnii_Lincoln's Sparrow,0.16641815,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.43199182,52.0,55.0
+Geothlypis philadelphia_Mourning Warbler,0.37382215,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31433663,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.2294453,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11872126,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.19786184,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.1161607,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102170035,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.5775245,55.0,58.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13699003,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.97723,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.9975562,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.99856156,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.9987924,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.9968335,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11138314,61.0,64.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16428494,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13979408,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.111727335,62.0,65.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14715049,63.0,66.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16701116,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.11248127,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.1088297,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.33034772,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21058284,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.11524878,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.10781202,65.0,68.0
+Setophaga fusca_Blackburnian Warbler,0.28633472,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20041762,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.10390874,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22648396,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.14840733,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35168746,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.16066341,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12115764,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1976051,70.0,73.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.114561476,70.0,73.0
+Vireo olivaceus_Red-eyed Vireo,0.16330469,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.1489577,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14372931,71.0,74.0
+Vireo olivaceus_Red-eyed Vireo,0.13084087,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11213582,72.0,75.0
+Vireo olivaceus_Red-eyed Vireo,0.18140414,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15066808,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.12673143,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11571939,74.0,77.0
+Vireo olivaceus_Red-eyed Vireo,0.111523315,74.0,77.0
+Setophaga fusca_Blackburnian Warbler,0.10133181,74.0,77.0
+Setophaga fusca_Blackburnian Warbler,0.21803394,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.20567827,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1407557,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.19375116,76.0,79.0
+Setophaga cerulea_Cerulean Warbler,0.24483699,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.131623,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12283293,77.0,80.0
+Empidonax virescens_Acadian Flycatcher,0.103290774,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.95412666,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.99128914,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.9982926,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.9959189,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.9945412,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2562093,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.15961635,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.12051538,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103316344,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21884379,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.17358,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2194084,86.0,89.0
+Setophaga fusca_Blackburnian Warbler,0.15510578,86.0,89.0
+Vireo olivaceus_Red-eyed Vireo,0.1323752,86.0,89.0
+Setophaga cerulea_Cerulean Warbler,0.10449807,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16032209,87.0,90.0
+Vireo olivaceus_Red-eyed Vireo,0.14758068,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.10745021,87.0,90.0
+Vireo olivaceus_Red-eyed Vireo,0.2515077,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14436546,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17984842,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.10039207,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15046069,90.0,93.0
+Vireo olivaceus_Red-eyed Vireo,0.1206579,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19406329,91.0,94.0
+Piranga olivacea_Scarlet Tanager,0.15511301,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15320478,92.0,95.0
+Setophaga ruticilla_American Redstart,0.105520725,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18960251,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.1538009,93.0,96.0
+Setophaga fusca_Blackburnian Warbler,0.1436683,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22413085,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.21843614,94.0,97.0
+Setophaga fusca_Blackburnian Warbler,0.16735929,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27252483,95.0,98.0
+Setophaga fusca_Blackburnian Warbler,0.16142167,95.0,98.0
+Setophaga cerulea_Cerulean Warbler,0.1523735,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16982597,96.0,99.0
+Setophaga cerulea_Cerulean Warbler,0.11350887,96.0,99.0
+Setophaga virens_Black-throated Green Warbler,0.101979665,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14273764,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.83404803,98.0,101.0
+Seiurus aurocapilla_Ovenbird,0.9926515,99.0,102.0
+Seiurus aurocapilla_Ovenbird,0.99430543,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.9958527,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.99064493,102.0,105.0
+Vireo olivaceus_Red-eyed Vireo,0.48627785,103.0,106.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16580474,103.0,106.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23182346,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.1406207,104.0,107.0
+Setophaga fusca_Blackburnian Warbler,0.10337788,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.12012571,105.0,108.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11523934,107.0,110.0
+Tamiasciurus hudsonicus_Red Squirrel,0.48725578,108.0,111.0
+Tamiasciurus hudsonicus_Red Squirrel,0.700447,109.0,112.0
+Tamiasciurus hudsonicus_Red Squirrel,0.37765443,110.0,113.0
+Tamiasciurus hudsonicus_Red Squirrel,0.32758665,111.0,114.0
+Tamias striatus_Eastern Chipmunk,0.14599004,111.0,114.0
+Tamiasciurus hudsonicus_Red Squirrel,0.47731733,112.0,115.0
+Tamias striatus_Eastern Chipmunk,0.2876962,112.0,115.0
+Tamiasciurus hudsonicus_Red Squirrel,0.6692271,113.0,116.0
+Tamias striatus_Eastern Chipmunk,0.16381338,113.0,116.0
+Tamiasciurus hudsonicus_Red Squirrel,0.33108968,114.0,117.0
+Tamias striatus_Eastern Chipmunk,0.11120151,114.0,117.0
+Tamias striatus_Eastern Chipmunk,0.32785967,115.0,118.0
+Tamiasciurus hudsonicus_Red Squirrel,0.29860124,115.0,118.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2742126,116.0,118.63201814058957
+Tamias striatus_Eastern Chipmunk,0.1898956,116.0,118.63201814058957

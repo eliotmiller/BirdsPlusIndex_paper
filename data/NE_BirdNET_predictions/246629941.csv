@@ -1,0 +1,107 @@
+species,score,start_time,end_time
+Falco peregrinus_Peregrine Falcon,0.98899674,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.15024382,0.0,3.0
+Falco peregrinus_Peregrine Falcon,0.9996762,1.0,4.0
+Falco peregrinus_Peregrine Falcon,0.9990791,2.0,5.0
+Falco peregrinus_Peregrine Falcon,0.99924576,3.0,6.0
+Falco peregrinus_Peregrine Falcon,0.99454725,4.0,7.0
+Falco peregrinus_Peregrine Falcon,0.9215725,5.0,8.0
+Falco peregrinus_Peregrine Falcon,0.9161646,6.0,9.0
+Falco peregrinus_Peregrine Falcon,0.9772166,7.0,10.0
+Falco peregrinus_Peregrine Falcon,0.9973617,8.0,11.0
+Falco peregrinus_Peregrine Falcon,0.9986518,9.0,12.0
+Falco peregrinus_Peregrine Falcon,0.9965328,10.0,13.0
+Engine_Engine,0.101226866,10.0,13.0
+Falco peregrinus_Peregrine Falcon,0.9983376,11.0,14.0
+Falco peregrinus_Peregrine Falcon,0.99531883,12.0,15.0
+Falco peregrinus_Peregrine Falcon,0.9842498,13.0,16.0
+Engine_Engine,0.18184465,14.0,17.0
+Falco peregrinus_Peregrine Falcon,0.12102671,14.0,17.0
+Engine_Engine,0.3604107,15.0,18.0
+Engine_Engine,0.29513425,16.0,19.0
+Falco peregrinus_Peregrine Falcon,0.12612481,16.0,19.0
+Falco peregrinus_Peregrine Falcon,0.97385263,17.0,20.0
+Falco peregrinus_Peregrine Falcon,0.9880164,18.0,21.0
+Falco peregrinus_Peregrine Falcon,0.9952134,19.0,22.0
+Falco peregrinus_Peregrine Falcon,0.94914556,20.0,23.0
+Falco peregrinus_Peregrine Falcon,0.9741367,21.0,24.0
+Falco peregrinus_Peregrine Falcon,0.9869789,22.0,25.0
+Falco peregrinus_Peregrine Falcon,0.9893253,23.0,26.0
+Falco peregrinus_Peregrine Falcon,0.87944186,24.0,27.0
+Engine_Engine,0.2843764,24.0,27.0
+Siren_Siren,0.17170055,24.0,27.0
+Falco peregrinus_Peregrine Falcon,0.9649515,25.0,28.0
+Engine_Engine,0.12730761,25.0,28.0
+Falco peregrinus_Peregrine Falcon,0.9785568,26.0,29.0
+Engine_Engine,0.23468566,26.0,29.0
+Falco peregrinus_Peregrine Falcon,0.9948087,27.0,30.0
+Falco peregrinus_Peregrine Falcon,0.9946457,28.0,31.0
+Falco peregrinus_Peregrine Falcon,0.98349565,29.0,32.0
+Falco peregrinus_Peregrine Falcon,0.846134,30.0,33.0
+Falco peregrinus_Peregrine Falcon,0.4744471,31.0,34.0
+Engine_Engine,0.23405722,31.0,34.0
+Falco peregrinus_Peregrine Falcon,0.9741873,32.0,35.0
+Falco peregrinus_Peregrine Falcon,0.98621374,33.0,36.0
+Falco peregrinus_Peregrine Falcon,0.9939844,34.0,37.0
+Falco peregrinus_Peregrine Falcon,0.9980318,35.0,38.0
+Falco peregrinus_Peregrine Falcon,0.99198455,36.0,39.0
+Falco peregrinus_Peregrine Falcon,0.993652,37.0,40.0
+Falco peregrinus_Peregrine Falcon,0.9874099,38.0,41.0
+Falco peregrinus_Peregrine Falcon,0.97078,39.0,42.0
+Falco peregrinus_Peregrine Falcon,0.9223584,40.0,43.0
+Falco peregrinus_Peregrine Falcon,0.73827356,41.0,44.0
+Falco peregrinus_Peregrine Falcon,0.87837505,42.0,45.0
+Falco peregrinus_Peregrine Falcon,0.94334596,43.0,46.0
+Buteo jamaicensis_Red-tailed Hawk,0.10523032,43.0,46.0
+Falco peregrinus_Peregrine Falcon,0.89031214,44.0,47.0
+Buteo jamaicensis_Red-tailed Hawk,0.3019729,44.0,47.0
+Falco peregrinus_Peregrine Falcon,0.9188826,45.0,48.0
+Gun_Gun,0.19151059,48.0,51.0
+Falco peregrinus_Peregrine Falcon,0.16080032,51.0,54.0
+Falco peregrinus_Peregrine Falcon,0.10034051,52.0,55.0
+Falco peregrinus_Peregrine Falcon,0.27933672,54.0,57.0
+Falco peregrinus_Peregrine Falcon,0.114016175,55.0,58.0
+Falco peregrinus_Peregrine Falcon,0.9671456,57.0,60.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.11662953,57.0,60.0
+Falco peregrinus_Peregrine Falcon,0.9882428,58.0,61.0
+Falco peregrinus_Peregrine Falcon,0.9394509,59.0,62.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.46068123,59.0,62.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.30317825,59.0,62.0
+Falco peregrinus_Peregrine Falcon,0.89435625,60.0,63.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.28983754,60.0,63.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.2817387,61.0,64.0
+Falco peregrinus_Peregrine Falcon,0.1890548,61.0,64.0
+Vireo gilvus_Warbling Vireo,0.8019554,67.0,70.0
+Haemorhous purpureus_Purple Finch,0.20109998,67.0,70.0
+Vireo gilvus_Warbling Vireo,0.31905326,68.0,71.0
+Haemorhous purpureus_Purple Finch,0.19528887,68.0,71.0
+Haemorhous purpureus_Purple Finch,0.3758005,69.0,72.0
+Vireo gilvus_Warbling Vireo,0.15860033,69.0,72.0
+Haemorhous mexicanus_House Finch,0.11175303,73.0,76.0
+Haemorhous mexicanus_House Finch,0.1467368,74.0,77.0
+Colaptes auratus_Northern Flicker,0.10045877,77.0,80.0
+Spinus tristis_American Goldfinch,0.11292245,83.0,86.0
+Spinus tristis_American Goldfinch,0.6831877,84.0,87.0
+Spinus tristis_American Goldfinch,0.25768733,85.0,88.0
+Haemorhous mexicanus_House Finch,0.10969958,87.0,90.0
+Vireo gilvus_Warbling Vireo,0.23801962,88.0,91.0
+Haemorhous mexicanus_House Finch,0.17369251,88.0,91.0
+Haemorhous purpureus_Purple Finch,0.116995566,88.0,91.0
+Vireo gilvus_Warbling Vireo,0.2841536,89.0,92.0
+Haemorhous purpureus_Purple Finch,0.18889138,89.0,92.0
+Vireo gilvus_Warbling Vireo,0.5072863,90.0,93.0
+Haemorhous purpureus_Purple Finch,0.19376738,90.0,93.0
+Haemorhous purpureus_Purple Finch,0.13239124,91.0,94.0
+Erithacus rubecula_European Robin,0.18549474,93.0,96.0
+Cinclus mexicanus_American Dipper,0.1060776,101.0,104.0
+Haemorhous mexicanus_House Finch,0.123111084,103.0,106.0
+Vireo gilvus_Warbling Vireo,0.15587452,110.0,113.0
+Vireo gilvus_Warbling Vireo,0.62279606,111.0,114.0
+Haemorhous purpureus_Purple Finch,0.22419904,111.0,114.0
+Vireo gilvus_Warbling Vireo,0.5557499,112.0,115.0
+Haemorhous purpureus_Purple Finch,0.14763342,112.0,115.0
+Gun_Gun,0.5039945,114.0,117.0
+Engine_Engine,0.11478338,114.0,117.0
+Gun_Gun,0.2044998,115.0,118.0
+Engine_Engine,0.13808157,115.0,118.0
+Engine_Engine,0.29185802,116.0,118.94403628117914

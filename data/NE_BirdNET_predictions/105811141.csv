@@ -1,0 +1,41 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.8551101,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.48201194,1.0,4.0
+Bubo virginianus_Great Horned Owl,0.6556814,2.0,5.0
+Bubo virginianus_Great Horned Owl,0.7175212,3.0,6.0
+Bubo virginianus_Great Horned Owl,0.55408716,4.0,7.0
+Engine_Engine,0.19214801,5.0,8.0
+Engine_Engine,0.12564987,6.0,9.0
+Engine_Engine,0.24977632,7.0,10.0
+Engine_Engine,0.18663315,8.0,11.0
+Human non-vocal_Human non-vocal,0.36406633,9.0,12.0
+Engine_Engine,0.339365,9.0,12.0
+Engine_Engine,0.2880811,10.0,13.0
+Human non-vocal_Human non-vocal,0.26493487,10.0,13.0
+Engine_Engine,0.23588547,11.0,14.0
+Engine_Engine,0.14957514,12.0,15.0
+Engine_Engine,0.14897203,13.0,16.0
+Human non-vocal_Human non-vocal,0.11539501,13.0,16.0
+Bubo virginianus_Great Horned Owl,0.14384139,14.0,17.0
+Bubo virginianus_Great Horned Owl,0.18056715,15.0,18.0
+Bubo virginianus_Great Horned Owl,0.93244797,16.0,19.0
+Bubo virginianus_Great Horned Owl,0.84333485,17.0,20.0
+Bubo virginianus_Great Horned Owl,0.80125105,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.95591444,19.0,22.0
+Strix uralensis_Ural Owl,0.13325728,19.0,22.0
+Engine_Engine,0.103063874,24.0,27.0
+Engine_Engine,0.15200302,25.0,28.0
+Engine_Engine,0.10966218,26.0,29.0
+Human non-vocal_Human non-vocal,0.14018407,27.0,30.0
+Engine_Engine,0.11098233,27.0,30.0
+Engine_Engine,0.1207675,28.0,31.0
+Engine_Engine,0.14707027,31.0,34.0
+Human non-vocal_Human non-vocal,0.108685754,31.0,34.0
+Bubo virginianus_Great Horned Owl,0.90517586,36.0,39.0
+Bubo virginianus_Great Horned Owl,0.7202391,37.0,40.0
+Bubo virginianus_Great Horned Owl,0.6389117,38.0,41.0
+Bubo bubo_Eurasian Eagle-Owl,0.35851955,39.0,42.0
+Bubo virginianus_Great Horned Owl,0.28417537,39.0,42.0
+Bubo virginianus_Great Horned Owl,0.8344713,40.0,42.21600907029478
+Strix nebulosa_Great Gray Owl,0.24743927,40.0,42.21600907029478
+Podargus strigoides_Tawny Frogmouth,0.14026444,40.0,42.21600907029478

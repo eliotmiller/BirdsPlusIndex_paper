@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.358798,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.3040679,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.13525128,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.12015475,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.4222002,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25580347,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.17093818,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.13518201,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.11998362,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.23579471,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12020672,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.10159867,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.16234064,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3226076,5.0,8.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15185082,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5604359,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.3349449,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8702722,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.49056542,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.33467335,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.1528576,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.16531187,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.22203374,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.21641698,14.0,17.0
+Certhia americana_Brown Creeper,0.10819286,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.10536537,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.4568625,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.10206826,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.3896672,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.19724023,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.14926165,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.11652893,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10751267,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.17353655,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11503149,17.0,20.0
+Setophaga ruticilla_American Redstart,0.1007734,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.4179818,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38763037,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.17015477,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7187583,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.26425156,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.13515535,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9276629,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.12320033,20.0,23.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11984207,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6269484,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.36752883,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.12593216,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.15373293,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15108375,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.11408887,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.10666026,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.39331898,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1327817,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.10833799,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6100615,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.32099548,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.15926142,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.109120846,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10361511,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39486766,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2717086,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.18392459,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.15082166,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.48460737,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40444234,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.37544417,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21300085,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.17502283,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110576764,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.10862987,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.10539833,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.27343857,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.11851316,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103598334,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.14704385,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.12023506,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.10525301,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.10460074,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.12016223,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.11996159,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.115131974,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50354993,37.0,40.0
+Limnothlypis swainsonii_Swainson's Warbler,0.4627262,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.10433315,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6260001,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.29990986,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6445182,39.0,41.23201814058957
+Limnothlypis swainsonii_Swainson's Warbler,0.1974739,39.0,41.23201814058957

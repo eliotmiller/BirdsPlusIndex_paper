@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Sialia sialis_Eastern Bluebird,0.13355915,0.0,3.0
+Sitta carolinensis_White-breasted Nuthatch,0.11135178,0.0,3.0
+Piranga rubra_Summer Tanager,0.1186659,2.0,5.0
+Phylloscopus griseolus_Sulphur-bellied Warbler,0.10175004,2.0,5.0
+Sitta carolinensis_White-breasted Nuthatch,0.15747388,5.0,8.0
+Sitta canadensis_Red-breasted Nuthatch,0.2501911,6.0,9.0
+Sitta carolinensis_White-breasted Nuthatch,0.20325227,6.0,9.0
+Curaeus curaeus_Austral Blackbird,0.16828163,7.0,10.0
+Sitta carolinensis_White-breasted Nuthatch,0.5216366,8.0,11.0
+Sitta canadensis_Red-breasted Nuthatch,0.18162063,8.0,11.0
+Curaeus curaeus_Austral Blackbird,0.1364125,8.0,11.0
+Sitta carolinensis_White-breasted Nuthatch,0.85789746,9.0,12.0
+Sitta carolinensis_White-breasted Nuthatch,0.7409479,10.0,13.0
+Sitta canadensis_Red-breasted Nuthatch,0.11949068,10.0,13.0
+Sitta carolinensis_White-breasted Nuthatch,0.78715146,11.0,14.0
+Sitta canadensis_Red-breasted Nuthatch,0.5280017,11.0,14.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.2923335,12.0,15.0
+Hypsipetes leucocephalus_Black Bulbul,0.13612838,12.0,15.0
+Hypsipetes leucocephalus_Black Bulbul,0.3307569,13.0,16.0
+Loxia pytyopsittacus_Parrot Crossbill,0.13845056,13.0,16.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.10133109,13.0,16.0
+Hypsipetes leucocephalus_Black Bulbul,0.39915925,14.0,17.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.3770392,14.0,17.0
+Lonchura kelaarti_Black-throated Munia,0.20904964,14.0,17.0
+Curaeus curaeus_Austral Blackbird,0.12923847,14.0,17.0
+Hypsipetes leucocephalus_Black Bulbul,0.42237717,15.0,18.0
+Hypsipetes leucocephalus_Black Bulbul,0.87820673,16.0,19.0
+Hypsipetes ganeesa_Square-tailed Bulbul,0.11419716,16.0,19.0
+Hypsipetes leucocephalus_Black Bulbul,0.25597483,17.0,20.0
+Sitta carolinensis_White-breasted Nuthatch,0.18714017,17.0,20.0
+Sitta carolinensis_White-breasted Nuthatch,0.58481723,18.0,21.0
+Sitta carolinensis_White-breasted Nuthatch,0.4716876,19.0,22.0
+Curaeus curaeus_Austral Blackbird,0.22692211,20.0,23.0
+Hypsipetes leucocephalus_Black Bulbul,0.11358204,20.0,23.0
+Sitta canadensis_Red-breasted Nuthatch,0.16612889,21.0,24.0
+Sitta carolinensis_White-breasted Nuthatch,0.14998777,21.0,24.0
+Sitta carolinensis_White-breasted Nuthatch,0.4280712,22.0,25.0
+Sitta canadensis_Red-breasted Nuthatch,0.10270186,22.0,25.0
+Sitta carolinensis_White-breasted Nuthatch,0.18155509,23.0,26.0
+Sitta canadensis_Red-breasted Nuthatch,0.11067144,23.0,26.0
+Sitta carolinensis_White-breasted Nuthatch,0.19551592,24.0,27.0
+Himantopus himantopus_Black-winged Stilt,0.1070221,24.0,27.0
+Sitta carolinensis_White-breasted Nuthatch,0.10019841,25.0,28.0
+Sitta canadensis_Red-breasted Nuthatch,0.56890047,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.45106557,26.0,29.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.15898272,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.41888854,27.0,30.0
+Sitta canadensis_Red-breasted Nuthatch,0.18487842,27.0,30.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.13879699,27.0,30.0
+Sitta canadensis_Red-breasted Nuthatch,0.7644908,28.0,31.0
+Sitta carolinensis_White-breasted Nuthatch,0.25274482,28.0,31.0
+Sitta canadensis_Red-breasted Nuthatch,0.837029,29.0,32.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.16445363,29.0,32.0
+Sitta carolinensis_White-breasted Nuthatch,0.14758542,29.0,32.0
+Sitta canadensis_Red-breasted Nuthatch,0.825239,30.0,33.0
+Sitta carolinensis_White-breasted Nuthatch,0.16467349,30.0,33.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.13473558,30.0,33.0
+Hydrocoloeus minutus_Little Gull,0.30072933,31.0,34.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.22989295,31.0,34.0
+Sitta canadensis_Red-breasted Nuthatch,0.16634025,31.0,34.0
+Loxia curvirostra_Red Crossbill,0.1316099,31.0,34.0
+Loxia sinesciuris_Cassia Crossbill,0.12789671,31.0,34.0
+Sitta carolinensis_White-breasted Nuthatch,0.26021755,34.0,37.0
+Sitta carolinensis_White-breasted Nuthatch,0.23402415,35.0,38.0
+Sitta carolinensis_White-breasted Nuthatch,0.53127354,36.0,39.0
+Sitta carolinensis_White-breasted Nuthatch,0.14681882,37.0,40.0
+Curaeus curaeus_Austral Blackbird,0.12154483,37.0,40.0
+Sitta carolinensis_White-breasted Nuthatch,0.6206776,38.0,41.0
+Sitta carolinensis_White-breasted Nuthatch,0.36860934,39.0,42.0
+Sitta carolinensis_White-breasted Nuthatch,0.83055913,40.0,43.0
+Sitta carolinensis_White-breasted Nuthatch,0.89203006,41.0,44.0
+Sitta canadensis_Red-breasted Nuthatch,0.2135067,41.0,44.0
+Sitta carolinensis_White-breasted Nuthatch,0.722911,42.0,45.0
+Sitta canadensis_Red-breasted Nuthatch,0.5122044,42.0,45.0
+Sitta carolinensis_White-breasted Nuthatch,0.9171969,43.0,46.0
+Sitta canadensis_Red-breasted Nuthatch,0.56124663,43.0,46.0
+Sitta carolinensis_White-breasted Nuthatch,0.19648708,44.0,47.0
+Sitta carolinensis_White-breasted Nuthatch,0.71684736,45.0,48.0
+Sitta carolinensis_White-breasted Nuthatch,0.7591193,46.0,49.0
+Sitta canadensis_Red-breasted Nuthatch,0.23870371,46.0,49.0
+Sitta carolinensis_White-breasted Nuthatch,0.890533,47.0,50.0
+Sitta canadensis_Red-breasted Nuthatch,0.1606314,47.0,50.0
+Sitta carolinensis_White-breasted Nuthatch,0.7228821,48.0,51.0
+Curaeus curaeus_Austral Blackbird,0.10712974,49.0,52.0
+Sitta carolinensis_White-breasted Nuthatch,0.8695593,50.0,53.0
+Sitta canadensis_Red-breasted Nuthatch,0.48009297,50.0,53.0
+Sitta carolinensis_White-breasted Nuthatch,0.12080373,51.0,53.088027210884356

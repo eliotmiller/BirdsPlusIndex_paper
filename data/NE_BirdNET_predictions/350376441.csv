@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Cistothorus stellaris_Sedge Wren,0.7899137,0.0,3.0
+Cistothorus platensis_Grass Wren,0.7368554,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.27155605,0.0,3.0
+Cistothorus stellaris_Sedge Wren,0.5818574,1.0,4.0
+Cistothorus platensis_Grass Wren,0.4749249,1.0,4.0
+Cistothorus stellaris_Sedge Wren,0.6645609,2.0,5.0
+Cistothorus platensis_Grass Wren,0.4878605,2.0,5.0
+Cistothorus stellaris_Sedge Wren,0.76355934,3.0,6.0
+Cistothorus platensis_Grass Wren,0.62832326,3.0,6.0
+Cistothorus stellaris_Sedge Wren,0.7122345,4.0,7.0
+Cistothorus platensis_Grass Wren,0.57559276,4.0,7.0
+Cistothorus stellaris_Sedge Wren,0.60455745,5.0,8.0
+Cistothorus platensis_Grass Wren,0.56007963,5.0,8.0
+Cistothorus stellaris_Sedge Wren,0.7821991,6.0,9.0
+Cistothorus platensis_Grass Wren,0.6613957,6.0,9.0
+Cistothorus stellaris_Sedge Wren,0.7703648,7.0,10.0
+Cistothorus platensis_Grass Wren,0.61279845,7.0,10.0
+Cistothorus stellaris_Sedge Wren,0.78392243,8.0,11.0
+Cistothorus platensis_Grass Wren,0.6403165,8.0,11.0
+Cistothorus stellaris_Sedge Wren,0.8782345,9.0,12.0
+Cistothorus platensis_Grass Wren,0.7632229,9.0,12.0
+Cistothorus stellaris_Sedge Wren,0.742496,10.0,13.0
+Cistothorus platensis_Grass Wren,0.6269305,10.0,13.0
+Cistothorus stellaris_Sedge Wren,0.62065655,11.0,14.0
+Cistothorus platensis_Grass Wren,0.60118985,11.0,14.0
+Cistothorus platensis_Grass Wren,0.52804804,12.0,15.0
+Cistothorus stellaris_Sedge Wren,0.48608872,12.0,15.0
+Cistothorus stellaris_Sedge Wren,0.7707142,13.0,16.0
+Cistothorus platensis_Grass Wren,0.74587053,13.0,16.0
+Cistothorus stellaris_Sedge Wren,0.7241652,14.0,17.0
+Cistothorus platensis_Grass Wren,0.67845803,14.0,17.0
+Cistothorus stellaris_Sedge Wren,0.6186035,15.0,18.0
+Cistothorus platensis_Grass Wren,0.3773739,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.18585074,15.0,18.0
+Cistothorus platensis_Grass Wren,0.5099605,16.0,19.0
+Cistothorus stellaris_Sedge Wren,0.46897635,16.0,19.0
+Geothlypis trichas_Common Yellowthroat,0.10843916,16.0,19.0
+Saxicola rubicola_European Stonechat,0.29956162,17.0,20.0
+Cistothorus platensis_Grass Wren,0.11351635,17.0,20.0
+Saxicola rubicola_European Stonechat,0.33702672,18.0,21.0
+Oenanthe hispanica_Western Black-eared Wheatear,0.11646866,18.0,21.0
+Cistothorus platensis_Grass Wren,0.1355073,19.0,22.0
+Cistothorus platensis_Grass Wren,0.3868971,20.0,23.0
+Cistothorus stellaris_Sedge Wren,0.18765596,20.0,23.0
+Cistothorus platensis_Grass Wren,0.72280943,21.0,24.0
+Cistothorus stellaris_Sedge Wren,0.5601645,21.0,24.0
+Cistothorus stellaris_Sedge Wren,0.6690695,22.0,25.0
+Cistothorus platensis_Grass Wren,0.60272676,22.0,25.0
+Cistothorus stellaris_Sedge Wren,0.6807362,23.0,26.0
+Cistothorus platensis_Grass Wren,0.6139611,23.0,26.0
+Saxicola rubicola_European Stonechat,0.29915914,24.0,27.0
+Cistothorus platensis_Grass Wren,0.29633334,24.0,27.0
+Cistothorus stellaris_Sedge Wren,0.2535412,24.0,27.0
+Calandrella acutirostris_Hume's Lark,0.185939,27.0,30.0
+Oenanthe hispanica_Western Black-eared Wheatear,0.1094065,27.0,30.0
+Oenanthe hispanica_Western Black-eared Wheatear,0.14723396,28.0,31.0
+Saxicola rubicola_European Stonechat,0.27001643,29.0,32.0
+Phoenicurus ochruros_Black Redstart,0.10831171,29.0,32.0
+Saxicola rubicola_European Stonechat,0.73358876,30.0,33.0
+Phoenicurus ochruros_Black Redstart,0.14940332,30.0,33.0
+Cistothorus platensis_Grass Wren,0.1199343,30.0,33.0
+Acrocephalus schoenobaenus_Sedge Warbler,0.113945656,30.0,33.0
+Oenanthe hispanica_Western Black-eared Wheatear,0.20146166,31.0,34.0
+Saxicola rubicola_European Stonechat,0.15356024,31.0,34.0
+Phoenicurus ochruros_Black Redstart,0.11419028,31.0,34.0

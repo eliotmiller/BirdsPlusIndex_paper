@@ -1,0 +1,127 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.10150633,1.0,4.0
+Catharus fuscescens_Veery,0.12639223,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.12045518,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.425558,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.91498476,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.90738213,7.0,10.0
+Passerina cyanea_Indigo Bunting,0.38160425,8.0,11.0
+Setophaga discolor_Prairie Warbler,0.26596728,8.0,11.0
+Setophaga discolor_Prairie Warbler,0.89938074,9.0,12.0
+Setophaga discolor_Prairie Warbler,0.76450086,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.105725415,10.0,13.0
+Setophaga discolor_Prairie Warbler,0.40345588,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.22913739,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.37201986,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.31880555,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.5137677,14.0,17.0
+Catharus fuscescens_Veery,0.23718424,15.0,18.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1549828,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.15636906,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.8075863,17.0,20.0
+Passerina cyanea_Indigo Bunting,0.9107776,18.0,21.0
+Passerina cyanea_Indigo Bunting,0.93803126,19.0,22.0
+Setophaga discolor_Prairie Warbler,0.41038474,20.0,23.0
+Setophaga discolor_Prairie Warbler,0.96936125,21.0,24.0
+Setophaga discolor_Prairie Warbler,0.98308486,22.0,25.0
+Setophaga discolor_Prairie Warbler,0.9675831,23.0,26.0
+Zenaida macroura_Mourning Dove,0.1264891,24.0,27.0
+Catharus fuscescens_Veery,0.39118055,25.0,28.0
+Catharus fuscescens_Veery,0.7271682,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.11316294,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.92105013,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.8636308,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.92378163,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.7785739,30.0,33.0
+Spinus tristis_American Goldfinch,0.19910474,30.0,33.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19510567,31.0,34.0
+Setophaga ruticilla_American Redstart,0.15177532,31.0,34.0
+Cardellina canadensis_Canada Warbler,0.12777595,31.0,34.0
+Catharus fuscescens_Veery,0.39158225,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.3203891,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1099135,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.6917878,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.3637033,34.0,37.0
+Catharus fuscescens_Veery,0.20672403,34.0,37.0
+Setophaga discolor_Prairie Warbler,0.3100351,35.0,38.0
+Setophaga discolor_Prairie Warbler,0.9000737,36.0,39.0
+Setophaga discolor_Prairie Warbler,0.69680244,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.7151617,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.8996132,39.0,42.0
+Passerina cyanea_Indigo Bunting,0.84868,40.0,43.0
+Phylloscopus omeiensis_Martens's Warbler,0.53427494,41.0,44.0
+Spinus tristis_American Goldfinch,0.30736643,41.0,44.0
+Passerina cyanea_Indigo Bunting,0.15076834,41.0,44.0
+Catharus fuscescens_Veery,0.5810255,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.33135283,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.11738973,42.0,45.0
+Vermivora cyanoptera_Blue-winged Warbler,0.565436,43.0,46.0
+Catharus fuscescens_Veery,0.30533558,43.0,46.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12644763,43.0,46.0
+Vermivora cyanoptera_Blue-winged Warbler,0.86044,44.0,47.0
+Vermivora chrysoptera_Golden-winged Warbler,0.18598431,44.0,47.0
+Catharus fuscescens_Veery,0.17360494,44.0,47.0
+Vermivora cyanoptera_Blue-winged Warbler,0.54122734,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.17558196,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.21563277,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17258546,46.0,49.0
+Poecile atricapillus_Black-capped Chickadee,0.15403055,46.0,49.0
+Chlorodrepanis virens_Hawaii Amakihi,0.12292215,48.0,51.0
+Haemorhous mexicanus_House Finch,0.116001464,48.0,51.0
+Catharus fuscescens_Veery,0.34186304,49.0,52.0
+Setophaga discolor_Prairie Warbler,0.86975473,50.0,53.0
+Setophaga discolor_Prairie Warbler,0.8845463,51.0,54.0
+Setophaga discolor_Prairie Warbler,0.8420824,52.0,55.0
+Setophaga discolor_Prairie Warbler,0.785261,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14445396,53.0,56.0
+Catharus fuscescens_Veery,0.8653706,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.12221792,54.0,57.0
+Catharus fuscescens_Veery,0.15876842,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14489791,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.10744495,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.33420974,56.0,59.0
+Catharus fuscescens_Veery,0.1816663,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.25561553,57.0,60.0
+Passerina cyanea_Indigo Bunting,0.29788342,58.0,61.0
+Passerina cyanea_Indigo Bunting,0.5839284,59.0,62.0
+Passerina cyanea_Indigo Bunting,0.29812846,60.0,63.0
+Spizella pusilla_Field Sparrow,0.7184916,61.0,64.0
+Setophaga discolor_Prairie Warbler,0.39153552,61.0,64.0
+Setophaga discolor_Prairie Warbler,0.6537479,62.0,65.0
+Spizella pusilla_Field Sparrow,0.26972297,62.0,65.0
+Setophaga discolor_Prairie Warbler,0.79072976,63.0,66.0
+Setophaga discolor_Prairie Warbler,0.8683413,64.0,67.0
+Catharus fuscescens_Veery,0.26986513,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.12524039,65.0,68.0
+Catharus fuscescens_Veery,0.6760853,66.0,69.0
+Passerina cyanea_Indigo Bunting,0.58905345,67.0,70.0
+Setophaga occidentalis_Hermit Warbler,0.13429765,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.90916085,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.9499313,69.0,72.0
+Passerina cyanea_Indigo Bunting,0.8426411,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.13169172,71.0,74.0
+Setophaga discolor_Prairie Warbler,0.20082948,76.0,79.0
+Stachyris nigriceps_Gray-throated Babbler,0.112119704,76.0,79.0
+Setophaga discolor_Prairie Warbler,0.6235081,77.0,80.0
+Setophaga discolor_Prairie Warbler,0.6161968,78.0,81.0
+Setophaga discolor_Prairie Warbler,0.76575935,79.0,82.0
+Catharus fuscescens_Veery,0.2313703,80.0,83.0
+Passerina cyanea_Indigo Bunting,0.7447126,81.0,84.0
+Passerina cyanea_Indigo Bunting,0.5874569,82.0,85.0
+Passerina cyanea_Indigo Bunting,0.5913872,83.0,86.0
+Passerina cyanea_Indigo Bunting,0.47040585,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.10223731,85.0,88.0
+Setophaga discolor_Prairie Warbler,0.18728952,86.0,89.0
+Setophaga discolor_Prairie Warbler,0.41779527,87.0,90.0
+Setophaga discolor_Prairie Warbler,0.59578556,88.0,91.0
+Setophaga discolor_Prairie Warbler,0.49683943,89.0,92.0
+Catharus fuscescens_Veery,0.1558154,97.0,100.0
+Catharus fuscescens_Veery,0.5042809,98.0,101.0
+Setophaga discolor_Prairie Warbler,0.76889133,102.0,105.0
+Setophaga discolor_Prairie Warbler,0.6758486,103.0,106.0
+Setophaga discolor_Prairie Warbler,0.65847355,104.0,107.0
+Vermivora cyanoptera_Blue-winged Warbler,0.2865496,105.0,108.0
+Catharus fuscescens_Veery,0.17280732,105.0,108.0
+Vermivora cyanoptera_Blue-winged Warbler,0.4039047,106.0,109.0
+Vermivora cyanoptera_Blue-winged Warbler,0.793814,107.0,110.0
+Catharus fuscescens_Veery,0.11114387,107.0,110.0

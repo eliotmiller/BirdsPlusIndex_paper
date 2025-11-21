@@ -1,0 +1,58 @@
+species,score,start_time,end_time
+Accipiter cooperii_Cooper's Hawk,0.15734848,2.0,5.0
+Leucophaeus atricilla_Laughing Gull,0.41784188,9.0,12.0
+Larus delawarensis_Ring-billed Gull,0.16951089,9.0,12.0
+Metopidius indicus_Bronze-winged Jacana,0.17130558,12.0,15.0
+Stipiturus malachurus_Southern Emuwren,0.20796126,51.0,54.0
+Bombycilla cedrorum_Cedar Waxwing,0.20330513,51.0,54.0
+Spiza americana_Dickcissel,0.3119254,52.0,55.0
+Passerina caerulea_Blue Grosbeak,0.12762904,52.0,55.0
+Spinus psaltria_Lesser Goldfinch,0.14229773,53.0,56.0
+Spinus spinus_Eurasian Siskin,0.19651219,54.0,57.0
+Spinus psaltria_Lesser Goldfinch,0.16929035,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.111100465,60.0,63.0
+Bombycilla cedrorum_Cedar Waxwing,0.30809817,128.0,131.0
+Bombycilla cedrorum_Cedar Waxwing,0.45660812,129.0,132.0
+Bombycilla cedrorum_Cedar Waxwing,0.21214095,149.0,152.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17308767,150.0,153.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14587946,151.0,154.0
+Metopidius indicus_Bronze-winged Jacana,0.2372184,165.0,168.0
+Metopidius indicus_Bronze-winged Jacana,0.17122468,167.0,170.0
+Metopidius indicus_Bronze-winged Jacana,0.32517815,171.0,174.0
+Melospiza georgiana_Swamp Sparrow,0.17390053,198.0,201.0
+Spinus psaltria_Lesser Goldfinch,0.1039243,199.0,202.0
+Spinus psaltria_Lesser Goldfinch,0.30408853,201.0,204.0
+Spinus psaltria_Lesser Goldfinch,0.37353066,202.0,205.0
+Spinus notatus_Black-headed Siskin,0.17664295,202.0,205.0
+Spinus psaltria_Lesser Goldfinch,0.24127848,203.0,206.0
+Spinus psaltria_Lesser Goldfinch,0.16812365,204.0,207.0
+Spinus psaltria_Lesser Goldfinch,0.14250594,205.0,208.0
+Spinus psaltria_Lesser Goldfinch,0.12622629,213.0,216.0
+Spinus psaltria_Lesser Goldfinch,0.18136,214.0,217.0
+Spinus psaltria_Lesser Goldfinch,0.18559258,216.0,219.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.23844878,217.0,220.0
+Spinus psaltria_Lesser Goldfinch,0.110587105,218.0,221.0
+Spinus psaltria_Lesser Goldfinch,0.1348177,219.0,222.0
+Spinus psaltria_Lesser Goldfinch,0.31547356,220.0,223.0
+Spinus psaltria_Lesser Goldfinch,0.10442909,222.0,225.0
+Spinus spinus_Eurasian Siskin,0.11022603,231.0,234.0
+Spinus psaltria_Lesser Goldfinch,0.12898292,240.0,243.0
+Metopidius indicus_Bronze-winged Jacana,0.11640222,243.0,246.0
+Spinus psaltria_Lesser Goldfinch,0.13243835,254.0,257.0
+Metopidius indicus_Bronze-winged Jacana,0.15986772,260.0,263.0
+Metopidius indicus_Bronze-winged Jacana,0.19120204,270.0,273.0
+Metopidius indicus_Bronze-winged Jacana,0.14188132,272.0,275.0
+Spinus psaltria_Lesser Goldfinch,0.18054421,275.0,278.0
+Spinus psaltria_Lesser Goldfinch,0.28859144,276.0,279.0
+Metopidius indicus_Bronze-winged Jacana,0.120432734,281.0,284.0
+Metopidius indicus_Bronze-winged Jacana,0.12140672,287.0,290.0
+Metopidius indicus_Bronze-winged Jacana,0.1705489,289.0,292.0
+Metopidius indicus_Bronze-winged Jacana,0.15763944,291.0,294.0
+Leucophaeus atricilla_Laughing Gull,0.13992772,291.0,294.0
+Melospiza melodia_Song Sparrow,0.435387,316.0,319.0
+Circus hudsonius_Northern Harrier,0.11173999,318.0,321.0
+Ardea herodias_Great Blue Heron,0.1126786,334.0,337.0
+Ardea herodias_Great Blue Heron,0.10231263,339.0,342.0
+Aix sponsa_Wood Duck,0.12168715,340.0,343.0
+Aix sponsa_Wood Duck,0.10656186,341.0,344.0
+Ardea herodias_Great Blue Heron,0.10449618,347.0,350.0

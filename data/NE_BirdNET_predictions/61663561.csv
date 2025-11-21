@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.9911122,0.0,3.0
+Setophaga coronata_Yellow-rumped Warbler,0.81215215,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.39081115,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.27737612,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.92559683,5.0,8.0
+Contopus virens_Eastern Wood-Pewee,0.944308,6.0,9.0
+Contopus virens_Eastern Wood-Pewee,0.8484317,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.29360917,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.30302036,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.23690155,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.67317265,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.39652032,12.0,15.0
+Setophaga coronata_Yellow-rumped Warbler,0.20204139,13.0,16.0
+Setophaga coronata_Yellow-rumped Warbler,0.94952047,14.0,17.0
+Setophaga coronata_Yellow-rumped Warbler,0.500263,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.13118567,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.78043437,16.0,19.0
+Setophaga coronata_Yellow-rumped Warbler,0.122393735,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.8305334,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.5502699,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1641522,19.0,22.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15099122,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12227678,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.101673186,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14158468,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.9520684,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.90370506,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.9438091,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.2127973,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.13573721,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.10943095,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.5289116,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.41587928,28.0,31.0
+Setophaga coronata_Yellow-rumped Warbler,0.36104825,29.0,32.0
+Setophaga coronata_Yellow-rumped Warbler,0.74368715,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.11683268,30.0,33.0
+Setophaga coronata_Yellow-rumped Warbler,0.79996043,31.0,34.0
+Setophaga coronata_Yellow-rumped Warbler,0.7761745,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.75306976,34.0,37.0
+Sayornis phoebe_Eastern Phoebe,0.105406664,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.8372507,35.0,38.0
+Contopus virens_Eastern Wood-Pewee,0.77496594,36.0,39.0
+Contopus virens_Eastern Wood-Pewee,0.82213247,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13712104,38.0,41.0
+Setophaga coronata_Yellow-rumped Warbler,0.18857476,43.0,46.0
+Emberiza citrinella_Yellowhammer,0.18213215,43.0,46.0
+Setophaga graciae_Grace's Warbler,0.1528128,43.0,46.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.15028647,43.0,46.0
+Emberiza citrinella_Yellowhammer,0.4267728,44.0,47.0
+Setophaga coronata_Yellow-rumped Warbler,0.39709005,44.0,47.0
+Setophaga coronata_Yellow-rumped Warbler,0.66739875,45.0,48.0
+Emberiza citrinella_Yellowhammer,0.1915601,45.0,48.0
+Setophaga coronata_Yellow-rumped Warbler,0.54457426,46.0,49.0
+Dryocopus pileatus_Pileated Woodpecker,0.1145754,50.0,53.0
+Contopus virens_Eastern Wood-Pewee,0.2736129,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.32603028,54.0,57.0
+Canachites canadensis_Spruce Grouse,0.21248934,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.17950797,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.22822137,60.0,63.0
+Contopus virens_Eastern Wood-Pewee,0.22647679,60.0,63.0
+Contopus virens_Eastern Wood-Pewee,0.26348364,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1606817,63.0,66.0
+Canachites canadensis_Spruce Grouse,0.11056062,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11570531,64.0,67.0
+Contopus virens_Eastern Wood-Pewee,0.39700523,67.0,70.0
+Contopus virens_Eastern Wood-Pewee,0.5042636,68.0,71.0
+Contopus virens_Eastern Wood-Pewee,0.18432313,69.0,72.0
+Canachites canadensis_Spruce Grouse,0.10109712,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.39441857,74.0,77.0
+Contopus virens_Eastern Wood-Pewee,0.16255754,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.10328006,75.0,78.0
+Contopus virens_Eastern Wood-Pewee,0.31347916,76.0,79.0
+Contopus virens_Eastern Wood-Pewee,0.31813246,77.0,80.0
+Contopus virens_Eastern Wood-Pewee,0.57744867,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.46486664,80.0,83.0
+Contopus virens_Eastern Wood-Pewee,0.25706115,81.0,84.0
+Contopus virens_Eastern Wood-Pewee,0.20260428,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.12637582,82.0,85.0
+Setophaga cerulea_Cerulean Warbler,0.3696646,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12624963,83.0,86.0
+Setophaga cerulea_Cerulean Warbler,0.17871487,84.0,87.0
+Canachites canadensis_Spruce Grouse,0.110106036,84.0,87.0
