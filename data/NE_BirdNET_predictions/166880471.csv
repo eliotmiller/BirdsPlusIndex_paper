@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.98806816,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.27882028,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.4850473,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.9221503,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.6544954,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.7830828,5.0,8.0
+Catharus dryas_Yellow-throated Nightingale-Thrush,0.14545578,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.95249814,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.43884918,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.94762534,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.9711521,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.9510725,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.8965299,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.9772603,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.9864687,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.9897886,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.9919167,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.99936813,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.9994252,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.99977165,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.99917835,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.78930134,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.9910931,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.99798477,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.9998124,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.99989593,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.99990284,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.99511164,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.9943944,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.99754924,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.99589586,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.9642494,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.9986915,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.99864835,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.9985246,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.9760216,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.11036432,36.0,39.0
+Catharus dryas_Yellow-throated Nightingale-Thrush,0.10545863,36.0,39.0
+Myiarchus crinitus_Great Crested Flycatcher,0.14579111,41.0,44.0
+Myiarchus crinitus_Great Crested Flycatcher,0.24515249,42.0,45.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10303353,47.0,50.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.12461403,50.0,53.0
+Tamias striatus_Eastern Chipmunk,0.123795986,59.0,62.0
+Buteo ridgwayi_Ridgway's Hawk,0.11619835,62.0,65.0
+Buteo ridgwayi_Ridgway's Hawk,0.11672088,63.0,66.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13277642,65.0,68.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.13215016,65.0,68.0
+Tamiasciurus hudsonicus_Red Squirrel,0.165263,66.0,69.0
+Tamiasciurus hudsonicus_Red Squirrel,0.32020506,67.0,70.0
+Cyanocitta cristata_Blue Jay,0.3307663,70.0,73.0
+Cyanocitta cristata_Blue Jay,0.39218554,71.0,74.0
+Cyanocitta cristata_Blue Jay,0.23657808,72.0,75.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13895157,72.0,75.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.13870722,72.0,75.0
+Lophodytes cucullatus_Hooded Merganser,0.10644662,72.0,75.0
+Cyanocitta cristata_Blue Jay,0.12136791,73.0,76.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.11392998,73.0,76.0
+Lophodytes cucullatus_Hooded Merganser,0.13913812,78.0,81.0
+Cyanocitta cristata_Blue Jay,0.11313444,78.0,81.0
+Cyanocitta cristata_Blue Jay,0.2109274,83.0,86.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.15394294,83.0,86.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10471365,83.0,86.0
+Cyanocitta cristata_Blue Jay,0.24452966,84.0,87.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.17055306,84.0,87.0
+Tamiasciurus hudsonicus_Red Squirrel,0.107874595,84.0,87.0
+Cyanocitta cristata_Blue Jay,0.19299532,85.0,88.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10065032,85.0,88.0
+Asthenes coryi_Ochre-browed Thistletail,0.1132528,89.0,92.0
+Tamias striatus_Eastern Chipmunk,0.1013795,91.0,94.0
+Cyanocitta cristata_Blue Jay,0.37267193,92.0,95.0
+Cyanocitta cristata_Blue Jay,0.72320485,93.0,95.25600907029478

@@ -1,0 +1,14 @@
+species,score,start_time,end_time
+Ardea alba_Great Egret,0.6384208,0.0,3.0
+Egretta tricolor_Tricolored Heron,0.16940975,0.0,3.0
+Egretta thula_Snowy Egret,0.30160624,1.0,4.0
+Ardea alba_Great Egret,0.23712178,1.0,4.0
+Egretta tricolor_Tricolored Heron,0.13488843,1.0,4.0
+Egretta garzetta_Little Egret,0.107902914,1.0,4.0
+Ardea alba_Great Egret,0.56149906,2.0,5.0
+Egretta thula_Snowy Egret,0.12059282,2.0,5.0
+Ardea alba_Great Egret,0.93261594,3.0,6.0
+Egretta thula_Snowy Egret,0.1580803,3.0,6.0
+Ardea alba_Great Egret,0.77777505,4.0,7.0
+Egretta thula_Snowy Egret,0.12098341,4.0,7.0
+Ardea alba_Great Egret,0.47445616,5.0,8.0

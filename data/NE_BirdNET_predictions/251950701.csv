@@ -1,0 +1,106 @@
+species,score,start_time,end_time
+Certhia americana_Brown Creeper,0.8069099,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.15524709,0.0,3.0
+Certhia americana_Brown Creeper,0.2540623,1.0,4.0
+Certhia americana_Brown Creeper,0.3817598,2.0,5.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.19568431,3.0,6.0
+Certhia familiaris_Eurasian Treecreeper,0.16298303,3.0,6.0
+Ficedula parva_Red-breasted Flycatcher,0.14168371,3.0,6.0
+Certhia americana_Brown Creeper,0.70374954,4.0,7.0
+Regulus satrapa_Golden-crowned Kinglet,0.30394006,4.0,7.0
+Certhia americana_Brown Creeper,0.852431,5.0,8.0
+Regulus satrapa_Golden-crowned Kinglet,0.33450684,5.0,8.0
+Certhia americana_Brown Creeper,0.6765348,6.0,9.0
+Regulus satrapa_Golden-crowned Kinglet,0.27544224,6.0,9.0
+Certhia americana_Brown Creeper,0.429011,7.0,10.0
+Certhia americana_Brown Creeper,0.997968,8.0,11.0
+Certhia americana_Brown Creeper,0.9985287,9.0,12.0
+Certhia americana_Brown Creeper,0.99880254,10.0,13.0
+Certhia americana_Brown Creeper,0.98149925,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10667714,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22782546,15.0,18.0
+Setophaga castanea_Bay-breasted Warbler,0.1410724,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13735758,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.120111,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.11526106,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12064421,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10232801,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23916818,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105660684,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.104553744,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1376336,19.0,22.0
+Regulus satrapa_Golden-crowned Kinglet,0.12935732,22.0,25.0
+Certhia americana_Brown Creeper,0.50880307,24.0,27.0
+Regulus satrapa_Golden-crowned Kinglet,0.48289686,24.0,27.0
+Setophaga tigrina_Cape May Warbler,0.10425529,24.0,27.0
+Certhia americana_Brown Creeper,0.27611113,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.22660933,25.0,28.0
+Ficedula parva_Red-breasted Flycatcher,0.16406754,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.32869354,26.0,29.0
+Certhia americana_Brown Creeper,0.21359769,26.0,29.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.12523212,27.0,30.0
+Certhia americana_Brown Creeper,0.98618037,29.0,32.0
+Certhia americana_Brown Creeper,0.9709071,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.111049965,30.0,33.0
+Certhia americana_Brown Creeper,0.97384405,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11543859,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1767967,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.13577732,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.29631093,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12949333,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12705596,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.1223365,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1507656,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.1152654,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.16664857,42.0,45.0
+Certhia americana_Brown Creeper,0.14401451,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.100686885,43.0,46.0
+Certhia americana_Brown Creeper,0.907076,46.0,49.0
+Regulus satrapa_Golden-crowned Kinglet,0.2671308,46.0,49.0
+Certhia familiaris_Eurasian Treecreeper,0.10035204,46.0,49.0
+Certhia americana_Brown Creeper,0.98718834,47.0,50.0
+Certhia americana_Brown Creeper,0.99781895,48.0,51.0
+Certhia americana_Brown Creeper,0.99796945,49.0,52.0
+Certhia americana_Brown Creeper,0.9966022,50.0,53.0
+Ficedula parva_Red-breasted Flycatcher,0.48188236,51.0,54.0
+Certhia americana_Brown Creeper,0.23229127,51.0,54.0
+Certhia familiaris_Eurasian Treecreeper,0.10258835,51.0,54.0
+Ficedula parva_Red-breasted Flycatcher,0.87910545,52.0,55.0
+Ficedula parva_Red-breasted Flycatcher,0.13476397,53.0,56.0
+Picus viridis_Eurasian Green Woodpecker,0.26428166,54.0,57.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.23909892,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.16794507,57.0,60.0
+Setophaga castanea_Bay-breasted Warbler,0.16593137,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13058703,57.0,60.0
+Certhia americana_Brown Creeper,0.12636124,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12374146,57.0,60.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.26854056,60.0,63.0
+Ficedula parva_Red-breasted Flycatcher,0.23575771,60.0,63.0
+Picus viridis_Eurasian Green Woodpecker,0.10687374,60.0,63.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.18629661,61.0,64.0
+Accipiter gentilis_Northern Goshawk,0.14935353,61.0,64.0
+Certhia americana_Brown Creeper,0.24082768,62.0,65.0
+Piranga olivacea_Scarlet Tanager,0.10945052,66.0,69.0
+Certhia americana_Brown Creeper,0.94998235,69.0,72.0
+Certhia americana_Brown Creeper,0.9813455,70.0,73.0
+Certhia americana_Brown Creeper,0.9859532,71.0,74.0
+Certhia americana_Brown Creeper,0.97397536,72.0,75.0
+Setophaga occidentalis_Hermit Warbler,0.3463031,72.0,75.0
+Vireo solitarius_Blue-headed Vireo,0.116815954,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12786488,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.120960444,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.14936692,75.0,78.0
+Vireo solitarius_Blue-headed Vireo,0.10554407,75.0,78.0
+Vireo solitarius_Blue-headed Vireo,0.40108025,76.0,79.0
+Ficedula parva_Red-breasted Flycatcher,0.19798125,78.0,81.0
+Vireo solitarius_Blue-headed Vireo,0.16198635,82.0,85.0
+Certhia americana_Brown Creeper,0.102579914,83.0,86.0
+Vireo solitarius_Blue-headed Vireo,0.3013535,84.0,87.0
+Certhia americana_Brown Creeper,0.318521,85.0,88.0
+Vireo solitarius_Blue-headed Vireo,0.23754631,85.0,88.0
+Regulus satrapa_Golden-crowned Kinglet,0.21675128,85.0,88.0
+Setophaga tigrina_Cape May Warbler,0.14882901,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.11670952,85.0,88.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.13153704,86.0,89.0
+Ficedula parva_Red-breasted Flycatcher,0.11923891,86.0,89.0
+Vireo solitarius_Blue-headed Vireo,0.19095302,89.0,91.87201814058957

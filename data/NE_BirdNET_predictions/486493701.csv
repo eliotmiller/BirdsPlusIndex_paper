@@ -1,0 +1,106 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.9954318,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.9705742,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9133957,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19659258,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.10902835,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.19412948,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15877414,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.115461975,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19840558,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16105711,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3274322,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.10568033,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.9275004,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.9116739,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.9109235,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.35018373,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.110200725,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.20067786,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19207023,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37590277,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.12818192,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.10799585,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3509339,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.15468754,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11209637,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.10738063,14.0,17.0
+Contopus virens_Eastern Wood-Pewee,0.103636526,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33686778,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.21176624,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.14122088,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.11873189,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.11599509,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.11083146,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1537508,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.14977875,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.13823503,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103332855,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.7202297,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21769427,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.9466718,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.96424437,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.91740304,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.19052055,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.16074324,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.17757857,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.15682042,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.1038177,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12240236,23.0,26.0
+Ficedula parva_Red-breasted Flycatcher,0.18212482,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13979636,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10607298,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.9140094,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.49802905,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12940972,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.8455739,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.2409562,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16254556,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.11363551,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17763683,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.10915619,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22301848,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.11830935,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.101940736,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27598134,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.12502728,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.150724,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.14443542,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29115668,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.22483672,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.11659735,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23927628,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.13276394,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.10336873,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14957793,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.14350684,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.84752417,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.668172,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.70487744,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.6339419,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.26479483,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22229421,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.1914768,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1478697,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23748402,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.23569956,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.13861308,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19679762,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.12525964,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.11545827,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17485797,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.14202781,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.14166301,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12577865,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.10041487,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1650716,47.0,50.0
+Setophaga fusca_Blackburnian Warbler,0.11629562,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105778106,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1039405,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13410126,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.1176426,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.96637803,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.899178,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.9676238,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14714508,53.0,55.96802721088435
+Setophaga fusca_Blackburnian Warbler,0.10411242,53.0,55.96802721088435

@@ -1,0 +1,43 @@
+species,score,start_time,end_time
+Baeolophus bicolor_Tufted Titmouse,0.9071281,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.36446914,1.0,4.0
+Baeolophus bicolor_Tufted Titmouse,0.22535722,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.21596742,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.5282629,3.0,6.0
+Baeolophus bicolor_Tufted Titmouse,0.31424823,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.11890402,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.56474084,4.0,7.0
+Baeolophus bicolor_Tufted Titmouse,0.31375527,4.0,7.0
+Corvus brachyrhynchos_American Crow,0.4029948,5.0,8.0
+Baeolophus bicolor_Tufted Titmouse,0.1996612,5.0,8.0
+Corvus brachyrhynchos_American Crow,0.8019064,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.5779447,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.16351745,8.0,11.0
+Baeolophus bicolor_Tufted Titmouse,0.17526235,9.0,12.0
+Baeolophus bicolor_Tufted Titmouse,0.16045216,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.1409691,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.4482824,11.0,14.0
+Corvus ossifragus_Fish Crow,0.16162144,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.12362892,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.11402751,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.15932842,13.0,16.0
+Corvus ossifragus_Fish Crow,0.11888566,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.10204276,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.10747909,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.19765033,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.12376495,19.0,22.0
+Engine_Engine,0.1371537,23.0,26.0
+Erithacus rubecula_European Robin,0.1070982,27.0,30.0
+Corvus brachyrhynchos_American Crow,0.12461196,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.16885099,34.0,37.0
+Corvus ossifragus_Fish Crow,0.1052884,35.0,38.0
+Corvus brachyrhynchos_American Crow,0.4149541,36.0,39.0
+Corvus brachyrhynchos_American Crow,0.25599125,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.23441285,38.0,41.0
+Corvus corone_Carrion Crow,0.11112684,38.0,41.0
+Corvus brachyrhynchos_American Crow,0.35160878,39.0,42.0
+Caprimulgus affinis_Savanna Nightjar,0.13218117,41.0,44.0
+Caprimulgus affinis_Savanna Nightjar,0.5194215,43.0,46.0
+Vireo flavoviridis_Yellow-green Vireo,0.1506006,45.0,47.23201814058957
+Vireo olivaceus_Red-eyed Vireo,0.10745612,45.0,47.23201814058957
+Buteo platypterus_Broad-winged Hawk,0.10667506,45.0,47.23201814058957

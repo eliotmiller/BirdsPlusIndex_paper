@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.97936994,0.0,3.0
+Pandion haliaetus_Osprey,0.9903604,1.0,4.0
+Pandion haliaetus_Osprey,0.96535826,2.0,5.0
+Tringa melanoleuca_Greater Yellowlegs,0.20508808,2.0,5.0
+Myiopsitta monachus_Monk Parakeet,0.4444081,3.0,6.0
+Pandion haliaetus_Osprey,0.1771702,3.0,6.0
+Myiopsitta monachus_Monk Parakeet,0.7307789,4.0,7.0
+Brotogeris chiriri_Yellow-chevroned Parakeet,0.117857955,4.0,7.0
+Myiopsitta monachus_Monk Parakeet,0.5002516,5.0,8.0
+Tringa melanoleuca_Greater Yellowlegs,0.15582365,6.0,9.0
+Pandion haliaetus_Osprey,0.14653829,6.0,9.0
+Pandion haliaetus_Osprey,0.12626463,7.0,10.0
+Myiopsitta monachus_Monk Parakeet,0.24689066,11.0,14.0
+Acridotheres cristatellus_Crested Myna,0.15246566,11.0,14.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.19900748,13.0,16.0
+Myiopsitta monachus_Monk Parakeet,0.11809823,13.0,16.0
+Myiopsitta monachus_Monk Parakeet,0.9666363,15.0,18.0
+Myiopsitta monachus_Monk Parakeet,0.9341584,16.0,19.0
+Myiopsitta monachus_Monk Parakeet,0.86354953,17.0,20.0
+Myiopsitta monachus_Monk Parakeet,0.9718583,21.0,24.0
+Myiopsitta monachus_Monk Parakeet,0.9903342,22.0,25.0
+Myiopsitta monachus_Monk Parakeet,0.99381024,23.0,26.0
+Myiopsitta monachus_Monk Parakeet,0.10159691,24.0,27.0
+Myiopsitta monachus_Monk Parakeet,0.26383194,25.0,28.0
+Myiopsitta monachus_Monk Parakeet,0.9620204,26.0,29.0
+Turdus falcklandii_Austral Thrush,0.1057434,26.0,29.0
+Myiopsitta monachus_Monk Parakeet,0.9081562,27.0,30.0
+Turdus falcklandii_Austral Thrush,0.1360446,27.0,30.0
+Myiopsitta monachus_Monk Parakeet,0.9460045,28.0,31.0
+Turdus falcklandii_Austral Thrush,0.11388455,28.0,31.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.160284,29.0,32.0
+Quiscalus major_Boat-tailed Grackle,0.13531837,29.0,32.0
+Haemorhous mexicanus_House Finch,0.12666838,29.0,32.0
+Rallus crepitans_Clapper Rail,0.20242506,31.0,34.0
+Rallus obsoletus_Ridgway's Rail,0.11955775,31.0,34.0
+Myiopsitta monachus_Monk Parakeet,0.98139477,33.0,36.0
+Myiopsitta monachus_Monk Parakeet,0.9787775,34.0,37.0
+Myiopsitta monachus_Monk Parakeet,0.9775327,35.0,38.0
+Corvus ossifragus_Fish Crow,0.12895277,36.0,39.0
+Myiopsitta monachus_Monk Parakeet,0.9355622,43.0,46.0
+Myiopsitta monachus_Monk Parakeet,0.9731757,44.0,47.0
+Myiopsitta monachus_Monk Parakeet,0.7822135,45.0,48.0
+Myiopsitta monachus_Monk Parakeet,0.4405713,46.0,49.0
+Brotogeris chiriri_Yellow-chevroned Parakeet,0.11717551,46.0,49.0
+Myiopsitta monachus_Monk Parakeet,0.9620453,47.0,50.0
+Trichoglossus moluccanus_Rainbow Lorikeet,0.15383106,47.0,50.0
+Eupsittula pertinax_Brown-throated Parakeet,0.15236346,47.0,50.0
+Myiopsitta monachus_Monk Parakeet,0.9551357,48.0,51.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.22594452,48.0,51.0
+Myiopsitta monachus_Monk Parakeet,0.9962781,49.0,52.0
+Myiopsitta monachus_Monk Parakeet,0.9993536,50.0,53.0
+Myiopsitta monachus_Monk Parakeet,0.99855536,51.0,54.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.13372877,51.0,54.0
+Myiopsitta monachus_Monk Parakeet,0.99639434,52.0,55.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.55101985,52.0,55.0
+Myiopsitta monachus_Monk Parakeet,0.9569543,53.0,56.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.19763196,53.0,56.0
+Myiopsitta monachus_Monk Parakeet,0.9772372,54.0,57.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.3518976,54.0,57.0
+Myiopsitta monachus_Monk Parakeet,0.92192525,55.0,58.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.36996105,55.0,58.0
+Eupsittula canicularis_Orange-fronted Parakeet,0.10226594,55.0,58.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.15876149,56.0,59.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.1784829,57.0,59.28

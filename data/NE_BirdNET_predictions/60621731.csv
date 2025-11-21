@@ -1,0 +1,121 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.8354823,0.0,3.0
+Catharus fuscescens_Veery,0.30937043,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.13557431,0.0,3.0
+Catharus fuscescens_Veery,0.6848815,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.50749266,1.0,4.0
+Catharus fuscescens_Veery,0.68483806,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.23743553,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.15252514,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.8001166,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4564554,6.0,9.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97869986,7.0,10.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9921836,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9783196,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.74118584,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.93859255,12.0,15.0
+Icterus spurius_Orchard Oriole,0.3695654,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9924595,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9509112,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.45528826,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.10491703,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.30120194,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.16124792,16.0,19.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12408802,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.52285564,17.0,20.0
+Passerella iliaca_Fox Sparrow,0.39779934,17.0,20.0
+Icterus spurius_Orchard Oriole,0.18593284,17.0,20.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9799083,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97660154,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9550797,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.7704178,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.27864826,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.15066689,22.0,25.0
+Pipilo maculatus_Spotted Towhee,0.10036488,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9650965,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.10480934,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9915617,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9779247,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.74135536,26.0,29.0
+Phoenicurus ochruros_Black Redstart,0.18615057,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.25711814,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.32288253,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.33156177,29.0,32.0
+Passerella iliaca_Fox Sparrow,0.29140186,29.0,32.0
+Icterus spurius_Orchard Oriole,0.1368002,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9622656,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.99031633,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.96207136,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.5437594,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3058108,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.22810756,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9704293,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9925196,36.0,39.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9733377,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.29439628,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.5518184,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.3316503,39.0,42.0
+Pipilo erythrophthalmus_Eastern Towhee,0.81828094,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.11919415,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9767785,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97076863,42.0,45.0
+Pipilo erythrophthalmus_Eastern Towhee,0.76971525,43.0,46.0
+Melospiza lincolnii_Lincoln's Sparrow,0.109655224,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.13406466,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.33107987,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.5447133,46.0,49.0
+Pipilo erythrophthalmus_Eastern Towhee,0.49870268,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.19603778,47.0,50.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9852262,48.0,51.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9767497,49.0,52.0
+Pipilo erythrophthalmus_Eastern Towhee,0.934119,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.37761083,51.0,54.0
+Catharus minimus_Gray-cheeked Thrush,0.11085851,51.0,54.0
+Spinus spinus_Eurasian Siskin,0.10389906,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97788244,53.0,56.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9703808,54.0,57.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97083765,55.0,58.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11530264,56.0,59.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10067879,57.0,60.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22960602,58.0,61.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9842554,59.0,62.0
+Pipilo erythrophthalmus_Eastern Towhee,0.97361314,60.0,63.0
+Pipilo erythrophthalmus_Eastern Towhee,0.96832734,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.49905467,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.62162316,63.0,66.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3335648,64.0,67.0
+Pipilo erythrophthalmus_Eastern Towhee,0.96207094,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9633252,66.0,69.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9592418,67.0,70.0
+Protonotaria citrea_Prothonotary Warbler,0.15555681,69.0,72.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9086611,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.27471226,70.0,73.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9905503,71.0,74.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9952409,72.0,75.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9802054,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.25754496,75.0,78.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5785453,77.0,80.0
+Icterus spurius_Orchard Oriole,0.1934962,77.0,80.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9239874,78.0,81.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9275065,79.0,82.0
+Empidonax virescens_Acadian Flycatcher,0.2223469,80.0,83.0
+Geothlypis formosa_Kentucky Warbler,0.18574971,80.0,83.0
+Geothlypis philadelphia_Mourning Warbler,0.13136601,80.0,83.0
+Pipilo erythrophthalmus_Eastern Towhee,0.221242,83.0,86.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7529886,84.0,87.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7912442,85.0,88.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7814053,86.0,89.0
+Pipilo erythrophthalmus_Eastern Towhee,0.72802716,91.0,94.0
+Pipilo erythrophthalmus_Eastern Towhee,0.87020725,92.0,95.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24435872,93.0,96.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22777285,95.0,98.0
+Icterus spurius_Orchard Oriole,0.18706378,95.0,98.0
+Pipilo erythrophthalmus_Eastern Towhee,0.71516925,96.0,99.0
+Pipilo erythrophthalmus_Eastern Towhee,0.53562915,97.0,100.0
+Pipilo erythrophthalmus_Eastern Towhee,0.33322236,98.0,101.0
+Passerella iliaca_Fox Sparrow,0.24358836,101.0,104.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16244113,101.0,104.0
+Pipilo erythrophthalmus_Eastern Towhee,0.456767,102.0,105.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21492054,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.124965586,105.0,108.0
+Seiurus aurocapilla_Ovenbird,0.6721193,106.0,108.02403628117914
