@@ -1,0 +1,191 @@
+species,score,start_time,end_time
+Petrochelidon pyrrhonota_Cliff Swallow,0.44351476,0.0,3.0
+Urocissa caerulea_Taiwan Blue-Magpie,0.10816101,0.0,3.0
+Urocissa erythroryncha_Red-billed Blue-Magpie,0.107083455,0.0,3.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.2698448,1.0,4.0
+Urocissa caerulea_Taiwan Blue-Magpie,0.21099207,1.0,4.0
+Tyrannus tyrannus_Eastern Kingbird,0.11644347,1.0,4.0
+Tyrannus tyrannus_Eastern Kingbird,0.9166703,2.0,5.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.1352992,2.0,5.0
+Tyrannus tyrannus_Eastern Kingbird,0.8692938,3.0,6.0
+Tyrannus tyrannus_Eastern Kingbird,0.7739677,4.0,7.0
+Hirundo rustica_Barn Swallow,0.33585283,4.0,7.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.30234778,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.20623916,4.0,7.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.9172332,5.0,8.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.6221024,6.0,9.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.2057483,7.0,10.0
+Urocissa erythroryncha_Red-billed Blue-Magpie,0.10761583,8.0,11.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.40495676,10.0,13.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.42112476,11.0,14.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.20074949,12.0,15.0
+Euphonia pectoralis_Chestnut-bellied Euphonia,0.15390192,12.0,15.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13217051,12.0,15.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.122361384,13.0,16.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.16614093,14.0,17.0
+Hirundo angolensis_Angola Swallow,0.13827667,14.0,17.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.17837383,16.0,19.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.16680929,17.0,20.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.6699006,18.0,21.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.45386034,20.0,23.0
+Euphonia pectoralis_Chestnut-bellied Euphonia,0.21217282,20.0,23.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.3583647,21.0,24.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.90127665,22.0,25.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.6231783,24.0,27.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11015114,24.0,27.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.7539018,25.0,28.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.8209193,26.0,29.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.5649985,27.0,30.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.40152338,28.0,31.0
+Dendrocopos major_Great Spotted Woodpecker,0.119734176,32.0,35.0
+Dendrocopos major_Great Spotted Woodpecker,0.62382805,33.0,36.0
+Dryobates minor_Lesser Spotted Woodpecker,0.11147187,33.0,36.0
+Colaptes auratus_Northern Flicker,0.5270183,34.0,37.0
+Colaptes auratus_Northern Flicker,0.16249238,35.0,38.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.113054544,35.0,38.0
+Colaptes auratus_Northern Flicker,0.11849171,36.0,39.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.11131486,36.0,39.0
+Dryobates pubescens_Downy Woodpecker,0.3212105,39.0,42.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.31057405,39.0,42.0
+Colaptes auratus_Northern Flicker,0.43020478,40.0,43.0
+Dryobates pubescens_Downy Woodpecker,0.36628202,40.0,43.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.2509168,40.0,43.0
+Colaptes auratus_Northern Flicker,0.25625676,41.0,44.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.107188314,41.0,44.0
+Colaptes auratus_Northern Flicker,0.16088496,42.0,45.0
+Dryobates pubescens_Downy Woodpecker,0.13218,43.0,46.0
+Dryobates pubescens_Downy Woodpecker,0.29874155,44.0,47.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13638735,44.0,47.0
+Dryobates pubescens_Downy Woodpecker,0.12518549,45.0,48.0
+Colaptes auratus_Northern Flicker,0.24823813,46.0,49.0
+Tyrannus tyrannus_Eastern Kingbird,0.10253754,46.0,49.0
+Colaptes auratus_Northern Flicker,0.6002264,47.0,50.0
+Tyrannus tyrannus_Eastern Kingbird,0.2023239,48.0,51.0
+Colaptes auratus_Northern Flicker,0.10412648,50.0,53.0
+Colaptes auratus_Northern Flicker,0.7391231,51.0,54.0
+Colaptes auratus_Northern Flicker,0.4344938,53.0,56.0
+Colaptes auratus_Northern Flicker,0.18062717,54.0,57.0
+Colaptes auratus_Northern Flicker,0.48373884,55.0,58.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.1114787,56.0,59.0
+Empidonax traillii_Willow Flycatcher,0.1040013,56.0,59.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.17326823,58.0,61.0
+Colaptes auratus_Northern Flicker,0.31051227,59.0,62.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.3333705,60.0,63.0
+Colaptes auratus_Northern Flicker,0.20961322,60.0,63.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.41829908,61.0,64.0
+Colaptes auratus_Northern Flicker,0.174843,61.0,64.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13046435,61.0,64.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.9098355,62.0,65.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1548564,62.0,65.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.30063733,63.0,66.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.178887,64.0,67.0
+Dryobates pubescens_Downy Woodpecker,0.5136192,67.0,70.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.18069968,67.0,70.0
+Colaptes auratus_Northern Flicker,0.17645544,67.0,70.0
+Colaptes auratus_Northern Flicker,0.27121702,68.0,71.0
+Dryobates pubescens_Downy Woodpecker,0.11651629,68.0,71.0
+Colaptes auratus_Northern Flicker,0.4755146,69.0,72.0
+Ramphastos ambiguus_Yellow-throated Toucan,0.31326708,70.0,73.0
+Pyrilia haematotis_Brown-hooded Parrot,0.16327013,70.0,73.0
+Aphelocoma wollweberi_Mexican Jay,0.16324444,73.0,76.0
+Spinus notatus_Black-headed Siskin,0.11591648,73.0,76.0
+Haemorhous mexicanus_House Finch,0.11274858,76.0,79.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8669353,80.0,83.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.87606466,81.0,84.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.843578,82.0,85.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.5233313,82.0,85.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.5996327,83.0,86.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.847449,84.0,87.0
+Dryobates pubescens_Downy Woodpecker,0.1338795,84.0,87.0
+Dryobates pubescens_Downy Woodpecker,0.25351062,85.0,88.0
+Colaptes auratus_Northern Flicker,0.51922697,86.0,89.0
+Dryobates pubescens_Downy Woodpecker,0.12483481,86.0,89.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10878947,86.0,89.0
+Colaptes auratus_Northern Flicker,0.51641995,87.0,90.0
+Colaptes auratus_Northern Flicker,0.2511024,88.0,91.0
+Dendrocopos major_Great Spotted Woodpecker,0.15280867,90.0,93.0
+Dendrocopos major_Great Spotted Woodpecker,0.24188484,91.0,94.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.21655956,92.0,95.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.32486245,93.0,96.0
+Hirundo angolensis_Angola Swallow,0.105140716,93.0,96.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4828157,94.0,97.0
+Colaptes auratus_Northern Flicker,0.19131064,94.0,97.0
+Aphelocoma wollweberi_Mexican Jay,0.15915613,94.0,97.0
+Urocissa caerulea_Taiwan Blue-Magpie,0.15099216,94.0,97.0
+Urocissa caerulea_Taiwan Blue-Magpie,0.21869664,95.0,98.0
+Dulus dominicus_Palmchat,0.1865981,95.0,98.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15017809,96.0,99.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.2346581,98.0,101.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.33679873,99.0,102.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.28298533,100.0,103.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.2209374,100.0,103.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.10120129,100.0,103.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.5941871,101.0,104.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.26502207,101.0,104.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.15020825,101.0,104.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.89538753,102.0,105.0
+Strix aluco_Tawny Owl,0.21936849,106.0,109.0
+Asemospiza obscura_Dull-colored Grassquit,0.18144046,106.0,109.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.7524023,110.0,113.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.11635749,116.0,119.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.1357271,117.0,120.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.20148091,118.0,121.0
+Dryobates pubescens_Downy Woodpecker,0.86072,121.0,124.0
+Dryobates pubescens_Downy Woodpecker,0.38791654,122.0,125.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.2902661,122.0,125.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16288812,122.0,125.0
+Dryobates pubescens_Downy Woodpecker,0.4296256,123.0,126.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.28575563,123.0,126.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.6960504,124.0,127.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.74331266,125.0,128.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.103342965,126.0,129.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.100641556,128.0,131.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.48828265,129.0,132.0
+Sporophila leucoptera_White-bellied Seedeater,0.107779026,129.0,132.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.42223164,130.0,133.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4319968,131.0,134.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.12310283,131.0,134.0
+Sialia sialis_Eastern Bluebird,0.2989343,132.0,135.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.19844183,132.0,135.0
+Sialia sialis_Eastern Bluebird,0.8843826,133.0,136.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.38877797,133.0,136.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.19196726,133.0,136.0
+Riparia riparia_Bank Swallow,0.10009091,133.0,136.0
+Sialia sialis_Eastern Bluebird,0.9932591,134.0,137.0
+Sialia sialis_Eastern Bluebird,0.9520064,135.0,138.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.10611011,137.0,140.0
+Thryomanes bewickii_Bewick's Wren,0.10100232,137.0,140.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.33443263,138.0,141.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.20304921,139.0,142.0
+Empidonax traillii_Willow Flycatcher,0.14278162,140.0,143.0
+Dulus dominicus_Palmchat,0.55297774,142.0,145.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.3676621,142.0,145.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.10099589,142.0,145.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1890025,143.0,146.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.7636988,144.0,147.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.87239903,145.0,148.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.4241699,146.0,149.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.22940287,148.0,151.0
+Hirundo angolensis_Angola Swallow,0.2491528,151.0,154.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.61677355,152.0,155.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.49484742,153.0,156.0
+Dulus dominicus_Palmchat,0.22867975,154.0,157.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.18331845,154.0,157.0
+Stelgidopteryx ruficollis_Southern Rough-winged Swallow,0.21139981,155.0,158.0
+Sporophila leucoptera_White-bellied Seedeater,0.20793055,155.0,158.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.16345684,155.0,158.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.13567904,156.0,159.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4400828,157.0,160.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.6498155,158.0,161.0
+Ramphocelus passerinii_Scarlet-rumped Tanager,0.21936433,158.0,161.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4264883,159.0,162.0
+Ramphocelus passerinii_Scarlet-rumped Tanager,0.11800488,159.0,162.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.9991636,160.0,163.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.93386245,161.0,164.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.7194505,162.0,165.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.48453197,163.0,166.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.9959138,164.0,167.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.9911725,165.0,168.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.966218,166.0,169.0
+Ramphocelus flammigerus_Flame-rumped Tanager,0.15447569,166.0,169.0
+Ramphocelus flammigerus_Flame-rumped Tanager,0.2604741,167.0,170.0

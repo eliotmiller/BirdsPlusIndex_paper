@@ -1,0 +1,63 @@
+species,score,start_time,end_time
+Setophaga magnolia_Magnolia Warbler,0.4599198,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.14650151,0.0,3.0
+Cardellina canadensis_Canada Warbler,0.101259425,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.32188332,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.31333753,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.102427475,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1309197,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1274782,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.10903614,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.10433114,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.13538557,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10421655,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.10127818,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.22556485,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.1355528,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.1933453,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.1114141,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.7671173,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.10093847,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.35335198,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.13234322,12.0,15.0
+Contopus virens_Eastern Wood-Pewee,0.31358886,13.0,16.0
+Setophaga magnolia_Magnolia Warbler,0.69620275,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.1853798,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.17550886,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.12892377,15.0,18.0
+Limnothlypis swainsonii_Swainson's Warbler,0.102133304,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.1608816,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.120805636,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.1684675,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.13870433,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.132338,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.11489674,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.7755453,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.5003526,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.88880485,20.0,23.0
+Contopus virens_Eastern Wood-Pewee,0.30514094,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.18809128,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10991896,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.70980144,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.61286086,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.5613732,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.10862122,24.0,27.0
+Setophaga magnolia_Magnolia Warbler,0.2949171,25.0,28.0
+Setophaga ruticilla_American Redstart,0.10402385,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.7543316,27.0,30.0
+Empidonax virescens_Acadian Flycatcher,0.6345123,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.20333269,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.578175,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.65232676,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.22465736,31.0,34.0
+Contopus virens_Eastern Wood-Pewee,0.18703388,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.11556434,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.11204095,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.52359307,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.33873335,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.1009427,34.0,37.0
+Setophaga ruticilla_American Redstart,0.45229262,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.10725307,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.122623116,36.0,39.0
+Vireo solitarius_Blue-headed Vireo,0.12108209,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.10183357,37.0,40.0

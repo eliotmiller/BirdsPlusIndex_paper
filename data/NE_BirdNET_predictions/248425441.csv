@@ -1,0 +1,116 @@
+species,score,start_time,end_time
+Setophaga cerulea_Cerulean Warbler,0.1534527,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12653714,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.13253003,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10640482,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.11504989,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11096087,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.10189829,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.14034966,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.11343595,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.80066997,4.0,7.0
+Parkesia motacilla_Louisiana Waterthrush,0.13333334,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.99566984,5.0,8.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9948106,6.0,9.0
+Cardellina canadensis_Canada Warbler,0.1092446,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9555881,7.0,10.0
+Cardellina canadensis_Canada Warbler,0.13344869,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.19170867,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15122165,8.0,11.0
+Vireo flavifrons_Yellow-throated Vireo,0.11884717,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.1027924,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.26304927,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13739656,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.26009637,10.0,13.0
+Catharus fuscescens_Veery,0.133499,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13252266,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.11738753,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116004676,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.21264376,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16202542,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11413538,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.16312191,12.0,15.0
+Vireo flavifrons_Yellow-throated Vireo,0.1176063,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112053804,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.16767247,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14908636,13.0,16.0
+Vireo flavifrons_Yellow-throated Vireo,0.11326604,13.0,16.0
+Vireo flavifrons_Yellow-throated Vireo,0.35950065,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.1045232,14.0,17.0
+Limnothlypis swainsonii_Swainson's Warbler,0.70257837,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17708437,15.0,18.0
+Limnothlypis swainsonii_Swainson's Warbler,0.47669002,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11542188,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14049813,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.36288688,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122379534,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.10165901,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.101065956,18.0,21.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19612485,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.16823258,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.1559068,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.29628375,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.2029785,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13684998,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.23632805,21.0,24.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1850306,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103709236,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.45662323,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.10944227,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.10788469,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10654847,22.0,25.0
+Vireo flavifrons_Yellow-throated Vireo,0.22815719,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.16931276,23.0,26.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9406111,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.99770075,25.0,28.0
+Limnothlypis swainsonii_Swainson's Warbler,0.998628,26.0,29.0
+Limnothlypis swainsonii_Swainson's Warbler,0.79074144,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.39023104,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.4930984,28.0,31.0
+Catharus fuscescens_Veery,0.2142182,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.18292098,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.119696654,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.116185255,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18249166,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.12602007,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.3034985,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20734192,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.12138536,32.0,35.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11292997,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18133357,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.12145602,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.10426456,33.0,36.0
+Limnothlypis swainsonii_Swainson's Warbler,0.8894179,34.0,37.0
+Parkesia motacilla_Louisiana Waterthrush,0.1357943,34.0,37.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9979518,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9969983,36.0,39.0
+Parkesia motacilla_Louisiana Waterthrush,0.10621724,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.745234,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.30854163,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16882406,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.124706894,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.11699744,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25267878,39.0,42.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19057377,39.0,42.0
+Geothlypis formosa_Kentucky Warbler,0.16088466,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.15072584,39.0,42.0
+Limnothlypis swainsonii_Swainson's Warbler,0.97671366,40.0,43.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9984547,41.0,44.0
+Limnothlypis swainsonii_Swainson's Warbler,0.99896336,42.0,45.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9914732,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.25611365,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.6144436,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10180501,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17247374,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.16244733,46.0,49.0
+Catharus fuscescens_Veery,0.10673028,46.0,49.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9815019,47.0,50.0
+Parkesia motacilla_Louisiana Waterthrush,0.10909643,47.0,50.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9994349,48.0,51.0
+Limnothlypis swainsonii_Swainson's Warbler,0.9989706,49.0,52.0
+Limnothlypis swainsonii_Swainson's Warbler,0.8400739,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.52630293,50.0,53.0
+Vireo flavifrons_Yellow-throated Vireo,0.7418729,51.0,54.0
+Vireo flavifrons_Yellow-throated Vireo,0.7339208,52.0,55.0
+Vireo flavifrons_Yellow-throated Vireo,0.87165236,53.0,56.0
+Vireo flavifrons_Yellow-throated Vireo,0.60736346,54.0,56.016009070294785

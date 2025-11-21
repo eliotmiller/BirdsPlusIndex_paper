@@ -1,0 +1,119 @@
+species,score,start_time,end_time
+Catharus guttatus_Hermit Thrush,0.8639073,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.29401594,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.356271,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.10508971,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.8085503,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.3434745,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.16575147,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13028555,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.8475237,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.9192964,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.9438726,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.39147422,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.8300331,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.8982996,10.0,13.0
+Catharus guttatus_Hermit Thrush,0.8018918,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.45226482,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.10987625,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.71753764,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.66001475,15.0,18.0
+Catharus guttatus_Hermit Thrush,0.2593195,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15643682,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17287926,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.120492265,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.117164046,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15618724,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.13671789,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13759978,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.1143631,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19077922,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.14735967,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12028916,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.10506371,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.15417035,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.15271787,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.13118613,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.12421169,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11626122,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.10059051,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.21889779,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14820328,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.12806174,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.40224528,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.14747187,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.51018125,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.12397903,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.6944181,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.13049383,33.0,36.0
+Schiffornis virescens_Greenish Schiffornis,0.13856302,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.8450123,35.0,38.0
+Catharus guttatus_Hermit Thrush,0.904446,36.0,39.0
+Catharus guttatus_Hermit Thrush,0.80650014,37.0,40.0
+Catharus guttatus_Hermit Thrush,0.23141024,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.17597567,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13408476,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118032955,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.2269149,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.22758223,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12417613,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15885046,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1052381,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.17436668,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.39551353,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.13960537,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12520537,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.28876165,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.14636637,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1441552,48.0,51.0
+Catharus guttatus_Hermit Thrush,0.13127805,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.10089149,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.20758373,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13770823,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.47436956,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11262433,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.11126688,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.119099125,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.13560186,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13145034,53.0,56.0
+Catharus guttatus_Hermit Thrush,0.4549252,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.13601235,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.666475,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.5348438,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.22510143,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.3282823,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.78590554,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.84259737,60.0,63.0
+Catharus guttatus_Hermit Thrush,0.16176122,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15947586,62.0,65.0
+Ficedula albicollis_Collared Flycatcher,0.118016444,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.6495418,67.0,70.0
+Catharus guttatus_Hermit Thrush,0.7194466,68.0,71.0
+Catharus guttatus_Hermit Thrush,0.71592623,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27998084,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.20821084,70.0,73.0
+Empidonax virescens_Acadian Flycatcher,0.1068633,70.0,73.0
+Ficedula albicollis_Collared Flycatcher,0.47418308,71.0,74.0
+Catharus guttatus_Hermit Thrush,0.26672387,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15845561,74.0,77.0
+Catharus guttatus_Hermit Thrush,0.8566113,75.0,78.0
+Catharus guttatus_Hermit Thrush,0.85754365,76.0,79.0
+Himatione sanguinea_Apapane,0.11645161,76.0,79.0
+Catharus guttatus_Hermit Thrush,0.15889826,77.0,80.0
+Piranga olivacea_Scarlet Tanager,0.13700855,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.13201234,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19838624,79.0,82.0
+Empidonax virescens_Acadian Flycatcher,0.11869518,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11382434,79.0,82.0
+Hylocichla mustelina_Wood Thrush,0.112833776,79.0,82.0
+Hylocichla mustelina_Wood Thrush,0.25906107,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15466692,80.0,83.0
+Catharus guttatus_Hermit Thrush,0.1275982,80.0,83.0
+Geothlypis formosa_Kentucky Warbler,0.11408711,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.1086909,80.0,83.0
+Hylocichla mustelina_Wood Thrush,0.5547216,81.0,84.0
+Piranga olivacea_Scarlet Tanager,0.10259546,81.0,84.0
+Hylocichla mustelina_Wood Thrush,0.40339193,82.0,85.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14185661,82.0,85.0
+Catharus guttatus_Hermit Thrush,0.6496583,84.0,87.0
+Catharus guttatus_Hermit Thrush,0.59571844,85.0,87.67201814058957

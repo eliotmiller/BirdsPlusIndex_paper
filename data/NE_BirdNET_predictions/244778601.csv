@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.13062061,0.0,3.0
+Suthora verreauxi_Golden Parrotbill,0.44195992,5.0,8.0
+Conopias cinchoneti_Lemon-browed Flycatcher,0.1677126,7.0,10.0
+Terenotriccus erythrurus_Ruddy-tailed Flycatcher,0.104826875,7.0,10.0
+Sayornis nigricans_Black Phoebe,0.1908617,8.0,11.0
+Alcedo atthis_Common Kingfisher,0.19360884,10.0,13.0
+Prunella modularis_Dunnock,0.13627504,11.0,14.0
+Alcedo atthis_Common Kingfisher,0.10180643,11.0,14.0
+Prunella modularis_Dunnock,0.40781617,12.0,15.0
+Alcedo atthis_Common Kingfisher,0.28186277,12.0,15.0
+Ficedula albicollis_Collared Flycatcher,0.22896117,12.0,15.0
+Alcedo atthis_Common Kingfisher,0.2882574,13.0,16.0
+Prunella modularis_Dunnock,0.106539175,13.0,16.0
+Alcedo atthis_Common Kingfisher,0.41043884,14.0,17.0
+Alcedo atthis_Common Kingfisher,0.44991657,16.0,19.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.25273827,17.0,20.0
+Spizella pallida_Clay-colored Sparrow,0.14529249,17.0,20.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.17471409,18.0,21.0
+Sayornis nigricans_Black Phoebe,0.2162233,19.0,22.0
+Sayornis nigricans_Black Phoebe,0.3337062,20.0,23.0
+Sayornis nigricans_Black Phoebe,0.2680956,22.0,25.0
+Alcedo atthis_Common Kingfisher,0.31802297,23.0,26.0
+Alcedo atthis_Common Kingfisher,0.8307214,24.0,27.0
+Alcedo atthis_Common Kingfisher,0.65951025,25.0,28.0
+Alcedo atthis_Common Kingfisher,0.40185142,26.0,29.0
+Alcedo atthis_Common Kingfisher,0.15659304,27.0,30.0
+Sayornis nigricans_Black Phoebe,0.15291879,27.0,30.0
+Alcedo atthis_Common Kingfisher,0.34237623,28.0,31.0
+Sayornis nigricans_Black Phoebe,0.13630344,28.0,31.0
+Alcedo atthis_Common Kingfisher,0.16676185,29.0,32.0
+Amandava amandava_Red Avadavat,0.124119595,29.0,32.0
+Alcedo atthis_Common Kingfisher,0.16298196,30.0,33.0
+Alcedo atthis_Common Kingfisher,0.51307195,31.0,34.0
+Alcedo atthis_Common Kingfisher,0.66024333,32.0,35.0
+Alcedo atthis_Common Kingfisher,0.88877594,33.0,36.0
+Alcedo atthis_Common Kingfisher,0.9651975,34.0,37.0
+Alcedo atthis_Common Kingfisher,0.6930345,35.0,38.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.42819512,35.0,38.0
+Alcedo atthis_Common Kingfisher,0.62829155,36.0,39.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.6156738,36.0,39.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.6874211,37.0,40.0
+Alcedo atthis_Common Kingfisher,0.28351545,37.0,40.0
+Alcedo atthis_Common Kingfisher,0.9431503,38.0,41.0
+Acanthiza uropygialis_Chestnut-rumped Thornbill,0.22568467,38.0,41.0
+Alcedo atthis_Common Kingfisher,0.6529513,39.0,42.0
+Alcedo atthis_Common Kingfisher,0.93456817,40.0,43.0
+Alcedo atthis_Common Kingfisher,0.38619393,41.0,44.0
+Periparus ater_Coal Tit,0.12821229,43.0,46.0
+Sayornis nigricans_Black Phoebe,0.113522425,43.0,46.0
+Alcedo atthis_Common Kingfisher,0.3687253,51.0,54.0
+Sayornis nigricans_Black Phoebe,0.62705886,52.0,55.0
+Alcedo atthis_Common Kingfisher,0.32239908,52.0,55.0
+Sayornis nigricans_Black Phoebe,0.15214965,53.0,56.0
+Alcedo atthis_Common Kingfisher,0.28639317,59.0,62.0
+Prunella modularis_Dunnock,0.1090341,59.0,62.0
+Spinus xanthogastrus_Yellow-bellied Siskin,0.119110286,61.0,64.0
+Dumetia hyperythra_Tawny-bellied Babbler,0.16211,63.0,66.0
+Alcedo atthis_Common Kingfisher,0.2152767,64.0,67.0
+Alcedo atthis_Common Kingfisher,0.4491371,66.0,69.0
+Prunella modularis_Dunnock,0.33428416,66.0,69.0
+Pnoepyga pusilla_Pygmy Cupwing,0.110277764,67.0,70.0
+Gerygone mouki_Brown Gerygone,0.14870472,74.0,77.0
+Alcedo atthis_Common Kingfisher,0.17591731,76.0,79.0
+Sayornis nigricans_Black Phoebe,0.10737446,76.0,79.0
+Alcedo atthis_Common Kingfisher,0.8697895,77.0,80.0
+Alcedo atthis_Common Kingfisher,0.68200934,78.0,81.0
+Alcedo atthis_Common Kingfisher,0.8919123,79.0,82.0
+Alcedo atthis_Common Kingfisher,0.5357879,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.1518438,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11857668,81.0,84.0
+Setophaga virens_Black-throated Green Warbler,0.11531384,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.16866496,82.0,85.0

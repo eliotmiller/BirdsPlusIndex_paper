@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.3281749,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.105240054,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10061785,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123234615,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.117142364,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.11191762,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124829136,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.111732915,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.10997366,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11060679,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.10703276,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10485104,6.0,9.0
+Cardellina canadensis_Canada Warbler,0.3543855,8.0,11.0
+Vireo flavifrons_Yellow-throated Vireo,0.33146647,8.0,11.0
+Cardellina canadensis_Canada Warbler,0.514387,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.16067451,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.8313496,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.69782925,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.6344128,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.74115735,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.1662017,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.19093727,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13255005,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.11397961,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.11138774,15.0,18.0
+Vireo flavifrons_Yellow-throated Vireo,0.2653314,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.15985458,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.13775286,17.0,20.0
+Vireo flavifrons_Yellow-throated Vireo,0.13770485,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.12399588,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.1738631,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.1632225,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.13407542,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.16295697,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.10844663,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.3692483,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.121481575,28.0,31.0
+Vireo flavifrons_Yellow-throated Vireo,0.20960037,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.13880256,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.505777,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.1529932,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.2587099,31.0,34.0
+Vireo flavifrons_Yellow-throated Vireo,0.15278405,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12125016,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.1202584,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.11394179,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.10081238,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.101054184,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.9840724,42.0,45.0
+Cardellina canadensis_Canada Warbler,0.99581903,43.0,46.0
+Cardellina canadensis_Canada Warbler,0.9887445,44.0,47.0
+Cardellina canadensis_Canada Warbler,0.5001693,45.0,48.0
+Parkesia motacilla_Louisiana Waterthrush,0.20548005,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11261473,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.121044174,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10202875,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.1472959,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124525,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10430782,53.0,56.0
+Cardellina canadensis_Canada Warbler,0.89245355,56.0,59.0
+Cardellina canadensis_Canada Warbler,0.9949626,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.97797555,58.0,61.0
+Cardellina canadensis_Canada Warbler,0.1589509,59.0,62.0
+Setophaga ruticilla_American Redstart,0.10443847,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.11121047,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.10359523,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18757355,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.119264625,68.0,71.0
+Cardellina canadensis_Canada Warbler,0.123754285,69.0,72.0
+Empidonax virescens_Acadian Flycatcher,0.15903212,70.0,73.0
+Empidonax virescens_Acadian Flycatcher,0.57882565,71.0,74.0
+Empidonax virescens_Acadian Flycatcher,0.30125234,72.0,75.0
+Setophaga fusca_Blackburnian Warbler,0.10839162,73.0,76.0
+Vireo olivaceus_Red-eyed Vireo,0.12246967,75.0,78.0
+Vireo philadelphicus_Philadelphia Vireo,0.10503432,75.0,78.0
+Vireo olivaceus_Red-eyed Vireo,0.15428866,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.119219035,76.0,79.0
+Setophaga cerulea_Cerulean Warbler,0.1516843,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.106682345,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10183688,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.11293413,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.10815303,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10820789,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.10325639,89.0,92.0
+Empidonax virescens_Acadian Flycatcher,0.10091793,93.0,96.0
+Empidonax virescens_Acadian Flycatcher,0.26803473,94.0,97.0
+Empidonax virescens_Acadian Flycatcher,0.3105811,95.0,97.60802721088436

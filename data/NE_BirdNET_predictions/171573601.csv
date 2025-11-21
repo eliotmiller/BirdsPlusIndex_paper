@@ -1,0 +1,123 @@
+species,score,start_time,end_time
+Geothlypis formosa_Kentucky Warbler,0.2730244,0.0,3.0
+Passerina caerulea_Blue Grosbeak,0.8986643,1.0,4.0
+Passerina ciris_Painted Bunting,0.43460092,1.0,4.0
+Passerina caerulea_Blue Grosbeak,0.5291998,2.0,5.0
+Passerina ciris_Painted Bunting,0.46975276,2.0,5.0
+Passerina caerulea_Blue Grosbeak,0.80175257,3.0,6.0
+Parkesia motacilla_Louisiana Waterthrush,0.19654226,3.0,6.0
+Acris crepitans_Northern Cricket Frog,0.7470162,4.0,7.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.17267026,4.0,7.0
+Passerina caerulea_Blue Grosbeak,0.76842695,5.0,8.0
+Myiothlypis fulvicauda_Buff-rumped Warbler,0.19329056,7.0,10.0
+Acris crepitans_Northern Cricket Frog,0.32016158,9.0,12.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.2483825,9.0,12.0
+Acris crepitans_Northern Cricket Frog,0.35339513,10.0,13.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.1920875,10.0,13.0
+Acris crepitans_Northern Cricket Frog,0.55662715,11.0,14.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.17438345,11.0,14.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.11784939,11.0,14.0
+Passerina caerulea_Blue Grosbeak,0.5786215,12.0,15.0
+Parkesia motacilla_Louisiana Waterthrush,0.23216844,13.0,16.0
+Melospiza georgiana_Swamp Sparrow,0.32316366,14.0,17.0
+Passerina caerulea_Blue Grosbeak,0.4542084,17.0,20.0
+Passerina ciris_Painted Bunting,0.11355681,17.0,20.0
+Passerina caerulea_Blue Grosbeak,0.14348853,18.0,21.0
+Passerina caerulea_Blue Grosbeak,0.9920353,19.0,22.0
+Passerina caerulea_Blue Grosbeak,0.98399496,20.0,23.0
+Passerina caerulea_Blue Grosbeak,0.9871715,21.0,24.0
+Passerina caerulea_Blue Grosbeak,0.99130017,22.0,25.0
+Passerina caerulea_Blue Grosbeak,0.95548046,23.0,26.0
+Sitta canadensis_Red-breasted Nuthatch,0.19759725,24.0,27.0
+Sitta carolinensis_White-breasted Nuthatch,0.17990959,24.0,27.0
+Sitta carolinensis_White-breasted Nuthatch,0.2789198,25.0,28.0
+Sitta canadensis_Red-breasted Nuthatch,0.14712177,25.0,28.0
+Sitta canadensis_Red-breasted Nuthatch,0.104880735,26.0,29.0
+Piranga rubra_Summer Tanager,0.270771,30.0,33.0
+Passerina caerulea_Blue Grosbeak,0.9547751,33.0,36.0
+Passerina ciris_Painted Bunting,0.11654921,33.0,36.0
+Passerina caerulea_Blue Grosbeak,0.39451984,34.0,37.0
+Passerina caerulea_Blue Grosbeak,0.88365036,35.0,38.0
+Passerina caerulea_Blue Grosbeak,0.9390079,36.0,39.0
+Passerina ciris_Painted Bunting,0.1556039,36.0,39.0
+Piranga rubra_Summer Tanager,0.13948496,36.0,39.0
+Passerina caerulea_Blue Grosbeak,0.8844814,37.0,40.0
+Setophaga dominica_Yellow-throated Warbler,0.1388304,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24301639,39.0,42.0
+Setophaga dominica_Yellow-throated Warbler,0.108686514,39.0,42.0
+Passerina caerulea_Blue Grosbeak,0.24157247,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13907984,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12061329,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17139345,44.0,47.0
+Acris crepitans_Northern Cricket Frog,0.14022997,45.0,48.0
+Passerina caerulea_Blue Grosbeak,0.9958549,46.0,49.0
+Passerina caerulea_Blue Grosbeak,0.9843827,47.0,50.0
+Passerina caerulea_Blue Grosbeak,0.98993486,48.0,51.0
+Passerina caerulea_Blue Grosbeak,0.976976,49.0,52.0
+Passerina caerulea_Blue Grosbeak,0.994125,50.0,53.0
+Passerina caerulea_Blue Grosbeak,0.96736634,51.0,54.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.15328458,57.0,60.0
+Acris crepitans_Northern Cricket Frog,0.12904373,57.0,60.0
+Passerina caerulea_Blue Grosbeak,0.87226975,58.0,61.0
+Passerina ciris_Painted Bunting,0.2977417,58.0,61.0
+Passerina caerulea_Blue Grosbeak,0.6332954,59.0,62.0
+Passerina ciris_Painted Bunting,0.14562115,59.0,62.0
+Passerina caerulea_Blue Grosbeak,0.7031642,60.0,63.0
+Acris crepitans_Northern Cricket Frog,0.89399767,61.0,64.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.31883287,61.0,64.0
+Acris crepitans_Northern Cricket Frog,0.8945012,62.0,65.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.2425829,62.0,65.0
+Acris crepitans_Northern Cricket Frog,0.27934185,63.0,66.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.14421323,63.0,66.0
+Passerina caerulea_Blue Grosbeak,0.44315308,64.0,67.0
+Passerina ciris_Painted Bunting,0.103660464,64.0,67.0
+Passerina caerulea_Blue Grosbeak,0.17606553,65.0,68.0
+Parkesia motacilla_Louisiana Waterthrush,0.12650582,65.0,68.0
+Cyanocompsa parellina_Blue Bunting,0.13259494,66.0,69.0
+Passerina caerulea_Blue Grosbeak,0.9867337,67.0,70.0
+Passerina caerulea_Blue Grosbeak,0.99404114,68.0,71.0
+Passerina caerulea_Blue Grosbeak,0.98913,69.0,72.0
+Passerina caerulea_Blue Grosbeak,0.993306,70.0,73.0
+Passerina caerulea_Blue Grosbeak,0.99137664,71.0,74.0
+Passerina caerulea_Blue Grosbeak,0.46206963,72.0,75.0
+Sitta carolinensis_White-breasted Nuthatch,0.39360172,73.0,76.0
+Contopus virens_Eastern Wood-Pewee,0.13366656,73.0,76.0
+Sitta carolinensis_White-breasted Nuthatch,0.84321404,74.0,77.0
+Sitta carolinensis_White-breasted Nuthatch,0.83253616,75.0,78.0
+Sitta carolinensis_White-breasted Nuthatch,0.77704567,76.0,79.0
+Passerina caerulea_Blue Grosbeak,0.29970026,78.0,81.0
+Passerina ciris_Painted Bunting,0.10846559,78.0,81.0
+Passerina caerulea_Blue Grosbeak,0.52550006,79.0,82.0
+Passerina ciris_Painted Bunting,0.16956449,79.0,82.0
+Passerina caerulea_Blue Grosbeak,0.40292528,80.0,83.0
+Passerina ciris_Painted Bunting,0.19039209,80.0,83.0
+Sitta carolinensis_White-breasted Nuthatch,0.20872712,82.0,85.0
+Sitta carolinensis_White-breasted Nuthatch,0.6341257,83.0,86.0
+Alophoixus flaveolus_White-throated Bulbul,0.24734773,83.0,86.0
+Passerina caerulea_Blue Grosbeak,0.900589,84.0,87.0
+Geothlypis formosa_Kentucky Warbler,0.12169088,84.0,87.0
+Passerina caerulea_Blue Grosbeak,0.98537827,85.0,88.0
+Passerina caerulea_Blue Grosbeak,0.9926916,86.0,89.0
+Passerina caerulea_Blue Grosbeak,0.9847178,87.0,90.0
+Passerina caerulea_Blue Grosbeak,0.9941549,88.0,91.0
+Passerina caerulea_Blue Grosbeak,0.99164796,89.0,92.0
+Sitta canadensis_Red-breasted Nuthatch,0.10689983,97.0,100.0
+Sitta carolinensis_White-breasted Nuthatch,0.34329483,98.0,101.0
+Sitta carolinensis_White-breasted Nuthatch,0.49521077,99.0,102.0
+Sitta carolinensis_White-breasted Nuthatch,0.11838116,100.0,103.0
+Passerina caerulea_Blue Grosbeak,0.93570286,102.0,105.0
+Cyanoloxia brissonii_Ultramarine Grosbeak,0.5832305,102.0,105.0
+Geothlypis semiflava_Olive-crowned Yellowthroat,0.116968915,102.0,105.0
+Passerina caerulea_Blue Grosbeak,0.93348354,103.0,106.0
+Cyanoloxia brissonii_Ultramarine Grosbeak,0.512267,103.0,106.0
+Passerina caerulea_Blue Grosbeak,0.98239464,104.0,107.0
+Passerina caerulea_Blue Grosbeak,0.983052,105.0,108.0
+Passerina caerulea_Blue Grosbeak,0.9812959,106.0,109.0
+Passerina caerulea_Blue Grosbeak,0.8787187,107.0,110.0
+Arremon aurantiirostris_Orange-billed Sparrow,0.20606428,108.0,111.0
+Cantorchilus thoracicus_Stripe-breasted Wren,0.1865639,108.0,111.0
+Cantorchilus thoracicus_Stripe-breasted Wren,0.2831882,109.0,112.0
+Cantorchilus thoracicus_Stripe-breasted Wren,0.1469265,110.0,113.0
+Manacus candei_White-collared Manakin,0.15098117,115.0,118.0
+Bombycilla cedrorum_Cedar Waxwing,0.12770073,132.0,135.0
+Cantorchilus thoracicus_Stripe-breasted Wren,0.18847157,135.0,138.0

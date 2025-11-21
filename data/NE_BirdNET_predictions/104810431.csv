@@ -1,0 +1,60 @@
+species,score,start_time,end_time
+Branta bernicla_Brant,0.10450978,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.36337656,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.18146297,3.0,6.0
+Lithobates clamitans_Green Frog,0.18660861,4.0,7.0
+Branta bernicla_Brant,0.12514265,4.0,7.0
+Geothlypis trichas_Common Yellowthroat,0.12395192,4.0,7.0
+Branta bernicla_Brant,0.2914117,5.0,8.0
+Lithobates clamitans_Green Frog,0.28435838,5.0,8.0
+Lithobates clamitans_Green Frog,0.5698402,6.0,9.0
+Melospiza georgiana_Swamp Sparrow,0.1301587,6.0,9.0
+Lithobates clamitans_Green Frog,0.101271905,7.0,10.0
+Empidonax alnorum_Alder Flycatcher,0.11326677,8.0,11.0
+Cardellina canadensis_Canada Warbler,0.98566264,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.9681285,10.0,13.0
+Cardellina canadensis_Canada Warbler,0.6609731,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.12323314,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.10247924,12.0,15.0
+Empidonax minimus_Least Flycatcher,0.22378787,13.0,16.0
+Empidonax traillii_Willow Flycatcher,0.13396505,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.1904118,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.16069034,14.0,17.0
+Ixobrychus exilis_Least Bittern,0.1144676,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.15279752,15.0,18.0
+Empidonax traillii_Willow Flycatcher,0.15044266,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.39247,16.0,19.0
+Lithobates clamitans_Green Frog,0.19880031,16.0,19.0
+Geothlypis trichas_Common Yellowthroat,0.27276435,17.0,20.0
+Lithobates clamitans_Green Frog,0.21748051,18.0,21.0
+Empidonax alnorum_Alder Flycatcher,0.45009056,25.0,28.0
+Branta bernicla_Brant,0.10535991,25.0,28.0
+Empidonax alnorum_Alder Flycatcher,0.26753628,26.0,29.0
+Empidonax alnorum_Alder Flycatcher,0.120332584,27.0,30.0
+Branta bernicla_Brant,0.3276322,30.0,33.0
+Branta bernicla_Brant,0.2750886,31.0,34.0
+Plegadis falcinellus_Glossy Ibis,0.17342553,31.0,34.0
+Fulica americana_American Coot,0.10485498,31.0,34.0
+Empidonax alnorum_Alder Flycatcher,0.2240242,33.0,36.0
+Empidonax alnorum_Alder Flycatcher,0.4344225,34.0,37.0
+Empidonax alnorum_Alder Flycatcher,0.41226256,35.0,38.0
+Bombycilla cedrorum_Cedar Waxwing,0.9214583,37.0,40.0
+Bombycilla cedrorum_Cedar Waxwing,0.789061,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.9140514,39.0,42.0
+Bombycilla cedrorum_Cedar Waxwing,0.53178215,40.0,43.0
+Bombycilla cedrorum_Cedar Waxwing,0.6014339,41.0,44.0
+Lithobates clamitans_Green Frog,0.5686601,42.0,45.0
+Geothlypis trichas_Common Yellowthroat,0.1380325,42.0,45.0
+Lithobates clamitans_Green Frog,0.23640147,43.0,46.0
+Lithobates clamitans_Green Frog,0.36799246,44.0,47.0
+Mergus merganser_Common Merganser,0.6320502,46.0,49.0
+Bucephala albeola_Bufflehead,0.11935941,46.0,49.0
+Fulica americana_American Coot,0.110671625,46.0,49.0
+Mergus merganser_Common Merganser,0.4004515,47.0,50.0
+Cardellina canadensis_Canada Warbler,0.3347939,48.0,51.0
+Lithobates clamitans_Green Frog,0.29988292,48.0,51.0
+Cardellina canadensis_Canada Warbler,0.97159284,49.0,52.0
+Lithobates clamitans_Green Frog,0.6810342,49.0,52.0
+Cardellina canadensis_Canada Warbler,0.873831,50.0,53.0
+Cardellina canadensis_Canada Warbler,0.89163774,51.0,54.0
+Ixobrychus exilis_Least Bittern,0.11384972,53.0,56.0
