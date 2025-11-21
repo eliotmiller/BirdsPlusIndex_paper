@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Selasphorus rufus_Rufous Hummingbird,0.12356584,1.0,4.0
+Troglodytes aedon_House Wren,0.22911301,3.0,6.0
+Cistothorus palustris_Marsh Wren,0.18765025,3.0,6.0
+Troglodytes aedon_House Wren,0.659845,4.0,7.0
+Cistothorus palustris_Marsh Wren,0.62907666,4.0,7.0
+Troglodytes aedon_House Wren,0.6526774,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.28811553,5.0,8.0
+Pseudocolopteryx dinelliana_Dinelli's Doradito,0.1756107,5.0,8.0
+Vireo bellii_Bell's Vireo,0.15948583,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.36426544,6.0,9.0
+Troglodytes aedon_House Wren,0.25201863,6.0,9.0
+Rhipidura fuliginosa_New Zealand Fantail,0.114782624,6.0,9.0
+Vireo griseus_White-eyed Vireo,0.180998,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.10336455,18.0,21.0
+Troglodytes aedon_House Wren,0.33667564,21.0,24.0
+Troglodytes aedon_House Wren,0.22026297,22.0,25.0
+Passer domesticus_House Sparrow,0.10272937,24.0,27.0
+Muscicapa striata_Spotted Flycatcher,0.21179922,26.0,29.0
+Muscicapa striata_Spotted Flycatcher,0.11353319,27.0,30.0
+Muscicapa striata_Spotted Flycatcher,0.34527904,28.0,31.0
+Muscicapa striata_Spotted Flycatcher,0.124338716,32.0,35.0
+Muscicapa striata_Spotted Flycatcher,0.26237682,33.0,36.0
+Erithacus rubecula_European Robin,0.1830477,33.0,36.0
+Ficedula parva_Red-breasted Flycatcher,0.1490285,33.0,36.0
+Ficedula parva_Red-breasted Flycatcher,0.15848026,34.0,37.0
+Muscicapa striata_Spotted Flycatcher,0.11853213,34.0,37.0
+Icterus cucullatus_Hooded Oriole,0.3492788,37.0,40.0
+Icterus cucullatus_Hooded Oriole,0.16876583,38.0,41.0
+Troglodytes aedon_House Wren,0.13280767,38.0,41.0
+Icterus cucullatus_Hooded Oriole,0.26808178,39.0,42.0
+Icterus galbula_Baltimore Oriole,0.1003782,39.0,42.0
+Icterus cucullatus_Hooded Oriole,0.19256577,40.0,43.0
+Icterus cucullatus_Hooded Oriole,0.5317418,41.0,44.0
+Icterus cucullatus_Hooded Oriole,0.4500854,42.0,45.0
+Icterus cucullatus_Hooded Oriole,0.56656486,43.0,46.0
+Icterus cucullatus_Hooded Oriole,0.66872025,44.0,47.0
+Icterus cucullatus_Hooded Oriole,0.32537425,45.0,48.0
+Lanius collurio_Red-backed Shrike,0.115663156,46.0,49.0
+Lanius collurio_Red-backed Shrike,0.19432427,47.0,50.0
+Icterus cucullatus_Hooded Oriole,0.5466737,50.0,53.0
+Icterus cucullatus_Hooded Oriole,0.2799121,51.0,54.0
+Icterus cucullatus_Hooded Oriole,0.31143093,52.0,55.0
+Curruca melanocephala_Sardinian Warbler,0.19747938,60.0,63.0
+Campylorhynchus brunneicapillus_Cactus Wren,0.12024231,67.0,70.0
+Lanius collurio_Red-backed Shrike,0.15577252,75.0,78.0
+Campylorhynchus brunneicapillus_Cactus Wren,0.14800566,78.0,81.0
+Lanius collurio_Red-backed Shrike,0.28331318,79.0,82.0
+Lanius collurio_Red-backed Shrike,0.29214647,80.0,83.0
+Lanius collurio_Red-backed Shrike,0.42296034,81.0,84.0
+Engine_Engine,0.10968805,81.0,84.0
+Lanius collurio_Red-backed Shrike,0.3678955,82.0,85.0
+Campylorhynchus brunneicapillus_Cactus Wren,0.35687533,83.0,86.0
+Lanius collurio_Red-backed Shrike,0.11239731,83.0,86.0
+Lanius collurio_Red-backed Shrike,0.19485633,84.0,87.0
+Lanius collurio_Red-backed Shrike,0.6609432,85.0,88.0
+Curruca iberiae_Western Subalpine Warbler,0.11809424,85.0,88.0
+Lanius collurio_Red-backed Shrike,0.17364307,86.0,89.0
+Engine_Engine,0.45791835,87.0,90.0
+Engine_Engine,0.56836385,88.0,91.0
+Engine_Engine,0.60412407,89.0,91.34403628117914

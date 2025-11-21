@@ -1,0 +1,129 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.99739504,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.97457224,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.7291501,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.37175345,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10114182,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13115561,4.0,7.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.34593317,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.22600092,5.0,8.0
+Setophaga ruticilla_American Redstart,0.21599457,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18303233,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.11750101,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.10594863,5.0,8.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19922277,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.16677465,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1243039,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.12202112,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20218205,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10878998,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24425657,9.0,12.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16627572,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21195123,10.0,13.0
+Geothlypis trichas_Common Yellowthroat,0.6710397,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1505398,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.9792213,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.97681695,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.964639,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.21013263,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.12495722,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22761326,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.17367293,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14172521,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.18349473,20.0,23.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17295581,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15620922,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13895759,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.12731427,21.0,24.0
+Buteo platypterus_Broad-winged Hawk,0.10864686,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.10007717,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.25175378,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20744726,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.18836486,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.167983,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.122496165,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.108492814,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.90547895,24.0,27.0
+Geothlypis trichas_Common Yellowthroat,0.97247034,25.0,28.0
+Geothlypis trichas_Common Yellowthroat,0.96949905,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.8735057,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.11445936,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11155203,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.21986814,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.119839534,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.46902165,29.0,32.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20703223,29.0,32.0
+Bombycilla cedrorum_Cedar Waxwing,0.57023674,30.0,33.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12912866,30.0,33.0
+Bombycilla cedrorum_Cedar Waxwing,0.20403662,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19131987,31.0,34.0
+Bombycilla cedrorum_Cedar Waxwing,0.30357647,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12648363,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21186808,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.15222628,33.0,36.0
+Bombycilla cedrorum_Cedar Waxwing,0.14638795,33.0,36.0
+Buteo platypterus_Broad-winged Hawk,0.112046674,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17233844,34.0,37.0
+Buteo platypterus_Broad-winged Hawk,0.13805214,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.11950374,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.29551965,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18652427,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13609323,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.8751282,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11477464,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.9860619,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.9895806,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.9610573,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14630371,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10933764,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17050615,42.0,45.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14023992,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16811945,43.0,46.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11731534,43.0,46.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11256082,46.0,49.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.3382079,47.0,50.0
+Geothlypis trichas_Common Yellowthroat,0.87879115,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.9795546,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.9861859,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.9671501,51.0,54.0
+Setophaga citrina_Hooded Warbler,0.103858195,51.0,54.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.118580684,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14902492,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.21982905,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.119562715,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.105548255,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.11233972,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.11016239,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14624955,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20929982,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.10347598,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19762997,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.15901357,58.0,61.0
+Junco hyemalis_Dark-eyed Junco,0.1586454,58.0,61.0
+Junco hyemalis_Dark-eyed Junco,0.2377365,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.16851154,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12472135,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.89321387,60.0,63.0
+Geothlypis trichas_Common Yellowthroat,0.97578543,61.0,64.0
+Geothlypis trichas_Common Yellowthroat,0.98091906,62.0,65.0
+Geothlypis trichas_Common Yellowthroat,0.98693097,63.0,66.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.28725323,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.11949889,66.0,69.0
+Junco hyemalis_Dark-eyed Junco,0.11816113,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14176841,67.0,70.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31110382,68.0,71.0
+Cardellina canadensis_Canada Warbler,0.12096649,68.0,71.0
+Setophaga magnolia_Magnolia Warbler,0.10363894,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3269305,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124504335,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20997095,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.136021,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11049138,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.13584141,72.0,75.0
+Geothlypis trichas_Common Yellowthroat,0.7897994,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.11066529,73.0,76.0
+Geothlypis trichas_Common Yellowthroat,0.9840518,74.0,77.0
+Geothlypis trichas_Common Yellowthroat,0.9914038,75.0,78.0
+Geothlypis trichas_Common Yellowthroat,0.94801635,76.0,79.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16081093,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1368097,79.0,81.69600907029478

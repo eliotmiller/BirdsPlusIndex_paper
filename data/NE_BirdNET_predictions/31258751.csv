@@ -1,0 +1,277 @@
+species,score,start_time,end_time
+Turdus simillimus_Indian Blackbird,0.2703059,1.0,4.0
+Erithacus rubecula_European Robin,0.18112966,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.116688766,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.44788077,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.23472248,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.16949272,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.11658435,4.0,7.0
+Bombycilla cedrorum_Cedar Waxwing,0.13478208,7.0,10.0
+Bombycilla cedrorum_Cedar Waxwing,0.13079166,8.0,11.0
+Vermivora chrysoptera_Golden-winged Warbler,0.107271254,11.0,14.0
+Turdus simillimus_Indian Blackbird,0.18511112,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.25519866,14.0,17.0
+Setophaga castanea_Bay-breasted Warbler,0.16025448,14.0,17.0
+Bombycilla cedrorum_Cedar Waxwing,0.6786055,16.0,19.0
+Bombycilla cedrorum_Cedar Waxwing,0.3381677,17.0,20.0
+Bombycilla cedrorum_Cedar Waxwing,0.1041532,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.27503145,29.0,32.0
+Erithacus rubecula_European Robin,0.26098093,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.29975018,33.0,36.0
+Regulus satrapa_Golden-crowned Kinglet,0.18396084,33.0,36.0
+Setophaga castanea_Bay-breasted Warbler,0.10809905,33.0,36.0
+Erithacus rubecula_European Robin,0.22530118,34.0,37.0
+Muscicapa griseisticta_Gray-streaked Flycatcher,0.305393,36.0,39.0
+Erithacus rubecula_European Robin,0.10133142,36.0,39.0
+Turdus migratorius_American Robin,0.14098375,38.0,41.0
+Erithacus rubecula_European Robin,0.10517409,38.0,41.0
+Muscicapa griseisticta_Gray-streaked Flycatcher,0.12715605,39.0,42.0
+Turdus migratorius_American Robin,0.124567665,39.0,42.0
+Erithacus rubecula_European Robin,0.20365041,40.0,43.0
+Muscicapa griseisticta_Gray-streaked Flycatcher,0.19164671,40.0,43.0
+Muscicapa dauurica_Asian Brown Flycatcher,0.15798952,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.18917143,41.0,44.0
+Vermivora chrysoptera_Golden-winged Warbler,0.110947624,41.0,44.0
+Erithacus rubecula_European Robin,0.3264088,43.0,46.0
+Bombycilla cedrorum_Cedar Waxwing,0.22067985,44.0,47.0
+Bombycilla cedrorum_Cedar Waxwing,0.28942442,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.11313558,46.0,49.0
+Bombycilla cedrorum_Cedar Waxwing,0.22215134,48.0,51.0
+Bombycilla cedrorum_Cedar Waxwing,0.1581725,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.12170848,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.10333567,50.0,53.0
+Erithacus rubecula_European Robin,0.10708979,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.26373282,54.0,57.0
+Setophaga castanea_Bay-breasted Warbler,0.18034595,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114756785,54.0,57.0
+Buteo platypterus_Broad-winged Hawk,0.7004571,55.0,58.0
+Erithacus rubecula_European Robin,0.34792298,57.0,60.0
+Erithacus rubecula_European Robin,0.2448755,58.0,61.0
+Setophaga castanea_Bay-breasted Warbler,0.30124584,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.14000638,59.0,62.0
+Regulus satrapa_Golden-crowned Kinglet,0.11292445,59.0,62.0
+Buteo platypterus_Broad-winged Hawk,0.11230145,59.0,62.0
+Neochmia temporalis_Red-browed Firetail,0.13323736,60.0,63.0
+Bombycilla cedrorum_Cedar Waxwing,0.117358565,60.0,63.0
+Spindalis zena_Western Spindalis,0.13533548,61.0,64.0
+Neochmia temporalis_Red-browed Firetail,0.11143702,61.0,64.0
+Bombycilla cedrorum_Cedar Waxwing,0.17809072,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16060272,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.15410842,63.0,66.0
+Turdus migratorius_American Robin,0.2967558,65.0,68.0
+Turdus migratorius_American Robin,0.16335557,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.44399303,67.0,70.0
+Setophaga castanea_Bay-breasted Warbler,0.26011905,67.0,70.0
+Bombycilla cedrorum_Cedar Waxwing,0.11244756,67.0,70.0
+Bombycilla cedrorum_Cedar Waxwing,0.15041628,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.3069722,71.0,74.0
+Bombycilla cedrorum_Cedar Waxwing,0.24255039,71.0,74.0
+Setophaga castanea_Bay-breasted Warbler,0.22330824,71.0,74.0
+Regulus satrapa_Golden-crowned Kinglet,0.10012091,71.0,74.0
+Setophaga fusca_Blackburnian Warbler,0.33371645,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15254673,72.0,75.0
+Buteo platypterus_Broad-winged Hawk,0.12167221,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1290075,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.10750535,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.10248163,73.0,76.0
+Turdus migratorius_American Robin,0.15606585,74.0,77.0
+Bombycilla cedrorum_Cedar Waxwing,0.27349034,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10730264,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12868126,78.0,81.0
+Bombycilla cedrorum_Cedar Waxwing,0.11945688,79.0,82.0
+Bombycilla cedrorum_Cedar Waxwing,0.11433671,80.0,83.0
+Bombycilla cedrorum_Cedar Waxwing,0.12278301,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2200982,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.18584304,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14237286,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.10375011,83.0,86.0
+Bombycilla cedrorum_Cedar Waxwing,0.1169483,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17257692,88.0,91.0
+Setophaga fusca_Blackburnian Warbler,0.11381961,92.0,95.0
+Bombycilla cedrorum_Cedar Waxwing,0.28708175,93.0,96.0
+Bombycilla cedrorum_Cedar Waxwing,0.25594118,94.0,97.0
+Spindalis zena_Western Spindalis,0.10686453,94.0,97.0
+Bombycilla cedrorum_Cedar Waxwing,0.5766794,95.0,98.0
+Turdus migratorius_American Robin,0.10847635,95.0,98.0
+Piranga olivacea_Scarlet Tanager,0.13093852,96.0,99.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1274406,98.0,101.0
+Turdus nigriceps_Andean Slaty Thrush,0.15097642,99.0,102.0
+Turdus nigriceps_Andean Slaty Thrush,0.2667246,100.0,103.0
+Turdus nigriceps_Andean Slaty Thrush,0.26676887,101.0,104.0
+Todus subulatus_Broad-billed Tody,0.122771166,102.0,105.0
+Regulus satrapa_Golden-crowned Kinglet,0.118473954,106.0,109.0
+Phaenicophilus palmarum_Black-crowned Palm-Tanager,0.10772839,107.0,110.0
+Bombycilla cedrorum_Cedar Waxwing,0.34709883,110.0,113.0
+Setophaga fusca_Blackburnian Warbler,0.17309916,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101005346,112.0,115.0
+Todus subulatus_Broad-billed Tody,0.2745057,113.0,116.0
+Turdus migratorius_American Robin,0.15396713,115.0,118.0
+Spindalis zena_Western Spindalis,0.140859,115.0,118.0
+Bombycilla cedrorum_Cedar Waxwing,0.2384557,116.0,119.0
+Setophaga fusca_Blackburnian Warbler,0.19347058,117.0,120.0
+Erithacus rubecula_European Robin,0.2275247,119.0,122.0
+Setophaga fusca_Blackburnian Warbler,0.38730466,122.0,125.0
+Setophaga castanea_Bay-breasted Warbler,0.36791328,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13807996,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24377272,123.0,126.0
+Piranga olivacea_Scarlet Tanager,0.10390745,128.0,131.0
+Turdus migratorius_American Robin,0.1433636,129.0,132.0
+Bombycilla cedrorum_Cedar Waxwing,0.11994281,131.0,134.0
+Setophaga fusca_Blackburnian Warbler,0.3316353,132.0,135.0
+Bombycilla cedrorum_Cedar Waxwing,0.24939647,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19245775,133.0,136.0
+Setophaga fusca_Blackburnian Warbler,0.2938365,138.0,141.0
+Buteo platypterus_Broad-winged Hawk,0.27177063,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18207805,138.0,141.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12283537,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1916487,143.0,146.0
+Buteo platypterus_Broad-winged Hawk,0.16865312,143.0,146.0
+Setophaga fusca_Blackburnian Warbler,0.22895773,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16392493,144.0,147.0
+Buteo platypterus_Broad-winged Hawk,0.13025655,144.0,147.0
+Buteo platypterus_Broad-winged Hawk,0.1128818,145.0,148.0
+Turdus migratorius_American Robin,0.12780851,146.0,149.0
+Turdus migratorius_American Robin,0.17161688,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18752934,149.0,152.0
+Buteo platypterus_Broad-winged Hawk,0.16988279,149.0,152.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1173318,149.0,152.0
+Setophaga cerulea_Cerulean Warbler,0.10795059,149.0,152.0
+Bombycilla cedrorum_Cedar Waxwing,0.14383532,152.0,155.0
+Setophaga fusca_Blackburnian Warbler,0.19915266,153.0,156.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15662941,153.0,156.0
+Setophaga castanea_Bay-breasted Warbler,0.10694115,153.0,156.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14998947,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10424877,154.0,157.0
+Bombycilla cedrorum_Cedar Waxwing,0.118540116,155.0,158.0
+Turdus migratorius_American Robin,0.33444828,156.0,159.0
+Bombycilla cedrorum_Cedar Waxwing,0.15289846,156.0,159.0
+Turdus migratorius_American Robin,0.3238184,157.0,160.0
+Bombycilla cedrorum_Cedar Waxwing,0.24523757,157.0,160.0
+Turdus migratorius_American Robin,0.10774989,159.0,162.0
+Setophaga fusca_Blackburnian Warbler,0.28511587,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12622143,163.0,166.0
+Buteo platypterus_Broad-winged Hawk,0.11514679,163.0,166.0
+Setophaga cerulea_Cerulean Warbler,0.15267938,164.0,167.0
+Buteo platypterus_Broad-winged Hawk,0.11166206,164.0,167.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10768806,164.0,167.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107683785,164.0,167.0
+Buteo platypterus_Broad-winged Hawk,0.17830604,165.0,168.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12302667,165.0,168.0
+Setophaga cerulea_Cerulean Warbler,0.11629341,165.0,168.0
+Erithacus rubecula_European Robin,0.49547875,166.0,169.0
+Erithacus rubecula_European Robin,0.27293536,167.0,170.0
+Turdus migratorius_American Robin,0.17026418,167.0,170.0
+Turdus migratorius_American Robin,0.13303706,168.0,171.0
+Erithacus rubecula_European Robin,0.123890035,168.0,171.0
+Setophaga fusca_Blackburnian Warbler,0.21427801,169.0,172.0
+Buteo platypterus_Broad-winged Hawk,0.16803327,169.0,172.0
+Bombycilla cedrorum_Cedar Waxwing,0.13453773,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12247273,174.0,177.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11756251,174.0,177.0
+Buteo platypterus_Broad-winged Hawk,0.13824052,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101038955,176.0,179.0
+Buteo platypterus_Broad-winged Hawk,0.1791758,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104562744,177.0,180.0
+Setophaga fusca_Blackburnian Warbler,0.104105406,177.0,180.0
+Setophaga cerulea_Cerulean Warbler,0.10078673,177.0,180.0
+Buteo platypterus_Broad-winged Hawk,0.18058497,178.0,181.0
+Buteo platypterus_Broad-winged Hawk,0.1636995,179.0,182.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15215221,179.0,182.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10080685,179.0,182.0
+Setophaga fusca_Blackburnian Warbler,0.13535619,183.0,186.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10183451,184.0,187.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2089004,185.0,188.0
+Empidonax virescens_Acadian Flycatcher,0.11361666,185.0,188.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11306618,185.0,188.0
+Setophaga cerulea_Cerulean Warbler,0.102118984,185.0,188.0
+Turdus migratorius_American Robin,0.13725583,186.0,189.0
+Erithacus rubecula_European Robin,0.42103496,187.0,190.0
+Turdus migratorius_American Robin,0.11038061,187.0,190.0
+Erithacus rubecula_European Robin,0.2376114,188.0,191.0
+Turdus migratorius_American Robin,0.103608824,188.0,191.0
+Setophaga fusca_Blackburnian Warbler,0.62074035,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13252524,190.0,193.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10509152,190.0,193.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.174295,191.0,194.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20473365,192.0,195.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20038028,192.0,195.0
+Setophaga cerulea_Cerulean Warbler,0.1196679,192.0,195.0
+Buteo platypterus_Broad-winged Hawk,0.10565023,192.0,195.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123985484,193.0,196.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12210863,193.0,196.0
+Buteo platypterus_Broad-winged Hawk,0.10910802,193.0,196.0
+Setophaga fusca_Blackburnian Warbler,0.15637779,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19849928,198.0,201.0
+Buteo platypterus_Broad-winged Hawk,0.11687773,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14770855,199.0,202.0
+Setophaga cerulea_Cerulean Warbler,0.10749204,199.0,202.0
+Tamias striatus_Eastern Chipmunk,0.30956408,200.0,203.0
+Bombycilla cedrorum_Cedar Waxwing,0.17413141,203.0,206.0
+Erithacus rubecula_European Robin,0.14474562,210.0,213.0
+Erithacus rubecula_European Robin,0.43162218,212.0,215.0
+Setophaga fusca_Blackburnian Warbler,0.20386283,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100303344,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17972133,214.0,217.0
+Setophaga fusca_Blackburnian Warbler,0.14792615,214.0,217.0
+Buteo platypterus_Broad-winged Hawk,0.14645453,214.0,217.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12896934,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12969618,215.0,218.0
+Buteo platypterus_Broad-winged Hawk,0.10903921,215.0,218.0
+Setophaga fusca_Blackburnian Warbler,0.10535039,215.0,218.0
+Erithacus rubecula_European Robin,0.12800021,216.0,219.0
+Turdus migratorius_American Robin,0.19221999,217.0,220.0
+Bombycilla cedrorum_Cedar Waxwing,0.13859822,217.0,220.0
+Bombycilla cedrorum_Cedar Waxwing,0.21237804,218.0,221.0
+Setophaga fusca_Blackburnian Warbler,0.59239525,219.0,222.0
+Bombycilla cedrorum_Cedar Waxwing,0.11797225,219.0,222.0
+Buteo platypterus_Broad-winged Hawk,0.12708482,220.0,223.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12543063,221.0,224.0
+Erithacus rubecula_European Robin,0.3118062,224.0,227.0
+Turdus migratorius_American Robin,0.10377018,226.0,229.0
+Setophaga fusca_Blackburnian Warbler,0.24960016,227.0,230.0
+Setophaga castanea_Bay-breasted Warbler,0.14699385,227.0,230.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19953193,229.0,232.0
+Setophaga fusca_Blackburnian Warbler,0.13689035,229.0,232.0
+Buteo platypterus_Broad-winged Hawk,0.10995166,229.0,232.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20916645,230.0,233.0
+Buteo platypterus_Broad-winged Hawk,0.11063517,230.0,233.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20794268,231.0,234.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10037921,231.0,234.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10932258,235.0,238.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14457954,236.0,239.0
+Setophaga fusca_Blackburnian Warbler,0.1409291,236.0,239.0
+Setophaga cerulea_Cerulean Warbler,0.11071777,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124139525,237.0,240.0
+Erithacus rubecula_European Robin,0.13712913,240.0,243.0
+Setophaga fusca_Blackburnian Warbler,0.3183934,241.0,244.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17732854,242.0,245.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16584487,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15118687,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108044714,245.0,248.0
+Buteo platypterus_Broad-winged Hawk,0.1439214,246.0,249.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13806504,246.0,249.0
+Setophaga castanea_Bay-breasted Warbler,0.21735485,250.0,253.0
+Setophaga fusca_Blackburnian Warbler,0.14653514,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17701925,251.0,254.0
+Setophaga cerulea_Cerulean Warbler,0.114873864,251.0,254.0
+Setophaga fusca_Blackburnian Warbler,0.108726524,251.0,254.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15678973,252.0,255.0
+Buteo platypterus_Broad-winged Hawk,0.1432813,252.0,255.0
+Setophaga cerulea_Cerulean Warbler,0.103907734,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13948765,253.0,256.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15201458,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14904141,255.0,258.0
+Buteo platypterus_Broad-winged Hawk,0.111101195,255.0,258.0
+Setophaga fusca_Blackburnian Warbler,0.10940423,255.0,258.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1019169,255.0,258.0
+Setophaga fusca_Blackburnian Warbler,0.16496885,256.0,259.0
+Erithacus rubecula_European Robin,0.37712628,273.0,276.0
+Setophaga castanea_Bay-breasted Warbler,0.613252,276.0,279.0
+Bombycilla cedrorum_Cedar Waxwing,0.26550412,276.0,279.0
+Setophaga fusca_Blackburnian Warbler,0.14271972,276.0,279.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1758115,277.0,280.0
+Buteo platypterus_Broad-winged Hawk,0.14346749,277.0,280.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14036936,278.0,281.0
+Calidris pygmaea_Spoon-billed Sandpiper,0.10812681,283.0,286.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3154859,285.0,288.0
+Tamias striatus_Eastern Chipmunk,0.12639299,285.0,288.0

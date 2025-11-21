@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Cinclus pallasii_Brown Dipper,0.22360775,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11613475,0.0,3.0
+Saxicola ferreus_Gray Bushchat,0.10295108,0.0,3.0
+Colaptes auratus_Northern Flicker,0.5536242,2.0,5.0
+Colaptes auratus_Northern Flicker,0.35545692,3.0,6.0
+Colaptes auratus_Northern Flicker,0.52231103,4.0,7.0
+Sturnella magna_Eastern Meadowlark,0.9800529,5.0,8.0
+Calcarius pictus_Smith's Longspur,0.14341576,5.0,8.0
+Sturnella magna_Eastern Meadowlark,0.99438584,6.0,9.0
+Sturnella magna_Eastern Meadowlark,0.9982382,7.0,10.0
+Sturnella magna_Eastern Meadowlark,0.9627344,8.0,11.0
+Sturnella magna_Eastern Meadowlark,0.97391814,9.0,12.0
+Passerculus sandwichensis_Savannah Sparrow,0.5933185,10.0,13.0
+Passerculus sandwichensis_Savannah Sparrow,0.3778992,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.1236647,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.25064203,12.0,15.0
+Chrysomus ruficapillus_Chestnut-capped Blackbird,0.24665897,12.0,15.0
+Icterus spurius_Orchard Oriole,0.17327277,12.0,15.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.1360159,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.23596261,13.0,16.0
+Icterus spurius_Orchard Oriole,0.19147782,13.0,16.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.17537002,13.0,16.0
+Sialia sialis_Eastern Bluebird,0.11000795,13.0,16.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.28596282,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.15111703,14.0,17.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.14604029,14.0,17.0
+Icterus spurius_Orchard Oriole,0.12808034,14.0,17.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.57025135,15.0,18.0
+Icterus spurius_Orchard Oriole,0.40437606,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.26066166,15.0,18.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.25849333,16.0,19.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.14619559,16.0,19.0
+Icterus spurius_Orchard Oriole,0.11930996,16.0,19.0
+Sturnella magna_Eastern Meadowlark,0.889664,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.9974778,18.0,21.0
+Sturnella magna_Eastern Meadowlark,0.9978078,19.0,22.0
+Sturnella magna_Eastern Meadowlark,0.9075051,20.0,23.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.1819034,21.0,24.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.5582282,22.0,25.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.40036532,23.0,26.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.37799263,23.0,26.0
+Icterus spurius_Orchard Oriole,0.1322795,23.0,26.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.85038394,24.0,27.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.2201172,24.0,27.0
+Icterus spurius_Orchard Oriole,0.14572869,24.0,27.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.4139793,25.0,28.0
+Icterus spurius_Orchard Oriole,0.19606662,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.12306669,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.27721044,26.0,29.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.2742253,26.0,29.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.25529116,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.33774114,27.0,30.0
+Icterus spurius_Orchard Oriole,0.275427,27.0,30.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.20429058,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.22498162,28.0,31.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.21431307,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.6351006,29.0,32.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.20984629,29.0,32.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.56991756,30.0,33.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.12993893,30.0,33.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.4762304,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.24945907,31.0,34.0
+Icterus spurius_Orchard Oriole,0.11989463,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.224653,32.0,35.0
+Sialia sialis_Eastern Bluebird,0.21740161,32.0,35.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.19074325,32.0,35.0
+Icterus spurius_Orchard Oriole,0.15279026,32.0,35.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.36400622,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.16434972,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.7719748,34.0,37.0
+Sturnella magna_Eastern Meadowlark,0.83352697,35.0,38.0
+Sturnella magna_Eastern Meadowlark,0.993159,36.0,39.0
+Sturnella magna_Eastern Meadowlark,0.99633574,37.0,40.0
+Sturnella magna_Eastern Meadowlark,0.97577083,38.0,41.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.5829598,39.0,42.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.30417526,40.0,42.84
+Myiodynastes maculatus_Streaked Flycatcher,0.29816782,40.0,42.84

@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.102726445,0.0,3.0
+Melospiza georgiana_Swamp Sparrow,0.5601655,3.0,6.0
+Melospiza georgiana_Swamp Sparrow,0.5585055,4.0,7.0
+Melospiza georgiana_Swamp Sparrow,0.22806528,5.0,8.0
+Colaptes auratus_Northern Flicker,0.18763639,5.0,8.0
+Motacilla cinerea_Gray Wagtail,0.15613778,5.0,8.0
+Melospiza georgiana_Swamp Sparrow,0.3244039,6.0,9.0
+Cettia brunnifrons_Gray-sided Bush Warbler,0.18320706,7.0,10.0
+Melospiza georgiana_Swamp Sparrow,0.18151867,7.0,10.0
+Melospiza georgiana_Swamp Sparrow,0.88173944,8.0,11.0
+Melospiza georgiana_Swamp Sparrow,0.8973285,9.0,12.0
+Melospiza georgiana_Swamp Sparrow,0.6412998,10.0,13.0
+Colaptes auratus_Northern Flicker,0.44803694,11.0,14.0
+Colaptes auratus_Northern Flicker,0.584753,12.0,15.0
+Melospiza georgiana_Swamp Sparrow,0.5113853,13.0,16.0
+Melospiza georgiana_Swamp Sparrow,0.44221452,14.0,17.0
+Setophaga palmarum_Palm Warbler,0.13471696,14.0,17.0
+Melospiza georgiana_Swamp Sparrow,0.37234548,15.0,18.0
+Melospiza georgiana_Swamp Sparrow,0.95494115,16.0,19.0
+Melospiza georgiana_Swamp Sparrow,0.82475096,17.0,20.0
+Colaptes auratus_Northern Flicker,0.17880334,18.0,21.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11588017,18.0,21.0
+Ammospiza leconteii_LeConte's Sparrow,0.22672737,19.0,22.0
+Centronyx henslowii_Henslow's Sparrow,0.10489373,19.0,22.0
+Lithobates clamitans_Green Frog,0.22361368,20.0,23.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10239088,21.0,24.0
+Tachycineta bicolor_Tree Swallow,0.25094858,23.0,26.0
+Colaptes auratus_Northern Flicker,0.27102908,26.0,29.0
+Cinclus cinclus_White-throated Dipper,0.13368922,26.0,29.0
+Colaptes auratus_Northern Flicker,0.20004362,27.0,30.0
+Cinclus cinclus_White-throated Dipper,0.1574724,27.0,30.0
+Melospiza georgiana_Swamp Sparrow,0.14963828,27.0,30.0
+Colaptes auratus_Northern Flicker,0.3397387,28.0,31.0
+Cinclus cinclus_White-throated Dipper,0.1447365,28.0,31.0
+Colaptes auratus_Northern Flicker,0.22521175,29.0,32.0
+Empidonomus aurantioatrocristatus_Crowned Slaty Flycatcher,0.19050625,30.0,33.0
+Phylloscopus borealis_Arctic Warbler,0.14705506,30.0,33.0
+Melospiza georgiana_Swamp Sparrow,0.33560565,31.0,34.0
+Phylloscopus borealis_Arctic Warbler,0.23625053,32.0,35.0
+Melospiza georgiana_Swamp Sparrow,0.1626746,34.0,37.0
+Centronyx henslowii_Henslow's Sparrow,0.11650042,34.0,37.0
+Ammospiza nelsoni_Nelson's Sparrow,0.10953027,34.0,37.0
+Ammospiza leconteii_LeConte's Sparrow,0.10730177,34.0,37.0
+Pipilo chlorurus_Green-tailed Towhee,0.21027428,36.0,39.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12474991,36.0,39.0
+Colaptes auratus_Northern Flicker,0.43651235,37.0,40.0
+Melospiza georgiana_Swamp Sparrow,0.402965,38.0,41.0
+Melospiza georgiana_Swamp Sparrow,0.8369913,39.0,42.0
+Cettia brunnifrons_Gray-sided Bush Warbler,0.5366404,39.0,42.0
+Melospiza georgiana_Swamp Sparrow,0.7057637,40.0,43.0
+Cettia brunnifrons_Gray-sided Bush Warbler,0.2682602,40.0,43.0
+Cettia major_Chestnut-crowned Bush Warbler,0.24673688,40.0,43.0
+Motacilla cinerea_Gray Wagtail,0.32898974,41.0,44.0
+Cettia major_Chestnut-crowned Bush Warbler,0.3061532,41.0,44.0
+Cettia brunnifrons_Gray-sided Bush Warbler,0.25631082,41.0,44.0
+Melospiza georgiana_Swamp Sparrow,0.21426748,41.0,44.0
+Melospiza georgiana_Swamp Sparrow,0.46136984,42.0,45.0
+Motacilla cinerea_Gray Wagtail,0.39855307,42.0,45.0
+Cettia major_Chestnut-crowned Bush Warbler,0.3132723,42.0,45.0
+Cettia brunnifrons_Gray-sided Bush Warbler,0.23990726,42.0,45.0
+Melospiza georgiana_Swamp Sparrow,0.94006765,43.0,46.0
+Motacilla cinerea_Gray Wagtail,0.13832976,43.0,46.0
+Melospiza georgiana_Swamp Sparrow,0.8628529,44.0,47.0
+Setophaga dominica_Yellow-throated Warbler,0.18076755,44.0,47.0
+Melospiza georgiana_Swamp Sparrow,0.8614276,45.0,48.0
+Motacilla cinerea_Gray Wagtail,0.6527341,45.0,48.0
+Ammospiza caudacuta_Saltmarsh Sparrow,0.13206926,46.0,49.0
+Colaptes auratus_Northern Flicker,0.16135028,47.0,50.0
+Melospiza georgiana_Swamp Sparrow,0.9106286,48.0,51.0
+Melospiza georgiana_Swamp Sparrow,0.89946854,49.0,52.0
+Melospiza georgiana_Swamp Sparrow,0.95938814,50.0,53.0
+Melospiza georgiana_Swamp Sparrow,0.91153485,51.0,54.0
+Melospiza georgiana_Swamp Sparrow,0.31794292,52.0,55.0
+Melospiza georgiana_Swamp Sparrow,0.29059395,53.0,56.0
+Serpophaga nigricans_Sooty Tyrannulet,0.20915988,54.0,56.32802721088435
+Serpophaga subcristata_White-crested Tyrannulet,0.15203258,54.0,56.32802721088435
+Melospiza georgiana_Swamp Sparrow,0.11367084,54.0,56.32802721088435

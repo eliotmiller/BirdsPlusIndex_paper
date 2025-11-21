@@ -1,0 +1,120 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.35642567,0.0,3.0
+Vireo cassinii_Cassin's Vireo,0.30400488,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.91164064,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.86630404,1.0,4.0
+Vireo cassinii_Cassin's Vireo,0.16321792,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.96009165,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.51974845,2.0,5.0
+Vireo cassinii_Cassin's Vireo,0.3625926,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.9140357,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.39496663,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.28543994,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.6369496,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.79738057,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.9604719,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.6442212,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.8086102,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.42505017,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.69123554,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.30888823,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.270025,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.20970425,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.114278264,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.7348554,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.17952792,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.7028103,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.10781975,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.8439363,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.11124535,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.83626884,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.3960175,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.8559006,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.49432358,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.5366955,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.48935673,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18363741,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112289526,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.9716902,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.36833408,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.7330918,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.15401608,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.9800655,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.14151338,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.6681781,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.9544706,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.7207898,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.5854616,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.43572965,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.14561337,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.7131842,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.19712822,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.8906092,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.8754816,27.0,30.0
+Vireo solitarius_Blue-headed Vireo,0.18100034,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.1928027,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.16052833,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.15445137,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12273363,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.6764666,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.24758027,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.1788801,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.3322849,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111391895,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.90134317,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.58933735,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.3620524,33.0,36.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10708918,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.41052622,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.7370949,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.3638543,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.30580384,36.0,39.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12986526,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.8934945,37.0,40.0
+Vireo solitarius_Blue-headed Vireo,0.33459145,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.86158216,38.0,41.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16411427,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.8826738,39.0,42.0
+Vireo solitarius_Blue-headed Vireo,0.6679215,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9685647,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.55773836,40.0,43.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.513648,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.3879881,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.2979436,41.0,44.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.35408983,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.27808824,42.0,45.0
+Strix varia_Barred Owl,0.65018684,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.41885465,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.3247318,44.0,47.0
+Human vocal_Human vocal,0.112764224,44.0,47.0
+Vireo solitarius_Blue-headed Vireo,0.41808757,45.0,48.0
+Human vocal_Human vocal,0.35381988,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.29894063,46.0,49.0
+Human vocal_Human vocal,0.15367243,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.12844902,46.0,49.0
+Vireo cassinii_Cassin's Vireo,0.10487288,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.80191714,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.2678961,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.68750495,48.0,51.0
+Vireo solitarius_Blue-headed Vireo,0.28948346,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.9163071,49.0,52.0
+Vireo solitarius_Blue-headed Vireo,0.36333382,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.5748388,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.84765995,51.0,54.0
+Vireo solitarius_Blue-headed Vireo,0.24726093,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.8431888,52.0,55.0
+Vireo solitarius_Blue-headed Vireo,0.3634297,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.83606464,53.0,56.0
+Vireo solitarius_Blue-headed Vireo,0.29337037,53.0,56.0
+Vireo solitarius_Blue-headed Vireo,0.798065,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46405894,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.13474983,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.21601716,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1543384,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.2790731,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17643379,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.14446366,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.77105415,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.2773957,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.23356251,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.95643497,59.0,61.58403628117914

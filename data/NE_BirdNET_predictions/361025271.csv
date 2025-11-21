@@ -1,0 +1,59 @@
+species,score,start_time,end_time
+Buteo jamaicensis_Red-tailed Hawk,0.9807576,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.9875381,1.0,4.0
+Buteo jamaicensis_Red-tailed Hawk,0.40185642,2.0,5.0
+Myiarchus crinitus_Great Crested Flycatcher,0.21435909,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.69706774,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.6241496,4.0,7.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.34980816,4.0,7.0
+Pernis apivorus_European Honey-buzzard,0.120079376,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.80607826,5.0,8.0
+Pernis apivorus_European Honey-buzzard,0.6876124,5.0,8.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.4279054,5.0,8.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.3206308,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.26979023,6.0,9.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.19975406,6.0,9.0
+Pluvialis squatarola_Black-bellied Plover,0.17738993,6.0,9.0
+Milvus milvus_Red Kite,0.5932775,7.0,10.0
+Buteo jamaicensis_Red-tailed Hawk,0.18124981,7.0,10.0
+Milvus migrans_Black Kite,0.1711427,7.0,10.0
+Buteo jamaicensis_Red-tailed Hawk,0.7223744,8.0,11.0
+Milvus migrans_Black Kite,0.41296908,8.0,11.0
+Milvus milvus_Red Kite,0.30315185,8.0,11.0
+Buteo jamaicensis_Red-tailed Hawk,0.40835574,9.0,12.0
+Milvus migrans_Black Kite,0.38599735,9.0,12.0
+Buteo jamaicensis_Red-tailed Hawk,0.44030356,10.0,13.0
+Milvus migrans_Black Kite,0.16837278,10.0,13.0
+Haliastur sphenurus_Whistling Kite,0.10615866,10.0,13.0
+Pandion haliaetus_Osprey,0.10087257,10.0,13.0
+Buteo jamaicensis_Red-tailed Hawk,0.5034799,11.0,14.0
+Buteo jamaicensis_Red-tailed Hawk,0.7190786,12.0,15.0
+Buteo jamaicensis_Red-tailed Hawk,0.80662316,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.117279954,14.0,17.0
+Onychognathus tristramii_Tristram's Starling,0.30082935,16.0,19.0
+Haemorhous cassinii_Cassin's Finch,0.16834515,16.0,19.0
+Haemorhous purpureus_Purple Finch,0.1072838,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.3355141,28.0,31.0
+Haliaeetus leucocephalus_Bald Eagle,0.13539186,28.0,31.0
+Falco columbarius_Merlin,0.13018651,28.0,31.0
+Buteo jamaicensis_Red-tailed Hawk,0.8224277,29.0,32.0
+Parabuteo unicinctus_Harris's Hawk,0.12966794,29.0,32.0
+Buteo jamaicensis_Red-tailed Hawk,0.708181,30.0,33.0
+Buteo jamaicensis_Red-tailed Hawk,0.30357087,31.0,34.0
+Buteo jamaicensis_Red-tailed Hawk,0.7745963,32.0,35.0
+Buteo jamaicensis_Red-tailed Hawk,0.8267153,33.0,36.0
+Buteo jamaicensis_Red-tailed Hawk,0.79610974,34.0,37.0
+Buteo platypterus_Broad-winged Hawk,0.14040667,34.0,37.0
+Actitis hypoleucos_Common Sandpiper,0.13583304,34.0,37.0
+Haliastur sphenurus_Whistling Kite,0.10195089,34.0,37.0
+Buteo jamaicensis_Red-tailed Hawk,0.71622527,35.0,38.0
+Buteo platypterus_Broad-winged Hawk,0.31794125,35.0,38.0
+Actitis hypoleucos_Common Sandpiper,0.27531648,35.0,38.0
+Buteo jamaicensis_Red-tailed Hawk,0.676868,36.0,39.0
+Buteo platypterus_Broad-winged Hawk,0.3987248,36.0,39.0
+Buteo swainsoni_Swainson's Hawk,0.12889604,36.0,39.0
+Pandion haliaetus_Osprey,0.15519395,41.0,44.0
+Buteo jamaicensis_Red-tailed Hawk,0.12956,41.0,44.0
+Pluvialis squatarola_Black-bellied Plover,0.16838016,42.0,45.0
+Buteo jamaicensis_Red-tailed Hawk,0.12898178,42.0,45.0
+Zonotrichia querula_Harris's Sparrow,0.10766053,43.0,46.0

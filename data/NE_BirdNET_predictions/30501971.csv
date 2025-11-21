@@ -1,0 +1,97 @@
+species,score,start_time,end_time
+Ammospiza maritima_Seaside Sparrow,0.1266558,0.0,3.0
+Rallus elegans_King Rail,0.35054725,2.0,5.0
+Rallus crepitans_Clapper Rail,0.16050673,2.0,5.0
+Ammospiza maritima_Seaside Sparrow,0.16046345,2.0,5.0
+Centronyx henslowii_Henslow's Sparrow,0.8951863,3.0,6.0
+Centronyx henslowii_Henslow's Sparrow,0.7656072,4.0,7.0
+Spiza americana_Dickcissel,0.271103,4.0,7.0
+Centronyx henslowii_Henslow's Sparrow,0.43347153,5.0,8.0
+Spiza americana_Dickcissel,0.15671715,5.0,8.0
+Ammospiza maritima_Seaside Sparrow,0.108369015,5.0,8.0
+Rallus elegans_King Rail,0.13511851,6.0,9.0
+Rallus elegans_King Rail,0.23341681,7.0,10.0
+Ammospiza maritima_Seaside Sparrow,0.20827721,7.0,10.0
+Rallus crepitans_Clapper Rail,0.12930845,7.0,10.0
+Ixobrychus exilis_Least Bittern,0.100676715,7.0,10.0
+Cistothorus stellaris_Sedge Wren,0.39034575,8.0,11.0
+Cistothorus platensis_Grass Wren,0.31051227,8.0,11.0
+Cistothorus stellaris_Sedge Wren,0.42963323,9.0,12.0
+Cistothorus platensis_Grass Wren,0.35467547,9.0,12.0
+Cistothorus stellaris_Sedge Wren,0.34305295,10.0,13.0
+Cistothorus platensis_Grass Wren,0.19087182,10.0,13.0
+Cistothorus stellaris_Sedge Wren,0.3341397,11.0,14.0
+Cistothorus platensis_Grass Wren,0.11760333,11.0,14.0
+Passerina caerulea_Blue Grosbeak,0.11007172,12.0,15.0
+Passerina ciris_Painted Bunting,0.11573803,15.0,18.0
+Cistothorus stellaris_Sedge Wren,0.7321475,19.0,22.0
+Cistothorus platensis_Grass Wren,0.61185753,19.0,22.0
+Cistothorus stellaris_Sedge Wren,0.6629534,20.0,23.0
+Cistothorus platensis_Grass Wren,0.60184073,20.0,23.0
+Cistothorus stellaris_Sedge Wren,0.65296,21.0,24.0
+Cistothorus platensis_Grass Wren,0.4626707,21.0,24.0
+Cistothorus stellaris_Sedge Wren,0.24131876,22.0,25.0
+Cistothorus platensis_Grass Wren,0.1013883,22.0,25.0
+Spiza americana_Dickcissel,0.93922484,23.0,26.0
+Spiza americana_Dickcissel,0.7366358,24.0,27.0
+Spiza americana_Dickcissel,0.672298,25.0,28.0
+Centronyx henslowii_Henslow's Sparrow,0.3683497,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13768107,25.0,28.0
+Centronyx henslowii_Henslow's Sparrow,0.79341704,26.0,29.0
+Spiza americana_Dickcissel,0.25656965,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14890356,26.0,29.0
+Bartramia longicauda_Upland Sandpiper,0.100965284,26.0,29.0
+Centronyx henslowii_Henslow's Sparrow,0.834265,27.0,30.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17527665,27.0,30.0
+Ammospiza maritima_Seaside Sparrow,0.307673,30.0,33.0
+Colinus virginianus_Northern Bobwhite,0.12854597,30.0,33.0
+Centronyx henslowii_Henslow's Sparrow,0.14191552,31.0,34.0
+Sturnella magna_Eastern Meadowlark,0.1336967,31.0,34.0
+Colinus virginianus_Northern Bobwhite,0.118658565,31.0,34.0
+Ammospiza maritima_Seaside Sparrow,0.11265615,31.0,34.0
+Centronyx henslowii_Henslow's Sparrow,0.3178121,32.0,35.0
+Spiza americana_Dickcissel,0.12655498,32.0,35.0
+Colinus virginianus_Northern Bobwhite,0.1191679,32.0,35.0
+Centronyx henslowii_Henslow's Sparrow,0.11561309,33.0,36.0
+Rallus elegans_King Rail,0.19907057,34.0,37.0
+Ammospiza maritima_Seaside Sparrow,0.16001649,34.0,37.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.3237544,35.0,38.0
+Spiza americana_Dickcissel,0.2901532,35.0,38.0
+Spiza americana_Dickcissel,0.63391477,36.0,39.0
+Centronyx henslowii_Henslow's Sparrow,0.4827067,36.0,39.0
+Spiza americana_Dickcissel,0.5524874,37.0,40.0
+Centronyx henslowii_Henslow's Sparrow,0.44078392,37.0,40.0
+Spiza americana_Dickcissel,0.30560988,38.0,41.0
+Centronyx henslowii_Henslow's Sparrow,0.22142956,38.0,41.0
+Ammospiza maritima_Seaside Sparrow,0.19504791,39.0,42.0
+Spiza americana_Dickcissel,0.11065436,39.0,42.0
+Chondestes grammacus_Lark Sparrow,0.12654738,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.12180199,40.0,43.0
+Sturnella magna_Eastern Meadowlark,0.2761199,41.0,44.0
+Spiza americana_Dickcissel,0.18282053,41.0,44.0
+Colinus virginianus_Northern Bobwhite,0.14495791,41.0,44.0
+Centronyx henslowii_Henslow's Sparrow,0.11571109,41.0,44.0
+Centronyx henslowii_Henslow's Sparrow,0.28142247,42.0,45.0
+Sturnella magna_Eastern Meadowlark,0.17386854,42.0,45.0
+Spiza americana_Dickcissel,0.118701845,42.0,45.0
+Sturnella magna_Eastern Meadowlark,0.19171633,43.0,46.0
+Centronyx henslowii_Henslow's Sparrow,0.18786766,43.0,46.0
+Colinus virginianus_Northern Bobwhite,0.105302215,43.0,46.0
+Ammospiza maritima_Seaside Sparrow,0.15944415,45.0,48.0
+Passerina ciris_Painted Bunting,0.123017,45.0,48.0
+Colinus virginianus_Northern Bobwhite,0.114825785,45.0,48.0
+Spiza americana_Dickcissel,0.114756234,45.0,48.0
+Geothlypis trichas_Common Yellowthroat,0.11219346,45.0,48.0
+Sturnella magna_Eastern Meadowlark,0.10457564,45.0,48.0
+Laterallus jamaicensis_Black Rail,0.10152817,45.0,48.0
+Centronyx henslowii_Henslow's Sparrow,0.14844221,46.0,49.0
+Spiza americana_Dickcissel,0.116094016,46.0,49.0
+Centronyx henslowii_Henslow's Sparrow,0.2140888,47.0,50.0
+Cistothorus stellaris_Sedge Wren,0.1688945,47.0,50.0
+Cistothorus stellaris_Sedge Wren,0.49440154,48.0,51.0
+Cistothorus platensis_Grass Wren,0.33152324,48.0,51.0
+Cistothorus stellaris_Sedge Wren,0.60630304,49.0,52.0
+Cistothorus platensis_Grass Wren,0.42628515,49.0,52.0
+Cistothorus stellaris_Sedge Wren,0.3407323,50.0,53.0
+Cistothorus platensis_Grass Wren,0.23400086,50.0,53.0
+Centronyx henslowii_Henslow's Sparrow,0.5722332,53.0,55.10403628117914

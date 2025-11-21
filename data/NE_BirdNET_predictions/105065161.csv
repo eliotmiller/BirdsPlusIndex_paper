@@ -1,0 +1,149 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.73655975,0.0,3.0
+Parkesia noveboracensis_Northern Waterthrush,0.22452423,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.15355961,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.9572225,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.97254896,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.98450327,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.98997515,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.9830282,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.98276585,6.0,9.0
+Contopus virens_Eastern Wood-Pewee,0.97074234,7.0,10.0
+Contopus virens_Eastern Wood-Pewee,0.9261248,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.3456523,9.0,12.0
+Geothlypis trichas_Common Yellowthroat,0.13475063,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.28489593,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.98188365,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.9585688,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.97938216,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.9275582,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.6074994,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.2206225,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.82597786,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.15961972,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.10013614,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.9054791,17.0,20.0
+Canis lupus_Gray Wolf,0.16819316,20.0,23.0
+Canis lupus_Gray Wolf,0.14836118,21.0,24.0
+Siren_Siren,0.23019253,22.0,25.0
+Canis lupus_Gray Wolf,0.12701723,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.8856992,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.8461285,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.79081,25.0,28.0
+Canis lupus_Gray Wolf,0.21615225,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.93931985,29.0,32.0
+Geothlypis trichas_Common Yellowthroat,0.24305597,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13242024,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.8692462,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.98873454,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.96604496,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.9732631,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.9463772,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.9745266,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.21738037,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.18320754,36.0,39.0
+Parkesia motacilla_Louisiana Waterthrush,0.16575688,36.0,39.0
+Contopus virens_Eastern Wood-Pewee,0.7630535,37.0,40.0
+Contopus virens_Eastern Wood-Pewee,0.71835643,38.0,41.0
+Contopus virens_Eastern Wood-Pewee,0.71111363,39.0,42.0
+Canis lupus_Gray Wolf,0.2347517,40.0,43.0
+Canis lupus_Gray Wolf,0.5933161,41.0,44.0
+Canis lupus_Gray Wolf,0.54407316,42.0,45.0
+Bubo virginianus_Great Horned Owl,0.70306176,43.0,46.0
+Canis lupus_Gray Wolf,0.18477125,43.0,46.0
+Asio otus_Long-eared Owl,0.5512993,44.0,47.0
+Bubo virginianus_Great Horned Owl,0.4288238,44.0,47.0
+Cygnus buccinator_Trumpeter Swan,0.6478264,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.51990795,46.0,49.0
+Cygnus buccinator_Trumpeter Swan,0.13498625,46.0,49.0
+Cygnus buccinator_Trumpeter Swan,0.5925678,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.4079367,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.48634964,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.2725089,49.0,52.0
+Cygnus buccinator_Trumpeter Swan,0.55646265,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.23536406,50.0,53.0
+Contopus virens_Eastern Wood-Pewee,0.50539297,51.0,54.0
+Cygnus buccinator_Trumpeter Swan,0.42070502,51.0,54.0
+Cygnus buccinator_Trumpeter Swan,0.8722003,52.0,55.0
+Contopus virens_Eastern Wood-Pewee,0.49532095,53.0,56.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.20559403,53.0,56.0
+Chlorodrepanis virens_Hawaii Amakihi,0.16170703,54.0,57.0
+Pipilo erythrophthalmus_Eastern Towhee,0.113169916,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.49714914,55.0,58.0
+Contopus virens_Eastern Wood-Pewee,0.6977295,56.0,59.0
+Contopus virens_Eastern Wood-Pewee,0.19755326,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.87933004,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.87523395,60.0,63.0
+Contopus virens_Eastern Wood-Pewee,0.4426208,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.90527385,61.0,64.0
+Contopus virens_Eastern Wood-Pewee,0.3217276,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.98070085,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.99115586,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.9773942,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.98518026,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.98466414,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.9300204,67.0,70.0
+Setophaga citrina_Hooded Warbler,0.12053354,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.25411242,69.0,72.0
+Setophaga coronata_Yellow-rumped Warbler,0.10624985,69.0,72.0
+Setophaga coronata_Yellow-rumped Warbler,0.13117748,70.0,73.0
+Setophaga coronata_Yellow-rumped Warbler,0.25001463,71.0,74.0
+Setophaga coronata_Yellow-rumped Warbler,0.20700276,72.0,75.0
+Poecile gambeli_Mountain Chickadee,0.1271763,72.0,75.0
+Chlorodrepanis virens_Hawaii Amakihi,0.11764075,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.6077668,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.6748123,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.4497998,75.0,78.0
+Salpinctes obsoletus_Rock Wren,0.10498961,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.23402849,92.0,95.0
+Cygnus buccinator_Trumpeter Swan,0.2057734,93.0,96.0
+Canis lupus_Gray Wolf,0.12133496,96.0,99.0
+Bubo virginianus_Great Horned Owl,0.22289771,98.0,101.0
+Canis lupus_Gray Wolf,0.18056074,98.0,101.0
+Bubo virginianus_Great Horned Owl,0.19805546,99.0,102.0
+Asio otus_Long-eared Owl,0.1330884,99.0,102.0
+Canis lupus_Gray Wolf,0.105547875,99.0,102.0
+Canis lupus_Gray Wolf,0.20185025,100.0,103.0
+Canis lupus_Gray Wolf,0.20603502,101.0,104.0
+Canis lupus_Gray Wolf,0.26101473,105.0,108.0
+Canis lupus_Gray Wolf,0.22268131,106.0,109.0
+Chlorodrepanis virens_Hawaii Amakihi,0.28981426,108.0,111.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.16571154,108.0,111.0
+Chlorodrepanis virens_Hawaii Amakihi,0.17501731,109.0,112.0
+Pternistis erckelii_Erckel's Francolin,0.17236736,109.0,112.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.115830734,109.0,112.0
+Salpinctes obsoletus_Rock Wren,0.17863648,111.0,114.0
+Cygnus buccinator_Trumpeter Swan,0.12739405,112.0,115.0
+Cygnus buccinator_Trumpeter Swan,0.43997434,113.0,116.0
+Bubo virginianus_Great Horned Owl,0.24631535,113.0,116.0
+Cygnus buccinator_Trumpeter Swan,0.3292155,114.0,117.0
+Bubo virginianus_Great Horned Owl,0.1313728,114.0,117.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.10893884,115.0,118.0
+Bubo virginianus_Great Horned Owl,0.10512339,116.0,119.0
+Siren_Siren,0.23374276,119.0,122.0
+Canis lupus_Gray Wolf,0.13368915,119.0,122.0
+Siren_Siren,0.32160774,120.0,123.0
+Canis lupus_Gray Wolf,0.3180791,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.8540518,121.0,124.0
+Seiurus aurocapilla_Ovenbird,0.9569981,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.9767373,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.96267295,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.9604367,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.92116493,126.0,129.0
+Canis lupus_Gray Wolf,0.3435124,127.0,130.0
+Bubo virginianus_Great Horned Owl,0.12292156,127.0,130.0
+Seiurus aurocapilla_Ovenbird,0.9569996,129.0,132.0
+Seiurus aurocapilla_Ovenbird,0.9857012,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.98905563,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.9831557,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.9804613,133.0,136.0
+Seiurus aurocapilla_Ovenbird,0.96557695,134.0,137.0
+Vireo solitarius_Blue-headed Vireo,0.14884222,135.0,138.0
+Contopus virens_Eastern Wood-Pewee,0.19452108,136.0,139.0
+Contopus virens_Eastern Wood-Pewee,0.47331312,137.0,140.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.100984916,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.7851444,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.960203,150.0,153.0
+Seiurus aurocapilla_Ovenbird,0.89114624,151.0,154.0
+Seiurus aurocapilla_Ovenbird,0.97028255,152.0,155.0
+Seiurus aurocapilla_Ovenbird,0.85223424,153.0,156.0

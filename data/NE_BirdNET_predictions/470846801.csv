@@ -1,0 +1,32 @@
+species,score,start_time,end_time
+Certhia americana_Brown Creeper,0.21105489,0.0,3.0
+Columba livia_Rock Pigeon,0.10071947,1.0,4.0
+Regulus satrapa_Golden-crowned Kinglet,0.524786,4.0,7.0
+Setophaga castanea_Bay-breasted Warbler,0.110357106,4.0,7.0
+Setophaga castanea_Bay-breasted Warbler,0.37041646,6.0,9.0
+Regulus satrapa_Golden-crowned Kinglet,0.31632826,6.0,9.0
+Sitta canadensis_Red-breasted Nuthatch,0.18868262,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.10190608,25.0,28.0
+Catharus guttatus_Hermit Thrush,0.30050984,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.42694846,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.7139032,28.0,31.0
+Setophaga castanea_Bay-breasted Warbler,0.15891135,28.0,31.0
+Catharus guttatus_Hermit Thrush,0.11224554,28.0,31.0
+Regulus satrapa_Golden-crowned Kinglet,0.5154503,29.0,32.0
+Baeolophus bicolor_Tufted Titmouse,0.16580492,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.31382275,30.0,33.0
+Setophaga castanea_Bay-breasted Warbler,0.19022007,30.0,33.0
+Sitta canadensis_Red-breasted Nuthatch,0.4290127,33.0,36.0
+Sitta canadensis_Red-breasted Nuthatch,0.5284432,34.0,37.0
+Sitta canadensis_Red-breasted Nuthatch,0.80736864,35.0,38.0
+Sitta canadensis_Red-breasted Nuthatch,0.6685916,38.0,41.0
+Sitta canadensis_Red-breasted Nuthatch,0.9581387,39.0,42.0
+Sitta canadensis_Red-breasted Nuthatch,0.98700446,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.12512976,41.0,44.0
+Sitta canadensis_Red-breasted Nuthatch,0.1196494,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.5052729,42.0,45.0
+Dumetella carolinensis_Gray Catbird,0.10457585,45.0,48.0
+Human vocal_Human vocal,0.14381179,48.0,51.0
+Dumetella carolinensis_Gray Catbird,0.12542157,50.0,53.0
+Steatornis caripensis_Oilbird,0.45799354,53.0,56.0
+Steatornis caripensis_Oilbird,0.18426937,54.0,57.0

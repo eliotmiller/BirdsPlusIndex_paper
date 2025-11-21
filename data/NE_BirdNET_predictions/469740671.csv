@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.9082741,0.0,3.0
+Charadrius vociferus_Killdeer,0.80422443,1.0,4.0
+Charadrius vociferus_Killdeer,0.8650575,2.0,5.0
+Charadrius vociferus_Killdeer,0.76558065,3.0,6.0
+Spinus psaltria_Lesser Goldfinch,0.26267797,4.0,7.0
+Sturnella magna_Eastern Meadowlark,0.12968534,4.0,7.0
+Spinus psaltria_Lesser Goldfinch,0.27424055,5.0,8.0
+Spinus spinus_Eurasian Siskin,0.12557663,5.0,8.0
+Sporophila ruficollis_Dark-throated Seedeater,0.21716882,11.0,14.0
+Eremophila alpestris_Horned Lark,0.15516433,15.0,18.0
+Oenanthe oenanthe_Northern Wheatear,0.1939714,16.0,19.0
+Spizelloides arborea_American Tree Sparrow,0.1523752,16.0,19.0
+Sturnella magna_Eastern Meadowlark,0.6936733,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.9288358,18.0,21.0
+Sturnella magna_Eastern Meadowlark,0.94141257,19.0,22.0
+Sturnella magna_Eastern Meadowlark,0.91967,20.0,23.0
+Sturnella magna_Eastern Meadowlark,0.30627537,21.0,24.0
+Spizella breweri_Brewer's Sparrow,0.19121711,21.0,24.0
+Pipilo chlorurus_Green-tailed Towhee,0.11247478,21.0,24.0
+Sturnella magna_Eastern Meadowlark,0.32500392,22.0,25.0
+Spizella passerina_Chipping Sparrow,0.16449893,25.0,28.0
+Centronyx henslowii_Henslow's Sparrow,0.10431216,30.0,33.0
+Sturnella magna_Eastern Meadowlark,0.13975154,31.0,34.0
+Sturnella magna_Eastern Meadowlark,0.10807418,33.0,36.0
+Sturnella magna_Eastern Meadowlark,0.46195003,35.0,38.0
+Spinus psaltria_Lesser Goldfinch,0.14530607,36.0,39.0
+Sturnella magna_Eastern Meadowlark,0.10029301,36.0,39.0
+Spinus spinus_Eurasian Siskin,0.15517199,39.0,42.0
+Spinus psaltria_Lesser Goldfinch,0.14873734,39.0,42.0
+Sturnella magna_Eastern Meadowlark,0.10142362,40.0,43.0
+Sturnella magna_Eastern Meadowlark,0.22040382,43.0,46.0
+Cistothorus stellaris_Sedge Wren,0.100633144,43.0,46.0
+Spinus psaltria_Lesser Goldfinch,0.14281236,44.0,47.0
+Sporophila ruficollis_Dark-throated Seedeater,0.2015948,45.0,48.0
+Sturnella magna_Eastern Meadowlark,0.11690228,45.0,48.0
+Sturnella magna_Eastern Meadowlark,0.15247837,47.0,50.0
+Sturnella magna_Eastern Meadowlark,0.9593025,48.0,51.0
+Sturnella magna_Eastern Meadowlark,0.93888605,49.0,52.0
+Sturnella magna_Eastern Meadowlark,0.95464087,50.0,53.0
+Sturnella magna_Eastern Meadowlark,0.9568944,51.0,54.0
+Ammospiza maritima_Seaside Sparrow,0.11843167,51.0,54.0
+Sturnella magna_Eastern Meadowlark,0.9045621,52.0,55.0
+Sturnella magna_Eastern Meadowlark,0.66629,53.0,56.0
+Sturnella magna_Eastern Meadowlark,0.31130573,54.0,57.0
+Sturnella magna_Eastern Meadowlark,0.11952148,55.0,58.0
+Sturnella magna_Eastern Meadowlark,0.54609144,56.0,59.0
+Sturnella magna_Eastern Meadowlark,0.773128,57.0,60.0
+Sturnella magna_Eastern Meadowlark,0.8998085,58.0,61.0
+Sturnella magna_Eastern Meadowlark,0.85270053,59.0,62.0
+Spiza americana_Dickcissel,0.12639616,59.0,62.0
+Sturnella magna_Eastern Meadowlark,0.9620956,60.0,63.0
+Sturnella magna_Eastern Meadowlark,0.99156934,61.0,64.0
+Sturnella magna_Eastern Meadowlark,0.8910009,62.0,65.0
+Spizella breweri_Brewer's Sparrow,0.17517272,63.0,66.0
+Sturnella magna_Eastern Meadowlark,0.6464355,64.0,67.0
+Sturnella magna_Eastern Meadowlark,0.92590404,65.0,68.0
+Spiza americana_Dickcissel,0.11880738,65.0,68.0
+Sturnella magna_Eastern Meadowlark,0.8664358,66.0,69.0
+Sturnella magna_Eastern Meadowlark,0.96660364,67.0,70.0
+Sturnella magna_Eastern Meadowlark,0.97952694,68.0,71.0
+Sturnella magna_Eastern Meadowlark,0.98881245,69.0,72.0
+Sturnella magna_Eastern Meadowlark,0.9663875,70.0,73.0
+Lanius ludovicianus_Loggerhead Shrike,0.3387796,71.0,74.0
+Sturnella magna_Eastern Meadowlark,0.118746445,71.0,74.0
+Sturnella magna_Eastern Meadowlark,0.95097,72.0,75.0
+Sturnella magna_Eastern Meadowlark,0.95940965,73.0,76.0
+Sturnella magna_Eastern Meadowlark,0.86103404,74.0,77.0
+Chaetura pelagica_Chimney Swift,0.3895375,75.0,78.0
+Cistothorus stellaris_Sedge Wren,0.11414327,75.0,78.0
+Chaetura pelagica_Chimney Swift,0.2611413,76.0,79.0
+Sturnella magna_Eastern Meadowlark,0.11062745,76.0,79.0
+Sturnella magna_Eastern Meadowlark,0.26307866,77.0,80.0
+Sturnella magna_Eastern Meadowlark,0.4551231,78.0,81.0
+Mirafra assamica_Bengal Bushlark,0.2139641,78.0,81.0
+Sturnella magna_Eastern Meadowlark,0.2540272,79.0,82.0
+Mirafra assamica_Bengal Bushlark,0.19049565,79.0,82.0
+Sturnella magna_Eastern Meadowlark,0.36808375,80.0,83.0
+Sturnella magna_Eastern Meadowlark,0.707507,81.0,84.0
+Sturnella magna_Eastern Meadowlark,0.79065394,82.0,85.0
+Sturnella magna_Eastern Meadowlark,0.21873915,83.0,86.0
+Sturnella magna_Eastern Meadowlark,0.60801834,84.0,87.0
+Sturnella magna_Eastern Meadowlark,0.85438097,85.0,88.0
+Sturnella magna_Eastern Meadowlark,0.96582687,86.0,89.0
+Sturnella magna_Eastern Meadowlark,0.7507114,87.0,90.0
+Sturnella magna_Eastern Meadowlark,0.9111071,88.0,91.0
+Sturnella magna_Eastern Meadowlark,0.9130368,89.0,92.0
+Sturnella magna_Eastern Meadowlark,0.9519487,90.0,93.0
+Sturnella magna_Eastern Meadowlark,0.62739915,91.0,94.0
+Sturnella magna_Eastern Meadowlark,0.83462435,92.0,95.0
+Sturnella magna_Eastern Meadowlark,0.7418076,93.0,96.0
+Spizella breweri_Brewer's Sparrow,0.14798643,93.0,96.0
+Sturnella magna_Eastern Meadowlark,0.1617463,94.0,96.76802721088436

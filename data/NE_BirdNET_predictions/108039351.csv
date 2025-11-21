@@ -1,0 +1,45 @@
+species,score,start_time,end_time
+Sitta carolinensis_White-breasted Nuthatch,0.10477745,0.0,3.0
+Dryocopus pileatus_Pileated Woodpecker,0.17164415,2.0,5.0
+Dryocopus pileatus_Pileated Woodpecker,0.123572074,4.0,7.0
+Hypopyrrhus pyrohypogaster_Red-bellied Grackle,0.14049023,5.0,8.0
+Dryocopus pileatus_Pileated Woodpecker,0.43966392,8.0,11.0
+Picoides arcticus_Black-backed Woodpecker,0.10703142,8.0,11.0
+Dryocopus pileatus_Pileated Woodpecker,0.15779285,10.0,13.0
+Coragyps atratus_Black Vulture,0.11569261,10.0,13.0
+Dryocopus pileatus_Pileated Woodpecker,0.11577287,11.0,14.0
+Dendrocopos leucotos_White-backed Woodpecker,0.121353775,21.0,24.0
+Campephilus pollens_Powerful Woodpecker,0.24364628,23.0,26.0
+Grallaricula nana_Slate-crowned Antpitta,0.10912318,27.0,30.0
+Columba livia_Rock Pigeon,0.11398851,32.0,35.0
+Gallicrex cinerea_Watercock,0.15463787,34.0,37.0
+Centropus sinensis_Greater Coucal,0.1273224,40.0,43.0
+Momotus lessonii_Lesson's Motmot,0.12521794,40.0,43.0
+Columba livia_Rock Pigeon,0.108147,41.0,44.0
+Turdus iliacus_Redwing,0.20462032,52.0,55.0
+Turdus iliacus_Redwing,0.13330255,60.0,63.0
+Turdus iliacus_Redwing,0.8353079,61.0,64.0
+Psophodes olivaceus_Eastern Whipbird,0.12149869,62.0,65.0
+Ixoreus naevius_Varied Thrush,0.111780465,62.0,65.0
+Psophodes olivaceus_Eastern Whipbird,0.37135327,63.0,66.0
+Psophodes olivaceus_Eastern Whipbird,0.22809759,64.0,67.0
+Corvus brachyrhynchos_American Crow,0.6357851,67.0,70.0
+Corvus brachyrhynchos_American Crow,0.8826011,68.0,71.0
+Corvus brachyrhynchos_American Crow,0.9513499,69.0,72.0
+Corvus brachyrhynchos_American Crow,0.94238985,70.0,73.0
+Corvus brachyrhynchos_American Crow,0.92060643,71.0,74.0
+Turdus iliacus_Redwing,0.15172915,77.0,80.0
+Erithacus rubecula_European Robin,0.1086724,77.0,80.0
+Turdus iliacus_Redwing,0.3718588,78.0,81.0
+Turdus iliacus_Redwing,0.22385256,79.0,82.0
+Turdus iliacus_Redwing,0.22931062,83.0,86.0
+Turdus iliacus_Redwing,0.25943977,84.0,87.0
+Erithacus rubecula_European Robin,0.22052786,84.0,87.0
+Anthus trivialis_Tree Pipit,0.100221224,84.0,87.0
+Columba livia_Rock Pigeon,0.15957908,88.0,91.0
+Columba oenas_Stock Dove,0.11717311,89.0,92.0
+Baeolophus bicolor_Tufted Titmouse,0.11795283,94.0,97.0
+Anthus trivialis_Tree Pipit,0.5918575,99.0,102.0
+Coccothraustes coccothraustes_Hawfinch,0.4312531,99.0,102.0
+Anthus trivialis_Tree Pipit,0.8381795,100.0,102.16802721088435
+Coccothraustes coccothraustes_Hawfinch,0.32811278,100.0,102.16802721088435

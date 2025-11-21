@@ -1,0 +1,208 @@
+species,score,start_time,end_time
+Cardellina canadensis_Canada Warbler,0.99970275,0.0,3.0
+Cardellina canadensis_Canada Warbler,0.9976,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.3433885,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18358584,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.12959088,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10666206,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.15206252,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.19441481,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.8081219,10.0,13.0
+Basileuterus rufifrons_Rufous-capped Warbler,0.1738713,10.0,13.0
+Cardellina canadensis_Canada Warbler,0.9996712,11.0,14.0
+Cardellina canadensis_Canada Warbler,0.99989307,12.0,15.0
+Cardellina canadensis_Canada Warbler,0.9992531,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.43597287,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2025145,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11742375,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41960087,18.0,21.0
+Pachyramphus major_Gray-collared Becard,0.14997025,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10939501,19.0,22.0
+Pachyramphus major_Gray-collared Becard,0.15394175,20.0,23.0
+Cardellina canadensis_Canada Warbler,0.92412025,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.9993111,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.9998698,24.0,27.0
+Cardellina canadensis_Canada Warbler,0.9978655,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20231621,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.13385236,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.18354726,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.14812908,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.23518097,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.22715367,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26015013,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28375235,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.2504076,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.8367368,34.0,37.0
+Cardellina canadensis_Canada Warbler,0.9989697,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.99967897,36.0,39.0
+Cardellina canadensis_Canada Warbler,0.98755705,37.0,40.0
+Limnothlypis swainsonii_Swainson's Warbler,0.114569895,38.0,41.0
+Cardellina canadensis_Canada Warbler,0.826738,46.0,49.0
+Cardellina canadensis_Canada Warbler,0.9995832,47.0,50.0
+Cardellina canadensis_Canada Warbler,0.9996402,48.0,51.0
+Cardellina canadensis_Canada Warbler,0.99786335,49.0,52.0
+Cardellina canadensis_Canada Warbler,0.6712504,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.26656145,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4946406,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.2145196,57.0,60.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11921667,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.9422298,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2627412,58.0,61.0
+Cardellina canadensis_Canada Warbler,0.9985487,59.0,62.0
+Cardellina canadensis_Canada Warbler,0.9996524,60.0,63.0
+Cardellina canadensis_Canada Warbler,0.99943,61.0,64.0
+Cardellina canadensis_Canada Warbler,0.79648274,62.0,65.0
+Bonasa umbellus_Ruffed Grouse,0.20115054,63.0,66.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16991535,63.0,66.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1192969,64.0,67.0
+Peucaea aestivalis_Bachman's Sparrow,0.10080878,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12628244,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8532842,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7930185,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.7264913,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.99312335,71.0,74.0
+Cardellina canadensis_Canada Warbler,0.99959046,72.0,75.0
+Cardellina canadensis_Canada Warbler,0.99818987,73.0,76.0
+Cardellina canadensis_Canada Warbler,0.8643062,74.0,77.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1481984,74.0,77.0
+Setophaga magnolia_Magnolia Warbler,0.1462971,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.2033482,75.0,78.0
+Catharus fuscescens_Veery,0.108404845,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.27432343,77.0,80.0
+Cardellina canadensis_Canada Warbler,0.32776618,78.0,81.0
+Cardellina canadensis_Canada Warbler,0.982213,79.0,82.0
+Cardellina canadensis_Canada Warbler,0.98103607,80.0,83.0
+Cardellina canadensis_Canada Warbler,0.9894135,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.59080994,82.0,85.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.37782145,82.0,85.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11503194,83.0,86.0
+Setophaga virens_Black-throated Green Warbler,0.8249456,87.0,90.0
+Setophaga virens_Black-throated Green Warbler,0.7034232,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.44126824,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23836687,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.1658541,90.0,93.0
+Setophaga cerulea_Cerulean Warbler,0.11070535,90.0,93.0
+Cardellina canadensis_Canada Warbler,0.99469817,91.0,94.0
+Cardellina canadensis_Canada Warbler,0.99799323,92.0,95.0
+Cardellina canadensis_Canada Warbler,0.99955195,93.0,96.0
+Cardellina canadensis_Canada Warbler,0.992955,94.0,97.0
+Limnothlypis swainsonii_Swainson's Warbler,0.20680703,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97935724,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97745425,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9396297,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.1133514,97.0,100.0
+Setophaga cerulea_Cerulean Warbler,0.10726041,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.6321897,98.0,101.0
+Setophaga townsendi_Townsend's Warbler,0.25887835,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14317508,99.0,102.0
+Setophaga fusca_Blackburnian Warbler,0.106921025,99.0,102.0
+Piranga olivacea_Scarlet Tanager,0.12319939,100.0,103.0
+Cardellina canadensis_Canada Warbler,0.9913856,101.0,104.0
+Cardellina canadensis_Canada Warbler,0.9992766,102.0,105.0
+Cardellina canadensis_Canada Warbler,0.99956423,103.0,106.0
+Cardellina canadensis_Canada Warbler,0.99809986,104.0,107.0
+Setophaga virens_Black-throated Green Warbler,0.26723966,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.5598537,106.0,109.0
+Mergus merganser_Common Merganser,0.19198523,107.0,110.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.15903184,108.0,111.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10160215,108.0,111.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12017027,109.0,112.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12107201,110.0,113.0
+Cardellina canadensis_Canada Warbler,0.9660763,111.0,114.0
+Cardellina canadensis_Canada Warbler,0.9993861,112.0,115.0
+Cardellina canadensis_Canada Warbler,0.9996848,113.0,116.0
+Cardellina canadensis_Canada Warbler,0.99835193,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.710016,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.112221174,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45913783,116.0,119.0
+Setophaga cerulea_Cerulean Warbler,0.30420744,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28518185,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.21646944,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13003807,118.0,121.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11016153,119.0,122.0
+Cardellina canadensis_Canada Warbler,0.7329182,121.0,124.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16731496,121.0,124.0
+Cardellina canadensis_Canada Warbler,0.9992416,122.0,125.0
+Cardellina canadensis_Canada Warbler,0.99981517,123.0,126.0
+Cardellina canadensis_Canada Warbler,0.9992964,124.0,127.0
+Cardellina canadensis_Canada Warbler,0.9030101,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18677962,126.0,129.0
+Setophaga virens_Black-throated Green Warbler,0.15449597,126.0,129.0
+Setophaga fusca_Blackburnian Warbler,0.10632601,126.0,129.0
+Setophaga fusca_Blackburnian Warbler,0.15364182,127.0,130.0
+Setophaga virens_Black-throated Green Warbler,0.12735398,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10437767,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1422715,128.0,131.0
+Setophaga fusca_Blackburnian Warbler,0.13237019,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.123446554,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.17301181,129.0,132.0
+Buteo platypterus_Broad-winged Hawk,0.11730439,129.0,132.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.106689684,129.0,132.0
+Setophaga fusca_Blackburnian Warbler,0.104541495,129.0,132.0
+Setophaga fusca_Blackburnian Warbler,0.13647199,130.0,133.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10225615,130.0,133.0
+Setophaga virens_Black-throated Green Warbler,0.76292956,133.0,136.0
+Cardellina canadensis_Canada Warbler,0.99664414,134.0,137.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15668975,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12077311,134.0,137.0
+Cardellina canadensis_Canada Warbler,0.9991879,135.0,138.0
+Cardellina canadensis_Canada Warbler,0.99984336,136.0,139.0
+Cardellina canadensis_Canada Warbler,0.9997055,137.0,140.0
+Cardellina canadensis_Canada Warbler,0.95090413,138.0,141.0
+Cardellina canadensis_Canada Warbler,0.49608448,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13477851,143.0,146.0
+Cardellina canadensis_Canada Warbler,0.99790597,144.0,147.0
+Cardellina canadensis_Canada Warbler,0.9997135,145.0,148.0
+Cardellina canadensis_Canada Warbler,0.9990318,146.0,149.0
+Cardellina canadensis_Canada Warbler,0.5979332,147.0,150.0
+Leiothlypis ruficapilla_Nashville Warbler,0.15756947,147.0,150.0
+Setophaga virens_Black-throated Green Warbler,0.72965926,148.0,151.0
+Setophaga virens_Black-throated Green Warbler,0.66228044,149.0,152.0
+Setophaga virens_Black-throated Green Warbler,0.72663856,150.0,153.0
+Buteo platypterus_Broad-winged Hawk,0.10598673,150.0,153.0
+Catharus fuscescens_Veery,0.51402545,153.0,156.0
+Catharus fuscescens_Veery,0.11928883,154.0,157.0
+Cardellina canadensis_Canada Warbler,0.9754131,155.0,158.0
+Cardellina canadensis_Canada Warbler,0.9993339,156.0,159.0
+Cardellina canadensis_Canada Warbler,0.999798,157.0,160.0
+Cardellina canadensis_Canada Warbler,0.9988096,158.0,161.0
+Cardellina canadensis_Canada Warbler,0.24387422,159.0,162.0
+Setophaga virens_Black-throated Green Warbler,0.6118566,160.0,163.0
+Setophaga townsendi_Townsend's Warbler,0.1277151,160.0,163.0
+Setophaga virens_Black-throated Green Warbler,0.5527506,161.0,164.0
+Setophaga virens_Black-throated Green Warbler,0.5310096,162.0,165.0
+Setophaga virens_Black-throated Green Warbler,0.6692061,163.0,166.0
+Setophaga virens_Black-throated Green Warbler,0.12944026,164.0,167.0
+Piranga olivacea_Scarlet Tanager,0.116835244,165.0,168.0
+Cardellina canadensis_Canada Warbler,0.99139893,167.0,170.0
+Cardellina canadensis_Canada Warbler,0.9996213,168.0,171.0
+Cardellina canadensis_Canada Warbler,0.9996661,169.0,172.0
+Cardellina canadensis_Canada Warbler,0.997897,170.0,173.0
+Seiurus aurocapilla_Ovenbird,0.12205938,171.0,174.0
+Setophaga virens_Black-throated Green Warbler,0.20430072,172.0,175.0
+Piranga olivacea_Scarlet Tanager,0.21225098,178.0,181.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117305696,178.0,181.0
+Cardellina canadensis_Canada Warbler,0.70053595,179.0,182.0
+Setophaga magnolia_Magnolia Warbler,0.27663043,179.0,182.0
+Cardellina canadensis_Canada Warbler,0.9962358,180.0,183.0
+Cardellina canadensis_Canada Warbler,0.9921793,181.0,184.0
+Cardellina canadensis_Canada Warbler,0.9919166,182.0,185.0
+Cardellina canadensis_Canada Warbler,0.14100784,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14366716,185.0,188.0
+Piranga olivacea_Scarlet Tanager,0.12925293,187.0,190.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40495917,188.0,191.0
+Piranga flava_Hepatic Tanager,0.11516412,189.0,192.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14137474,190.0,193.0
+Cardellina canadensis_Canada Warbler,0.98834664,191.0,194.0
+Cardellina canadensis_Canada Warbler,0.9996278,192.0,195.0
+Cardellina canadensis_Canada Warbler,0.99988973,193.0,196.0
+Cardellina canadensis_Canada Warbler,0.99907625,194.0,197.0
+Setophaga virens_Black-throated Green Warbler,0.26845527,196.0,199.0
+Setophaga virens_Black-throated Green Warbler,0.1820849,197.0,200.0
+Icterus galbula_Baltimore Oriole,0.17018923,197.0,200.0
+Piranga olivacea_Scarlet Tanager,0.12530394,199.0,202.0
+Turdus migratorius_American Robin,0.11091608,201.0,204.0
+Cardellina canadensis_Canada Warbler,0.99843234,203.0,206.0
+Cardellina canadensis_Canada Warbler,0.9997403,204.0,207.0
+Cardellina canadensis_Canada Warbler,0.999731,205.0,208.0
+Cardellina canadensis_Canada Warbler,0.9963683,206.0,208.99201814058958

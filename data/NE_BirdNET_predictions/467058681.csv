@@ -1,0 +1,41 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.21463212,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.14462826,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.19848564,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.10529404,2.0,5.0
+Bubo virginianus_Great Horned Owl,0.3073419,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.12013574,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11051004,4.0,7.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.516213,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.10145822,5.0,8.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.21496393,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.21283878,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.13530277,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.299395,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.11175908,8.0,11.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.6395485,9.0,12.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5693195,10.0,13.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.45548907,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10126674,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15135305,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.13692051,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.13256022,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11968335,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.20050028,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.112241894,17.0,20.0
+Protonotaria citrea_Prothonotary Warbler,0.24089324,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1194703,19.0,22.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.6117704,21.0,24.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8590412,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.99028325,23.0,26.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9696135,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9741337,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.12966287,25.0,28.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9660713,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.113061376,26.0,29.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.93426555,27.0,30.0
+Bubo virginianus_Great Horned Owl,0.16158174,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13188492,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.10755192,29.0,32.0
+Bubo virginianus_Great Horned Owl,0.28022468,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11557259,32.0,34.39201814058957
