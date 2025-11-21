@@ -1,0 +1,26 @@
+species,score,start_time,end_time
+Butorides virescens_Green Heron,0.20069057,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.18478012,0.0,3.0
+Icterus spurius_Orchard Oriole,0.10481054,0.0,3.0
+Passerina caerulea_Blue Grosbeak,0.10317287,6.0,9.0
+Icterus cucullatus_Hooded Oriole,0.11481918,8.0,11.0
+Mimus polyglottos_Northern Mockingbird,0.18615724,9.0,12.0
+Ficedula albicollis_Collared Flycatcher,0.6005732,10.0,13.0
+Spizella pusilla_Field Sparrow,0.26769724,13.0,16.0
+Colinus virginianus_Northern Bobwhite,0.15613389,13.0,16.0
+Spizella pusilla_Field Sparrow,0.19562557,14.0,17.0
+Colinus virginianus_Northern Bobwhite,0.14157754,14.0,17.0
+Spizella pusilla_Field Sparrow,0.10484372,15.0,18.0
+Icterus spurius_Orchard Oriole,0.1266458,16.0,19.0
+Icterus spurius_Orchard Oriole,0.10260982,18.0,21.0
+Certhia brachydactyla_Short-toed Treecreeper,0.24758916,20.0,23.0
+Locustella luscinioides_Savi's Warbler,0.17330451,21.0,24.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.15304986,23.0,26.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.15823893,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.101119086,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.100074716,31.0,34.0
+Spizella pusilla_Field Sparrow,0.32141563,32.0,35.0
+Spizella pusilla_Field Sparrow,0.22011557,33.0,36.0
+Spizella pusilla_Field Sparrow,0.590183,34.0,37.0
+Locustella luscinioides_Savi's Warbler,0.13076584,38.0,41.0
+Setophaga dominica_Yellow-throated Warbler,0.23127279,39.0,42.0

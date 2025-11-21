@@ -1,0 +1,26 @@
+species,score,start_time,end_time
+Spinus tristis_American Goldfinch,0.16763774,0.0,3.0
+Troglodytes aedon_House Wren,0.614934,1.0,4.0
+Icterus bullockii_Bullock's Oriole,0.11861459,1.0,4.0
+Troglodytes aedon_House Wren,0.5869019,2.0,5.0
+Troglodytes aedon_House Wren,0.25159228,3.0,6.0
+Troglodytes aedon_House Wren,0.53806067,4.0,7.0
+Icterus bullockii_Bullock's Oriole,0.13080771,4.0,7.0
+Dumetella carolinensis_Gray Catbird,0.40464962,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.15077516,6.0,9.0
+Molothrus ater_Brown-headed Cowbird,0.10782624,11.0,14.0
+Calypte anna_Anna's Hummingbird,0.13362552,13.0,16.0
+Troglodytes aedon_House Wren,0.27849865,15.0,18.0
+Troglodytes aedon_House Wren,0.33141053,16.0,19.0
+Cynanthus latirostris_Broad-billed Hummingbird,0.12946041,16.0,19.0
+Polioptila melanura_Black-tailed Gnatcatcher,0.24826875,18.0,21.0
+Calypte anna_Anna's Hummingbird,0.18103066,18.0,21.0
+Troglodytes aedon_House Wren,0.15044256,23.0,26.0
+Troglodytes aedon_House Wren,0.20295426,24.0,27.0
+Polioptila californica_California Gnatcatcher,0.13044634,24.0,27.0
+Lanius ludovicianus_Loggerhead Shrike,0.13806044,25.0,28.0
+Troglodytes aedon_House Wren,0.73007566,30.0,33.0
+Troglodytes aedon_House Wren,0.39194846,31.0,34.0
+Troglodytes aedon_House Wren,0.27977145,32.0,35.0
+Icterus cucullatus_Hooded Oriole,0.12348484,32.0,35.0
+Icterus galbula_Baltimore Oriole,0.2047349,33.0,35.76

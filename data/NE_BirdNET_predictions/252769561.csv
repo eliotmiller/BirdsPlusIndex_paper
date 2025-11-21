@@ -1,0 +1,85 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.55479527,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.13102974,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.8257954,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.19866319,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.91719544,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.116914816,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.80751556,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14458236,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.14378825,3.0,6.0
+Engine_Engine,0.27991652,4.0,7.0
+Engine_Engine,0.21462148,5.0,8.0
+Engine_Engine,0.116838634,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.17229864,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.78622264,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.59071624,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.8549757,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.6194866,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.2527879,11.0,14.0
+Spinus tristis_American Goldfinch,0.4466215,12.0,15.0
+Spinus tristis_American Goldfinch,0.4193035,13.0,16.0
+Spinus tristis_American Goldfinch,0.80211335,14.0,17.0
+Spinus tristis_American Goldfinch,0.2832266,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.16651484,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.11181408,17.0,20.0
+Branta canadensis_Canada Goose,0.13850069,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.15352331,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.12617606,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.7152238,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.69400907,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.22732759,22.0,25.0
+Cyanocitta cristata_Blue Jay,0.109430276,22.0,25.0
+Buteo lineatus_Red-shouldered Hawk,0.1081364,22.0,25.0
+Cyanocitta cristata_Blue Jay,0.34100017,23.0,26.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.12254164,23.0,26.0
+Cyanocitta cristata_Blue Jay,0.26108402,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.12643433,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.6587302,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.8147389,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13564384,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.25011805,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.16736461,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16690588,28.0,31.0
+Parkesia motacilla_Louisiana Waterthrush,0.13809891,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.6427849,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.29288617,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.550083,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.12432617,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.39640072,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.1719252,34.0,37.0
+Parkesia motacilla_Louisiana Waterthrush,0.16621226,34.0,37.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11330724,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.46897995,35.0,38.0
+Cyanocitta cristata_Blue Jay,0.31074223,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.35687336,37.0,40.0
+Cyanocitta cristata_Blue Jay,0.46127978,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.3076133,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.5898683,42.0,45.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14727823,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.66614085,43.0,46.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12633236,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.28614223,44.0,47.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17272086,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.5183282,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.31600288,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.88096994,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.15897737,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.79244435,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.5221633,51.0,54.0
+Empidonax virescens_Acadian Flycatcher,0.2164757,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.1442967,51.0,54.0
+Setophaga citrina_Hooded Warbler,0.53857076,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.24173485,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.865613,57.0,60.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12362373,57.0,60.0
+Setophaga citrina_Hooded Warbler,0.60160804,58.0,61.0
+Cyanocitta cristata_Blue Jay,0.4687893,60.0,63.0
+Cyanocitta cristata_Blue Jay,0.3425851,61.0,64.0
+Cyanocitta cristata_Blue Jay,0.47005436,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.670823,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.39730224,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.89620346,66.0,69.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12555389,66.0,69.0
+Setophaga citrina_Hooded Warbler,0.56743044,67.0,69.07201814058956
+Geothlypis formosa_Kentucky Warbler,0.17371531,67.0,69.07201814058956

@@ -1,0 +1,170 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.3313643,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.18062218,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.98766136,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.99555355,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.9860773,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.31059107,4.0,7.0
+Pipilo maculatus_Spotted Towhee,0.17026143,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.9360058,5.0,8.0
+Catharus fuscescens_Veery,0.10450171,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.9976453,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.9995628,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.9980211,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.99862516,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.99086577,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.9995222,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.99644035,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.55361336,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.23502389,14.0,17.0
+Setophaga ruticilla_American Redstart,0.17491804,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.3821982,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.14777438,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12397544,15.0,18.0
+Cyanocitta cristata_Blue Jay,0.14358823,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.11140136,16.0,19.0
+Icteria virens_Yellow-breasted Chat,0.22342871,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.8622004,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.97430634,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.985193,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.9894442,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.99247533,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.9963651,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.99602973,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.5132125,25.0,28.0
+Icteria virens_Yellow-breasted Chat,0.20153908,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.98775125,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.9974382,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.99697506,29.0,32.0
+Pipilo maculatus_Spotted Towhee,0.38267526,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.15295783,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.960133,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.995849,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.9932406,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.98531693,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.77261245,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.9866095,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.9907973,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.66579115,38.0,41.0
+Cyanocitta cristata_Blue Jay,0.2628489,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.48000452,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.23130272,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25867823,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.2409287,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.12417444,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.55675995,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.99677247,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.9988526,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.9987587,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.9873444,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.99901223,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.9950605,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.9256126,49.0,52.0
+Icteria virens_Yellow-breasted Chat,0.12490686,49.0,52.0
+Eurillas virens_Little Greenbul,0.11484847,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.9968532,50.0,53.0
+Hylocichla mustelina_Wood Thrush,0.9994215,51.0,54.0
+Hylocichla mustelina_Wood Thrush,0.9992632,52.0,55.0
+Hylocichla mustelina_Wood Thrush,0.99949574,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.18236567,54.0,57.0
+Cyanocitta cristata_Blue Jay,0.16429934,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.97725075,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.9855338,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.99717605,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.97293764,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.18777889,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.18425576,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13714719,59.0,62.0
+Setophaga ruticilla_American Redstart,0.13639905,59.0,62.0
+Protonotaria citrea_Prothonotary Warbler,0.10866269,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.96741974,60.0,63.0
+Hylocichla mustelina_Wood Thrush,0.98232526,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.9391534,62.0,65.0
+Hylocichla mustelina_Wood Thrush,0.9373645,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.13447905,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.10053707,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.9990571,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.9996643,67.0,70.0
+Hylocichla mustelina_Wood Thrush,0.99609166,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.5738057,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.9936824,70.0,73.0
+Hylocichla mustelina_Wood Thrush,0.99786216,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.996452,72.0,75.0
+Hylocichla mustelina_Wood Thrush,0.41921493,74.0,77.0
+Pipilo erythrophthalmus_Eastern Towhee,0.113933474,74.0,77.0
+Hylocichla mustelina_Wood Thrush,0.9968912,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.9996557,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.9964774,77.0,80.0
+Piranga olivacea_Scarlet Tanager,0.10241866,77.0,80.0
+Hylocichla mustelina_Wood Thrush,0.9977155,78.0,81.0
+Hylocichla mustelina_Wood Thrush,0.9908975,79.0,82.0
+Hylocichla mustelina_Wood Thrush,0.9984085,80.0,83.0
+Hylocichla mustelina_Wood Thrush,0.9731593,81.0,84.0
+Hylocichla mustelina_Wood Thrush,0.9964349,82.0,85.0
+Hylocichla mustelina_Wood Thrush,0.95943666,83.0,86.0
+Hylocichla mustelina_Wood Thrush,0.9805536,84.0,87.0
+Hylocichla mustelina_Wood Thrush,0.9780849,85.0,88.0
+Cyanocitta cristata_Blue Jay,0.34687632,88.0,91.0
+Setophaga cerulea_Cerulean Warbler,0.13546209,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.7348961,89.0,92.0
+Hylocichla mustelina_Wood Thrush,0.99932766,90.0,93.0
+Hylocichla mustelina_Wood Thrush,0.9994282,91.0,94.0
+Hylocichla mustelina_Wood Thrush,0.9985355,92.0,95.0
+Hylocichla mustelina_Wood Thrush,0.988821,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.99929786,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.99857306,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16317149,97.0,100.0
+Pipilo maculatus_Spotted Towhee,0.16011497,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.1524116,98.0,101.0
+Hylocichla mustelina_Wood Thrush,0.8255952,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.99778974,100.0,103.0
+Hylocichla mustelina_Wood Thrush,0.99901557,101.0,104.0
+Hylocichla mustelina_Wood Thrush,0.9981895,102.0,105.0
+Hylocichla mustelina_Wood Thrush,0.49395677,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.12036053,104.0,107.0
+Setophaga cerulea_Cerulean Warbler,0.2458964,106.0,109.0
+Setophaga cerulea_Cerulean Warbler,0.55884504,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.47789,108.0,111.0
+Helmitheros vermivorum_Worm-eating Warbler,0.120224655,108.0,111.0
+Setophaga cerulea_Cerulean Warbler,0.24610595,109.0,112.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17967613,109.0,112.0
+Setophaga cerulea_Cerulean Warbler,0.16999453,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.13673389,110.0,113.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11218843,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.2761592,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1418249,111.0,114.0
+Cyanocitta cristata_Blue Jay,0.16731785,112.0,115.0
+Cyanocitta cristata_Blue Jay,0.18991081,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.1522123,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10806331,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.27823403,114.0,117.0
+Cyanocitta cristata_Blue Jay,0.18348965,114.0,117.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10735965,114.0,117.0
+Setophaga cerulea_Cerulean Warbler,0.21070296,115.0,118.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19075716,119.0,122.0
+Gryllus rubens_Southeastern Field Cricket,0.15084188,119.0,122.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.13532893,120.0,123.0
+Gryllus rubens_Southeastern Field Cricket,0.10030375,120.0,123.0
+Setophaga cerulea_Cerulean Warbler,0.42986584,121.0,124.0
+Setophaga cerulea_Cerulean Warbler,0.6670678,122.0,125.0
+Brachyramphus marmoratus_Marbled Murrelet,0.13846926,122.0,125.0
+Setophaga cerulea_Cerulean Warbler,0.48907492,123.0,126.0
+Setophaga cerulea_Cerulean Warbler,0.30669424,124.0,127.0
+Protonotaria citrea_Prothonotary Warbler,0.1411901,125.0,128.0
+Setophaga cerulea_Cerulean Warbler,0.106037095,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.10596127,130.0,133.0
+Spinus pinus_Pine Siskin,0.101884805,135.0,138.0
+Setophaga cerulea_Cerulean Warbler,0.100742124,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.11409231,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.1331798,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.16091736,149.0,152.0
+Setophaga cerulea_Cerulean Warbler,0.4994692,151.0,154.0
+Setophaga cerulea_Cerulean Warbler,0.78385854,152.0,155.0
+Seiurus aurocapilla_Ovenbird,0.21198124,156.0,159.0
+Tamias striatus_Eastern Chipmunk,0.13767526,156.0,159.0
+Tamias striatus_Eastern Chipmunk,0.15180215,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.13669951,157.0,160.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14987601,162.0,165.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.16769671,163.0,166.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.15861973,164.0,167.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.12202535,165.0,168.0

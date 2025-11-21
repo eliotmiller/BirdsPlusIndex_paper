@@ -1,0 +1,57 @@
+species,score,start_time,end_time
+Branta canadensis_Canada Goose,0.9325441,0.0,3.0
+Branta canadensis_Canada Goose,0.8032019,1.0,4.0
+Branta canadensis_Canada Goose,0.9102556,2.0,5.0
+Branta canadensis_Canada Goose,0.84014505,3.0,6.0
+Branta canadensis_Canada Goose,0.8096384,4.0,7.0
+Branta canadensis_Canada Goose,0.7478406,5.0,8.0
+Branta canadensis_Canada Goose,0.4230857,6.0,9.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1017159,6.0,9.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.32458213,7.0,10.0
+Branta canadensis_Canada Goose,0.25543198,7.0,10.0
+Myiarchus crinitus_Great Crested Flycatcher,0.25534895,7.0,10.0
+Branta canadensis_Canada Goose,0.2507125,8.0,11.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.2377401,8.0,11.0
+Myiarchus crinitus_Great Crested Flycatcher,0.111372374,8.0,11.0
+Branta canadensis_Canada Goose,0.57007205,9.0,12.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.18138927,9.0,12.0
+Branta canadensis_Canada Goose,0.32976043,10.0,13.0
+Branta canadensis_Canada Goose,0.26979634,11.0,14.0
+Corvus ossifragus_Fish Crow,0.13872802,11.0,14.0
+Branta canadensis_Canada Goose,0.33135694,12.0,15.0
+Branta canadensis_Canada Goose,0.40950033,13.0,16.0
+Branta canadensis_Canada Goose,0.37067208,14.0,17.0
+Branta canadensis_Canada Goose,0.6298216,15.0,18.0
+Branta canadensis_Canada Goose,0.35531205,16.0,19.0
+Tyrannus tyrannus_Eastern Kingbird,0.12040909,16.0,19.0
+Tyrannus tyrannus_Eastern Kingbird,0.15818398,17.0,20.0
+Branta canadensis_Canada Goose,0.14409344,17.0,20.0
+Icterus spurius_Orchard Oriole,0.11726576,18.0,21.0
+Icterus spurius_Orchard Oriole,0.8587198,19.0,22.0
+Icterus spurius_Orchard Oriole,0.9075457,20.0,23.0
+Icterus spurius_Orchard Oriole,0.44345024,21.0,24.0
+Branta canadensis_Canada Goose,0.22254114,21.0,24.0
+Branta canadensis_Canada Goose,0.19033761,23.0,26.0
+Icterus spurius_Orchard Oriole,0.76497644,27.0,30.0
+Icterus spurius_Orchard Oriole,0.94567037,28.0,31.0
+Icterus spurius_Orchard Oriole,0.9798942,29.0,32.0
+Icterus spurius_Orchard Oriole,0.9901246,30.0,33.0
+Passerella iliaca_Fox Sparrow,0.10484231,30.0,33.0
+Icterus spurius_Orchard Oriole,0.17863157,31.0,34.0
+Branta canadensis_Canada Goose,0.14843024,31.0,34.0
+Branta canadensis_Canada Goose,0.50714403,32.0,35.0
+Branta canadensis_Canada Goose,0.71458185,33.0,36.0
+Branta canadensis_Canada Goose,0.5846472,34.0,37.0
+Branta canadensis_Canada Goose,0.19264498,35.0,38.0
+Sylvia atricapilla_Eurasian Blackcap,0.1702542,41.0,44.0
+Icterus spurius_Orchard Oriole,0.15974532,41.0,44.0
+Icterus spurius_Orchard Oriole,0.82029825,42.0,45.0
+Icterus spurius_Orchard Oriole,0.88058805,43.0,46.0
+Icterus spurius_Orchard Oriole,0.32779315,44.0,47.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.14716475,44.0,47.0
+Icterus spurius_Orchard Oriole,0.12853485,45.0,48.0
+Meleagris gallopavo_Wild Turkey,0.21787044,48.0,51.0
+Branta canadensis_Canada Goose,0.42558017,49.0,52.0
+Anas crecca_Green-winged Teal,0.12542251,49.0,52.0
+Anas platyrhynchos_Mallard,0.14463891,50.0,52.58403628117914
+Branta canadensis_Canada Goose,0.14212112,50.0,52.58403628117914

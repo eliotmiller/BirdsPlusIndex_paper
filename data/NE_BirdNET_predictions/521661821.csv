@@ -1,0 +1,119 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.9655483,1.0,4.0
+Charadrius vociferus_Killdeer,0.80955976,2.0,5.0
+Charadrius vociferus_Killdeer,0.95370924,3.0,6.0
+Icterus spurius_Orchard Oriole,0.13702331,5.0,8.0
+Corthylio calendula_Ruby-crowned Kinglet,0.10306748,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.18634172,7.0,10.0
+Falco columbarius_Merlin,0.2733853,8.0,11.0
+Charadrius vociferus_Killdeer,0.68372226,10.0,13.0
+Charadrius vociferus_Killdeer,0.41587228,11.0,14.0
+Charadrius vociferus_Killdeer,0.5914191,12.0,15.0
+Charadrius vociferus_Killdeer,0.3469725,13.0,16.0
+Apus melba_Alpine Swift,0.14985538,14.0,17.0
+Apus melba_Alpine Swift,0.2846794,15.0,18.0
+Charadrius vociferus_Killdeer,0.15540646,15.0,18.0
+Falco columbarius_Merlin,0.10149172,15.0,18.0
+Charadrius vociferus_Killdeer,0.14612535,16.0,19.0
+Charadrius vociferus_Killdeer,0.7735083,17.0,20.0
+Charadrius vociferus_Killdeer,0.44436568,18.0,21.0
+Charadrius vociferus_Killdeer,0.6207282,19.0,22.0
+Falco sparverius_American Kestrel,0.2905051,19.0,22.0
+Charadrius vociferus_Killdeer,0.7401335,20.0,23.0
+Charadrius vociferus_Killdeer,0.9566481,21.0,24.0
+Charadrius vociferus_Killdeer,0.97474176,22.0,25.0
+Charadrius vociferus_Killdeer,0.3555042,23.0,26.0
+Charadrius vociferus_Killdeer,0.27744013,24.0,27.0
+Falco columbarius_Merlin,0.25178096,24.0,27.0
+Falco columbarius_Merlin,0.11114616,25.0,28.0
+Pyriglena leucoptera_White-shouldered Fire-eye,0.267394,26.0,29.0
+Charadrius vociferus_Killdeer,0.38091695,28.0,31.0
+Charadrius vociferus_Killdeer,0.19458091,29.0,32.0
+Falco sparverius_American Kestrel,0.12795538,29.0,32.0
+Falco sparverius_American Kestrel,0.14175846,30.0,33.0
+Falco columbarius_Merlin,0.14301021,31.0,34.0
+Charadrius vociferus_Killdeer,0.8011284,33.0,36.0
+Falco sparverius_American Kestrel,0.12524493,33.0,36.0
+Charadrius vociferus_Killdeer,0.5907349,34.0,37.0
+Charadrius vociferus_Killdeer,0.96694285,35.0,38.0
+Spinus tristis_American Goldfinch,0.49310097,36.0,39.0
+Spinus tristis_American Goldfinch,0.63087076,37.0,40.0
+Charadrius vociferus_Killdeer,0.1273091,37.0,40.0
+Charadrius vociferus_Killdeer,0.2629009,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14179029,41.0,44.0
+Baeolophus bicolor_Tufted Titmouse,0.17643705,46.0,49.0
+Charadrius vociferus_Killdeer,0.19049823,47.0,50.0
+Charadrius vociferus_Killdeer,0.71468663,48.0,51.0
+Accipiter striatus_Sharp-shinned Hawk,0.19100249,48.0,51.0
+Charadrius vociferus_Killdeer,0.5360399,49.0,52.0
+Accipiter striatus_Sharp-shinned Hawk,0.10662199,49.0,52.0
+Buteo platypterus_Broad-winged Hawk,0.10122888,49.0,52.0
+Charadrius vociferus_Killdeer,0.7525661,50.0,53.0
+Euphagus carolinus_Rusty Blackbird,0.13819808,50.0,53.0
+Charadrius vociferus_Killdeer,0.7907843,51.0,54.0
+Charadrius vociferus_Killdeer,0.9621771,52.0,55.0
+Charadrius vociferus_Killdeer,0.8855415,53.0,56.0
+Charadrius vociferus_Killdeer,0.9741775,54.0,57.0
+Charadrius vociferus_Killdeer,0.8062205,55.0,58.0
+Falco sparverius_American Kestrel,0.13946357,55.0,58.0
+Charadrius vociferus_Killdeer,0.6351198,56.0,59.0
+Aeronautes saxatalis_White-throated Swift,0.272097,60.0,63.0
+Charadrius vociferus_Killdeer,0.95862806,63.0,66.0
+Charadrius vociferus_Killdeer,0.99311936,64.0,67.0
+Charadrius vociferus_Killdeer,0.9920753,65.0,68.0
+Charadrius vociferus_Killdeer,0.97783446,66.0,69.0
+Charadrius vociferus_Killdeer,0.51468325,67.0,70.0
+Grallaria bangsi_Santa Marta Antpitta,0.3726208,67.0,70.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20915517,71.0,74.0
+Vermivora chrysoptera_Golden-winged Warbler,0.14105615,71.0,74.0
+Vermivora chrysoptera_Golden-winged Warbler,0.14878352,79.0,82.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10419959,79.0,82.0
+Vermivora chrysoptera_Golden-winged Warbler,0.23415086,80.0,83.0
+Setophaga discolor_Prairie Warbler,0.10051823,80.0,83.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11609432,81.0,84.0
+Vermivora chrysoptera_Golden-winged Warbler,0.29114005,82.0,85.0
+Setophaga discolor_Prairie Warbler,0.10188101,85.0,88.0
+Icterus spurius_Orchard Oriole,0.19218798,88.0,91.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11106873,89.0,92.0
+Charadrius vociferus_Killdeer,0.8746223,91.0,94.0
+Charadrius vociferus_Killdeer,0.91181344,92.0,95.0
+Charadrius vociferus_Killdeer,0.98065454,93.0,96.0
+Charadrius vociferus_Killdeer,0.9883809,94.0,97.0
+Charadrius vociferus_Killdeer,0.8487005,95.0,98.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.34274426,96.0,99.0
+Phylloscopus sibilatrix_Wood Warbler,0.11934164,96.0,99.0
+Charadrius vociferus_Killdeer,0.8307527,97.0,100.0
+Charadrius vociferus_Killdeer,0.91240525,98.0,101.0
+Charadrius vociferus_Killdeer,0.96052945,99.0,102.0
+Spizella pusilla_Field Sparrow,0.19612886,102.0,105.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14953925,102.0,105.0
+Setophaga discolor_Prairie Warbler,0.102592975,102.0,105.0
+Spizella pusilla_Field Sparrow,0.5915001,103.0,106.0
+Zonotrichia albicollis_White-throated Sparrow,0.20643915,103.0,106.0
+Setophaga discolor_Prairie Warbler,0.15300477,103.0,106.0
+Spizella pusilla_Field Sparrow,0.20804939,104.0,107.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13313365,104.0,107.0
+Geothlypis philadelphia_Mourning Warbler,0.10404569,104.0,107.0
+Spizella pusilla_Field Sparrow,0.5554065,105.0,108.0
+Zonotrichia albicollis_White-throated Sparrow,0.11966982,105.0,108.0
+Aeronautes saxatalis_White-throated Swift,0.27307725,107.0,110.0
+Charadrius vociferus_Killdeer,0.37197062,108.0,111.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11228161,109.0,112.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26323068,110.0,113.0
+Pipilo erythrophthalmus_Eastern Towhee,0.31313995,111.0,114.0
+Charadrius vociferus_Killdeer,0.87954,115.0,118.0
+Charadrius vociferus_Killdeer,0.47453275,116.0,119.0
+Charadrius vociferus_Killdeer,0.6622672,117.0,120.0
+Icterus spurius_Orchard Oriole,0.105137095,118.0,121.0
+Icterus spurius_Orchard Oriole,0.18993574,119.0,122.0
+Cardinalis cardinalis_Northern Cardinal,0.33022073,120.0,123.0
+Falco columbarius_Merlin,0.2943582,126.0,129.0
+Spizella pusilla_Field Sparrow,0.27685943,126.0,129.0
+Charadrius vociferus_Killdeer,0.18702208,126.0,129.0
+Falco columbarius_Merlin,0.3363501,127.0,130.0
+Charadrius vociferus_Killdeer,0.17975008,127.0,130.0
+Spizella pusilla_Field Sparrow,0.16224392,127.0,130.0
+Falco columbarius_Merlin,0.9090317,128.0,131.0
+Charadrius vociferus_Killdeer,0.5433295,128.0,131.0
+Falco columbarius_Merlin,0.88269293,129.0,132.0
+Falco columbarius_Merlin,0.13438888,130.0,133.0

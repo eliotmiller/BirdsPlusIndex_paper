@@ -1,0 +1,99 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9914574,0.0,3.0
+Catharus fuscescens_Veery,0.93873805,1.0,4.0
+Ficedula parva_Red-breasted Flycatcher,0.20286776,3.0,6.0
+Accipiter gentilis_Northern Goshawk,0.19960256,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.398778,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10485104,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.61887604,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.45589662,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.7590126,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.23760779,8.0,11.0
+Strix uralensis_Ural Owl,0.14343603,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.31768793,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.2107153,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.12815352,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.5313998,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15642299,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11592362,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.114673905,13.0,16.0
+Catharus fuscescens_Veery,0.9320009,14.0,17.0
+Catharus fuscescens_Veery,0.94795024,15.0,18.0
+Catharus fuscescens_Veery,0.89181983,16.0,19.0
+Catharus fuscescens_Veery,0.92467946,17.0,20.0
+Catharus fuscescens_Veery,0.9496313,20.0,23.0
+Catharus fuscescens_Veery,0.99341136,21.0,24.0
+Catharus fuscescens_Veery,0.98256487,22.0,25.0
+Catharus fuscescens_Veery,0.96365523,23.0,26.0
+Strix uralensis_Ural Owl,0.12694475,24.0,27.0
+Zoothera lunulata_Bassian Thrush,0.22507885,25.0,28.0
+Turdus viscivorus_Mistle Thrush,0.1245453,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.38517934,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.59133685,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.36664233,28.0,31.0
+Catharus fuscescens_Veery,0.9616648,29.0,32.0
+Catharus fuscescens_Veery,0.98947597,30.0,33.0
+Catharus fuscescens_Veery,0.9788548,31.0,34.0
+Catharus fuscescens_Veery,0.7551476,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.34420288,33.0,36.0
+Geokichla sibirica_Siberian Thrush,0.12051686,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.36013007,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.21760482,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103455365,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.3969462,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.19466661,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.14556387,39.0,42.0
+Protonotaria citrea_Prothonotary Warbler,0.13421199,40.0,43.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12215841,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.4230851,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.43803433,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.620559,43.0,46.0
+Catharus fuscescens_Veery,0.9494361,44.0,47.0
+Catharus fuscescens_Veery,0.9702278,45.0,48.0
+Catharus fuscescens_Veery,0.98117226,46.0,49.0
+Catharus fuscescens_Veery,0.95815516,47.0,50.0
+Strix uralensis_Ural Owl,0.24500738,51.0,54.0
+Accipiter gentilis_Northern Goshawk,0.10417928,52.0,55.0
+Catharus fuscescens_Veery,0.9191489,53.0,56.0
+Catharus fuscescens_Veery,0.97573584,54.0,57.0
+Catharus fuscescens_Veery,0.97027934,55.0,58.0
+Catharus fuscescens_Veery,0.96089846,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.45586228,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14909819,57.0,60.0
+Geothlypis formosa_Kentucky Warbler,0.12572066,57.0,60.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12531553,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.54661876,58.0,61.0
+Protonotaria citrea_Prothonotary Warbler,0.15871267,58.0,61.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13997546,58.0,61.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12849338,58.0,61.0
+Limnothlypis swainsonii_Swainson's Warbler,0.27793944,59.0,62.0
+Empidonax virescens_Acadian Flycatcher,0.16567263,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16416451,59.0,62.0
+Parkesia motacilla_Louisiana Waterthrush,0.15122288,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.12152505,59.0,62.0
+Setophaga citrina_Hooded Warbler,0.11530593,59.0,62.0
+Protonotaria citrea_Prothonotary Warbler,0.114551,59.0,62.0
+Catharus fuscescens_Veery,0.98197067,60.0,63.0
+Catharus fuscescens_Veery,0.9948413,61.0,64.0
+Catharus fuscescens_Veery,0.99081296,62.0,65.0
+Catharus fuscescens_Veery,0.9782071,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.1426312,64.0,67.0
+Strix uralensis_Ural Owl,0.101587795,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.33539683,65.0,68.0
+Myadestes unicolor_Slate-colored Solitaire,0.1904819,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.2580819,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.14497434,66.0,69.0
+Empidonax virescens_Acadian Flycatcher,0.23034272,67.0,70.0
+Hylocichla mustelina_Wood Thrush,0.10822347,67.0,70.0
+Empidonax virescens_Acadian Flycatcher,0.6103081,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.32187703,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.45880383,70.0,73.0
+Geothlypis formosa_Kentucky Warbler,0.17143066,71.0,74.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16597149,71.0,74.0
+Protonotaria citrea_Prothonotary Warbler,0.16564378,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.1631258,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13145944,71.0,74.0
+Catharus fuscescens_Veery,0.91563636,72.0,75.0
+Catharus fuscescens_Veery,0.9831129,73.0,76.0
+Catharus fuscescens_Veery,0.9643212,74.0,77.0
+Catharus fuscescens_Veery,0.9612153,75.0,77.16

@@ -1,0 +1,43 @@
+species,score,start_time,end_time
+Turdus migratorius_American Robin,0.9406699,0.0,3.0
+Turdus migratorius_American Robin,0.13757102,1.0,4.0
+Vireo gilvus_Warbling Vireo,0.54537785,2.0,5.0
+Setophaga ruticilla_American Redstart,0.24895068,2.0,5.0
+Vireo gilvus_Warbling Vireo,0.7529233,3.0,6.0
+Setophaga ruticilla_American Redstart,0.2685173,3.0,6.0
+Setophaga tigrina_Cape May Warbler,0.12056697,3.0,6.0
+Vireo gilvus_Warbling Vireo,0.22632042,4.0,7.0
+Sylvia atricapilla_Eurasian Blackcap,0.10018634,4.0,7.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20667857,5.0,8.0
+Piranga rubra_Summer Tanager,0.16761264,5.0,8.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5289775,6.0,9.0
+Piranga rubra_Summer Tanager,0.29192087,6.0,9.0
+Turdus migratorius_American Robin,0.21385352,6.0,9.0
+Ixobrychus exilis_Least Bittern,0.3162587,7.0,10.0
+Setophaga ruticilla_American Redstart,0.106468044,7.0,10.0
+Setophaga ruticilla_American Redstart,0.40580893,8.0,11.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.10964557,8.0,11.0
+Setophaga ruticilla_American Redstart,0.67198765,9.0,12.0
+Setophaga tigrina_Cape May Warbler,0.24311928,9.0,12.0
+Setophaga ruticilla_American Redstart,0.26789695,10.0,13.0
+Setophaga tigrina_Cape May Warbler,0.15461534,10.0,13.0
+Sicalis flaveola_Saffron Finch,0.1282189,11.0,14.0
+Turdus falcklandii_Austral Thrush,0.106245495,11.0,14.0
+Setophaga ruticilla_American Redstart,0.16503897,12.0,15.0
+Setophaga tigrina_Cape May Warbler,0.13852756,12.0,15.0
+Setophaga tigrina_Cape May Warbler,0.12969358,13.0,16.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11327622,13.0,16.0
+Sylvia atricapilla_Eurasian Blackcap,0.38306934,14.0,17.0
+Vireo gilvus_Warbling Vireo,0.21716918,14.0,17.0
+Vireo gilvus_Warbling Vireo,0.9202487,15.0,18.0
+Vireo gilvus_Warbling Vireo,0.90401334,16.0,19.0
+Vireo gilvus_Warbling Vireo,0.31797284,17.0,20.0
+Setophaga ruticilla_American Redstart,0.13232343,18.0,21.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11922871,18.0,21.0
+Setophaga tigrina_Cape May Warbler,0.11191006,18.0,21.0
+Setophaga ruticilla_American Redstart,0.122186475,19.0,22.0
+Setophaga ruticilla_American Redstart,0.323353,20.0,23.0
+Cardellina pusilla_Wilson's Warbler,0.18675931,23.0,26.0
+Setophaga petechia_Yellow Warbler,0.18376622,24.0,27.0
+Piranga rubra_Summer Tanager,0.16204935,25.0,28.0
+Vireo gilvus_Warbling Vireo,0.13776834,28.0,31.0

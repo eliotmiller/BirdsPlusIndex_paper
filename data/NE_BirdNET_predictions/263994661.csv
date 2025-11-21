@@ -1,0 +1,433 @@
+species,score,start_time,end_time
+Buteo jamaicensis_Red-tailed Hawk,0.85534656,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.85418695,3.0,6.0
+Parabuteo unicinctus_Harris's Hawk,0.3048846,3.0,6.0
+Buteo swainsoni_Swainson's Hawk,0.12356182,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.8385891,4.0,7.0
+Parabuteo unicinctus_Harris's Hawk,0.20081054,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.87003106,5.0,8.0
+Parabuteo unicinctus_Harris's Hawk,0.41034687,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.95607,6.0,9.0
+Buteo swainsoni_Swainson's Hawk,0.18840285,6.0,9.0
+Buteo albonotatus_Zone-tailed Hawk,0.15802635,6.0,9.0
+Parabuteo unicinctus_Harris's Hawk,0.119777136,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.73770404,7.0,10.0
+Parabuteo unicinctus_Harris's Hawk,0.27726337,7.0,10.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.14306892,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.14136212,13.0,16.0
+Tringa semipalmata_Willet,0.107026406,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.90506613,14.0,17.0
+Parabuteo unicinctus_Harris's Hawk,0.108668774,14.0,17.0
+Buteo jamaicensis_Red-tailed Hawk,0.95896655,15.0,18.0
+Parabuteo unicinctus_Harris's Hawk,0.22008863,15.0,18.0
+Buteo swainsoni_Swainson's Hawk,0.13852362,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.94530624,16.0,19.0
+Parabuteo unicinctus_Harris's Hawk,0.25437662,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.74673647,17.0,20.0
+Parabuteo unicinctus_Harris's Hawk,0.2190851,17.0,20.0
+Buteo swainsoni_Swainson's Hawk,0.13781078,17.0,20.0
+Buteo jamaicensis_Red-tailed Hawk,0.8487392,18.0,21.0
+Parabuteo unicinctus_Harris's Hawk,0.21228735,18.0,21.0
+Buteo swainsoni_Swainson's Hawk,0.15214072,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.48748395,19.0,22.0
+Parabuteo unicinctus_Harris's Hawk,0.45095217,19.0,22.0
+Bombycilla cedrorum_Cedar Waxwing,0.9386715,20.0,23.0
+Bombycilla cedrorum_Cedar Waxwing,0.81241906,21.0,24.0
+Bombycilla cedrorum_Cedar Waxwing,0.72544503,22.0,25.0
+Bombycilla cedrorum_Cedar Waxwing,0.82201445,23.0,26.0
+Bombycilla cedrorum_Cedar Waxwing,0.33149174,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.33453488,27.0,30.0
+Bombycilla cedrorum_Cedar Waxwing,0.30663994,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.18728384,30.0,33.0
+Elanus leucurus_White-tailed Kite,0.13141769,30.0,33.0
+Bombycilla cedrorum_Cedar Waxwing,0.5178317,31.0,34.0
+Bombycilla cedrorum_Cedar Waxwing,0.93152523,32.0,35.0
+Melospiza melodia_Song Sparrow,0.47022843,33.0,36.0
+Buteo jamaicensis_Red-tailed Hawk,0.4363269,34.0,37.0
+Haliaeetus leucocephalus_Bald Eagle,0.16231483,34.0,37.0
+Buteo jamaicensis_Red-tailed Hawk,0.70910645,35.0,38.0
+Buteo jamaicensis_Red-tailed Hawk,0.9181882,36.0,39.0
+Buteo albonotatus_Zone-tailed Hawk,0.13316694,36.0,39.0
+Buteo jamaicensis_Red-tailed Hawk,0.9598053,37.0,40.0
+Buteo albonotatus_Zone-tailed Hawk,0.2959428,37.0,40.0
+Buteo swainsoni_Swainson's Hawk,0.19186194,37.0,40.0
+Buteo jamaicensis_Red-tailed Hawk,0.9608926,38.0,41.0
+Elanus leucurus_White-tailed Kite,0.25395957,38.0,41.0
+Buteo swainsoni_Swainson's Hawk,0.15770477,38.0,41.0
+Buteo albonotatus_Zone-tailed Hawk,0.11532199,38.0,41.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.48843607,44.0,47.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.83784634,45.0,48.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.5864035,46.0,49.0
+Ara militaris_Military Macaw,0.14295156,46.0,49.0
+Ara militaris_Military Macaw,0.21222562,47.0,50.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.19026099,47.0,50.0
+Buteo albonotatus_Zone-tailed Hawk,0.44507027,52.0,55.0
+Buteo jamaicensis_Red-tailed Hawk,0.24045959,52.0,55.0
+Elanus leucurus_White-tailed Kite,0.14286008,52.0,55.0
+Buteo jamaicensis_Red-tailed Hawk,0.90792894,53.0,56.0
+Buteo albonotatus_Zone-tailed Hawk,0.28211135,53.0,56.0
+Parabuteo unicinctus_Harris's Hawk,0.24545473,53.0,56.0
+Buteo jamaicensis_Red-tailed Hawk,0.9419212,54.0,57.0
+Parabuteo unicinctus_Harris's Hawk,0.31633636,54.0,57.0
+Buteo albonotatus_Zone-tailed Hawk,0.17664014,54.0,57.0
+Buteo jamaicensis_Red-tailed Hawk,0.9185183,55.0,58.0
+Buteo swainsoni_Swainson's Hawk,0.23430106,55.0,58.0
+Buteo jamaicensis_Red-tailed Hawk,0.9387123,56.0,59.0
+Buteo swainsoni_Swainson's Hawk,0.39278108,56.0,59.0
+Parabuteo unicinctus_Harris's Hawk,0.14343135,56.0,59.0
+Buteo albonotatus_Zone-tailed Hawk,0.118427604,56.0,59.0
+Buteo jamaicensis_Red-tailed Hawk,0.76338696,57.0,60.0
+Buteo swainsoni_Swainson's Hawk,0.12700933,57.0,60.0
+Ammospiza nelsoni_Nelson's Sparrow,0.26136598,59.0,62.0
+Elanus leucurus_White-tailed Kite,0.15230292,60.0,63.0
+Elanus leucurus_White-tailed Kite,0.24168834,61.0,64.0
+Icterus spurius_Orchard Oriole,0.10921892,65.0,68.0
+Elanus leucurus_White-tailed Kite,0.100362204,68.0,71.0
+Buteo jamaicensis_Red-tailed Hawk,0.8352321,69.0,72.0
+Buteo jamaicensis_Red-tailed Hawk,0.98368317,70.0,73.0
+Buteo albonotatus_Zone-tailed Hawk,0.11849754,70.0,73.0
+Buteo jamaicensis_Red-tailed Hawk,0.88099843,71.0,74.0
+Parabuteo unicinctus_Harris's Hawk,0.11116956,71.0,74.0
+Buteo jamaicensis_Red-tailed Hawk,0.76957417,72.0,75.0
+Parabuteo unicinctus_Harris's Hawk,0.12660886,72.0,75.0
+Buteo jamaicensis_Red-tailed Hawk,0.8403997,73.0,76.0
+Parabuteo unicinctus_Harris's Hawk,0.29488304,73.0,76.0
+Buteo jamaicensis_Red-tailed Hawk,0.7892403,74.0,77.0
+Buteo swainsoni_Swainson's Hawk,0.24915138,74.0,77.0
+Parabuteo unicinctus_Harris's Hawk,0.15657715,74.0,77.0
+Melospiza melodia_Song Sparrow,0.10068097,78.0,81.0
+Melospiza melodia_Song Sparrow,0.1391725,86.0,89.0
+Buteo jamaicensis_Red-tailed Hawk,0.5967561,88.0,91.0
+Buteo jamaicensis_Red-tailed Hawk,0.9173936,89.0,92.0
+Buteo albonotatus_Zone-tailed Hawk,0.12750784,89.0,92.0
+Buteo jamaicensis_Red-tailed Hawk,0.9346907,90.0,93.0
+Buteo swainsoni_Swainson's Hawk,0.10876576,90.0,93.0
+Buteo jamaicensis_Red-tailed Hawk,0.85991657,91.0,94.0
+Parabuteo unicinctus_Harris's Hawk,0.20680055,91.0,94.0
+Buteo albonotatus_Zone-tailed Hawk,0.121419005,91.0,94.0
+Buteo jamaicensis_Red-tailed Hawk,0.89300513,92.0,95.0
+Parabuteo unicinctus_Harris's Hawk,0.22961922,92.0,95.0
+Buteo jamaicensis_Red-tailed Hawk,0.92769575,93.0,96.0
+Parabuteo unicinctus_Harris's Hawk,0.40623012,93.0,96.0
+Buteo albonotatus_Zone-tailed Hawk,0.21742372,93.0,96.0
+Buteo swainsoni_Swainson's Hawk,0.11965374,93.0,96.0
+Buteo jamaicensis_Red-tailed Hawk,0.9183503,94.0,97.0
+Buteo albonotatus_Zone-tailed Hawk,0.2763143,94.0,97.0
+Buteo swainsoni_Swainson's Hawk,0.23614837,94.0,97.0
+Zosterops luteus_Australian Yellow White-eye,0.27315906,95.0,98.0
+Zosterops luteus_Australian Yellow White-eye,0.19843532,96.0,99.0
+Zosterops luteus_Australian Yellow White-eye,0.104584955,97.0,100.0
+Buteo albonotatus_Zone-tailed Hawk,0.31585237,99.0,102.0
+Buteo jamaicensis_Red-tailed Hawk,0.22049187,99.0,102.0
+Buteo jamaicensis_Red-tailed Hawk,0.78274125,100.0,103.0
+Buteo albonotatus_Zone-tailed Hawk,0.54341835,100.0,103.0
+Parabuteo unicinctus_Harris's Hawk,0.14745656,100.0,103.0
+Buteo jamaicensis_Red-tailed Hawk,0.94523257,101.0,104.0
+Buteo albonotatus_Zone-tailed Hawk,0.22826862,101.0,104.0
+Parabuteo unicinctus_Harris's Hawk,0.15379368,101.0,104.0
+Buteo jamaicensis_Red-tailed Hawk,0.940649,102.0,105.0
+Parabuteo unicinctus_Harris's Hawk,0.21540932,102.0,105.0
+Buteo albonotatus_Zone-tailed Hawk,0.12334722,102.0,105.0
+Buteo jamaicensis_Red-tailed Hawk,0.96962357,103.0,106.0
+Buteo swainsoni_Swainson's Hawk,0.3340065,103.0,106.0
+Buteo albonotatus_Zone-tailed Hawk,0.17866397,103.0,106.0
+Parabuteo unicinctus_Harris's Hawk,0.112500444,103.0,106.0
+Buteo jamaicensis_Red-tailed Hawk,0.6625535,104.0,107.0
+Colaptes auratus_Northern Flicker,0.2860239,104.0,107.0
+Mareca strepera_Gadwall,0.12499753,109.0,112.0
+Elanus leucurus_White-tailed Kite,0.12259285,109.0,112.0
+Elanus leucurus_White-tailed Kite,0.15942241,110.0,113.0
+Ara militaris_Military Macaw,0.15905727,111.0,114.0
+Ara militaris_Military Macaw,0.75178856,112.0,115.0
+Ara militaris_Military Macaw,0.16756374,113.0,116.0
+Falcunculus frontatus_Crested Shrike-tit,0.17764685,115.0,118.0
+Gavia immer_Common Loon,0.5493365,118.0,121.0
+Gavia immer_Common Loon,0.580436,119.0,122.0
+Elanus leucurus_White-tailed Kite,0.14451125,119.0,122.0
+Elanus leucurus_White-tailed Kite,0.11841193,120.0,123.0
+Bombycilla cedrorum_Cedar Waxwing,0.15938492,121.0,124.0
+Elanus leucurus_White-tailed Kite,0.14920366,121.0,124.0
+Buteo jamaicensis_Red-tailed Hawk,0.17718436,123.0,126.0
+Buteo albonotatus_Zone-tailed Hawk,0.1589822,123.0,126.0
+Buteo jamaicensis_Red-tailed Hawk,0.849552,124.0,127.0
+Buteo albonotatus_Zone-tailed Hawk,0.40888336,124.0,127.0
+Parabuteo unicinctus_Harris's Hawk,0.37890455,124.0,127.0
+Buteo jamaicensis_Red-tailed Hawk,0.9695588,125.0,128.0
+Buteo albonotatus_Zone-tailed Hawk,0.25304773,125.0,128.0
+Parabuteo unicinctus_Harris's Hawk,0.21391067,125.0,128.0
+Buteo swainsoni_Swainson's Hawk,0.19139738,125.0,128.0
+Buteo jamaicensis_Red-tailed Hawk,0.9581223,126.0,129.0
+Parabuteo unicinctus_Harris's Hawk,0.6345788,126.0,129.0
+Buteo albonotatus_Zone-tailed Hawk,0.27723518,126.0,129.0
+Buteo jamaicensis_Red-tailed Hawk,0.9558285,127.0,130.0
+Parabuteo unicinctus_Harris's Hawk,0.34627023,127.0,130.0
+Buteo albonotatus_Zone-tailed Hawk,0.28897572,127.0,130.0
+Buteo swainsoni_Swainson's Hawk,0.17476837,127.0,130.0
+Elanus leucurus_White-tailed Kite,0.12112791,128.0,131.0
+Elanus leucurus_White-tailed Kite,0.14437345,129.0,132.0
+Elanus leucurus_White-tailed Kite,0.27912793,131.0,134.0
+Elanus leucurus_White-tailed Kite,0.2706999,132.0,135.0
+Elanus leucurus_White-tailed Kite,0.107362375,133.0,136.0
+Elanus leucurus_White-tailed Kite,0.11870223,134.0,137.0
+Elanus leucurus_White-tailed Kite,0.24296977,136.0,139.0
+Elanus leucurus_White-tailed Kite,0.20225716,137.0,140.0
+Elanus leucurus_White-tailed Kite,0.20941976,138.0,141.0
+Elanus leucurus_White-tailed Kite,0.11811369,139.0,142.0
+Elanus leucurus_White-tailed Kite,0.2789997,140.0,143.0
+Icterus spurius_Orchard Oriole,0.11821729,141.0,144.0
+Elanus leucurus_White-tailed Kite,0.27754828,142.0,145.0
+Elanus leucurus_White-tailed Kite,0.17618456,153.0,156.0
+Elanus leucurus_White-tailed Kite,0.1548388,154.0,157.0
+Buteo jamaicensis_Red-tailed Hawk,0.1517327,154.0,157.0
+Myiagra inquieta_Restless Flycatcher,0.12448344,155.0,158.0
+Cyanopica cyanus_Azure-winged Magpie,0.5204454,156.0,159.0
+Myiagra inquieta_Restless Flycatcher,0.21219534,156.0,159.0
+Myiagra inquieta_Restless Flycatcher,0.3665387,157.0,160.0
+Anas superciliosa_Pacific Black Duck,0.104056366,157.0,160.0
+Anas superciliosa_Pacific Black Duck,0.19866084,158.0,161.0
+Anas diazi_Mexican Duck,0.13584934,158.0,161.0
+Elanus leucurus_White-tailed Kite,0.4413414,159.0,162.0
+Hydroprogne caspia_Caspian Tern,0.39401886,159.0,162.0
+Elanus leucurus_White-tailed Kite,0.2077498,160.0,163.0
+Buteo albonotatus_Zone-tailed Hawk,0.5823611,161.0,164.0
+Buteo jamaicensis_Red-tailed Hawk,0.30910414,162.0,165.0
+Buteo jamaicensis_Red-tailed Hawk,0.47560355,163.0,166.0
+Buteo jamaicensis_Red-tailed Hawk,0.7414814,164.0,167.0
+Buteo jamaicensis_Red-tailed Hawk,0.898789,165.0,168.0
+Buteo jamaicensis_Red-tailed Hawk,0.95581573,166.0,169.0
+Buteo swainsoni_Swainson's Hawk,0.19893648,166.0,169.0
+Buteo albonotatus_Zone-tailed Hawk,0.14310953,166.0,169.0
+Buteo jamaicensis_Red-tailed Hawk,0.8799734,167.0,170.0
+Buteo swainsoni_Swainson's Hawk,0.21710026,167.0,170.0
+Falco columbarius_Merlin,0.38653418,171.0,174.0
+Buteo jamaicensis_Red-tailed Hawk,0.2831736,175.0,178.0
+Buteo jamaicensis_Red-tailed Hawk,0.6001141,176.0,179.0
+Parabuteo unicinctus_Harris's Hawk,0.10376781,176.0,179.0
+Buteo jamaicensis_Red-tailed Hawk,0.70231116,177.0,180.0
+Parabuteo unicinctus_Harris's Hawk,0.19936948,177.0,180.0
+Buteo swainsoni_Swainson's Hawk,0.4081935,178.0,181.0
+Tringa semipalmata_Willet,0.29527164,178.0,181.0
+Buteo jamaicensis_Red-tailed Hawk,0.22449794,178.0,181.0
+Pandion haliaetus_Osprey,0.20378792,178.0,181.0
+Engine_Engine,0.26048845,180.0,183.0
+Buteo swainsoni_Swainson's Hawk,0.10225154,183.0,186.0
+Spinus tristis_American Goldfinch,0.5122905,191.0,194.0
+Spinus tristis_American Goldfinch,0.72900283,192.0,195.0
+Spinus tristis_American Goldfinch,0.43127483,194.0,197.0
+Spinus tristis_American Goldfinch,0.15767321,195.0,198.0
+Spinus tristis_American Goldfinch,0.4070533,196.0,199.0
+Spinus tristis_American Goldfinch,0.23788933,197.0,200.0
+Spinus tristis_American Goldfinch,0.27014408,198.0,201.0
+Spinus tristis_American Goldfinch,0.1557567,199.0,202.0
+Elanus leucurus_White-tailed Kite,0.101429425,201.0,204.0
+Elanus leucurus_White-tailed Kite,0.15339155,202.0,205.0
+Toxostoma redivivum_California Thrasher,0.16512458,203.0,206.0
+Toxostoma redivivum_California Thrasher,0.16313124,204.0,207.0
+Toxostoma redivivum_California Thrasher,0.12955661,205.0,208.0
+Melospiza melodia_Song Sparrow,0.3033243,206.0,209.0
+Melospiza melodia_Song Sparrow,0.16603968,207.0,210.0
+Buteo jamaicensis_Red-tailed Hawk,0.5592895,208.0,211.0
+Buteo swainsoni_Swainson's Hawk,0.18154164,208.0,211.0
+Tringa semipalmata_Willet,0.12335442,208.0,211.0
+Buteo jamaicensis_Red-tailed Hawk,0.92354274,209.0,212.0
+Parabuteo unicinctus_Harris's Hawk,0.14022487,209.0,212.0
+Buteo swainsoni_Swainson's Hawk,0.13755094,209.0,212.0
+Buteo jamaicensis_Red-tailed Hawk,0.8524153,210.0,213.0
+Buteo jamaicensis_Red-tailed Hawk,0.87601286,211.0,214.0
+Buteo jamaicensis_Red-tailed Hawk,0.80115765,212.0,215.0
+Buteo swainsoni_Swainson's Hawk,0.18648212,212.0,215.0
+Certhia americana_Brown Creeper,0.1811853,216.0,219.0
+Regulus satrapa_Golden-crowned Kinglet,0.10494345,216.0,219.0
+Buteo jamaicensis_Red-tailed Hawk,0.6861842,219.0,222.0
+Buteo jamaicensis_Red-tailed Hawk,0.8438936,220.0,223.0
+Buteo jamaicensis_Red-tailed Hawk,0.9200504,221.0,224.0
+Buteo swainsoni_Swainson's Hawk,0.1207012,221.0,224.0
+Buteo jamaicensis_Red-tailed Hawk,0.80837214,222.0,225.0
+Buteo jamaicensis_Red-tailed Hawk,0.95811325,223.0,226.0
+Buteo swainsoni_Swainson's Hawk,0.16141464,223.0,226.0
+Parabuteo unicinctus_Harris's Hawk,0.12510836,223.0,226.0
+Buteo albonotatus_Zone-tailed Hawk,0.12207032,223.0,226.0
+Buteo jamaicensis_Red-tailed Hawk,0.9229813,224.0,227.0
+Buteo swainsoni_Swainson's Hawk,0.174261,224.0,227.0
+Spiza americana_Dickcissel,0.1167672,231.0,234.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13568498,232.0,235.0
+Empidonax traillii_Willow Flycatcher,0.109247014,232.0,235.0
+Dolichonyx oryzivorus_Bobolink,0.1782947,233.0,236.0
+Hirundo rustica_Barn Swallow,0.10176787,233.0,236.0
+Hirundo rustica_Barn Swallow,0.39492762,234.0,237.0
+Dolichonyx oryzivorus_Bobolink,0.12749204,234.0,237.0
+Hirundo rustica_Barn Swallow,0.36877593,235.0,238.0
+Spatula discors_Blue-winged Teal,0.13327429,236.0,239.0
+Hirundo rustica_Barn Swallow,0.6820361,239.0,242.0
+Hirundo rustica_Barn Swallow,0.32660562,240.0,243.0
+Dolichonyx oryzivorus_Bobolink,0.14549531,242.0,245.0
+Dolichonyx oryzivorus_Bobolink,0.31965846,243.0,246.0
+Empidonax traillii_Willow Flycatcher,0.11839266,243.0,246.0
+Hirundo rustica_Barn Swallow,0.114592046,243.0,246.0
+Dolichonyx oryzivorus_Bobolink,0.5592842,244.0,247.0
+Hirundo rustica_Barn Swallow,0.30373803,244.0,247.0
+Spiza americana_Dickcissel,0.13999288,244.0,247.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.112855405,244.0,247.0
+Hirundo rustica_Barn Swallow,0.70556206,245.0,248.0
+Dolichonyx oryzivorus_Bobolink,0.10175407,245.0,248.0
+Hirundo rustica_Barn Swallow,0.8171845,246.0,249.0
+Dolichonyx oryzivorus_Bobolink,0.26961043,246.0,249.0
+Hirundo rustica_Barn Swallow,0.10283513,247.0,250.0
+Charadrius vociferus_Killdeer,0.35137028,252.0,255.0
+Thalasseus maximus_Royal Tern,0.13094342,252.0,255.0
+Podilymbus podiceps_Pied-billed Grebe,0.11905868,252.0,255.0
+Charadrius vociferus_Killdeer,0.26784906,253.0,256.0
+Podilymbus podiceps_Pied-billed Grebe,0.18338622,254.0,257.0
+Charadrius vociferus_Killdeer,0.13234048,254.0,257.0
+Corvus cryptoleucus_Chihuahuan Raven,0.21760973,257.0,260.0
+Larus delawarensis_Ring-billed Gull,0.16089451,257.0,260.0
+Zenaida macroura_Mourning Dove,0.2830314,260.0,263.0
+Zenaida macroura_Mourning Dove,0.16217397,261.0,264.0
+Zenaida macroura_Mourning Dove,0.26662853,262.0,265.0
+Zenaida macroura_Mourning Dove,0.23663376,263.0,266.0
+Zenaida macroura_Mourning Dove,0.13434945,265.0,268.0
+Charadrius vociferus_Killdeer,0.26540932,266.0,269.0
+Charadrius vociferus_Killdeer,0.8059598,267.0,270.0
+Charadrius vociferus_Killdeer,0.50952816,268.0,271.0
+Panyptila sanctihieronymi_Great Swallow-tailed Swift,0.23496859,269.0,272.0
+Elanus leucurus_White-tailed Kite,0.10240823,270.0,273.0
+Buteo jamaicensis_Red-tailed Hawk,0.2551173,273.0,276.0
+Icterus spurius_Orchard Oriole,0.19295561,275.0,278.0
+Dolichonyx oryzivorus_Bobolink,0.13379548,275.0,278.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11181683,280.0,283.0
+Icterus spurius_Orchard Oriole,0.10994238,282.0,285.0
+Dolichonyx oryzivorus_Bobolink,0.10237429,282.0,285.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10217542,282.0,285.0
+Podilymbus podiceps_Pied-billed Grebe,0.11238052,283.0,286.0
+Podilymbus podiceps_Pied-billed Grebe,0.18033163,284.0,287.0
+Larus delawarensis_Ring-billed Gull,0.11012468,285.0,288.0
+Larus delawarensis_Ring-billed Gull,0.1463228,286.0,289.0
+Larus delawarensis_Ring-billed Gull,0.10459163,287.0,290.0
+Buteo jamaicensis_Red-tailed Hawk,0.14806555,290.0,293.0
+Buteo jamaicensis_Red-tailed Hawk,0.88362443,291.0,294.0
+Buteo jamaicensis_Red-tailed Hawk,0.9442838,292.0,295.0
+Buteo jamaicensis_Red-tailed Hawk,0.95338005,293.0,296.0
+Buteo albonotatus_Zone-tailed Hawk,0.27252263,293.0,296.0
+Buteo jamaicensis_Red-tailed Hawk,0.7019005,294.0,297.0
+Zosterops luteus_Australian Yellow White-eye,0.1294893,296.0,299.0
+Pernis apivorus_European Honey-buzzard,0.42384276,301.0,304.0
+Ictinaetus malaiensis_Black Eagle,0.18021384,302.0,305.0
+Buteo jamaicensis_Red-tailed Hawk,0.15127264,302.0,305.0
+Buteo jamaicensis_Red-tailed Hawk,0.19291654,303.0,306.0
+Ictinaetus malaiensis_Black Eagle,0.16958839,303.0,306.0
+Pandion haliaetus_Osprey,0.21701695,304.0,307.0
+Tringa semipalmata_Willet,0.20230083,304.0,307.0
+Elanus leucurus_White-tailed Kite,0.10744981,347.0,350.0
+Junco phaeonotus_Yellow-eyed Junco,0.2822989,350.0,353.0
+Elanus leucurus_White-tailed Kite,0.2437372,351.0,354.0
+Chondestes grammacus_Lark Sparrow,0.21900377,351.0,354.0
+Chondestes grammacus_Lark Sparrow,0.17850535,352.0,355.0
+Corvus cryptoleucus_Chihuahuan Raven,0.10730884,358.0,361.0
+Elanus leucurus_White-tailed Kite,0.1048807,358.0,361.0
+Centronyx henslowii_Henslow's Sparrow,0.16725892,360.0,363.0
+Tyrannus tyrannus_Eastern Kingbird,0.13660315,360.0,363.0
+Spinus tristis_American Goldfinch,0.16073066,364.0,367.0
+Bombycilla cedrorum_Cedar Waxwing,0.1148787,376.0,379.0
+Bombycilla cedrorum_Cedar Waxwing,0.46592474,377.0,380.0
+Bombycilla cedrorum_Cedar Waxwing,0.502339,378.0,381.0
+Bombycilla cedrorum_Cedar Waxwing,0.4582886,379.0,382.0
+Bombycilla cedrorum_Cedar Waxwing,0.17336735,380.0,383.0
+Bombycilla cedrorum_Cedar Waxwing,0.16556962,382.0,385.0
+Bombycilla cedrorum_Cedar Waxwing,0.120379835,383.0,386.0
+Elanus leucurus_White-tailed Kite,0.16468811,387.0,390.0
+Elanus leucurus_White-tailed Kite,0.12358266,388.0,391.0
+Elanus leucurus_White-tailed Kite,0.2108823,390.0,393.0
+Sporophila torqueola_Cinnamon-rumped Seedeater,0.1428051,396.0,399.0
+Elanus leucurus_White-tailed Kite,0.111927144,400.0,403.0
+Icterus spurius_Orchard Oriole,0.16723709,401.0,404.0
+Calypte costae_Costa's Hummingbird,0.18247442,406.0,409.0
+Elanus leucurus_White-tailed Kite,0.320564,409.0,412.0
+Elanus leucurus_White-tailed Kite,0.10140007,410.0,413.0
+Elanus leucurus_White-tailed Kite,0.14929175,412.0,415.0
+Elanus leucurus_White-tailed Kite,0.14755088,413.0,416.0
+Elanus leucurus_White-tailed Kite,0.1308142,415.0,418.0
+Buteo platypterus_Broad-winged Hawk,0.1869671,420.0,423.0
+Charadrius vociferus_Killdeer,0.18118,420.0,423.0
+Contopus virens_Eastern Wood-Pewee,0.103749685,420.0,423.0
+Charadrius vociferus_Killdeer,0.31129494,421.0,424.0
+Quiscalus quiscula_Common Grackle,0.12937997,424.0,427.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10975359,424.0,427.0
+Quiscalus quiscula_Common Grackle,0.21617135,425.0,428.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12703569,425.0,428.0
+Podilymbus podiceps_Pied-billed Grebe,0.1470771,429.0,432.0
+Podilymbus podiceps_Pied-billed Grebe,0.12820615,430.0,433.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22179078,431.0,434.0
+Acrocephalus australis_Australian Reed Warbler,0.19850743,439.0,442.0
+Quiscalus quiscula_Common Grackle,0.10209544,440.0,443.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10289942,441.0,444.0
+Passer domesticus_House Sparrow,0.1564776,451.0,454.0
+Rhynchopsitta pachyrhyncha_Thick-billed Parrot,0.17512436,456.0,459.0
+Pica hudsonia_Black-billed Magpie,0.25507596,458.0,461.0
+Elanus leucurus_White-tailed Kite,0.17634836,458.0,461.0
+Engine_Engine,0.113671556,475.0,478.0
+Engine_Engine,0.19797449,483.0,486.0
+Engine_Engine,0.13273554,489.0,492.0
+Engine_Engine,0.5394525,490.0,493.0
+Engine_Engine,0.38312638,491.0,494.0
+Engine_Engine,0.64920646,492.0,495.0
+Engine_Engine,0.18632248,494.0,497.0
+Engine_Engine,0.25691083,496.0,499.0
+Engine_Engine,0.15803993,497.0,500.0
+Engine_Engine,0.31120047,498.0,501.0
+Engine_Engine,0.15585397,499.0,502.0
+Engine_Engine,0.48452756,500.0,503.0
+Engine_Engine,0.26039323,501.0,504.0
+Engine_Engine,0.194402,502.0,505.0
+Melospiza melodia_Song Sparrow,0.22701202,503.0,506.0
+Dryocopus pileatus_Pileated Woodpecker,0.20866011,511.0,514.0
+Dryocopus pileatus_Pileated Woodpecker,0.3127972,512.0,515.0
+Melospiza melodia_Song Sparrow,0.24388613,516.0,519.0
+Melospiza melodia_Song Sparrow,0.2734561,517.0,520.0
+Melospiza melodia_Song Sparrow,0.5375796,518.0,521.0
+Melospiza melodia_Song Sparrow,0.20328067,519.0,522.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16693766,519.0,522.0
+Peucaea aestivalis_Bachman's Sparrow,0.26640674,520.0,523.0
+Bombycilla cedrorum_Cedar Waxwing,0.3170917,521.0,524.0
+Bombycilla cedrorum_Cedar Waxwing,0.16008706,522.0,525.0
+Coccothraustes vespertinus_Evening Grosbeak,0.3093174,523.0,526.0
+Engine_Engine,0.1392427,525.0,528.0
+Engine_Engine,0.41331857,526.0,529.0
+Engine_Engine,0.42602223,527.0,530.0
+Engine_Engine,0.83819133,528.0,531.0
+Melospiza melodia_Song Sparrow,0.5035073,530.0,533.0
+Melospiza melodia_Song Sparrow,0.3093836,531.0,534.0
+Melospiza melodia_Song Sparrow,0.27911368,532.0,535.0
+Melospiza melodia_Song Sparrow,0.21555431,533.0,536.0
+Aix sponsa_Wood Duck,0.22062641,536.0,539.0
+Engine_Engine,0.13021216,539.0,542.0
+Engine_Engine,0.14249258,541.0,544.0
+Elanus leucurus_White-tailed Kite,0.17663877,543.0,546.0
+Corvus cryptoleucus_Chihuahuan Raven,0.17152597,543.0,546.0
+Elanus leucurus_White-tailed Kite,0.13424289,544.0,547.0
+Corvus cryptoleucus_Chihuahuan Raven,0.111988276,544.0,547.0
+Elanus leucurus_White-tailed Kite,0.16701667,545.0,548.0
+Elanus leucurus_White-tailed Kite,0.13454646,546.0,549.0
+Melospiza melodia_Song Sparrow,0.15959062,547.0,550.0
+Melospiza melodia_Song Sparrow,0.25368565,548.0,551.0
+Melospiza melodia_Song Sparrow,0.20142905,549.0,552.0
+Engine_Engine,0.15312123,552.0,555.0
+Corvus cryptoleucus_Chihuahuan Raven,0.14431036,553.0,556.0
+Charadrius vociferus_Killdeer,0.12479598,563.0,566.0
+Lanius ludovicianus_Loggerhead Shrike,0.14827043,565.0,568.0
+Zosterops luteus_Australian Yellow White-eye,0.14216636,567.0,570.0
+Bombycilla cedrorum_Cedar Waxwing,0.109433666,568.0,571.0
+Elanus leucurus_White-tailed Kite,0.11494645,569.0,572.0
+Apus apus_Common Swift,0.14442605,574.0,577.0
+Apus apus_Common Swift,0.5196605,575.0,578.0
+Buteo jamaicensis_Red-tailed Hawk,0.20009615,576.0,579.0
+Buteo jamaicensis_Red-tailed Hawk,0.133493,577.0,580.0
+Buteo jamaicensis_Red-tailed Hawk,0.25741115,578.0,581.0
+Buteo jamaicensis_Red-tailed Hawk,0.37160188,579.0,582.0
+Haliaeetus leucocephalus_Bald Eagle,0.14205118,579.0,582.0
+Buteo jamaicensis_Red-tailed Hawk,0.42768425,580.0,583.0
+Lophophorus impejanus_Himalayan Monal,0.22601673,580.0,583.0
+Milvus migrans_Black Kite,0.22286788,580.0,583.0
+Haliaeetus leucocephalus_Bald Eagle,0.15216888,580.0,583.0
+Buteo jamaicensis_Red-tailed Hawk,0.8079323,581.0,584.0
+Haliaeetus leucocephalus_Bald Eagle,0.4778272,581.0,584.0
+Lophophorus impejanus_Himalayan Monal,0.13258624,581.0,584.0

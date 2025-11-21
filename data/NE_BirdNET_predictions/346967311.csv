@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Icterus galbula_Baltimore Oriole,0.2218473,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.5780258,3.0,6.0
+Accipiter cooperii_Cooper's Hawk,0.23158617,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.9944729,4.0,7.0
+Buteo swainsoni_Swainson's Hawk,0.12122521,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.93855,5.0,8.0
+Milvus migrans_Black Kite,0.16252872,5.0,8.0
+Buteo swainsoni_Swainson's Hawk,0.13764583,5.0,8.0
+Buteo swainsoni_Swainson's Hawk,0.10363319,6.0,9.0
+Xiphocolaptes major_Great Rufous Woodcreeper,0.24909729,7.0,10.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.12498599,8.0,11.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.119472235,9.0,12.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.124666065,11.0,14.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.2629655,12.0,15.0
+Paroaria coronata_Red-crested Cardinal,0.19540115,12.0,15.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.27328858,13.0,16.0
+Icterus galbula_Baltimore Oriole,0.102097236,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.72487366,15.0,18.0
+Buteo swainsoni_Swainson's Hawk,0.11170905,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.95884645,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.36913556,17.0,20.0
+Falco peregrinus_Peregrine Falcon,0.11803529,17.0,20.0
+Milvago chimachima_Yellow-headed Caracara,0.4285174,18.0,21.0
+Cacatua sanguinea_Little Corella,0.1709184,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.15669788,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.627046,19.0,22.0
+Buteo lineatus_Red-shouldered Hawk,0.15573281,19.0,22.0
+Pandion haliaetus_Osprey,0.1383819,21.0,24.0
+Buteo jamaicensis_Red-tailed Hawk,0.86479926,22.0,25.0
+Buteo jamaicensis_Red-tailed Hawk,0.94424844,23.0,26.0
+Buteo jamaicensis_Red-tailed Hawk,0.745506,24.0,27.0
+Milvago chimachima_Yellow-headed Caracara,0.11387801,25.0,28.0
+Buteo jamaicensis_Red-tailed Hawk,0.13491985,26.0,29.0
+Milvago chimachima_Yellow-headed Caracara,0.111324765,26.0,29.0
+Pandion haliaetus_Osprey,0.11028849,28.0,31.0
+Pandion haliaetus_Osprey,0.42615747,29.0,32.0
+Icterus galbula_Baltimore Oriole,0.10286463,29.0,32.0
+Pandion haliaetus_Osprey,0.58919567,30.0,33.0
+Pandion haliaetus_Osprey,0.21475503,31.0,34.0

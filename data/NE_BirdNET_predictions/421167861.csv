@@ -1,0 +1,25 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.38833702,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.10897278,1.0,4.0
+Aegithalos caudatus_Long-tailed Tit,0.17959404,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.326016,4.0,7.0
+Phytotoma rara_Rufous-tailed Plantcutter,0.24666393,4.0,7.0
+Troglodytes aedon_House Wren,0.23203856,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.36034292,5.0,8.0
+Troglodytes aedon_House Wren,0.3304515,8.0,11.0
+Pycnonotus conradi_Streak-eared Bulbul,0.26312336,8.0,11.0
+Passerina cyanea_Indigo Bunting,0.22603302,10.0,13.0
+Icteria virens_Yellow-breasted Chat,0.17122903,10.0,13.0
+Troglodytes aedon_House Wren,0.17905761,11.0,14.0
+Icteria virens_Yellow-breasted Chat,0.16375062,11.0,14.0
+Campylopterus hemileucurus_Violet Sabrewing,0.3474958,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12064928,21.0,24.0
+Setophaga palmarum_Palm Warbler,0.100707546,21.0,24.0
+Geothlypis trichas_Common Yellowthroat,0.47933128,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.17571698,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.39099625,23.0,26.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1495022,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.22113459,24.0,26.568027210884352
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17069574,24.0,26.568027210884352
+Setophaga petechia_Yellow Warbler,0.16120641,24.0,26.568027210884352
+Cardellina canadensis_Canada Warbler,0.13701615,24.0,26.568027210884352

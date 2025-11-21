@@ -1,0 +1,74 @@
+species,score,start_time,end_time
+Artemisiospiza belli_Bell's Sparrow,0.30295196,1.0,4.0
+Engine_Engine,0.20722309,1.0,4.0
+Larus argentatus_Herring Gull,0.10486713,3.0,6.0
+Larus argentatus_Herring Gull,0.18947673,4.0,7.0
+Larus dominicanus_Kelp Gull,0.11112816,4.0,7.0
+Larus argentatus_Herring Gull,0.1296262,5.0,8.0
+Larus argentatus_Herring Gull,0.15310238,6.0,9.0
+Larus argentatus_Herring Gull,0.47934794,7.0,10.0
+Larus argentatus_Herring Gull,0.33686635,8.0,11.0
+Larus argentatus_Herring Gull,0.46234646,9.0,12.0
+Larus schistisagus_Slaty-backed Gull,0.10450325,9.0,12.0
+Larus schistisagus_Slaty-backed Gull,0.47864926,10.0,13.0
+Larus glaucescens_Glaucous-winged Gull,0.431179,10.0,13.0
+Larus argentatus_Herring Gull,0.3452388,10.0,13.0
+Larus hyperboreus_Glaucous Gull,0.10852649,10.0,13.0
+Larus argentatus_Herring Gull,0.2506644,11.0,14.0
+Larus glaucescens_Glaucous-winged Gull,0.10335615,11.0,14.0
+Larus argentatus_Herring Gull,0.42714015,12.0,15.0
+Larus schistisagus_Slaty-backed Gull,0.24845277,12.0,15.0
+Larus glaucescens_Glaucous-winged Gull,0.14704314,12.0,15.0
+Larus argentatus_Herring Gull,0.3737474,13.0,16.0
+Larus argentatus_Herring Gull,0.58523333,14.0,17.0
+Larus hyperboreus_Glaucous Gull,0.2782343,14.0,17.0
+Larus glaucescens_Glaucous-winged Gull,0.18356149,14.0,17.0
+Larus schistisagus_Slaty-backed Gull,0.10338636,14.0,17.0
+Larus argentatus_Herring Gull,0.67216754,15.0,18.0
+Larus hyperboreus_Glaucous Gull,0.19141153,15.0,18.0
+Larus glaucescens_Glaucous-winged Gull,0.16264649,15.0,18.0
+Larus argentatus_Herring Gull,0.34825844,16.0,19.0
+Larus argentatus_Herring Gull,0.18770278,17.0,20.0
+Larus glaucescens_Glaucous-winged Gull,0.14155233,17.0,20.0
+Larus argentatus_Herring Gull,0.11768086,18.0,21.0
+Larus argentatus_Herring Gull,0.18668504,19.0,22.0
+Larus glaucescens_Glaucous-winged Gull,0.15351394,19.0,22.0
+Larus dominicanus_Kelp Gull,0.100996405,19.0,22.0
+Larus dominicanus_Kelp Gull,0.16856472,20.0,23.0
+Larus argentatus_Herring Gull,0.11608315,20.0,23.0
+Larus fuscus_Lesser Black-backed Gull,0.10370569,20.0,23.0
+Larus cachinnans_Caspian Gull,0.4996975,21.0,24.0
+Larus fuscus_Lesser Black-backed Gull,0.28318575,21.0,24.0
+Larus michahellis_Yellow-legged Gull,0.25628847,21.0,24.0
+Larus dominicanus_Kelp Gull,0.16781436,21.0,24.0
+Larus argentatus_Herring Gull,0.10498549,21.0,24.0
+Larus cachinnans_Caspian Gull,0.48252138,22.0,25.0
+Larus fuscus_Lesser Black-backed Gull,0.33166498,22.0,25.0
+Larus michahellis_Yellow-legged Gull,0.32221213,22.0,25.0
+Larus dominicanus_Kelp Gull,0.24954046,22.0,25.0
+Larus fuscus_Lesser Black-backed Gull,0.32783023,23.0,26.0
+Larus michahellis_Yellow-legged Gull,0.25571758,23.0,26.0
+Larus cachinnans_Caspian Gull,0.22159685,23.0,26.0
+Larus argentatus_Herring Gull,0.110034645,23.0,26.0
+Larus argentatus_Herring Gull,0.20267421,24.0,27.0
+Larus fuscus_Lesser Black-backed Gull,0.1145942,24.0,27.0
+Larus michahellis_Yellow-legged Gull,0.104795486,24.0,27.0
+Larus argentatus_Herring Gull,0.5464042,25.0,28.0
+Larus argentatus_Herring Gull,0.4990865,26.0,29.0
+Larus glaucescens_Glaucous-winged Gull,0.18223307,26.0,29.0
+Larus argentatus_Herring Gull,0.61894023,27.0,30.0
+Larus glaucescens_Glaucous-winged Gull,0.49264157,27.0,30.0
+Larus argentatus_Herring Gull,0.5326546,28.0,31.0
+Larus glaucescens_Glaucous-winged Gull,0.34343556,28.0,31.0
+Larus argentatus_Herring Gull,0.48131672,29.0,32.0
+Larus glaucescens_Glaucous-winged Gull,0.36433038,29.0,32.0
+Larus argentatus_Herring Gull,0.44649687,30.0,33.0
+Larus glaucescens_Glaucous-winged Gull,0.28403965,30.0,33.0
+Egretta thula_Snowy Egret,0.15005635,30.0,33.0
+Nannopterum auritum_Double-crested Cormorant,0.2758181,31.0,34.0
+Egretta thula_Snowy Egret,0.13652563,31.0,34.0
+Eudocimus albus_White Ibis,0.11212509,39.0,42.0
+Toxostoma bendirei_Bendire's Thrasher,0.15082234,40.0,43.0
+Columba livia_Rock Pigeon,0.5064198,47.0,50.0
+Columba livia_Rock Pigeon,0.21146157,48.0,51.0
+Cygnus olor_Mute Swan,0.22166128,65.0,68.0
