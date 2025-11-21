@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.96694124,0.0,3.0
+Troglodytes hiemalis_Winter Wren,0.9465115,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.9670251,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.9933743,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.9629527,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.9401426,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.4497204,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.31312034,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.2256947,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.49334067,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24170578,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.11987859,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.8768114,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.10457011,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.26814926,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.48930925,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.29894337,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.30106354,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.18907902,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.6058235,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.21698557,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20887136,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.46475133,13.0,16.0
+Cyanocitta cristata_Blue Jay,0.2579889,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20646852,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.81030643,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19253229,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.12826921,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.11530291,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.7838714,15.0,18.0
+Cyanocitta cristata_Blue Jay,0.19172986,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16782679,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.16516067,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.13803644,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.13384046,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.13285892,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.24658406,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.19689353,16.0,19.0
+Mniotilta varia_Black-and-white Warbler,0.14095782,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.12923901,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.3054858,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12072983,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.15892796,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10315308,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13989338,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.8051094,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.98764986,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.99122053,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.9931316,23.0,26.0
+Troglodytes hiemalis_Winter Wren,0.9142064,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.77518344,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.31878948,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.27325818,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18778245,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.60190606,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.12129193,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.96879727,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.11781838,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.8560127,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.1405342,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.9554777,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.21441378,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.10380783,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.49509683,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.25393608,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19213009,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.5729077,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.19341294,32.0,35.0
+Cyanocitta cristata_Blue Jay,0.18436152,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.62116444,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.41067377,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.3342408,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.18825738,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.59240836,35.0,38.0
+Troglodytes hiemalis_Winter Wren,0.9621069,36.0,39.0
+Ixoreus naevius_Varied Thrush,0.21486707,36.0,39.0
+Troglodytes hiemalis_Winter Wren,0.6704897,37.0,40.0
+Troglodytes hiemalis_Winter Wren,0.58439,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.1205571,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1043514,38.0,41.0
+Contopus virens_Eastern Wood-Pewee,0.1269006,39.0,41.25600907029479
+Buteo platypterus_Broad-winged Hawk,0.120245874,39.0,41.25600907029479

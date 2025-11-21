@@ -1,0 +1,115 @@
+species,score,start_time,end_time
+Myiarchus crinitus_Great Crested Flycatcher,0.9682903,0.0,3.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9009995,1.0,4.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9699607,2.0,5.0
+Myiarchus crinitus_Great Crested Flycatcher,0.983949,3.0,6.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8702774,4.0,7.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35938334,4.0,7.0
+Myiarchus crinitus_Great Crested Flycatcher,0.94876564,5.0,8.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9804402,6.0,9.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9780869,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.13382122,10.0,13.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9718901,11.0,14.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97815573,12.0,15.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9890892,13.0,16.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9123704,14.0,17.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96511,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9899012,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.95317143,18.0,21.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8753124,19.0,22.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9677613,20.0,23.0
+Myiarchus crinitus_Great Crested Flycatcher,0.86360765,21.0,24.0
+Attila phoenicurus_Rufous-tailed Attila,0.58311653,22.0,25.0
+Attila spadiceus_Bright-rumped Attila,0.10207601,22.0,25.0
+Myiarchus crinitus_Great Crested Flycatcher,0.94827056,23.0,26.0
+Myiarchus crinitus_Great Crested Flycatcher,0.93333614,24.0,27.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7657128,25.0,28.0
+Myiarchus crinitus_Great Crested Flycatcher,0.21575338,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.19052291,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.45340484,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.81592673,28.0,31.0
+Myiarchus crinitus_Great Crested Flycatcher,0.98154205,29.0,32.0
+Myiarchus crinitus_Great Crested Flycatcher,0.98011094,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.10434768,30.0,33.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97979295,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.1686393,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.17139143,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.34664288,34.0,37.0
+Myiarchus crinitus_Great Crested Flycatcher,0.98565173,35.0,38.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9844924,36.0,39.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9932719,37.0,40.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9887384,38.0,41.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9391311,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.11475761,40.0,43.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9397299,42.0,45.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.11339335,42.0,45.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.11228664,42.0,45.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97462296,43.0,46.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.38092518,43.0,46.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.110469796,43.0,46.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9930749,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.7620527,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.11207426,45.0,48.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9697501,46.0,49.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9489966,47.0,50.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97115517,48.0,51.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96087766,49.0,52.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96975136,50.0,53.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9767828,51.0,54.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.12217953,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.12585519,52.0,55.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9826957,55.0,58.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96885777,56.0,59.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9678877,57.0,60.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.4516799,59.0,62.0
+Buteo nitidus_Gray-lined Hawk,0.12645598,59.0,62.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9678738,60.0,63.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9789877,61.0,64.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.20988551,61.0,64.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13820828,62.0,65.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97929895,64.0,67.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9855305,65.0,68.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9804643,66.0,69.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9532568,67.0,70.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9866165,68.0,71.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9777436,69.0,72.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20326304,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.19202283,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11157839,71.0,74.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97086436,72.0,75.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96192384,73.0,76.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97700775,74.0,77.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97814536,75.0,78.0
+Myiarchus crinitus_Great Crested Flycatcher,0.95716494,76.0,79.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.18743308,76.0,79.0
+Setophaga cerulea_Cerulean Warbler,0.19461647,77.0,80.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.35532808,78.0,81.0
+Attila rufus_Gray-hooded Attila,0.13204195,78.0,81.0
+Myiarchus crinitus_Great Crested Flycatcher,0.98384273,79.0,82.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.11449038,79.0,82.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96142375,80.0,83.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9851334,81.0,84.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97945124,82.0,85.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.123139404,82.0,85.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9823354,83.0,86.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9839521,84.0,87.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9954855,85.0,88.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9877444,86.0,89.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23711358,87.0,90.0
+Myiarchus crinitus_Great Crested Flycatcher,0.22594345,87.0,90.0
+Setophaga cerulea_Cerulean Warbler,0.1940956,88.0,91.0
+Zenaida macroura_Mourning Dove,0.14052534,90.0,93.0
+Myiarchus crinitus_Great Crested Flycatcher,0.67637944,91.0,94.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.23537458,91.0,94.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.12139608,91.0,94.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9657521,92.0,95.0
+Myiarchus swainsoni_Swainson's Flycatcher,0.37236786,92.0,95.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9873568,93.0,96.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97401726,94.0,97.0
+Myiarchus crinitus_Great Crested Flycatcher,0.992546,95.0,98.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9927256,96.0,99.0
+Setophaga cerulea_Cerulean Warbler,0.16987243,101.0,104.0
+Setophaga cerulea_Cerulean Warbler,0.18552227,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.23540002,103.0,106.0
+Setophaga cerulea_Cerulean Warbler,0.16764379,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.13028614,131.0,134.0

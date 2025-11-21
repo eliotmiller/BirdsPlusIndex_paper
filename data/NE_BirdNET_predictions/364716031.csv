@@ -1,0 +1,58 @@
+species,score,start_time,end_time
+Engine_Engine,0.26324895,1.0,4.0
+Engine_Engine,0.12830454,2.0,5.0
+Engine_Engine,0.16092579,3.0,6.0
+Engine_Engine,0.40075627,4.0,7.0
+Power tools_Power tools,0.10323999,4.0,7.0
+Power tools_Power tools,0.38454664,5.0,8.0
+Engine_Engine,0.14430004,5.0,8.0
+Power tools_Power tools,0.44277257,6.0,9.0
+Engine_Engine,0.1426835,6.0,9.0
+Power tools_Power tools,0.21728295,7.0,10.0
+Engine_Engine,0.22867127,9.0,12.0
+Engine_Engine,0.3084246,10.0,13.0
+Engine_Engine,0.5189576,11.0,14.0
+Engine_Engine,0.5927609,12.0,15.0
+Engine_Engine,0.3377538,13.0,16.0
+Engine_Engine,0.25626388,15.0,18.0
+Engine_Engine,0.19401735,17.0,20.0
+Engine_Engine,0.100293465,18.0,21.0
+Buteo lineatus_Red-shouldered Hawk,0.94749314,19.0,22.0
+Buteo lineatus_Red-shouldered Hawk,0.9899183,20.0,23.0
+Buteo lineatus_Red-shouldered Hawk,0.9737371,21.0,24.0
+Buteo lineatus_Red-shouldered Hawk,0.8212469,22.0,25.0
+Buteo lineatus_Red-shouldered Hawk,0.95857626,23.0,26.0
+Buteo lineatus_Red-shouldered Hawk,0.91202164,24.0,27.0
+Buteo lineatus_Red-shouldered Hawk,0.9868132,25.0,28.0
+Buteo lineatus_Red-shouldered Hawk,0.6676409,26.0,29.0
+Engine_Engine,0.15254653,31.0,34.0
+Engine_Engine,0.3360357,32.0,35.0
+Buteo lineatus_Red-shouldered Hawk,0.3788235,34.0,37.0
+Daptrius ater_Black Caracara,0.16336255,34.0,37.0
+Buteo lineatus_Red-shouldered Hawk,0.9857001,35.0,38.0
+Buteo lineatus_Red-shouldered Hawk,0.96038204,36.0,39.0
+Buteo lineatus_Red-shouldered Hawk,0.9658509,37.0,40.0
+Buteo lineatus_Red-shouldered Hawk,0.91898245,38.0,41.0
+Buteo lineatus_Red-shouldered Hawk,0.90963286,39.0,42.0
+Buteo lineatus_Red-shouldered Hawk,0.9468175,40.0,43.0
+Oecanthus quadripunctatus_Four-spotted Tree Cricket,0.13119373,40.0,43.0
+Gryllus rubens_Southeastern Field Cricket,0.11701017,40.0,43.0
+Buteo lineatus_Red-shouldered Hawk,0.95268124,41.0,44.0
+Engine_Engine,0.151683,42.0,45.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.15470462,43.0,46.0
+Engine_Engine,0.1618742,49.0,52.0
+Engine_Engine,0.25194526,50.0,53.0
+Buteo lineatus_Red-shouldered Hawk,0.942538,53.0,56.0
+Buteo lineatus_Red-shouldered Hawk,0.9945094,54.0,57.0
+Buteo lineatus_Red-shouldered Hawk,0.988516,55.0,58.0
+Buteo lineatus_Red-shouldered Hawk,0.8716383,56.0,59.0
+Buteo lineatus_Red-shouldered Hawk,0.9720915,57.0,60.0
+Buteo lineatus_Red-shouldered Hawk,0.97575766,58.0,61.0
+Buteo lineatus_Red-shouldered Hawk,0.25304177,59.0,62.0
+Human non-vocal_Human non-vocal,0.4156991,60.0,63.0
+Engine_Engine,0.10784436,60.0,63.0
+Otus bakkamoena_Indian Scops-Owl,0.10476295,61.0,64.0
+Ficedula albicilla_Taiga Flycatcher,0.18034892,63.0,66.0
+Tyto alba_Barn Owl,0.12765476,63.0,66.0
+Tyto alba_Barn Owl,0.38735086,64.0,67.0
+Tyto alba_Barn Owl,0.7336619,65.0,67.89600907029478

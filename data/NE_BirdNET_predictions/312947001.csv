@@ -1,0 +1,479 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.97432274,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.855153,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.8374984,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.37467292,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.122981794,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.16835521,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107208006,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.14915328,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.1413674,6.0,9.0
+Geothlypis philadelphia_Mourning Warbler,0.15094897,7.0,10.0
+Geothlypis philadelphia_Mourning Warbler,0.61953855,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.15957586,8.0,11.0
+Geothlypis philadelphia_Mourning Warbler,0.14621042,9.0,12.0
+Empidonax minimus_Least Flycatcher,0.13634853,10.0,13.0
+Empidonax minimus_Least Flycatcher,0.2607885,11.0,14.0
+Empidonax minimus_Least Flycatcher,0.28176075,13.0,16.0
+Empidonax minimus_Least Flycatcher,0.31571203,14.0,17.0
+Geothlypis philadelphia_Mourning Warbler,0.37680155,19.0,22.0
+Geothlypis philadelphia_Mourning Warbler,0.20711055,20.0,23.0
+Geothlypis trichas_Common Yellowthroat,0.14053103,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.102417834,21.0,24.0
+Geothlypis trichas_Common Yellowthroat,0.8003937,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.79751307,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.8092428,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.13166048,26.0,29.0
+Odocoileus virginianus_White-tailed Deer,0.10979187,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.104072124,27.0,30.0
+Cardellina canadensis_Canada Warbler,0.1227528,30.0,33.0
+Geothlypis philadelphia_Mourning Warbler,0.2258397,31.0,34.0
+Empidonax minimus_Least Flycatcher,0.13668203,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.13258305,31.0,34.0
+Geothlypis philadelphia_Mourning Warbler,0.16898748,32.0,35.0
+Geothlypis philadelphia_Mourning Warbler,0.12312861,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.115694545,33.0,36.0
+Empidonax minimus_Least Flycatcher,0.14247547,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.32118645,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.30344,35.0,38.0
+Setophaga graciae_Grace's Warbler,0.11103666,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.690367,36.0,39.0
+Cardellina canadensis_Canada Warbler,0.12447806,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.71193296,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.7308408,38.0,41.0
+Cardellina canadensis_Canada Warbler,0.1265757,38.0,41.0
+Setophaga magnolia_Magnolia Warbler,0.11736358,39.0,42.0
+Empidonax minimus_Least Flycatcher,0.60751706,40.0,43.0
+Empidonax minimus_Least Flycatcher,0.29296765,41.0,44.0
+Empidonax minimus_Least Flycatcher,0.4013685,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.14761147,44.0,47.0
+Geothlypis philadelphia_Mourning Warbler,0.2563458,45.0,48.0
+Geothlypis formosa_Kentucky Warbler,0.112270854,45.0,48.0
+Geothlypis philadelphia_Mourning Warbler,0.31375962,46.0,49.0
+Geothlypis philadelphia_Mourning Warbler,0.13880135,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.3230725,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.30502182,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.8889765,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.9352744,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.8456637,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.33149436,52.0,55.0
+Setophaga citrina_Hooded Warbler,0.15712069,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.30784565,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.2695594,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1572362,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.27300453,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15976223,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.2651693,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16509071,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.5875543,58.0,61.0
+Geothlypis philadelphia_Mourning Warbler,0.16812961,58.0,61.0
+Setophaga magnolia_Magnolia Warbler,0.47835568,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.16447107,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.8209936,60.0,63.0
+Geothlypis trichas_Common Yellowthroat,0.86199695,61.0,64.0
+Geothlypis trichas_Common Yellowthroat,0.82214415,62.0,65.0
+Setophaga citrina_Hooded Warbler,0.2288046,63.0,66.0
+Geothlypis trichas_Common Yellowthroat,0.13647343,63.0,66.0
+Empidonax minimus_Least Flycatcher,0.21298835,64.0,67.0
+Empidonax minimus_Least Flycatcher,0.25227705,65.0,68.0
+Empidonax minimus_Least Flycatcher,0.30361828,66.0,69.0
+Empidonax minimus_Least Flycatcher,0.51813185,67.0,70.0
+Empidonax minimus_Least Flycatcher,0.41794333,68.0,71.0
+Geothlypis philadelphia_Mourning Warbler,0.27030692,70.0,73.0
+Geothlypis formosa_Kentucky Warbler,0.24577393,70.0,73.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.52071005,71.0,74.0
+Setophaga magnolia_Magnolia Warbler,0.3977193,71.0,74.0
+Geothlypis trichas_Common Yellowthroat,0.7723371,72.0,75.0
+Geothlypis trichas_Common Yellowthroat,0.7999826,73.0,76.0
+Geothlypis trichas_Common Yellowthroat,0.7154848,74.0,77.0
+Geothlypis trichas_Common Yellowthroat,0.22024693,75.0,78.0
+Setophaga magnolia_Magnolia Warbler,0.21646264,75.0,78.0
+Geothlypis formosa_Kentucky Warbler,0.16934761,75.0,78.0
+Setophaga citrina_Hooded Warbler,0.14662,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.30648807,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.10231667,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121141724,78.0,81.0
+Geothlypis formosa_Kentucky Warbler,0.12647977,84.0,87.0
+Geothlypis philadelphia_Mourning Warbler,0.11541013,84.0,87.0
+Geothlypis philadelphia_Mourning Warbler,0.22721744,85.0,88.0
+Geothlypis philadelphia_Mourning Warbler,0.13651343,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.10098504,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.12221824,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.13865061,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10060298,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.14558879,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102510095,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.34846374,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.11988798,95.0,98.0
+Geothlypis trichas_Common Yellowthroat,0.7886629,100.0,103.0
+Geothlypis trichas_Common Yellowthroat,0.84209865,101.0,104.0
+Geothlypis trichas_Common Yellowthroat,0.85756016,102.0,105.0
+Geothlypis trichas_Common Yellowthroat,0.56601214,103.0,106.0
+Geothlypis philadelphia_Mourning Warbler,0.42714468,108.0,111.0
+Geothlypis formosa_Kentucky Warbler,0.37894052,108.0,111.0
+Geothlypis philadelphia_Mourning Warbler,0.59556216,109.0,112.0
+Geothlypis philadelphia_Mourning Warbler,0.5608658,110.0,113.0
+Geothlypis philadelphia_Mourning Warbler,0.17102842,111.0,114.0
+Empidonax virescens_Acadian Flycatcher,0.14136647,117.0,120.0
+Vireo solitarius_Blue-headed Vireo,0.11391931,120.0,123.0
+Geothlypis formosa_Kentucky Warbler,0.10556038,127.0,130.0
+Geothlypis philadelphia_Mourning Warbler,0.21041234,128.0,131.0
+Geothlypis philadelphia_Mourning Warbler,0.23140502,129.0,132.0
+Cardellina rubrifrons_Red-faced Warbler,0.10425551,130.0,133.0
+Cardellina rubrifrons_Red-faced Warbler,0.11559639,131.0,134.0
+Vireo solitarius_Blue-headed Vireo,0.16390488,134.0,137.0
+Setophaga magnolia_Magnolia Warbler,0.20408519,139.0,142.0
+Geothlypis philadelphia_Mourning Warbler,0.12507847,139.0,142.0
+Geothlypis trichas_Common Yellowthroat,0.21653676,140.0,143.0
+Geothlypis trichas_Common Yellowthroat,0.71509856,141.0,144.0
+Geothlypis trichas_Common Yellowthroat,0.3307544,142.0,145.0
+Cardellina canadensis_Canada Warbler,0.19099806,143.0,146.0
+Geothlypis trichas_Common Yellowthroat,0.17811257,143.0,146.0
+Geothlypis philadelphia_Mourning Warbler,0.2598777,144.0,147.0
+Geothlypis philadelphia_Mourning Warbler,0.19667889,145.0,148.0
+Geothlypis formosa_Kentucky Warbler,0.18519297,145.0,148.0
+Empidonax minimus_Least Flycatcher,0.10472915,146.0,149.0
+Vireo solitarius_Blue-headed Vireo,0.14631186,149.0,152.0
+Geothlypis philadelphia_Mourning Warbler,0.5679246,158.0,161.0
+Geothlypis philadelphia_Mourning Warbler,0.14159438,159.0,162.0
+Geothlypis philadelphia_Mourning Warbler,0.20007113,160.0,163.0
+Geothlypis formosa_Kentucky Warbler,0.11865326,160.0,163.0
+Geothlypis trichas_Common Yellowthroat,0.6135154,162.0,165.0
+Geothlypis trichas_Common Yellowthroat,0.54753244,163.0,166.0
+Geothlypis trichas_Common Yellowthroat,0.62395954,164.0,167.0
+Geothlypis trichas_Common Yellowthroat,0.39787436,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.17515966,167.0,170.0
+Seiurus aurocapilla_Ovenbird,0.21086225,168.0,171.0
+Seiurus aurocapilla_Ovenbird,0.15734735,169.0,172.0
+Seiurus aurocapilla_Ovenbird,0.24382454,170.0,173.0
+Geothlypis philadelphia_Mourning Warbler,0.13401076,171.0,174.0
+Geothlypis philadelphia_Mourning Warbler,0.16772062,172.0,175.0
+Geothlypis philadelphia_Mourning Warbler,0.12460078,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12207674,174.0,177.0
+Geothlypis trichas_Common Yellowthroat,0.3572939,175.0,178.0
+Setophaga magnolia_Magnolia Warbler,0.20220727,175.0,178.0
+Geothlypis trichas_Common Yellowthroat,0.6667168,176.0,179.0
+Geothlypis trichas_Common Yellowthroat,0.8291561,177.0,180.0
+Geothlypis trichas_Common Yellowthroat,0.7181663,178.0,181.0
+Cardellina canadensis_Canada Warbler,0.1398875,178.0,181.0
+Empidonax minimus_Least Flycatcher,0.1442632,180.0,183.0
+Empidonax minimus_Least Flycatcher,0.12802875,181.0,184.0
+Empidonax minimus_Least Flycatcher,0.21123597,182.0,185.0
+Geothlypis philadelphia_Mourning Warbler,0.32539892,183.0,186.0
+Geothlypis philadelphia_Mourning Warbler,0.13870066,184.0,187.0
+Geothlypis formosa_Kentucky Warbler,0.13725504,184.0,187.0
+Empidonax minimus_Least Flycatcher,0.16353658,186.0,189.0
+Empidonax minimus_Least Flycatcher,0.2933366,188.0,191.0
+Setophaga magnolia_Magnolia Warbler,0.3426699,195.0,198.0
+Geothlypis trichas_Common Yellowthroat,0.269507,196.0,199.0
+Geothlypis trichas_Common Yellowthroat,0.42448938,197.0,200.0
+Geothlypis trichas_Common Yellowthroat,0.33622915,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12897468,202.0,205.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10194786,203.0,206.0
+Geothlypis trichas_Common Yellowthroat,0.2374124,207.0,210.0
+Cardellina canadensis_Canada Warbler,0.22743668,207.0,210.0
+Setophaga magnolia_Magnolia Warbler,0.14595526,207.0,210.0
+Geothlypis trichas_Common Yellowthroat,0.5964206,208.0,211.0
+Geothlypis trichas_Common Yellowthroat,0.6745606,209.0,212.0
+Geothlypis trichas_Common Yellowthroat,0.42759305,210.0,213.0
+Geothlypis philadelphia_Mourning Warbler,0.17039979,211.0,214.0
+Geothlypis formosa_Kentucky Warbler,0.13466331,212.0,215.0
+Setophaga cerulea_Cerulean Warbler,0.10572449,217.0,220.0
+Geothlypis formosa_Kentucky Warbler,0.14585131,222.0,225.0
+Geothlypis philadelphia_Mourning Warbler,0.10460559,222.0,225.0
+Geothlypis formosa_Kentucky Warbler,0.12954862,223.0,226.0
+Geothlypis formosa_Kentucky Warbler,0.11942765,224.0,227.0
+Geothlypis formosa_Kentucky Warbler,0.101811916,225.0,228.0
+Geothlypis trichas_Common Yellowthroat,0.3363255,230.0,233.0
+Setophaga magnolia_Magnolia Warbler,0.20651077,230.0,233.0
+Geothlypis trichas_Common Yellowthroat,0.62116694,231.0,234.0
+Geothlypis trichas_Common Yellowthroat,0.63858426,232.0,235.0
+Geothlypis trichas_Common Yellowthroat,0.20841105,233.0,236.0
+Ficedula mugimaki_Mugimaki Flycatcher,0.14555232,233.0,236.0
+Troglodytes hiemalis_Winter Wren,0.113487475,234.0,237.0
+Troglodytes hiemalis_Winter Wren,0.14759393,235.0,238.0
+Troglodytes hiemalis_Winter Wren,0.44596747,236.0,239.0
+Troglodytes hiemalis_Winter Wren,0.19769724,237.0,240.0
+Troglodytes hiemalis_Winter Wren,0.52774435,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1176398,242.0,245.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11937952,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12677361,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11138983,245.0,248.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14445327,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17128015,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14173616,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105463445,250.0,253.0
+Troglodytes hiemalis_Winter Wren,0.18476397,253.0,256.0
+Troglodytes hiemalis_Winter Wren,0.22594766,254.0,257.0
+Troglodytes hiemalis_Winter Wren,0.24632718,255.0,258.0
+Troglodytes hiemalis_Winter Wren,0.14475755,256.0,259.0
+Geothlypis philadelphia_Mourning Warbler,0.12059068,257.0,260.0
+Geothlypis philadelphia_Mourning Warbler,0.10892912,258.0,261.0
+Geothlypis formosa_Kentucky Warbler,0.10612005,258.0,261.0
+Setophaga magnolia_Magnolia Warbler,0.24741262,263.0,266.0
+Cardellina canadensis_Canada Warbler,0.1306041,263.0,266.0
+Geothlypis trichas_Common Yellowthroat,0.10932564,263.0,266.0
+Geothlypis trichas_Common Yellowthroat,0.42611426,264.0,267.0
+Geothlypis trichas_Common Yellowthroat,0.42809165,265.0,268.0
+Geothlypis trichas_Common Yellowthroat,0.13972318,266.0,269.0
+Troglodytes hiemalis_Winter Wren,0.22050814,270.0,273.0
+Troglodytes hiemalis_Winter Wren,0.11249956,271.0,274.0
+Troglodytes hiemalis_Winter Wren,0.34371957,272.0,275.0
+Vireo solitarius_Blue-headed Vireo,0.169043,277.0,280.0
+Vireo solitarius_Blue-headed Vireo,0.16662416,282.0,285.0
+Geothlypis formosa_Kentucky Warbler,0.23031288,285.0,288.0
+Geothlypis philadelphia_Mourning Warbler,0.15816063,285.0,288.0
+Geothlypis formosa_Kentucky Warbler,0.16164859,287.0,290.0
+Troglodytes hiemalis_Winter Wren,0.27317086,288.0,291.0
+Troglodytes hiemalis_Winter Wren,0.17227487,289.0,292.0
+Setophaga magnolia_Magnolia Warbler,0.43312794,292.0,295.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17438506,292.0,295.0
+Geothlypis trichas_Common Yellowthroat,0.72381496,293.0,296.0
+Geothlypis trichas_Common Yellowthroat,0.78096986,294.0,297.0
+Geothlypis trichas_Common Yellowthroat,0.73131233,295.0,298.0
+Setophaga citrina_Hooded Warbler,0.14243835,296.0,299.0
+Geothlypis formosa_Kentucky Warbler,0.104711644,296.0,299.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10599581,297.0,300.0
+Buteo platypterus_Broad-winged Hawk,0.10804037,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106592156,302.0,305.0
+Geothlypis trichas_Common Yellowthroat,0.5590702,304.0,307.0
+Geothlypis trichas_Common Yellowthroat,0.6139702,305.0,308.0
+Geothlypis trichas_Common Yellowthroat,0.6181314,306.0,309.0
+Geothlypis trichas_Common Yellowthroat,0.35759652,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12585676,308.0,311.0
+Geothlypis philadelphia_Mourning Warbler,0.11567668,308.0,311.0
+Geothlypis philadelphia_Mourning Warbler,0.35528883,309.0,312.0
+Geothlypis philadelphia_Mourning Warbler,0.35638076,310.0,313.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12745976,313.0,316.0
+Setophaga magnolia_Magnolia Warbler,0.2873899,314.0,317.0
+Geothlypis philadelphia_Mourning Warbler,0.22981805,314.0,317.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10611062,314.0,317.0
+Geothlypis trichas_Common Yellowthroat,0.77279246,315.0,318.0
+Geothlypis trichas_Common Yellowthroat,0.8388654,316.0,319.0
+Geothlypis trichas_Common Yellowthroat,0.8036038,317.0,320.0
+Pachysylvia decurtata_Lesser Greenlet,0.62287223,318.0,321.0
+Setophaga citrina_Hooded Warbler,0.13364618,318.0,321.0
+Vireo solitarius_Blue-headed Vireo,0.15282856,323.0,326.0
+Vireo solitarius_Blue-headed Vireo,0.4520833,324.0,327.0
+Setophaga magnolia_Magnolia Warbler,0.4172989,325.0,328.0
+Geothlypis trichas_Common Yellowthroat,0.14767163,325.0,328.0
+Geothlypis trichas_Common Yellowthroat,0.77010137,326.0,329.0
+Geothlypis trichas_Common Yellowthroat,0.76622665,327.0,330.0
+Geothlypis trichas_Common Yellowthroat,0.737846,328.0,331.0
+Geothlypis formosa_Kentucky Warbler,0.1328843,329.0,332.0
+Geothlypis formosa_Kentucky Warbler,0.21444379,331.0,334.0
+Geothlypis philadelphia_Mourning Warbler,0.17776255,331.0,334.0
+Geothlypis philadelphia_Mourning Warbler,0.61179715,332.0,335.0
+Geothlypis philadelphia_Mourning Warbler,0.40582055,333.0,336.0
+Geothlypis formosa_Kentucky Warbler,0.33307293,334.0,337.0
+Geothlypis philadelphia_Mourning Warbler,0.28672445,334.0,337.0
+Empidonax minimus_Least Flycatcher,0.11026185,335.0,338.0
+Geothlypis trichas_Common Yellowthroat,0.70163304,336.0,339.0
+Setophaga magnolia_Magnolia Warbler,0.2723025,336.0,339.0
+Geothlypis trichas_Common Yellowthroat,0.87125677,337.0,340.0
+Geothlypis trichas_Common Yellowthroat,0.8873472,338.0,341.0
+Geothlypis trichas_Common Yellowthroat,0.8995595,339.0,342.0
+Empidonax minimus_Least Flycatcher,0.72989285,341.0,344.0
+Empidonax minimus_Least Flycatcher,0.8369329,342.0,345.0
+Empidonax minimus_Least Flycatcher,0.64515245,343.0,346.0
+Empidonax minimus_Least Flycatcher,0.1589099,345.0,348.0
+Empidonax minimus_Least Flycatcher,0.9250486,346.0,349.0
+Empidonax minimus_Least Flycatcher,0.8680403,347.0,350.0
+Geothlypis trichas_Common Yellowthroat,0.8526131,348.0,351.0
+Geothlypis trichas_Common Yellowthroat,0.88906395,349.0,352.0
+Geothlypis trichas_Common Yellowthroat,0.8047308,350.0,353.0
+Geothlypis trichas_Common Yellowthroat,0.53036493,351.0,354.0
+Seiurus aurocapilla_Ovenbird,0.15324709,352.0,355.0
+Seiurus aurocapilla_Ovenbird,0.15914707,353.0,356.0
+Seiurus aurocapilla_Ovenbird,0.1104589,354.0,357.0
+Empidonax minimus_Least Flycatcher,0.19484594,355.0,358.0
+Empidonax minimus_Least Flycatcher,0.13245553,357.0,360.0
+Vireo solitarius_Blue-headed Vireo,0.26627395,358.0,361.0
+Geothlypis trichas_Common Yellowthroat,0.61367637,359.0,362.0
+Geothlypis trichas_Common Yellowthroat,0.882951,360.0,363.0
+Geothlypis trichas_Common Yellowthroat,0.8272511,361.0,364.0
+Geothlypis trichas_Common Yellowthroat,0.84684193,362.0,365.0
+Geothlypis formosa_Kentucky Warbler,0.2978273,363.0,366.0
+Geothlypis philadelphia_Mourning Warbler,0.36873937,364.0,367.0
+Geothlypis formosa_Kentucky Warbler,0.123985045,364.0,367.0
+Geothlypis philadelphia_Mourning Warbler,0.26184076,365.0,368.0
+Geothlypis formosa_Kentucky Warbler,0.19499499,365.0,368.0
+Empidonax minimus_Least Flycatcher,0.11973783,368.0,371.0
+Vireo solitarius_Blue-headed Vireo,0.4902414,369.0,372.0
+Vireo solitarius_Blue-headed Vireo,0.122700386,370.0,373.0
+Geothlypis trichas_Common Yellowthroat,0.36582705,371.0,374.0
+Cardellina canadensis_Canada Warbler,0.12976295,371.0,374.0
+Setophaga magnolia_Magnolia Warbler,0.12728748,371.0,374.0
+Geothlypis trichas_Common Yellowthroat,0.8099954,372.0,375.0
+Geothlypis trichas_Common Yellowthroat,0.8691967,373.0,376.0
+Geothlypis trichas_Common Yellowthroat,0.725818,374.0,377.0
+Vireo solitarius_Blue-headed Vireo,0.3457403,375.0,378.0
+Geothlypis formosa_Kentucky Warbler,0.18235242,375.0,378.0
+Vireo solitarius_Blue-headed Vireo,0.104750544,376.0,379.0
+Geothlypis philadelphia_Mourning Warbler,0.25043756,377.0,380.0
+Geothlypis formosa_Kentucky Warbler,0.20003788,377.0,380.0
+Geothlypis philadelphia_Mourning Warbler,0.5381478,378.0,381.0
+Geothlypis philadelphia_Mourning Warbler,0.61103016,379.0,382.0
+Geothlypis formosa_Kentucky Warbler,0.47778115,380.0,383.0
+Geothlypis philadelphia_Mourning Warbler,0.36145705,380.0,383.0
+Empidonax minimus_Least Flycatcher,0.29007715,381.0,384.0
+Vireo solitarius_Blue-headed Vireo,0.27438378,381.0,384.0
+Vireo solitarius_Blue-headed Vireo,0.79743016,382.0,385.0
+Empidonax minimus_Least Flycatcher,0.164032,382.0,385.0
+Geothlypis trichas_Common Yellowthroat,0.6321856,383.0,386.0
+Setophaga magnolia_Magnolia Warbler,0.21834603,383.0,386.0
+Geothlypis trichas_Common Yellowthroat,0.9156155,384.0,387.0
+Geothlypis trichas_Common Yellowthroat,0.8299413,385.0,388.0
+Geothlypis trichas_Common Yellowthroat,0.79565996,386.0,389.0
+Seiurus aurocapilla_Ovenbird,0.36115873,387.0,390.0
+Seiurus aurocapilla_Ovenbird,0.34582663,388.0,391.0
+Seiurus aurocapilla_Ovenbird,0.28022876,389.0,392.0
+Seiurus aurocapilla_Ovenbird,0.52540976,390.0,393.0
+Vireo solitarius_Blue-headed Vireo,0.3032383,391.0,394.0
+Empidonax minimus_Least Flycatcher,0.18880457,391.0,394.0
+Vireo solitarius_Blue-headed Vireo,0.42845416,392.0,395.0
+Empidonax minimus_Least Flycatcher,0.16158469,392.0,395.0
+Vireo solitarius_Blue-headed Vireo,0.28704166,393.0,396.0
+Geothlypis trichas_Common Yellowthroat,0.4825866,394.0,397.0
+Setophaga magnolia_Magnolia Warbler,0.44246858,394.0,397.0
+Geothlypis trichas_Common Yellowthroat,0.8935161,395.0,398.0
+Geothlypis trichas_Common Yellowthroat,0.8711952,396.0,399.0
+Geothlypis trichas_Common Yellowthroat,0.76574504,397.0,400.0
+Vireo solitarius_Blue-headed Vireo,0.16893382,398.0,401.0
+Vireo solitarius_Blue-headed Vireo,0.14522499,399.0,402.0
+Vireo solitarius_Blue-headed Vireo,0.46227497,400.0,403.0
+Vireo solitarius_Blue-headed Vireo,0.35371,401.0,404.0
+Empidonax minimus_Least Flycatcher,0.108730845,401.0,404.0
+Vireo solitarius_Blue-headed Vireo,0.4109929,402.0,405.0
+Vireo solitarius_Blue-headed Vireo,0.65190834,403.0,406.0
+Vireo solitarius_Blue-headed Vireo,0.78127855,404.0,407.0
+Geothlypis trichas_Common Yellowthroat,0.67058265,405.0,408.0
+Setophaga magnolia_Magnolia Warbler,0.16060182,405.0,408.0
+Geothlypis trichas_Common Yellowthroat,0.819811,406.0,409.0
+Geothlypis trichas_Common Yellowthroat,0.8376194,407.0,410.0
+Geothlypis trichas_Common Yellowthroat,0.701485,408.0,411.0
+Seiurus aurocapilla_Ovenbird,0.20675582,409.0,412.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12602428,409.0,412.0
+Seiurus aurocapilla_Ovenbird,0.26118398,410.0,413.0
+Seiurus aurocapilla_Ovenbird,0.20734663,411.0,414.0
+Vireo solitarius_Blue-headed Vireo,0.26127678,412.0,415.0
+Empidonax minimus_Least Flycatcher,0.2463962,412.0,415.0
+Empidonax minimus_Least Flycatcher,0.25263065,413.0,416.0
+Vireo solitarius_Blue-headed Vireo,0.13702177,413.0,416.0
+Vireo solitarius_Blue-headed Vireo,0.6390278,414.0,417.0
+Empidonax minimus_Least Flycatcher,0.13853504,414.0,417.0
+Empidonax minimus_Least Flycatcher,0.46133265,415.0,418.0
+Geothlypis trichas_Common Yellowthroat,0.50932306,416.0,419.0
+Setophaga magnolia_Magnolia Warbler,0.16664886,416.0,419.0
+Geothlypis trichas_Common Yellowthroat,0.6925694,417.0,420.0
+Geothlypis trichas_Common Yellowthroat,0.8298845,418.0,421.0
+Geothlypis trichas_Common Yellowthroat,0.691016,419.0,422.0
+Seiurus aurocapilla_Ovenbird,0.15027145,420.0,423.0
+Geothlypis formosa_Kentucky Warbler,0.12815753,420.0,423.0
+Seiurus aurocapilla_Ovenbird,0.18539976,421.0,424.0
+Geothlypis philadelphia_Mourning Warbler,0.18087405,421.0,424.0
+Geothlypis formosa_Kentucky Warbler,0.1311815,421.0,424.0
+Geothlypis philadelphia_Mourning Warbler,0.17473182,422.0,425.0
+Geothlypis formosa_Kentucky Warbler,0.11264677,422.0,425.0
+Geothlypis philadelphia_Mourning Warbler,0.29525417,423.0,426.0
+Geothlypis formosa_Kentucky Warbler,0.10691959,423.0,426.0
+Geothlypis trichas_Common Yellowthroat,0.36898702,427.0,430.0
+Setophaga magnolia_Magnolia Warbler,0.11724367,427.0,430.0
+Geothlypis trichas_Common Yellowthroat,0.79013777,428.0,431.0
+Geothlypis trichas_Common Yellowthroat,0.88202333,429.0,432.0
+Geothlypis trichas_Common Yellowthroat,0.6163821,430.0,433.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112095326,431.0,434.0
+Seiurus aurocapilla_Ovenbird,0.11749828,432.0,435.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10921934,432.0,435.0
+Seiurus aurocapilla_Ovenbird,0.11855022,434.0,437.0
+Geothlypis formosa_Kentucky Warbler,0.14910078,435.0,438.0
+Empidonax minimus_Least Flycatcher,0.18754925,438.0,441.0
+Geothlypis trichas_Common Yellowthroat,0.67617846,439.0,442.0
+Geothlypis trichas_Common Yellowthroat,0.8802723,440.0,443.0
+Geothlypis trichas_Common Yellowthroat,0.8900424,441.0,444.0
+Geothlypis trichas_Common Yellowthroat,0.8571813,442.0,445.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13500857,443.0,446.0
+Geothlypis formosa_Kentucky Warbler,0.14186674,445.0,448.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112969264,445.0,448.0
+Seiurus aurocapilla_Ovenbird,0.14142513,446.0,449.0
+Geothlypis formosa_Kentucky Warbler,0.14386597,447.0,450.0
+Geothlypis philadelphia_Mourning Warbler,0.12651539,447.0,450.0
+Geothlypis philadelphia_Mourning Warbler,0.25412306,448.0,451.0
+Geothlypis formosa_Kentucky Warbler,0.13468947,448.0,451.0
+Geothlypis philadelphia_Mourning Warbler,0.11512968,449.0,452.0
+Geothlypis trichas_Common Yellowthroat,0.7660583,453.0,456.0
+Geothlypis trichas_Common Yellowthroat,0.91294324,454.0,457.0
+Geothlypis trichas_Common Yellowthroat,0.8340983,455.0,458.0
+Geothlypis trichas_Common Yellowthroat,0.4830607,456.0,459.0
+Geothlypis formosa_Kentucky Warbler,0.1471898,457.0,460.0
+Empidonax minimus_Least Flycatcher,0.10716085,457.0,460.0
+Empidonax minimus_Least Flycatcher,0.16220292,458.0,461.0
+Seiurus aurocapilla_Ovenbird,0.14679646,459.0,462.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11787954,459.0,462.0
+Seiurus aurocapilla_Ovenbird,0.13960755,460.0,463.0
+Geothlypis philadelphia_Mourning Warbler,0.29035258,461.0,464.0
+Geothlypis philadelphia_Mourning Warbler,0.31714934,462.0,465.0
+Oporornis agilis_Connecticut Warbler,0.21496613,462.0,465.0
+Oporornis agilis_Connecticut Warbler,0.14463362,463.0,466.0
+Empidonax minimus_Least Flycatcher,0.4696877,464.0,467.0
+Setophaga magnolia_Magnolia Warbler,0.27071548,465.0,468.0
+Geothlypis trichas_Common Yellowthroat,0.3326466,466.0,469.0
+Geothlypis trichas_Common Yellowthroat,0.8026436,467.0,470.0
+Geothlypis trichas_Common Yellowthroat,0.6109999,468.0,471.0
+Setophaga magnolia_Magnolia Warbler,0.13590944,469.0,472.0
+Geothlypis trichas_Common Yellowthroat,0.1335443,469.0,472.0
+Geothlypis formosa_Kentucky Warbler,0.13735905,470.0,473.0
+Geothlypis formosa_Kentucky Warbler,0.11617492,472.0,475.0
+Empidonax minimus_Least Flycatcher,0.15983231,473.0,476.0
+Empidonax minimus_Least Flycatcher,0.18354031,474.0,477.0
+Geothlypis formosa_Kentucky Warbler,0.18810493,475.0,478.0
+Geothlypis philadelphia_Mourning Warbler,0.343766,476.0,479.0
+Geothlypis philadelphia_Mourning Warbler,0.21256967,477.0,480.0
+Geothlypis trichas_Common Yellowthroat,0.4881609,480.0,483.0
+Setophaga magnolia_Magnolia Warbler,0.10604915,480.0,483.0
+Geothlypis trichas_Common Yellowthroat,0.8248327,481.0,484.0
+Geothlypis trichas_Common Yellowthroat,0.8761522,482.0,485.0
+Geothlypis trichas_Common Yellowthroat,0.8007733,483.0,486.0
+Geothlypis philadelphia_Mourning Warbler,0.47486585,484.0,487.0
+Geothlypis formosa_Kentucky Warbler,0.3902621,484.0,487.0
+Empidonax virescens_Acadian Flycatcher,0.10553387,486.0,489.0
+Geothlypis formosa_Kentucky Warbler,0.102653444,486.0,489.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11686612,488.0,491.0
+Geothlypis formosa_Kentucky Warbler,0.44534183,489.0,492.0
+Geothlypis philadelphia_Mourning Warbler,0.298507,489.0,492.0
+Geothlypis philadelphia_Mourning Warbler,0.36912605,490.0,493.0
+Geothlypis formosa_Kentucky Warbler,0.104869954,490.0,493.0
+Geothlypis philadelphia_Mourning Warbler,0.41375926,491.0,494.0
+Cardellina rubrifrons_Red-faced Warbler,0.15069674,492.0,495.0
+Geothlypis trichas_Common Yellowthroat,0.4903491,494.0,497.0
+Cardellina canadensis_Canada Warbler,0.247334,494.0,497.0
+Geothlypis trichas_Common Yellowthroat,0.6861702,495.0,498.0
+Geothlypis trichas_Common Yellowthroat,0.7272702,496.0,499.0
+Geothlypis trichas_Common Yellowthroat,0.4140133,497.0,500.0
+Catharus fuscescens_Veery,0.15300113,498.0,501.0
+Catharus fuscescens_Veery,0.11544425,499.0,502.0
+Empidonax minimus_Least Flycatcher,0.5175701,500.0,503.0
+Empidonax minimus_Least Flycatcher,0.16577227,501.0,504.0
+Catharus fuscescens_Veery,0.14628741,501.0,504.0
+Catharus fuscescens_Veery,0.21471845,502.0,505.0
+Empidonax minimus_Least Flycatcher,0.16175406,502.0,505.0
+Cardellina canadensis_Canada Warbler,0.10181986,503.0,506.0
+Catharus fuscescens_Veery,0.3008619,504.0,507.0
+Empidonax minimus_Least Flycatcher,0.11182151,506.0,509.0
+Empidonax minimus_Least Flycatcher,0.17259772,507.0,510.0
+Setophaga magnolia_Magnolia Warbler,0.14886525,507.0,510.0
+Geothlypis trichas_Common Yellowthroat,0.20450902,508.0,511.0
+Geothlypis trichas_Common Yellowthroat,0.27105635,509.0,512.0
+Cardellina canadensis_Canada Warbler,0.3946526,510.0,513.0
+Geothlypis trichas_Common Yellowthroat,0.12320846,510.0,513.0
+Setophaga fusca_Blackburnian Warbler,0.102798946,511.0,514.0
+Geothlypis philadelphia_Mourning Warbler,0.115279414,512.0,515.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10897259,512.0,515.0
+Geothlypis formosa_Kentucky Warbler,0.12791851,513.0,516.0
+Geothlypis trichas_Common Yellowthroat,0.3715838,514.0,517.0
+Setophaga magnolia_Magnolia Warbler,0.11950777,514.0,517.0
+Geothlypis trichas_Common Yellowthroat,0.2018842,515.0,518.0
+Geothlypis trichas_Common Yellowthroat,0.18190895,516.0,519.0
+Empidonax minimus_Least Flycatcher,0.1135596,520.0,523.0
+Setophaga magnolia_Magnolia Warbler,0.10437444,527.0,530.0
+Geothlypis trichas_Common Yellowthroat,0.10272208,528.0,531.0

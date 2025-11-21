@@ -1,0 +1,76 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.2960219,0.0,3.0
+Cardinalis cardinalis_Northern Cardinal,0.352113,1.0,4.0
+Cardinalis cardinalis_Northern Cardinal,0.4333426,2.0,5.0
+Coccothraustes coccothraustes_Hawfinch,0.18056217,2.0,5.0
+Cardinalis cardinalis_Northern Cardinal,0.35544232,3.0,6.0
+Coccothraustes coccothraustes_Hawfinch,0.15764262,3.0,6.0
+Coccothraustes coccothraustes_Hawfinch,0.8299485,4.0,7.0
+Cardinalis cardinalis_Northern Cardinal,0.25023773,4.0,7.0
+Erithacus rubecula_European Robin,0.16085963,4.0,7.0
+Erithacus rubecula_European Robin,0.45202157,5.0,8.0
+Coccothraustes coccothraustes_Hawfinch,0.162553,5.0,8.0
+Cardinalis cardinalis_Northern Cardinal,0.2567153,6.0,9.0
+Coccothraustes coccothraustes_Hawfinch,0.1762817,6.0,9.0
+Cardinalis cardinalis_Northern Cardinal,0.19554159,7.0,10.0
+Setophaga ruticilla_American Redstart,0.20425668,8.0,11.0
+Setophaga americana_Northern Parula,0.16401695,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.12627617,8.0,11.0
+Coccothraustes coccothraustes_Hawfinch,0.35929787,9.0,12.0
+Cardinalis cardinalis_Northern Cardinal,0.2757436,9.0,12.0
+Erithacus rubecula_European Robin,0.49289468,10.0,13.0
+Coccothraustes coccothraustes_Hawfinch,0.16739091,10.0,13.0
+Erithacus rubecula_European Robin,0.6482634,11.0,14.0
+Coccothraustes coccothraustes_Hawfinch,0.4688205,11.0,14.0
+Cardinalis cardinalis_Northern Cardinal,0.38889247,12.0,15.0
+Coccothraustes coccothraustes_Hawfinch,0.10213336,12.0,15.0
+Cardinalis cardinalis_Northern Cardinal,0.25392357,13.0,16.0
+Cardinalis cardinalis_Northern Cardinal,0.23813477,14.0,17.0
+Coccothraustes coccothraustes_Hawfinch,0.20161983,14.0,17.0
+Erithacus rubecula_European Robin,0.19528839,14.0,17.0
+Cardinalis cardinalis_Northern Cardinal,0.14100054,15.0,18.0
+Cardinalis cardinalis_Northern Cardinal,0.3774011,16.0,19.0
+Coccothraustes coccothraustes_Hawfinch,0.24728549,16.0,19.0
+Cardinalis cardinalis_Northern Cardinal,0.32022008,17.0,20.0
+Coccothraustes coccothraustes_Hawfinch,0.10445828,17.0,20.0
+Coccothraustes coccothraustes_Hawfinch,0.59695196,18.0,21.0
+Cardinalis cardinalis_Northern Cardinal,0.45087263,19.0,22.0
+Cardinalis cardinalis_Northern Cardinal,0.38681433,20.0,23.0
+Cardinalis cardinalis_Northern Cardinal,0.30029196,21.0,24.0
+Cardinalis cardinalis_Northern Cardinal,0.20915154,22.0,25.0
+Cardinalis cardinalis_Northern Cardinal,0.33153084,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.16312058,24.0,27.0
+Cardinalis cardinalis_Northern Cardinal,0.2393521,25.0,28.0
+Coccothraustes coccothraustes_Hawfinch,0.46750402,26.0,29.0
+Cardinalis cardinalis_Northern Cardinal,0.1940903,26.0,29.0
+Coccothraustes coccothraustes_Hawfinch,0.50017947,27.0,30.0
+Coccothraustes coccothraustes_Hawfinch,0.2872846,28.0,31.0
+Cardinalis cardinalis_Northern Cardinal,0.14935735,28.0,31.0
+Coccothraustes coccothraustes_Hawfinch,0.15105395,29.0,32.0
+Erithacus rubecula_European Robin,0.108526625,29.0,32.0
+Cardinalis cardinalis_Northern Cardinal,0.17730403,30.0,33.0
+Cardinalis cardinalis_Northern Cardinal,0.23654509,31.0,34.0
+Coccothraustes coccothraustes_Hawfinch,0.42255476,32.0,35.0
+Erithacus rubecula_European Robin,0.35158166,32.0,35.0
+Cardinalis cardinalis_Northern Cardinal,0.11662409,32.0,35.0
+Cardinalis cardinalis_Northern Cardinal,0.48435456,33.0,36.0
+Coccothraustes coccothraustes_Hawfinch,0.21528095,33.0,36.0
+Cardinalis cardinalis_Northern Cardinal,0.20508528,34.0,37.0
+Coccothraustes coccothraustes_Hawfinch,0.119059496,34.0,37.0
+Coccothraustes coccothraustes_Hawfinch,0.66568696,35.0,38.0
+Erithacus rubecula_European Robin,0.3858383,35.0,38.0
+Cardinalis cardinalis_Northern Cardinal,0.20202494,35.0,38.0
+Coccothraustes coccothraustes_Hawfinch,0.285249,36.0,39.0
+Cardinalis cardinalis_Northern Cardinal,0.19147375,36.0,39.0
+Cardinalis cardinalis_Northern Cardinal,0.2517742,38.0,41.0
+Cardinalis cardinalis_Northern Cardinal,0.1801111,39.0,42.0
+Setophaga kirtlandii_Kirtland's Warbler,0.1014728,41.0,44.0
+Coccothraustes coccothraustes_Hawfinch,0.17255796,42.0,45.0
+Cardinalis cardinalis_Northern Cardinal,0.2494488,43.0,46.0
+Coccothraustes coccothraustes_Hawfinch,0.18836132,44.0,47.0
+Cardinalis cardinalis_Northern Cardinal,0.18179345,44.0,47.0
+Coccothraustes coccothraustes_Hawfinch,0.15023981,45.0,48.0
+Cardinalis cardinalis_Northern Cardinal,0.29731637,46.0,49.0
+Cardinalis cardinalis_Northern Cardinal,0.15910652,48.0,51.0
+Erithacus rubecula_European Robin,0.19394854,49.0,52.0
+Coccothraustes coccothraustes_Hawfinch,0.15828055,49.0,52.0

@@ -1,0 +1,232 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.87421083,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.22771737,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.12951031,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12017834,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.112832926,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23542994,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.10100563,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18246272,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24970864,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.1337017,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40737227,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.16151331,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.108685106,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1222566,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18822302,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.12851998,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.65641505,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.533957,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12021826,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.10584803,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17853972,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.17599204,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21048567,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.16916424,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14996362,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3052697,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.112279885,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.104246184,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22819528,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.15391603,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16666274,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.10955199,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13907892,30.0,33.0
+Catharus fuscescens_Veery,0.16320549,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.31297657,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20840491,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.2936344,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12648752,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.19148947,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.14749499,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.22749026,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16618122,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.42555663,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16674912,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21280591,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19157007,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.108622365,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17838278,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12570462,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12515104,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.2125902,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.31286496,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.1636521,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102323316,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.20894845,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11428627,52.0,55.0
+Catharus fuscescens_Veery,0.12557422,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13586211,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18125662,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12169746,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12441652,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10101247,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26234663,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16366677,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36484778,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.122639365,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.111011215,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22002839,65.0,68.0
+Buteo platypterus_Broad-winged Hawk,0.12047458,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.10937404,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.10165562,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.58627915,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23286077,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.34443045,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.36503437,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10276665,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.41902938,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.2341292,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10727142,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15101676,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3076063,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.14712186,73.0,76.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11674471,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.14652431,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13562585,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.20915121,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19407545,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.48318842,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17139073,81.0,84.0
+Piranga olivacea_Scarlet Tanager,0.3428396,82.0,85.0
+Dryocopus pileatus_Pileated Woodpecker,0.15715194,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11411314,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.373141,83.0,86.0
+Dryocopus pileatus_Pileated Woodpecker,0.10741504,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.43561262,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3372012,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.16761267,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.22492397,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2025431,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.27458423,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.150955,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.28784594,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19163595,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30626234,91.0,94.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.117385946,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.11571292,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.1063104,91.0,94.0
+Piranga olivacea_Scarlet Tanager,0.30569202,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18301071,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11125314,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.189532,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25119478,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27467784,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.316367,98.0,101.0
+Setophaga fusca_Blackburnian Warbler,0.12325765,98.0,101.0
+Vireo solitarius_Blue-headed Vireo,0.846864,99.0,102.0
+Vireo solitarius_Blue-headed Vireo,0.9430467,100.0,103.0
+Vireo plumbeus_Plumbeous Vireo,0.11051226,100.0,103.0
+Vireo solitarius_Blue-headed Vireo,0.9705413,101.0,104.0
+Vireo plumbeus_Plumbeous Vireo,0.10712914,101.0,104.0
+Vireo solitarius_Blue-headed Vireo,0.9834853,102.0,105.0
+Vireo solitarius_Blue-headed Vireo,0.91127616,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.18690132,104.0,107.0
+Vireo solitarius_Blue-headed Vireo,0.12183159,104.0,107.0
+Vireo solitarius_Blue-headed Vireo,0.71873623,105.0,108.0
+Vireo solitarius_Blue-headed Vireo,0.9850545,106.0,109.0
+Vireo solitarius_Blue-headed Vireo,0.98508114,107.0,110.0
+Oporornis agilis_Connecticut Warbler,0.16401348,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.14834228,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.34124392,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22579399,111.0,114.0
+Vireo solitarius_Blue-headed Vireo,0.14846478,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24689503,112.0,115.0
+Piranga olivacea_Scarlet Tanager,0.19686542,112.0,115.0
+Catharus fuscescens_Veery,0.13155678,112.0,115.0
+Piranga olivacea_Scarlet Tanager,0.3599095,113.0,116.0
+Piranga olivacea_Scarlet Tanager,0.14353359,114.0,117.0
+Vireo solitarius_Blue-headed Vireo,0.90985745,116.0,119.0
+Vireo flavifrons_Yellow-throated Vireo,0.10076102,116.0,119.0
+Vireo solitarius_Blue-headed Vireo,0.98362494,117.0,120.0
+Vireo solitarius_Blue-headed Vireo,0.9293452,118.0,121.0
+Vireo solitarius_Blue-headed Vireo,0.9852298,119.0,122.0
+Vireo solitarius_Blue-headed Vireo,0.9681957,120.0,123.0
+Vireo solitarius_Blue-headed Vireo,0.98957765,121.0,124.0
+Vireo solitarius_Blue-headed Vireo,0.98479515,122.0,125.0
+Vireo solitarius_Blue-headed Vireo,0.9690889,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2659941,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.18568523,124.0,127.0
+Piranga olivacea_Scarlet Tanager,0.13720745,124.0,127.0
+Setophaga fusca_Blackburnian Warbler,0.10865977,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3079939,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.2767318,125.0,128.0
+Setophaga fusca_Blackburnian Warbler,0.14684847,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.13497777,126.0,129.0
+Vireo solitarius_Blue-headed Vireo,0.94997984,127.0,130.0
+Vireo solitarius_Blue-headed Vireo,0.9877372,128.0,131.0
+Vireo solitarius_Blue-headed Vireo,0.96670103,129.0,132.0
+Vireo solitarius_Blue-headed Vireo,0.8651725,130.0,133.0
+Vireo solitarius_Blue-headed Vireo,0.95806396,131.0,134.0
+Vireo solitarius_Blue-headed Vireo,0.9813064,132.0,135.0
+Vireo solitarius_Blue-headed Vireo,0.9849104,133.0,136.0
+Vireo solitarius_Blue-headed Vireo,0.9382812,134.0,137.0
+Vireo solitarius_Blue-headed Vireo,0.97838914,135.0,138.0
+Vireo solitarius_Blue-headed Vireo,0.84545773,136.0,139.0
+Vireo flavifrons_Yellow-throated Vireo,0.32903853,136.0,139.0
+Piranga olivacea_Scarlet Tanager,0.14501874,137.0,140.0
+Piranga olivacea_Scarlet Tanager,0.34756154,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15115826,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2935892,139.0,142.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14598963,139.0,142.0
+Setophaga fusca_Blackburnian Warbler,0.110179454,139.0,142.0
+Vireo solitarius_Blue-headed Vireo,0.95397216,141.0,144.0
+Vireo solitarius_Blue-headed Vireo,0.9889725,142.0,145.0
+Vireo solitarius_Blue-headed Vireo,0.9333825,143.0,146.0
+Vireo solitarius_Blue-headed Vireo,0.69495887,144.0,147.0
+Vireo solitarius_Blue-headed Vireo,0.96619153,145.0,148.0
+Vireo solitarius_Blue-headed Vireo,0.9611754,146.0,149.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1763076,150.0,153.0
+Vireo solitarius_Blue-headed Vireo,0.7957427,151.0,154.0
+Vireo solitarius_Blue-headed Vireo,0.97995126,152.0,155.0
+Vireo solitarius_Blue-headed Vireo,0.9804073,153.0,156.0
+Vireo solitarius_Blue-headed Vireo,0.91695184,154.0,157.0
+Vireo solitarius_Blue-headed Vireo,0.98476,155.0,158.0
+Vireo flavifrons_Yellow-throated Vireo,0.16156596,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25165763,156.0,159.0
+Piranga olivacea_Scarlet Tanager,0.106966965,156.0,159.0
+Vireo solitarius_Blue-headed Vireo,0.14980231,158.0,161.0
+Vireo solitarius_Blue-headed Vireo,0.16088526,159.0,162.0
+Seiurus aurocapilla_Ovenbird,0.26854527,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24925165,160.0,163.0
+Setophaga fusca_Blackburnian Warbler,0.105006576,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119274266,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15614432,163.0,166.0
+Seiurus aurocapilla_Ovenbird,0.13651413,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2803938,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.23579757,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.14443134,165.0,168.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12104986,166.0,169.0
+Vireo solitarius_Blue-headed Vireo,0.98488855,167.0,170.0
+Vireo solitarius_Blue-headed Vireo,0.97887576,168.0,171.0
+Vireo solitarius_Blue-headed Vireo,0.9813223,169.0,172.0
+Vireo solitarius_Blue-headed Vireo,0.5219272,170.0,173.0
+Vireo olivaceus_Red-eyed Vireo,0.14950079,170.0,173.0
+Vireo solitarius_Blue-headed Vireo,0.6177081,171.0,174.0
+Vireo cassinii_Cassin's Vireo,0.16290444,171.0,174.0
+Buteo platypterus_Broad-winged Hawk,0.1884041,172.0,175.0
+Vireo solitarius_Blue-headed Vireo,0.86876947,173.0,176.0
+Vireo solitarius_Blue-headed Vireo,0.8571139,174.0,177.0
+Vireo olivaceus_Red-eyed Vireo,0.12808894,174.0,177.0
+Vireo solitarius_Blue-headed Vireo,0.92038643,175.0,178.0
+Vireo solitarius_Blue-headed Vireo,0.85881627,176.0,179.0
+Vireo solitarius_Blue-headed Vireo,0.9655942,178.0,181.0
+Vireo cassinii_Cassin's Vireo,0.21813533,178.0,181.0
+Vireo solitarius_Blue-headed Vireo,0.9923907,179.0,182.0
+Vireo solitarius_Blue-headed Vireo,0.98503566,180.0,183.0
+Vireo solitarius_Blue-headed Vireo,0.9961635,181.0,184.0
+Vireo solitarius_Blue-headed Vireo,0.9937364,182.0,185.0
+Vireo solitarius_Blue-headed Vireo,0.9833227,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2656404,184.0,187.0
+Seiurus aurocapilla_Ovenbird,0.11503381,184.0,187.0
+Setophaga cerulea_Cerulean Warbler,0.101267524,184.0,187.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18975051,185.0,188.0
+Seiurus aurocapilla_Ovenbird,0.11995932,185.0,188.0
+Vireo solitarius_Blue-headed Vireo,0.17638165,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14460154,186.0,189.0
+Setophaga citrina_Hooded Warbler,0.10858664,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13735731,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12330391,188.0,191.0
+Hylocichla mustelina_Wood Thrush,0.1047971,188.0,191.0
+Hylocichla mustelina_Wood Thrush,0.20880893,189.0,192.0
+Vireo solitarius_Blue-headed Vireo,0.13369046,192.0,194.32802721088436

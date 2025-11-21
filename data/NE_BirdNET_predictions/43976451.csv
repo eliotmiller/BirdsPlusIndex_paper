@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.98961407,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.9691417,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.91430044,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.9231292,3.0,6.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.36714596,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.9601832,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.96253157,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.9753906,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.9943336,7.0,10.0
+Junco hyemalis_Dark-eyed Junco,0.97282416,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.9910244,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.910913,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33848247,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.8476819,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37362862,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12833916,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5866012,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.58136135,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.95410264,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43219644,14.0,17.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10756514,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.9667949,15.0,18.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.21844533,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.7971589,16.0,19.0
+Junco hyemalis_Dark-eyed Junco,0.95512086,17.0,20.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.15694003,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.8851403,18.0,21.0
+Passerella iliaca_Fox Sparrow,0.10689225,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.9610595,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.32315478,20.0,23.0
+Tamiasciurus hudsonicus_Red Squirrel,0.100959025,25.0,28.0
+Tamiasciurus hudsonicus_Red Squirrel,0.35727328,27.0,30.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13248287,28.0,31.0
+Tamiasciurus hudsonicus_Red Squirrel,0.23659009,31.0,34.0
+Tamiasciurus hudsonicus_Red Squirrel,0.52667147,32.0,35.0
+Tamiasciurus hudsonicus_Red Squirrel,0.4036326,33.0,36.0
+Tamiasciurus hudsonicus_Red Squirrel,0.39311904,34.0,37.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2257937,35.0,38.0
+Tamias striatus_Eastern Chipmunk,0.3721133,37.0,40.0
+Tamiasciurus hudsonicus_Red Squirrel,0.34401184,37.0,40.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13908859,38.0,41.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20578668,39.0,42.0
+Buteo ridgwayi_Ridgway's Hawk,0.14347649,39.0,42.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13467912,40.0,43.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17214549,41.0,44.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13854443,42.0,45.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11976912,44.0,47.0
+Buteo ridgwayi_Ridgway's Hawk,0.10067182,44.0,47.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17462395,45.0,48.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2451585,48.0,51.0
+Buteo ridgwayi_Ridgway's Hawk,0.13450147,50.0,53.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2866076,52.0,55.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17065659,53.0,56.0
+Tamiasciurus hudsonicus_Red Squirrel,0.110274434,57.0,60.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16673315,59.0,62.0
+Tamiasciurus hudsonicus_Red Squirrel,0.29024926,60.0,63.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13700324,61.0,64.0
+Tamiasciurus hudsonicus_Red Squirrel,0.22214878,64.0,67.0
+Tamias striatus_Eastern Chipmunk,0.19431508,64.0,67.0
+Ramphocelus bresilius_Brazilian Tanager,0.13846213,64.0,67.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5062387,66.0,69.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2881623,68.0,71.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3956295,69.0,72.0
+Tamiasciurus hudsonicus_Red Squirrel,0.108681865,70.0,73.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1647369,74.0,77.0
+Tamiasciurus hudsonicus_Red Squirrel,0.108376645,76.0,78.45600907029478

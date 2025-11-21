@@ -1,0 +1,102 @@
+species,score,start_time,end_time
+Lithobates clamitans_Green Frog,0.36100176,3.0,6.0
+Ardea herodias_Great Blue Heron,0.3078605,7.0,10.0
+Ardea herodias_Great Blue Heron,0.13941611,8.0,11.0
+Ardea herodias_Great Blue Heron,0.24936332,9.0,12.0
+Ardea alba_Great Egret,0.11454861,10.0,13.0
+Ardea herodias_Great Blue Heron,0.13793163,11.0,14.0
+Ardea alba_Great Egret,0.12955433,11.0,14.0
+Nannopterum auritum_Double-crested Cormorant,0.11372054,11.0,14.0
+Ardea alba_Great Egret,0.45433545,12.0,15.0
+Ardea herodias_Great Blue Heron,0.39303777,12.0,15.0
+Ardea alba_Great Egret,0.19473296,13.0,16.0
+Ardea herodias_Great Blue Heron,0.10574426,13.0,16.0
+Ardea alba_Great Egret,0.51495063,14.0,17.0
+Phalacrocorax carbo_Great Cormorant,0.44452065,14.0,17.0
+Egretta garzetta_Little Egret,0.18834956,14.0,17.0
+Ardea herodias_Great Blue Heron,0.17120357,14.0,17.0
+Podiceps cristatus_Great Crested Grebe,0.11042252,14.0,17.0
+Egretta garzetta_Little Egret,0.18299644,15.0,18.0
+Ardea alba_Great Egret,0.16496456,15.0,18.0
+Ardea herodias_Great Blue Heron,0.1113323,15.0,18.0
+Phalacrocorax carbo_Great Cormorant,0.106158204,15.0,18.0
+Ardea herodias_Great Blue Heron,0.36094904,16.0,19.0
+Ardea alba_Great Egret,0.16333398,16.0,19.0
+Ardea herodias_Great Blue Heron,0.49416158,17.0,20.0
+Ardea herodias_Great Blue Heron,0.10947743,18.0,21.0
+Ardea alba_Great Egret,0.1902519,19.0,22.0
+Ardea herodias_Great Blue Heron,0.10863068,19.0,22.0
+Egretta garzetta_Little Egret,0.10196551,19.0,22.0
+Ardea herodias_Great Blue Heron,0.15615861,20.0,23.0
+Lithobates catesbeianus_American Bullfrog,0.13557881,20.0,23.0
+Ardea herodias_Great Blue Heron,0.1209582,21.0,24.0
+Plegadis falcinellus_Glossy Ibis,0.10236008,21.0,24.0
+Phalacrocorax carbo_Great Cormorant,0.2730384,24.0,27.0
+Egretta garzetta_Little Egret,0.14919348,24.0,27.0
+Sicalis uropygialis_Bright-rumped Yellow-Finch,0.20631902,28.0,31.0
+Lithobates clamitans_Green Frog,0.31452224,29.0,32.0
+Coragyps atratus_Black Vulture,0.12213708,29.0,32.0
+Lithobates clamitans_Green Frog,0.39707696,30.0,33.0
+Ardea herodias_Great Blue Heron,0.14485805,32.0,35.0
+Podilymbus podiceps_Pied-billed Grebe,0.13360721,32.0,35.0
+Coragyps atratus_Black Vulture,0.18492496,34.0,37.0
+Porphyrio flavirostris_Azure Gallinule,0.12431065,34.0,37.0
+Coragyps atratus_Black Vulture,0.23685454,35.0,38.0
+Coragyps atratus_Black Vulture,0.13744876,39.0,42.0
+Coragyps atratus_Black Vulture,0.2232584,40.0,43.0
+Coragyps atratus_Black Vulture,0.17264077,41.0,44.0
+Centrocercus urophasianus_Greater Sage-Grouse,0.14308982,43.0,46.0
+Bucorvus leadbeateri_Southern Ground-Hornbill,0.39988232,46.0,49.0
+Strix nebulosa_Great Gray Owl,0.12950279,46.0,49.0
+Baeolophus inornatus_Oak Titmouse,0.12618001,51.0,54.0
+Melospiza melodia_Song Sparrow,0.24052796,52.0,55.0
+Columba livia_Rock Pigeon,0.13062388,53.0,56.0
+Nannopterum auritum_Double-crested Cormorant,0.18194968,54.0,57.0
+Lithobates catesbeianus_American Bullfrog,0.15725236,56.0,59.0
+Coragyps atratus_Black Vulture,0.20384909,59.0,62.0
+Coragyps atratus_Black Vulture,0.14752066,60.0,63.0
+Baeolophus inornatus_Oak Titmouse,0.19869459,61.0,64.0
+Melospiza melodia_Song Sparrow,0.47884905,62.0,65.0
+Melospiza melodia_Song Sparrow,0.14611752,63.0,66.0
+Ardea herodias_Great Blue Heron,0.11746836,63.0,66.0
+Melospiza melodia_Song Sparrow,0.28976014,64.0,67.0
+Nannopterum auritum_Double-crested Cormorant,0.12733129,64.0,67.0
+Lithobates catesbeianus_American Bullfrog,0.33746523,66.0,69.0
+Lithobates clamitans_Green Frog,0.33825135,67.0,70.0
+Lithobates catesbeianus_American Bullfrog,0.2149228,67.0,70.0
+Lithobates catesbeianus_American Bullfrog,0.53686094,68.0,71.0
+Lithobates clamitans_Green Frog,0.3733672,68.0,71.0
+Spinus lawrencei_Lawrence's Goldfinch,0.5438087,71.0,74.0
+Actitis macularius_Spotted Sandpiper,0.19824445,72.0,75.0
+Melospiza melodia_Song Sparrow,0.112689644,72.0,75.0
+Melospiza melodia_Song Sparrow,0.26052904,73.0,76.0
+Peucaea carpalis_Rufous-winged Sparrow,0.1089052,73.0,76.0
+Ardea herodias_Great Blue Heron,0.5417598,74.0,77.0
+Melospiza melodia_Song Sparrow,0.39196458,74.0,77.0
+Ardea herodias_Great Blue Heron,0.7209075,75.0,78.0
+Ardea herodias_Great Blue Heron,0.73606473,76.0,79.0
+Ardea herodias_Great Blue Heron,0.18993537,77.0,80.0
+Ardea herodias_Great Blue Heron,0.3875246,78.0,81.0
+Ardea alba_Great Egret,0.1040267,78.0,81.0
+Ardea herodias_Great Blue Heron,0.8229239,79.0,82.0
+Ardea alba_Great Egret,0.2592789,79.0,82.0
+Nannopterum auritum_Double-crested Cormorant,0.23949201,79.0,82.0
+Ardea herodias_Great Blue Heron,0.81784034,80.0,83.0
+Ardea herodias_Great Blue Heron,0.850533,81.0,84.0
+Nannopterum auritum_Double-crested Cormorant,0.32321328,81.0,84.0
+Ardea alba_Great Egret,0.11152991,81.0,84.0
+Ardea herodias_Great Blue Heron,0.5512789,82.0,85.0
+Nannopterum auritum_Double-crested Cormorant,0.14058125,82.0,85.0
+Melospiza melodia_Song Sparrow,0.12216219,82.0,85.0
+Melospiza melodia_Song Sparrow,0.22288655,83.0,86.0
+Nannopterum auritum_Double-crested Cormorant,0.1266159,83.0,86.0
+Ardea herodias_Great Blue Heron,0.117120005,83.0,86.0
+Nannopterum auritum_Double-crested Cormorant,0.49550807,84.0,87.0
+Ardea herodias_Great Blue Heron,0.3592184,84.0,87.0
+Melospiza melodia_Song Sparrow,0.119320996,84.0,87.0
+Lithobates catesbeianus_American Bullfrog,0.3225221,88.0,91.0
+Lithobates catesbeianus_American Bullfrog,0.2758807,89.0,92.0
+Psophodes nigrogularis_Western Whipbird,0.19530538,92.0,95.0
+Acanthorhynchus superciliosus_Western Spinebill,0.11433048,92.0,95.0
+Psophodes nigrogularis_Western Whipbird,0.23507647,93.0,95.88
+Acanthorhynchus superciliosus_Western Spinebill,0.1055924,93.0,95.88

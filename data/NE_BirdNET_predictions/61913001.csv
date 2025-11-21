@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.13627629,0.0,3.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11137389,0.0,3.0
+Spizella pusilla_Field Sparrow,0.109212846,0.0,3.0
+Spizella pallida_Clay-colored Sparrow,0.2980885,1.0,4.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1668125,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.24495086,2.0,5.0
+Ammodramus savannarum_Grasshopper Sparrow,0.29562673,3.0,6.0
+Spizella pallida_Clay-colored Sparrow,0.2514607,3.0,6.0
+Centronyx henslowii_Henslow's Sparrow,0.14019287,3.0,6.0
+Spiza americana_Dickcissel,0.11632406,3.0,6.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30367032,4.0,7.0
+Spiza americana_Dickcissel,0.11790593,4.0,7.0
+Colinus virginianus_Northern Bobwhite,0.11634858,4.0,7.0
+Spizella pallida_Clay-colored Sparrow,0.32819584,7.0,10.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19201787,7.0,10.0
+Spizella pallida_Clay-colored Sparrow,0.33754116,8.0,11.0
+Spizella pallida_Clay-colored Sparrow,0.3469345,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19449696,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3139572,10.0,13.0
+Spizella pusilla_Field Sparrow,0.11373994,10.0,13.0
+Setophaga kirtlandii_Kirtland's Warbler,0.26780814,13.0,16.0
+Setophaga kirtlandii_Kirtland's Warbler,0.16435002,14.0,17.0
+Spizella pallida_Clay-colored Sparrow,0.17376827,15.0,18.0
+Spizella pusilla_Field Sparrow,0.1020075,15.0,18.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13491343,16.0,19.0
+Spizella pallida_Clay-colored Sparrow,0.13478515,16.0,19.0
+Colinus virginianus_Northern Bobwhite,0.13257353,16.0,19.0
+Peucaea cassinii_Cassin's Sparrow,0.14152803,17.0,20.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10352241,18.0,21.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3082756,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.2082914,19.0,22.0
+Spiza americana_Dickcissel,0.16763797,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.12635025,20.0,23.0
+Centronyx henslowii_Henslow's Sparrow,0.12368206,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.110497564,20.0,23.0
+Spiza americana_Dickcissel,0.10369539,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.2108885,21.0,24.0
+Melospiza melodia_Song Sparrow,0.11189376,21.0,24.0
+Spizella pallida_Clay-colored Sparrow,0.12511036,22.0,25.0
+Spizella pusilla_Field Sparrow,0.12000782,22.0,25.0
+Spizella pusilla_Field Sparrow,0.1719744,23.0,26.0
+Spizella pallida_Clay-colored Sparrow,0.1689163,23.0,26.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15208492,23.0,26.0
+Centronyx henslowii_Henslow's Sparrow,0.1398697,23.0,26.0
+Spizella pusilla_Field Sparrow,0.31374195,24.0,27.0
+Centronyx henslowii_Henslow's Sparrow,0.24144153,24.0,27.0
+Spizella pallida_Clay-colored Sparrow,0.20557295,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.10463087,24.0,27.0
+Spizella pusilla_Field Sparrow,0.2934045,25.0,28.0
+Vermivora cyanoptera_Blue-winged Warbler,0.17057578,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13221602,25.0,28.0
+Setophaga kirtlandii_Kirtland's Warbler,0.1285421,25.0,28.0
+Centronyx henslowii_Henslow's Sparrow,0.11785848,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3033227,26.0,29.0
+Centronyx henslowii_Henslow's Sparrow,0.1995264,26.0,29.0
+Spizella pusilla_Field Sparrow,0.17527142,26.0,29.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13009442,26.0,29.0
+Spizella pallida_Clay-colored Sparrow,0.11796387,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16238958,27.0,30.0
+Spizella pusilla_Field Sparrow,0.12894551,28.0,31.0
+Sturnella magna_Eastern Meadowlark,0.28908125,29.0,32.0
+Spizella pusilla_Field Sparrow,0.18912163,29.0,32.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16683392,29.0,32.0
+Spizella pallida_Clay-colored Sparrow,0.20552476,30.0,33.0
+Pooecetes gramineus_Vesper Sparrow,0.11373229,30.0,33.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10626184,30.0,33.0
+Spizella pallida_Clay-colored Sparrow,0.15677632,31.0,34.0
+Spizella pusilla_Field Sparrow,0.1535411,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11878197,31.0,34.0
+Pooecetes gramineus_Vesper Sparrow,0.10529061,31.0,34.0
+Spizella pallida_Clay-colored Sparrow,0.10054442,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19741292,34.0,37.0
+Spizella pallida_Clay-colored Sparrow,0.14097653,34.0,37.0
+Spiza americana_Dickcissel,0.111574404,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.11093895,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.16305813,35.0,38.0
+Spizella pallida_Clay-colored Sparrow,0.35591695,36.0,38.88
+Pooecetes gramineus_Vesper Sparrow,0.2234802,36.0,38.88
+Ammodramus savannarum_Grasshopper Sparrow,0.1652804,36.0,38.88
+Spizella pusilla_Field Sparrow,0.10502536,36.0,38.88

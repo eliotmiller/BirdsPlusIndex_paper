@@ -1,0 +1,37 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.6743277,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.20357801,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.15799175,2.0,5.0
+Dumetella carolinensis_Gray Catbird,0.18446979,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.12576687,3.0,6.0
+Dumetella carolinensis_Gray Catbird,0.18152685,4.0,7.0
+Dumetella carolinensis_Gray Catbird,0.33093086,8.0,11.0
+Piranga rubra_Summer Tanager,0.16667888,11.0,14.0
+Sylvia atricapilla_Eurasian Blackcap,0.14442915,13.0,16.0
+Sylvia atricapilla_Eurasian Blackcap,0.3929454,14.0,17.0
+Sylvia atricapilla_Eurasian Blackcap,0.31923106,15.0,18.0
+Passer domesticus_House Sparrow,0.15945522,19.0,22.0
+Thryothorus ludovicianus_Carolina Wren,0.12702587,24.0,27.0
+Vireo griseus_White-eyed Vireo,0.38031825,27.0,30.0
+Ixobrychus dubius_Black-backed Bittern,0.26349583,30.0,33.0
+Acrocephalus australis_Australian Reed Warbler,0.10749776,30.0,33.0
+Thryothorus ludovicianus_Carolina Wren,0.51497585,32.0,35.0
+Thryothorus ludovicianus_Carolina Wren,0.17868935,33.0,36.0
+Orthotomus ruficeps_Ashy Tailorbird,0.17435269,36.0,39.0
+Ixobrychus dubius_Black-backed Bittern,0.11369849,36.0,39.0
+Orthotomus ruficeps_Ashy Tailorbird,0.6430444,37.0,40.0
+Rhipidura javanica_Malaysian Pied-Fantail,0.3101679,37.0,40.0
+Orthotomus sepium_Olive-backed Tailorbird,0.21041551,37.0,40.0
+Orthotomus ruficeps_Ashy Tailorbird,0.23911028,38.0,41.0
+Orthotomus sepium_Olive-backed Tailorbird,0.13058831,38.0,41.0
+Rhipidura javanica_Malaysian Pied-Fantail,0.10675887,38.0,41.0
+Chaetura pelagica_Chimney Swift,0.4313505,44.0,47.0
+Chaetura pelagica_Chimney Swift,0.12608778,45.0,48.0
+Chaetura pelagica_Chimney Swift,0.77495927,46.0,49.0
+Spinus pinus_Pine Siskin,0.13360265,55.0,58.0
+Haemorhous purpureus_Purple Finch,0.12806536,55.0,58.0
+Vireo griseus_White-eyed Vireo,0.124785185,58.0,61.0
+Chordeiles minor_Common Nighthawk,0.31667885,59.0,62.0
+Poecile atricapillus_Black-capped Chickadee,0.11897836,65.0,68.0
+Megaceryle alcyon_Belted Kingfisher,0.10696403,69.0,72.0
+Megaceryle alcyon_Belted Kingfisher,0.18174444,71.0,74.0

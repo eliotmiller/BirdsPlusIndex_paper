@@ -1,0 +1,86 @@
+species,score,start_time,end_time
+Quiscalus quiscula_Common Grackle,0.31720695,0.0,3.0
+Pandion haliaetus_Osprey,0.9208416,1.0,4.0
+Pandion haliaetus_Osprey,0.9344734,2.0,5.0
+Pandion haliaetus_Osprey,0.97670263,3.0,6.0
+Pandion haliaetus_Osprey,0.9896114,4.0,7.0
+Pandion haliaetus_Osprey,0.880312,5.0,8.0
+Pandion haliaetus_Osprey,0.91183376,6.0,9.0
+Pandion haliaetus_Osprey,0.95755094,7.0,10.0
+Pandion haliaetus_Osprey,0.9679937,8.0,11.0
+Pandion haliaetus_Osprey,0.9085485,9.0,12.0
+Pandion haliaetus_Osprey,0.92715526,10.0,13.0
+Pandion haliaetus_Osprey,0.73294246,11.0,14.0
+Cyanocorax yncas_Green Jay,0.14946364,14.0,17.0
+Icterus spurius_Orchard Oriole,0.15606149,17.0,20.0
+Icterus spurius_Orchard Oriole,0.25973317,18.0,21.0
+Formicivora grisea_White-fringed Antwren,0.105238736,20.0,23.0
+Pandion haliaetus_Osprey,0.8776034,21.0,24.0
+Pandion haliaetus_Osprey,0.9741994,22.0,25.0
+Pandion haliaetus_Osprey,0.9890259,23.0,26.0
+Pandion haliaetus_Osprey,0.9989662,24.0,27.0
+Pandion haliaetus_Osprey,0.998209,25.0,28.0
+Pandion haliaetus_Osprey,0.9972927,26.0,29.0
+Pandion haliaetus_Osprey,0.99457693,27.0,30.0
+Pandion haliaetus_Osprey,0.9719936,28.0,31.0
+Pandion haliaetus_Osprey,0.8972298,29.0,32.0
+Pandion haliaetus_Osprey,0.8294162,30.0,33.0
+Pandion haliaetus_Osprey,0.94004846,34.0,37.0
+Pandion haliaetus_Osprey,0.993061,35.0,38.0
+Pandion haliaetus_Osprey,0.996114,36.0,39.0
+Pandion haliaetus_Osprey,0.99675214,37.0,40.0
+Pandion haliaetus_Osprey,0.95269096,38.0,41.0
+Pandion haliaetus_Osprey,0.70791864,39.0,42.0
+Pandion haliaetus_Osprey,0.27274275,40.0,43.0
+Pandion haliaetus_Osprey,0.99732506,51.0,54.0
+Pandion haliaetus_Osprey,0.99919206,52.0,55.0
+Pandion haliaetus_Osprey,0.98970467,53.0,56.0
+Pandion haliaetus_Osprey,0.9754892,54.0,57.0
+Pandion haliaetus_Osprey,0.98306006,55.0,58.0
+Pandion haliaetus_Osprey,0.99730885,56.0,59.0
+Pandion haliaetus_Osprey,0.9815196,57.0,60.0
+Xiphorhynchus susurrans_Cocoa Woodcreeper,0.20018415,57.0,60.0
+Pandion haliaetus_Osprey,0.5117178,58.0,61.0
+Quiscalus quiscula_Common Grackle,0.9300679,59.0,62.0
+Lampropsar tanagrinus_Velvet-fronted Grackle,0.3665424,60.0,63.0
+Quiscalus quiscula_Common Grackle,0.30847216,60.0,63.0
+Pandion haliaetus_Osprey,0.95571524,61.0,64.0
+Quiscalus quiscula_Common Grackle,0.39483222,61.0,64.0
+Pandion haliaetus_Osprey,0.8384516,62.0,65.0
+Xiphorhynchus susurrans_Cocoa Woodcreeper,0.12543131,62.0,65.0
+Pandion haliaetus_Osprey,0.9051009,63.0,66.0
+Pandion haliaetus_Osprey,0.72346514,64.0,67.0
+Pandion haliaetus_Osprey,0.44545096,65.0,68.0
+Pandion haliaetus_Osprey,0.9093011,66.0,69.0
+Spizaetus ornatus_Ornate Hawk-Eagle,0.13332707,66.0,69.0
+Stephanoaetus coronatus_Crowned Eagle,0.13241738,66.0,69.0
+Pandion haliaetus_Osprey,0.16334605,67.0,70.0
+Rallus limicola_Virginia Rail,0.27769852,69.0,72.0
+Pandion haliaetus_Osprey,0.83069545,70.0,73.0
+Pandion haliaetus_Osprey,0.98484355,71.0,74.0
+Pandion haliaetus_Osprey,0.9945564,72.0,75.0
+Pandion haliaetus_Osprey,0.99029326,73.0,76.0
+Pandion haliaetus_Osprey,0.7468921,74.0,77.0
+Vermivora cyanoptera_Blue-winged Warbler,0.112574466,77.0,80.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13365452,78.0,81.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10460352,78.0,81.0
+Pandion haliaetus_Osprey,0.96719253,79.0,82.0
+Pandion haliaetus_Osprey,0.9797871,80.0,83.0
+Pandion haliaetus_Osprey,0.9564682,81.0,84.0
+Pandion haliaetus_Osprey,0.9387831,82.0,85.0
+Pandion haliaetus_Osprey,0.88940525,83.0,86.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.29564098,86.0,89.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.39005232,87.0,90.0
+Piprites griseiceps_Gray-headed Piprites,0.12699834,87.0,90.0
+Pandion haliaetus_Osprey,0.18557699,95.0,98.0
+Dysithamnus striaticeps_Streak-crowned Antvireo,0.10260194,95.0,98.0
+Pandion haliaetus_Osprey,0.67021286,96.0,99.0
+Pandion haliaetus_Osprey,0.86131424,97.0,100.0
+Pandion haliaetus_Osprey,0.9836547,98.0,101.0
+Pandion haliaetus_Osprey,0.9456154,99.0,102.0
+Dysithamnus striaticeps_Streak-crowned Antvireo,0.111090064,100.0,103.0
+Dysithamnus striaticeps_Streak-crowned Antvireo,0.22432682,101.0,104.0
+Pandion haliaetus_Osprey,0.43895403,102.0,105.0
+Pandion haliaetus_Osprey,0.3226325,103.0,106.0
+Pandion haliaetus_Osprey,0.48914832,104.0,106.44
+Stephanoaetus coronatus_Crowned Eagle,0.100481674,104.0,106.44

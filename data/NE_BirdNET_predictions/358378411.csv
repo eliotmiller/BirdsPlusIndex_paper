@@ -1,0 +1,14 @@
+species,score,start_time,end_time
+Ardea alba_Great Egret,0.9907803,0.0,3.0
+Tringa flavipes_Lesser Yellowlegs,0.21484342,0.0,3.0
+Ardea alba_Great Egret,0.9155789,1.0,4.0
+Tringa flavipes_Lesser Yellowlegs,0.6296605,1.0,4.0
+Tringa flavipes_Lesser Yellowlegs,0.77308625,2.0,5.0
+Ardea alba_Great Egret,0.61523294,2.0,5.0
+Tringa flavipes_Lesser Yellowlegs,0.9162682,3.0,6.0
+Ardea alba_Great Egret,0.48665747,3.0,6.0
+Pygoscelis papua_Gentoo Penguin,0.13077925,3.0,6.0
+Tringa flavipes_Lesser Yellowlegs,0.91663146,4.0,7.0
+Tringa flavipes_Lesser Yellowlegs,0.98304385,5.0,8.0
+Tringa flavipes_Lesser Yellowlegs,0.9543002,6.0,9.0
+Tringa flavipes_Lesser Yellowlegs,0.7838228,7.0,9.84

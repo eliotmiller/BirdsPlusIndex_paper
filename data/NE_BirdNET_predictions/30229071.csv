@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Bombycilla cedrorum_Cedar Waxwing,0.8875756,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.96634835,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.9880504,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.9551289,3.0,6.0
+Sturnus vulgaris_European Starling,0.13057819,6.0,9.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.23855364,7.0,10.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.17187433,8.0,11.0
+Sturnus vulgaris_European Starling,0.203839,9.0,12.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2953381,10.0,13.0
+Sturnus vulgaris_European Starling,0.1071885,10.0,13.0
+Bombycilla cedrorum_Cedar Waxwing,0.858039,21.0,24.0
+Bombycilla cedrorum_Cedar Waxwing,0.9846273,22.0,25.0
+Bombycilla cedrorum_Cedar Waxwing,0.9805345,23.0,26.0
+Bombycilla cedrorum_Cedar Waxwing,0.54102004,24.0,27.0
+Zenaida macroura_Mourning Dove,0.26403433,24.0,27.0
+Bombycilla cedrorum_Cedar Waxwing,0.67206585,25.0,28.0
+Zenaida macroura_Mourning Dove,0.10634112,25.0,28.0
+Bombycilla cedrorum_Cedar Waxwing,0.8990383,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.75621736,27.0,30.0
+Bombycilla cedrorum_Cedar Waxwing,0.95642513,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.96176517,29.0,32.0
+Bombycilla cedrorum_Cedar Waxwing,0.907071,30.0,33.0
+Bombycilla cedrorum_Cedar Waxwing,0.9070208,31.0,34.0
+Bombycilla cedrorum_Cedar Waxwing,0.94039613,32.0,35.0
+Bombycilla cedrorum_Cedar Waxwing,0.7724974,33.0,36.0
+Ixobrychus exilis_Least Bittern,0.11405687,37.0,40.0
+Bombycilla cedrorum_Cedar Waxwing,0.25572073,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.9434625,39.0,42.0
+Bombycilla cedrorum_Cedar Waxwing,0.7961619,40.0,43.0
+Zenaida macroura_Mourning Dove,0.25585654,40.0,43.0
+Bombycilla cedrorum_Cedar Waxwing,0.9679091,41.0,44.0
+Zenaida macroura_Mourning Dove,0.25416106,41.0,44.0
+Bombycilla cedrorum_Cedar Waxwing,0.93945944,42.0,45.0
+Zenaida macroura_Mourning Dove,0.25062954,42.0,45.0
+Bombycilla cedrorum_Cedar Waxwing,0.96112216,43.0,46.0
+Zenaida macroura_Mourning Dove,0.20017327,43.0,46.0
+Bombycilla cedrorum_Cedar Waxwing,0.876648,44.0,47.0
+Bombycilla cedrorum_Cedar Waxwing,0.59628147,45.0,48.0
+Bombycilla cedrorum_Cedar Waxwing,0.19881333,46.0,49.0
+Bombycilla cedrorum_Cedar Waxwing,0.32330182,48.0,51.0
+Bombycilla cedrorum_Cedar Waxwing,0.9878491,49.0,52.0
+Bombycilla cedrorum_Cedar Waxwing,0.28139538,50.0,53.0
+Bombycilla cedrorum_Cedar Waxwing,0.8880641,51.0,54.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3061115,52.0,55.0
+Bombycilla cedrorum_Cedar Waxwing,0.10802551,52.0,55.0
+Gallinula galeata_Common Gallinule,0.39984724,53.0,56.0
+Porzana carolina_Sora,0.27519062,53.0,56.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20485325,53.0,56.0
+Gallinula galeata_Common Gallinule,0.64954233,54.0,57.0
+Porzana carolina_Sora,0.43359214,54.0,57.0
+Podilymbus podiceps_Pied-billed Grebe,0.14073351,54.0,57.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.10445183,54.0,57.0
+Gallinula galeata_Common Gallinule,0.45354927,55.0,58.0
+Porzana carolina_Sora,0.14632206,55.0,58.0
+Agelaius phoeniceus_Red-winged Blackbird,0.114372104,56.0,59.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13908294,57.0,60.0
+Tachycineta bicolor_Tree Swallow,0.10885819,57.0,60.0
+Lophodytes cucullatus_Hooded Merganser,0.13556257,59.0,62.0
+Asthenes coryi_Ochre-browed Thistletail,0.21768631,60.0,63.0
+Lophodytes cucullatus_Hooded Merganser,0.13182239,62.0,65.0
+Spatula discors_Blue-winged Teal,0.12042384,64.0,66.12
