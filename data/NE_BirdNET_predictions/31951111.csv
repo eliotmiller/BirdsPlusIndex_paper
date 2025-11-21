@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.35787883,1.0,4.0
+Human non-vocal_Human non-vocal,0.16362697,1.0,4.0
+Strix varia_Barred Owl,0.51941556,2.0,5.0
+Strix occidentalis_Spotted Owl,0.1484392,2.0,5.0
+Ninox novaeseelandiae_Morepork,0.114433885,2.0,5.0
+Strix varia_Barred Owl,0.56311303,3.0,6.0
+Strix occidentalis_Spotted Owl,0.10423189,3.0,6.0
+Arremon brunneinucha_Chestnut-capped Brushfinch,0.22565788,4.0,7.0
+Sporophila schistacea_Slate-colored Seedeater,0.1264123,4.0,7.0
+Bubo virginianus_Great Horned Owl,0.6885758,5.0,8.0
+Bubo virginianus_Great Horned Owl,0.5517662,7.0,10.0
+Bubo virginianus_Great Horned Owl,0.12533489,8.0,11.0
+Strix varia_Barred Owl,0.8174843,9.0,12.0
+Ninox japonica_Northern Boobook,0.18485908,9.0,12.0
+Strix occidentalis_Spotted Owl,0.18259561,9.0,12.0
+Strix varia_Barred Owl,0.893869,10.0,13.0
+Strix occidentalis_Spotted Owl,0.39400655,10.0,13.0
+Strix varia_Barred Owl,0.9054835,11.0,14.0
+Strix occidentalis_Spotted Owl,0.37919837,11.0,14.0
+Tyto tenebricosa_Sooty Owl,0.10532286,11.0,14.0
+Tyto tenebricosa_Sooty Owl,0.23280069,12.0,15.0
+Bubo virginianus_Great Horned Owl,0.4535133,13.0,16.0
+Bubo virginianus_Great Horned Owl,0.32226834,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11043988,15.0,18.0
+Human non-vocal_Human non-vocal,0.18979184,16.0,19.0
+Strix aluco_Tawny Owl,0.18813585,16.0,19.0
+Strix aluco_Tawny Owl,0.65620744,17.0,20.0
+Strix aluco_Tawny Owl,0.65027034,18.0,21.0
+Strix varia_Barred Owl,0.6212694,19.0,22.0
+Strix varia_Barred Owl,0.9402516,20.0,23.0
+Strix aluco_Tawny Owl,0.26707074,20.0,23.0
+Strix varia_Barred Owl,0.90035534,21.0,24.0
+Strix aluco_Tawny Owl,0.4709542,21.0,24.0
+Strix occidentalis_Spotted Owl,0.14887497,21.0,24.0
+Strix aluco_Tawny Owl,0.8484867,22.0,25.0
+Strix varia_Barred Owl,0.56241465,22.0,25.0
+Bubo virginianus_Great Horned Owl,0.1888858,23.0,26.0
+Strix varia_Barred Owl,0.58640647,24.0,27.0
+Bubo virginianus_Great Horned Owl,0.10517355,24.0,27.0
+Strix varia_Barred Owl,0.40011802,25.0,28.0
+Tyto tenebricosa_Sooty Owl,0.19849546,25.0,28.0
+Ninox japonica_Northern Boobook,0.15234265,25.0,28.0
+Strix occidentalis_Spotted Owl,0.10662332,25.0,28.0
+Strix varia_Barred Owl,0.8657661,26.0,29.0
+Strix occidentalis_Spotted Owl,0.26045573,26.0,29.0
+Tyto tenebricosa_Sooty Owl,0.12519999,27.0,30.0
+Strix varia_Barred Owl,0.106307864,27.0,30.0
+Bubo virginianus_Great Horned Owl,0.6505053,28.0,31.0
+Bubo virginianus_Great Horned Owl,0.4421232,29.0,32.0
+Strix varia_Barred Owl,0.8346387,30.0,33.0
+Strix occidentalis_Spotted Owl,0.42430288,30.0,33.0
+Tyto tenebricosa_Sooty Owl,0.13202783,30.0,33.0
+Strix occidentalis_Spotted Owl,0.3440795,31.0,34.0
+Tyto tenebricosa_Sooty Owl,0.33700728,31.0,34.0
+Strix varia_Barred Owl,0.27948433,31.0,34.0
+Tyto tenebricosa_Sooty Owl,0.25006223,32.0,35.0
+Strix varia_Barred Owl,0.12721038,32.0,35.0
+Miogryllus saussurei_Miogryllus saussurei,0.1057345,32.0,35.0
+Miogryllus saussurei_Miogryllus saussurei,0.28227827,33.0,36.0
+Ammodramus aurifrons_Yellow-browed Sparrow,0.11100911,33.0,36.0
+Orchelimum agile_Agile Meadow Katydid,0.10014665,33.0,36.0
+Bubo virginianus_Great Horned Owl,0.54840696,34.0,37.0
+Bubo virginianus_Great Horned Owl,0.20302242,35.0,38.0
+Engine_Engine,0.17935798,37.0,40.0
+Strix varia_Barred Owl,0.23950191,38.0,41.0
+Strix occidentalis_Spotted Owl,0.17492901,38.0,41.0
+Orchelimum agile_Agile Meadow Katydid,0.13885862,38.0,41.0
+Strix varia_Barred Owl,0.5556945,39.0,42.0
+Strix occidentalis_Spotted Owl,0.29731053,39.0,42.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.17251693,40.0,43.0
+Geospizopsis plebejus_Ash-breasted Sierra Finch,0.15793955,40.0,43.0
+Strix varia_Barred Owl,0.11773415,40.0,43.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.22659434,41.0,44.0
+Spodiornis rusticus_Slaty Finch,0.15950768,41.0,44.0
+Sporophila schistacea_Slate-colored Seedeater,0.11710586,41.0,44.0
+Ammodramus aurifrons_Yellow-browed Sparrow,0.11144472,41.0,44.0
+Bubo virginianus_Great Horned Owl,0.4153428,42.0,45.0
+Bubo virginianus_Great Horned Owl,0.3364356,43.0,46.0
+Bubo virginianus_Great Horned Owl,0.28675628,44.0,47.0
+Engine_Engine,0.19326046,44.0,47.0
+Human vocal_Human vocal,0.14288157,44.0,47.0
+Engine_Engine,0.11500046,45.0,48.0
+Megascops kennicottii_Western Screech-Owl,0.25122145,46.0,49.0
+Bubo virginianus_Great Horned Owl,0.35316208,47.0,50.0
+Bubo virginianus_Great Horned Owl,0.17513016,48.0,51.0
+Bubo virginianus_Great Horned Owl,0.17402619,52.0,55.0
+Human non-vocal_Human non-vocal,0.16660489,53.0,56.0
+Human non-vocal_Human non-vocal,0.109817415,56.0,59.0
+Amblycorypha oblongifolia_Oblong-winged Katydid,0.106926896,56.0,59.0

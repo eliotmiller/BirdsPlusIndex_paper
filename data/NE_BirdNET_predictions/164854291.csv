@@ -1,0 +1,144 @@
+species,score,start_time,end_time
+Icteria virens_Yellow-breasted Chat,0.575094,0.0,3.0
+Colaptes auratus_Northern Flicker,0.32016334,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.5253439,1.0,4.0
+Turdus grayi_Clay-colored Thrush,0.11600247,2.0,5.0
+Mimus polyglottos_Northern Mockingbird,0.30596247,3.0,6.0
+Mimus polyglottos_Northern Mockingbird,0.10268933,4.0,7.0
+Cardinalis cardinalis_Northern Cardinal,0.5541148,6.0,9.0
+Cantorchilus longirostris_Long-billed Wren,0.15473256,7.0,10.0
+Mimus gilvus_Tropical Mockingbird,0.11720432,7.0,10.0
+Icterus galbula_Baltimore Oriole,0.23178034,9.0,12.0
+Piranga rubra_Summer Tanager,0.22258762,9.0,12.0
+Piranga rubra_Summer Tanager,0.3333753,10.0,13.0
+Aegithina tiphia_Common Iora,0.22403833,10.0,13.0
+Icterus galbula_Baltimore Oriole,0.18560827,10.0,13.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.16210717,10.0,13.0
+Aegithina nigrolutea_White-tailed Iora,0.10330375,10.0,13.0
+Piranga rubra_Summer Tanager,0.50540054,11.0,14.0
+Icterus galbula_Baltimore Oriole,0.26189658,11.0,14.0
+Turdus migratorius_American Robin,0.14054514,11.0,14.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12565233,11.0,14.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.13700517,12.0,15.0
+Turdus ignobilis_Black-billed Thrush,0.12858835,12.0,15.0
+Icterus galbula_Baltimore Oriole,0.11081044,12.0,15.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.41897672,13.0,16.0
+Sialia sialis_Eastern Bluebird,0.27627024,13.0,16.0
+Icterus galbula_Baltimore Oriole,0.22498684,13.0,16.0
+Turdus migratorius_American Robin,0.19445449,13.0,16.0
+Turdus migratorius_American Robin,0.6978413,14.0,17.0
+Icterus galbula_Baltimore Oriole,0.4564829,14.0,17.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.15806155,14.0,17.0
+Turdus migratorius_American Robin,0.4137175,15.0,18.0
+Icterus galbula_Baltimore Oriole,0.2532285,15.0,18.0
+Turdus migratorius_American Robin,0.28300515,16.0,19.0
+Baeolophus bicolor_Tufted Titmouse,0.24582578,16.0,19.0
+Icterus galbula_Baltimore Oriole,0.24534251,16.0,19.0
+Turdus viscivorus_Mistle Thrush,0.42439395,17.0,20.0
+Baeolophus bicolor_Tufted Titmouse,0.16403015,17.0,20.0
+Charadrius vociferus_Killdeer,0.56574976,19.0,22.0
+Charadrius vociferus_Killdeer,0.944227,20.0,23.0
+Charadrius vociferus_Killdeer,0.9671291,21.0,24.0
+Charadrius vociferus_Killdeer,0.95595574,22.0,25.0
+Charadrius vociferus_Killdeer,0.98591423,23.0,26.0
+Charadrius vociferus_Killdeer,0.42315364,24.0,27.0
+Falco columbarius_Merlin,0.5890577,26.0,29.0
+Falco columbarius_Merlin,0.7540181,27.0,30.0
+Falco columbarius_Merlin,0.77026665,28.0,31.0
+Ixobrychus exilis_Least Bittern,0.18937683,29.0,32.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16132382,29.0,32.0
+Cyanocitta cristata_Blue Jay,0.18486674,31.0,34.0
+Icterus pyrrhopterus_Variable Oriole,0.14135976,32.0,35.0
+Cyanocitta cristata_Blue Jay,0.6552461,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.817171,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.8170369,35.0,38.0
+Cyanocitta cristata_Blue Jay,0.8767235,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.8139449,37.0,40.0
+Cyanocitta cristata_Blue Jay,0.19566457,38.0,41.0
+Icterus galbula_Baltimore Oriole,0.11934786,43.0,46.0
+Ixobrychus exilis_Least Bittern,0.32343882,44.0,47.0
+Ixobrychus exilis_Least Bittern,0.33010867,45.0,48.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1601024,45.0,48.0
+Ixobrychus exilis_Least Bittern,0.11400227,46.0,49.0
+Sturnus unicolor_Spotless Starling,0.20454215,47.0,50.0
+Sturnus unicolor_Spotless Starling,0.2130245,48.0,51.0
+Curruca hortensis_Western Orphean Warbler,0.11991041,49.0,52.0
+Toxostoma rufum_Brown Thrasher,0.13711537,50.0,53.0
+Cardinalis cardinalis_Northern Cardinal,0.3080221,56.0,59.0
+Cardinalis cardinalis_Northern Cardinal,0.33597115,57.0,60.0
+Cardinalis cardinalis_Northern Cardinal,0.13545674,58.0,61.0
+Cinnycerthia olivascens_Sharpe's Wren,0.1054235,61.0,64.0
+Ramphocaenus melanurus_Long-billed Gnatwren,0.13717267,63.0,66.0
+Lichmera indistincta_Brown Honeyeater,0.4676969,64.0,67.0
+Ramphocaenus melanurus_Long-billed Gnatwren,0.13988832,64.0,67.0
+Megaceryle torquata_Ringed Kingfisher,0.106881365,64.0,67.0
+Lichmera incana_Dark-brown Honeyeater,0.100417,64.0,67.0
+Lichmera indistincta_Brown Honeyeater,0.5251506,65.0,68.0
+Mimus polyglottos_Northern Mockingbird,0.22430657,65.0,68.0
+Mimus polyglottos_Northern Mockingbird,0.82048434,66.0,69.0
+Lichmera indistincta_Brown Honeyeater,0.5437211,66.0,69.0
+Mimus gilvus_Tropical Mockingbird,0.1073253,66.0,69.0
+Mimus polyglottos_Northern Mockingbird,0.3393809,67.0,70.0
+Cardinalis cardinalis_Northern Cardinal,0.11412871,67.0,70.0
+Mimus polyglottos_Northern Mockingbird,0.57003456,68.0,71.0
+Toxostoma rufum_Brown Thrasher,0.49260026,68.0,71.0
+Mimus gilvus_Tropical Mockingbird,0.3965762,68.0,71.0
+Luscinia megarhynchos_Common Nightingale,0.2902154,69.0,72.0
+Mimus gilvus_Tropical Mockingbird,0.21881467,69.0,72.0
+Arremonops conirostris_Black-striped Sparrow,0.16888449,69.0,72.0
+Mimus polyglottos_Northern Mockingbird,0.122404076,69.0,72.0
+Thryothorus ludovicianus_Carolina Wren,0.47972876,70.0,73.0
+Luscinia megarhynchos_Common Nightingale,0.24543822,70.0,73.0
+Mimus gilvus_Tropical Mockingbird,0.21046226,70.0,73.0
+Mimus polyglottos_Northern Mockingbird,0.20206313,70.0,73.0
+Mimus polyglottos_Northern Mockingbird,0.6853698,71.0,74.0
+Mimus gilvus_Tropical Mockingbird,0.26524156,71.0,74.0
+Arremonops conirostris_Black-striped Sparrow,0.14887239,71.0,74.0
+Mimus polyglottos_Northern Mockingbird,0.31358144,72.0,75.0
+Mimus polyglottos_Northern Mockingbird,0.11893798,73.0,76.0
+Mimus gilvus_Tropical Mockingbird,0.3735071,74.0,77.0
+Mimus polyglottos_Northern Mockingbird,0.104613185,74.0,77.0
+Furnarius leucopus_Pale-legged Hornero,0.297782,75.0,78.0
+Mimus gilvus_Tropical Mockingbird,0.21688215,75.0,78.0
+Mimus gilvus_Tropical Mockingbird,0.18032123,76.0,79.0
+Mimus polyglottos_Northern Mockingbird,0.12911609,76.0,79.0
+Mimus gilvus_Tropical Mockingbird,0.49811628,77.0,80.0
+Mimus saturninus_Chalk-browed Mockingbird,0.40214732,77.0,80.0
+Furnarius leucopus_Pale-legged Hornero,0.14060001,77.0,80.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.15019414,78.0,81.0
+Pycnonotus cafer_Red-vented Bulbul,0.12785399,78.0,81.0
+Sitta carolinensis_White-breasted Nuthatch,0.8312155,80.0,83.0
+Sitta carolinensis_White-breasted Nuthatch,0.83421105,81.0,84.0
+Mimus gilvus_Tropical Mockingbird,0.3894808,82.0,85.0
+Sitta carolinensis_White-breasted Nuthatch,0.20151414,82.0,85.0
+Mimus gilvus_Tropical Mockingbird,0.6614142,83.0,86.0
+Turdus leucomelas_Pale-breasted Thrush,0.11234843,83.0,86.0
+Mimus gilvus_Tropical Mockingbird,0.5688804,84.0,87.0
+Turdus leucomelas_Pale-breasted Thrush,0.22674952,84.0,87.0
+Turdus merula_Eurasian Blackbird,0.19079067,84.0,87.0
+Mimus gilvus_Tropical Mockingbird,0.10851385,85.0,88.0
+Turdus leucomelas_Pale-breasted Thrush,0.100971006,85.0,88.0
+Turdus leucomelas_Pale-breasted Thrush,0.20269717,86.0,89.0
+Mimus gilvus_Tropical Mockingbird,0.14340718,86.0,89.0
+Acridotheres tristis_Common Myna,0.119749695,86.0,89.0
+Euphonia chlorotica_Purple-throated Euphonia,0.4535948,87.0,90.0
+Euphonia chlorotica_Purple-throated Euphonia,0.12853418,89.0,92.0
+Icterus pyrrhopterus_Variable Oriole,0.11745937,91.0,94.0
+Ixobrychus exilis_Least Bittern,0.14513844,92.0,95.0
+Tyto alba_Barn Owl,0.10366094,96.0,99.0
+Curruca hortensis_Western Orphean Warbler,0.42673612,97.0,100.0
+Mimus gilvus_Tropical Mockingbird,0.108748004,97.0,100.0
+Curruca hortensis_Western Orphean Warbler,0.37040487,98.0,101.0
+Mimus polyglottos_Northern Mockingbird,0.13908733,98.0,101.0
+Mimus gilvus_Tropical Mockingbird,0.12430227,98.0,101.0
+Mimus polyglottos_Northern Mockingbird,0.1637063,99.0,102.0
+Mimus polyglottos_Northern Mockingbird,0.1355561,100.0,103.0
+Mimus polyglottos_Northern Mockingbird,0.3063442,101.0,104.0
+Mimus polyglottos_Northern Mockingbird,0.10894099,102.0,105.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.24713103,105.0,108.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.15706836,105.0,108.0
+Piaya cayana_Squirrel Cuckoo,0.17057098,106.0,109.0
+Piaya cayana_Squirrel Cuckoo,0.23959598,107.0,110.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.21738274,107.0,110.0
+Phyllomyias griseiceps_Sooty-headed Tyrannulet,0.14097205,107.0,110.0
+Piaya cayana_Squirrel Cuckoo,0.10065051,108.0,111.0

@@ -1,0 +1,129 @@
+species,score,start_time,end_time
+Corvus brachyrhynchos_American Crow,0.67658806,0.0,3.0
+Corvus brachyrhynchos_American Crow,0.94139206,1.0,4.0
+Poecile atricapillus_Black-capped Chickadee,0.25210562,1.0,4.0
+Corvus brachyrhynchos_American Crow,0.8927526,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.24613813,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.6062396,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.48254374,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.4662814,3.0,6.0
+Turdus migratorius_American Robin,0.2905857,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.22450298,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.1337205,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11577569,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.7962114,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.18927789,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.18315326,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.60738766,5.0,8.0
+Thamnophilus atrinucha_Black-crowned Antshrike,0.3239588,5.0,8.0
+Corvus brachyrhynchos_American Crow,0.110736504,5.0,8.0
+Gymnorhinus cyanocephalus_Pinyon Jay,0.10277217,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.8034408,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.47786546,6.0,9.0
+Poecile atricapillus_Black-capped Chickadee,0.13016905,6.0,9.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12461731,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.12005022,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.6557993,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.24431403,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.15037036,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.10472577,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.9631478,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.14691506,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.8880825,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.9087227,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.76645964,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.7849496,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.69570637,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.1823361,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.14037456,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.9063074,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.93900543,15.0,18.0
+Corvus brachyrhynchos_American Crow,0.96009606,16.0,19.0
+Corvus brachyrhynchos_American Crow,0.9467848,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.75884837,17.0,20.0
+Corvus brachyrhynchos_American Crow,0.9355473,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.8501557,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.9187113,19.0,22.0
+Corvus brachyrhynchos_American Crow,0.5012404,19.0,22.0
+Poecile atricapillus_Black-capped Chickadee,0.16414933,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.14475213,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.13313882,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.19959788,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.17211218,20.0,23.0
+Poecile atricapillus_Black-capped Chickadee,0.16832073,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.101754576,20.0,23.0
+Turdus migratorius_American Robin,0.100017875,20.0,23.0
+Corvus brachyrhynchos_American Crow,0.44232786,21.0,24.0
+Corvus brachyrhynchos_American Crow,0.8984797,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.14531894,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.12904033,22.0,25.0
+Cardinalis cardinalis_Northern Cardinal,0.101293154,22.0,25.0
+Corvus brachyrhynchos_American Crow,0.9072469,23.0,26.0
+Corvus brachyrhynchos_American Crow,0.8038378,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.98757625,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.79887366,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.99976104,26.0,29.0
+Corvus brachyrhynchos_American Crow,0.99512935,26.0,29.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14592002,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.99957985,27.0,30.0
+Corvus brachyrhynchos_American Crow,0.22541796,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.19854313,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.9922883,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.13227537,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.11450172,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.20706107,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.13135669,29.0,32.0
+Corvus brachyrhynchos_American Crow,0.3254564,30.0,33.0
+Corvus brachyrhynchos_American Crow,0.42218092,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.22202371,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.15844406,31.0,34.0
+Corvus brachyrhynchos_American Crow,0.75119257,32.0,35.0
+Corvus brachyrhynchos_American Crow,0.50123,33.0,36.0
+Parkesia motacilla_Louisiana Waterthrush,0.16762438,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12027901,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.15922493,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.59629416,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.1406842,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.99795926,38.0,41.0
+Corvus brachyrhynchos_American Crow,0.9420658,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.11992764,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10803994,38.0,41.0
+Molothrus ater_Brown-headed Cowbird,0.10586122,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.9971547,39.0,42.0
+Corvus brachyrhynchos_American Crow,0.9950504,39.0,42.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17275532,39.0,42.0
+Poecile atricapillus_Black-capped Chickadee,0.14164655,39.0,42.0
+Baeolophus bicolor_Tufted Titmouse,0.11974426,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9969116,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.93170696,40.0,43.0
+Baeolophus bicolor_Tufted Titmouse,0.3053883,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.85990334,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.69152194,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21987434,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.18737137,41.0,44.0
+Baeolophus bicolor_Tufted Titmouse,0.1252628,41.0,44.0
+Corvus brachyrhynchos_American Crow,0.7897218,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.39727643,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.2214369,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.12012619,42.0,45.0
+Corvus brachyrhynchos_American Crow,0.8843677,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.430308,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.13161226,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.12701619,43.0,46.0
+Corvus brachyrhynchos_American Crow,0.7143182,44.0,47.0
+Turdus migratorius_American Robin,0.31223905,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.23778506,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.14699508,44.0,47.0
+Poecile atricapillus_Black-capped Chickadee,0.12052279,44.0,47.0
+Turdus migratorius_American Robin,0.2214953,45.0,48.0
+Corvus brachyrhynchos_American Crow,0.17716567,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.12912537,45.0,48.0
+Corvus brachyrhynchos_American Crow,0.3342671,47.0,50.0
+Turdus migratorius_American Robin,0.121238746,47.0,50.0
+Corvus brachyrhynchos_American Crow,0.6129619,48.0,51.0
+Corvus brachyrhynchos_American Crow,0.7395797,49.0,52.0
+Turdus migratorius_American Robin,0.26711884,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.7131724,50.0,53.0
+Corvus brachyrhynchos_American Crow,0.4853681,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.99703765,51.0,53.976009070294786
+Setophaga occidentalis_Hermit Warbler,0.14071064,51.0,53.976009070294786

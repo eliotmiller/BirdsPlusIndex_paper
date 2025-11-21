@@ -1,0 +1,105 @@
+species,score,start_time,end_time
+Cistothorus palustris_Marsh Wren,0.2731934,0.0,3.0
+Rallus elegans_King Rail,0.14522687,6.0,9.0
+Rallus crepitans_Clapper Rail,0.10836013,6.0,9.0
+Rallus elegans_King Rail,0.10475365,7.0,10.0
+Rallus crepitans_Clapper Rail,0.12548712,11.0,14.0
+Spiza americana_Dickcissel,0.8656076,15.0,18.0
+Centronyx henslowii_Henslow's Sparrow,0.118382625,15.0,18.0
+Spiza americana_Dickcissel,0.98557556,16.0,19.0
+Spiza americana_Dickcissel,0.98468983,17.0,20.0
+Spiza americana_Dickcissel,0.94762665,18.0,21.0
+Sturnella magna_Eastern Meadowlark,0.61164856,19.0,22.0
+Spiza americana_Dickcissel,0.9288668,20.0,23.0
+Sturnella magna_Eastern Meadowlark,0.10926655,20.0,23.0
+Spiza americana_Dickcissel,0.93290013,21.0,24.0
+Spiza americana_Dickcissel,0.9667094,22.0,25.0
+Spiza americana_Dickcissel,0.97513527,23.0,26.0
+Spiza americana_Dickcissel,0.95581466,24.0,27.0
+Spiza americana_Dickcissel,0.9762431,25.0,28.0
+Sturnella magna_Eastern Meadowlark,0.10912675,25.0,28.0
+Spiza americana_Dickcissel,0.9863371,26.0,29.0
+Spiza americana_Dickcissel,0.13003968,27.0,30.0
+Rallus crepitans_Clapper Rail,0.12622504,27.0,30.0
+Spiza americana_Dickcissel,0.98046184,28.0,31.0
+Spiza americana_Dickcissel,0.97340095,29.0,32.0
+Spiza americana_Dickcissel,0.9842374,30.0,33.0
+Spiza americana_Dickcissel,0.98152924,31.0,34.0
+Spiza americana_Dickcissel,0.64335823,32.0,35.0
+Cistothorus platensis_Grass Wren,0.10460019,32.0,35.0
+Spiza americana_Dickcissel,0.99186134,33.0,36.0
+Spiza americana_Dickcissel,0.99103934,34.0,37.0
+Spiza americana_Dickcissel,0.98782396,35.0,38.0
+Sturnella magna_Eastern Meadowlark,0.13677518,35.0,38.0
+Sturnella magna_Eastern Meadowlark,0.51914006,36.0,39.0
+Spiza americana_Dickcissel,0.45806196,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11198861,36.0,39.0
+Ammospiza maritima_Seaside Sparrow,0.10605968,36.0,39.0
+Spiza americana_Dickcissel,0.9833575,38.0,41.0
+Spiza americana_Dickcissel,0.97885454,39.0,42.0
+Spiza americana_Dickcissel,0.9769884,40.0,43.0
+Spiza americana_Dickcissel,0.90354455,43.0,46.0
+Melanospiza bicolor_Black-faced Grassquit,0.19569321,43.0,46.0
+Spiza americana_Dickcissel,0.99397683,44.0,47.0
+Spiza americana_Dickcissel,0.9899289,45.0,48.0
+Spiza americana_Dickcissel,0.9793337,46.0,49.0
+Sturnella magna_Eastern Meadowlark,0.19455728,47.0,50.0
+Agelaius phoeniceus_Red-winged Blackbird,0.107790515,48.0,51.0
+Spiza americana_Dickcissel,0.9345385,49.0,52.0
+Spiza americana_Dickcissel,0.9839701,50.0,53.0
+Spiza americana_Dickcissel,0.97712713,51.0,54.0
+Spiza americana_Dickcissel,0.9717172,52.0,55.0
+Centronyx henslowii_Henslow's Sparrow,0.31959626,52.0,55.0
+Spiza americana_Dickcissel,0.9498411,53.0,56.0
+Spiza americana_Dickcissel,0.9793076,54.0,57.0
+Spiza americana_Dickcissel,0.98353195,55.0,58.0
+Spiza americana_Dickcissel,0.29039767,57.0,60.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11498255,57.0,60.0
+Rallus crepitans_Clapper Rail,0.10722716,57.0,60.0
+Spiza americana_Dickcissel,0.1109446,58.0,61.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1013083,61.0,64.0
+Actitis hypoleucos_Common Sandpiper,0.10440341,62.0,65.0
+Spiza americana_Dickcissel,0.9899158,63.0,66.0
+Spiza americana_Dickcissel,0.8744554,64.0,67.0
+Spiza americana_Dickcissel,0.7459713,65.0,68.0
+Spiza americana_Dickcissel,0.93152946,66.0,69.0
+Spiza americana_Dickcissel,0.99415004,67.0,70.0
+Spiza americana_Dickcissel,0.9908766,68.0,71.0
+Spiza americana_Dickcissel,0.9784572,69.0,72.0
+Spiza americana_Dickcissel,0.89993143,70.0,73.0
+Spiza americana_Dickcissel,0.98134524,71.0,74.0
+Spiza americana_Dickcissel,0.993606,72.0,75.0
+Spiza americana_Dickcissel,0.9965502,73.0,76.0
+Centronyx henslowii_Henslow's Sparrow,0.120771654,73.0,76.0
+Spiza americana_Dickcissel,0.9927394,74.0,77.0
+Spiza americana_Dickcissel,0.9948259,75.0,78.0
+Spiza americana_Dickcissel,0.97485626,76.0,79.0
+Spiza americana_Dickcissel,0.20412758,77.0,80.0
+Spiza americana_Dickcissel,0.98604417,78.0,81.0
+Spiza americana_Dickcissel,0.98894674,79.0,82.0
+Spiza americana_Dickcissel,0.9887861,80.0,83.0
+Spiza americana_Dickcissel,0.9842696,81.0,84.0
+Spiza americana_Dickcissel,0.6263376,82.0,85.0
+Sturnella magna_Eastern Meadowlark,0.36281976,82.0,85.0
+Spiza americana_Dickcissel,0.97303087,83.0,86.0
+Spiza americana_Dickcissel,0.9949521,84.0,87.0
+Spiza americana_Dickcissel,0.9904094,85.0,88.0
+Spiza americana_Dickcissel,0.9740192,86.0,89.0
+Centronyx henslowii_Henslow's Sparrow,0.16357927,86.0,89.0
+Spiza americana_Dickcissel,0.9806637,87.0,90.0
+Spiza americana_Dickcissel,0.98774534,88.0,91.0
+Spiza americana_Dickcissel,0.98808783,89.0,92.0
+Spiza americana_Dickcissel,0.9769508,90.0,93.0
+Spiza americana_Dickcissel,0.98787946,91.0,94.0
+Spiza americana_Dickcissel,0.9927497,92.0,95.0
+Spiza americana_Dickcissel,0.9810586,93.0,96.0
+Spiza americana_Dickcissel,0.9760684,94.0,97.0
+Spiza americana_Dickcissel,0.97655994,95.0,98.0
+Spiza americana_Dickcissel,0.99465287,96.0,99.0
+Spiza americana_Dickcissel,0.99013054,97.0,100.0
+Spiza americana_Dickcissel,0.9960146,98.0,101.0
+Centronyx henslowii_Henslow's Sparrow,0.27239388,98.0,101.0
+Spiza americana_Dickcissel,0.9953707,99.0,102.0
+Spiza americana_Dickcissel,0.99366814,100.0,103.0
+Spiza americana_Dickcissel,0.9915255,101.0,104.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11554251,104.0,106.05600907029478

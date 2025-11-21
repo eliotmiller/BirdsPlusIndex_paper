@@ -1,0 +1,210 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.91483253,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.8945816,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.84493726,1.0,4.0
+Pandion haliaetus_Osprey,0.35817057,1.0,4.0
+Recurvirostra americana_American Avocet,0.11505045,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.94905955,2.0,5.0
+Haliaeetus leucocephalus_Bald Eagle,0.9714661,3.0,6.0
+Numenius phaeopus_Whimbrel,0.11301584,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.989833,4.0,7.0
+Recurvirostra americana_American Avocet,0.13035785,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.69966227,5.0,8.0
+Pandion haliaetus_Osprey,0.18607333,5.0,8.0
+Milvus migrans_Black Kite,0.10969206,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.64682406,6.0,9.0
+Haliaeetus leucocephalus_Bald Eagle,0.8647486,7.0,10.0
+Pandion haliaetus_Osprey,0.18488498,7.0,10.0
+Haliaeetus leucocephalus_Bald Eagle,0.8425473,8.0,11.0
+Haliaeetus leucocephalus_Bald Eagle,0.44525605,9.0,12.0
+Haliaeetus leucocephalus_Bald Eagle,0.12810189,10.0,13.0
+Haliaeetus leucocephalus_Bald Eagle,0.2337214,11.0,14.0
+Haliaeetus leucocephalus_Bald Eagle,0.11855582,12.0,15.0
+Haliaeetus leucocephalus_Bald Eagle,0.24057311,13.0,16.0
+Pandion haliaetus_Osprey,0.13162723,13.0,16.0
+Milvus migrans_Black Kite,0.11014521,13.0,16.0
+Milvus migrans_Black Kite,0.16619746,14.0,17.0
+Haliaeetus leucocephalus_Bald Eagle,0.15744466,14.0,17.0
+Pluvialis squatarola_Black-bellied Plover,0.16335839,15.0,18.0
+Haliaeetus leucocephalus_Bald Eagle,0.1623202,15.0,18.0
+Haliaeetus leucocephalus_Bald Eagle,0.9240902,16.0,19.0
+Haliaeetus leucocephalus_Bald Eagle,0.91571724,17.0,20.0
+Haliaeetus leucocephalus_Bald Eagle,0.975493,18.0,21.0
+Recurvirostra americana_American Avocet,0.119788386,18.0,21.0
+Haliaeetus leucocephalus_Bald Eagle,0.98731905,19.0,22.0
+Recurvirostra americana_American Avocet,0.43077186,19.0,22.0
+Haliaeetus leucocephalus_Bald Eagle,0.982949,20.0,23.0
+Haliaeetus leucocephalus_Bald Eagle,0.18698919,21.0,24.0
+Recurvirostra americana_American Avocet,0.18099412,21.0,24.0
+Haliaeetus leucocephalus_Bald Eagle,0.35928762,22.0,25.0
+Pluvialis squatarola_Black-bellied Plover,0.18995985,22.0,25.0
+Haliaeetus leucocephalus_Bald Eagle,0.62298733,23.0,26.0
+Haliaeetus leucocephalus_Bald Eagle,0.95022637,24.0,27.0
+Larus delawarensis_Ring-billed Gull,0.1402034,24.0,27.0
+Numenius americanus_Long-billed Curlew,0.12330616,24.0,27.0
+Pandion haliaetus_Osprey,0.117451526,24.0,27.0
+Haliaeetus leucocephalus_Bald Eagle,0.91176397,25.0,28.0
+Haliaeetus leucocephalus_Bald Eagle,0.61749446,26.0,29.0
+Haliaeetus leucocephalus_Bald Eagle,0.6152494,27.0,30.0
+Haliaeetus leucocephalus_Bald Eagle,0.15765029,28.0,31.0
+Haliaeetus leucocephalus_Bald Eagle,0.5772708,29.0,32.0
+Haliaeetus leucocephalus_Bald Eagle,0.78337514,30.0,33.0
+Falco peregrinus_Peregrine Falcon,0.17222606,30.0,33.0
+Haliaeetus albicilla_White-tailed Eagle,0.1452747,30.0,33.0
+Haliaeetus leucocephalus_Bald Eagle,0.6384773,31.0,34.0
+Falco peregrinus_Peregrine Falcon,0.16101684,31.0,34.0
+Haliaeetus leucocephalus_Bald Eagle,0.6059407,32.0,35.0
+Pandion haliaetus_Osprey,0.30573273,32.0,35.0
+Milvus migrans_Black Kite,0.11819054,32.0,35.0
+Falco peregrinus_Peregrine Falcon,0.65088695,33.0,36.0
+Haliaeetus leucocephalus_Bald Eagle,0.2697534,33.0,36.0
+Haliaeetus leucocephalus_Bald Eagle,0.33929372,34.0,37.0
+Haliaeetus leucocephalus_Bald Eagle,0.42368305,35.0,38.0
+Haliaeetus leucocephalus_Bald Eagle,0.58279175,36.0,39.0
+Vanellus coronatus_Crowned Lapwing,0.25612968,36.0,39.0
+Falco peregrinus_Peregrine Falcon,0.15357265,36.0,39.0
+Falco peregrinus_Peregrine Falcon,0.6161858,37.0,40.0
+Haliaeetus leucocephalus_Bald Eagle,0.5085483,37.0,40.0
+Haliaeetus leucocephalus_Bald Eagle,0.13377029,38.0,41.0
+Haliaeetus leucocephalus_Bald Eagle,0.17856523,39.0,42.0
+Pluvialis squatarola_Black-bellied Plover,0.13788703,39.0,42.0
+Haliaeetus leucocephalus_Bald Eagle,0.25387707,40.0,43.0
+Haliaeetus leucocephalus_Bald Eagle,0.7660501,41.0,44.0
+Falco peregrinus_Peregrine Falcon,0.3802935,41.0,44.0
+Falco peregrinus_Peregrine Falcon,0.4694807,42.0,45.0
+Haliaeetus leucocephalus_Bald Eagle,0.23159009,42.0,45.0
+Falco peregrinus_Peregrine Falcon,0.705906,43.0,46.0
+Vanellus coronatus_Crowned Lapwing,0.12800835,43.0,46.0
+Vanellus coronatus_Crowned Lapwing,0.5153754,44.0,47.0
+Limosa fedoa_Marbled Godwit,0.13153411,45.0,48.0
+Pluvialis squatarola_Black-bellied Plover,0.56672686,46.0,49.0
+Pandion haliaetus_Osprey,0.46087515,46.0,49.0
+Haliaeetus leucocephalus_Bald Eagle,0.16247569,46.0,49.0
+Pluvialis squatarola_Black-bellied Plover,0.22941093,49.0,52.0
+Pluvialis squatarola_Black-bellied Plover,0.10640739,50.0,53.0
+Falco peregrinus_Peregrine Falcon,0.6387847,52.0,55.0
+Haliaeetus leucocephalus_Bald Eagle,0.4982509,52.0,55.0
+Falco peregrinus_Peregrine Falcon,0.5912861,53.0,56.0
+Haliaeetus leucocephalus_Bald Eagle,0.16519137,53.0,56.0
+Falco peregrinus_Peregrine Falcon,0.6996795,54.0,57.0
+Haliaeetus leucocephalus_Bald Eagle,0.61491555,54.0,57.0
+Pluvialis squatarola_Black-bellied Plover,0.148627,55.0,58.0
+Haliaeetus leucocephalus_Bald Eagle,0.13341635,55.0,58.0
+Pluvialis squatarola_Black-bellied Plover,0.4658624,56.0,59.0
+Haliaeetus leucocephalus_Bald Eagle,0.109646015,56.0,59.0
+Larus glaucescens_Glaucous-winged Gull,0.18496582,57.0,60.0
+Podiceps major_Great Grebe,0.13269137,57.0,60.0
+Podiceps major_Great Grebe,0.20346788,58.0,61.0
+Falco peregrinus_Peregrine Falcon,0.20289423,58.0,61.0
+Fulica atra_Eurasian Coot,0.20955732,59.0,62.0
+Falco peregrinus_Peregrine Falcon,0.18171223,59.0,62.0
+Gallinula galeata_Common Gallinule,0.1459491,59.0,62.0
+Podiceps major_Great Grebe,0.12663776,59.0,62.0
+Leucogeranus leucogeranus_Siberian Crane,0.11191522,59.0,62.0
+Haliaeetus leucocephalus_Bald Eagle,0.5585697,60.0,63.0
+Falco peregrinus_Peregrine Falcon,0.27894807,60.0,63.0
+Haliaeetus leucocephalus_Bald Eagle,0.5105344,61.0,64.0
+Falco peregrinus_Peregrine Falcon,0.49461424,61.0,64.0
+Haliaeetus leucocephalus_Bald Eagle,0.62859225,62.0,65.0
+Falco peregrinus_Peregrine Falcon,0.53431976,62.0,65.0
+Haliaeetus leucocephalus_Bald Eagle,0.19632356,63.0,66.0
+Gallinula galeata_Common Gallinule,0.10665645,64.0,67.0
+Falco peregrinus_Peregrine Falcon,0.5489845,65.0,68.0
+Haliaeetus leucocephalus_Bald Eagle,0.49772462,65.0,68.0
+Haliaeetus leucocephalus_Bald Eagle,0.17180088,66.0,69.0
+Falco peregrinus_Peregrine Falcon,0.14575943,66.0,69.0
+Haliaeetus leucocephalus_Bald Eagle,0.22042583,68.0,71.0
+Falco peregrinus_Peregrine Falcon,0.116097175,68.0,71.0
+Haliaeetus leucocephalus_Bald Eagle,0.5004694,69.0,72.0
+Falco peregrinus_Peregrine Falcon,0.18619941,69.0,72.0
+Haliaeetus leucocephalus_Bald Eagle,0.5995999,70.0,73.0
+Limosa fedoa_Marbled Godwit,0.11247597,70.0,73.0
+Oenanthe oenanthe_Northern Wheatear,0.122400895,71.0,74.0
+Anthus rubescens_American Pipit,0.17592672,72.0,75.0
+Spinus tristis_American Goldfinch,0.19440404,73.0,76.0
+Falco peregrinus_Peregrine Falcon,0.17919795,74.0,77.0
+Falco peregrinus_Peregrine Falcon,0.1003903,75.0,78.0
+Petrochelidon fulva_Cave Swallow,0.19933724,77.0,80.0
+Fulica americana_American Coot,0.21492943,79.0,82.0
+Hirundo rustica_Barn Swallow,0.18841323,79.0,82.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.1487656,79.0,82.0
+Gallinula galeata_Common Gallinule,0.1343101,79.0,82.0
+Vanellus coronatus_Crowned Lapwing,0.5559096,80.0,83.0
+Hirundo rustica_Barn Swallow,0.22445714,80.0,83.0
+Fulica americana_American Coot,0.12027462,80.0,83.0
+Gallinula galeata_Common Gallinule,0.10913491,80.0,83.0
+Vanellus coronatus_Crowned Lapwing,0.38088524,81.0,84.0
+Gallinula galeata_Common Gallinule,0.13098527,81.0,84.0
+Fulica americana_American Coot,0.10343098,81.0,84.0
+Falco peregrinus_Peregrine Falcon,0.3958063,82.0,85.0
+Vanellus coronatus_Crowned Lapwing,0.38747546,82.0,85.0
+Haliaeetus leucocephalus_Bald Eagle,0.21514568,82.0,85.0
+Falco peregrinus_Peregrine Falcon,0.6365527,83.0,86.0
+Haliaeetus leucocephalus_Bald Eagle,0.48882702,83.0,86.0
+Caracara plancus_Crested Caracara,0.12535743,83.0,86.0
+Haliaeetus leucocephalus_Bald Eagle,0.912778,84.0,87.0
+Falco peregrinus_Peregrine Falcon,0.8041036,84.0,87.0
+Caracara plancus_Crested Caracara,0.2265083,84.0,87.0
+Haliaeetus leucocephalus_Bald Eagle,0.35080507,85.0,88.0
+Gallinula galeata_Common Gallinule,0.108941875,85.0,88.0
+Haliaeetus leucocephalus_Bald Eagle,0.23359902,86.0,89.0
+Buteo jamaicensis_Red-tailed Hawk,0.21499154,86.0,89.0
+Caracara plancus_Crested Caracara,0.10708022,86.0,89.0
+Pandion haliaetus_Osprey,0.1500611,87.0,90.0
+Buteo jamaicensis_Red-tailed Hawk,0.11206738,87.0,90.0
+Caracara plancus_Crested Caracara,0.108708985,88.0,91.0
+Buteo jamaicensis_Red-tailed Hawk,0.10306826,88.0,91.0
+Haliaeetus leucocephalus_Bald Eagle,0.3664629,89.0,92.0
+Buteo jamaicensis_Red-tailed Hawk,0.2957955,89.0,92.0
+Pandion haliaetus_Osprey,0.20245129,89.0,92.0
+Caracara plancus_Crested Caracara,0.10072785,89.0,92.0
+Haliaeetus leucocephalus_Bald Eagle,0.3075793,90.0,93.0
+Falco peregrinus_Peregrine Falcon,0.13933945,90.0,93.0
+Haliaeetus leucocephalus_Bald Eagle,0.56986773,91.0,94.0
+Falco peregrinus_Peregrine Falcon,0.17394224,91.0,94.0
+Haliaeetus leucocephalus_Bald Eagle,0.6491445,92.0,95.0
+Falco peregrinus_Peregrine Falcon,0.24598676,92.0,95.0
+Tringa semipalmata_Willet,0.34467268,93.0,96.0
+Haliaeetus leucocephalus_Bald Eagle,0.235382,93.0,96.0
+Buteo jamaicensis_Red-tailed Hawk,0.12715042,93.0,96.0
+Haliaeetus leucocephalus_Bald Eagle,0.1200293,94.0,97.0
+Caracara plancus_Crested Caracara,0.11642909,94.0,97.0
+Buteo jamaicensis_Red-tailed Hawk,0.107156426,94.0,97.0
+Haliaeetus leucocephalus_Bald Eagle,0.3321584,95.0,98.0
+Caracara plancus_Crested Caracara,0.20509715,95.0,98.0
+Pandion haliaetus_Osprey,0.1736048,95.0,98.0
+Buteo jamaicensis_Red-tailed Hawk,0.14654621,95.0,98.0
+Haliaeetus leucocephalus_Bald Eagle,0.39075324,96.0,99.0
+Pandion haliaetus_Osprey,0.13943301,96.0,99.0
+Haliaeetus leucocephalus_Bald Eagle,0.66759115,97.0,100.0
+Gallinula galeata_Common Gallinule,0.22632839,97.0,100.0
+Haliaeetus leucocephalus_Bald Eagle,0.14946702,98.0,101.0
+Falco peregrinus_Peregrine Falcon,0.11152475,100.0,103.0
+Gallinula galeata_Common Gallinule,0.24979031,101.0,104.0
+Haliaeetus leucocephalus_Bald Eagle,0.14724705,101.0,104.0
+Haliaeetus leucocephalus_Bald Eagle,0.27349374,102.0,105.0
+Gallinula galeata_Common Gallinule,0.18487132,102.0,105.0
+Pluvialis squatarola_Black-bellied Plover,0.121677026,102.0,105.0
+Pandion haliaetus_Osprey,0.29815835,103.0,106.0
+Vanellus coronatus_Crowned Lapwing,0.2048326,104.0,107.0
+Pandion haliaetus_Osprey,0.13112466,104.0,107.0
+Vanellus coronatus_Crowned Lapwing,0.6059244,105.0,108.0
+Falco rusticolus_Gyrfalcon,0.12352429,105.0,108.0
+Falco rusticolus_Gyrfalcon,0.11216727,106.0,109.0
+Fulica americana_American Coot,0.1725544,107.0,110.0
+Haliaeetus leucocephalus_Bald Eagle,0.14849806,107.0,110.0
+Phalacrocorax carbo_Great Cormorant,0.12054457,107.0,110.0
+Xenus cinereus_Terek Sandpiper,0.10191053,107.0,110.0
+Pandion haliaetus_Osprey,0.17202486,110.0,113.0
+Chloephaga picta_Upland Goose,0.1098117,114.0,117.0
+Pandion haliaetus_Osprey,0.10555653,117.0,120.0
+Pandion haliaetus_Osprey,0.19093892,118.0,121.0
+Podiceps cristatus_Great Crested Grebe,0.11093869,118.0,121.0
+Podiceps cristatus_Great Crested Grebe,0.4921874,119.0,122.0
+Chloephaga picta_Upland Goose,0.118825,120.0,123.0
+Progne subis_Purple Martin,0.85523903,126.0,129.0
+Progne subis_Purple Martin,0.8286598,127.0,130.0
+Progne subis_Purple Martin,0.8913636,128.0,131.0
+Progne subis_Purple Martin,0.1158945,129.0,132.0
+Progne subis_Purple Martin,0.43593398,130.0,133.0
+Progne subis_Purple Martin,0.64813703,131.0,134.0

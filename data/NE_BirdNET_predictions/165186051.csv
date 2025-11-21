@@ -1,0 +1,121 @@
+species,score,start_time,end_time
+Sayornis phoebe_Eastern Phoebe,0.5112306,0.0,3.0
+Sayornis phoebe_Eastern Phoebe,0.7562568,1.0,4.0
+Sayornis phoebe_Eastern Phoebe,0.36003488,2.0,5.0
+Sayornis phoebe_Eastern Phoebe,0.7166557,4.0,7.0
+Sayornis phoebe_Eastern Phoebe,0.8760972,5.0,8.0
+Sayornis phoebe_Eastern Phoebe,0.88370895,6.0,9.0
+Sayornis phoebe_Eastern Phoebe,0.9370877,7.0,10.0
+Sayornis phoebe_Eastern Phoebe,0.6169472,8.0,11.0
+Sayornis phoebe_Eastern Phoebe,0.913949,9.0,12.0
+Sayornis phoebe_Eastern Phoebe,0.85919255,10.0,13.0
+Sayornis phoebe_Eastern Phoebe,0.15274112,11.0,14.0
+Sayornis phoebe_Eastern Phoebe,0.6471434,14.0,17.0
+Sayornis phoebe_Eastern Phoebe,0.5555706,15.0,18.0
+Sayornis phoebe_Eastern Phoebe,0.32872114,16.0,19.0
+Sayornis nigricans_Black Phoebe,0.15120298,16.0,19.0
+Sayornis phoebe_Eastern Phoebe,0.6614024,17.0,20.0
+Sayornis phoebe_Eastern Phoebe,0.39755538,18.0,21.0
+Sayornis phoebe_Eastern Phoebe,0.25556642,19.0,22.0
+Sayornis phoebe_Eastern Phoebe,0.8607707,20.0,23.0
+Sayornis phoebe_Eastern Phoebe,0.8531545,21.0,24.0
+Sayornis phoebe_Eastern Phoebe,0.92414325,22.0,25.0
+Sayornis phoebe_Eastern Phoebe,0.9092998,23.0,26.0
+Sayornis phoebe_Eastern Phoebe,0.87068456,24.0,27.0
+Sayornis phoebe_Eastern Phoebe,0.9035284,25.0,28.0
+Sayornis phoebe_Eastern Phoebe,0.59685946,26.0,29.0
+Sayornis nigricans_Black Phoebe,0.27640715,26.0,29.0
+Sayornis phoebe_Eastern Phoebe,0.9401242,27.0,30.0
+Sayornis phoebe_Eastern Phoebe,0.9810827,28.0,31.0
+Sayornis phoebe_Eastern Phoebe,0.96672094,29.0,32.0
+Sayornis phoebe_Eastern Phoebe,0.9421325,30.0,33.0
+Sayornis phoebe_Eastern Phoebe,0.9064287,31.0,34.0
+Sayornis phoebe_Eastern Phoebe,0.9133999,32.0,35.0
+Sayornis phoebe_Eastern Phoebe,0.910176,33.0,36.0
+Sayornis phoebe_Eastern Phoebe,0.83181596,34.0,37.0
+Sayornis phoebe_Eastern Phoebe,0.6713247,35.0,38.0
+Sayornis phoebe_Eastern Phoebe,0.94104874,36.0,39.0
+Sayornis phoebe_Eastern Phoebe,0.96222353,37.0,40.0
+Sayornis phoebe_Eastern Phoebe,0.8482605,38.0,41.0
+Sayornis phoebe_Eastern Phoebe,0.9486377,39.0,42.0
+Sayornis phoebe_Eastern Phoebe,0.8440013,40.0,43.0
+Zenaida macroura_Mourning Dove,0.1570404,41.0,44.0
+Bombycilla cedrorum_Cedar Waxwing,0.11014323,41.0,44.0
+Sayornis phoebe_Eastern Phoebe,0.88859296,42.0,45.0
+Sayornis phoebe_Eastern Phoebe,0.8907074,43.0,46.0
+Sayornis phoebe_Eastern Phoebe,0.92972434,44.0,47.0
+Sayornis phoebe_Eastern Phoebe,0.91207725,45.0,48.0
+Sayornis phoebe_Eastern Phoebe,0.88291025,46.0,49.0
+Sayornis phoebe_Eastern Phoebe,0.94678116,47.0,50.0
+Bombycilla cedrorum_Cedar Waxwing,0.38088173,49.0,52.0
+Leiothlypis peregrina_Tennessee Warbler,0.14735776,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121548325,50.0,53.0
+Sayornis phoebe_Eastern Phoebe,0.57412666,56.0,59.0
+Tamias striatus_Eastern Chipmunk,0.19628617,56.0,59.0
+Sayornis phoebe_Eastern Phoebe,0.29749268,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1455556,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12698159,60.0,63.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.103382386,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13107982,65.0,68.0
+Tamias striatus_Eastern Chipmunk,0.12987626,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12776202,66.0,69.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14618537,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13999638,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15017377,68.0,71.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13934933,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11970068,72.0,75.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.109994166,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24694172,73.0,76.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17427523,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.14351577,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.10268349,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21478792,74.0,77.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17206855,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.16244851,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12798007,75.0,78.0
+Contopus virens_Eastern Wood-Pewee,0.10520901,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117803514,77.0,80.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10770479,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.13553222,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1325293,78.0,81.0
+Tamias striatus_Eastern Chipmunk,0.12582047,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13610128,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.10399101,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14300603,86.0,89.0
+Molothrus ater_Brown-headed Cowbird,0.11491814,87.0,90.0
+Setophaga virens_Black-throated Green Warbler,0.100866236,87.0,90.0
+Molothrus ater_Brown-headed Cowbird,0.110657714,88.0,91.0
+Molothrus ater_Brown-headed Cowbird,0.27718654,89.0,92.0
+Oporornis agilis_Connecticut Warbler,0.14669286,90.0,93.0
+Molothrus ater_Brown-headed Cowbird,0.1079572,90.0,93.0
+Molothrus ater_Brown-headed Cowbird,0.15842496,91.0,94.0
+Sayornis phoebe_Eastern Phoebe,0.14095782,91.0,94.0
+Sayornis phoebe_Eastern Phoebe,0.12205802,92.0,95.0
+Molothrus ater_Brown-headed Cowbird,0.100027785,93.0,96.0
+Molothrus ater_Brown-headed Cowbird,0.12889057,94.0,97.0
+Molothrus ater_Brown-headed Cowbird,0.17639065,95.0,98.0
+Sayornis phoebe_Eastern Phoebe,0.10096516,96.0,99.0
+Sayornis phoebe_Eastern Phoebe,0.19158646,97.0,100.0
+Sayornis phoebe_Eastern Phoebe,0.78134096,98.0,101.0
+Sayornis phoebe_Eastern Phoebe,0.5393743,99.0,102.0
+Molothrus ater_Brown-headed Cowbird,0.1283718,100.0,103.0
+Tamias striatus_Eastern Chipmunk,0.124179274,101.0,104.0
+Molothrus ater_Brown-headed Cowbird,0.12292408,101.0,104.0
+Molothrus ater_Brown-headed Cowbird,0.23830168,102.0,105.0
+Sayornis phoebe_Eastern Phoebe,0.32750237,105.0,108.0
+Sayornis phoebe_Eastern Phoebe,0.28612563,106.0,109.0
+Tamias striatus_Eastern Chipmunk,0.14807017,114.0,117.0
+Tamias striatus_Eastern Chipmunk,0.21777421,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12199021,116.0,119.0
+Setophaga virens_Black-throated Green Warbler,0.10794843,116.0,119.0
+Tamias striatus_Eastern Chipmunk,0.106007084,117.0,120.0
+Tamias striatus_Eastern Chipmunk,0.12760569,119.0,122.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10916808,120.0,123.0
+Tamias striatus_Eastern Chipmunk,0.10153233,120.0,123.0
+Tamias striatus_Eastern Chipmunk,0.1515241,121.0,124.0
+Setophaga virens_Black-throated Green Warbler,0.112098955,121.0,124.0
+Tamias striatus_Eastern Chipmunk,0.19173995,122.0,125.0
+Tamias striatus_Eastern Chipmunk,0.22421597,123.0,126.0
+Setophaga virens_Black-throated Green Warbler,0.12076735,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11502474,124.0,126.86403628117914
+Tamias striatus_Eastern Chipmunk,0.101579264,124.0,126.86403628117914

@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Oriolus oriolus_Eurasian Golden Oriole,0.10732164,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.37152934,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.113080144,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.331913,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.756768,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.26164573,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15434529,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.4333066,5.0,8.0
+Chasiempis sandwichensis_Hawaii Elepaio,0.14252736,7.0,10.0
+Chlorodrepanis virens_Hawaii Amakihi,0.10501345,7.0,10.0
+Hemignathus wilsoni_Akiapolaau,0.1209817,8.0,11.0
+Cardellina canadensis_Canada Warbler,0.22378942,10.0,13.0
+Myiarchus crinitus_Great Crested Flycatcher,0.12188606,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.17711368,11.0,14.0
+Cardellina canadensis_Canada Warbler,0.14565608,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.13958344,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.1382548,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.31621912,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.12139078,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.10915749,13.0,16.0
+Buteo platypterus_Broad-winged Hawk,0.20752548,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.18165521,14.0,17.0
+Himatione sanguinea_Apapane,0.36749512,15.0,18.0
+Chlorodrepanis virens_Hawaii Amakihi,0.12770903,15.0,18.0
+Himatione sanguinea_Apapane,0.56008875,16.0,19.0
+Empidonax minimus_Least Flycatcher,0.11953205,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.16141643,22.0,25.0
+Empidonax minimus_Least Flycatcher,0.15950538,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.63817245,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.15925226,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.82695645,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.132844,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.54294497,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.19434328,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.50928307,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.14310062,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.12000046,28.0,31.0
+Ficedula albicollis_Collared Flycatcher,0.10543461,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.19362028,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.6636105,30.0,33.0
+Vireo cassinii_Cassin's Vireo,0.24190189,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.15953691,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.646508,32.0,35.0
+Catharus ustulatus_Swainson's Thrush,0.26536116,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.17340782,33.0,36.0
+Catharus ustulatus_Swainson's Thrush,0.8440983,34.0,37.0
+Catharus ustulatus_Swainson's Thrush,0.26681948,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.31460467,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.27228191,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11283738,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.1055872,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.5500628,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.23317312,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.14555082,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12550715,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.2697743,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13591008,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.12801372,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.1842396,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.4696362,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.114177644,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.46455643,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.1649659,43.0,46.0
+Contopus virens_Eastern Wood-Pewee,0.14320979,44.0,47.0
+Chlorodrepanis virens_Hawaii Amakihi,0.18938148,45.0,48.0
+Poecile palustris_Marsh Tit,0.21556374,46.0,49.0
+Poecile palustris_Marsh Tit,0.14009447,47.0,50.0
+Poecile palustris_Marsh Tit,0.10413348,48.0,51.0
+Contopus virens_Eastern Wood-Pewee,0.10134883,48.0,51.0
+Catharus ustulatus_Swainson's Thrush,0.40580305,49.0,52.0
+Catharus ustulatus_Swainson's Thrush,0.42133906,50.0,53.0
+Catharus ustulatus_Swainson's Thrush,0.5572608,51.0,54.0
+Drepanis coccinea_Iiwi,0.62830114,52.0,55.0
+Chlorodrepanis virens_Hawaii Amakihi,0.101285554,52.0,55.0
+Hylocichla mustelina_Wood Thrush,0.22468786,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.17530291,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.15956764,53.0,56.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13018696,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.28825164,54.0,57.0
+Cardellina canadensis_Canada Warbler,0.20447743,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.12038739,54.0,57.0
+Cardellina canadensis_Canada Warbler,0.6458228,55.0,58.0

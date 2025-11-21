@@ -1,0 +1,92 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.9965544,0.0,3.0
+Charadrius vociferus_Killdeer,0.99660265,1.0,4.0
+Charadrius vociferus_Killdeer,0.9805813,2.0,5.0
+Charadrius vociferus_Killdeer,0.9927845,3.0,6.0
+Charadrius vociferus_Killdeer,0.9678123,4.0,7.0
+Charadrius vociferus_Killdeer,0.9681581,5.0,8.0
+Charadrius vociferus_Killdeer,0.95522267,6.0,9.0
+Charadrius vociferus_Killdeer,0.95210576,7.0,10.0
+Dryobates minor_Lesser Spotted Woodpecker,0.22218333,8.0,11.0
+Haemorhous mexicanus_House Finch,0.16842209,8.0,11.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.10801654,8.0,11.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.11264122,9.0,12.0
+Laterallus ruber_Ruddy Crake,0.1410615,10.0,13.0
+Haemorhous mexicanus_House Finch,0.13144748,13.0,16.0
+Charadrius vociferus_Killdeer,0.712853,14.0,17.0
+Charadrius vociferus_Killdeer,0.63657373,15.0,18.0
+Charadrius vociferus_Killdeer,0.8474361,16.0,19.0
+Haemorhous mexicanus_House Finch,0.15117958,17.0,20.0
+Haemorhous cassinii_Cassin's Finch,0.14367811,17.0,20.0
+Haemorhous purpureus_Purple Finch,0.14273058,17.0,20.0
+Charadrius vociferus_Killdeer,0.9518373,18.0,21.0
+Charadrius vociferus_Killdeer,0.959203,19.0,22.0
+Charadrius vociferus_Killdeer,0.8935013,20.0,23.0
+Tyrannus tyrannus_Eastern Kingbird,0.42174578,22.0,25.0
+Haemorhous mexicanus_House Finch,0.15889423,24.0,27.0
+Haemorhous mexicanus_House Finch,0.16757596,25.0,28.0
+Charadrius vociferus_Killdeer,0.55824226,27.0,30.0
+Charadrius vociferus_Killdeer,0.8552622,28.0,31.0
+Charadrius vociferus_Killdeer,0.9676423,29.0,32.0
+Charadrius vociferus_Killdeer,0.8961478,30.0,33.0
+Charadrius vociferus_Killdeer,0.9262297,31.0,34.0
+Charadrius vociferus_Killdeer,0.976115,32.0,35.0
+Charadrius vociferus_Killdeer,0.9377661,33.0,36.0
+Charadrius vociferus_Killdeer,0.989251,34.0,37.0
+Charadrius vociferus_Killdeer,0.98715186,35.0,38.0
+Charadrius vociferus_Killdeer,0.8546232,36.0,39.0
+Charadrius vociferus_Killdeer,0.3573836,37.0,40.0
+Falco columbarius_Merlin,0.27009442,37.0,40.0
+Charadrius vociferus_Killdeer,0.9275469,38.0,41.0
+Charadrius vociferus_Killdeer,0.8790588,39.0,42.0
+Charadrius vociferus_Killdeer,0.98121244,40.0,43.0
+Charadrius vociferus_Killdeer,0.9578443,41.0,44.0
+Charadrius vociferus_Killdeer,0.92745996,42.0,45.0
+Charadrius vociferus_Killdeer,0.87412995,43.0,46.0
+Charadrius vociferus_Killdeer,0.98532885,44.0,47.0
+Charadrius vociferus_Killdeer,0.98805517,45.0,48.0
+Charadrius vociferus_Killdeer,0.97316754,46.0,49.0
+Charadrius vociferus_Killdeer,0.9887018,47.0,50.0
+Charadrius vociferus_Killdeer,0.9410859,48.0,51.0
+Charadrius vociferus_Killdeer,0.9578242,49.0,52.0
+Charadrius vociferus_Killdeer,0.9499356,50.0,53.0
+Charadrius vociferus_Killdeer,0.979221,51.0,54.0
+Charadrius vociferus_Killdeer,0.96801245,52.0,55.0
+Charadrius vociferus_Killdeer,0.9560904,53.0,56.0
+Charadrius vociferus_Killdeer,0.5224327,54.0,57.0
+Tyrannus dominicensis_Gray Kingbird,0.1942401,54.0,57.0
+Accipiter badius_Shikra,0.15918882,54.0,57.0
+Charadrius vociferus_Killdeer,0.8977937,55.0,58.0
+Charadrius vociferus_Killdeer,0.8355254,56.0,59.0
+Charadrius vociferus_Killdeer,0.91565704,57.0,60.0
+Galerida cristata_Crested Lark,0.3932636,58.0,61.0
+Galerida theklae_Thekla's Lark,0.31856063,58.0,61.0
+Passerina ciris_Painted Bunting,0.1470068,59.0,62.0
+Haemorhous mexicanus_House Finch,0.130602,59.0,62.0
+Haemorhous mexicanus_House Finch,0.59522724,60.0,63.0
+Icterus spurius_Orchard Oriole,0.14028738,60.0,63.0
+Icterus spurius_Orchard Oriole,0.23490864,61.0,64.0
+Charadrius vociferus_Killdeer,0.89621276,62.0,65.0
+Charadrius vociferus_Killdeer,0.965461,63.0,66.0
+Charadrius vociferus_Killdeer,0.9897295,64.0,67.0
+Charadrius vociferus_Killdeer,0.9710283,65.0,68.0
+Charadrius vociferus_Killdeer,0.9358084,66.0,69.0
+Charadrius vociferus_Killdeer,0.952074,67.0,70.0
+Charadrius vociferus_Killdeer,0.9763821,68.0,71.0
+Charadrius vociferus_Killdeer,0.99468577,69.0,72.0
+Charadrius vociferus_Killdeer,0.98886466,70.0,73.0
+Charadrius vociferus_Killdeer,0.9683483,71.0,74.0
+Charadrius vociferus_Killdeer,0.95229524,72.0,75.0
+Charadrius vociferus_Killdeer,0.941759,73.0,76.0
+Charadrius vociferus_Killdeer,0.9603156,74.0,77.0
+Charadrius vociferus_Killdeer,0.95658284,75.0,78.0
+Charadrius vociferus_Killdeer,0.96701604,76.0,79.0
+Charadrius vociferus_Killdeer,0.9948716,77.0,80.0
+Charadrius vociferus_Killdeer,0.9724824,78.0,81.0
+Charadrius vociferus_Killdeer,0.9956956,79.0,82.0
+Charadrius vociferus_Killdeer,0.9950187,80.0,83.0
+Charadrius vociferus_Killdeer,0.98838377,81.0,84.0
+Charadrius vociferus_Killdeer,0.9250127,82.0,85.0
+Charadrius vociferus_Killdeer,0.9867915,83.0,86.0
+Charadrius vociferus_Killdeer,0.96590525,84.0,87.0
+Charadrius vociferus_Killdeer,0.93091154,85.0,87.40802721088436

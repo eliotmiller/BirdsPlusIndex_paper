@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.4744852,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.1778804,3.0,6.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.19699939,5.0,8.0
+Magumma parva_Anianiau,0.16651528,6.0,9.0
+Ptilotula penicillata_White-plumed Honeyeater,0.11590909,9.0,12.0
+Atrichornis rufescens_Rufous Scrub-bird,0.115334444,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.18955335,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.15786211,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.15097706,12.0,15.0
+Contopus virens_Eastern Wood-Pewee,0.14136434,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.23462895,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.25411853,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.36619118,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.7310025,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.3296152,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.19140214,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.108913295,21.0,24.0
+Chlorodrepanis virens_Hawaii Amakihi,0.1397112,22.0,25.0
+Zosterops japonicus_Warbling White-eye,0.2549864,24.0,27.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2572982,26.0,29.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12843376,27.0,30.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16853112,28.0,31.0
+Drepanis coccinea_Iiwi,0.24504448,29.0,32.0
+Hemignathus wilsoni_Akiapolaau,0.11492619,29.0,32.0
+Loxops coccineus_Hawaii Akepa,0.10030364,29.0,32.0
+Loxops mana_Hawaii Creeper,0.40915352,33.0,36.0
+Drepanis coccinea_Iiwi,0.21063796,33.0,36.0
+Loxops mana_Hawaii Creeper,0.253416,34.0,37.0
+Loxops mana_Hawaii Creeper,0.26895204,35.0,38.0
+Chlorodrepanis virens_Hawaii Amakihi,0.17264542,37.0,40.0
+Loxops mana_Hawaii Creeper,0.10375766,37.0,40.0
+Chlorodrepanis virens_Hawaii Amakihi,0.30369067,39.0,42.0
+Chlorodrepanis virens_Hawaii Amakihi,0.19982871,40.0,43.0
+Chlorodrepanis virens_Hawaii Amakihi,0.22768559,41.0,44.0
+Zosterops japonicus_Warbling White-eye,0.16473962,41.0,44.0
+Hemignathus wilsoni_Akiapolaau,0.22675657,42.0,45.0
+Chlorodrepanis virens_Hawaii Amakihi,0.18712714,43.0,46.0
+Hemignathus wilsoni_Akiapolaau,0.1595454,43.0,46.0
+Loxops mana_Hawaii Creeper,0.1006209,45.0,48.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.1546606,46.0,49.0
+Setophaga magnolia_Magnolia Warbler,0.2253108,47.0,50.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.1251654,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.10096624,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.4385934,48.0,51.0
+Setophaga magnolia_Magnolia Warbler,0.11602054,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.2350444,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.11198105,50.0,53.0
+Chlorodrepanis virens_Hawaii Amakihi,0.20846786,53.0,56.0
+Hemignathus wilsoni_Akiapolaau,0.20549424,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.41423932,54.0,57.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26783496,54.0,57.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.49540842,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.311046,55.0,58.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7144055,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.14901124,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.11612842,56.0,59.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.42328924,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.49291867,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.1246575,58.0,61.0
+Hylocichla mustelina_Wood Thrush,0.21538699,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.12287207,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.2858441,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.30319092,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.44793344,65.0,68.0
+Setophaga ruticilla_American Redstart,0.1815224,69.0,72.0
+Setophaga ruticilla_American Redstart,0.180807,71.0,73.39201814058957

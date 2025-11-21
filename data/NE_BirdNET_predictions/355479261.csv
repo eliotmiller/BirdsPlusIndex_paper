@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.44037294,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.67451566,2.0,5.0
+Cardellina canadensis_Canada Warbler,0.103806764,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9804472,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.9728765,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.9887334,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.9868563,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.92826587,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.28106135,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10175795,7.0,10.0
+Parkesia noveboracensis_Northern Waterthrush,0.2606475,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.23203713,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.28470835,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.2124368,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14375538,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.13089992,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108649656,13.0,16.0
+Contopus virens_Eastern Wood-Pewee,0.15474217,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.11199229,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11181512,16.0,19.0
+Bonasa umbellus_Ruffed Grouse,0.13545626,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.91603833,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.96316516,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.9860407,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.982486,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.98927677,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.12310084,28.0,31.0
+Ficedula albicollis_Collared Flycatcher,0.11551807,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12688106,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.1037322,29.0,32.0
+Contopus virens_Eastern Wood-Pewee,0.14352037,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13494588,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.13486417,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12828115,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1414109,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.15457924,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.11399159,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.10274003,39.0,42.0
+Geothlypis philadelphia_Mourning Warbler,0.10877026,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.10108786,40.0,43.0
+Geothlypis philadelphia_Mourning Warbler,0.19342524,44.0,47.0
+Cardellina canadensis_Canada Warbler,0.10641358,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.97355145,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.9704699,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.9863987,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.95338917,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.88851786,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10266381,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26480776,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.102701485,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.81727284,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.5043656,58.0,61.0
+Ficedula albicollis_Collared Flycatcher,0.19669062,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.6213658,59.0,62.0
+Ficedula albicollis_Collared Flycatcher,0.35649106,59.0,62.0
+Ficedula parva_Red-breasted Flycatcher,0.11033122,59.0,62.0
+Buteo platypterus_Broad-winged Hawk,0.11764624,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12415684,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18628716,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10647503,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.88075244,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.9858024,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.9897417,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.86933655,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.7466455,68.0,71.0
+Tamias striatus_Eastern Chipmunk,0.14781234,72.0,75.0

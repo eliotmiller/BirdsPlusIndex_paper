@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Setophaga americana_Northern Parula,0.84869266,0.0,3.0
+Setophaga ruticilla_American Redstart,0.2503789,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.13952601,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.24560289,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.24529275,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.14507498,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.10184762,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.5152943,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.11555449,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.57133204,5.0,8.0
+Poecile atricapillus_Black-capped Chickadee,0.18982051,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12318331,5.0,8.0
+Setophaga americana_Northern Parula,0.49363187,6.0,9.0
+Setophaga americana_Northern Parula,0.7181349,7.0,10.0
+Setophaga americana_Northern Parula,0.79146296,8.0,11.0
+Setophaga americana_Northern Parula,0.71342576,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.42382428,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24877183,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.23395263,10.0,13.0
+Poecile atricapillus_Black-capped Chickadee,0.11369707,10.0,13.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.25339854,11.0,14.0
+Setophaga occidentalis_Hermit Warbler,0.13828659,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.27387017,12.0,15.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.24302177,12.0,15.0
+Poecile atricapillus_Black-capped Chickadee,0.13756432,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.12796849,12.0,15.0
+Leiothlypis celata_Orange-crowned Warbler,0.123082355,12.0,15.0
+Setophaga occidentalis_Hermit Warbler,0.10910037,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.3383974,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3068231,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.24017149,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5595522,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.52798283,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.19547382,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.12813736,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.36060026,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.35887745,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.15229896,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.10871178,15.0,18.0
+Setophaga americana_Northern Parula,0.86748797,16.0,19.0
+Setophaga americana_Northern Parula,0.8503591,17.0,20.0
+Setophaga americana_Northern Parula,0.7819034,18.0,21.0
+Setophaga ruticilla_American Redstart,0.5135835,19.0,22.0
+Setophaga americana_Northern Parula,0.37690789,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.11575777,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.32668555,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.15726255,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.39878333,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.10707789,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10489081,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.100599855,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22957458,23.0,26.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.14995906,23.0,26.0
+Leiothlypis celata_Orange-crowned Warbler,0.27763835,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.13886079,24.0,27.0
+Setophaga americana_Northern Parula,0.93585944,25.0,28.0
+Setophaga americana_Northern Parula,0.9183975,26.0,29.0
+Setophaga americana_Northern Parula,0.77689123,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15844919,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.12123799,28.0,31.0
+Setophaga ruticilla_American Redstart,0.111253306,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.10022931,28.0,31.0
+Turdus migratorius_American Robin,0.10799807,29.0,32.0
+Piranga ludoviciana_Western Tanager,0.47283813,31.0,34.0
+Setophaga pitiayumi_Tropical Parula,0.17305338,34.0,37.0
+Setophaga americana_Northern Parula,0.12783346,34.0,37.0
+Setophaga americana_Northern Parula,0.48533896,35.0,38.0
+Setophaga americana_Northern Parula,0.29162222,36.0,39.0
