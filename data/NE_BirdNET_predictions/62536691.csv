@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Spizella passerina_Chipping Sparrow,0.17036153,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.13767107,0.0,3.0
+Spizella passerina_Chipping Sparrow,0.19782564,1.0,4.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12157575,1.0,4.0
+Spizella passerina_Chipping Sparrow,0.48972407,2.0,5.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1833248,2.0,5.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1320037,2.0,5.0
+Spizella passerina_Chipping Sparrow,0.40426695,3.0,6.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10099128,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.18973747,4.0,7.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11264535,4.0,7.0
+Vermivora chrysoptera_Golden-winged Warbler,0.16442494,5.0,8.0
+Spizella passerina_Chipping Sparrow,0.1605477,5.0,8.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12685388,5.0,8.0
+Spizella passerina_Chipping Sparrow,0.32660145,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.16820487,7.0,10.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12232615,7.0,10.0
+Vermivora chrysoptera_Golden-winged Warbler,0.30567664,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.26680994,8.0,11.0
+Vermivora cyanoptera_Blue-winged Warbler,0.118158676,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.24869649,9.0,12.0
+Vermivora chrysoptera_Golden-winged Warbler,0.20959552,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.18588848,10.0,13.0
+Arremonops rufivirgatus_Olive Sparrow,0.38117132,11.0,14.0
+Leiothlypis celata_Orange-crowned Warbler,0.15138201,11.0,14.0
+Leiothlypis celata_Orange-crowned Warbler,0.31752992,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.1693468,12.0,15.0
+Arremonops rufivirgatus_Olive Sparrow,0.12054402,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.14766206,13.0,16.0
+Leiothlypis celata_Orange-crowned Warbler,0.1325773,13.0,16.0
+Vermivora chrysoptera_Golden-winged Warbler,0.14461194,14.0,17.0
+Spizella passerina_Chipping Sparrow,0.13436507,14.0,17.0
+Spizella pusilla_Field Sparrow,0.114111796,14.0,17.0
+Spizella pusilla_Field Sparrow,0.20530859,15.0,18.0
+Leiothlypis celata_Orange-crowned Warbler,0.122655384,15.0,18.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11122035,15.0,18.0
+Spizella passerina_Chipping Sparrow,0.13369468,17.0,20.0
+Spizella passerina_Chipping Sparrow,0.13956518,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.13039812,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.26824018,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.10753882,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.23960651,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.18744749,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.13959353,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.27328965,25.0,28.0
+Spizella passerina_Chipping Sparrow,0.13005777,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.5095861,27.0,30.0
+Vermivora chrysoptera_Golden-winged Warbler,0.112313375,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.10065675,28.0,31.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13654797,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.18030034,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.17045952,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.13157308,31.0,34.0
+Emberiza spodocephala_Black-faced Bunting,0.11214731,31.0,34.0
+Spizella passerina_Chipping Sparrow,0.10328349,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.12642688,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.123892054,32.0,35.0
+Emberiza spodocephala_Black-faced Bunting,0.23414813,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.17548327,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.17425574,33.0,36.0
+Emberiza spodocephala_Black-faced Bunting,0.29581118,34.0,37.0
+Spizella passerina_Chipping Sparrow,0.2469382,34.0,37.0
+Emberiza spodocephala_Black-faced Bunting,0.60932505,35.0,38.0
+Spizella passerina_Chipping Sparrow,0.2714729,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.11898827,35.0,38.0
+Emberiza spodocephala_Black-faced Bunting,0.3627348,36.0,39.0
+Spizella passerina_Chipping Sparrow,0.11336702,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.101569995,37.0,39.98403628117914

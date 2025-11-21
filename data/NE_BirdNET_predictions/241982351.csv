@@ -1,0 +1,590 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.19113462,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.43588394,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.114466965,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11438326,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.3799727,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.1120437,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.35827833,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12101214,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.3618546,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10865225,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.60707647,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.24066833,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12665913,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.21597035,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.56928146,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11709587,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.22967109,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17785099,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.44656247,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34997553,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11893909,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21587929,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.14012648,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24100669,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15784316,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10733038,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.43787697,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.8351181,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.47649008,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.46873483,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.19992797,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.7024155,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.85569346,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.7898294,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.76589113,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.14181525,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12703232,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.4896825,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123492405,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.10905781,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.10097736,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2007922,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.122550294,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.17849262,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.15842767,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13788407,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.23200881,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.637589,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116683185,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113923915,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.10583299,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.5283053,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.69525534,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.41731212,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.69385934,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.68333244,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.3626643,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.24237935,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14251173,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.1314674,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13129856,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.35250747,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.35132945,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.121041,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.26322466,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.41008866,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10040055,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.50656134,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12220088,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.13518995,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13463375,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.11331993,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.11039487,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18961945,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.14717689,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13997167,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.13718064,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.10291712,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15970634,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.1509725,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13686049,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.27357993,58.0,61.0
+Hylocichla mustelina_Wood Thrush,0.22476692,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115439676,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10344267,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14659415,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14782085,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10356514,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.24821874,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.30479681,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.15705933,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.11939113,67.0,70.0
+Hylocichla mustelina_Wood Thrush,0.52615225,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.43015623,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1678538,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.39728558,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22962146,71.0,74.0
+Setophaga fusca_Blackburnian Warbler,0.11773945,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.113223605,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.8326141,73.0,76.0
+Geothlypis formosa_Kentucky Warbler,0.10154891,73.0,76.0
+Hylocichla mustelina_Wood Thrush,0.31664872,74.0,77.0
+Hylocichla mustelina_Wood Thrush,0.55769765,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.12352852,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11578837,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.16273797,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11459013,77.0,80.0
+Geothlypis formosa_Kentucky Warbler,0.11263698,77.0,80.0
+Hylocichla mustelina_Wood Thrush,0.16548677,81.0,84.0
+Hylocichla mustelina_Wood Thrush,0.39696762,82.0,85.0
+Hylocichla mustelina_Wood Thrush,0.4524959,83.0,86.0
+Hylocichla mustelina_Wood Thrush,0.3168817,84.0,87.0
+Hylocichla mustelina_Wood Thrush,0.30263817,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14459305,86.0,89.0
+Hylocichla mustelina_Wood Thrush,0.58934367,87.0,90.0
+Hylocichla mustelina_Wood Thrush,0.31378347,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.28156936,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.2385395,90.0,93.0
+Hylocichla mustelina_Wood Thrush,0.80441827,91.0,94.0
+Hylocichla mustelina_Wood Thrush,0.24078842,92.0,95.0
+Catharus fuscescens_Veery,0.107549235,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10471023,92.0,95.0
+Hylocichla mustelina_Wood Thrush,0.2102448,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124977596,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11847597,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.27353752,95.0,98.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10386619,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.29847053,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16164905,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122147776,97.0,100.0
+Buteo platypterus_Broad-winged Hawk,0.10772415,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10519193,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.28243172,100.0,103.0
+Hylocichla mustelina_Wood Thrush,0.22534524,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1153488,101.0,104.0
+Hylocichla mustelina_Wood Thrush,0.2388712,102.0,105.0
+Empidonax virescens_Acadian Flycatcher,0.49883887,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13525215,103.0,106.0
+Empidonax virescens_Acadian Flycatcher,0.56838083,104.0,107.0
+Setophaga citrina_Hooded Warbler,0.124875285,104.0,107.0
+Empidonax virescens_Acadian Flycatcher,0.7798994,105.0,108.0
+Empidonax virescens_Acadian Flycatcher,0.19928943,106.0,109.0
+Myiodynastes luteiventris_Sulphur-bellied Flycatcher,0.122955926,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12932682,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12877184,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.10325913,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106630825,109.0,112.0
+Hylocichla mustelina_Wood Thrush,0.24603209,111.0,114.0
+Hylocichla mustelina_Wood Thrush,0.34663445,112.0,115.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11632691,112.0,115.0
+Hylocichla mustelina_Wood Thrush,0.3295616,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1413703,114.0,117.0
+Empidonax virescens_Acadian Flycatcher,0.12223012,115.0,118.0
+Buteo platypterus_Broad-winged Hawk,0.18699653,116.0,119.0
+Setophaga virens_Black-throated Green Warbler,0.13205053,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14259037,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13423656,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12025547,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11526018,119.0,122.0
+Hylocichla mustelina_Wood Thrush,0.45539346,120.0,123.0
+Hylocichla mustelina_Wood Thrush,0.19102733,121.0,124.0
+Hylocichla mustelina_Wood Thrush,0.2845762,122.0,125.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1298585,123.0,126.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1558925,124.0,127.0
+Geothlypis formosa_Kentucky Warbler,0.10967914,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.10293803,124.0,127.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18967892,125.0,128.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11785659,126.0,129.0
+Empidonax virescens_Acadian Flycatcher,0.11642361,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104286835,127.0,130.0
+Empidonax virescens_Acadian Flycatcher,0.12666705,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14363292,129.0,132.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12262578,129.0,132.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12235663,131.0,134.0
+Leiothlypis peregrina_Tennessee Warbler,0.16365568,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18480368,133.0,136.0
+Hylocichla mustelina_Wood Thrush,0.124401264,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11537815,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18967934,134.0,137.0
+Hylocichla mustelina_Wood Thrush,0.1436667,134.0,137.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14235827,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17157176,136.0,139.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14090215,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14325991,137.0,140.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1178085,137.0,140.0
+Hylocichla mustelina_Wood Thrush,0.39386967,138.0,141.0
+Hylocichla mustelina_Wood Thrush,0.2657362,139.0,142.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107261494,139.0,142.0
+Hylocichla mustelina_Wood Thrush,0.14328878,140.0,143.0
+Setophaga virens_Black-throated Green Warbler,0.27203476,141.0,144.0
+Buteo platypterus_Broad-winged Hawk,0.16203251,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122159876,141.0,144.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11061084,141.0,144.0
+Hylocichla mustelina_Wood Thrush,0.12495406,142.0,145.0
+Hylocichla mustelina_Wood Thrush,0.26905233,143.0,146.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103602275,143.0,146.0
+Hylocichla mustelina_Wood Thrush,0.40636796,144.0,147.0
+Hylocichla mustelina_Wood Thrush,0.31407115,145.0,148.0
+Hylocichla mustelina_Wood Thrush,0.5579655,146.0,149.0
+Hylocichla mustelina_Wood Thrush,0.19410561,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11251265,147.0,150.0
+Hylocichla mustelina_Wood Thrush,0.39097908,148.0,151.0
+Setophaga fusca_Blackburnian Warbler,0.12728961,149.0,152.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11642424,150.0,153.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10161219,151.0,154.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11187867,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12986603,153.0,156.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11298771,153.0,156.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12268916,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12266569,154.0,157.0
+Hylocichla mustelina_Wood Thrush,0.13903047,155.0,158.0
+Hylocichla mustelina_Wood Thrush,0.16990729,156.0,159.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10932136,156.0,159.0
+Empidonax virescens_Acadian Flycatcher,0.15404335,157.0,160.0
+Setophaga citrina_Hooded Warbler,0.12137173,157.0,160.0
+Empidonax virescens_Acadian Flycatcher,0.7363676,158.0,161.0
+Empidonax virescens_Acadian Flycatcher,0.9385767,159.0,162.0
+Empidonax virescens_Acadian Flycatcher,0.7779803,160.0,163.0
+Oporornis agilis_Connecticut Warbler,0.684351,160.0,163.0
+Hylocichla mustelina_Wood Thrush,0.43625477,162.0,165.0
+Hylocichla mustelina_Wood Thrush,0.39551592,163.0,166.0
+Setophaga cerulea_Cerulean Warbler,0.11416989,163.0,166.0
+Helmitheros vermivorum_Worm-eating Warbler,0.108340845,163.0,166.0
+Hylocichla mustelina_Wood Thrush,0.45850962,164.0,167.0
+Hylocichla mustelina_Wood Thrush,0.12602139,165.0,168.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10600236,166.0,169.0
+Hylocichla mustelina_Wood Thrush,0.12827075,169.0,172.0
+Hylocichla mustelina_Wood Thrush,0.13026011,170.0,173.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13489725,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11996289,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14737205,173.0,176.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10384684,173.0,176.0
+Hylocichla mustelina_Wood Thrush,0.33923224,174.0,177.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13437533,175.0,178.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19066496,177.0,180.0
+Empidonax virescens_Acadian Flycatcher,0.1594512,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14381203,177.0,180.0
+Setophaga citrina_Hooded Warbler,0.11671185,177.0,180.0
+Setophaga cerulea_Cerulean Warbler,0.11278125,177.0,180.0
+Hylocichla mustelina_Wood Thrush,0.58790034,179.0,182.0
+Hylocichla mustelina_Wood Thrush,0.400493,180.0,183.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10157498,180.0,183.0
+Hylocichla mustelina_Wood Thrush,0.44173035,181.0,184.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12037337,181.0,184.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13669623,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10439379,182.0,185.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13258085,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10276713,183.0,186.0
+Hylocichla mustelina_Wood Thrush,0.27516648,184.0,187.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1289461,184.0,187.0
+Hylocichla mustelina_Wood Thrush,0.1531159,185.0,188.0
+Geothlypis formosa_Kentucky Warbler,0.100647815,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14013244,190.0,193.0
+Geothlypis formosa_Kentucky Warbler,0.103445366,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.101197585,190.0,193.0
+Hylocichla mustelina_Wood Thrush,0.18609104,192.0,195.0
+Geothlypis formosa_Kentucky Warbler,0.1259951,192.0,195.0
+Hylocichla mustelina_Wood Thrush,0.3183747,193.0,196.0
+Geothlypis formosa_Kentucky Warbler,0.10497639,193.0,196.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10275328,193.0,196.0
+Hylocichla mustelina_Wood Thrush,0.113551214,196.0,199.0
+Hylocichla mustelina_Wood Thrush,0.14766951,197.0,200.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12750992,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110138014,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12300367,199.0,202.0
+Setophaga cerulea_Cerulean Warbler,0.13989568,200.0,203.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10919118,200.0,203.0
+Hylocichla mustelina_Wood Thrush,0.104284525,200.0,203.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10489415,201.0,204.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10289348,201.0,204.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101311296,202.0,205.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15936267,203.0,206.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1405018,203.0,206.0
+Empidonax virescens_Acadian Flycatcher,0.13003495,203.0,206.0
+Empidonax virescens_Acadian Flycatcher,0.18024488,204.0,207.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12783167,204.0,207.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102318764,204.0,207.0
+Hylocichla mustelina_Wood Thrush,0.1755006,205.0,208.0
+Hylocichla mustelina_Wood Thrush,0.19103481,207.0,210.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17776114,209.0,212.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1237026,209.0,212.0
+Hylocichla mustelina_Wood Thrush,0.18713075,210.0,213.0
+Hylocichla mustelina_Wood Thrush,0.6646353,211.0,214.0
+Hylocichla mustelina_Wood Thrush,0.18930833,212.0,215.0
+Geothlypis formosa_Kentucky Warbler,0.15700343,212.0,215.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16176142,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15753871,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2222593,215.0,218.0
+Setophaga cerulea_Cerulean Warbler,0.1558037,215.0,218.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103261955,215.0,218.0
+Hylocichla mustelina_Wood Thrush,0.7507745,217.0,220.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10673736,217.0,220.0
+Hylocichla mustelina_Wood Thrush,0.50763875,218.0,221.0
+Hylocichla mustelina_Wood Thrush,0.16721174,219.0,222.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10354578,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24355045,223.0,226.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24972418,224.0,227.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13088174,224.0,227.0
+Empidonax virescens_Acadian Flycatcher,0.11118258,224.0,227.0
+Setophaga fusca_Blackburnian Warbler,0.11111137,224.0,227.0
+Setophaga virens_Black-throated Green Warbler,0.10659136,224.0,227.0
+Hylocichla mustelina_Wood Thrush,0.5370089,226.0,229.0
+Hylocichla mustelina_Wood Thrush,0.14811616,227.0,230.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10706848,230.0,233.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10567978,230.0,233.0
+Hylocichla mustelina_Wood Thrush,0.12583694,231.0,234.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18764773,232.0,235.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106801234,232.0,235.0
+Hylocichla mustelina_Wood Thrush,0.2902261,233.0,236.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12602176,233.0,236.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19574578,234.0,237.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15748298,235.0,238.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13274689,235.0,238.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2958394,236.0,239.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1883599,236.0,239.0
+Setophaga cerulea_Cerulean Warbler,0.13726361,236.0,239.0
+Buteo platypterus_Broad-winged Hawk,0.10674037,236.0,239.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22953098,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17356053,237.0,240.0
+Empidonax virescens_Acadian Flycatcher,0.15699144,237.0,240.0
+Geothlypis formosa_Kentucky Warbler,0.10467325,237.0,240.0
+Hylocichla mustelina_Wood Thrush,0.66222274,238.0,241.0
+Hylocichla mustelina_Wood Thrush,0.6513493,239.0,242.0
+Hylocichla mustelina_Wood Thrush,0.24458146,240.0,243.0
+Hylocichla mustelina_Wood Thrush,0.3382068,242.0,245.0
+Hylocichla mustelina_Wood Thrush,0.7807501,243.0,246.0
+Piranga olivacea_Scarlet Tanager,0.10993746,243.0,246.0
+Hylocichla mustelina_Wood Thrush,0.42107043,244.0,247.0
+Hylocichla mustelina_Wood Thrush,0.4064939,246.0,249.0
+Hylocichla mustelina_Wood Thrush,0.62529856,247.0,250.0
+Hylocichla mustelina_Wood Thrush,0.52101004,248.0,251.0
+Hylocichla mustelina_Wood Thrush,0.2163571,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11393148,249.0,252.0
+Hylocichla mustelina_Wood Thrush,0.71151453,250.0,253.0
+Hylocichla mustelina_Wood Thrush,0.3889488,251.0,254.0
+Hylocichla mustelina_Wood Thrush,0.8094829,252.0,255.0
+Hylocichla mustelina_Wood Thrush,0.62299824,254.0,257.0
+Hylocichla mustelina_Wood Thrush,0.24683623,255.0,258.0
+Catharus guttatus_Hermit Thrush,0.18567622,256.0,259.0
+Hylocichla mustelina_Wood Thrush,0.45963374,257.0,260.0
+Hylocichla mustelina_Wood Thrush,0.66729337,258.0,261.0
+Hylocichla mustelina_Wood Thrush,0.49142978,259.0,262.0
+Hylocichla mustelina_Wood Thrush,0.11533353,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11088102,265.0,268.0
+Hylocichla mustelina_Wood Thrush,0.3437302,266.0,269.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104506105,266.0,269.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1941677,267.0,270.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16864282,267.0,270.0
+Empidonax virescens_Acadian Flycatcher,0.11783518,267.0,270.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24816222,268.0,271.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15768267,268.0,271.0
+Hylocichla mustelina_Wood Thrush,0.2934235,269.0,272.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13572387,269.0,272.0
+Leiothlypis peregrina_Tennessee Warbler,0.2349459,270.0,273.0
+Hylocichla mustelina_Wood Thrush,0.13099484,270.0,273.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10388369,270.0,273.0
+Hylocichla mustelina_Wood Thrush,0.1990403,271.0,274.0
+Hylocichla mustelina_Wood Thrush,0.3037477,273.0,276.0
+Hylocichla mustelina_Wood Thrush,0.1186204,275.0,278.0
+Helmitheros vermivorum_Worm-eating Warbler,0.115485206,276.0,279.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.172541,279.0,282.0
+Hylocichla mustelina_Wood Thrush,0.6201719,280.0,283.0
+Hylocichla mustelina_Wood Thrush,0.45783338,281.0,284.0
+Hylocichla mustelina_Wood Thrush,0.63197136,282.0,285.0
+Tamias striatus_Eastern Chipmunk,0.1016343,283.0,286.0
+Hylocichla mustelina_Wood Thrush,0.18863702,284.0,287.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15162103,284.0,287.0
+Piranga olivacea_Scarlet Tanager,0.10421344,284.0,287.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1387985,285.0,288.0
+Hylocichla mustelina_Wood Thrush,0.12015499,285.0,288.0
+Hylocichla mustelina_Wood Thrush,0.2991172,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18268803,287.0,290.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107900865,287.0,290.0
+Hylocichla mustelina_Wood Thrush,0.24672487,288.0,291.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117961414,288.0,291.0
+Hylocichla mustelina_Wood Thrush,0.10068805,289.0,292.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21271136,291.0,294.0
+Setophaga virens_Black-throated Green Warbler,0.13633245,291.0,294.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13071828,291.0,294.0
+Hylocichla mustelina_Wood Thrush,0.522477,292.0,295.0
+Hylocichla mustelina_Wood Thrush,0.32391387,293.0,296.0
+Hylocichla mustelina_Wood Thrush,0.25301835,294.0,297.0
+Hylocichla mustelina_Wood Thrush,0.16325858,295.0,298.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1265139,295.0,298.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23478639,296.0,299.0
+Hylocichla mustelina_Wood Thrush,0.2875719,297.0,300.0
+Leiothlypis peregrina_Tennessee Warbler,0.13911182,298.0,301.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11806807,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11496427,298.0,301.0
+Hylocichla mustelina_Wood Thrush,0.80207217,299.0,302.0
+Hylocichla mustelina_Wood Thrush,0.8714788,300.0,303.0
+Hylocichla mustelina_Wood Thrush,0.5885804,301.0,304.0
+Hylocichla mustelina_Wood Thrush,0.38653126,302.0,305.0
+Hylocichla mustelina_Wood Thrush,0.46597585,303.0,306.0
+Hylocichla mustelina_Wood Thrush,0.34034914,304.0,307.0
+Hylocichla mustelina_Wood Thrush,0.2729287,305.0,308.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107025206,305.0,308.0
+Hylocichla mustelina_Wood Thrush,0.5283846,306.0,309.0
+Hylocichla mustelina_Wood Thrush,0.5907559,307.0,310.0
+Molothrus ater_Brown-headed Cowbird,0.1526985,308.0,311.0
+Hylocichla mustelina_Wood Thrush,0.14946476,308.0,311.0
+Hylocichla mustelina_Wood Thrush,0.5576375,309.0,312.0
+Hylocichla mustelina_Wood Thrush,0.3424194,310.0,313.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123938814,310.0,313.0
+Hylocichla mustelina_Wood Thrush,0.37729007,311.0,314.0
+Hylocichla mustelina_Wood Thrush,0.108824015,313.0,316.0
+Hylocichla mustelina_Wood Thrush,0.41916755,315.0,318.0
+Hylocichla mustelina_Wood Thrush,0.5233331,316.0,319.0
+Hylocichla mustelina_Wood Thrush,0.6473211,317.0,320.0
+Hylocichla mustelina_Wood Thrush,0.14158468,318.0,321.0
+Hylocichla mustelina_Wood Thrush,0.8690503,319.0,322.0
+Hylocichla mustelina_Wood Thrush,0.8409924,320.0,323.0
+Hylocichla mustelina_Wood Thrush,0.6246365,321.0,324.0
+Hylocichla mustelina_Wood Thrush,0.6482819,322.0,325.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10553765,322.0,325.0
+Hylocichla mustelina_Wood Thrush,0.62681055,323.0,326.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15314467,323.0,326.0
+Hylocichla mustelina_Wood Thrush,0.6996035,324.0,327.0
+Hylocichla mustelina_Wood Thrush,0.234453,325.0,328.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11630184,325.0,328.0
+Catharus guttatus_Hermit Thrush,0.27719647,327.0,330.0
+Hylocichla mustelina_Wood Thrush,0.24402633,328.0,331.0
+Hylocichla mustelina_Wood Thrush,0.2199943,329.0,332.0
+Hylocichla mustelina_Wood Thrush,0.1407945,330.0,333.0
+Hylocichla mustelina_Wood Thrush,0.2366728,331.0,334.0
+Hylocichla mustelina_Wood Thrush,0.18793637,332.0,335.0
+Hylocichla mustelina_Wood Thrush,0.26906657,333.0,336.0
+Hylocichla mustelina_Wood Thrush,0.47172025,334.0,337.0
+Hylocichla mustelina_Wood Thrush,0.20978384,335.0,338.0
+Hylocichla mustelina_Wood Thrush,0.2833,336.0,339.0
+Hylocichla mustelina_Wood Thrush,0.4966203,337.0,340.0
+Hylocichla mustelina_Wood Thrush,0.56281817,338.0,341.0
+Hylocichla mustelina_Wood Thrush,0.4077664,339.0,342.0
+Hylocichla mustelina_Wood Thrush,0.63857186,340.0,343.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3284526,340.0,343.0
+Hylocichla mustelina_Wood Thrush,0.6173996,341.0,344.0
+Hylocichla mustelina_Wood Thrush,0.46123266,342.0,345.0
+Molothrus ater_Brown-headed Cowbird,0.2805392,343.0,346.0
+Hylocichla mustelina_Wood Thrush,0.15209258,344.0,347.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13142924,344.0,347.0
+Hylocichla mustelina_Wood Thrush,0.10986447,345.0,348.0
+Hylocichla mustelina_Wood Thrush,0.12620853,346.0,349.0
+Geothlypis formosa_Kentucky Warbler,0.10936346,349.0,352.0
+Hylocichla mustelina_Wood Thrush,0.1976784,350.0,353.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14151517,350.0,353.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11830331,350.0,353.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20330751,351.0,354.0
+Hylocichla mustelina_Wood Thrush,0.11040552,351.0,354.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10499439,352.0,355.0
+Hylocichla mustelina_Wood Thrush,0.51658267,354.0,357.0
+Hylocichla mustelina_Wood Thrush,0.44431534,355.0,358.0
+Hylocichla mustelina_Wood Thrush,0.48728022,356.0,359.0
+Hylocichla mustelina_Wood Thrush,0.14689317,357.0,360.0
+Hylocichla mustelina_Wood Thrush,0.61492455,358.0,361.0
+Hylocichla mustelina_Wood Thrush,0.5269028,359.0,362.0
+Geothlypis formosa_Kentucky Warbler,0.10255003,359.0,362.0
+Hylocichla mustelina_Wood Thrush,0.6294798,360.0,363.0
+Hylocichla mustelina_Wood Thrush,0.20568669,361.0,364.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15013228,362.0,365.0
+Hylocichla mustelina_Wood Thrush,0.31791028,363.0,366.0
+Hylocichla mustelina_Wood Thrush,0.23208019,364.0,367.0
+Myadestes ralloides_Andean Solitaire,0.14054112,364.0,367.0
+Hylocichla mustelina_Wood Thrush,0.12961383,366.0,369.0
+Hylocichla mustelina_Wood Thrush,0.42777336,367.0,370.0
+Hylocichla mustelina_Wood Thrush,0.9581547,368.0,371.0
+Hylocichla mustelina_Wood Thrush,0.8603897,369.0,372.0
+Hylocichla mustelina_Wood Thrush,0.78928226,370.0,373.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12236562,372.0,375.0
+Setophaga fusca_Blackburnian Warbler,0.11702204,372.0,375.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15728393,373.0,376.0
+Setophaga fusca_Blackburnian Warbler,0.11440765,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13497108,374.0,377.0
+Empidonax virescens_Acadian Flycatcher,0.11053712,374.0,377.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15806384,375.0,378.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11014655,375.0,378.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12891372,376.0,379.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11320562,376.0,379.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105760224,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17014898,378.0,381.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10684166,378.0,381.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19156821,384.0,387.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15844987,384.0,387.0
+Setophaga virens_Black-throated Green Warbler,0.13272098,384.0,387.0
+Setophaga fusca_Blackburnian Warbler,0.122716784,384.0,387.0
+Setophaga cerulea_Cerulean Warbler,0.11727679,384.0,387.0
+Hylocichla mustelina_Wood Thrush,0.13079995,385.0,388.0
+Hylocichla mustelina_Wood Thrush,0.12640841,386.0,389.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14727925,388.0,391.0
+Setophaga fusca_Blackburnian Warbler,0.12619959,388.0,391.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106499396,388.0,391.0
+Hylocichla mustelina_Wood Thrush,0.21532564,389.0,392.0
+Hylocichla mustelina_Wood Thrush,0.15572456,390.0,393.0
+Hylocichla mustelina_Wood Thrush,0.17619264,391.0,394.0
+Setophaga fusca_Blackburnian Warbler,0.14625888,392.0,395.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13662094,392.0,395.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12109069,392.0,395.0
+Setophaga virens_Black-throated Green Warbler,0.12088147,392.0,395.0
+Piranga olivacea_Scarlet Tanager,0.13032888,393.0,396.0
+Hylocichla mustelina_Wood Thrush,0.12713419,393.0,396.0
+Hylocichla mustelina_Wood Thrush,0.14831506,394.0,397.0
+Hylocichla mustelina_Wood Thrush,0.14098819,395.0,398.0
+Piranga olivacea_Scarlet Tanager,0.11227209,395.0,398.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24040464,397.0,400.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12497508,397.0,400.0
+Setophaga fusca_Blackburnian Warbler,0.115052894,397.0,400.0
+Empidonax virescens_Acadian Flycatcher,0.10564375,397.0,400.0
+Hylocichla mustelina_Wood Thrush,0.32982147,398.0,401.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10259151,398.0,401.0
+Hylocichla mustelina_Wood Thrush,0.2336424,399.0,402.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10937522,399.0,402.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10365806,399.0,402.0
+Hylocichla mustelina_Wood Thrush,0.19147621,400.0,403.0
+Setophaga virens_Black-throated Green Warbler,0.1506203,401.0,404.0
+Setophaga fusca_Blackburnian Warbler,0.14036964,401.0,404.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13704129,401.0,404.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12282862,401.0,404.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18046632,402.0,405.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12979513,402.0,405.0
+Hylocichla mustelina_Wood Thrush,0.1385678,403.0,406.0
+Hylocichla mustelina_Wood Thrush,0.20685112,404.0,407.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15993276,405.0,408.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121051714,405.0,408.0
+Piranga olivacea_Scarlet Tanager,0.11185474,405.0,408.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17410877,406.0,409.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11138777,406.0,409.0
+Setophaga fusca_Blackburnian Warbler,0.10483969,406.0,409.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11796208,407.0,410.0
+Empidonax virescens_Acadian Flycatcher,0.10692175,407.0,410.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20155019,408.0,411.0
+Setophaga fusca_Blackburnian Warbler,0.11634556,408.0,411.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26467684,409.0,412.0
+Setophaga fusca_Blackburnian Warbler,0.13347495,409.0,412.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10605464,409.0,412.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13025607,410.0,413.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18023716,411.0,414.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12211132,411.0,414.0
+Empidonax virescens_Acadian Flycatcher,0.16214576,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14503883,412.0,415.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11331199,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18073203,413.0,416.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13834314,413.0,416.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2037204,414.0,417.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14436825,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15260059,415.0,418.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102800265,415.0,418.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17375013,417.0,420.0
+Setophaga fusca_Blackburnian Warbler,0.14333887,417.0,420.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12037146,417.0,420.0
+Hylocichla mustelina_Wood Thrush,0.19463266,420.0,423.0
+Molothrus ater_Brown-headed Cowbird,0.1355752,420.0,423.0
+Molothrus ater_Brown-headed Cowbird,0.12189557,421.0,424.0
+Molothrus ater_Brown-headed Cowbird,0.15230134,422.0,425.0
+Hylocichla mustelina_Wood Thrush,0.54385453,423.0,426.0
+Hylocichla mustelina_Wood Thrush,0.51954025,424.0,427.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10225584,424.0,427.0
+Hylocichla mustelina_Wood Thrush,0.9048129,426.0,429.0
+Hylocichla mustelina_Wood Thrush,0.28823248,427.0,430.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11281354,427.0,430.0
+Hylocichla mustelina_Wood Thrush,0.31054613,428.0,431.0
+Piranga olivacea_Scarlet Tanager,0.123757005,429.0,432.0
+Helmitheros vermivorum_Worm-eating Warbler,0.120248325,429.0,432.0
+Hylocichla mustelina_Wood Thrush,0.28379345,431.0,434.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14926673,432.0,435.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10509927,432.0,435.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20061345,434.0,437.0
+Setophaga fusca_Blackburnian Warbler,0.17688982,434.0,437.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15898457,434.0,437.0
+Setophaga cerulea_Cerulean Warbler,0.1172337,434.0,437.0
+Hylocichla mustelina_Wood Thrush,0.17720464,435.0,438.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13156761,436.0,439.0
+Setophaga cerulea_Cerulean Warbler,0.10879049,436.0,439.0
+Buteo platypterus_Broad-winged Hawk,0.10463796,440.0,443.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10049264,441.0,444.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15346031,442.0,445.0
+Empidonax virescens_Acadian Flycatcher,0.16061954,443.0,446.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13587983,443.0,446.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1656703,444.0,447.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100100525,444.0,447.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11336564,448.0,451.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117843,450.0,453.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11269423,463.0,466.0
+Bonasa umbellus_Ruffed Grouse,0.115751095,467.0,470.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10606847,474.0,477.0
+Vireo solitarius_Blue-headed Vireo,0.101407416,477.0,480.0
+Vireo olivaceus_Red-eyed Vireo,0.34796223,478.0,481.0
+Vireo philadelphicus_Philadelphia Vireo,0.114887156,478.0,481.0
+Vireo olivaceus_Red-eyed Vireo,0.31350034,479.0,482.0
+Empidonax virescens_Acadian Flycatcher,0.107181795,481.0,484.0
+Empidonax virescens_Acadian Flycatcher,0.17942937,482.0,484.99201814058955

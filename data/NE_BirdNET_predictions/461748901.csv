@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Setophaga tigrina_Cape May Warbler,0.45881176,0.0,3.0
+Chlorestes eliciae_Blue-throated Goldentail,0.35523435,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.1070983,0.0,3.0
+Setophaga tigrina_Cape May Warbler,0.31826347,1.0,4.0
+Chlorestes eliciae_Blue-throated Goldentail,0.15230218,1.0,4.0
+Zeledonia coronata_Wrenthrush,0.117282696,1.0,4.0
+Chlorestes eliciae_Blue-throated Goldentail,0.4885273,2.0,5.0
+Setophaga striata_Blackpoll Warbler,0.29679438,4.0,7.0
+Mniotilta varia_Black-and-white Warbler,0.13119726,5.0,8.0
+Setophaga castanea_Bay-breasted Warbler,0.10683565,5.0,8.0
+Mniotilta varia_Black-and-white Warbler,0.21914527,8.0,11.0
+Setophaga tigrina_Cape May Warbler,0.17112207,8.0,11.0
+Zeledonia coronata_Wrenthrush,0.13941692,8.0,11.0
+Mniotilta varia_Black-and-white Warbler,0.1425248,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.14862631,15.0,18.0
+Mniotilta varia_Black-and-white Warbler,0.21944413,18.0,21.0
+Chlorestes eliciae_Blue-throated Goldentail,0.24889717,19.0,22.0
+Setophaga striata_Blackpoll Warbler,0.10341859,20.0,23.0
+Limnodromus scolopaceus_Long-billed Dowitcher,0.13034283,21.0,24.0
+Zonotrichia albicollis_White-throated Sparrow,0.12460725,24.0,27.0
+Zenaida macroura_Mourning Dove,0.7666562,25.0,28.0
+Zenaida macroura_Mourning Dove,0.94837666,26.0,29.0
+Zenaida macroura_Mourning Dove,0.89208245,27.0,30.0
+Zenaida macroura_Mourning Dove,0.91042703,28.0,31.0
+Zenaida macroura_Mourning Dove,0.8324588,29.0,32.0
+Zenaida macroura_Mourning Dove,0.91639066,32.0,35.0
+Zenaida macroura_Mourning Dove,0.9473271,33.0,36.0
+Zenaida macroura_Mourning Dove,0.801755,34.0,37.0
+Zenaida macroura_Mourning Dove,0.3772402,35.0,38.0
+Zenaida macroura_Mourning Dove,0.53253347,38.0,41.0
+Zenaida macroura_Mourning Dove,0.77372175,39.0,42.0
+Zenaida macroura_Mourning Dove,0.9554262,40.0,43.0
+Zenaida macroura_Mourning Dove,0.88750374,41.0,44.0
+Zenaida macroura_Mourning Dove,0.88485205,42.0,45.0
+Zenaida macroura_Mourning Dove,0.80993336,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.10858068,44.0,47.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10448023,44.0,47.0
+Zenaida macroura_Mourning Dove,0.32776496,45.0,48.0
+Regulus satrapa_Golden-crowned Kinglet,0.12130112,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.10971872,45.0,48.0
+Zenaida macroura_Mourning Dove,0.5880286,46.0,49.0
+Zenaida macroura_Mourning Dove,0.59279835,47.0,50.0
+Bombycilla cedrorum_Cedar Waxwing,0.10275122,48.0,51.0
+Regulus satrapa_Golden-crowned Kinglet,0.18343219,49.0,52.0
+Baeolophus bicolor_Tufted Titmouse,0.15169127,50.0,53.0
+Baeolophus bicolor_Tufted Titmouse,0.20701388,52.0,55.0
+Baeolophus bicolor_Tufted Titmouse,0.12594104,54.0,57.0
+Regulus satrapa_Golden-crowned Kinglet,0.21404162,55.0,58.0
+Poecile rufescens_Chestnut-backed Chickadee,0.14250039,55.0,58.0
+Bombycilla cedrorum_Cedar Waxwing,0.12078917,56.0,59.0
+Regulus satrapa_Golden-crowned Kinglet,0.37816432,57.0,60.0
+Regulus satrapa_Golden-crowned Kinglet,0.2272172,58.0,61.0
+Bombycilla cedrorum_Cedar Waxwing,0.18562637,59.0,62.0
+Baeolophus bicolor_Tufted Titmouse,0.10461439,62.0,65.0

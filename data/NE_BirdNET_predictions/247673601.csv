@@ -1,0 +1,199 @@
+species,score,start_time,end_time
+Turdus migratorius_American Robin,0.22078297,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15511598,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.769003,1.0,4.0
+Turdus migratorius_American Robin,0.1404191,1.0,4.0
+Turdus migratorius_American Robin,0.36386922,2.0,5.0
+Turdus migratorius_American Robin,0.5410118,3.0,6.0
+Turdus migratorius_American Robin,0.26978374,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.100551195,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.12424469,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.11835999,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10728138,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13325624,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.10432885,10.0,13.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37316787,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.1837144,11.0,14.0
+Turdus migratorius_American Robin,0.21746895,12.0,15.0
+Turdus migratorius_American Robin,0.31044337,13.0,16.0
+Turdus migratorius_American Robin,0.733866,14.0,17.0
+Icterus galbula_Baltimore Oriole,0.17139158,16.0,19.0
+Turdus migratorius_American Robin,0.32880986,17.0,20.0
+Turdus migratorius_American Robin,0.17749117,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.14396894,18.0,21.0
+Turdus migratorius_American Robin,0.27628243,19.0,22.0
+Turdus migratorius_American Robin,0.40150982,20.0,23.0
+Turdus migratorius_American Robin,0.20819533,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.22221687,22.0,25.0
+Turdus migratorius_American Robin,0.18077016,24.0,27.0
+Turdus cardis_Japanese Thrush,0.12651381,24.0,27.0
+Turdus migratorius_American Robin,0.35767865,25.0,28.0
+Turdus migratorius_American Robin,0.26766607,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.26067084,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.13475695,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113704495,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.10292145,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.122141816,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.100921735,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1391761,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.12267593,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11639991,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13457684,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21566765,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15572932,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.12667231,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15583116,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.11673153,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.10191898,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.10335277,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.10531987,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.10298336,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15744643,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.12610638,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.12287009,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.13294107,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11805708,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1816253,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112959474,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.11301187,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11206198,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.109791845,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14557423,46.0,49.0
+Geothlypis formosa_Kentucky Warbler,0.111578435,46.0,49.0
+Geothlypis formosa_Kentucky Warbler,0.1182669,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11189762,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.26733327,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11221384,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105292626,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.1132517,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.13564794,51.0,54.0
+Turdus migratorius_American Robin,0.10128877,55.0,58.0
+Turdus migratorius_American Robin,0.21972762,56.0,59.0
+Turdus migratorius_American Robin,0.32336983,57.0,60.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17119032,57.0,60.0
+Turdus migratorius_American Robin,0.41047704,58.0,61.0
+Turdus migratorius_American Robin,0.486949,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.1437891,60.0,63.0
+Turdus migratorius_American Robin,0.13336802,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.102010585,62.0,65.0
+Piranga olivacea_Scarlet Tanager,0.38283738,64.0,67.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15261418,64.0,67.0
+Turdus migratorius_American Robin,0.19189726,65.0,68.0
+Piranga olivacea_Scarlet Tanager,0.12494444,65.0,68.0
+Turdus migratorius_American Robin,0.6455251,66.0,69.0
+Turdus migratorius_American Robin,0.35636044,67.0,70.0
+Piranga olivacea_Scarlet Tanager,0.18517204,68.0,71.0
+Piranga olivacea_Scarlet Tanager,0.14429258,70.0,73.0
+Turdus migratorius_American Robin,0.5441533,71.0,74.0
+Turdus migratorius_American Robin,0.38672596,72.0,75.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17801633,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.1103305,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.10871444,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.114820145,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13718793,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.11564292,76.0,79.0
+Buteo platypterus_Broad-winged Hawk,0.11266673,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15290578,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11398254,78.0,81.0
+Piranga olivacea_Scarlet Tanager,0.21334149,79.0,82.0
+Piranga olivacea_Scarlet Tanager,0.11939243,80.0,83.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17699194,82.0,85.0
+Turdus migratorius_American Robin,0.11128096,83.0,86.0
+Turdus migratorius_American Robin,0.35722357,84.0,87.0
+Turdus migratorius_American Robin,0.4432804,85.0,88.0
+Turdus migratorius_American Robin,0.34609953,87.0,90.0
+Turdus migratorius_American Robin,0.6209932,88.0,91.0
+Turdus migratorius_American Robin,0.664379,89.0,92.0
+Turdus migratorius_American Robin,0.18200469,90.0,93.0
+Piranga olivacea_Scarlet Tanager,0.19564933,92.0,95.0
+Piranga olivacea_Scarlet Tanager,0.16899553,95.0,98.0
+Turdus migratorius_American Robin,0.34749565,96.0,99.0
+Piranga olivacea_Scarlet Tanager,0.2857673,96.0,99.0
+Turdus migratorius_American Robin,0.58342516,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.27371824,97.0,100.0
+Turdus migratorius_American Robin,0.38807064,98.0,101.0
+Turdus ignobilis_Black-billed Thrush,0.16974792,98.0,101.0
+Turdus migratorius_American Robin,0.20710796,99.0,102.0
+Piranga olivacea_Scarlet Tanager,0.19388585,100.0,103.0
+Turdus migratorius_American Robin,0.3065771,101.0,104.0
+Turdus migratorius_American Robin,0.74097544,102.0,105.0
+Turdus migratorius_American Robin,0.6588575,103.0,106.0
+Turdus migratorius_American Robin,0.7245277,104.0,107.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36453086,105.0,108.0
+Piranga olivacea_Scarlet Tanager,0.11041351,105.0,108.0
+Turdus migratorius_American Robin,0.21971905,109.0,112.0
+Turdus migratorius_American Robin,0.30326152,110.0,113.0
+Turdus migratorius_American Robin,0.2200269,111.0,114.0
+Piranga olivacea_Scarlet Tanager,0.11583149,111.0,114.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4703006,112.0,115.0
+Piranga olivacea_Scarlet Tanager,0.20735098,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19182366,113.0,116.0
+Setophaga virens_Black-throated Green Warbler,0.10161861,113.0,116.0
+Vireo flavifrons_Yellow-throated Vireo,0.1061713,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117205456,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12877813,122.0,125.0
+Turdus migratorius_American Robin,0.20552956,123.0,126.0
+Turdus migratorius_American Robin,0.30709687,124.0,127.0
+Turdus migratorius_American Robin,0.55157024,125.0,128.0
+Turdus migratorius_American Robin,0.45795983,126.0,129.0
+Turdus migratorius_American Robin,0.1287151,127.0,130.0
+Vireo olivaceus_Red-eyed Vireo,0.10869261,132.0,135.0
+Vireo olivaceus_Red-eyed Vireo,0.13319081,133.0,136.0
+Icterus galbula_Baltimore Oriole,0.13688217,134.0,137.0
+Turdus migratorius_American Robin,0.3357064,135.0,138.0
+Turdus migratorius_American Robin,0.24286288,136.0,139.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30090764,137.0,140.0
+Piranga olivacea_Scarlet Tanager,0.30127862,138.0,141.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.117537156,138.0,141.0
+Turdus migratorius_American Robin,0.35985392,139.0,142.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35347274,139.0,142.0
+Turdus migratorius_American Robin,0.2681506,140.0,143.0
+Turdus migratorius_American Robin,0.47452745,141.0,144.0
+Piranga rubra_Summer Tanager,0.65041155,142.0,145.0
+Icterus galbula_Baltimore Oriole,0.17446095,142.0,145.0
+Piranga olivacea_Scarlet Tanager,0.1088544,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.102650635,143.0,146.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.71745026,144.0,147.0
+Piranga olivacea_Scarlet Tanager,0.12260688,144.0,147.0
+Turdus migratorius_American Robin,0.336557,145.0,148.0
+Turdus migratorius_American Robin,0.46585172,146.0,149.0
+Turdus migratorius_American Robin,0.4136229,147.0,150.0
+Turdus migratorius_American Robin,0.5014535,148.0,151.0
+Piranga olivacea_Scarlet Tanager,0.2763887,149.0,152.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17735654,149.0,152.0
+Vireo olivaceus_Red-eyed Vireo,0.10644491,151.0,154.0
+Piranga olivacea_Scarlet Tanager,0.19014528,153.0,156.0
+Turdus migratorius_American Robin,0.32963872,154.0,157.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14188017,154.0,157.0
+Piranga olivacea_Scarlet Tanager,0.13660006,154.0,157.0
+Turdus migratorius_American Robin,0.6523376,155.0,158.0
+Turdus migratorius_American Robin,0.40392932,156.0,159.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11809499,156.0,159.0
+Piranga rubra_Summer Tanager,0.14549734,157.0,160.0
+Piranga olivacea_Scarlet Tanager,0.12468916,157.0,160.0
+Icterus galbula_Baltimore Oriole,0.10615076,157.0,160.0
+Vireo olivaceus_Red-eyed Vireo,0.18846549,158.0,161.0
+Turdus migratorius_American Robin,0.37569344,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.12749392,159.0,162.0
+Turdus migratorius_American Robin,0.25117484,160.0,163.0
+Turdus migratorius_American Robin,0.3110108,161.0,164.0
+Turdus migratorius_American Robin,0.35468283,162.0,165.0
+Piranga olivacea_Scarlet Tanager,0.12093528,163.0,166.0
+Setophaga virens_Black-throated Green Warbler,0.10265208,164.0,167.0
+Turdus migratorius_American Robin,0.24598962,166.0,169.0
+Turdus migratorius_American Robin,0.41274264,167.0,170.0
+Turdus migratorius_American Robin,0.4103643,168.0,171.0
+Vireo olivaceus_Red-eyed Vireo,0.19152789,169.0,172.0
+Setophaga citrina_Hooded Warbler,0.12187618,169.0,172.0
+Icterus galbula_Baltimore Oriole,0.12398636,170.0,173.0
+Turdus migratorius_American Robin,0.20375659,171.0,174.0
+Turdus migratorius_American Robin,0.23017465,172.0,175.0
+Turdus migratorius_American Robin,0.43612123,173.0,176.0
+Piranga olivacea_Scarlet Tanager,0.34194836,174.0,177.0
+Vireo philadelphicus_Philadelphia Vireo,0.16571586,177.0,180.0
+Turdus migratorius_American Robin,0.2200137,179.0,182.0
+Turdus migratorius_American Robin,0.16897778,180.0,183.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13545692,182.0,185.0
+Piranga olivacea_Scarlet Tanager,0.14537114,195.0,198.0
+Vireo philadelphicus_Philadelphia Vireo,0.18029848,206.0,209.0
+Setophaga cerulea_Cerulean Warbler,0.14791775,221.0,224.0

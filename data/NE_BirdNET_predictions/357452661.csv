@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Catharus guttatus_Hermit Thrush,0.98570037,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.81928366,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.11145737,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10039046,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11297577,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.102314875,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.7156951,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.7052438,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.7193959,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.20458974,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19367738,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20834218,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.11323355,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.111578085,10.0,13.0
+Catharus guttatus_Hermit Thrush,0.66280687,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.8357264,12.0,15.0
+Catharus guttatus_Hermit Thrush,0.5926734,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.2668134,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15249579,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.13246225,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.12603734,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17766103,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.11558764,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.10052411,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12763074,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.107687354,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.1263301,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.10346972,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.1065947,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12854296,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.11060008,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.11489449,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.47181478,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.69219124,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.48238248,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.14750223,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10864957,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.17087287,27.0,30.0
+Catharus guttatus_Hermit Thrush,0.20411208,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109540544,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12571205,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24154966,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.11365013,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.15194786,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13606225,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.11321706,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.13764428,32.0,35.0
+Catharus guttatus_Hermit Thrush,0.51446635,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.12466479,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.10936279,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.7810389,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.10940955,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.61754614,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18813288,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.16363358,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.15679063,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.12900661,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.102570154,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.20674539,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.13033947,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11390798,37.0,40.0
+Catharus guttatus_Hermit Thrush,0.94252795,38.0,41.0
+Catharus guttatus_Hermit Thrush,0.9440288,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.9735526,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.1850387,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10863918,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.10768655,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.10169151,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.16884047,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12518835,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.10462525,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.10023773,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.12828623,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1029321,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.34217966,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.1016215,46.0,49.0
+Catharus guttatus_Hermit Thrush,0.21600914,47.0,50.0
+Catharus fuscater_Slaty-backed Nightingale-Thrush,0.16842516,47.0,50.0
+Catharus guttatus_Hermit Thrush,0.41402325,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.14096208,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13839209,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.11917832,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.115263775,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20698018,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11876721,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.11422359,50.0,53.0
+Catharus guttatus_Hermit Thrush,0.954446,52.0,55.0
+Catharus guttatus_Hermit Thrush,0.9466301,53.0,55.63201814058957

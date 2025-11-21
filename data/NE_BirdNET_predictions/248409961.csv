@@ -1,0 +1,96 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.15107343,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1009626,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116449945,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13500561,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.13256666,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.112969585,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.107489504,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100631975,2.0,5.0
+Bonasa umbellus_Ruffed Grouse,0.12531248,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124871835,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101077706,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.13496298,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13027576,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.11858476,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11537607,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.1013408,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12646154,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12189962,10.0,13.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22238038,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.10425747,12.0,15.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.100883596,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.12975015,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.1169337,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.15074769,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11085747,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14282003,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.13254768,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15205503,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.13650014,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.113474,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.1308719,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106684364,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.20071802,21.0,24.0
+Bonasa umbellus_Ruffed Grouse,0.22011696,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.5436029,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.72214025,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12201731,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.9182811,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.11582856,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.1029641,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101586506,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10395121,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.14688405,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.11869663,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.10650812,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.12561916,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11806922,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12256899,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14951237,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.11218131,34.0,37.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.106003314,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10538016,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12055418,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.11297282,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1316948,36.0,39.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12709168,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.10607584,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14843027,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18010849,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.1324415,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1366055,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13017067,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.1284118,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12410912,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13218912,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.12243338,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.19303076,42.0,45.0
+Empidonax virescens_Acadian Flycatcher,0.3031117,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.123870276,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.41891822,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.10599753,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.102356255,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.13950427,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12061848,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.10460733,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.11945839,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11072024,46.0,49.0
+Buteo platypterus_Broad-winged Hawk,0.10050523,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.14103253,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12698525,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13069527,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121330835,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.1204907,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.10070528,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.30789766,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13476232,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14902644,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19090031,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.10133243,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1667836,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.10030887,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.13480487,54.0,57.0
+Empidonax virescens_Acadian Flycatcher,0.1024692,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13807268,55.0,57.93600907029479
+Setophaga cerulea_Cerulean Warbler,0.106793344,55.0,57.93600907029479

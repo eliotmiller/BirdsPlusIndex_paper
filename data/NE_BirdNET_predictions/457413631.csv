@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Thryothorus ludovicianus_Carolina Wren,0.8925896,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.35353696,0.0,3.0
+Thryothorus ludovicianus_Carolina Wren,0.6194458,1.0,4.0
+Mimus polyglottos_Northern Mockingbird,0.17731158,1.0,4.0
+Thryothorus ludovicianus_Carolina Wren,0.2899268,2.0,5.0
+Thryothorus ludovicianus_Carolina Wren,0.121899135,3.0,6.0
+Baeolophus bicolor_Tufted Titmouse,0.50776446,4.0,7.0
+Baeolophus bicolor_Tufted Titmouse,0.37416792,5.0,8.0
+Mimus polyglottos_Northern Mockingbird,0.27067092,5.0,8.0
+Baeolophus bicolor_Tufted Titmouse,0.23405506,6.0,9.0
+Mimus polyglottos_Northern Mockingbird,0.18486068,6.0,9.0
+Turdus migratorius_American Robin,0.15835199,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.21806939,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.23761888,8.0,11.0
+Baeolophus bicolor_Tufted Titmouse,0.10818972,9.0,12.0
+Baeolophus bicolor_Tufted Titmouse,0.114258476,10.0,13.0
+Piranga rubra_Summer Tanager,0.103761025,10.0,13.0
+Piranga rubra_Summer Tanager,0.37136477,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.15502562,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.4566802,12.0,15.0
+Piranga rubra_Summer Tanager,0.4343585,12.0,15.0
+Piranga rubra_Summer Tanager,0.5858165,13.0,16.0
+Mimus polyglottos_Northern Mockingbird,0.4075629,13.0,16.0
+Pluvialis squatarola_Black-bellied Plover,0.39825112,14.0,17.0
+Milvus milvus_Red Kite,0.2703314,14.0,17.0
+Pluvialis squatarola_Black-bellied Plover,0.24544385,15.0,18.0
+Turdus philomelos_Song Thrush,0.28450423,16.0,19.0
+Buteo lineatus_Red-shouldered Hawk,0.18635419,17.0,20.0
+Turdus philomelos_Song Thrush,0.10716475,17.0,20.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.28187573,18.0,21.0
+Cyanocitta cristata_Blue Jay,0.117216066,18.0,21.0
+Cyanocitta cristata_Blue Jay,0.3665666,19.0,22.0
+Ocyceros birostris_Indian Gray Hornbill,0.14514795,19.0,22.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10151842,19.0,22.0
+Cyanocitta cristata_Blue Jay,0.3917023,20.0,23.0
+Ocyceros birostris_Indian Gray Hornbill,0.21650338,20.0,23.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.123463705,20.0,23.0
+Poecile carolinensis_Carolina Chickadee,0.21007885,24.0,27.0
+Quiscalus lugubris_Carib Grackle,0.12691408,30.0,33.0
+Ixobrychus exilis_Least Bittern,0.10473259,32.0,35.0
+Falco sparverius_American Kestrel,0.5101586,33.0,36.0
+Falco sparverius_American Kestrel,0.8357706,34.0,37.0
+Falco sparverius_American Kestrel,0.9464551,35.0,37.56

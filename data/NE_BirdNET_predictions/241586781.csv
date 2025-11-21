@@ -1,0 +1,184 @@
+species,score,start_time,end_time
+Toxostoma rufum_Brown Thrasher,0.9276357,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.10210335,0.0,3.0
+Toxostoma rufum_Brown Thrasher,0.9124056,1.0,4.0
+Toxostoma longirostre_Long-billed Thrasher,0.3243957,1.0,4.0
+Toxostoma rufum_Brown Thrasher,0.7548074,2.0,5.0
+Melospiza lincolnii_Lincoln's Sparrow,0.3183982,2.0,5.0
+Toxostoma rufum_Brown Thrasher,0.6924955,3.0,6.0
+Melospiza lincolnii_Lincoln's Sparrow,0.57051826,3.0,6.0
+Curruca curruca_Lesser Whitethroat,0.44183278,3.0,6.0
+Passerella iliaca_Fox Sparrow,0.14210576,3.0,6.0
+Curruca curruca_Lesser Whitethroat,0.6494867,4.0,7.0
+Toxostoma rufum_Brown Thrasher,0.4751555,4.0,7.0
+Melospiza lincolnii_Lincoln's Sparrow,0.46144345,4.0,7.0
+Phylloscopus fuscatus_Dusky Warbler,0.16418092,4.0,7.0
+Passerella iliaca_Fox Sparrow,0.13770661,4.0,7.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.12796465,4.0,7.0
+Curruca curruca_Lesser Whitethroat,0.54340816,5.0,8.0
+Phylloscopus fuscatus_Dusky Warbler,0.22537372,5.0,8.0
+Melospiza lincolnii_Lincoln's Sparrow,0.21172442,5.0,8.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.12222174,5.0,8.0
+Passerella iliaca_Fox Sparrow,0.11994196,5.0,8.0
+Melospiza lincolnii_Lincoln's Sparrow,0.6852622,6.0,9.0
+Phylloscopus fuscatus_Dusky Warbler,0.5685383,6.0,9.0
+Setophaga palmarum_Palm Warbler,0.49151513,6.0,9.0
+Toxostoma rufum_Brown Thrasher,0.45923766,7.0,10.0
+Melospiza lincolnii_Lincoln's Sparrow,0.22409818,7.0,10.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.18726778,7.0,10.0
+Passerella iliaca_Fox Sparrow,0.18453343,7.0,10.0
+Curruca curruca_Lesser Whitethroat,0.121118344,7.0,10.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.20398825,8.0,11.0
+Phylloscopus fuscatus_Dusky Warbler,0.1621017,8.0,11.0
+Curruca curruca_Lesser Whitethroat,0.15945294,8.0,11.0
+Melospiza lincolnii_Lincoln's Sparrow,0.29567918,9.0,12.0
+Phylloscopus fuscatus_Dusky Warbler,0.1915568,9.0,12.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.17834175,9.0,12.0
+Curruca curruca_Lesser Whitethroat,0.15658744,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.13932574,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.4308273,10.0,13.0
+Toxostoma longirostre_Long-billed Thrasher,0.13209091,10.0,13.0
+Toxostoma rufum_Brown Thrasher,0.2435043,11.0,14.0
+Toxostoma rufum_Brown Thrasher,0.6378459,12.0,15.0
+Melospiza lincolnii_Lincoln's Sparrow,0.42277515,12.0,15.0
+Passerella iliaca_Fox Sparrow,0.28635716,12.0,15.0
+Toxostoma longirostre_Long-billed Thrasher,0.120097324,12.0,15.0
+Melospiza lincolnii_Lincoln's Sparrow,0.51211244,13.0,16.0
+Phylloscopus fuscatus_Dusky Warbler,0.39084348,13.0,16.0
+Toxostoma rufum_Brown Thrasher,0.23360416,13.0,16.0
+Passerella iliaca_Fox Sparrow,0.18043523,13.0,16.0
+Curruca curruca_Lesser Whitethroat,0.11368418,13.0,16.0
+Curruca curruca_Lesser Whitethroat,0.6360305,14.0,17.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.5640279,14.0,17.0
+Sylvia atricapilla_Eurasian Blackcap,0.12352968,14.0,17.0
+Phylloscopus fuscatus_Dusky Warbler,0.10050021,14.0,17.0
+Toxostoma rufum_Brown Thrasher,0.78393644,15.0,18.0
+Curruca curruca_Lesser Whitethroat,0.24421337,15.0,18.0
+Melospiza lincolnii_Lincoln's Sparrow,0.22694658,15.0,18.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.15618305,15.0,18.0
+Toxostoma rufum_Brown Thrasher,0.71148723,16.0,19.0
+Melospiza lincolnii_Lincoln's Sparrow,0.30629143,16.0,19.0
+Curruca curruca_Lesser Whitethroat,0.1864046,16.0,19.0
+Toxostoma rufum_Brown Thrasher,0.64471185,17.0,20.0
+Melospiza lincolnii_Lincoln's Sparrow,0.34185886,17.0,20.0
+Passerella iliaca_Fox Sparrow,0.20023029,17.0,20.0
+Toxostoma rufum_Brown Thrasher,0.523045,18.0,21.0
+Melospiza lincolnii_Lincoln's Sparrow,0.522342,18.0,21.0
+Curruca curruca_Lesser Whitethroat,0.117161304,18.0,21.0
+Toxostoma rufum_Brown Thrasher,0.9309701,19.0,22.0
+Toxostoma rufum_Brown Thrasher,0.28731975,20.0,23.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18914467,20.0,23.0
+Curruca curruca_Lesser Whitethroat,0.12146883,20.0,23.0
+Toxostoma rufum_Brown Thrasher,0.879878,21.0,24.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.13273144,21.0,24.0
+Curruca curruca_Lesser Whitethroat,0.109510325,21.0,24.0
+Toxostoma rufum_Brown Thrasher,0.6202037,22.0,25.0
+Curruca curruca_Lesser Whitethroat,0.22025035,22.0,25.0
+Toxostoma rufum_Brown Thrasher,0.83065224,23.0,26.0
+Curruca curruca_Lesser Whitethroat,0.3866432,23.0,26.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.12810385,23.0,26.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10967693,23.0,26.0
+Toxostoma rufum_Brown Thrasher,0.43621454,24.0,27.0
+Catharus fuscescens_Veery,0.26538023,25.0,28.0
+Spizella pallida_Clay-colored Sparrow,0.183597,25.0,28.0
+Toxostoma rufum_Brown Thrasher,0.5430209,26.0,29.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18346944,26.0,29.0
+Toxostoma rufum_Brown Thrasher,0.5497443,27.0,30.0
+Melospiza lincolnii_Lincoln's Sparrow,0.34484765,27.0,30.0
+Passerella iliaca_Fox Sparrow,0.16911034,27.0,30.0
+Toxostoma rufum_Brown Thrasher,0.6710629,28.0,31.0
+Curruca curruca_Lesser Whitethroat,0.10474086,28.0,31.0
+Toxostoma rufum_Brown Thrasher,0.6784718,29.0,32.0
+Toxostoma rufum_Brown Thrasher,0.63742125,30.0,33.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5321667,30.0,33.0
+Toxostoma rufum_Brown Thrasher,0.89770424,31.0,34.0
+Melospiza lincolnii_Lincoln's Sparrow,0.71199244,31.0,34.0
+Curruca curruca_Lesser Whitethroat,0.4540025,31.0,34.0
+Toxostoma rufum_Brown Thrasher,0.8771827,32.0,35.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5399203,32.0,35.0
+Toxostoma rufum_Brown Thrasher,0.5657133,33.0,36.0
+Curruca curruca_Lesser Whitethroat,0.34467545,33.0,36.0
+Melospiza lincolnii_Lincoln's Sparrow,0.30830425,33.0,36.0
+Toxostoma rufum_Brown Thrasher,0.5844203,34.0,37.0
+Curruca curruca_Lesser Whitethroat,0.30764276,34.0,37.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18532096,34.0,37.0
+Curruca curruca_Lesser Whitethroat,0.61843574,35.0,38.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.5063763,35.0,38.0
+Toxostoma rufum_Brown Thrasher,0.13593306,35.0,38.0
+Acrocephalus melanopogon_Moustached Warbler,0.10596141,35.0,38.0
+Curruca curruca_Lesser Whitethroat,0.38118982,36.0,39.0
+Curruca curruca_Lesser Whitethroat,0.36490193,37.0,40.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.16915211,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.16878322,37.0,40.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12345001,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.91890895,38.0,41.0
+Curruca curruca_Lesser Whitethroat,0.28063735,38.0,41.0
+Toxostoma rufum_Brown Thrasher,0.41301814,40.0,43.0
+Curruca curruca_Lesser Whitethroat,0.11096261,40.0,43.0
+Toxostoma rufum_Brown Thrasher,0.5332088,41.0,44.0
+Curruca curruca_Lesser Whitethroat,0.5061784,41.0,44.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.22220957,41.0,44.0
+Curruca curruca_Lesser Whitethroat,0.4915086,42.0,45.0
+Locustella luscinioides_Savi's Warbler,0.14296168,42.0,45.0
+Acrocephalus melanopogon_Moustached Warbler,0.11127895,42.0,45.0
+Toxostoma rufum_Brown Thrasher,0.10787019,42.0,45.0
+Curruca curruca_Lesser Whitethroat,0.27130947,43.0,46.0
+Toxostoma rufum_Brown Thrasher,0.13899595,43.0,46.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.13031448,43.0,46.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10877117,43.0,46.0
+Curruca curruca_Lesser Whitethroat,0.44791254,44.0,47.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.17507312,44.0,47.0
+Phylloscopus fuscatus_Dusky Warbler,0.13972892,44.0,47.0
+Toxostoma rufum_Brown Thrasher,0.26739717,45.0,48.0
+Curruca curruca_Lesser Whitethroat,0.14012675,45.0,48.0
+Toxostoma rufum_Brown Thrasher,0.57598716,46.0,49.0
+Catharus fuscescens_Veery,0.542944,47.0,50.0
+Toxostoma rufum_Brown Thrasher,0.16436544,47.0,50.0
+Paroaria coronata_Red-crested Cardinal,0.15596238,47.0,50.0
+Toxostoma rufum_Brown Thrasher,0.9709405,48.0,51.0
+Curruca curruca_Lesser Whitethroat,0.12842378,48.0,51.0
+Curruca curruca_Lesser Whitethroat,0.7834261,49.0,52.0
+Toxostoma rufum_Brown Thrasher,0.41436434,49.0,52.0
+Sylvia atricapilla_Eurasian Blackcap,0.10817363,49.0,52.0
+Curruca curruca_Lesser Whitethroat,0.5939713,50.0,53.0
+Toxostoma rufum_Brown Thrasher,0.40766945,50.0,53.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.10648009,50.0,53.0
+Toxostoma rufum_Brown Thrasher,0.6179712,51.0,54.0
+Curruca curruca_Lesser Whitethroat,0.308069,51.0,54.0
+Paroaria coronata_Red-crested Cardinal,0.84995025,52.0,55.0
+Toxostoma rufum_Brown Thrasher,0.2044967,52.0,55.0
+Dumetella carolinensis_Gray Catbird,0.1289675,52.0,55.0
+Paroaria coronata_Red-crested Cardinal,0.94209117,53.0,56.0
+Toxostoma rufum_Brown Thrasher,0.13854124,53.0,56.0
+Toxostoma rufum_Brown Thrasher,0.71621454,54.0,57.0
+Curruca curruca_Lesser Whitethroat,0.27918676,54.0,57.0
+Toxostoma rufum_Brown Thrasher,0.7920263,55.0,58.0
+Curruca curruca_Lesser Whitethroat,0.45344925,55.0,58.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.107754745,55.0,58.0
+Toxostoma rufum_Brown Thrasher,0.656011,56.0,59.0
+Toxostoma longirostre_Long-billed Thrasher,0.18952303,56.0,59.0
+Paroaria coronata_Red-crested Cardinal,0.18123917,57.0,60.0
+Toxostoma rufum_Brown Thrasher,0.7710925,59.0,62.0
+Toxostoma longirostre_Long-billed Thrasher,0.124662995,59.0,62.0
+Toxostoma rufum_Brown Thrasher,0.5697553,60.0,63.0
+Melospiza lincolnii_Lincoln's Sparrow,0.34001097,60.0,63.0
+Curruca curruca_Lesser Whitethroat,0.18415168,60.0,63.0
+Phylloscopus fuscatus_Dusky Warbler,0.11345735,60.0,63.0
+Curruca curruca_Lesser Whitethroat,0.7002458,61.0,64.0
+Toxostoma rufum_Brown Thrasher,0.33978394,61.0,64.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.302304,61.0,64.0
+Toxostoma rufum_Brown Thrasher,0.8837078,62.0,65.0
+Curruca curruca_Lesser Whitethroat,0.7189197,62.0,65.0
+Melospiza lincolnii_Lincoln's Sparrow,0.39134133,62.0,65.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.14815176,62.0,65.0
+Melospiza lincolnii_Lincoln's Sparrow,0.3907267,63.0,66.0
+Toxostoma rufum_Brown Thrasher,0.33964688,63.0,66.0
+Curruca curruca_Lesser Whitethroat,0.15946609,63.0,66.0
+Toxostoma rufum_Brown Thrasher,0.87571114,64.0,67.0
+Paroaria coronata_Red-crested Cardinal,0.40533006,65.0,68.0
+Toxostoma rufum_Brown Thrasher,0.29474488,65.0,68.0
+Paroaria coronata_Red-crested Cardinal,0.5650859,66.0,69.0
+Toxostoma rufum_Brown Thrasher,0.4649859,66.0,69.0
+Toxostoma rufum_Brown Thrasher,0.3234814,67.0,70.0
+Paroaria coronata_Red-crested Cardinal,0.13488276,67.0,70.0
+Gnorimopsar chopi_Chopi Blackbird,0.104341015,68.0,71.0

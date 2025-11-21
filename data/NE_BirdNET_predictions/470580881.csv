@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Anas platyrhynchos_Mallard,0.16799058,2.0,5.0
+Hydroprogne caspia_Caspian Tern,0.13416073,3.0,6.0
+Hydroprogne caspia_Caspian Tern,0.18858328,4.0,7.0
+Pterodroma sandwichensis_Hawaiian Petrel,0.21394236,5.0,8.0
+Plegadis chihi_White-faced Ibis,0.12605388,5.0,8.0
+Rallus limicola_Virginia Rail,0.19661514,6.0,9.0
+Plectrophenax nivalis_Snow Bunting,0.16816881,6.0,9.0
+Plegadis chihi_White-faced Ibis,0.3543207,7.0,10.0
+Anas platyrhynchos_Mallard,0.15695861,7.0,10.0
+Plegadis chihi_White-faced Ibis,0.83035105,8.0,11.0
+Ardea herodias_Great Blue Heron,0.35805425,8.0,11.0
+Anas platyrhynchos_Mallard,0.23675767,8.0,11.0
+Mareca strepera_Gadwall,0.12794465,8.0,11.0
+Ardea herodias_Great Blue Heron,0.3621809,9.0,12.0
+Plegadis chihi_White-faced Ibis,0.34040508,9.0,12.0
+Hydroprogne caspia_Caspian Tern,0.23857635,9.0,12.0
+Anas platyrhynchos_Mallard,0.17043959,9.0,12.0
+Rallus limicola_Virginia Rail,0.31890115,10.0,13.0
+Rallus limicola_Virginia Rail,0.94245744,11.0,14.0
+Haliaeetus leucocephalus_Bald Eagle,0.23133893,11.0,14.0
+Hydroprogne caspia_Caspian Tern,0.97595745,12.0,15.0
+Hydroprogne caspia_Caspian Tern,0.30020317,13.0,16.0
+Arenaria interpres_Ruddy Turnstone,0.15254624,14.0,17.0
+Melospiza melodia_Song Sparrow,0.49835125,15.0,18.0
+Melospiza melodia_Song Sparrow,0.41877854,16.0,19.0
+Anas platyrhynchos_Mallard,0.21275349,16.0,19.0
+Podiceps grisegena_Red-necked Grebe,0.15813841,16.0,19.0
+Melospiza melodia_Song Sparrow,0.34708583,17.0,20.0
+Aythya collaris_Ring-necked Duck,0.23098463,17.0,20.0
+Anas platyrhynchos_Mallard,0.21451017,17.0,20.0
+Melospiza melodia_Song Sparrow,0.1777742,18.0,21.0
+Plegadis chihi_White-faced Ibis,0.12853603,18.0,21.0
+Aythya collaris_Ring-necked Duck,0.1206737,18.0,21.0
+Anas platyrhynchos_Mallard,0.37142,19.0,22.0
+Hydroprogne caspia_Caspian Tern,0.105209485,20.0,23.0
+Rallus limicola_Virginia Rail,0.5173371,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.15249968,21.0,24.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.10125975,22.0,25.0
+Hydroprogne caspia_Caspian Tern,0.12132315,23.0,26.0
+Hydroprogne caspia_Caspian Tern,0.12459459,24.0,27.0
+Buteo brachyurus_Short-tailed Hawk,0.11546775,24.0,27.0
+Hydroprogne caspia_Caspian Tern,0.44544634,25.0,28.0
+Buteo brachyurus_Short-tailed Hawk,0.43518275,25.0,28.0
+Buteo brachyurus_Short-tailed Hawk,0.1788942,26.0,29.0
+Buteo brachyurus_Short-tailed Hawk,0.46848494,27.0,30.0
+Buteo brachyurus_Short-tailed Hawk,0.53028655,28.0,31.0
+Hydroprogne caspia_Caspian Tern,0.20942497,28.0,31.0
+Anas platyrhynchos_Mallard,0.101018496,28.0,31.0
+Rallus limicola_Virginia Rail,0.110972375,29.0,32.0
+Rallus limicola_Virginia Rail,0.24916153,30.0,33.0
+Rallus limicola_Virginia Rail,0.28956825,31.0,34.0
+Hydroprogne caspia_Caspian Tern,0.64691335,32.0,35.0
+Larus delawarensis_Ring-billed Gull,0.12741044,32.0,35.0
+Larus delawarensis_Ring-billed Gull,0.11380383,33.0,36.0
+Hydroprogne caspia_Caspian Tern,0.10309936,33.0,36.0
+Leucophaeus atricilla_Laughing Gull,0.71015805,34.0,37.0
+Larus delawarensis_Ring-billed Gull,0.50999326,34.0,37.0
+Leucophaeus pipixcan_Franklin's Gull,0.1596452,34.0,37.0
+Haliaeetus leucocephalus_Bald Eagle,0.15946849,34.0,37.0
+Larus delawarensis_Ring-billed Gull,0.8337522,35.0,38.0
+Leucophaeus atricilla_Laughing Gull,0.5930064,35.0,38.0
+Larus delawarensis_Ring-billed Gull,0.9213023,36.0,39.0
+Leucophaeus atricilla_Laughing Gull,0.40394393,36.0,39.0
+Larus delawarensis_Ring-billed Gull,0.93594927,37.0,40.0
+Leucophaeus atricilla_Laughing Gull,0.12523708,37.0,40.0
+Larus delawarensis_Ring-billed Gull,0.61033946,38.0,41.0
+Rallus limicola_Virginia Rail,0.20126593,39.0,42.0
+Larus delawarensis_Ring-billed Gull,0.18979111,39.0,42.0
+Rallus limicola_Virginia Rail,0.6204897,40.0,43.0
+Quiscalus mexicanus_Great-tailed Grackle,0.156727,40.0,43.0
+Rallus limicola_Virginia Rail,0.1949984,41.0,44.0
+Gallinula chloropus_Eurasian Moorhen,0.104819134,41.0,44.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.44737402,42.0,45.0
+Chlorodrepanis virens_Hawaii Amakihi,0.30565038,42.0,45.0
+Pternistis erckelii_Erckel's Francolin,0.24398027,42.0,45.0
+Rallus limicola_Virginia Rail,0.5909168,44.0,47.0
+Rallus limicola_Virginia Rail,0.65481395,45.0,48.0
+Cygnus olor_Mute Swan,0.1267621,71.0,74.0
+Cygnus olor_Mute Swan,0.20167021,72.0,75.0
+Larus delawarensis_Ring-billed Gull,0.28816774,73.0,76.0
+Larus delawarensis_Ring-billed Gull,0.6145192,74.0,77.0
+Larus delawarensis_Ring-billed Gull,0.984908,75.0,78.0
+Larus delawarensis_Ring-billed Gull,0.9819126,76.0,79.0
+Leucophaeus atricilla_Laughing Gull,0.28426874,76.0,79.0
+Larus delawarensis_Ring-billed Gull,0.94425356,77.0,79.99201814058956
+Leucophaeus atricilla_Laughing Gull,0.5794251,77.0,79.99201814058956

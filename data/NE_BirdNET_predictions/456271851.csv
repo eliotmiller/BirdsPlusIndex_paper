@@ -1,0 +1,70 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.9534093,0.0,3.0
+Vireo flavifrons_Yellow-throated Vireo,0.22526927,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.94041395,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.95480084,2.0,5.0
+Vireo cassinii_Cassin's Vireo,0.2460319,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.919319,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.1849431,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.59158677,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.88710177,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.92124903,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.9588494,7.0,10.0
+Vireo solitarius_Blue-headed Vireo,0.7509555,8.0,11.0
+Vireo cassinii_Cassin's Vireo,0.20922253,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.7244351,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.8019113,10.0,13.0
+Vireo solitarius_Blue-headed Vireo,0.75059414,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.45108667,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24585794,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.382362,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12619519,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.10790953,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33653662,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.18479405,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.12690495,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.44717506,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11921687,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.112633765,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.34624112,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.18708418,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14798044,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.10526823,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.8480662,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.60572773,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10657195,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.7373196,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.21395881,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13840465,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.6330942,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.1271309,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.27399015,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.21328692,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21248727,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.7650296,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.5816652,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.2563813,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.5243063,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.4525697,27.0,30.0
+Vireo solitarius_Blue-headed Vireo,0.5343644,28.0,31.0
+Vireo cassinii_Cassin's Vireo,0.16778503,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.3705938,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.61105907,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.72304684,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.77214557,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12027836,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.39851156,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.5337847,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18081495,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.14205745,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.13670814,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23636498,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.21647882,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.10047166,37.0,40.0
+Vireo solitarius_Blue-headed Vireo,0.2101057,38.0,41.0
+Vireo solitarius_Blue-headed Vireo,0.17575914,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1376804,39.0,42.0
+Vireo solitarius_Blue-headed Vireo,0.32857773,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.84769744,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.7353251,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.8494363,43.0,45.04802721088436

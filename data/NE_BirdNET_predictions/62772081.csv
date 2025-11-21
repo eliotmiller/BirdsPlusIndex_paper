@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.11327519,0.0,3.0
+Passerculus sandwichensis_Savannah Sparrow,0.10089,0.0,3.0
+Emberiza calandra_Corn Bunting,0.17367193,4.0,7.0
+Spiza americana_Dickcissel,0.15242964,6.0,9.0
+Spiza americana_Dickcissel,0.13836962,7.0,10.0
+Spiza americana_Dickcissel,0.10624884,8.0,11.0
+Sturnus vulgaris_European Starling,0.14399508,9.0,12.0
+Sturnus vulgaris_European Starling,0.18667458,11.0,14.0
+Engine_Engine,0.1718579,14.0,17.0
+Engine_Engine,0.11798289,15.0,18.0
+Sturnus vulgaris_European Starling,0.13015714,16.0,19.0
+Molothrus bonariensis_Shiny Cowbird,0.11038853,16.0,19.0
+Sturnus vulgaris_European Starling,0.10338318,17.0,20.0
+Sturnus vulgaris_European Starling,0.28865921,22.0,25.0
+Ammospiza nelsoni_Nelson's Sparrow,0.11658731,22.0,25.0
+Spiza americana_Dickcissel,0.1149436,22.0,25.0
+Passerculus sandwichensis_Savannah Sparrow,0.105277196,22.0,25.0
+Sturnus vulgaris_European Starling,0.15222132,23.0,26.0
+Sturnus vulgaris_European Starling,0.6447985,24.0,27.0
+Sturnus vulgaris_European Starling,0.40209472,25.0,28.0
+Sturnus vulgaris_European Starling,0.1896682,26.0,29.0
+Delichon urbicum_Common House-Martin,0.12593447,27.0,30.0
+Delichon urbicum_Common House-Martin,0.14894406,28.0,31.0
+Sturnus vulgaris_European Starling,0.11200246,28.0,31.0
+Sturnus vulgaris_European Starling,0.117221735,29.0,32.0
+Sturnella neglecta_Western Meadowlark,0.36598712,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13865043,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16148311,32.0,35.0
+Passerculus sandwichensis_Savannah Sparrow,0.40930828,33.0,36.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1531618,33.0,36.0
+Passerculus sandwichensis_Savannah Sparrow,0.4320297,34.0,37.0
+Passerculus sandwichensis_Savannah Sparrow,0.4243855,35.0,38.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1455492,35.0,38.0
+Ammospiza nelsoni_Nelson's Sparrow,0.11036017,36.0,39.0
+Sturnus vulgaris_European Starling,0.12066089,37.0,40.0
+Quiscalus quiscula_Common Grackle,0.11194543,37.0,40.0
+Quiscalus quiscula_Common Grackle,0.1992955,38.0,41.0
+Sturnus vulgaris_European Starling,0.17251125,38.0,41.0
+Tachycineta bicolor_Tree Swallow,0.16437739,39.0,42.0
+Riparia riparia_Bank Swallow,0.12530631,40.0,43.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11861761,40.0,43.0
+Sturnus vulgaris_European Starling,0.25082156,42.0,45.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.17603487,42.0,45.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.12735808,42.0,45.0
+Sturnus vulgaris_European Starling,0.17966178,43.0,46.0
+Sturnus vulgaris_European Starling,0.30306992,44.0,47.0
+Quiscalus quiscula_Common Grackle,0.11946676,44.0,47.0
+Sturnus vulgaris_European Starling,0.10847571,45.0,48.0
+Quiscalus quiscula_Common Grackle,0.101853356,45.0,48.0
+Sturnus vulgaris_European Starling,0.3716678,46.0,49.0
+Quiscalus quiscula_Common Grackle,0.2724391,46.0,49.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6655957,47.0,50.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7092254,48.0,51.0
+Agelaius phoeniceus_Red-winged Blackbird,0.67016375,49.0,52.0
+Agelaius phoeniceus_Red-winged Blackbird,0.25694972,50.0,53.0
+Sturnus vulgaris_European Starling,0.12505023,50.0,53.0
+Sturnus vulgaris_European Starling,0.13588814,51.0,54.0
+Sturnus vulgaris_European Starling,0.26940247,52.0,55.0
+Sturnus vulgaris_European Starling,0.16502322,54.0,57.0
+Sturnus vulgaris_European Starling,0.5054884,55.0,58.0
+Sturnus vulgaris_European Starling,0.4257643,56.0,59.0
+Sturnus vulgaris_European Starling,0.280797,57.0,60.0
+Sturnus vulgaris_European Starling,0.1704871,58.0,61.0
+Aeronautes saxatalis_White-throated Swift,0.13649593,59.0,62.0
+Agelaius phoeniceus_Red-winged Blackbird,0.55591464,60.0,63.0
+Agelaius phoeniceus_Red-winged Blackbird,0.73845893,61.0,64.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7232839,62.0,65.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6262981,63.0,66.0
+Sturnus vulgaris_European Starling,0.33896714,63.0,66.0
+Sturnus vulgaris_European Starling,0.8781391,64.0,67.0
+Sturnus unicolor_Spotless Starling,0.12218924,64.0,67.0
+Sturnus vulgaris_European Starling,0.9350235,65.0,68.0
+Sturnus unicolor_Spotless Starling,0.24691433,65.0,68.0
+Sturnus vulgaris_European Starling,0.76210755,66.0,69.0
+Sturnus unicolor_Spotless Starling,0.12175215,66.0,69.0
+Sturnus vulgaris_European Starling,0.9454683,67.0,70.0
+Sturnus unicolor_Spotless Starling,0.33480892,67.0,70.0
+Sturnus vulgaris_European Starling,0.8694465,68.0,71.0
+Sturnus vulgaris_European Starling,0.6783228,69.0,71.78403628117914

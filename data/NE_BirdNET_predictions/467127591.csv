@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.3748709,0.0,3.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.15077087,0.0,3.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.56154346,1.0,4.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.3397622,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.13088514,1.0,4.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.25625744,2.0,5.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.14169441,2.0,5.0
+Colinus virginianus_Northern Bobwhite,0.11157155,2.0,5.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.258734,3.0,6.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.10297057,3.0,6.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.13705711,4.0,7.0
+Colinus virginianus_Northern Bobwhite,0.18894061,5.0,8.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.130242,5.0,8.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.35350314,6.0,9.0
+Colinus virginianus_Northern Bobwhite,0.1388522,6.0,9.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.14664231,7.0,10.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.37391827,8.0,11.0
+Colinus virginianus_Northern Bobwhite,0.15617937,8.0,11.0
+Passerina ciris_Painted Bunting,0.10858449,8.0,11.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.22639164,9.0,12.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.55299765,10.0,13.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.48016757,11.0,14.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.2347068,11.0,14.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.2193849,12.0,15.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.11684634,12.0,15.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.17528197,13.0,16.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.10730172,13.0,16.0
+Dryophytes versicolor_Gray Treefrog,0.12088525,15.0,18.0
+Gallinula chloropus_Eurasian Moorhen,0.12224889,16.0,19.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.13102345,17.0,20.0
+Dryophytes versicolor_Gray Treefrog,0.1519563,18.0,21.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11368011,20.0,23.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.16062164,22.0,25.0
+Scytalopus atratus_White-crowned Tapaculo,0.11645767,22.0,25.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.31159526,23.0,26.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.66168505,24.0,27.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.82856905,25.0,28.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.73159295,26.0,29.0
+Colinus virginianus_Northern Bobwhite,0.13092905,27.0,30.0
+Colinus virginianus_Northern Bobwhite,0.16514327,28.0,31.0
+Colinus virginianus_Northern Bobwhite,0.12793799,29.0,32.0
+Colinus virginianus_Northern Bobwhite,0.13582769,30.0,33.0
+Colinus virginianus_Northern Bobwhite,0.102333836,32.0,35.0
+Colinus virginianus_Northern Bobwhite,0.13663246,37.0,40.0
+Colinus virginianus_Northern Bobwhite,0.1257267,38.0,41.0
+Colinus virginianus_Northern Bobwhite,0.10302835,40.0,43.0
+Scytalopus atratus_White-crowned Tapaculo,0.11171337,41.0,44.0
+Scytalopus atratus_White-crowned Tapaculo,0.11573459,43.0,46.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.25224334,44.0,47.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.6628054,45.0,48.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.5920653,46.0,49.0
+Colinus virginianus_Northern Bobwhite,0.2848659,47.0,50.0
+Colinus virginianus_Northern Bobwhite,0.19518428,49.0,52.0
+Colinus virginianus_Northern Bobwhite,0.15546364,51.0,54.0
+Colinus virginianus_Northern Bobwhite,0.16578539,53.0,56.0
+Colinus virginianus_Northern Bobwhite,0.22711621,54.0,57.0
+Colinus virginianus_Northern Bobwhite,0.3092712,55.0,58.0
+Protonotaria citrea_Prothonotary Warbler,0.10177314,55.0,58.0
+Ammospiza maritima_Seaside Sparrow,0.100624785,55.0,58.0
+Colinus virginianus_Northern Bobwhite,0.32850918,56.0,59.0
+Ammospiza maritima_Seaside Sparrow,0.108199954,56.0,59.0
+Protonotaria citrea_Prothonotary Warbler,0.10365148,56.0,59.0
+Colinus virginianus_Northern Bobwhite,0.21439017,57.0,59.088027210884356

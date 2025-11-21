@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.34548473,0.0,3.0
+Aplonis opaca_Micronesian Starling,0.14366437,1.0,4.0
+Eupsittula aurea_Peach-fronted Parakeet,0.107277215,2.0,5.0
+Aplonis opaca_Micronesian Starling,0.37319657,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.18891972,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.23621438,6.0,9.0
+Eupsittula aurea_Peach-fronted Parakeet,0.1488868,9.0,12.0
+Aplonis opaca_Micronesian Starling,0.21970291,11.0,14.0
+Piranga roseogularis_Rose-throated Tanager,0.20157,12.0,15.0
+Aplonis opaca_Micronesian Starling,0.15268178,12.0,15.0
+Piranga roseogularis_Rose-throated Tanager,0.25364494,13.0,16.0
+Piranga roseogularis_Rose-throated Tanager,0.15335958,14.0,17.0
+Icterus wagleri_Black-vented Oriole,0.10383509,16.0,19.0
+Icterus wagleri_Black-vented Oriole,0.3237101,18.0,21.0
+Piranga roseogularis_Rose-throated Tanager,0.12399019,18.0,21.0
+Piranga roseogularis_Rose-throated Tanager,0.13970199,19.0,22.0
+Dicrurus forficatus_Crested Drongo,0.12429829,19.0,22.0
+Aplonis opaca_Micronesian Starling,0.12568285,22.0,25.0
+Leistes militaris_Red-breasted Meadowlark,0.13466828,24.0,27.0
+Quiscalus niger_Greater Antillean Grackle,0.24088208,28.0,31.0
+Quiscalus niger_Greater Antillean Grackle,0.18507315,29.0,32.0
+Aplonis opaca_Micronesian Starling,0.12877312,29.0,32.0
+Aplonis opaca_Micronesian Starling,0.11654706,30.0,33.0
+Aplonis opaca_Micronesian Starling,0.71999186,31.0,34.0
+Cyanocitta cristata_Blue Jay,0.10378371,31.0,34.0
+Aplonis opaca_Micronesian Starling,0.9136186,32.0,35.0
+Cyanocitta cristata_Blue Jay,0.47034416,32.0,35.0
+Aplonis panayensis_Asian Glossy Starling,0.13858184,32.0,35.0
+Quiscalus niger_Greater Antillean Grackle,0.118037544,32.0,35.0
+Aplonis opaca_Micronesian Starling,0.5450771,33.0,36.0
+Eupsittula aurea_Peach-fronted Parakeet,0.4600086,33.0,36.0
+Eupsittula aurea_Peach-fronted Parakeet,0.23069319,34.0,37.0
+Eupsittula aurea_Peach-fronted Parakeet,0.12355749,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.33675978,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.1668138,47.0,50.0
+Piranga roseogularis_Rose-throated Tanager,0.10145785,47.0,50.0
+Cyanocitta cristata_Blue Jay,0.15890945,51.0,54.0
+Hypsipetes leucocephalus_Black Bulbul,0.15629685,52.0,55.0
+Quiscalus mexicanus_Great-tailed Grackle,0.38927156,53.0,56.0
+Quiscalus mexicanus_Great-tailed Grackle,0.111602366,54.0,57.0
+Hypsipetes leucocephalus_Black Bulbul,0.17808948,55.0,58.0
+Quiscalus mexicanus_Great-tailed Grackle,0.17767528,55.0,58.0
+Dumetella carolinensis_Gray Catbird,0.15009196,58.0,61.0
+Cyanocitta cristata_Blue Jay,0.13049392,58.0,61.0
+Dumetella carolinensis_Gray Catbird,0.12628661,59.0,62.0
+Dumetella carolinensis_Gray Catbird,0.13194187,60.0,63.0
+Baeolophus bicolor_Tufted Titmouse,0.21608707,67.0,70.0
+Baeolophus bicolor_Tufted Titmouse,0.11021276,68.0,71.0
+Oriolus chinensis_Black-naped Oriole,0.20018025,70.0,73.0
+Hypsipetes everetti_Yellowish Bulbul,0.109729365,71.0,74.0
+Cyanocitta cristata_Blue Jay,0.8746498,79.0,82.0
+Cyanocitta cristata_Blue Jay,0.9139266,80.0,83.0
+Cyanocitta cristata_Blue Jay,0.9480893,81.0,84.0
+Cyanocitta cristata_Blue Jay,0.8071812,82.0,85.0
+Cyanocitta cristata_Blue Jay,0.9444105,83.0,86.0
+Cyanocitta cristata_Blue Jay,0.93812096,84.0,87.0
+Piranga roseogularis_Rose-throated Tanager,0.10790908,86.0,89.0
+Piranga roseogularis_Rose-throated Tanager,0.1216543,88.0,91.0
+Piranga roseogularis_Rose-throated Tanager,0.19039552,89.0,92.0
+Calocitta formosa_White-throated Magpie-Jay,0.17762585,89.0,92.0
+Piranga roseogularis_Rose-throated Tanager,0.17434442,90.0,93.0
+Eupsittula aurea_Peach-fronted Parakeet,0.15117598,90.0,93.0
+Calocitta formosa_White-throated Magpie-Jay,0.116155796,90.0,93.0
+Piranga roseogularis_Rose-throated Tanager,0.12913543,91.0,94.0
+Eupsittula aurea_Peach-fronted Parakeet,0.12189059,95.0,98.0
+Orthopsittaca manilatus_Red-bellied Macaw,0.10159619,95.0,98.0
+Struthidea cinerea_Apostlebird,0.36536023,96.0,99.0
+Struthidea cinerea_Apostlebird,0.12271803,98.0,101.0
+Hypsipetes leucocephalus_Black Bulbul,0.2988523,101.0,104.0
+Hypsipetes leucocephalus_Black Bulbul,0.28418726,102.0,105.0
+Hypsipetes leucocephalus_Black Bulbul,0.12525767,103.0,106.0
+Megarynchus pitangua_Boat-billed Flycatcher,0.18293957,104.0,107.0
+Cyanocitta cristata_Blue Jay,0.14998797,110.0,113.0
+Cyanocitta cristata_Blue Jay,0.14340538,111.0,114.0
+Cyanocitta cristata_Blue Jay,0.21790445,112.0,115.0
+Human vocal_Human vocal,0.10573781,129.0,132.0
+Human vocal_Human vocal,0.17824769,134.0,137.0
+Human vocal_Human vocal,0.189842,136.0,139.0
+Human vocal_Human vocal,0.11110506,137.0,140.0
+Human vocal_Human vocal,0.1653278,148.0,151.0
+Human vocal_Human vocal,0.20324254,149.0,152.0
+Human vocal_Human vocal,0.37401035,150.0,153.0

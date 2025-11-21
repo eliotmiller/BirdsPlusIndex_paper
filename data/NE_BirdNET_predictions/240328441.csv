@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.28931373,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.59281677,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.86383176,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.88042516,3.0,6.0
+Agelaius phoeniceus_Red-winged Blackbird,0.82517177,4.0,7.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7831443,5.0,8.0
+Agelaius phoeniceus_Red-winged Blackbird,0.83681434,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.908985,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7414744,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.4238548,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.8717601,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.89169675,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.62156206,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.961104,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.9882592,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.9874399,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.6375133,15.0,18.0
+Tachycineta bicolor_Tree Swallow,0.18230516,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.8133482,16.0,19.0
+Centronyx henslowii_Henslow's Sparrow,0.10328013,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.5973485,17.0,20.0
+Tachycineta bicolor_Tree Swallow,0.27497244,17.0,20.0
+Hirundo rustica_Barn Swallow,0.102277756,17.0,20.0
+Tachycineta bicolor_Tree Swallow,0.42283747,18.0,21.0
+Sturnella magna_Eastern Meadowlark,0.11121825,18.0,21.0
+Botaurus lentiginosus_American Bittern,0.102614075,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6307773,19.0,22.0
+Agelaius phoeniceus_Red-winged Blackbird,0.30844507,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.158626,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.2737956,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15127969,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.87332237,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.6891588,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.88475555,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.99504834,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.65944475,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.38658345,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6983407,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.6573962,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.753553,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.21355574,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.46539655,29.0,32.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.10338959,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.8284912,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.85026574,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.43393758,32.0,35.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2931004,33.0,36.0
+Agelaius phoeniceus_Red-winged Blackbird,0.34683555,34.0,37.0
+Tachycineta bicolor_Tree Swallow,0.10829942,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22938778,35.0,38.0
+Melospiza georgiana_Swamp Sparrow,0.15122639,35.0,38.0
+Bucephala albeola_Bufflehead,0.15433995,36.0,39.0
+Tachycineta bicolor_Tree Swallow,0.14121051,36.0,39.0
+Melospiza georgiana_Swamp Sparrow,0.11488949,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.15312459,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.123526946,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.17490895,43.0,46.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.14160568,51.0,54.0
+Bucephala albeola_Bufflehead,0.12418848,55.0,58.0
+Mergus serrator_Red-breasted Merganser,0.13683946,56.0,59.0
+Bucephala albeola_Bufflehead,0.13224947,56.0,59.0
+Spatula clypeata_Northern Shoveler,0.118686624,56.0,59.0
+Mergus serrator_Red-breasted Merganser,0.18908961,57.0,60.0
+Mergus merganser_Common Merganser,0.12426879,57.0,60.0
+Bucephala albeola_Bufflehead,0.11586142,57.0,60.0

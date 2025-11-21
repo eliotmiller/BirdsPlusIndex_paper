@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Certhia americana_Brown Creeper,0.10898671,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.46183875,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.20937607,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.14612103,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.10965446,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.8415092,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.9217057,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.36060646,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.17309944,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.2742947,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.12958522,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.4291465,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.18419783,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.13609482,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.24687555,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.22435308,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.169407,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1158314,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.20995189,8.0,11.0
+Certhia americana_Brown Creeper,0.53514576,9.0,12.0
+Certhia americana_Brown Creeper,0.5554848,10.0,13.0
+Certhia americana_Brown Creeper,0.7186083,11.0,14.0
+Setophaga occidentalis_Hermit Warbler,0.11032827,11.0,14.0
+Certhia americana_Brown Creeper,0.25066262,12.0,15.0
+Setophaga townsendi_Townsend's Warbler,0.13959625,12.0,15.0
+Setophaga occidentalis_Hermit Warbler,0.13650958,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15343483,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.11730342,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.102297045,13.0,16.0
+Regulus satrapa_Golden-crowned Kinglet,0.5855079,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.30170962,14.0,17.0
+Regulus satrapa_Golden-crowned Kinglet,0.39598563,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.1572798,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.27495205,16.0,19.0
+Regulus satrapa_Golden-crowned Kinglet,0.4659281,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.41521922,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.16970813,17.0,20.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14060165,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.40599442,18.0,21.0
+Vireo flavifrons_Yellow-throated Vireo,0.19171858,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.2115559,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.35228294,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.26123556,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.11622065,20.0,23.0
+Regulus satrapa_Golden-crowned Kinglet,0.44857162,21.0,24.0
+Regulus satrapa_Golden-crowned Kinglet,0.46608236,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.32444397,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.12014703,22.0,25.0
+Certhia americana_Brown Creeper,0.10449361,22.0,25.0
+Regulus satrapa_Golden-crowned Kinglet,0.7211019,23.0,26.0
+Certhia americana_Brown Creeper,0.20027435,23.0,26.0
+Setophaga castanea_Bay-breasted Warbler,0.48612657,24.0,27.0
+Regulus satrapa_Golden-crowned Kinglet,0.25838488,24.0,27.0
+Setophaga ruticilla_American Redstart,0.22106084,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.16070764,24.0,27.0
+Setophaga coronata_Yellow-rumped Warbler,0.13147146,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.11208918,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.35513058,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.13340999,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.3593246,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.23200622,27.0,30.0
+Vireo solitarius_Blue-headed Vireo,0.1528719,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.14564022,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.8112348,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.39489213,28.0,31.0
+Regulus satrapa_Golden-crowned Kinglet,0.5914984,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.24893297,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.6262817,30.0,33.0
+Poecile atricapillus_Black-capped Chickadee,0.16803145,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.7704395,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.38471496,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.37652317,32.0,35.0
+Regulus satrapa_Golden-crowned Kinglet,0.31175977,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.16928078,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.7362056,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.1910615,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.12526436,33.0,36.0
+Certhia americana_Brown Creeper,0.12224049,33.0,36.0
+Certhia americana_Brown Creeper,0.26601452,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.24947278,34.0,37.0
+Certhia americana_Brown Creeper,0.8678811,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.11458903,35.0,38.0
+Certhia americana_Brown Creeper,0.65060425,36.0,39.0
+Certhia americana_Brown Creeper,0.4250915,37.0,40.0
+Troglodytes hiemalis_Winter Wren,0.1478276,37.0,40.0
+Regulus ignicapilla_Common Firecrest,0.38488102,38.0,40.87201814058957
