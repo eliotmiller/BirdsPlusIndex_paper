@@ -1,0 +1,25 @@
+species,score,start_time,end_time
+Haliaeetus leucocephalus_Bald Eagle,0.9735997,0.0,3.0
+Zenaida macroura_Mourning Dove,0.25808674,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.99352175,1.0,4.0
+Zenaida macroura_Mourning Dove,0.1379151,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.9816341,2.0,5.0
+Zenaida macroura_Mourning Dove,0.14006074,2.0,5.0
+Haliaeetus leucocephalus_Bald Eagle,0.9980222,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.99286556,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.22996742,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.35455996,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.3342155,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.131692,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.1483071,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.20042661,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.15173353,8.0,11.0
+Cyanocitta cristata_Blue Jay,0.14104669,9.0,12.0
+Cyanocitta cristata_Blue Jay,0.17099223,10.0,13.0
+Quiscalus quiscula_Common Grackle,0.10473348,10.0,13.0
+Quiscalus quiscula_Common Grackle,0.15331277,11.0,14.0
+Cyanocitta cristata_Blue Jay,0.113420755,11.0,14.0
+Cyanocitta cristata_Blue Jay,0.122852266,12.0,15.0
+Quiscalus quiscula_Common Grackle,0.11363251,12.0,15.0
+Cyanocitta cristata_Blue Jay,0.19241667,13.0,16.0
+Quiscalus quiscula_Common Grackle,0.17121291,13.0,16.0

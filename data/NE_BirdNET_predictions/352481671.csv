@@ -1,0 +1,167 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.9937243,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.98114246,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.9906996,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.99073774,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.9638174,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.19131923,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.11883069,5.0,8.0
+Turdus migratorius_American Robin,0.11049587,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.20765562,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.20044035,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.47052345,7.0,10.0
+Turdus migratorius_American Robin,0.3179056,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.31164578,7.0,10.0
+Cardinalis cardinalis_Northern Cardinal,0.16606705,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.14083298,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.12200864,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.49197623,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.48316988,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.4252102,8.0,11.0
+Turdus migratorius_American Robin,0.2766426,8.0,11.0
+Poecile atricapillus_Black-capped Chickadee,0.19152234,8.0,11.0
+Cardinalis cardinalis_Northern Cardinal,0.16014305,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10071024,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.7609021,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.43076822,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.35803306,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2878692,9.0,12.0
+Cardinalis cardinalis_Northern Cardinal,0.18398312,9.0,12.0
+Poecile atricapillus_Black-capped Chickadee,0.11231687,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3982036,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.3049099,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.25199425,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.17223893,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.14284468,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7196552,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.2695485,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.13061541,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21379082,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.14029615,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.10578056,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.10551141,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.76763785,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.5172912,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.2101004,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.779917,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.30844352,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.8791149,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.7935861,16.0,19.0
+Geothlypis trichas_Common Yellowthroat,0.2884348,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.100765124,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.6324623,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.9659822,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.9838653,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.9901923,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.97631353,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.7250279,22.0,25.0
+Parkesia noveboracensis_Northern Waterthrush,0.11937401,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.6428416,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.21335085,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.46090645,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.22679578,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19731869,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.17402771,24.0,27.0
+Geothlypis trichas_Common Yellowthroat,0.11629338,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.4212946,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3222322,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.22166972,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.21090797,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.12916821,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18047714,26.0,29.0
+Toxostoma rufum_Brown Thrasher,0.11009151,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.13139023,28.0,31.0
+Drepanis coccinea_Iiwi,0.11620667,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.40760726,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.11871164,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.35993496,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.17247926,30.0,33.0
+Drepanis coccinea_Iiwi,0.16313148,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.26388317,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.21132456,31.0,34.0
+Setophaga ruticilla_American Redstart,0.13334885,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13249949,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.105301246,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.3083853,32.0,35.0
+Chlorodrepanis virens_Hawaii Amakihi,0.14744835,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.13237195,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.27248687,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.1711896,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14795011,34.0,37.0
+Setophaga ruticilla_American Redstart,0.118706495,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.11236647,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.63518804,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.22042413,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.17651883,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.15888177,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15566587,35.0,38.0
+Poecile atricapillus_Black-capped Chickadee,0.13101587,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.4977607,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.27966538,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.70414186,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.5271194,37.0,40.0
+Turdus migratorius_American Robin,0.2469826,37.0,40.0
+Poecile atricapillus_Black-capped Chickadee,0.22261824,37.0,40.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.18910858,37.0,40.0
+Cardinalis cardinalis_Northern Cardinal,0.11662565,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.10219834,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.960635,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.98239845,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.99402595,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.99057955,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.9872327,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.5914074,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.44966665,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.1659507,43.0,46.0
+Setophaga ruticilla_American Redstart,0.14247446,43.0,46.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11538673,43.0,46.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1068097,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.41666913,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.36838865,44.0,47.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20349114,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.17678891,44.0,47.0
+Chasiempis sandwichensis_Hawaii Elepaio,0.117750235,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.3997856,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.221615,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.15661462,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.2373741,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.28240916,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.35422304,51.0,54.0
+Hylocichla mustelina_Wood Thrush,0.2994793,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.2989035,51.0,54.0
+Corvus brachyrhynchos_American Crow,0.16525708,51.0,54.0
+Pipilo erythrophthalmus_Eastern Towhee,0.30765986,53.0,56.0
+Turdus migratorius_American Robin,0.12378241,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.10525184,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.31012014,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.14598899,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.5488118,55.0,58.0
+Microeca flavigaster_Lemon-bellied Flycatcher,0.22861598,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.7288099,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.4687248,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.63596976,58.0,61.0
+Vireo olivaceus_Red-eyed Vireo,0.2510798,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.13130455,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.12962164,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.6345123,60.0,63.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24194,60.0,63.0
+Vireo olivaceus_Red-eyed Vireo,0.19660705,60.0,63.0
+Vireo solitarius_Blue-headed Vireo,0.14535055,60.0,63.0
+Hylocichla mustelina_Wood Thrush,0.33016375,61.0,64.0
+Vireo solitarius_Blue-headed Vireo,0.29719296,61.0,64.0
+Pipilo erythrophthalmus_Eastern Towhee,0.28143588,61.0,64.0
+Vireo olivaceus_Red-eyed Vireo,0.20474418,61.0,64.0
+Drepanis coccinea_Iiwi,0.857912,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16501766,62.0,65.0
+Cardinalis cardinalis_Northern Cardinal,0.116312884,62.0,65.0
+Piranga olivacea_Scarlet Tanager,0.22490513,63.0,66.0
+Vireo olivaceus_Red-eyed Vireo,0.19555402,63.0,66.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15620434,63.0,66.0
+Vireo solitarius_Blue-headed Vireo,0.1283357,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.96674633,64.0,67.0
+Geothlypis trichas_Common Yellowthroat,0.15380462,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.9797522,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.98983777,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.99621284,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.9813169,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.9324691,69.0,72.0

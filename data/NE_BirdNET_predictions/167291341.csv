@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Stachyris nigriceps_Gray-throated Babbler,0.4460545,0.0,3.0
+Spizella pusilla_Field Sparrow,0.3458023,0.0,3.0
+Buteo platypterus_Broad-winged Hawk,0.24346013,0.0,3.0
+Pooecetes gramineus_Vesper Sparrow,0.12752606,2.0,5.0
+Pooecetes gramineus_Vesper Sparrow,0.67634565,3.0,6.0
+Pooecetes gramineus_Vesper Sparrow,0.9619643,4.0,7.0
+Sporophila nigricollis_Yellow-bellied Seedeater,0.10239741,4.0,7.0
+Pooecetes gramineus_Vesper Sparrow,0.6582816,5.0,8.0
+Pooecetes gramineus_Vesper Sparrow,0.41325408,6.0,9.0
+Pooecetes gramineus_Vesper Sparrow,0.3566263,7.0,10.0
+Spinus tristis_American Goldfinch,0.19447963,8.0,11.0
+Spinus tristis_American Goldfinch,0.19863743,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.109021775,9.0,12.0
+Spizella pusilla_Field Sparrow,0.26551875,13.0,16.0
+Zonotrichia albicollis_White-throated Sparrow,0.16684155,13.0,16.0
+Spizella pusilla_Field Sparrow,0.31221724,14.0,17.0
+Spizella pusilla_Field Sparrow,0.19314837,15.0,18.0
+Pooecetes gramineus_Vesper Sparrow,0.53728026,16.0,19.0
+Spizella pusilla_Field Sparrow,0.18673924,16.0,19.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.102239504,16.0,19.0
+Pooecetes gramineus_Vesper Sparrow,0.31835216,17.0,20.0
+Pooecetes gramineus_Vesper Sparrow,0.59354854,18.0,21.0
+Pooecetes gramineus_Vesper Sparrow,0.9047516,19.0,22.0
+Passerina amoena_Lazuli Bunting,0.11418827,19.0,22.0
+Pooecetes gramineus_Vesper Sparrow,0.72519284,20.0,23.0
+Pooecetes gramineus_Vesper Sparrow,0.9696153,21.0,24.0
+Pooecetes gramineus_Vesper Sparrow,0.2193235,22.0,25.0
+Spizella pusilla_Field Sparrow,0.5334673,23.0,26.0
+Pooecetes gramineus_Vesper Sparrow,0.3090337,23.0,26.0
+Spizella pusilla_Field Sparrow,0.6944006,24.0,27.0
+Zonotrichia albicollis_White-throated Sparrow,0.17166609,24.0,27.0
+Oecanthus quadripunctatus_Four-spotted Tree Cricket,0.33107588,25.0,28.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.17083189,25.0,28.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.1642505,25.0,28.0
+Stachyris nigriceps_Gray-throated Babbler,0.13202585,25.0,28.0
+Poecile atricapillus_Black-capped Chickadee,0.1887522,27.0,30.0
+Cardinalis cardinalis_Northern Cardinal,0.103767276,29.0,32.0
+Cardinalis cardinalis_Northern Cardinal,0.18029743,30.0,33.0
+Myiothlypis rivularis_Riverbank Warbler,0.12923273,32.0,35.0
+Pooecetes gramineus_Vesper Sparrow,0.4570486,33.0,36.0
+Sporophila nigricollis_Yellow-bellied Seedeater,0.111300334,33.0,36.0
+Pooecetes gramineus_Vesper Sparrow,0.9894521,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.9491156,35.0,38.0
+Pooecetes gramineus_Vesper Sparrow,0.51008445,36.0,39.0
+Spinus tristis_American Goldfinch,0.10667005,36.0,39.0
+Peucaea aestivalis_Bachman's Sparrow,0.622427,37.0,40.0
+Pooecetes gramineus_Vesper Sparrow,0.6180248,37.0,40.0
+Spinus tristis_American Goldfinch,0.1517685,37.0,40.0
+Poecile montanus_Willow Tit,0.4872427,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.3389555,38.0,41.0
+Microcerculus bambla_Wing-banded Wren,0.13839117,38.0,41.0
+Spizella pusilla_Field Sparrow,0.70458186,39.0,42.0
+Stachyris nigriceps_Gray-throated Babbler,0.15848102,39.0,42.0
+Spizella pusilla_Field Sparrow,0.7785834,40.0,43.0
+Oecanthus quadripunctatus_Four-spotted Tree Cricket,0.3851354,41.0,44.0
+Spizella pusilla_Field Sparrow,0.35780245,41.0,44.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.1640336,41.0,44.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14129625,41.0,44.0
+Stachyris nigriceps_Gray-throated Babbler,0.10182984,41.0,44.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.1124674,42.0,45.0
+Stachyris nigriceps_Gray-throated Babbler,0.14308119,43.0,46.0
+Ammodramus humeralis_Grassland Sparrow,0.110417485,43.0,46.0
+Pooecetes gramineus_Vesper Sparrow,0.14476965,44.0,47.0
+Cardinalis cardinalis_Northern Cardinal,0.10338104,44.0,47.0
+Pooecetes gramineus_Vesper Sparrow,0.68489933,45.0,48.0
+Pooecetes gramineus_Vesper Sparrow,0.99624866,46.0,49.0
+Pooecetes gramineus_Vesper Sparrow,0.993302,47.0,50.0
+Sporophila morelleti_Morelet's Seedeater,0.2539145,47.0,50.0
+Pooecetes gramineus_Vesper Sparrow,0.9291212,48.0,51.0
+Pooecetes gramineus_Vesper Sparrow,0.23854655,49.0,52.0
+Spiza americana_Dickcissel,0.1117245,49.0,52.0
+Spiza americana_Dickcissel,0.7068497,50.0,53.0
+Passerina caerulea_Blue Grosbeak,0.1164682,50.0,53.0
+Sturnella magna_Eastern Meadowlark,0.33564466,55.0,58.0
+Ictinia mississippiensis_Mississippi Kite,0.16546884,55.0,58.0
+Spizella pusilla_Field Sparrow,0.56460726,56.0,59.0
+Spizella pusilla_Field Sparrow,0.8587134,57.0,60.0
+Spizella pusilla_Field Sparrow,0.85530233,58.0,61.0
+Pooecetes gramineus_Vesper Sparrow,0.4394661,59.0,62.0
+Spizella pusilla_Field Sparrow,0.152879,59.0,62.0
+Pooecetes gramineus_Vesper Sparrow,0.95557666,60.0,63.0
+Pooecetes gramineus_Vesper Sparrow,0.89771825,61.0,64.0
+Sporophila morelleti_Morelet's Seedeater,0.1050796,61.0,64.0
+Pooecetes gramineus_Vesper Sparrow,0.85723305,62.0,65.0
+Pooecetes gramineus_Vesper Sparrow,0.16592138,63.0,66.0
+Sporophila morelleti_Morelet's Seedeater,0.23758517,64.0,67.0

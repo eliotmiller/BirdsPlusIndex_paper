@@ -1,0 +1,115 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.22609955,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.11372427,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.11352754,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.17879751,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.117093235,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.31564024,3.0,6.0
+Setophaga ruticilla_American Redstart,0.15650113,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.1503514,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14164756,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24909414,4.0,7.0
+Buteo platypterus_Broad-winged Hawk,0.16849643,4.0,7.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13851507,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.11567243,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20532103,5.0,8.0
+Buteo platypterus_Broad-winged Hawk,0.10118683,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15301694,6.0,9.0
+Turdus migratorius_American Robin,0.11408475,8.0,11.0
+Setophaga dominica_Yellow-throated Warbler,0.1068771,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.13447411,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.14123842,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.112074874,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.100720786,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10845883,16.0,19.0
+Buteo platypterus_Broad-winged Hawk,0.13934334,17.0,20.0
+Buteo platypterus_Broad-winged Hawk,0.21465255,18.0,21.0
+Buteo platypterus_Broad-winged Hawk,0.11516784,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12426805,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.11606806,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.100006096,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.30546528,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.23539759,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.6806802,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3898744,27.0,30.0
+Setophaga ruticilla_American Redstart,0.12330348,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.12897654,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13705908,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120733224,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13376723,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.11993663,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.115385376,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17046265,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.10751692,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.69839954,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12589523,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.34273717,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16665621,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.31388026,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16316426,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.3794567,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19825025,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17450961,38.0,41.0
+Dryocopus pileatus_Pileated Woodpecker,0.10722814,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1667516,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1705268,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.12645951,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13463645,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.114091545,41.0,44.0
+Dryocopus pileatus_Pileated Woodpecker,0.15887722,42.0,45.0
+Todus subulatus_Broad-billed Tody,0.115950644,45.0,48.0
+Tamiasciurus hudsonicus_Red Squirrel,0.109455645,47.0,50.0
+Tamiasciurus hudsonicus_Red Squirrel,0.14104725,48.0,51.0
+Todus subulatus_Broad-billed Tody,0.110105656,48.0,51.0
+Todus subulatus_Broad-billed Tody,0.11891181,50.0,53.0
+Tamiasciurus hudsonicus_Red Squirrel,0.108769506,52.0,55.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13709296,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12352426,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.34636497,64.0,67.0
+Geothlypis philadelphia_Mourning Warbler,0.1348679,64.0,67.0
+Setophaga magnolia_Magnolia Warbler,0.120790005,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.20743713,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.18737505,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12764257,65.0,68.0
+Setophaga magnolia_Magnolia Warbler,0.13283572,68.0,71.0
+Setophaga citrina_Hooded Warbler,0.13026547,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12813541,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11649467,70.0,73.0
+Buteo platypterus_Broad-winged Hawk,0.1085901,73.0,76.0
+Setophaga cerulea_Cerulean Warbler,0.32962435,77.0,80.0
+Geothlypis philadelphia_Mourning Warbler,0.1047523,77.0,80.0
+Setophaga citrina_Hooded Warbler,0.4308452,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.23521383,78.0,81.0
+Setophaga citrina_Hooded Warbler,0.14178404,79.0,82.0
+Geothlypis trichas_Common Yellowthroat,0.223783,80.0,83.0
+Setophaga citrina_Hooded Warbler,0.12032234,80.0,83.0
+Setophaga citrina_Hooded Warbler,0.22233635,81.0,84.0
+Piranga olivacea_Scarlet Tanager,0.12163014,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.106156036,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13102949,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.1066204,85.0,88.0
+Buteo platypterus_Broad-winged Hawk,0.13319564,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102021284,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11632633,98.0,101.0
+Setophaga cerulea_Cerulean Warbler,0.32957196,101.0,104.0
+Setophaga cerulea_Cerulean Warbler,0.18305698,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.28221253,103.0,106.0
+Setophaga cerulea_Cerulean Warbler,0.19328819,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118679486,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11104091,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10948415,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13205029,116.0,119.0
+Setophaga fusca_Blackburnian Warbler,0.14286427,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10886807,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.4913478,137.0,140.0
+Setophaga dominica_Yellow-throated Warbler,0.18324466,137.0,140.0
+Geothlypis trichas_Common Yellowthroat,0.104478635,138.0,141.0
+Geothlypis trichas_Common Yellowthroat,0.13578632,139.0,142.0
+Geothlypis trichas_Common Yellowthroat,0.24862106,140.0,143.0
+Setophaga fusca_Blackburnian Warbler,0.117935345,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.103397526,145.0,148.0
+Piranga olivacea_Scarlet Tanager,0.10307763,146.0,149.0
+Piranga olivacea_Scarlet Tanager,0.113804676,147.0,150.0
+Todus subulatus_Broad-billed Tody,0.12368156,148.0,151.0
+Todus subulatus_Broad-billed Tody,0.104584135,151.0,154.0
+Todus subulatus_Broad-billed Tody,0.11342364,152.0,155.0

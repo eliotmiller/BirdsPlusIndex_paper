@@ -1,0 +1,13 @@
+species,score,start_time,end_time
+Ardea cinerea_Gray Heron,0.21661346,0.0,3.0
+Anas platyrhynchos_Mallard,0.1668888,0.0,3.0
+Hydroprogne caspia_Caspian Tern,0.12223884,0.0,3.0
+Ardea cinerea_Gray Heron,0.5602042,1.0,4.0
+Hydroprogne caspia_Caspian Tern,0.37980705,1.0,4.0
+Ardea purpurea_Purple Heron,0.1376166,1.0,4.0
+Ardea cinerea_Gray Heron,0.42250624,2.0,5.0
+Hydroprogne caspia_Caspian Tern,0.10597868,2.0,5.0
+Hydroprogne caspia_Caspian Tern,0.19520389,3.0,6.0
+Garrulus glandarius_Eurasian Jay,0.45645344,4.0,7.0
+Corvus corone_Carrion Crow,0.10191249,4.0,7.0
+Melanerpes formicivorus_Acorn Woodpecker,0.6232509,5.0,7.656009070294784

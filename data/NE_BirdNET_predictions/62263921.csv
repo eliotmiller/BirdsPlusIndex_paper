@@ -1,0 +1,144 @@
+species,score,start_time,end_time
+Tyrannus tyrannus_Eastern Kingbird,0.6047405,0.0,3.0
+Protonotaria citrea_Prothonotary Warbler,0.9945972,1.0,4.0
+Protonotaria citrea_Prothonotary Warbler,0.998382,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.9993161,3.0,6.0
+Protonotaria citrea_Prothonotary Warbler,0.9993722,4.0,7.0
+Tachycineta bicolor_Tree Swallow,0.14662111,5.0,8.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.42798212,6.0,9.0
+Tachycineta bicolor_Tree Swallow,0.5274387,11.0,14.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2483867,11.0,14.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.3902839,12.0,15.0
+Tachycineta bicolor_Tree Swallow,0.27756035,12.0,15.0
+Tachycineta bicolor_Tree Swallow,0.5561443,13.0,16.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16721646,13.0,16.0
+Melospiza georgiana_Swamp Sparrow,0.14745384,13.0,16.0
+Melospiza georgiana_Swamp Sparrow,0.29133445,14.0,17.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.27744535,14.0,17.0
+Tachycineta bicolor_Tree Swallow,0.17575161,14.0,17.0
+Melospiza georgiana_Swamp Sparrow,0.527976,15.0,18.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15910062,15.0,18.0
+Melospiza georgiana_Swamp Sparrow,0.77263314,16.0,19.0
+Melospiza georgiana_Swamp Sparrow,0.5830238,17.0,20.0
+Chloris sinica_Oriental Greenfinch,0.10062147,18.0,21.0
+Ixobrychus exilis_Least Bittern,0.21007594,19.0,22.0
+Ixobrychus exilis_Least Bittern,0.20033313,20.0,23.0
+Gallinula galeata_Common Gallinule,0.13659757,21.0,24.0
+Ixobrychus exilis_Least Bittern,0.10158383,21.0,24.0
+Setophaga coronata_Yellow-rumped Warbler,0.10123652,23.0,26.0
+Melospiza georgiana_Swamp Sparrow,0.45907852,27.0,30.0
+Melospiza georgiana_Swamp Sparrow,0.75277233,28.0,31.0
+Ixobrychus exilis_Least Bittern,0.11649837,28.0,31.0
+Melospiza georgiana_Swamp Sparrow,0.6415627,29.0,32.0
+Ixobrychus exilis_Least Bittern,0.10789461,29.0,32.0
+Melospiza georgiana_Swamp Sparrow,0.29867783,30.0,33.0
+Protonotaria citrea_Prothonotary Warbler,0.9720018,38.0,41.0
+Protonotaria citrea_Prothonotary Warbler,0.5020889,39.0,42.0
+Cinnyris asiaticus_Purple Sunbird,0.22920318,39.0,42.0
+Protonotaria citrea_Prothonotary Warbler,0.6897858,40.0,43.0
+Protonotaria citrea_Prothonotary Warbler,0.20865595,41.0,44.0
+Melospiza georgiana_Swamp Sparrow,0.642371,42.0,45.0
+Melospiza georgiana_Swamp Sparrow,0.18603191,43.0,46.0
+Melospiza georgiana_Swamp Sparrow,0.16802518,44.0,47.0
+Setophaga coronata_Yellow-rumped Warbler,0.5260082,45.0,48.0
+Spizella passerina_Chipping Sparrow,0.13403806,49.0,52.0
+Cistothorus palustris_Marsh Wren,0.25089747,50.0,53.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.2231045,51.0,54.0
+Protonotaria citrea_Prothonotary Warbler,0.99170613,53.0,56.0
+Protonotaria citrea_Prothonotary Warbler,0.99766904,54.0,57.0
+Protonotaria citrea_Prothonotary Warbler,0.9943792,55.0,58.0
+Protonotaria citrea_Prothonotary Warbler,0.9979844,56.0,59.0
+Melospiza georgiana_Swamp Sparrow,0.40756828,57.0,60.0
+Ixobrychus exilis_Least Bittern,0.17149225,57.0,60.0
+Ixobrychus exilis_Least Bittern,0.12336399,58.0,61.0
+Ixobrychus exilis_Least Bittern,0.17328341,61.0,64.0
+Tachycineta bicolor_Tree Swallow,0.17281274,61.0,64.0
+Basileuterus rufifrons_Rufous-capped Warbler,0.10362182,64.0,67.0
+Tachycineta bicolor_Tree Swallow,0.11680237,65.0,68.0
+Tachycineta bicolor_Tree Swallow,0.75903916,67.0,70.0
+Tachycineta bicolor_Tree Swallow,0.8340358,69.0,72.0
+Delichon urbicum_Common House-Martin,0.22752775,69.0,72.0
+Tachycineta bicolor_Tree Swallow,0.17182758,70.0,73.0
+Tachycineta bicolor_Tree Swallow,0.19309817,71.0,74.0
+Delichon urbicum_Common House-Martin,0.1872949,71.0,74.0
+Ixobrychus exilis_Least Bittern,0.13681391,72.0,75.0
+Melospiza georgiana_Swamp Sparrow,0.11163539,72.0,75.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13935938,73.0,76.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.938943,74.0,77.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.9763738,75.0,78.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8753947,76.0,79.0
+Tachycineta bicolor_Tree Swallow,0.61220866,77.0,80.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.3295376,77.0,80.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.10817996,78.0,81.0
+Columba livia_Rock Pigeon,0.47384655,79.0,82.0
+Zenaida auriculata_Eared Dove,0.34399182,79.0,82.0
+Bubo virginianus_Great Horned Owl,0.10280423,79.0,82.0
+Columba livia_Rock Pigeon,0.37967983,80.0,83.0
+Zenaida auriculata_Eared Dove,0.32239914,80.0,83.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.3777153,81.0,84.0
+Zenaida auriculata_Eared Dove,0.2629041,81.0,84.0
+Columba livia_Rock Pigeon,0.258053,81.0,84.0
+Protonotaria citrea_Prothonotary Warbler,0.23912169,82.0,85.0
+Protonotaria citrea_Prothonotary Warbler,0.99528044,83.0,86.0
+Protonotaria citrea_Prothonotary Warbler,0.9979474,84.0,87.0
+Protonotaria citrea_Prothonotary Warbler,0.9980835,85.0,88.0
+Protonotaria citrea_Prothonotary Warbler,0.9977991,86.0,89.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8063995,87.0,90.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8595172,88.0,91.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.5880306,89.0,92.0
+Vireo atricapilla_Black-capped Vireo,0.15010172,89.0,92.0
+Melospiza georgiana_Swamp Sparrow,0.23451854,90.0,93.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15830593,90.0,93.0
+Melospiza georgiana_Swamp Sparrow,0.17950436,91.0,94.0
+Tachycineta bicolor_Tree Swallow,0.1311946,92.0,95.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.20715845,93.0,96.0
+Tachycineta bicolor_Tree Swallow,0.13953802,93.0,96.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.37401235,94.0,97.0
+Tachycineta bicolor_Tree Swallow,0.23691423,94.0,97.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8402433,95.0,98.0
+Tachycineta bicolor_Tree Swallow,0.45250875,96.0,99.0
+Tachycineta bicolor_Tree Swallow,0.47524402,97.0,100.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.22711399,97.0,100.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.25672317,98.0,101.0
+Tachycineta bicolor_Tree Swallow,0.23758389,98.0,101.0
+Tachycineta bicolor_Tree Swallow,0.75741553,99.0,102.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11584117,99.0,102.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.402328,100.0,103.0
+Tachycineta bicolor_Tree Swallow,0.23377304,100.0,103.0
+Columba livia_Rock Pigeon,0.22190887,100.0,103.0
+Tachycineta bicolor_Tree Swallow,0.6329181,101.0,104.0
+Ixobrychus exilis_Least Bittern,0.21750745,101.0,104.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1693226,101.0,104.0
+Turdus migratorius_American Robin,0.19484639,102.0,105.0
+Turdus migratorius_American Robin,0.36671865,103.0,106.0
+Turdus migratorius_American Robin,0.10907875,104.0,107.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.45900548,106.0,109.0
+Troglodytes aedon_House Wren,0.10661073,108.0,111.0
+Troglodytes aedon_House Wren,0.1750217,109.0,112.0
+Troglodytes aedon_House Wren,0.18427172,110.0,113.0
+Parkesia noveboracensis_Northern Waterthrush,0.15550688,111.0,114.0
+Protonotaria citrea_Prothonotary Warbler,0.98664063,112.0,115.0
+Protonotaria citrea_Prothonotary Warbler,0.9960742,113.0,116.0
+Protonotaria citrea_Prothonotary Warbler,0.9977714,114.0,117.0
+Protonotaria citrea_Prothonotary Warbler,0.9994036,115.0,118.0
+Melospiza georgiana_Swamp Sparrow,0.3523633,118.0,121.0
+Ixobrychus exilis_Least Bittern,0.117892876,118.0,121.0
+Melospiza georgiana_Swamp Sparrow,0.3013918,119.0,122.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.22383268,119.0,122.0
+Ixobrychus exilis_Least Bittern,0.10072387,119.0,122.0
+Melospiza georgiana_Swamp Sparrow,0.4396809,120.0,123.0
+Ixobrychus exilis_Least Bittern,0.103867136,120.0,123.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.43652135,124.0,127.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8994155,125.0,128.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.8459694,126.0,129.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.52352244,127.0,130.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.6592784,128.0,131.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.41511142,129.0,132.0
+Ixobrychus exilis_Least Bittern,0.118070036,130.0,133.0
+Ixobrychus exilis_Least Bittern,0.2692806,131.0,134.0
+Melospiza georgiana_Swamp Sparrow,0.15987715,131.0,134.0
+Botaurus lentiginosus_American Bittern,0.10787065,131.0,134.0
+Ixobrychus exilis_Least Bittern,0.11962227,132.0,135.0
+Ixobrychus exilis_Least Bittern,0.2928161,133.0,136.0
+Botaurus lentiginosus_American Bittern,0.19251354,133.0,136.0
+Ixobrychus exilis_Least Bittern,0.19671746,134.0,137.0

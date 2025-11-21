@@ -1,0 +1,76 @@
+species,score,start_time,end_time
+Engine_Engine,0.20203309,2.0,5.0
+Engine_Engine,0.34005573,3.0,6.0
+Tyto alba_Barn Owl,0.28671455,4.0,7.0
+Engine_Engine,0.15165237,4.0,7.0
+Ammodramus savannarum_Grasshopper Sparrow,0.33422926,5.0,8.0
+Passerculus sandwichensis_Savannah Sparrow,0.12830925,5.0,8.0
+Ammodramus humeralis_Grassland Sparrow,0.74886084,6.0,9.0
+Passerculus sandwichensis_Savannah Sparrow,0.26225415,6.0,9.0
+Ammospiza nelsoni_Nelson's Sparrow,0.15601608,6.0,9.0
+Ammodramus humeralis_Grassland Sparrow,0.8648667,7.0,10.0
+Passerculus sandwichensis_Savannah Sparrow,0.35292828,7.0,10.0
+Ammodramus humeralis_Grassland Sparrow,0.6779887,8.0,11.0
+Passerculus sandwichensis_Savannah Sparrow,0.37395713,8.0,11.0
+Emberiza citrinella_Yellowhammer,0.11272613,8.0,11.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.21492873,9.0,12.0
+Salpinctes obsoletus_Rock Wren,0.19221808,9.0,12.0
+Ammospiza maritima_Seaside Sparrow,0.17704113,9.0,12.0
+Passerculus sandwichensis_Savannah Sparrow,0.17325498,9.0,12.0
+Peucaea cassinii_Cassin's Sparrow,0.100413814,9.0,12.0
+Engine_Engine,0.57764673,13.0,16.0
+Engine_Engine,0.52311367,14.0,17.0
+Power tools_Power tools,0.11289969,14.0,17.0
+Engine_Engine,0.31808037,15.0,18.0
+Engine_Engine,0.2899382,16.0,19.0
+Engine_Engine,0.45079103,17.0,20.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5380985,18.0,21.0
+Passerculus sandwichensis_Savannah Sparrow,0.11153754,18.0,21.0
+Ammodramus humeralis_Grassland Sparrow,0.69677037,19.0,22.0
+Peucaea cassinii_Cassin's Sparrow,0.15304667,19.0,22.0
+Centronyx bairdii_Baird's Sparrow,0.11284311,19.0,22.0
+Ammodramus humeralis_Grassland Sparrow,0.7545566,20.0,23.0
+Passerculus sandwichensis_Savannah Sparrow,0.2395667,20.0,23.0
+Ammodramus humeralis_Grassland Sparrow,0.5226892,21.0,24.0
+Emberiza citrinella_Yellowhammer,0.14500216,21.0,24.0
+Passerculus sandwichensis_Savannah Sparrow,0.1339736,21.0,24.0
+Engine_Engine,0.40025404,22.0,25.0
+Engine_Engine,0.5840782,23.0,26.0
+Engine_Engine,0.3544473,24.0,27.0
+Engine_Engine,0.3219514,25.0,28.0
+Engine_Engine,0.20375642,26.0,29.0
+Ammospiza maritima_Seaside Sparrow,0.15313886,27.0,30.0
+Engine_Engine,0.11083853,29.0,32.0
+Engine_Engine,0.1519263,30.0,33.0
+Ammodramus savannarum_Grasshopper Sparrow,0.51649,33.0,36.0
+Peucaea cassinii_Cassin's Sparrow,0.14337113,33.0,36.0
+Centronyx bairdii_Baird's Sparrow,0.13259692,33.0,36.0
+Amphispiza bilineata_Black-throated Sparrow,0.11824363,33.0,36.0
+Ammodramus humeralis_Grassland Sparrow,0.2792762,34.0,37.0
+Peucaea cassinii_Cassin's Sparrow,0.12515467,34.0,37.0
+Centronyx bairdii_Baird's Sparrow,0.34386542,35.0,38.0
+Passerculus sandwichensis_Savannah Sparrow,0.13686837,35.0,38.0
+Ammodramus humeralis_Grassland Sparrow,0.13335277,35.0,38.0
+Peucaea cassinii_Cassin's Sparrow,0.12759613,35.0,38.0
+Passerculus sandwichensis_Savannah Sparrow,0.21259463,36.0,39.0
+Ammodramus humeralis_Grassland Sparrow,0.1555427,36.0,39.0
+Engine_Engine,0.22435273,39.0,42.0
+Pluvialis squatarola_Black-bellied Plover,0.2705538,40.0,43.0
+Pluvialis squatarola_Black-bellied Plover,0.32259223,41.0,44.0
+Sayornis saya_Say's Phoebe,0.30718994,41.0,44.0
+Sayornis saya_Say's Phoebe,0.48272124,42.0,45.0
+Pluvialis squatarola_Black-bellied Plover,0.4262176,42.0,45.0
+Engine_Engine,0.10676563,46.0,49.0
+Engine_Engine,0.18412891,48.0,51.0
+Ammodramus humeralis_Grassland Sparrow,0.2071964,50.0,53.0
+Passerculus sandwichensis_Savannah Sparrow,0.13000527,50.0,53.0
+Ammodramus humeralis_Grassland Sparrow,0.4204887,51.0,54.0
+Passerculus sandwichensis_Savannah Sparrow,0.34947345,51.0,54.0
+Centronyx bairdii_Baird's Sparrow,0.103787675,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10030283,51.0,54.0
+Passerculus sandwichensis_Savannah Sparrow,0.58510435,52.0,55.0
+Ammodramus humeralis_Grassland Sparrow,0.5288568,52.0,55.0
+Peucaea cassinii_Cassin's Sparrow,0.25891617,52.0,55.0
+Passerculus sandwichensis_Savannah Sparrow,0.28687188,53.0,56.0
+Spizella breweri_Brewer's Sparrow,0.12479057,53.0,56.0
+Peucaea cassinii_Cassin's Sparrow,0.11389796,53.0,56.0

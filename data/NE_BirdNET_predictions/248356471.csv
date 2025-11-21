@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Turdus maculirostris_Ecuadorian Thrush,0.3696025,1.0,4.0
+Turdus albicollis_White-necked Thrush,0.3281469,1.0,4.0
+Turdus albicollis_White-necked Thrush,0.28619733,2.0,5.0
+Icterus chrysater_Yellow-backed Oriole,0.101271994,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.17977959,3.0,6.0
+Oriolus oriolus_Eurasian Golden Oriole,0.18735063,5.0,8.0
+Picus viridis_Eurasian Green Woodpecker,0.13319549,5.0,8.0
+Empidonax minimus_Least Flycatcher,0.43744764,7.0,10.0
+Empidonax minimus_Least Flycatcher,0.16390426,8.0,11.0
+Catharus fuscescens_Veery,0.12960272,9.0,12.0
+Empidonax traillii_Willow Flycatcher,0.8987636,10.0,13.0
+Empidonax traillii_Willow Flycatcher,0.9833241,11.0,14.0
+Empidonax traillii_Willow Flycatcher,0.9543112,12.0,15.0
+Empidonax traillii_Willow Flycatcher,0.80959237,13.0,16.0
+Empidonax traillii_Willow Flycatcher,0.9736804,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.8945051,15.0,18.0
+Empidonax traillii_Willow Flycatcher,0.7571712,16.0,19.0
+Empidonax traillii_Willow Flycatcher,0.47387177,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.18236029,18.0,21.0
+Mimus polyglottos_Northern Mockingbird,0.7021629,19.0,22.0
+Mimus polyglottos_Northern Mockingbird,0.41821152,20.0,23.0
+Toxostoma rufum_Brown Thrasher,0.11888783,20.0,23.0
+Mimus polyglottos_Northern Mockingbird,0.63122416,21.0,24.0
+Toxostoma rufum_Brown Thrasher,0.14421229,21.0,24.0
+Mimus polyglottos_Northern Mockingbird,0.12659098,22.0,25.0
+Milvus migrans_Black Kite,0.122619346,23.0,26.0
+Milvus migrans_Black Kite,0.14572987,24.0,27.0
+Milvus migrans_Black Kite,0.15492778,25.0,28.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.24428995,29.0,32.0
+Mimus polyglottos_Northern Mockingbird,0.13333113,29.0,32.0
+Mimus polyglottos_Northern Mockingbird,0.24104786,30.0,33.0
+Pnoepyga pusilla_Pygmy Cupwing,0.21084645,30.0,33.0
+Aplonis panayensis_Asian Glossy Starling,0.10423247,30.0,33.0
+Pnoepyga pusilla_Pygmy Cupwing,0.5379017,31.0,34.0
+Mimus polyglottos_Northern Mockingbird,0.39043874,31.0,34.0
+Pnoepyga pusilla_Pygmy Cupwing,0.30763394,32.0,35.0
+Pnoepyga pusilla_Pygmy Cupwing,0.22657268,33.0,36.0
+Myrmecocichla arnotti_Arnot's Chat,0.13130935,33.0,36.0
+Pnoepyga pusilla_Pygmy Cupwing,0.16360772,34.0,37.0
+Aplonis panayensis_Asian Glossy Starling,0.41447493,35.0,38.0
+Quiscalus quiscula_Common Grackle,0.33118567,35.0,38.0
+Quiscalus quiscula_Common Grackle,0.7774696,36.0,39.0
+Pycnonotus goiavier_Yellow-vented Bulbul,0.24590623,40.0,43.0
+Pycnonotus goiavier_Yellow-vented Bulbul,0.5465712,41.0,44.0
+Psilopogon duvaucelii_Blue-eared Barbet,0.15181749,41.0,44.0
+Pogoniulus leucomystax_Moustached Tinkerbird,0.14297456,41.0,44.0
+Pycnonotus goiavier_Yellow-vented Bulbul,0.1515483,42.0,45.0
+Mimus polyglottos_Northern Mockingbird,0.19711632,43.0,46.0
+Pycnonotus goiavier_Yellow-vented Bulbul,0.17169563,43.0,46.0
+Mimus polyglottos_Northern Mockingbird,0.25585002,44.0,47.0
+Mimus polyglottos_Northern Mockingbird,0.7278788,45.0,48.0
+Haliaeetus leucocephalus_Bald Eagle,0.17454414,45.0,48.0
+Haliaeetus leucocephalus_Bald Eagle,0.52347165,46.0,49.0
+Mimus polyglottos_Northern Mockingbird,0.15978451,46.0,49.0
+Haliaeetus leucocephalus_Bald Eagle,0.48820934,47.0,50.0
+Pandion haliaetus_Osprey,0.12547097,47.0,50.0
+Haliaeetus leucocephalus_Bald Eagle,0.35058266,48.0,51.0
+Mimus polyglottos_Northern Mockingbird,0.12667948,48.0,51.0
+Turdus philomelos_Song Thrush,0.4553369,49.0,52.0
+Turdus viscivorus_Mistle Thrush,0.2465204,49.0,52.0
+Baeolophus bicolor_Tufted Titmouse,0.13390872,51.0,54.0
+Baeolophus bicolor_Tufted Titmouse,0.28659326,52.0,55.0
+Baeolophus bicolor_Tufted Titmouse,0.3501742,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.46935683,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.24507275,55.0,58.0
+Icterus galbula_Baltimore Oriole,0.26844913,56.0,59.0
+Icterus galbula_Baltimore Oriole,0.124454975,57.0,60.0
+Icterus galbula_Baltimore Oriole,0.3438674,58.0,61.0
+Agelaioides badius_Grayish Baywing,0.13098437,58.0,61.0
+Icterus galbula_Baltimore Oriole,0.3369514,59.0,62.0
+Toxostoma rufum_Brown Thrasher,0.3330518,61.0,64.0
+Pipilo erythrophthalmus_Eastern Towhee,0.45241487,62.0,65.0
