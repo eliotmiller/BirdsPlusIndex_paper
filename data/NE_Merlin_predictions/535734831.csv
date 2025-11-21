@@ -1,0 +1,10 @@
+species_code,score,start_offset_sec,end_offset_sec
+bird1,0.9990985,0.0,3.0
+boboli,0.9975791,0.0,3.0
+rewbla,0.017023528,0.0,3.0
+bird1,0.99888474,1.0,4.0
+boboli,0.9962716,1.0,4.0
+rewbla,0.012116316,1.0,4.0
+bird1,0.9923702,2.0,5.0
+boboli,0.9827682,2.0,5.0
+bird1,0.46068627,3.0,6.0
