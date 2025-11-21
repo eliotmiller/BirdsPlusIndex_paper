@@ -1,0 +1,138 @@
+species,score,start_time,end_time
+Buteo lineatus_Red-shouldered Hawk,0.9889669,0.0,3.0
+Buteo lineatus_Red-shouldered Hawk,0.98985076,1.0,4.0
+Buteo lineatus_Red-shouldered Hawk,0.98553026,2.0,5.0
+Buteo lineatus_Red-shouldered Hawk,0.987981,3.0,6.0
+Buteo lineatus_Red-shouldered Hawk,0.97939175,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23673952,5.0,8.0
+Setophaga americana_Northern Parula,0.37220776,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1459072,6.0,9.0
+Setophaga americana_Northern Parula,0.24935679,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22655883,7.0,10.0
+Setophaga americana_Northern Parula,0.2190762,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.18593666,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.3933063,10.0,13.0
+Spizella passerina_Chipping Sparrow,0.62688655,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11744282,11.0,14.0
+Spizella passerina_Chipping Sparrow,0.5465943,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.15000512,13.0,16.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.650367,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.12306574,14.0,17.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.64602536,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.14269055,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.3232864,16.0,19.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.28855076,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.41026208,17.0,20.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.31590244,17.0,20.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14085037,18.0,21.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.29367417,19.0,22.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.10216452,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19194616,20.0,23.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.10517405,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107847236,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.14068003,22.0,25.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.103959,22.0,25.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.16962081,23.0,26.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.12757419,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.20778665,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19084848,26.0,29.0
+Setophaga americana_Northern Parula,0.11310065,26.0,29.0
+Peucaea aestivalis_Bachman's Sparrow,0.10741052,26.0,29.0
+Spizella passerina_Chipping Sparrow,0.87262404,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5324599,27.0,30.0
+Spizella passerina_Chipping Sparrow,0.42226505,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14810042,28.0,31.0
+Spizella passerina_Chipping Sparrow,0.12158119,29.0,32.0
+Peucaea aestivalis_Bachman's Sparrow,0.11635728,29.0,32.0
+Spizella passerina_Chipping Sparrow,0.23032667,31.0,34.0
+Spizella passerina_Chipping Sparrow,0.20213714,32.0,35.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12806197,32.0,35.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17527285,33.0,36.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5522153,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.10760567,34.0,37.0
+Spizella passerina_Chipping Sparrow,0.2900359,35.0,38.0
+Spizella passerina_Chipping Sparrow,0.57146096,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1996034,36.0,39.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10854879,36.0,39.0
+Spizella passerina_Chipping Sparrow,0.60904294,37.0,40.0
+Spizella passerina_Chipping Sparrow,0.81885326,38.0,41.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.20637679,38.0,41.0
+Spizella passerina_Chipping Sparrow,0.86656773,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4259356,39.0,42.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16897461,39.0,42.0
+Spizella passerina_Chipping Sparrow,0.7912021,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20506683,40.0,43.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11513674,40.0,43.0
+Spizella passerina_Chipping Sparrow,0.4111318,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20979959,41.0,44.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18201937,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.42612144,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.41698968,44.0,47.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19998893,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.25463957,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.16332456,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.1484158,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.125609,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.653216,47.0,50.0
+Spizella passerina_Chipping Sparrow,0.38376892,47.0,50.0
+Spizella passerina_Chipping Sparrow,0.46615243,48.0,51.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.38493943,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23310168,48.0,51.0
+Myiozetetes luteiventris_Dusky-chested Flycatcher,0.12348423,48.0,51.0
+Spizella passerina_Chipping Sparrow,0.7394709,49.0,52.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6088879,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37362382,49.0,52.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.13390161,49.0,52.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.54714435,50.0,53.0
+Spizella passerina_Chipping Sparrow,0.266064,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14304446,50.0,53.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.1205672,50.0,53.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.11622174,50.0,53.0
+Spizella passerina_Chipping Sparrow,0.1432222,51.0,54.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11862012,51.0,54.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.3590843,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22930221,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.83814937,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.23900753,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.7956752,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.1631469,55.0,58.0
+Spizella passerina_Chipping Sparrow,0.16111208,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.50469756,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.34256545,56.0,59.0
+Spizella passerina_Chipping Sparrow,0.15517108,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6722703,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.25538015,57.0,60.0
+Spizella passerina_Chipping Sparrow,0.1377611,57.0,60.0
+Phylloscopus sibilatrix_Wood Warbler,0.29575786,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17981291,62.0,65.0
+Spizella passerina_Chipping Sparrow,0.15187043,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.58840525,63.0,66.0
+Spizella passerina_Chipping Sparrow,0.3881202,63.0,66.0
+Spizella passerina_Chipping Sparrow,0.73838997,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5414264,64.0,67.0
+Spizella passerina_Chipping Sparrow,0.6383983,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14512953,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.3864645,66.0,69.0
+Spizella passerina_Chipping Sparrow,0.15040576,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.1499443,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.6757214,67.0,70.0
+Piranga olivacea_Scarlet Tanager,0.12116896,67.0,70.0
+Spizella passerina_Chipping Sparrow,0.100593984,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.8907072,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.8407904,69.0,72.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.14533812,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4535735,70.0,73.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.120867044,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6284684,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3115693,72.0,75.0
+Spizella passerina_Chipping Sparrow,0.10024473,72.0,75.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27615696,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3437004,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32071277,75.0,78.0
+Peucaea aestivalis_Bachman's Sparrow,0.12749843,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37469545,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5884863,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.8420282,78.0,81.0
+Spizella passerina_Chipping Sparrow,0.15711994,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41374716,79.0,81.6
+Spizella passerina_Chipping Sparrow,0.34042966,79.0,81.6

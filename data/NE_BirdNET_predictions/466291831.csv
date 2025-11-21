@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.6692651,0.0,3.0
+Icterus galbula_Baltimore Oriole,0.2943287,2.0,5.0
+Turdus migratorius_American Robin,0.39409882,3.0,6.0
+Colinus virginianus_Northern Bobwhite,0.8910732,4.0,7.0
+Otus spilocephalus_Mountain Scops-Owl,0.16173698,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.13382271,4.0,7.0
+Colinus virginianus_Northern Bobwhite,0.98608285,5.0,8.0
+Colinus virginianus_Northern Bobwhite,0.9940421,6.0,9.0
+Colinus virginianus_Northern Bobwhite,0.9950943,7.0,10.0
+Colinus virginianus_Northern Bobwhite,0.9530588,8.0,11.0
+Turdus migratorius_American Robin,0.78488266,9.0,12.0
+Turdus migratorius_American Robin,0.3831495,10.0,13.0
+Turdus migratorius_American Robin,0.26934305,11.0,14.0
+Turdus migratorius_American Robin,0.39951286,12.0,15.0
+Turdus migratorius_American Robin,0.74630696,13.0,16.0
+Colinus virginianus_Northern Bobwhite,0.99506027,14.0,17.0
+Colinus virginianus_Northern Bobwhite,0.98543024,15.0,18.0
+Colinus virginianus_Northern Bobwhite,0.99182594,16.0,19.0
+Colinus virginianus_Northern Bobwhite,0.9628347,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.1073512,19.0,22.0
+Turdus migratorius_American Robin,0.13426323,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.9625729,27.0,30.0
+Colinus cristatus_Crested Bobwhite,0.11782937,27.0,30.0
+Colinus virginianus_Northern Bobwhite,0.95704275,28.0,31.0
+Colinus virginianus_Northern Bobwhite,0.9733575,29.0,32.0
+Colinus virginianus_Northern Bobwhite,0.90321517,30.0,33.0
+Myadestes palmeri_Puaiohi,0.17455758,36.0,39.0
+Myadestes palmeri_Puaiohi,0.19812776,37.0,40.0
+Colinus virginianus_Northern Bobwhite,0.22362289,38.0,41.0
+Colinus virginianus_Northern Bobwhite,0.9199878,39.0,42.0
+Colinus virginianus_Northern Bobwhite,0.9667476,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.9048404,41.0,44.0
+Ficedula albicollis_Collared Flycatcher,0.2355624,44.0,47.0
+Prunella modularis_Dunnock,0.13927914,45.0,48.0
+Myadestes palmeri_Puaiohi,0.2447509,50.0,53.0
+Myadestes palmeri_Puaiohi,0.36390978,51.0,54.0
+Colinus virginianus_Northern Bobwhite,0.40559134,53.0,56.0
+Anthornis melanura_New Zealand Bellbird,0.12720749,53.0,56.0
+Colluricincla harmonica_Gray Shrikethrush,0.10192,53.0,56.0
+Colinus virginianus_Northern Bobwhite,0.9235521,54.0,57.0
+Colinus virginianus_Northern Bobwhite,0.9755765,55.0,58.0
+Colinus virginianus_Northern Bobwhite,0.98294705,56.0,59.0
+Myadestes palmeri_Puaiohi,0.23997542,61.0,64.0
+Myadestes palmeri_Puaiohi,0.11569225,62.0,65.0
+Colinus virginianus_Northern Bobwhite,0.72096616,66.0,69.0
+Icteria virens_Yellow-breasted Chat,0.16764492,66.0,69.0
+Colinus virginianus_Northern Bobwhite,0.9214673,67.0,70.0
+Colinus virginianus_Northern Bobwhite,0.852409,68.0,71.0
+Colinus virginianus_Northern Bobwhite,0.94167143,69.0,72.0
+Zenaida macroura_Mourning Dove,0.75865155,70.0,73.0
+Zenaida macroura_Mourning Dove,0.27623013,71.0,74.0
+Zenaida macroura_Mourning Dove,0.32496607,72.0,75.0
+Colinus virginianus_Northern Bobwhite,0.64609915,76.0,79.0
+Colinus virginianus_Northern Bobwhite,0.9686585,77.0,80.0
+Colinus virginianus_Northern Bobwhite,0.9960069,78.0,81.0
+Colinus virginianus_Northern Bobwhite,0.9657377,79.0,82.0
+Colinus virginianus_Northern Bobwhite,0.41569316,80.0,83.0
+Colinus virginianus_Northern Bobwhite,0.35264453,87.0,90.0
+Colinus virginianus_Northern Bobwhite,0.9285479,88.0,91.0
+Colinus virginianus_Northern Bobwhite,0.9861065,89.0,92.0
+Colinus virginianus_Northern Bobwhite,0.96850634,90.0,93.0
+Colinus virginianus_Northern Bobwhite,0.1353828,91.0,94.0
+Colinus virginianus_Northern Bobwhite,0.9779277,96.0,99.0
+Otus spilocephalus_Mountain Scops-Owl,0.18008183,96.0,99.0
+Colinus virginianus_Northern Bobwhite,0.9326739,97.0,100.0
+Colinus virginianus_Northern Bobwhite,0.9759201,98.0,101.0
+Colinus virginianus_Northern Bobwhite,0.9551546,99.0,102.0
+Passerina cyanea_Indigo Bunting,0.29460952,101.0,104.0
+Passerina cyanea_Indigo Bunting,0.12977761,102.0,105.0
+Passerina cyanea_Indigo Bunting,0.2012033,103.0,105.86403628117914

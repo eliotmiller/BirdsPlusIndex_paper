@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.2564333,0.0,3.0
+Setophaga ruticilla_American Redstart,0.16255634,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.1124438,0.0,3.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3017563,3.0,6.0
+Myiarchus crinitus_Great Crested Flycatcher,0.6126568,4.0,7.0
+Setophaga ruticilla_American Redstart,0.27825674,5.0,8.0
+Setophaga ruticilla_American Redstart,0.2315681,6.0,9.0
+Setophaga ruticilla_American Redstart,0.2991032,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.11881422,7.0,10.0
+Palmeria dolei_Akohekohe,0.20517626,8.0,11.0
+Turdus merula_Eurasian Blackbird,0.13572282,9.0,12.0
+Pternistis erckelii_Erckel's Francolin,0.14787912,10.0,13.0
+Sialia currucoides_Mountain Bluebird,0.117508546,10.0,13.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.46259323,11.0,14.0
+Mniotilta varia_Black-and-white Warbler,0.17126814,12.0,15.0
+Setophaga ruticilla_American Redstart,0.1174977,12.0,15.0
+Myiarchus crinitus_Great Crested Flycatcher,0.5448066,13.0,16.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3494911,14.0,17.0
+Setophaga ruticilla_American Redstart,0.23925173,14.0,17.0
+Salpinctes obsoletus_Rock Wren,0.24696724,16.0,19.0
+Haemorhous mexicanus_House Finch,0.10715496,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.6139679,17.0,20.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1558106,18.0,21.0
+Myiarchus crinitus_Great Crested Flycatcher,0.33277735,19.0,22.0
+Baeolophus bicolor_Tufted Titmouse,0.14829573,19.0,22.0
+Setophaga ruticilla_American Redstart,0.3135228,20.0,23.0
+Setophaga ruticilla_American Redstart,0.117631644,21.0,24.0
+Engine_Engine,0.13773158,23.0,26.0
+Human non-vocal_Human non-vocal,0.13218339,23.0,26.0
+Myiarchus crinitus_Great Crested Flycatcher,0.5223096,24.0,27.0
+Myiarchus crinitus_Great Crested Flycatcher,0.4067073,25.0,28.0
+Myiarchus crinitus_Great Crested Flycatcher,0.25357652,26.0,29.0
+Myiarchus crinitus_Great Crested Flycatcher,0.11308674,27.0,30.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2933986,28.0,31.0
+Setophaga ruticilla_American Redstart,0.14895958,28.0,31.0
+Setophaga ruticilla_American Redstart,0.43309963,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.195742,29.0,32.0
+Chlorodrepanis virens_Hawaii Amakihi,0.14969523,30.0,33.0
+Pternistis erckelii_Erckel's Francolin,0.10868637,30.0,33.0
+Turdus migratorius_American Robin,0.18217479,31.0,34.0
+Myiarchus crinitus_Great Crested Flycatcher,0.16534907,31.0,34.0
+Haemorhous mexicanus_House Finch,0.13734199,31.0,34.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3323824,32.0,35.0
+Myiarchus crinitus_Great Crested Flycatcher,0.43645266,33.0,36.0
+Setophaga ruticilla_American Redstart,0.24764816,34.0,37.0
+Catharus fuscescens_Veery,0.15802924,35.0,38.0
+Turdus plumbeus_Red-legged Thrush,0.5575788,37.0,40.0
+Sialia mexicana_Western Bluebird,0.13143915,37.0,40.0
+Catharus fuscescens_Veery,0.14521651,39.0,42.0
+Coccothraustes vespertinus_Evening Grosbeak,0.15169686,40.0,43.0
+Salpinctes obsoletus_Rock Wren,0.22539106,41.0,44.0
+Haemorhous mexicanus_House Finch,0.12031461,41.0,44.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.2423937,42.0,45.0
+Myiarchus crinitus_Great Crested Flycatcher,0.4019847,43.0,46.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.292065,43.0,46.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.15526806,43.0,46.0
+Empidonax minimus_Least Flycatcher,0.12534773,47.0,50.0
+Sialia mexicana_Western Bluebird,0.10635465,48.0,51.0
+Sialia mexicana_Western Bluebird,0.17901248,49.0,52.0
+Sialia mexicana_Western Bluebird,0.18712328,50.0,53.0
+Toxostoma redivivum_California Thrasher,0.16016592,50.0,53.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.18951409,51.0,54.0
+Rallus limicola_Virginia Rail,0.1957822,52.0,55.0
+Myiarchus crinitus_Great Crested Flycatcher,0.47208002,56.0,59.0
+Myiarchus crinitus_Great Crested Flycatcher,0.57265335,57.0,60.0
+Myiarchus crinitus_Great Crested Flycatcher,0.67335254,58.0,61.0
+Sialia mexicana_Western Bluebird,0.10949577,63.0,66.0
+Setophaga ruticilla_American Redstart,0.18159552,65.0,68.0
+Setophaga ruticilla_American Redstart,0.20688452,66.0,69.0
+Setophaga ruticilla_American Redstart,0.4301612,67.0,70.0
+Setophaga ruticilla_American Redstart,0.70983046,68.0,71.0
+Bubo virginianus_Great Horned Owl,0.22028385,69.0,72.0
+Piranga flava_Hepatic Tanager,0.15686508,70.0,73.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.24887897,71.0,74.0
+Sialia mexicana_Western Bluebird,0.2062054,76.0,79.0
+Sialia mexicana_Western Bluebird,0.35777614,77.0,80.0
+Sialia currucoides_Mountain Bluebird,0.21041504,78.0,81.0
+Sialia currucoides_Mountain Bluebird,0.25890392,79.0,81.19201814058957
+Toxostoma redivivum_California Thrasher,0.107307,79.0,81.19201814058957

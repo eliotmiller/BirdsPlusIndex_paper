@@ -1,0 +1,38 @@
+species,score,start_time,end_time
+Myiarchus crinitus_Great Crested Flycatcher,0.89442086,0.0,3.0
+Myiarchus crinitus_Great Crested Flycatcher,0.19229287,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.19215979,1.0,4.0
+Myiarchus crinitus_Great Crested Flycatcher,0.18370177,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.12697703,6.0,9.0
+Archilochus colubris_Ruby-throated Hummingbird,0.104931116,7.0,10.0
+Archilochus colubris_Ruby-throated Hummingbird,0.24107675,8.0,11.0
+Myiarchus crinitus_Great Crested Flycatcher,0.27909252,9.0,12.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3697404,10.0,13.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2795117,11.0,14.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.45347083,12.0,15.0
+Engine_Engine,0.22537762,13.0,16.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.17777987,13.0,16.0
+Engine_Engine,0.46597588,14.0,17.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.15487361,14.0,17.0
+Engine_Engine,0.20944601,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.11462154,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.41322565,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.15888068,17.0,20.0
+Ictinia mississippiensis_Mississippi Kite,0.22840464,20.0,23.0
+Archilochus colubris_Ruby-throated Hummingbird,0.16975033,22.0,25.0
+Colinus virginianus_Northern Bobwhite,0.12853086,22.0,25.0
+Peucaea aestivalis_Bachman's Sparrow,0.12779498,23.0,26.0
+Engine_Engine,0.1260676,25.0,28.0
+Myiarchus crinitus_Great Crested Flycatcher,0.15947437,30.0,33.0
+Myiarchus crinitus_Great Crested Flycatcher,0.6789011,31.0,34.0
+Myiarchus crinitus_Great Crested Flycatcher,0.40422577,32.0,35.0
+Peucaea aestivalis_Bachman's Sparrow,0.22047004,32.0,35.0
+Myiarchus crinitus_Great Crested Flycatcher,0.48368266,33.0,36.0
+Peucaea aestivalis_Bachman's Sparrow,0.101743765,33.0,36.0
+Myiarchus crinitus_Great Crested Flycatcher,0.23010948,35.0,38.0
+Colinus virginianus_Northern Bobwhite,0.14961763,35.0,38.0
+Peucaea aestivalis_Bachman's Sparrow,0.102203965,35.0,38.0
+Myiarchus crinitus_Great Crested Flycatcher,0.27683866,36.0,39.0
+Colinus virginianus_Northern Bobwhite,0.117471844,36.0,39.0
+Peucaea aestivalis_Bachman's Sparrow,0.108206965,38.0,41.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.1021303,38.0,41.0

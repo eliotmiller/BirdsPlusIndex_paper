@@ -1,0 +1,79 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.72136545,0.0,3.0
+Peucaea aestivalis_Bachman's Sparrow,0.13225818,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.51591635,11.0,14.0
+Bombycilla cedrorum_Cedar Waxwing,0.24025808,12.0,15.0
+Melospiza melodia_Song Sparrow,0.13836372,12.0,15.0
+Spizella pusilla_Field Sparrow,0.11229526,12.0,15.0
+Bombycilla cedrorum_Cedar Waxwing,0.13670878,13.0,16.0
+Bombycilla cedrorum_Cedar Waxwing,0.17955989,26.0,29.0
+Spizella pusilla_Field Sparrow,0.16843913,26.0,29.0
+Melospiza melodia_Song Sparrow,0.13278604,27.0,30.0
+Bombycilla cedrorum_Cedar Waxwing,0.21689515,28.0,31.0
+Engine_Engine,0.10313609,32.0,35.0
+Bombycilla cedrorum_Cedar Waxwing,0.69641405,39.0,42.0
+Bombycilla cedrorum_Cedar Waxwing,0.19793567,40.0,43.0
+Bombycilla cedrorum_Cedar Waxwing,0.25937533,42.0,45.0
+Scytalopus atratus_White-crowned Tapaculo,0.1031901,52.0,55.0
+Bombycilla cedrorum_Cedar Waxwing,0.13878176,53.0,56.0
+Dryophytes versicolor_Gray Treefrog,0.11345182,62.0,65.0
+Dryophytes versicolor_Gray Treefrog,0.16060854,63.0,66.0
+Spizella pusilla_Field Sparrow,0.10215279,70.0,73.0
+Dryophytes versicolor_Gray Treefrog,0.19911732,71.0,74.0
+Scytalopus atratus_White-crowned Tapaculo,0.1618637,71.0,74.0
+Bombycilla cedrorum_Cedar Waxwing,0.16660525,74.0,77.0
+Dryophytes versicolor_Gray Treefrog,0.14818783,75.0,78.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.13793112,75.0,78.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.12161495,75.0,78.0
+Dryophytes versicolor_Gray Treefrog,0.16057599,76.0,79.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.10178434,76.0,79.0
+Parus major_Great Tit,0.2741425,79.0,82.0
+Melospiza melodia_Song Sparrow,0.34241974,80.0,83.0
+Melospiza melodia_Song Sparrow,0.34480473,81.0,84.0
+Peucaea aestivalis_Bachman's Sparrow,0.13621134,82.0,85.0
+Peucaea aestivalis_Bachman's Sparrow,0.46247977,83.0,86.0
+Melospiza melodia_Song Sparrow,0.30199885,91.0,94.0
+Melospiza melodia_Song Sparrow,0.4766691,92.0,95.0
+Melospiza melodia_Song Sparrow,0.10596958,93.0,96.0
+Peucaea aestivalis_Bachman's Sparrow,0.5713099,94.0,97.0
+Passerina cyanea_Indigo Bunting,0.10610713,94.0,97.0
+Power tools_Power tools,0.24073859,96.0,99.0
+Tyto alba_Barn Owl,0.13448404,96.0,99.0
+Engine_Engine,0.105263256,96.0,99.0
+Human non-vocal_Human non-vocal,0.10028579,96.0,99.0
+Engine_Engine,0.13466868,97.0,100.0
+Melospiza melodia_Song Sparrow,0.2190089,103.0,106.0
+Melospiza melodia_Song Sparrow,0.152976,104.0,107.0
+Melospiza melodia_Song Sparrow,0.22336252,105.0,108.0
+Peucaea aestivalis_Bachman's Sparrow,0.118963994,106.0,109.0
+Peucaea aestivalis_Bachman's Sparrow,0.68305314,107.0,110.0
+Cardinalis cardinalis_Northern Cardinal,0.12333324,109.0,112.0
+Bubo virginianus_Great Horned Owl,0.10335317,112.0,115.0
+Parus major_Great Tit,0.13962999,115.0,118.0
+Bombycilla cedrorum_Cedar Waxwing,0.19931066,116.0,119.0
+Melospiza melodia_Song Sparrow,0.18355009,116.0,119.0
+Peucaea aestivalis_Bachman's Sparrow,0.17740196,117.0,120.0
+Bombycilla cedrorum_Cedar Waxwing,0.13059533,118.0,121.0
+Pyrrhomyias cinnamomeus_Cinnamon Flycatcher,0.104751475,120.0,123.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.108714506,123.0,126.0
+Cyrtoxipha columbiana_Columbian Trig,0.1355574,125.0,128.0
+Bombycilla cedrorum_Cedar Waxwing,0.2594934,127.0,130.0
+Parus major_Great Tit,0.22568807,128.0,131.0
+Melospiza melodia_Song Sparrow,0.13828646,129.0,132.0
+Bombycilla cedrorum_Cedar Waxwing,0.10367591,129.0,132.0
+Melospiza melodia_Song Sparrow,0.23984754,130.0,133.0
+Bombycilla cedrorum_Cedar Waxwing,0.14792106,130.0,133.0
+Bombycilla cedrorum_Cedar Waxwing,0.49882653,131.0,134.0
+Bombycilla cedrorum_Cedar Waxwing,0.26088217,132.0,135.0
+Peucaea aestivalis_Bachman's Sparrow,0.10275722,132.0,135.0
+Bombycilla cedrorum_Cedar Waxwing,0.395303,133.0,136.0
+Spinus tristis_American Goldfinch,0.2012121,134.0,137.0
+Bombycilla cedrorum_Cedar Waxwing,0.100606926,134.0,137.0
+Bombycilla cedrorum_Cedar Waxwing,0.3200421,135.0,138.0
+Bombycilla cedrorum_Cedar Waxwing,0.29550588,137.0,140.0
+Cyrtoxipha columbiana_Columbian Trig,0.13370419,140.0,143.0
+Melospiza melodia_Song Sparrow,0.4383698,141.0,144.0
+Melospiza melodia_Song Sparrow,0.25288272,142.0,145.0
+Bombycilla cedrorum_Cedar Waxwing,0.10656791,142.0,145.0
+Bombycilla cedrorum_Cedar Waxwing,0.11508531,143.0,146.0
+Bombycilla cedrorum_Cedar Waxwing,0.12561664,144.0,146.44802721088436

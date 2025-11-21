@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Cistothorus palustris_Marsh Wren,0.3455635,0.0,3.0
+Cistothorus palustris_Marsh Wren,0.95630664,1.0,4.0
+Cistothorus palustris_Marsh Wren,0.9625651,2.0,5.0
+Cistothorus palustris_Marsh Wren,0.96034425,3.0,6.0
+Cistothorus palustris_Marsh Wren,0.7900953,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.81034917,6.0,9.0
+Cistothorus palustris_Marsh Wren,0.7558222,7.0,10.0
+Cistothorus palustris_Marsh Wren,0.87062645,8.0,11.0
+Cistothorus palustris_Marsh Wren,0.3987274,9.0,12.0
+Laterallus jamaicensis_Black Rail,0.1307995,9.0,12.0
+Ixobrychus exilis_Least Bittern,0.12849668,9.0,12.0
+Cistothorus palustris_Marsh Wren,0.8533047,10.0,13.0
+Ixobrychus exilis_Least Bittern,0.14626151,10.0,13.0
+Cistothorus palustris_Marsh Wren,0.9467301,11.0,14.0
+Cistothorus palustris_Marsh Wren,0.8345949,12.0,15.0
+Lanius meridionalis_Iberian Gray Shrike,0.13981903,13.0,16.0
+Merops apiaster_European Bee-eater,0.10261139,13.0,16.0
+Cistothorus palustris_Marsh Wren,0.52720237,15.0,18.0
+Cistothorus palustris_Marsh Wren,0.7331882,16.0,19.0
+Cistothorus palustris_Marsh Wren,0.5942084,17.0,20.0
+Cistothorus palustris_Marsh Wren,0.12851167,19.0,22.0
+Megalurus palustris_Striated Grassbird,0.4371465,20.0,23.0
+Anthus chacoensis_Pampas Pipit,0.19105962,21.0,24.0
+Cistothorus palustris_Marsh Wren,0.122017264,21.0,24.0
+Megalurus palustris_Striated Grassbird,0.111413516,21.0,24.0
+Spiza americana_Dickcissel,0.11036137,21.0,24.0
+Laterallus jamaicensis_Black Rail,0.2788747,23.0,26.0
+Ixobrychus exilis_Least Bittern,0.10723841,23.0,26.0
+Cistothorus palustris_Marsh Wren,0.7236763,24.0,27.0
+Ixobrychus exilis_Least Bittern,0.1885565,24.0,27.0
+Cistothorus palustris_Marsh Wren,0.9076085,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.9220328,26.0,29.0
+Emberiza cirlus_Cirl Bunting,0.15398705,28.0,31.0
+Cistothorus palustris_Marsh Wren,0.102640316,28.0,31.0
+Cistothorus palustris_Marsh Wren,0.16569735,29.0,32.0
+Cistothorus palustris_Marsh Wren,0.9435683,30.0,33.0
+Ixobrychus exilis_Least Bittern,0.1227925,30.0,33.0
+Laterallus jamaicensis_Black Rail,0.12067145,30.0,33.0
+Cistothorus palustris_Marsh Wren,0.8549192,31.0,34.0
+Spiza americana_Dickcissel,0.13494872,31.0,34.0
+Cistothorus palustris_Marsh Wren,0.41769063,32.0,35.0
+Cecropis daurica_Red-rumped Swallow,0.17564029,32.0,35.0
+Cistothorus palustris_Marsh Wren,0.14706507,34.0,37.0
+Ixobrychus exilis_Least Bittern,0.14297603,34.0,37.0
+Cistothorus palustris_Marsh Wren,0.34970167,35.0,38.0
+Cistothorus palustris_Marsh Wren,0.20877558,36.0,39.0
+Spiza americana_Dickcissel,0.12764849,36.0,39.0
+Ixobrychus exilis_Least Bittern,0.11050096,36.0,39.0
+Cistothorus palustris_Marsh Wren,0.8021847,38.0,41.0
+Cistothorus palustris_Marsh Wren,0.9766059,39.0,42.0
+Megalurus palustris_Striated Grassbird,0.11297371,39.0,42.0
+Cistothorus palustris_Marsh Wren,0.8827984,40.0,43.0
+Megalurus palustris_Striated Grassbird,0.38668573,40.0,43.0
+Cecropis daurica_Red-rumped Swallow,0.16570075,40.0,43.0
+Schoenicola striatus_Bristled Grassbird,0.5599901,41.0,44.0
+Merops apiaster_European Bee-eater,0.14736749,42.0,45.0
+Cistothorus palustris_Marsh Wren,0.5458304,43.0,46.0
+Cistothorus palustris_Marsh Wren,0.53933984,44.0,47.0
+Cistothorus palustris_Marsh Wren,0.32167575,45.0,48.0
+Chondestes grammacus_Lark Sparrow,0.26392913,46.0,49.0
+Amphispiza bilineata_Black-throated Sparrow,0.10765097,46.0,49.0

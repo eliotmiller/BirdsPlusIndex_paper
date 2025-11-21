@@ -1,0 +1,91 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.17327657,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.15504736,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.13650772,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.16285777,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.13377236,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.4082336,2.0,5.0
+Cardellina canadensis_Canada Warbler,0.10394261,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.10277008,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10118519,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.25818518,3.0,6.0
+Geothlypis trichas_Common Yellowthroat,0.28431758,4.0,7.0
+Geothlypis philadelphia_Mourning Warbler,0.13948244,4.0,7.0
+Cardellina canadensis_Canada Warbler,0.1303088,4.0,7.0
+Geothlypis trichas_Common Yellowthroat,0.55528903,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.30263996,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.19562529,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.5354403,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.6310384,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.3921857,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.35231894,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.10117315,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15435472,11.0,14.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11749516,11.0,14.0
+Oriolus oriolus_Eurasian Golden Oriole,0.16916369,13.0,16.0
+Accipiter gentilis_Northern Goshawk,0.11183565,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.1794903,14.0,17.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.10108981,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.8307003,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.7474759,16.0,19.0
+Geothlypis trichas_Common Yellowthroat,0.651757,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.4662129,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.2436042,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1660879,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.13575187,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.1334999,21.0,24.0
+Catharus minimus_Gray-cheeked Thrush,0.15958072,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1096469,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.13479665,25.0,28.0
+Catharus fuscescens_Veery,0.11722859,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10525948,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.10491705,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.41873387,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.19248837,26.0,29.0
+Setophaga magnolia_Magnolia Warbler,0.2356922,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.42115927,28.0,31.0
+Cardellina canadensis_Canada Warbler,0.10885856,28.0,31.0
+Geothlypis trichas_Common Yellowthroat,0.7674025,29.0,32.0
+Geothlypis trichas_Common Yellowthroat,0.72421604,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.45864746,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.19965284,31.0,34.0
+Parkesia motacilla_Louisiana Waterthrush,0.1484284,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12732428,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13784531,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16628943,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.17822924,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.10841522,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.32237768,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.26112375,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12082842,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.10472145,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11110296,39.0,42.0
+Protonotaria citrea_Prothonotary Warbler,0.107242614,39.0,42.0
+Vireo flavifrons_Yellow-throated Vireo,0.10396691,39.0,42.0
+Vireo flavifrons_Yellow-throated Vireo,0.18335591,40.0,43.0
+Catharus fuscescens_Veery,0.16158338,40.0,43.0
+Geothlypis trichas_Common Yellowthroat,0.24545956,41.0,44.0
+Setophaga magnolia_Magnolia Warbler,0.19127321,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.12638395,41.0,44.0
+Geothlypis philadelphia_Mourning Warbler,0.11543548,41.0,44.0
+Geothlypis trichas_Common Yellowthroat,0.14067179,42.0,45.0
+Setophaga magnolia_Magnolia Warbler,0.115375,42.0,45.0
+Geothlypis trichas_Common Yellowthroat,0.18443455,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.30920514,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.14530405,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.16053492,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.13543914,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.10686239,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.3801222,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.31218234,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.14489119,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.21548256,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.10817226,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.17975299,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.28933814,50.0,53.0
+Vireo olivaceus_Red-eyed Vireo,0.41255566,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.2539378,52.0,55.0
+Geothlypis trichas_Common Yellowthroat,0.7611175,54.0,57.0
+Geothlypis trichas_Common Yellowthroat,0.5446919,55.0,58.0
+Geothlypis trichas_Common Yellowthroat,0.22831608,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.14998457,57.0,60.0

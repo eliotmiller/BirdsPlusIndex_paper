@@ -1,0 +1,149 @@
+species,score,start_time,end_time
+Falco columbarius_Merlin,0.28880495,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.15481237,0.0,3.0
+Falco columbarius_Merlin,0.99186,1.0,4.0
+Falco columbarius_Merlin,0.99368274,2.0,5.0
+Falco columbarius_Merlin,0.9863405,3.0,6.0
+Falco columbarius_Merlin,0.987329,4.0,7.0
+Falco columbarius_Merlin,0.95689857,5.0,8.0
+Falco columbarius_Merlin,0.99629277,6.0,9.0
+Falco tinnunculus_Eurasian Kestrel,0.13582434,6.0,9.0
+Falco columbarius_Merlin,0.9520729,7.0,10.0
+Falco columbarius_Merlin,0.95001376,8.0,11.0
+Falco columbarius_Merlin,0.7141738,9.0,12.0
+Certhia familiaris_Eurasian Treecreeper,0.123072535,9.0,12.0
+Falco columbarius_Merlin,0.65511745,10.0,13.0
+Falco columbarius_Merlin,0.63931984,11.0,14.0
+Falco tinnunculus_Eurasian Kestrel,0.32496044,11.0,14.0
+Falco columbarius_Merlin,0.7112676,12.0,15.0
+Falco tinnunculus_Eurasian Kestrel,0.5509856,12.0,15.0
+Falco columbarius_Merlin,0.2619476,13.0,16.0
+Falco tinnunculus_Eurasian Kestrel,0.17224196,13.0,16.0
+Accipiter fasciatus_Brown Goshawk,0.10466024,13.0,16.0
+Falco columbarius_Merlin,0.54461277,14.0,17.0
+Falco tinnunculus_Eurasian Kestrel,0.27552608,14.0,17.0
+Certhia familiaris_Eurasian Treecreeper,0.6579658,15.0,18.0
+Certhia brachydactyla_Short-toed Treecreeper,0.19475417,15.0,18.0
+Certhia americana_Brown Creeper,0.21674202,16.0,19.0
+Certhia familiaris_Eurasian Treecreeper,0.1554341,16.0,19.0
+Certhia brachydactyla_Short-toed Treecreeper,0.12906659,16.0,19.0
+Regulus satrapa_Golden-crowned Kinglet,0.11151812,16.0,19.0
+Poecile gambeli_Mountain Chickadee,0.64962745,18.0,21.0
+Poecile gambeli_Mountain Chickadee,0.99115866,19.0,22.0
+Regulus satrapa_Golden-crowned Kinglet,0.12227393,19.0,22.0
+Poecile gambeli_Mountain Chickadee,0.5712577,21.0,24.0
+Certhia americana_Brown Creeper,0.4355265,22.0,25.0
+Certhia familiaris_Eurasian Treecreeper,0.3986316,22.0,25.0
+Certhia familiaris_Eurasian Treecreeper,0.61898524,23.0,26.0
+Certhia americana_Brown Creeper,0.32939342,23.0,26.0
+Certhia brachydactyla_Short-toed Treecreeper,0.13137877,23.0,26.0
+Certhia americana_Brown Creeper,0.86699325,24.0,27.0
+Regulus satrapa_Golden-crowned Kinglet,0.309121,24.0,27.0
+Certhia familiaris_Eurasian Treecreeper,0.22500525,24.0,27.0
+Poecile gambeli_Mountain Chickadee,0.4702336,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.11943488,25.0,28.0
+Poecile gambeli_Mountain Chickadee,0.28702635,26.0,29.0
+Certhia americana_Brown Creeper,0.18854792,28.0,31.0
+Certhia familiaris_Eurasian Treecreeper,0.23649718,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.104409575,30.0,33.0
+Poecile gambeli_Mountain Chickadee,0.39548227,31.0,34.0
+Poecile gambeli_Mountain Chickadee,0.24740498,34.0,37.0
+Regulus satrapa_Golden-crowned Kinglet,0.15241353,34.0,37.0
+Poecile gambeli_Mountain Chickadee,0.32260478,35.0,38.0
+Regulus satrapa_Golden-crowned Kinglet,0.17596577,35.0,38.0
+Poecile gambeli_Mountain Chickadee,0.14483228,36.0,39.0
+Poecile gambeli_Mountain Chickadee,0.54667383,38.0,41.0
+Regulus satrapa_Golden-crowned Kinglet,0.12195554,38.0,41.0
+Certhia americana_Brown Creeper,0.23607638,42.0,45.0
+Certhia familiaris_Eurasian Treecreeper,0.11169439,42.0,45.0
+Regulus satrapa_Golden-crowned Kinglet,0.11771598,43.0,46.0
+Certhia americana_Brown Creeper,0.11707101,43.0,46.0
+Certhia americana_Brown Creeper,0.8080128,44.0,47.0
+Certhia americana_Brown Creeper,0.24450795,45.0,48.0
+Certhia americana_Brown Creeper,0.539837,46.0,49.0
+Regulus satrapa_Golden-crowned Kinglet,0.12658624,47.0,50.0
+Regulus satrapa_Golden-crowned Kinglet,0.55135256,51.0,54.0
+Certhia americana_Brown Creeper,0.12672083,51.0,54.0
+Certhia familiaris_Eurasian Treecreeper,0.5590649,52.0,55.0
+Certhia americana_Brown Creeper,0.14426057,52.0,55.0
+Certhia americana_Brown Creeper,0.6620636,53.0,56.0
+Certhia familiaris_Eurasian Treecreeper,0.35332587,53.0,56.0
+Certhia americana_Brown Creeper,0.8607485,54.0,57.0
+Regulus satrapa_Golden-crowned Kinglet,0.10243057,54.0,57.0
+Setophaga occidentalis_Hermit Warbler,0.19077544,55.0,58.0
+Certhia americana_Brown Creeper,0.1335901,55.0,58.0
+Setophaga coronata_Yellow-rumped Warbler,0.11357601,56.0,59.0
+Certhia americana_Brown Creeper,0.62893087,57.0,60.0
+Certhia americana_Brown Creeper,0.3565182,58.0,61.0
+Certhia familiaris_Eurasian Treecreeper,0.25290647,59.0,62.0
+Certhia americana_Brown Creeper,0.10358208,59.0,62.0
+Certhia americana_Brown Creeper,0.41513574,61.0,64.0
+Certhia americana_Brown Creeper,0.90170854,62.0,65.0
+Certhia americana_Brown Creeper,0.90453297,63.0,66.0
+Certhia americana_Brown Creeper,0.8078433,64.0,67.0
+Setophaga occidentalis_Hermit Warbler,0.14014693,64.0,67.0
+Poecile gambeli_Mountain Chickadee,0.14100322,65.0,68.0
+Certhia americana_Brown Creeper,0.58029807,67.0,70.0
+Regulus satrapa_Golden-crowned Kinglet,0.11200641,67.0,70.0
+Certhia americana_Brown Creeper,0.5123705,68.0,71.0
+Certhia familiaris_Eurasian Treecreeper,0.14229739,68.0,71.0
+Certhia americana_Brown Creeper,0.41321865,69.0,72.0
+Regulus satrapa_Golden-crowned Kinglet,0.27779725,69.0,72.0
+Regulus satrapa_Golden-crowned Kinglet,0.47111925,70.0,73.0
+Regulus satrapa_Golden-crowned Kinglet,0.87845516,71.0,74.0
+Regulus satrapa_Golden-crowned Kinglet,0.75313425,72.0,75.0
+Baeolophus bicolor_Tufted Titmouse,0.11145498,72.0,75.0
+Certhia americana_Brown Creeper,0.5692831,73.0,76.0
+Certhia familiaris_Eurasian Treecreeper,0.2409821,73.0,76.0
+Certhia americana_Brown Creeper,0.33922157,74.0,77.0
+Certhia americana_Brown Creeper,0.7290707,75.0,78.0
+Regulus satrapa_Golden-crowned Kinglet,0.28270388,75.0,78.0
+Certhia familiaris_Eurasian Treecreeper,0.12637287,75.0,78.0
+Regulus satrapa_Golden-crowned Kinglet,0.67494917,76.0,79.0
+Certhia americana_Brown Creeper,0.5343019,76.0,79.0
+Certhia americana_Brown Creeper,0.9072581,77.0,80.0
+Regulus satrapa_Golden-crowned Kinglet,0.60618836,77.0,80.0
+Regulus satrapa_Golden-crowned Kinglet,0.53213316,78.0,81.0
+Arremon brunneinucha_Chestnut-capped Brushfinch,0.49538466,78.0,81.0
+Regulus satrapa_Golden-crowned Kinglet,0.3100573,79.0,82.0
+Poecile gambeli_Mountain Chickadee,0.1328749,79.0,82.0
+Certhia americana_Brown Creeper,0.38373864,82.0,85.0
+Certhia familiaris_Eurasian Treecreeper,0.1298072,82.0,85.0
+Certhia americana_Brown Creeper,0.19819988,83.0,86.0
+Certhia familiaris_Eurasian Treecreeper,0.13302363,83.0,86.0
+Certhia familiaris_Eurasian Treecreeper,0.10127193,84.0,87.0
+Cinclodes albiventris_Cream-winged Cinclodes,0.25899422,86.0,89.0
+Regulus satrapa_Golden-crowned Kinglet,0.6226766,88.0,91.0
+Certhia americana_Brown Creeper,0.39891785,88.0,91.0
+Regulus satrapa_Golden-crowned Kinglet,0.5162868,89.0,92.0
+Certhia americana_Brown Creeper,0.43568596,89.0,92.0
+Regulus satrapa_Golden-crowned Kinglet,0.6669862,90.0,93.0
+Certhia americana_Brown Creeper,0.3850575,90.0,93.0
+Regulus satrapa_Golden-crowned Kinglet,0.61109066,91.0,94.0
+Certhia americana_Brown Creeper,0.11383272,91.0,94.0
+Regulus satrapa_Golden-crowned Kinglet,0.84940946,92.0,95.0
+Poecile gambeli_Mountain Chickadee,0.23916568,92.0,95.0
+Regulus satrapa_Golden-crowned Kinglet,0.75429934,93.0,96.0
+Poecile gambeli_Mountain Chickadee,0.110011056,93.0,96.0
+Regulus satrapa_Golden-crowned Kinglet,0.5463936,94.0,97.0
+Regulus satrapa_Golden-crowned Kinglet,0.2913865,95.0,98.0
+Regulus satrapa_Golden-crowned Kinglet,0.2654631,96.0,99.0
+Certhia americana_Brown Creeper,0.1275562,102.0,105.0
+Certhia americana_Brown Creeper,0.50408036,103.0,106.0
+Certhia familiaris_Eurasian Treecreeper,0.30071655,103.0,106.0
+Regulus satrapa_Golden-crowned Kinglet,0.5686776,104.0,107.0
+Tringa solitaria_Solitary Sandpiper,0.675456,106.0,109.0
+Zonotrichia albicollis_White-throated Sparrow,0.29567784,106.0,109.0
+Dryobates villosus_Hairy Woodpecker,0.13005921,106.0,109.0
+Tringa solitaria_Solitary Sandpiper,0.69651103,107.0,110.0
+Zonotrichia albicollis_White-throated Sparrow,0.14752086,107.0,110.0
+Tringa solitaria_Solitary Sandpiper,0.32373217,108.0,111.0
+Tringa solitaria_Solitary Sandpiper,0.1662448,109.0,112.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.14265124,109.0,112.0
+Zonotrichia albicollis_White-throated Sparrow,0.13115484,110.0,113.0
+Zonotrichia albicollis_White-throated Sparrow,0.6984193,111.0,114.0
+Setophaga coronata_Yellow-rumped Warbler,0.101977915,112.0,115.0
+Dryobates villosus_Hairy Woodpecker,0.49462426,115.0,118.0
+Dryobates villosus_Hairy Woodpecker,0.2852237,116.0,119.0
+Dryobates villosus_Hairy Woodpecker,0.10769217,117.0,120.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14651941,118.0,121.0

@@ -1,0 +1,25 @@
+species,score,start_time,end_time
+Vireo philadelphicus_Philadelphia Vireo,0.15548682,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.1343182,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.23636082,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1265073,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10313825,2.0,5.0
+Setophaga americana_Northern Parula,0.2113606,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.16340876,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.16147996,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.15893663,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13479063,3.0,6.0
+Setophaga americana_Northern Parula,0.20545477,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13550735,4.0,7.0
+Setophaga americana_Northern Parula,0.16832171,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.12051055,5.0,8.0
+Limnothlypis swainsonii_Swainson's Warbler,0.103303455,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18102145,7.0,10.0
+Vireo philadelphicus_Philadelphia Vireo,0.12352275,8.0,11.0
+Vireo philadelphicus_Philadelphia Vireo,0.13415508,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.10409229,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.34342906,11.0,14.0
+Limnothlypis swainsonii_Swainson's Warbler,0.257891,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.17377047,12.0,15.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10260747,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.11239997,20.0,23.0

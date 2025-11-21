@@ -1,0 +1,96 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.16156977,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.11051399,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8263942,1.0,4.0
+Pipilo erythrophthalmus_Eastern Towhee,0.93801594,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.943469,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.23727813,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.10994945,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105005,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.3566619,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11217817,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.28811643,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12994577,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.11591881,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.51285523,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21176553,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.11136764,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.39462,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.12534595,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.11895915,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.86269224,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9412227,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.93284845,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.8305304,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11990846,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.1027326,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.90098274,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.94046825,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8879582,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.75740474,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22871526,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.11482469,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.9475843,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15639791,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.12992619,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.29904968,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.21955569,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.17024937,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11736208,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.14127305,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8435805,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.95555747,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.93998283,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.29319,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9323857,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9663059,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8949074,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.41938356,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.10856492,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.30884957,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.14476399,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.35637388,32.0,35.0
+Pipilo erythrophthalmus_Eastern Towhee,0.95359737,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9760153,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9266515,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.8958909,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16143027,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.12911211,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.12909423,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.11092833,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.20976923,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.1405846,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.13473046,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10888924,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.18166469,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.21305822,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.11330094,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105938986,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.2257539,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.111952044,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.14344475,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.3358709,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20696773,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16984041,43.0,46.0
+Geothlypis formosa_Kentucky Warbler,0.11072772,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.13560489,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.15208578,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.12317645,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.10171255,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.12055487,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.21022232,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.19085248,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.10458946,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.15312544,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.2572686,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.12604366,60.0,63.0
+Setophaga cerulea_Cerulean Warbler,0.26168564,61.0,64.0
+Setophaga cerulea_Cerulean Warbler,0.23691273,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.15316029,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.14837034,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.15712516,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.12817864,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.143559,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.1382754,78.0,81.0
+Geothlypis philadelphia_Mourning Warbler,0.1107423,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.1049849,80.0,83.0
