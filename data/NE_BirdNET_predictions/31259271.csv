@@ -1,0 +1,801 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.8447077,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.95756924,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.97997457,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.97177064,5.0,8.0
+Sitta carolinensis_White-breasted Nuthatch,0.12740977,10.0,13.0
+Sitta carolinensis_White-breasted Nuthatch,0.3545935,11.0,14.0
+Sitta carolinensis_White-breasted Nuthatch,0.6754202,12.0,15.0
+Parkesia motacilla_Louisiana Waterthrush,0.8491381,13.0,16.0
+Parkesia motacilla_Louisiana Waterthrush,0.78464186,14.0,17.0
+Sitta carolinensis_White-breasted Nuthatch,0.11047099,14.0,17.0
+Parkesia motacilla_Louisiana Waterthrush,0.91014785,15.0,18.0
+Sitta carolinensis_White-breasted Nuthatch,0.3861357,20.0,23.0
+Sitta carolinensis_White-breasted Nuthatch,0.63293684,21.0,24.0
+Sitta carolinensis_White-breasted Nuthatch,0.435927,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.17970414,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.6529886,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.76998645,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.6767741,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.2004038,27.0,30.0
+Sitta carolinensis_White-breasted Nuthatch,0.15877359,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.11174267,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.10070644,29.0,32.0
+Sitta carolinensis_White-breasted Nuthatch,0.15492082,36.0,39.0
+Sitta carolinensis_White-breasted Nuthatch,0.21896347,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1161829,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.874414,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.9561741,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.8872866,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1423373,46.0,49.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.114237726,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13235068,47.0,50.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12975375,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1594778,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19456226,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12373329,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15883866,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11181035,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.171157,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11488564,53.0,56.0
+Parkesia motacilla_Louisiana Waterthrush,0.25367028,54.0,57.0
+Parkesia motacilla_Louisiana Waterthrush,0.7414254,55.0,58.0
+Parkesia motacilla_Louisiana Waterthrush,0.80236137,56.0,59.0
+Parkesia motacilla_Louisiana Waterthrush,0.65419805,57.0,60.0
+Parkesia motacilla_Louisiana Waterthrush,0.9290294,58.0,61.0
+Parkesia motacilla_Louisiana Waterthrush,0.9956845,59.0,62.0
+Parkesia motacilla_Louisiana Waterthrush,0.9436467,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12833731,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114702746,66.0,69.0
+Empidonax virescens_Acadian Flycatcher,0.9712759,69.0,72.0
+Empidonax virescens_Acadian Flycatcher,0.9550128,70.0,73.0
+Empidonax virescens_Acadian Flycatcher,0.956538,71.0,74.0
+Oporornis agilis_Connecticut Warbler,0.127515,71.0,74.0
+Tamias striatus_Eastern Chipmunk,0.20410529,72.0,75.0
+Tamias striatus_Eastern Chipmunk,0.34525964,73.0,76.0
+Empidonax virescens_Acadian Flycatcher,0.9864618,78.0,81.0
+Empidonax virescens_Acadian Flycatcher,0.97358906,79.0,82.0
+Empidonax virescens_Acadian Flycatcher,0.98201156,80.0,83.0
+Setophaga cerulea_Cerulean Warbler,0.12351609,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122370735,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14752454,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18850267,85.0,88.0
+Setophaga cerulea_Cerulean Warbler,0.11386372,85.0,88.0
+Setophaga cerulea_Cerulean Warbler,0.10210707,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104174696,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14987114,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12799858,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.11850407,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114506416,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15631747,93.0,96.0
+Buteo platypterus_Broad-winged Hawk,0.14872807,93.0,96.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15204339,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14700834,94.0,97.0
+Buteo platypterus_Broad-winged Hawk,0.10666026,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11242569,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10783264,97.0,100.0
+Setophaga cerulea_Cerulean Warbler,0.10346436,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1518581,98.0,101.0
+Setophaga cerulea_Cerulean Warbler,0.13811292,98.0,101.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10583427,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16859701,99.0,102.0
+Buteo platypterus_Broad-winged Hawk,0.10437193,99.0,102.0
+Setophaga cerulea_Cerulean Warbler,0.10015215,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10539815,100.0,103.0
+Empidonax virescens_Acadian Flycatcher,0.8592877,102.0,105.0
+Empidonax virescens_Acadian Flycatcher,0.9936587,103.0,106.0
+Empidonax virescens_Acadian Flycatcher,0.99397606,104.0,107.0
+Empidonax virescens_Acadian Flycatcher,0.9106724,105.0,108.0
+Oporornis agilis_Connecticut Warbler,0.6052219,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.10600505,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.122132994,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11148631,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16179803,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12317767,110.0,113.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10650295,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13283433,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23630425,112.0,115.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18291706,112.0,115.0
+Setophaga virens_Black-throated Green Warbler,0.14425015,112.0,115.0
+Setophaga cerulea_Cerulean Warbler,0.115408905,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11402394,113.0,116.0
+Setophaga virens_Black-throated Green Warbler,0.1126941,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.10183051,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16176213,114.0,117.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1237698,114.0,117.0
+Buteo platypterus_Broad-winged Hawk,0.116001315,114.0,117.0
+Setophaga cerulea_Cerulean Warbler,0.111061834,114.0,117.0
+Setophaga virens_Black-throated Green Warbler,0.10252115,114.0,117.0
+Setophaga cerulea_Cerulean Warbler,0.124211855,115.0,118.0
+Buteo platypterus_Broad-winged Hawk,0.11906189,115.0,118.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11195238,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10675478,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.13519166,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12549411,116.0,119.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11871268,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14837924,117.0,120.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10480005,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1429984,118.0,121.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.104721345,118.0,121.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16308524,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107187994,119.0,122.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14508983,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14411254,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16801283,121.0,124.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15531226,121.0,124.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22285488,122.0,125.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18266258,122.0,125.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16037148,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11931295,123.0,126.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15451834,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10369746,124.0,127.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10984693,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15721041,126.0,129.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12592311,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12837423,127.0,130.0
+Buteo platypterus_Broad-winged Hawk,0.10642171,127.0,130.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.103161596,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110546686,128.0,131.0
+Empidonax virescens_Acadian Flycatcher,0.4802531,129.0,132.0
+Empidonax virescens_Acadian Flycatcher,0.97593313,130.0,133.0
+Empidonax virescens_Acadian Flycatcher,0.97667044,131.0,134.0
+Empidonax virescens_Acadian Flycatcher,0.5904334,132.0,135.0
+Oporornis agilis_Connecticut Warbler,0.12243485,132.0,135.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.23041499,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10046761,133.0,136.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19927286,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121454924,134.0,137.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19620657,135.0,138.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14748791,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1305209,136.0,139.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11078999,137.0,140.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14501858,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10773941,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10428535,139.0,142.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.25088698,140.0,143.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.24750401,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12319509,141.0,144.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16315459,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103414655,142.0,145.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13114034,146.0,149.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14321956,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1098912,147.0,150.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12700173,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10424035,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1150158,149.0,152.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14265433,151.0,154.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1322111,152.0,155.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12612414,153.0,156.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11255948,153.0,156.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14433162,154.0,157.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.179257,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10496997,155.0,158.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19903333,156.0,159.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17459403,156.0,159.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19382447,157.0,160.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11174498,157.0,160.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19898804,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16991928,158.0,161.0
+Setophaga fusca_Blackburnian Warbler,0.1363712,158.0,161.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18727885,159.0,162.0
+Empidonax virescens_Acadian Flycatcher,0.9363108,160.0,163.0
+Empidonax virescens_Acadian Flycatcher,0.94945085,161.0,164.0
+Empidonax virescens_Acadian Flycatcher,0.9757505,162.0,165.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16946189,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12597926,163.0,166.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.2575466,164.0,167.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12237305,164.0,167.0
+Buteo platypterus_Broad-winged Hawk,0.11740512,164.0,167.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.29480958,165.0,168.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116430864,165.0,168.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18438484,166.0,169.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16931291,167.0,170.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15405099,167.0,170.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.21315913,168.0,171.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12664485,168.0,171.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.21238746,169.0,172.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19272172,170.0,173.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14330426,170.0,173.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1016321,171.0,174.0
+Empidonax virescens_Acadian Flycatcher,0.10000441,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1812992,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16697429,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10066625,178.0,181.0
+Buteo platypterus_Broad-winged Hawk,0.102809794,179.0,182.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10900344,180.0,183.0
+Empidonax virescens_Acadian Flycatcher,0.85785884,181.0,184.0
+Empidonax virescens_Acadian Flycatcher,0.9809955,182.0,185.0
+Empidonax virescens_Acadian Flycatcher,0.978237,183.0,186.0
+Empidonax virescens_Acadian Flycatcher,0.46961427,184.0,187.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1970273,185.0,188.0
+Setophaga cerulea_Cerulean Warbler,0.102365375,185.0,188.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11227514,186.0,189.0
+Setophaga cerulea_Cerulean Warbler,0.10379075,186.0,189.0
+Setophaga cerulea_Cerulean Warbler,0.14114687,187.0,190.0
+Tamias striatus_Eastern Chipmunk,0.10480504,193.0,196.0
+Empidonax virescens_Acadian Flycatcher,0.9824959,200.0,203.0
+Empidonax virescens_Acadian Flycatcher,0.9951491,201.0,204.0
+Empidonax virescens_Acadian Flycatcher,0.99093425,202.0,205.0
+Empidonax virescens_Acadian Flycatcher,0.23492916,203.0,206.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10327925,206.0,209.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20166153,210.0,213.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16614066,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11143492,212.0,215.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116384715,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10711079,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11479348,215.0,218.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10150984,217.0,220.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12710841,218.0,221.0
+Empidonax virescens_Acadian Flycatcher,0.9741121,219.0,222.0
+Empidonax virescens_Acadian Flycatcher,0.9957209,220.0,223.0
+Empidonax virescens_Acadian Flycatcher,0.99653983,221.0,224.0
+Empidonax virescens_Acadian Flycatcher,0.34883696,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106254116,224.0,227.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107189134,225.0,228.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12177378,226.0,229.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16581531,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13913602,237.0,240.0
+Buteo platypterus_Broad-winged Hawk,0.12734057,237.0,240.0
+Setophaga cerulea_Cerulean Warbler,0.10134391,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19418482,238.0,241.0
+Buteo platypterus_Broad-winged Hawk,0.10172182,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18135329,240.0,243.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10726777,241.0,244.0
+Empidonax virescens_Acadian Flycatcher,0.88301545,242.0,245.0
+Vireo olivaceus_Red-eyed Vireo,0.118874885,242.0,245.0
+Empidonax virescens_Acadian Flycatcher,0.9923711,243.0,246.0
+Empidonax virescens_Acadian Flycatcher,0.99383307,244.0,247.0
+Empidonax virescens_Acadian Flycatcher,0.8483001,245.0,248.0
+Oporornis agilis_Connecticut Warbler,0.103488296,245.0,248.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13855954,246.0,249.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15570627,247.0,250.0
+Buteo platypterus_Broad-winged Hawk,0.11980059,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23091388,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13281855,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17292722,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14276056,251.0,254.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13753036,253.0,256.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18865457,254.0,257.0
+Empidonax virescens_Acadian Flycatcher,0.10490863,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30434844,255.0,258.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19209155,256.0,259.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2304395,257.0,260.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17127755,258.0,261.0
+Buteo platypterus_Broad-winged Hawk,0.13859165,258.0,261.0
+Setophaga fusca_Blackburnian Warbler,0.103627376,258.0,261.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2496562,259.0,262.0
+Setophaga cerulea_Cerulean Warbler,0.12712261,259.0,262.0
+Buteo platypterus_Broad-winged Hawk,0.113964505,259.0,262.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16537324,260.0,263.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2549623,261.0,264.0
+Setophaga cerulea_Cerulean Warbler,0.101041764,261.0,264.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23242405,262.0,265.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17622773,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30298698,264.0,267.0
+Setophaga fusca_Blackburnian Warbler,0.121549286,264.0,267.0
+Setophaga cerulea_Cerulean Warbler,0.107962824,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25806415,265.0,268.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31211793,266.0,269.0
+Buteo platypterus_Broad-winged Hawk,0.20685759,266.0,269.0
+Setophaga fusca_Blackburnian Warbler,0.124727845,266.0,269.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12613338,267.0,270.0
+Empidonax virescens_Acadian Flycatcher,0.9560903,268.0,271.0
+Empidonax virescens_Acadian Flycatcher,0.9940247,269.0,272.0
+Empidonax virescens_Acadian Flycatcher,0.9961282,270.0,273.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12824275,271.0,274.0
+Buteo platypterus_Broad-winged Hawk,0.10002519,271.0,274.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20357805,273.0,276.0
+Buteo platypterus_Broad-winged Hawk,0.1140166,273.0,276.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22452472,274.0,277.0
+Buteo platypterus_Broad-winged Hawk,0.1491657,274.0,277.0
+Setophaga fusca_Blackburnian Warbler,0.100997776,274.0,277.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25454772,275.0,278.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13340372,278.0,281.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16669446,280.0,283.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11959479,281.0,284.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11470939,282.0,285.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12606518,283.0,286.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19961461,284.0,287.0
+Buteo platypterus_Broad-winged Hawk,0.100119755,284.0,287.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12356345,285.0,288.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12933294,286.0,289.0
+Buteo platypterus_Broad-winged Hawk,0.11902938,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13410832,287.0,290.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18687345,288.0,291.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13625427,289.0,292.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19889903,290.0,293.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12627053,291.0,294.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16086608,292.0,295.0
+Buteo platypterus_Broad-winged Hawk,0.115545504,292.0,295.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.216842,293.0,296.0
+Setophaga cerulea_Cerulean Warbler,0.114523225,293.0,296.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32144824,294.0,297.0
+Setophaga cerulea_Cerulean Warbler,0.1398543,294.0,297.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18256406,295.0,298.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26117942,296.0,299.0
+Setophaga fusca_Blackburnian Warbler,0.12566118,296.0,299.0
+Setophaga cerulea_Cerulean Warbler,0.10009035,296.0,299.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22513835,297.0,300.0
+Setophaga fusca_Blackburnian Warbler,0.10153969,297.0,300.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25927144,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21961436,299.0,302.0
+Setophaga fusca_Blackburnian Warbler,0.101696774,299.0,302.0
+Empidonax virescens_Acadian Flycatcher,0.9310077,300.0,303.0
+Empidonax virescens_Acadian Flycatcher,0.8740274,301.0,304.0
+Empidonax virescens_Acadian Flycatcher,0.8541039,302.0,305.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13562116,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16271244,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16174406,305.0,308.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17485107,306.0,309.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21475194,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20514093,308.0,311.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17673907,309.0,312.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113670446,310.0,313.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1074257,311.0,314.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14493766,312.0,315.0
+Setophaga cerulea_Cerulean Warbler,0.117528304,312.0,315.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15105528,313.0,316.0
+Setophaga cerulea_Cerulean Warbler,0.110740475,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18843983,314.0,317.0
+Setophaga fusca_Blackburnian Warbler,0.11255535,314.0,317.0
+Setophaga cerulea_Cerulean Warbler,0.10606297,314.0,317.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14827606,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20760079,316.0,319.0
+Setophaga cerulea_Cerulean Warbler,0.111404,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20506857,317.0,320.0
+Setophaga cerulea_Cerulean Warbler,0.12289239,317.0,320.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11707056,318.0,321.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14962398,321.0,324.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1420176,322.0,325.0
+Setophaga cerulea_Cerulean Warbler,0.11017074,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1049063,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14795288,325.0,328.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16703495,326.0,329.0
+Empidonax virescens_Acadian Flycatcher,0.3346386,327.0,330.0
+Empidonax virescens_Acadian Flycatcher,0.23735054,328.0,331.0
+Empidonax virescens_Acadian Flycatcher,0.9938898,329.0,332.0
+Empidonax virescens_Acadian Flycatcher,0.99179333,330.0,333.0
+Empidonax virescens_Acadian Flycatcher,0.9714515,331.0,334.0
+Oporornis agilis_Connecticut Warbler,0.12843174,331.0,334.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15394595,332.0,335.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10936667,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12002353,334.0,337.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105969615,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15397552,336.0,339.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22196116,337.0,340.0
+Setophaga cerulea_Cerulean Warbler,0.10306647,337.0,340.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13092095,338.0,341.0
+Buteo platypterus_Broad-winged Hawk,0.10712317,338.0,341.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11766042,339.0,342.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104424044,340.0,343.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122010805,342.0,345.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.184,343.0,346.0
+Setophaga cerulea_Cerulean Warbler,0.11309565,343.0,346.0
+Buteo platypterus_Broad-winged Hawk,0.11986458,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11402905,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12908337,345.0,348.0
+Setophaga cerulea_Cerulean Warbler,0.10260766,345.0,348.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16183415,346.0,349.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15694503,347.0,350.0
+Setophaga cerulea_Cerulean Warbler,0.118168876,347.0,350.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11451055,348.0,351.0
+Buteo platypterus_Broad-winged Hawk,0.15736328,350.0,353.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15186748,350.0,353.0
+Buteo platypterus_Broad-winged Hawk,0.13097158,351.0,354.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123117745,351.0,354.0
+Setophaga cerulea_Cerulean Warbler,0.112775624,351.0,354.0
+Setophaga fusca_Blackburnian Warbler,0.107985675,351.0,354.0
+Buteo platypterus_Broad-winged Hawk,0.12633838,352.0,355.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11880917,352.0,355.0
+Setophaga cerulea_Cerulean Warbler,0.113850154,352.0,355.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18423806,353.0,356.0
+Buteo platypterus_Broad-winged Hawk,0.14223859,353.0,356.0
+Setophaga cerulea_Cerulean Warbler,0.12583482,353.0,356.0
+Buteo platypterus_Broad-winged Hawk,0.16423424,355.0,358.0
+Buteo platypterus_Broad-winged Hawk,0.12954949,356.0,359.0
+Haliaeetus leucocephalus_Bald Eagle,0.13282545,357.0,360.0
+Empidonax virescens_Acadian Flycatcher,0.10327176,357.0,360.0
+Empidonax virescens_Acadian Flycatcher,0.15362644,358.0,361.0
+Haliaeetus leucocephalus_Bald Eagle,0.12007527,358.0,361.0
+Haliaeetus leucocephalus_Bald Eagle,0.53115153,359.0,362.0
+Empidonax virescens_Acadian Flycatcher,0.97891724,360.0,363.0
+Empidonax virescens_Acadian Flycatcher,0.97842765,361.0,364.0
+Empidonax virescens_Acadian Flycatcher,0.99197453,362.0,365.0
+Setophaga cerulea_Cerulean Warbler,0.16935393,363.0,366.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16871701,363.0,366.0
+Setophaga cerulea_Cerulean Warbler,0.17299315,364.0,367.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10144201,364.0,367.0
+Setophaga cerulea_Cerulean Warbler,0.16548385,366.0,369.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15426832,366.0,369.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13075434,368.0,371.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1467108,369.0,372.0
+Buteo platypterus_Broad-winged Hawk,0.11842991,370.0,373.0
+Setophaga cerulea_Cerulean Warbler,0.11271707,370.0,373.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11212575,370.0,373.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103066295,371.0,374.0
+Setophaga cerulea_Cerulean Warbler,0.100860566,371.0,374.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13493803,372.0,375.0
+Buteo platypterus_Broad-winged Hawk,0.12698103,372.0,375.0
+Setophaga cerulea_Cerulean Warbler,0.12649448,372.0,375.0
+Buteo platypterus_Broad-winged Hawk,0.118676424,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11340179,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16565898,375.0,378.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15801053,376.0,379.0
+Buteo platypterus_Broad-winged Hawk,0.113434546,376.0,379.0
+Setophaga cerulea_Cerulean Warbler,0.10804147,376.0,379.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18827368,377.0,380.0
+Setophaga cerulea_Cerulean Warbler,0.17279068,377.0,380.0
+Buteo platypterus_Broad-winged Hawk,0.14986153,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14558092,378.0,381.0
+Setophaga cerulea_Cerulean Warbler,0.11652219,378.0,381.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16347745,379.0,382.0
+Buteo platypterus_Broad-winged Hawk,0.10989652,379.0,382.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11046586,380.0,383.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101073004,381.0,384.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12348964,382.0,385.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19949421,383.0,386.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12302964,384.0,387.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11560974,385.0,388.0
+Empidonax virescens_Acadian Flycatcher,0.99472743,386.0,389.0
+Empidonax virescens_Acadian Flycatcher,0.99214876,387.0,390.0
+Empidonax virescens_Acadian Flycatcher,0.98890835,388.0,391.0
+Buteo platypterus_Broad-winged Hawk,0.27468792,389.0,392.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12075435,389.0,392.0
+Setophaga cerulea_Cerulean Warbler,0.11195018,391.0,394.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13615002,392.0,395.0
+Buteo platypterus_Broad-winged Hawk,0.12833096,392.0,395.0
+Buteo platypterus_Broad-winged Hawk,0.22479166,393.0,396.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16860493,393.0,396.0
+Setophaga cerulea_Cerulean Warbler,0.100818284,393.0,396.0
+Buteo platypterus_Broad-winged Hawk,0.19065201,394.0,397.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18182726,394.0,397.0
+Setophaga cerulea_Cerulean Warbler,0.12225323,394.0,397.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10760811,395.0,398.0
+Setophaga cerulea_Cerulean Warbler,0.10703976,395.0,398.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13508849,396.0,399.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14884597,397.0,400.0
+Buteo platypterus_Broad-winged Hawk,0.100530826,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16015354,399.0,402.0
+Setophaga cerulea_Cerulean Warbler,0.14445874,399.0,402.0
+Buteo platypterus_Broad-winged Hawk,0.13312644,399.0,402.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17504478,400.0,403.0
+Buteo platypterus_Broad-winged Hawk,0.10402316,400.0,403.0
+Setophaga cerulea_Cerulean Warbler,0.10008734,400.0,403.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1751754,401.0,404.0
+Setophaga cerulea_Cerulean Warbler,0.14984167,401.0,404.0
+Buteo platypterus_Broad-winged Hawk,0.11905498,401.0,404.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24175641,402.0,405.0
+Setophaga cerulea_Cerulean Warbler,0.13052225,402.0,405.0
+Buteo platypterus_Broad-winged Hawk,0.12033742,402.0,405.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15803726,403.0,406.0
+Buteo platypterus_Broad-winged Hawk,0.13052629,403.0,406.0
+Setophaga cerulea_Cerulean Warbler,0.11042279,403.0,406.0
+Buteo platypterus_Broad-winged Hawk,0.15541391,404.0,407.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116708405,404.0,407.0
+Buteo platypterus_Broad-winged Hawk,0.2436021,405.0,408.0
+Setophaga cerulea_Cerulean Warbler,0.14857295,405.0,408.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12729743,405.0,408.0
+Buteo platypterus_Broad-winged Hawk,0.14096111,408.0,411.0
+Empidonax virescens_Acadian Flycatcher,0.35912877,409.0,412.0
+Empidonax virescens_Acadian Flycatcher,0.9973859,410.0,413.0
+Empidonax virescens_Acadian Flycatcher,0.99793917,411.0,414.0
+Empidonax virescens_Acadian Flycatcher,0.97347754,412.0,415.0
+Oporornis agilis_Connecticut Warbler,0.19593501,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20151775,413.0,416.0
+Setophaga cerulea_Cerulean Warbler,0.11862015,413.0,416.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1805742,414.0,417.0
+Buteo platypterus_Broad-winged Hawk,0.101203024,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17236763,415.0,418.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13592856,417.0,420.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13577935,418.0,421.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16475977,419.0,422.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11186787,424.0,427.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1539709,425.0,428.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22446017,426.0,429.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18179174,427.0,430.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19752263,428.0,431.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1749525,429.0,432.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13456506,430.0,433.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15721112,431.0,434.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13892365,432.0,435.0
+Empidonax virescens_Acadian Flycatcher,0.99538726,434.0,437.0
+Empidonax virescens_Acadian Flycatcher,0.99825937,435.0,438.0
+Empidonax virescens_Acadian Flycatcher,0.9963897,436.0,439.0
+Buteo platypterus_Broad-winged Hawk,0.11010956,437.0,440.0
+Buteo platypterus_Broad-winged Hawk,0.15470283,438.0,441.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.134991,438.0,441.0
+Setophaga cerulea_Cerulean Warbler,0.10733368,443.0,446.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10377981,443.0,446.0
+Empidonax virescens_Acadian Flycatcher,0.9926882,445.0,448.0
+Empidonax virescens_Acadian Flycatcher,0.99778134,446.0,449.0
+Empidonax virescens_Acadian Flycatcher,0.9976222,447.0,450.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14005798,448.0,451.0
+Setophaga cerulea_Cerulean Warbler,0.12792806,448.0,451.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22237808,449.0,452.0
+Setophaga cerulea_Cerulean Warbler,0.13855809,449.0,452.0
+Setophaga cerulea_Cerulean Warbler,0.13509876,450.0,453.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13408497,450.0,453.0
+Setophaga cerulea_Cerulean Warbler,0.1105713,451.0,454.0
+Setophaga cerulea_Cerulean Warbler,0.15783069,452.0,455.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13529873,452.0,455.0
+Setophaga cerulea_Cerulean Warbler,0.16731095,453.0,456.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12562798,453.0,456.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11868274,454.0,457.0
+Setophaga cerulea_Cerulean Warbler,0.10278874,454.0,457.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11084131,455.0,458.0
+Setophaga cerulea_Cerulean Warbler,0.10050389,456.0,459.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14991952,458.0,461.0
+Setophaga cerulea_Cerulean Warbler,0.13294612,458.0,461.0
+Setophaga cerulea_Cerulean Warbler,0.14745206,460.0,463.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14256838,465.0,468.0
+Ailuroedus maculosus_Spotted Catbird,0.1440478,468.0,471.0
+Colluricincla rufogaster_Rufous Shrikethrush,0.1117774,468.0,471.0
+Empidonax virescens_Acadian Flycatcher,0.9366388,473.0,476.0
+Empidonax virescens_Acadian Flycatcher,0.99798214,474.0,477.0
+Empidonax virescens_Acadian Flycatcher,0.99889874,475.0,478.0
+Empidonax virescens_Acadian Flycatcher,0.7029152,476.0,479.0
+Buteo platypterus_Broad-winged Hawk,0.115960374,477.0,480.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10659347,477.0,480.0
+Setophaga cerulea_Cerulean Warbler,0.10210838,481.0,484.0
+Buteo platypterus_Broad-winged Hawk,0.10483674,483.0,486.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103478074,483.0,486.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12133899,485.0,488.0
+Sitta carolinensis_White-breasted Nuthatch,0.18865865,487.0,490.0
+Sitta carolinensis_White-breasted Nuthatch,0.19497754,489.0,492.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1108646,489.0,492.0
+Setophaga cerulea_Cerulean Warbler,0.108315654,489.0,492.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13519236,494.0,497.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1091781,495.0,498.0
+Setophaga cerulea_Cerulean Warbler,0.13949187,498.0,501.0
+Buteo platypterus_Broad-winged Hawk,0.134605,500.0,503.0
+Empidonax virescens_Acadian Flycatcher,0.9969842,501.0,504.0
+Empidonax virescens_Acadian Flycatcher,0.99816716,502.0,505.0
+Empidonax virescens_Acadian Flycatcher,0.9974673,503.0,506.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20316914,505.0,508.0
+Buteo platypterus_Broad-winged Hawk,0.11502926,505.0,508.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19708145,506.0,509.0
+Setophaga cerulea_Cerulean Warbler,0.10787696,506.0,509.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14720818,507.0,510.0
+Setophaga cerulea_Cerulean Warbler,0.12232326,507.0,510.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10724033,508.0,511.0
+Setophaga cerulea_Cerulean Warbler,0.10082043,510.0,513.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112401806,518.0,521.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13689567,521.0,524.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10303811,522.0,525.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10283568,523.0,526.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13151845,524.0,527.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14481637,525.0,528.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1791221,526.0,529.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11154338,527.0,530.0
+Empidonax virescens_Acadian Flycatcher,0.990234,528.0,531.0
+Empidonax virescens_Acadian Flycatcher,0.99512875,529.0,532.0
+Empidonax virescens_Acadian Flycatcher,0.9960736,530.0,533.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12898473,531.0,534.0
+Buteo platypterus_Broad-winged Hawk,0.100332476,531.0,534.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18853997,532.0,535.0
+Setophaga cerulea_Cerulean Warbler,0.15570313,532.0,535.0
+Buteo platypterus_Broad-winged Hawk,0.11640031,532.0,535.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12232234,533.0,536.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1710682,534.0,537.0
+Setophaga cerulea_Cerulean Warbler,0.11728494,534.0,537.0
+Buteo platypterus_Broad-winged Hawk,0.10849736,534.0,537.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10389313,535.0,538.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13597412,539.0,542.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13668042,540.0,543.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13698052,541.0,544.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10764582,543.0,546.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10877602,546.0,549.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13737784,547.0,550.0
+Setophaga cerulea_Cerulean Warbler,0.10383814,547.0,550.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16870882,548.0,551.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.137468,549.0,552.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17912547,550.0,553.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.131889,551.0,554.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18783641,552.0,555.0
+Setophaga cerulea_Cerulean Warbler,0.10884383,552.0,555.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1465254,555.0,558.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1606608,556.0,559.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25911617,557.0,560.0
+Buteo platypterus_Broad-winged Hawk,0.10130348,557.0,560.0
+Empidonax virescens_Acadian Flycatcher,0.98710155,558.0,561.0
+Empidonax virescens_Acadian Flycatcher,0.99151623,559.0,562.0
+Empidonax virescens_Acadian Flycatcher,0.99522996,560.0,563.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16141282,561.0,564.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2024819,562.0,565.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12835726,563.0,566.0
+Buteo platypterus_Broad-winged Hawk,0.11162626,563.0,566.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12299922,564.0,567.0
+Buteo platypterus_Broad-winged Hawk,0.113293916,564.0,567.0
+Setophaga cerulea_Cerulean Warbler,0.10692801,564.0,567.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20001289,565.0,568.0
+Setophaga cerulea_Cerulean Warbler,0.10879119,565.0,568.0
+Buteo platypterus_Broad-winged Hawk,0.10557326,565.0,568.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1474523,566.0,569.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20321713,567.0,570.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.222019,568.0,571.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12383739,569.0,572.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17619413,570.0,573.0
+Buteo platypterus_Broad-winged Hawk,0.16196384,570.0,573.0
+Buteo platypterus_Broad-winged Hawk,0.13876429,571.0,574.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111539036,571.0,574.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12571755,572.0,575.0
+Buteo platypterus_Broad-winged Hawk,0.10351373,572.0,575.0
+Buteo platypterus_Broad-winged Hawk,0.10383241,573.0,576.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13006477,574.0,577.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15797122,575.0,578.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15813269,576.0,579.0
+Setophaga cerulea_Cerulean Warbler,0.10997423,576.0,579.0
+Buteo platypterus_Broad-winged Hawk,0.10036141,576.0,579.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13513812,577.0,580.0
+Setophaga cerulea_Cerulean Warbler,0.10035234,577.0,580.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.171734,578.0,581.0
+Setophaga cerulea_Cerulean Warbler,0.11511769,578.0,581.0
+Buteo platypterus_Broad-winged Hawk,0.111250944,578.0,581.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14884084,579.0,582.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13504994,580.0,583.0
+Buteo platypterus_Broad-winged Hawk,0.10880149,580.0,583.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1343818,581.0,584.0
+Buteo platypterus_Broad-winged Hawk,0.10383375,581.0,584.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22197254,582.0,585.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13108674,583.0,586.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15277858,584.0,587.0
+Setophaga cerulea_Cerulean Warbler,0.14834636,584.0,587.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19408654,585.0,588.0
+Setophaga cerulea_Cerulean Warbler,0.12850797,585.0,588.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11895603,587.0,590.0
+Buteo platypterus_Broad-winged Hawk,0.18355803,588.0,591.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1299983,588.0,591.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115123935,589.0,592.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13342427,592.0,595.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13559562,594.0,597.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109251074,595.0,598.0
+Buteo platypterus_Broad-winged Hawk,0.10504783,595.0,598.0
+Buteo platypterus_Broad-winged Hawk,0.16082627,596.0,599.0
+Setophaga cerulea_Cerulean Warbler,0.12933876,596.0,599.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12160228,596.0,599.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17190298,600.0,603.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18376364,601.0,604.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18370049,602.0,605.0
+Buteo platypterus_Broad-winged Hawk,0.15457927,602.0,605.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18766528,603.0,606.0
+Buteo platypterus_Broad-winged Hawk,0.16439083,603.0,606.0
+Setophaga cerulea_Cerulean Warbler,0.10640363,603.0,606.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12624612,604.0,607.0
+Empidonax virescens_Acadian Flycatcher,0.9860336,606.0,609.0
+Empidonax virescens_Acadian Flycatcher,0.99655247,607.0,610.0
+Empidonax virescens_Acadian Flycatcher,0.99479747,608.0,611.0
+Empidonax virescens_Acadian Flycatcher,0.18182385,609.0,612.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13831834,610.0,613.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14001317,611.0,614.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16930954,612.0,615.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12811582,614.0,617.0
+Buteo platypterus_Broad-winged Hawk,0.10838218,614.0,617.0
+Buteo platypterus_Broad-winged Hawk,0.122446656,615.0,618.0
+Buteo platypterus_Broad-winged Hawk,0.11214908,616.0,619.0
+Buteo platypterus_Broad-winged Hawk,0.16212237,617.0,620.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14358518,617.0,620.0
+Buteo platypterus_Broad-winged Hawk,0.18486299,618.0,621.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16615619,618.0,621.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16557266,619.0,622.0
+Buteo platypterus_Broad-winged Hawk,0.13149852,619.0,622.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13712111,620.0,623.0
+Buteo platypterus_Broad-winged Hawk,0.17016806,621.0,624.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15200672,621.0,624.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19300213,622.0,625.0
+Buteo platypterus_Broad-winged Hawk,0.1444213,622.0,625.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.188494,623.0,626.0
+Buteo platypterus_Broad-winged Hawk,0.16950889,623.0,626.0
+Setophaga cerulea_Cerulean Warbler,0.10721903,623.0,626.0
+Buteo platypterus_Broad-winged Hawk,0.1714068,626.0,629.0
+Setophaga cerulea_Cerulean Warbler,0.10532137,626.0,629.0
+Sitta carolinensis_White-breasted Nuthatch,0.33103764,629.0,632.0
+Sitta carolinensis_White-breasted Nuthatch,0.45691377,630.0,633.0
+Sitta carolinensis_White-breasted Nuthatch,0.4091816,631.0,634.0
+Buteo platypterus_Broad-winged Hawk,0.13472643,632.0,635.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12510349,632.0,635.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15660782,633.0,636.0
+Buteo platypterus_Broad-winged Hawk,0.12791988,633.0,636.0
+Empidonax virescens_Acadian Flycatcher,0.9911184,634.0,637.0
+Empidonax virescens_Acadian Flycatcher,0.9943356,635.0,638.0
+Empidonax virescens_Acadian Flycatcher,0.9903566,636.0,639.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11964575,637.0,640.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10882499,638.0,641.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13264509,639.0,642.0
+Sitta carolinensis_White-breasted Nuthatch,0.17924187,640.0,643.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10835692,640.0,643.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112452336,641.0,644.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11150506,642.0,645.0
+Setophaga cerulea_Cerulean Warbler,0.1027112,642.0,645.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10998506,643.0,646.0
+Setophaga cerulea_Cerulean Warbler,0.10534449,643.0,646.0
+Sitta carolinensis_White-breasted Nuthatch,0.10818898,644.0,647.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10372079,644.0,647.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112039424,645.0,648.0
+Buteo platypterus_Broad-winged Hawk,0.13062286,646.0,649.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12606096,646.0,649.0
+Setophaga cerulea_Cerulean Warbler,0.11638969,646.0,649.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18476726,653.0,656.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16964996,654.0,657.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16762802,655.0,658.0
+Sitta carolinensis_White-breasted Nuthatch,0.12470403,655.0,658.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109322645,656.0,659.0
+Buteo platypterus_Broad-winged Hawk,0.18666339,657.0,660.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17946725,657.0,660.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16918707,658.0,661.0
+Buteo platypterus_Broad-winged Hawk,0.13379978,659.0,662.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11406019,661.0,664.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23970015,662.0,665.0
+Buteo platypterus_Broad-winged Hawk,0.11712106,662.0,665.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26342377,663.0,666.0
+Setophaga cerulea_Cerulean Warbler,0.10781991,663.0,666.0
+Buteo platypterus_Broad-winged Hawk,0.10439965,663.0,666.0
+Setophaga fusca_Blackburnian Warbler,0.102657594,663.0,666.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18385385,664.0,667.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21951108,665.0,668.0
+Setophaga cerulea_Cerulean Warbler,0.122338414,665.0,668.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22996329,666.0,669.0
+Setophaga cerulea_Cerulean Warbler,0.12633142,666.0,669.0
+Empidonax virescens_Acadian Flycatcher,0.9858204,667.0,670.0
+Empidonax virescens_Acadian Flycatcher,0.9909004,668.0,671.0
+Empidonax virescens_Acadian Flycatcher,0.981072,669.0,672.0
+Buteo platypterus_Broad-winged Hawk,0.16869493,670.0,673.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15398954,670.0,673.0
+Buteo platypterus_Broad-winged Hawk,0.2252246,671.0,674.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18027875,671.0,674.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19346032,672.0,675.0
+Buteo platypterus_Broad-winged Hawk,0.26582548,673.0,676.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13808931,673.0,676.0
+Buteo platypterus_Broad-winged Hawk,0.19020973,674.0,677.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17642125,674.0,677.0
+Setophaga cerulea_Cerulean Warbler,0.10405078,674.0,677.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26168114,675.0,678.0
+Buteo platypterus_Broad-winged Hawk,0.17998287,675.0,678.0
+Setophaga cerulea_Cerulean Warbler,0.12372319,675.0,678.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19287936,676.0,679.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17056878,677.0,680.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17141338,678.0,681.0
+Buteo platypterus_Broad-winged Hawk,0.13153554,678.0,681.0
+Buteo platypterus_Broad-winged Hawk,0.1862831,679.0,682.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12887077,679.0,682.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15908007,680.0,683.0
+Buteo platypterus_Broad-winged Hawk,0.123944834,680.0,683.0
+Setophaga cerulea_Cerulean Warbler,0.10739591,680.0,683.0
+Buteo platypterus_Broad-winged Hawk,0.13813283,681.0,684.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17788415,682.0,685.0
+Buteo platypterus_Broad-winged Hawk,0.11637774,682.0,685.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112820126,683.0,686.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12728897,684.0,687.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119904324,685.0,688.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15196007,686.0,689.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1254138,687.0,690.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21215189,688.0,691.0
+Buteo platypterus_Broad-winged Hawk,0.18046665,688.0,691.0
+Setophaga cerulea_Cerulean Warbler,0.113490455,688.0,691.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22710824,689.0,692.0
+Buteo platypterus_Broad-winged Hawk,0.17999165,689.0,692.0
+Setophaga cerulea_Cerulean Warbler,0.11572281,689.0,692.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21915568,690.0,693.0
+Buteo platypterus_Broad-winged Hawk,0.14870998,690.0,693.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23678838,691.0,694.0
+Buteo platypterus_Broad-winged Hawk,0.11837685,691.0,694.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1319015,692.0,695.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11589132,694.0,697.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21090016,695.0,698.0
+Buteo platypterus_Broad-winged Hawk,0.11104447,695.0,698.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20196982,696.0,699.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16474305,697.0,700.0
+Buteo platypterus_Broad-winged Hawk,0.15331396,697.0,700.0
+Empidonax virescens_Acadian Flycatcher,0.9902531,698.0,701.0
+Empidonax virescens_Acadian Flycatcher,0.9967333,699.0,702.0
+Empidonax virescens_Acadian Flycatcher,0.9928503,700.0,703.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10498538,704.0,707.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11614312,710.0,713.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11605981,715.0,718.0
+Empidonax virescens_Acadian Flycatcher,0.99268895,729.0,732.0
+Empidonax virescens_Acadian Flycatcher,0.98673195,730.0,733.0
+Empidonax virescens_Acadian Flycatcher,0.9910244,731.0,734.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13290004,738.0,741.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10572115,740.0,743.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103211015,746.0,749.0
+Setophaga cerulea_Cerulean Warbler,0.118901186,747.0,750.0
+Tamias striatus_Eastern Chipmunk,0.11752838,747.0,750.0

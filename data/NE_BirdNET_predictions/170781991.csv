@@ -1,0 +1,56 @@
+species,score,start_time,end_time
+Cinclus mexicanus_American Dipper,0.13886613,9.0,12.0
+Luscinia svecica_Bluethroat,0.10308276,9.0,12.0
+Melospiza melodia_Song Sparrow,0.4097655,10.0,13.0
+Melospiza melodia_Song Sparrow,0.34769225,11.0,14.0
+Melospiza melodia_Song Sparrow,0.24228728,12.0,15.0
+Engine_Engine,0.51646227,15.0,18.0
+Power tools_Power tools,0.16728383,15.0,18.0
+Engine_Engine,0.44910628,16.0,19.0
+Power tools_Power tools,0.14156218,16.0,19.0
+Engine_Engine,0.23237114,17.0,20.0
+Engine_Engine,0.2071814,18.0,21.0
+Engine_Engine,0.11884725,19.0,22.0
+Engine_Engine,0.36113542,20.0,23.0
+Engine_Engine,0.38913384,21.0,24.0
+Engine_Engine,0.31810775,22.0,25.0
+Engine_Engine,0.5139932,23.0,26.0
+Power tools_Power tools,0.12547062,23.0,26.0
+Engine_Engine,0.48395407,24.0,27.0
+Power tools_Power tools,0.13761804,24.0,27.0
+Engine_Engine,0.4486176,25.0,28.0
+Power tools_Power tools,0.17880692,25.0,28.0
+Engine_Engine,0.16366449,26.0,29.0
+Engine_Engine,0.10508709,27.0,30.0
+Melospiza melodia_Song Sparrow,0.16527477,33.0,36.0
+Melospiza melodia_Song Sparrow,0.20442724,34.0,37.0
+Melospiza melodia_Song Sparrow,0.30006728,35.0,38.0
+Melospiza melodia_Song Sparrow,0.16458297,36.0,39.0
+Peucaea aestivalis_Bachman's Sparrow,0.13312356,37.0,40.0
+Engine_Engine,0.13523337,50.0,53.0
+Engine_Engine,0.12668061,51.0,54.0
+Bubo bubo_Eurasian Eagle-Owl,0.15686837,53.0,56.0
+Asio otus_Long-eared Owl,0.105488084,53.0,56.0
+Melospiza melodia_Song Sparrow,0.39823887,57.0,60.0
+Pooecetes gramineus_Vesper Sparrow,0.21090332,57.0,60.0
+Pooecetes gramineus_Vesper Sparrow,0.22176301,58.0,61.0
+Melospiza melodia_Song Sparrow,0.15282157,58.0,61.0
+Pooecetes gramineus_Vesper Sparrow,0.22858994,59.0,62.0
+Pipilo chlorurus_Green-tailed Towhee,0.3853303,60.0,63.0
+Pooecetes gramineus_Vesper Sparrow,0.107731685,60.0,63.0
+Melospiza melodia_Song Sparrow,0.27779996,73.0,76.0
+Melospiza melodia_Song Sparrow,0.37067267,74.0,77.0
+Pooecetes gramineus_Vesper Sparrow,0.27376306,74.0,77.0
+Melospiza melodia_Song Sparrow,0.1827586,75.0,78.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11990591,76.0,79.0
+Pooecetes gramineus_Vesper Sparrow,0.109764285,76.0,79.0
+Melospiza melodia_Song Sparrow,0.34650353,92.0,95.0
+Pooecetes gramineus_Vesper Sparrow,0.10226808,92.0,95.0
+Melospiza melodia_Song Sparrow,0.31802922,93.0,96.0
+Melospiza melodia_Song Sparrow,0.1907033,94.0,97.0
+Pooecetes gramineus_Vesper Sparrow,0.15356176,94.0,97.0
+Amphispiza bilineata_Black-throated Sparrow,0.110797524,95.0,98.0
+Pipilo chlorurus_Green-tailed Towhee,0.6038908,96.0,99.0
+Pooecetes gramineus_Vesper Sparrow,0.3342826,96.0,99.0
+Amphispiza bilineata_Black-throated Sparrow,0.23898625,96.0,99.0
+Chondestes grammacus_Lark Sparrow,0.13441756,96.0,99.0

@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Poecile atricapillus_Black-capped Chickadee,0.4312161,0.0,3.0
+Engine_Engine,0.19246796,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.15655756,1.0,4.0
+Poecile atricapillus_Black-capped Chickadee,0.14829959,1.0,4.0
+Dryobates pubescens_Downy Woodpecker,0.4558483,2.0,5.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13149773,2.0,5.0
+Engine_Engine,0.47760704,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.11322725,3.0,6.0
+Engine_Engine,0.29525754,5.0,8.0
+Cardinalis cardinalis_Northern Cardinal,0.25451282,5.0,8.0
+Phylloscopus maculipennis_Ashy-throated Warbler,0.16332994,5.0,8.0
+Cardinalis cardinalis_Northern Cardinal,0.20429082,6.0,9.0
+Engine_Engine,0.38768804,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.19906947,7.0,10.0
+Engine_Engine,0.25518447,8.0,11.0
+Aythya valisineria_Canvasback,0.27862427,10.0,13.0
+Pterocles senegallus_Spotted Sandgrouse,0.20517589,10.0,13.0
+Erithacus rubecula_European Robin,0.18371394,10.0,13.0
+Erithacus rubecula_European Robin,0.5214717,11.0,14.0
+Engine_Engine,0.41271576,12.0,15.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.24932458,13.0,16.0
+Aythya valisineria_Canvasback,0.80813897,14.0,17.0
+Aythya valisineria_Canvasback,0.57755035,15.0,18.0
+Meleagris gallopavo_Wild Turkey,0.108248875,15.0,18.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.103720054,15.0,18.0
+Aythya valisineria_Canvasback,0.19229697,16.0,19.0
+Cardinalis cardinalis_Northern Cardinal,0.35639006,18.0,21.0
+Engine_Engine,0.17433475,18.0,21.0
+Erithacus rubecula_European Robin,0.15815458,18.0,21.0
+Coccothraustes coccothraustes_Hawfinch,0.18429178,19.0,22.0
+Colaptes auratus_Northern Flicker,0.58563167,20.0,23.0
+Colaptes auratus_Northern Flicker,0.94319546,21.0,24.0
+Colaptes auratus_Northern Flicker,0.8837549,22.0,25.0
+Colaptes auratus_Northern Flicker,0.82688004,23.0,26.0
+Colaptes auratus_Northern Flicker,0.10045009,24.0,27.0
+Engine_Engine,0.21443628,25.0,28.0
+Colaptes auratus_Northern Flicker,0.18864638,27.0,30.0
+Colaptes auratus_Northern Flicker,0.23384872,30.0,33.0
+Colaptes auratus_Northern Flicker,0.5733536,31.0,34.0
+Colaptes auratus_Northern Flicker,0.6688709,32.0,35.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.16356376,32.0,35.0
+Colaptes auratus_Northern Flicker,0.4299329,33.0,36.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.21906672,33.0,36.0
+Colaptes auratus_Northern Flicker,0.650411,37.0,40.0
+Colaptes auratus_Northern Flicker,0.7447287,38.0,41.0
+Colaptes auratus_Northern Flicker,0.7937756,39.0,42.0
+Colaptes auratus_Northern Flicker,0.42157575,40.0,43.0
+Engine_Engine,0.36077997,41.0,44.0
+Dryocopus pileatus_Pileated Woodpecker,0.24707383,42.0,45.0
+Engine_Engine,0.120769456,42.0,45.0
+Dryocopus pileatus_Pileated Woodpecker,0.5966165,43.0,46.0
+Dryocopus pileatus_Pileated Woodpecker,0.5320329,44.0,47.0
+Dryocopus pileatus_Pileated Woodpecker,0.6473524,45.0,48.0
+Engine_Engine,0.10829281,45.0,48.0
+Dryocopus pileatus_Pileated Woodpecker,0.2066705,46.0,49.0
+Colaptes auratus_Northern Flicker,0.33829337,49.0,52.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.32213473,49.0,52.0
+Colaptes auratus_Northern Flicker,0.36427006,50.0,53.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10086201,50.0,53.0
+Colaptes auratus_Northern Flicker,0.2421128,51.0,54.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.16655008,51.0,54.0
+Megaceryle torquata_Ringed Kingfisher,0.1288088,51.0,54.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.19297346,52.0,55.0
+Colaptes auratus_Northern Flicker,0.12519847,52.0,55.0
+Engine_Engine,0.10866067,54.0,57.0
+Engine_Engine,0.24527617,55.0,58.0

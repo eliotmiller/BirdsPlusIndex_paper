@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.13776183,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.120062016,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.11389288,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.10807209,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.8215374,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.9826943,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9930258,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.9920034,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.9936753,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.15306126,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11075689,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.23289154,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14831701,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.48418418,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10161915,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.5141129,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.98580915,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.9817461,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.99081504,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.9942806,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.9960007,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.97654575,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.131437,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109004796,21.0,24.0
+Setophaga ruticilla_American Redstart,0.12586965,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13606386,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16522889,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12651765,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.10505581,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13908063,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11430044,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.103252225,26.0,29.0
+Setophaga ruticilla_American Redstart,0.14244582,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.11603862,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.1295003,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.12768832,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14010398,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12159659,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18044207,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12366252,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15352151,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12952472,32.0,35.0
+Setophaga ruticilla_American Redstart,0.118344545,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.101201855,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.1035017,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.96719736,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.9850926,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.99324197,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.9546703,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.98222935,40.0,43.0
+Tamias striatus_Eastern Chipmunk,0.42456153,41.0,44.0
+Tamias striatus_Eastern Chipmunk,0.27633357,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.13968375,44.0,47.0
+Setophaga adelaidae_Adelaide's Warbler,0.11235905,48.0,51.0
+Tamias striatus_Eastern Chipmunk,0.40107927,49.0,52.0
+Vireo flavifrons_Yellow-throated Vireo,0.21368766,49.0,52.0
+Tamias striatus_Eastern Chipmunk,0.16491431,50.0,53.0
+Vireo flavifrons_Yellow-throated Vireo,0.12090409,50.0,53.0
+Tamias striatus_Eastern Chipmunk,0.19571847,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.44483417,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.53234565,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.31213063,58.0,61.0
+Tamias striatus_Eastern Chipmunk,0.24036135,58.0,61.0
+Tamias striatus_Eastern Chipmunk,0.53949136,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.13622098,59.0,62.0
+Tamias striatus_Eastern Chipmunk,0.30282936,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.15764834,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.3091422,61.0,64.0
+Tamias striatus_Eastern Chipmunk,0.13672449,62.0,65.0
+Plectrophenax hyperboreus_McKay's Bunting,0.10540925,67.0,70.0
+Plectrophenax hyperboreus_McKay's Bunting,0.20239891,68.0,71.0
+Calidris ptilocnemis_Rock Sandpiper,0.106962524,68.0,71.0

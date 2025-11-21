@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.19080454,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.9727175,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9899436,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.99820685,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.99784374,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.9909991,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.96583295,7.0,10.0
+Spizella pallida_Clay-colored Sparrow,0.15655296,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12975764,17.0,20.0
+Colluricincla harmonica_Gray Shrikethrush,0.26202977,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34270948,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.9808506,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.99427855,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.9979075,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.99818534,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.9862068,28.0,31.0
+Ixoreus naevius_Varied Thrush,0.14919345,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14599343,34.0,37.0
+Ixoreus naevius_Varied Thrush,0.1070776,35.0,38.0
+Ixoreus naevius_Varied Thrush,0.26580957,36.0,39.0
+Ixoreus naevius_Varied Thrush,0.23048595,37.0,40.0
+Strix occidentalis_Spotted Owl,0.112590075,37.0,40.0
+Setophaga americana_Northern Parula,0.16494347,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12163436,41.0,44.0
+Ixoreus naevius_Varied Thrush,0.1519598,42.0,45.0
+Ixoreus naevius_Varied Thrush,0.11667978,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2513864,45.0,48.0
+Ixoreus naevius_Varied Thrush,0.16764376,50.0,53.0
+Ixoreus naevius_Varied Thrush,0.15266728,51.0,54.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100508034,52.0,55.0
+Phylloscopus armandii_Yellow-streaked Warbler,0.17364685,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.97179115,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.98897725,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.9972247,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.99664587,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.9800877,59.0,62.0
+Ixoreus naevius_Varied Thrush,0.221097,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11155071,61.0,64.0
+Pachyramphus major_Gray-collared Becard,0.21646559,68.0,71.0
+Ixoreus naevius_Varied Thrush,0.18182574,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.49266258,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.16008204,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.111824594,75.0,78.0
+Junco hyemalis_Dark-eyed Junco,0.10829042,78.0,81.0
+Pachyramphus major_Gray-collared Becard,0.16382368,79.0,82.0
+Junco hyemalis_Dark-eyed Junco,0.10018073,79.0,82.0
+Pachyramphus major_Gray-collared Becard,0.1652087,80.0,83.0
+Junco hyemalis_Dark-eyed Junco,0.14937237,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14807782,83.0,86.0
+Setophaga fusca_Blackburnian Warbler,0.12148653,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.97845364,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.99510205,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.98982555,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.99406034,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.9869919,88.0,91.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31394443,89.0,92.0
+Cardellina canadensis_Canada Warbler,0.20784484,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.10632823,89.0,92.0
+Colluricincla harmonica_Gray Shrikethrush,0.15839687,92.0,95.0
+Spizella pallida_Clay-colored Sparrow,0.23728077,94.0,97.0
+Ixoreus naevius_Varied Thrush,0.10446755,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17310604,98.0,101.0
+Colluricincla harmonica_Gray Shrikethrush,0.19285037,99.0,102.0
+Colluricincla harmonica_Gray Shrikethrush,0.19143872,100.0,103.0
+Spizella pallida_Clay-colored Sparrow,0.26079845,101.0,104.0
+Ixoreus naevius_Varied Thrush,0.1212944,102.0,105.0
+Ixoreus naevius_Varied Thrush,0.17779705,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32771012,118.0,121.0
+Colluricincla harmonica_Gray Shrikethrush,0.13324545,119.0,122.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.18474352,121.0,124.0
+Seiurus aurocapilla_Ovenbird,0.98545724,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.9929061,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.99558026,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.9971705,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.9940959,126.0,129.0
+Seiurus aurocapilla_Ovenbird,0.4573271,127.0,130.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2634321,127.0,130.0
+Colluricincla harmonica_Gray Shrikethrush,0.1231214,128.0,131.0
+Setophaga cerulea_Cerulean Warbler,0.10468663,133.0,136.0

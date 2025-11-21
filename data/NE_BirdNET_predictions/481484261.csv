@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Poecile hudsonicus_Boreal Chickadee,0.992837,0.0,3.0
+Poecile hudsonicus_Boreal Chickadee,0.9847875,1.0,4.0
+Poecile montanus_Willow Tit,0.20701697,3.0,6.0
+Poecile montanus_Willow Tit,0.4392254,4.0,7.0
+Lophophanes cristatus_Crested Tit,0.13229276,4.0,7.0
+Aegithalos caudatus_Long-tailed Tit,0.10409569,4.0,7.0
+Poecile montanus_Willow Tit,0.37752938,5.0,8.0
+Lophophanes cristatus_Crested Tit,0.20239937,5.0,8.0
+Poecile montanus_Willow Tit,0.40862918,6.0,9.0
+Lophophanes cristatus_Crested Tit,0.1171088,6.0,9.0
+Poecile hudsonicus_Boreal Chickadee,0.1114488,6.0,9.0
+Poecile hudsonicus_Boreal Chickadee,0.3121899,7.0,10.0
+Poecile montanus_Willow Tit,0.25691506,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.13841182,7.0,10.0
+Corthylio calendula_Ruby-crowned Kinglet,0.10688316,7.0,10.0
+Poecile hudsonicus_Boreal Chickadee,0.814922,8.0,11.0
+Aethopyga saturata_Black-throated Sunbird,0.14537212,8.0,11.0
+Poecile atricapillus_Black-capped Chickadee,0.1334145,8.0,11.0
+Aethopyga gouldiae_Mrs. Gould's Sunbird,0.12324958,8.0,11.0
+Cettia cetti_Cetti's Warbler,0.22703055,9.0,12.0
+Poecile palustris_Marsh Tit,0.15737033,10.0,13.0
+Poecile montanus_Willow Tit,0.20927797,11.0,14.0
+Lophophanes cristatus_Crested Tit,0.17356147,11.0,14.0
+Poecile montanus_Willow Tit,0.5661761,12.0,15.0
+Lophophanes cristatus_Crested Tit,0.23938449,12.0,15.0
+Poecile palustris_Marsh Tit,0.100016244,12.0,15.0
+Poecile montanus_Willow Tit,0.4814583,13.0,16.0
+Lophophanes cristatus_Crested Tit,0.41675803,13.0,16.0
+Poecile palustris_Marsh Tit,0.14603245,13.0,16.0
+Periparus ater_Coal Tit,0.18747713,14.0,17.0
+Poecile montanus_Willow Tit,0.16595706,14.0,17.0
+Poecile montanus_Willow Tit,0.10772835,15.0,18.0
+Poecile montanus_Willow Tit,0.33796713,16.0,19.0
+Regulus satrapa_Golden-crowned Kinglet,0.1250671,16.0,19.0
+Regulus regulus_Goldcrest,0.10958409,17.0,20.0
+Poecile montanus_Willow Tit,0.104507,17.0,20.0
+Poecile montanus_Willow Tit,0.30334282,18.0,21.0
+Poecile montanus_Willow Tit,0.22252026,19.0,22.0
+Regulus satrapa_Golden-crowned Kinglet,0.1636749,19.0,22.0
+Poecile montanus_Willow Tit,0.22597612,20.0,23.0
+Regulus regulus_Goldcrest,0.1344405,20.0,23.0
+Poecile montanus_Willow Tit,0.29138422,21.0,24.0
+Regulus regulus_Goldcrest,0.12345536,21.0,24.0
+Poecile hudsonicus_Boreal Chickadee,0.9769453,26.0,29.0
+Poecile hudsonicus_Boreal Chickadee,0.99564123,27.0,30.0
+Poecile hudsonicus_Boreal Chickadee,0.9993924,28.0,31.0
+Polioptila melanura_Black-tailed Gnatcatcher,0.35785288,29.0,32.0
+Poecile hudsonicus_Boreal Chickadee,0.12218195,29.0,32.0
+Poecile montanus_Willow Tit,0.101970665,31.0,34.0
+Regulus satrapa_Golden-crowned Kinglet,0.2495334,32.0,35.0
+Poecile montanus_Willow Tit,0.14024313,32.0,35.0
+Regulus satrapa_Golden-crowned Kinglet,0.13347605,33.0,36.0
+Regulus satrapa_Golden-crowned Kinglet,0.29938358,34.0,37.0
+Poecile montanus_Willow Tit,0.2618628,36.0,39.0
+Poecile montanus_Willow Tit,0.2317898,43.0,46.0
+Poecile montanus_Willow Tit,0.1572211,45.0,48.0
+Lophophanes cristatus_Crested Tit,0.12155168,45.0,48.0
+Poecile montanus_Willow Tit,0.273624,46.0,49.0
+Regulus regulus_Goldcrest,0.16174544,46.0,49.0
+Poecile montanus_Willow Tit,0.11676044,47.0,50.0
+Poecile montanus_Willow Tit,0.37044924,56.0,59.0
+Poecile palustris_Marsh Tit,0.29048613,56.0,59.0
+Coccothraustes coccothraustes_Hawfinch,0.1807316,56.0,59.0
+Poecile montanus_Willow Tit,0.2271787,57.0,60.0
+Poecile gambeli_Mountain Chickadee,0.75174457,60.0,63.0
+Poecile hudsonicus_Boreal Chickadee,0.19786073,60.0,63.0
+Poecile atricapillus_Black-capped Chickadee,0.1876562,60.0,63.0
+Poecile hudsonicus_Boreal Chickadee,0.97286564,61.0,64.0
+Poecile hudsonicus_Boreal Chickadee,0.9995134,62.0,65.0
+Poecile hudsonicus_Boreal Chickadee,0.9996549,63.0,66.0
+Poecile atricapillus_Black-capped Chickadee,0.39239305,64.0,67.0
+Poecile atricapillus_Black-capped Chickadee,0.39718127,65.0,68.0
+Poecile atricapillus_Black-capped Chickadee,0.120549574,66.0,69.0
+Botaurus stellaris_Great Bittern,0.5759253,68.0,71.0
+Dendragapus fuliginosus_Sooty Grouse,0.12053907,68.0,71.0
+Dendragapus obscurus_Dusky Grouse,0.11292238,68.0,71.0

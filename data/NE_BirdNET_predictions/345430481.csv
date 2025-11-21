@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Motacilla cinerea_Gray Wagtail,0.5589565,0.0,3.0
+Todirostrum pictum_Painted Tody-Flycatcher,0.22135904,0.0,3.0
+Todirostrum pictum_Painted Tody-Flycatcher,0.3586573,1.0,4.0
+Motacilla cinerea_Gray Wagtail,0.34897837,1.0,4.0
+Motacilla cinerea_Gray Wagtail,0.8041039,2.0,5.0
+Todirostrum pictum_Painted Tody-Flycatcher,0.22930823,2.0,5.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3809025,3.0,6.0
+Motacilla cinerea_Gray Wagtail,0.15369976,3.0,6.0
+Tamiasciurus hudsonicus_Red Squirrel,0.33466712,4.0,7.0
+Tamiasciurus hudsonicus_Red Squirrel,0.43882328,5.0,8.0
+Tamiasciurus hudsonicus_Red Squirrel,0.23672083,8.0,11.0
+Tamiasciurus hudsonicus_Red Squirrel,0.38725743,9.0,12.0
+Tamiasciurus hudsonicus_Red Squirrel,0.27824065,10.0,13.0
+Tamiasciurus hudsonicus_Red Squirrel,0.79552203,11.0,14.0
+Tamiasciurus hudsonicus_Red Squirrel,0.88930005,12.0,15.0
+Picumnus cinnamomeus_Chestnut Piculet,0.18817346,12.0,15.0
+Tamiasciurus hudsonicus_Red Squirrel,0.7819167,13.0,16.0
+Picumnus cinnamomeus_Chestnut Piculet,0.10159439,13.0,16.0
+Tamiasciurus hudsonicus_Red Squirrel,0.54522616,14.0,17.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18918829,15.0,18.0
+Tamiasciurus hudsonicus_Red Squirrel,0.4437498,16.0,19.0
+Picumnus cinnamomeus_Chestnut Piculet,0.24358547,16.0,19.0
+Tamiasciurus hudsonicus_Red Squirrel,0.4937866,17.0,20.0
+Picumnus cinnamomeus_Chestnut Piculet,0.20509711,17.0,20.0
+Hellmayrea gularis_White-browed Spinetail,0.10222402,17.0,20.0
+Picumnus cinnamomeus_Chestnut Piculet,0.35013258,18.0,21.0
+Tamiasciurus hudsonicus_Red Squirrel,0.100205876,18.0,21.0
+Picumnus cinnamomeus_Chestnut Piculet,0.34577215,19.0,22.0
+Tamiasciurus hudsonicus_Red Squirrel,0.49310127,21.0,24.0
+Alcedo atthis_Common Kingfisher,0.19172834,21.0,24.0
+Alcedo atthis_Common Kingfisher,0.5975669,22.0,25.0
+Tamiasciurus hudsonicus_Red Squirrel,0.47294715,22.0,25.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9755604,23.0,26.0
+Alcedo atthis_Common Kingfisher,0.1314867,23.0,26.0
+Serpophaga cinerea_Torrent Tyrannulet,0.10719742,23.0,26.0
+Tamiasciurus hudsonicus_Red Squirrel,0.871681,24.0,27.0
+Tamiasciurus hudsonicus_Red Squirrel,0.75245327,25.0,28.0
+Tamiasciurus hudsonicus_Red Squirrel,0.8484976,26.0,29.0
+Picumnus cinnamomeus_Chestnut Piculet,0.16641282,26.0,29.0
+Dicaeum minullum_Plain Flowerpecker,0.15588255,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.7675972,27.0,30.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5303967,27.0,30.0
+Dicaeum minullum_Plain Flowerpecker,0.14190124,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.21750064,28.0,31.0
+Tamiasciurus hudsonicus_Red Squirrel,0.44437447,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.43615994,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.6282439,30.0,33.0
+Tamiasciurus hudsonicus_Red Squirrel,0.47884905,30.0,33.0
+Todirostrum maculatum_Spotted Tody-Flycatcher,0.18151976,30.0,33.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5843478,31.0,34.0
+Todirostrum maculatum_Spotted Tody-Flycatcher,0.30293673,31.0,34.0
+Picumnus cinnamomeus_Chestnut Piculet,0.10489387,31.0,34.0
+Picumnus spilogaster_White-bellied Piculet,0.10380866,31.0,34.0
+Tamiasciurus hudsonicus_Red Squirrel,0.8521571,32.0,35.0
+Todirostrum maculatum_Spotted Tody-Flycatcher,0.2294813,32.0,35.0
+Tamiasciurus hudsonicus_Red Squirrel,0.63097084,33.0,36.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9593131,34.0,37.0
+Chlorophonia pyrrhophrys_Chestnut-breasted Chlorophonia,0.16079581,34.0,37.0
+Tamiasciurus hudsonicus_Red Squirrel,0.99031246,35.0,38.0
+Picumnus spilogaster_White-bellied Piculet,0.10701755,35.0,38.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9669712,36.0,39.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9625875,37.0,40.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9800668,38.0,41.0
+Canachites canadensis_Spruce Grouse,0.12802452,38.0,41.0
+Tamiasciurus hudsonicus_Red Squirrel,0.84698135,39.0,42.0
+Tamiasciurus hudsonicus_Red Squirrel,0.8833541,40.0,43.0
+Bonasa umbellus_Ruffed Grouse,0.13659932,40.0,43.0
+Tamiasciurus hudsonicus_Red Squirrel,0.8802417,41.0,44.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9564545,42.0,45.0
+Canachites canadensis_Spruce Grouse,0.17608069,42.0,45.0
+Tamiasciurus hudsonicus_Red Squirrel,0.87187624,43.0,46.0
+Canachites canadensis_Spruce Grouse,0.51115847,43.0,46.0
+Tamiasciurus hudsonicus_Red Squirrel,0.96171224,44.0,47.0
+Canachites canadensis_Spruce Grouse,0.41413945,44.0,47.0
+Machlolophus xanthogenys_Himalayan Black-lored Tit,0.27182138,44.0,47.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9831656,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.114472724,45.0,48.0
+Canachites canadensis_Spruce Grouse,0.11331637,45.0,48.0
+Tamiasciurus hudsonicus_Red Squirrel,0.97491676,46.0,49.0
+Tamiasciurus hudsonicus_Red Squirrel,0.9742339,47.0,50.0
+Tamiasciurus hudsonicus_Red Squirrel,0.98216736,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.53946596,48.0,51.0
+Bonasa umbellus_Ruffed Grouse,0.22812061,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.86633193,49.0,52.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5791379,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.7957869,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.4937211,51.0,54.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12826791,51.0,54.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5203095,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.48301736,52.0,55.0
+Tamiasciurus hudsonicus_Red Squirrel,0.8658974,53.0,55.056009070294785
+Melospiza georgiana_Swamp Sparrow,0.642391,53.0,55.056009070294785
+Zonotrichia albicollis_White-throated Sparrow,0.2606489,53.0,55.056009070294785

@@ -1,0 +1,84 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.80615747,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.37286553,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.30074084,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.18662591,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.3782664,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.36795658,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.6490702,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.7896553,4.0,7.0
+Vireo flavoviridis_Yellow-green Vireo,0.9376319,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.14450718,5.0,8.0
+Vireo flavoviridis_Yellow-green Vireo,0.8218375,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.11508563,6.0,9.0
+Contopus virens_Eastern Wood-Pewee,0.8615737,7.0,10.0
+Contopus virens_Eastern Wood-Pewee,0.6295207,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.137947,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.89791304,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.102268316,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.476683,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.73812693,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.50041276,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.3776171,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.45415953,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.53213596,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.68352985,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.50518084,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.4398058,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.12840599,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.12531133,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.64041096,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.20573367,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.14405242,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.7794809,20.0,23.0
+Contopus virens_Eastern Wood-Pewee,0.9629164,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.9236526,22.0,25.0
+Vireo flavoviridis_Yellow-green Vireo,0.30364737,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.25271,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.35510376,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.41735822,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.28342947,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.47568834,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.27440834,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.1364201,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108798206,28.0,31.0
+Contopus virens_Eastern Wood-Pewee,0.2902347,29.0,32.0
+Contopus virens_Eastern Wood-Pewee,0.4110119,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.21827757,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23882462,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.104709476,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1008759,32.0,35.0
+Contopus virens_Eastern Wood-Pewee,0.6945691,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.8720909,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.94000095,35.0,38.0
+Contopus virens_Eastern Wood-Pewee,0.95268255,36.0,39.0
+Vireo solitarius_Blue-headed Vireo,0.45669436,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20148666,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.15821026,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.13062267,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107593045,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.12320871,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.16589889,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.16174813,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13489614,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.35106862,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.1500894,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.48501566,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.23001188,42.0,45.0
+Vireo flavoviridis_Yellow-green Vireo,0.43781403,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.22586109,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.1260017,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.10521144,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10506047,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.396738,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.1047666,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.48270324,46.0,49.0
+Setophaga pinus_Pine Warbler,0.41756743,47.0,50.0
+Contopus virens_Eastern Wood-Pewee,0.12807304,47.0,50.0
+Setophaga pinus_Pine Warbler,0.24161547,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11356499,48.0,51.0
+Setophaga pinus_Pine Warbler,0.37875417,49.0,52.0
+Junco hyemalis_Dark-eyed Junco,0.26512972,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.27905867,50.0,52.94403628117914
+Setophaga pinus_Pine Warbler,0.121193625,50.0,52.94403628117914
+Helmitheros vermivorum_Worm-eating Warbler,0.10719537,50.0,52.94403628117914

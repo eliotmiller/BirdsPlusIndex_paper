@@ -1,0 +1,28 @@
+species,score,start_time,end_time
+Bombycilla cedrorum_Cedar Waxwing,0.13490856,4.0,7.0
+Spinus tristis_American Goldfinch,0.12876625,6.0,9.0
+Sialia sialis_Eastern Bluebird,0.13985217,7.0,10.0
+Spinus tristis_American Goldfinch,0.14729293,8.0,11.0
+Spinus tristis_American Goldfinch,0.28574982,9.0,12.0
+Acanthis flammea_Common Redpoll,0.1939397,9.0,12.0
+Engine_Engine,0.19567108,10.0,13.0
+Engine_Engine,0.3336205,11.0,14.0
+Engine_Engine,0.49375576,12.0,15.0
+Dendrocygna javanica_Lesser Whistling-Duck,0.14908256,13.0,16.0
+Spizelloides arborea_American Tree Sparrow,0.20887095,23.0,26.0
+Hydroprogne caspia_Caspian Tern,0.20352286,48.0,51.0
+Hydroprogne caspia_Caspian Tern,0.14863865,49.0,52.0
+Thalasseus maximus_Royal Tern,0.12672532,49.0,52.0
+Tringa solitaria_Solitary Sandpiper,0.22834516,57.0,60.0
+Turdus migratorius_American Robin,0.15059115,59.0,62.0
+Haemorhous cassinii_Cassin's Finch,0.48554513,68.0,71.0
+Gelochelidon nilotica_Gull-billed Tern,0.14972939,71.0,74.0
+Tyrannus dominicensis_Gray Kingbird,0.14937732,73.0,76.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.122111134,75.0,78.0
+Gelochelidon nilotica_Gull-billed Tern,0.10701832,76.0,79.0
+Gelochelidon nilotica_Gull-billed Tern,0.21071064,78.0,81.0
+Gelochelidon nilotica_Gull-billed Tern,0.18500836,79.0,82.0
+Hydroprogne caspia_Caspian Tern,0.20034073,80.0,83.0
+Molothrus ater_Brown-headed Cowbird,0.17346136,91.0,94.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.45017862,100.0,103.0
+Circus hudsonius_Northern Harrier,0.11340017,110.0,113.0

@@ -1,0 +1,170 @@
+species,score,start_time,end_time
+Archilochus colubris_Ruby-throated Hummingbird,0.124432385,3.0,6.0
+Coragyps atratus_Black Vulture,0.10529337,3.0,6.0
+Archilochus colubris_Ruby-throated Hummingbird,0.12925659,4.0,7.0
+Ardea herodias_Great Blue Heron,0.113211796,4.0,7.0
+Ardea herodias_Great Blue Heron,0.17232071,6.0,9.0
+Ardea herodias_Great Blue Heron,0.18223616,7.0,10.0
+Ardea herodias_Great Blue Heron,0.20555437,8.0,11.0
+Rallus crepitans_Clapper Rail,0.13653761,8.0,11.0
+Ardea herodias_Great Blue Heron,0.15191887,10.0,13.0
+Butorides virescens_Green Heron,0.10227449,10.0,13.0
+Ardea herodias_Great Blue Heron,0.10606458,11.0,14.0
+Ardea herodias_Great Blue Heron,0.12595299,12.0,15.0
+Ardea herodias_Great Blue Heron,0.13110638,13.0,16.0
+Ardea herodias_Great Blue Heron,0.12573344,15.0,18.0
+Rallus crepitans_Clapper Rail,0.13274868,18.0,21.0
+Rallus crepitans_Clapper Rail,0.2900328,19.0,22.0
+Icteria virens_Yellow-breasted Chat,0.1591798,22.0,25.0
+Rallus crepitans_Clapper Rail,0.1044954,24.0,27.0
+Rallus crepitans_Clapper Rail,0.31322998,25.0,28.0
+Rallus elegans_King Rail,0.25353897,25.0,28.0
+Rallus crepitans_Clapper Rail,0.2456754,26.0,29.0
+Rallus elegans_King Rail,0.21178031,26.0,29.0
+Rallus elegans_King Rail,0.40854657,27.0,30.0
+Rallus crepitans_Clapper Rail,0.23922202,27.0,30.0
+Megaceryle alcyon_Belted Kingfisher,0.15143141,28.0,31.0
+Rallus crepitans_Clapper Rail,0.117969826,33.0,36.0
+Ardea herodias_Great Blue Heron,0.22655568,37.0,40.0
+Ardea herodias_Great Blue Heron,0.18561886,38.0,41.0
+Ardea herodias_Great Blue Heron,0.14386784,42.0,45.0
+Protonotaria citrea_Prothonotary Warbler,0.13513541,42.0,45.0
+Ardea herodias_Great Blue Heron,0.18875565,44.0,47.0
+Ardea herodias_Great Blue Heron,0.19155642,45.0,48.0
+Ardea herodias_Great Blue Heron,0.2169711,46.0,49.0
+Ardea herodias_Great Blue Heron,0.15297379,48.0,51.0
+Ardea herodias_Great Blue Heron,0.2509919,49.0,52.0
+Ardea herodias_Great Blue Heron,0.22482294,50.0,53.0
+Ardea herodias_Great Blue Heron,0.11479504,51.0,54.0
+Rallus crepitans_Clapper Rail,0.18034068,57.0,60.0
+Ardea herodias_Great Blue Heron,0.15205821,58.0,61.0
+Rallus crepitans_Clapper Rail,0.18972018,59.0,62.0
+Ardea herodias_Great Blue Heron,0.10421584,59.0,62.0
+Rallus crepitans_Clapper Rail,0.17054778,60.0,63.0
+Rallus tenuirostris_Aztec Rail,0.110312924,60.0,63.0
+Ardea herodias_Great Blue Heron,0.103490554,60.0,63.0
+Rallus crepitans_Clapper Rail,0.12820716,61.0,64.0
+Ardea herodias_Great Blue Heron,0.10169214,61.0,64.0
+Rallus crepitans_Clapper Rail,0.31364855,62.0,65.0
+Rallus limicola_Virginia Rail,0.12087298,62.0,65.0
+Rallus crepitans_Clapper Rail,0.16338083,63.0,66.0
+Rallus crepitans_Clapper Rail,0.11170503,64.0,67.0
+Eupsittula aurea_Peach-fronted Parakeet,0.10452868,65.0,68.0
+Rallus elegans_King Rail,0.1086521,67.0,70.0
+Rallus crepitans_Clapper Rail,0.315225,68.0,71.0
+Rallus elegans_King Rail,0.21435912,68.0,71.0
+Rallus crepitans_Clapper Rail,0.465864,69.0,72.0
+Rallus tenuirostris_Aztec Rail,0.3233777,69.0,72.0
+Rallus elegans_King Rail,0.22334924,69.0,72.0
+Eupsittula aurea_Peach-fronted Parakeet,0.48465228,70.0,73.0
+Rallus tenuirostris_Aztec Rail,0.34652987,70.0,73.0
+Rallus crepitans_Clapper Rail,0.25003937,70.0,73.0
+Eupsittula aurea_Peach-fronted Parakeet,0.1292853,71.0,74.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.34458143,75.0,78.0
+Rallus crepitans_Clapper Rail,0.1102151,75.0,78.0
+Rallus crepitans_Clapper Rail,0.45866325,76.0,79.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.1788603,76.0,79.0
+Rallus tenuirostris_Aztec Rail,0.12303087,76.0,79.0
+Rallus crepitans_Clapper Rail,0.47716552,77.0,80.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.16736673,77.0,80.0
+Rallus crepitans_Clapper Rail,0.5250505,78.0,81.0
+Rallus elegans_King Rail,0.12352977,78.0,81.0
+Rallus crepitans_Clapper Rail,0.19090927,79.0,82.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.10953953,79.0,82.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.35916367,80.0,83.0
+Eupsittula aurea_Peach-fronted Parakeet,0.14961791,80.0,83.0
+Rallus crepitans_Clapper Rail,0.14018928,81.0,84.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.103608824,81.0,84.0
+Rallus crepitans_Clapper Rail,0.59685516,82.0,85.0
+Rallus elegans_King Rail,0.27547747,82.0,85.0
+Rallus tenuirostris_Aztec Rail,0.18342543,82.0,85.0
+Rallus crepitans_Clapper Rail,0.2955229,83.0,86.0
+Cyanocorax beecheii_Purplish-backed Jay,0.13238958,83.0,86.0
+Rallus crepitans_Clapper Rail,0.359479,84.0,87.0
+Eupsittula aurea_Peach-fronted Parakeet,0.3201649,84.0,87.0
+Rallus tenuirostris_Aztec Rail,0.19204459,84.0,87.0
+Rallus crepitans_Clapper Rail,0.42012614,85.0,88.0
+Rallus elegans_King Rail,0.1514604,85.0,88.0
+Rallus crepitans_Clapper Rail,0.6807594,86.0,89.0
+Rallus elegans_King Rail,0.27265137,86.0,89.0
+Rallus crepitans_Clapper Rail,0.38139448,87.0,90.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.12679261,88.0,91.0
+Rallus crepitans_Clapper Rail,0.27397352,90.0,93.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.26450562,91.0,94.0
+Rallus crepitans_Clapper Rail,0.10033627,91.0,94.0
+Rallus crepitans_Clapper Rail,0.24820405,92.0,95.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.12783581,92.0,95.0
+Rallus elegans_King Rail,0.40940067,93.0,96.0
+Rallus crepitans_Clapper Rail,0.3319132,93.0,96.0
+Ixobrychus exilis_Least Bittern,0.20882344,93.0,96.0
+Rallus limicola_Virginia Rail,0.1589271,93.0,96.0
+Rallus crepitans_Clapper Rail,0.35059813,94.0,97.0
+Ixobrychus exilis_Least Bittern,0.24624564,94.0,97.0
+Rallus elegans_King Rail,0.22607493,94.0,97.0
+Rallus limicola_Virginia Rail,0.112768345,94.0,97.0
+Rallus crepitans_Clapper Rail,0.25111634,95.0,98.0
+Rallus elegans_King Rail,0.16519882,95.0,98.0
+Ixobrychus exilis_Least Bittern,0.15274477,95.0,98.0
+Rallus limicola_Virginia Rail,0.10881886,95.0,98.0
+Rallus crepitans_Clapper Rail,0.59196514,96.0,99.0
+Rallus elegans_King Rail,0.1540709,96.0,99.0
+Ixobrychus exilis_Least Bittern,0.1064596,96.0,99.0
+Rallus crepitans_Clapper Rail,0.5571602,97.0,100.0
+Rallus elegans_King Rail,0.26098168,97.0,100.0
+Rallus crepitans_Clapper Rail,0.19633427,98.0,101.0
+Rallus crepitans_Clapper Rail,0.2657025,99.0,102.0
+Rallus crepitans_Clapper Rail,0.16150033,100.0,103.0
+Thamnophilus multistriatus_Bar-crested Antshrike,0.11436427,102.0,105.0
+Ardea herodias_Great Blue Heron,0.15889128,104.0,107.0
+Ardea herodias_Great Blue Heron,0.19093432,105.0,108.0
+Ardea herodias_Great Blue Heron,0.13693222,106.0,109.0
+Casuarius casuarius_Southern Cassowary,0.1931947,107.0,110.0
+Ardea herodias_Great Blue Heron,0.17232086,107.0,110.0
+Ardea herodias_Great Blue Heron,0.21360616,109.0,112.0
+Rallus tenuirostris_Aztec Rail,0.3071542,112.0,115.0
+Rallus crepitans_Clapper Rail,0.16317321,112.0,115.0
+Eupsittula aurea_Peach-fronted Parakeet,0.10462647,112.0,115.0
+Rallus crepitans_Clapper Rail,0.55099857,113.0,116.0
+Rallus tenuirostris_Aztec Rail,0.15663767,113.0,116.0
+Rallus elegans_King Rail,0.121136084,113.0,116.0
+Rallus crepitans_Clapper Rail,0.5713645,114.0,117.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.14878589,114.0,117.0
+Rallus crepitans_Clapper Rail,0.14941825,115.0,118.0
+Rallus elegans_King Rail,0.13228707,115.0,118.0
+Rallus crepitans_Clapper Rail,0.44767788,116.0,119.0
+Rallus elegans_King Rail,0.43455514,116.0,119.0
+Eupsittula aurea_Peach-fronted Parakeet,0.111045524,117.0,120.0
+Rallus crepitans_Clapper Rail,0.14535215,119.0,122.0
+Rallus crepitans_Clapper Rail,0.22532804,120.0,123.0
+Eupsittula aurea_Peach-fronted Parakeet,0.14678508,126.0,129.0
+Rallus crepitans_Clapper Rail,0.1379331,126.0,129.0
+Rallus crepitans_Clapper Rail,0.36069435,127.0,130.0
+Rallus crepitans_Clapper Rail,0.31874642,128.0,131.0
+Rallus crepitans_Clapper Rail,0.19171956,129.0,132.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.20975626,130.0,133.0
+Rallus crepitans_Clapper Rail,0.20042735,130.0,133.0
+Rallus crepitans_Clapper Rail,0.48134935,131.0,134.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.15555792,131.0,134.0
+Rallus elegans_King Rail,0.10341388,131.0,134.0
+Rallus crepitans_Clapper Rail,0.3243576,132.0,135.0
+Rallus elegans_King Rail,0.105390705,132.0,135.0
+Rallus crepitans_Clapper Rail,0.34042832,133.0,136.0
+Rallus elegans_King Rail,0.20652448,133.0,136.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.24483909,134.0,137.0
+Rallus elegans_King Rail,0.10639755,134.0,137.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.23974937,135.0,138.0
+Rallus elegans_King Rail,0.11413601,135.0,138.0
+Rallus crepitans_Clapper Rail,0.1414911,140.0,143.0
+Rynchops niger_Black Skimmer,0.31308004,141.0,144.0
+Rallus crepitans_Clapper Rail,0.14784725,142.0,145.0
+Rallus elegans_King Rail,0.10866882,142.0,145.0
+Rallus crepitans_Clapper Rail,0.10069863,143.0,146.0
+Rallus crepitans_Clapper Rail,0.10089796,145.0,148.0
+Rallus crepitans_Clapper Rail,0.100820184,146.0,149.0
+Rallus crepitans_Clapper Rail,0.16730751,147.0,150.0
+Protonotaria citrea_Prothonotary Warbler,0.14514494,149.0,152.0
+Protonotaria citrea_Prothonotary Warbler,0.30134225,150.0,153.0
+Protonotaria citrea_Prothonotary Warbler,0.20115459,152.0,155.0
+Protonotaria citrea_Prothonotary Warbler,0.10044748,153.0,156.0
+Rallus crepitans_Clapper Rail,0.22317758,155.0,157.34403628117914
+Rallus elegans_King Rail,0.14027125,155.0,157.34403628117914

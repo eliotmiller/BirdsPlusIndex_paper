@@ -1,0 +1,307 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.3976834,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.5850156,1.0,4.0
+Geothlypis philadelphia_Mourning Warbler,0.61358106,2.0,5.0
+Geothlypis philadelphia_Mourning Warbler,0.9578433,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.11256397,3.0,6.0
+Geothlypis philadelphia_Mourning Warbler,0.99430794,4.0,7.0
+Geothlypis philadelphia_Mourning Warbler,0.7904607,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.7109917,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.30645615,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.20812397,6.0,9.0
+Geothlypis philadelphia_Mourning Warbler,0.10635601,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.16778278,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.1301035,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.11128878,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.62630755,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.16788016,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.1206792,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.27923977,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.12410623,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.34178406,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.4396544,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.1384044,13.0,16.0
+Geothlypis philadelphia_Mourning Warbler,0.89830804,14.0,17.0
+Geothlypis philadelphia_Mourning Warbler,0.9951507,15.0,18.0
+Geothlypis philadelphia_Mourning Warbler,0.998445,16.0,19.0
+Geothlypis philadelphia_Mourning Warbler,0.96514124,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.43490988,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.43290275,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.10893036,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.10179884,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.17314772,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.15209708,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.37698644,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.18551008,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.1513593,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.52516806,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.1510252,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.16289826,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.14373596,24.0,27.0
+Geothlypis philadelphia_Mourning Warbler,0.93212193,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.12182117,25.0,28.0
+Geothlypis philadelphia_Mourning Warbler,0.9728434,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.40652755,26.0,29.0
+Geothlypis philadelphia_Mourning Warbler,0.99676394,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.98523444,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.19347937,28.0,31.0
+Certhia americana_Brown Creeper,0.16195898,29.0,32.0
+Geothlypis philadelphia_Mourning Warbler,0.9700828,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.2446597,38.0,41.0
+Geothlypis philadelphia_Mourning Warbler,0.97107744,39.0,42.0
+Geothlypis formosa_Kentucky Warbler,0.16599984,39.0,42.0
+Geothlypis philadelphia_Mourning Warbler,0.96129,40.0,43.0
+Geothlypis formosa_Kentucky Warbler,0.35700208,40.0,43.0
+Geothlypis philadelphia_Mourning Warbler,0.15461127,41.0,44.0
+Geothlypis formosa_Kentucky Warbler,0.15417023,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.1474097,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.3345218,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.18919037,42.0,45.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13265082,42.0,45.0
+Leiothlypis celata_Orange-crowned Warbler,0.116996616,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10507246,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.6196145,43.0,46.0
+Leiothlypis celata_Orange-crowned Warbler,0.30569398,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.27371162,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.5369421,44.0,47.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1877228,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.12861636,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.110080846,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.17391503,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.11915997,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.3832808,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.15934138,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10879648,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.8952258,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.97867537,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.87586915,50.0,53.0
+Cardellina canadensis_Canada Warbler,0.14203383,50.0,53.0
+Geothlypis philadelphia_Mourning Warbler,0.13964292,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.8740691,51.0,54.0
+Geothlypis philadelphia_Mourning Warbler,0.30360046,51.0,54.0
+Geothlypis philadelphia_Mourning Warbler,0.56789976,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.2966876,52.0,55.0
+Geothlypis formosa_Kentucky Warbler,0.24782135,52.0,55.0
+Geothlypis formosa_Kentucky Warbler,0.7946101,53.0,56.0
+Geothlypis philadelphia_Mourning Warbler,0.55771583,53.0,56.0
+Vireo olivaceus_Red-eyed Vireo,0.25793028,54.0,57.0
+Setophaga pinus_Pine Warbler,0.21679543,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.15852556,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.2859896,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.17964478,55.0,58.0
+Vireo olivaceus_Red-eyed Vireo,0.36598885,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.14530717,56.0,59.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13642222,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.12166682,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.118325464,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.24983399,57.0,60.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13687189,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.11439773,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.22872704,58.0,61.0
+Vireo olivaceus_Red-eyed Vireo,0.22039469,58.0,61.0
+Leiothlypis celata_Orange-crowned Warbler,0.15057854,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.14461648,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.20592405,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.1788706,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.17570072,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.1578873,59.0,62.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11266315,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.36106822,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.16496463,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.10404552,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.23341691,61.0,64.0
+Setophaga pinus_Pine Warbler,0.16528319,61.0,64.0
+Catharus guttatus_Hermit Thrush,0.12645273,61.0,64.0
+Vireo olivaceus_Red-eyed Vireo,0.10134649,61.0,64.0
+Junco hyemalis_Dark-eyed Junco,0.10124812,61.0,64.0
+Setophaga magnolia_Magnolia Warbler,0.2692539,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10557274,62.0,65.0
+Geothlypis philadelphia_Mourning Warbler,0.9014433,63.0,66.0
+Geothlypis formosa_Kentucky Warbler,0.17306286,63.0,66.0
+Geothlypis philadelphia_Mourning Warbler,0.9750919,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.101253554,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.77669334,65.0,68.0
+Geothlypis philadelphia_Mourning Warbler,0.44720373,65.0,68.0
+Geothlypis formosa_Kentucky Warbler,0.5716159,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.26107475,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.15417778,66.0,69.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12666437,66.0,69.0
+Setophaga citrina_Hooded Warbler,0.11068763,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.9401662,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.10086749,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.9561492,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.98586917,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.93516004,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.8680554,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16178213,72.0,75.0
+Setophaga pinus_Pine Warbler,0.12987937,72.0,75.0
+Geothlypis philadelphia_Mourning Warbler,0.9466852,73.0,76.0
+Geothlypis formosa_Kentucky Warbler,0.42162874,73.0,76.0
+Geothlypis philadelphia_Mourning Warbler,0.96624357,74.0,77.0
+Geothlypis formosa_Kentucky Warbler,0.27785543,74.0,77.0
+Geothlypis philadelphia_Mourning Warbler,0.98462903,75.0,78.0
+Geothlypis formosa_Kentucky Warbler,0.38090166,75.0,78.0
+Geothlypis formosa_Kentucky Warbler,0.75438875,76.0,79.0
+Geothlypis philadelphia_Mourning Warbler,0.7203888,76.0,79.0
+Geothlypis formosa_Kentucky Warbler,0.19082291,77.0,80.0
+Piranga olivacea_Scarlet Tanager,0.17897412,77.0,80.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12166686,77.0,80.0
+Geothlypis philadelphia_Mourning Warbler,0.42304438,86.0,89.0
+Geothlypis philadelphia_Mourning Warbler,0.96413934,87.0,90.0
+Geothlypis formosa_Kentucky Warbler,0.35594213,87.0,90.0
+Geothlypis philadelphia_Mourning Warbler,0.97196406,88.0,91.0
+Geothlypis formosa_Kentucky Warbler,0.27836356,88.0,91.0
+Geothlypis philadelphia_Mourning Warbler,0.9002416,89.0,92.0
+Geothlypis formosa_Kentucky Warbler,0.7346257,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.30153367,90.0,93.0
+Geothlypis formosa_Kentucky Warbler,0.20553978,90.0,93.0
+Geothlypis philadelphia_Mourning Warbler,0.13866965,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.6212109,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.7991994,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.5454476,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.761114,94.0,97.0
+Vireo olivaceus_Red-eyed Vireo,0.39153627,95.0,98.0
+Piranga olivacea_Scarlet Tanager,0.1423341,95.0,98.0
+Vireo olivaceus_Red-eyed Vireo,0.55553347,96.0,99.0
+Piranga olivacea_Scarlet Tanager,0.42258167,96.0,99.0
+Piranga olivacea_Scarlet Tanager,0.21658674,97.0,100.0
+Geothlypis philadelphia_Mourning Warbler,0.56507677,98.0,101.0
+Geothlypis philadelphia_Mourning Warbler,0.9864103,99.0,102.0
+Geothlypis philadelphia_Mourning Warbler,0.9824796,100.0,103.0
+Geothlypis formosa_Kentucky Warbler,0.1209971,100.0,103.0
+Geothlypis philadelphia_Mourning Warbler,0.98839635,101.0,104.0
+Geothlypis formosa_Kentucky Warbler,0.18765384,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.19774067,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.12126669,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.27612472,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.17099302,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.23158906,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.16720396,104.0,107.0
+Piranga olivacea_Scarlet Tanager,0.13647628,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.22463217,105.0,108.0
+Vireo olivaceus_Red-eyed Vireo,0.25351685,106.0,109.0
+Vireo olivaceus_Red-eyed Vireo,0.4134755,107.0,110.0
+Geothlypis formosa_Kentucky Warbler,0.15913236,107.0,110.0
+Vireo olivaceus_Red-eyed Vireo,0.6938259,108.0,111.0
+Piranga olivacea_Scarlet Tanager,0.18138523,108.0,111.0
+Vireo olivaceus_Red-eyed Vireo,0.5364861,109.0,112.0
+Piranga olivacea_Scarlet Tanager,0.25910556,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.10570051,109.0,112.0
+Vireo olivaceus_Red-eyed Vireo,0.43830943,110.0,113.0
+Piranga olivacea_Scarlet Tanager,0.30287653,110.0,113.0
+Vireo olivaceus_Red-eyed Vireo,0.74525183,111.0,114.0
+Piranga olivacea_Scarlet Tanager,0.3050019,111.0,114.0
+Vireo solitarius_Blue-headed Vireo,0.24488167,111.0,114.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18148392,111.0,114.0
+Geothlypis philadelphia_Mourning Warbler,0.9521568,112.0,115.0
+Geothlypis formosa_Kentucky Warbler,0.38293743,112.0,115.0
+Geothlypis philadelphia_Mourning Warbler,0.99808204,113.0,116.0
+Geothlypis philadelphia_Mourning Warbler,0.9776374,114.0,117.0
+Geothlypis formosa_Kentucky Warbler,0.5162715,114.0,117.0
+Geothlypis philadelphia_Mourning Warbler,0.8474586,115.0,118.0
+Vireo olivaceus_Red-eyed Vireo,0.32214952,116.0,119.0
+Piranga olivacea_Scarlet Tanager,0.12067044,116.0,119.0
+Seiurus aurocapilla_Ovenbird,0.35276863,117.0,120.0
+Vireo olivaceus_Red-eyed Vireo,0.16142836,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.89721495,118.0,121.0
+Seiurus aurocapilla_Ovenbird,0.921245,119.0,122.0
+Seiurus aurocapilla_Ovenbird,0.9311056,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.9041349,121.0,124.0
+Vireo olivaceus_Red-eyed Vireo,0.59507966,122.0,125.0
+Piranga olivacea_Scarlet Tanager,0.106963195,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.24064596,123.0,126.0
+Vireo olivaceus_Red-eyed Vireo,0.21205549,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.31133792,124.0,127.0
+Piranga olivacea_Scarlet Tanager,0.16288577,124.0,127.0
+Geothlypis philadelphia_Mourning Warbler,0.98994255,125.0,128.0
+Geothlypis philadelphia_Mourning Warbler,0.9979348,126.0,129.0
+Geothlypis formosa_Kentucky Warbler,0.1264447,126.0,129.0
+Geothlypis philadelphia_Mourning Warbler,0.9986492,127.0,130.0
+Geothlypis philadelphia_Mourning Warbler,0.92698324,128.0,131.0
+Geothlypis formosa_Kentucky Warbler,0.55285895,128.0,131.0
+Vireo olivaceus_Red-eyed Vireo,0.29387125,129.0,132.0
+Piranga olivacea_Scarlet Tanager,0.22037955,129.0,132.0
+Empidonax virescens_Acadian Flycatcher,0.14414363,129.0,132.0
+Vireo olivaceus_Red-eyed Vireo,0.50851214,130.0,133.0
+Piranga olivacea_Scarlet Tanager,0.4691355,130.0,133.0
+Piranga olivacea_Scarlet Tanager,0.75104284,131.0,134.0
+Vireo olivaceus_Red-eyed Vireo,0.65776455,131.0,134.0
+Piranga olivacea_Scarlet Tanager,0.5394469,132.0,135.0
+Vireo olivaceus_Red-eyed Vireo,0.36475426,132.0,135.0
+Vireo olivaceus_Red-eyed Vireo,0.37517545,133.0,136.0
+Piranga olivacea_Scarlet Tanager,0.11349381,133.0,136.0
+Vireo olivaceus_Red-eyed Vireo,0.12402763,134.0,137.0
+Empidonax virescens_Acadian Flycatcher,0.11833445,134.0,137.0
+Vireo olivaceus_Red-eyed Vireo,0.50254095,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.397568,136.0,139.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11671669,136.0,139.0
+Vireo olivaceus_Red-eyed Vireo,0.10381467,136.0,139.0
+Seiurus aurocapilla_Ovenbird,0.93016535,137.0,140.0
+Seiurus aurocapilla_Ovenbird,0.9858213,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.9707742,139.0,142.0
+Geothlypis philadelphia_Mourning Warbler,0.7417012,140.0,143.0
+Geothlypis formosa_Kentucky Warbler,0.3356894,140.0,143.0
+Geothlypis philadelphia_Mourning Warbler,0.99361587,141.0,144.0
+Geothlypis philadelphia_Mourning Warbler,0.99463093,142.0,145.0
+Geothlypis formosa_Kentucky Warbler,0.21621035,142.0,145.0
+Geothlypis formosa_Kentucky Warbler,0.29174194,143.0,146.0
+Vireo olivaceus_Red-eyed Vireo,0.16606043,143.0,146.0
+Vireo olivaceus_Red-eyed Vireo,0.3518085,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.28878194,145.0,148.0
+Vireo olivaceus_Red-eyed Vireo,0.1584001,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.4603947,146.0,149.0
+Vireo olivaceus_Red-eyed Vireo,0.1645928,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.18241483,147.0,150.0
+Seiurus aurocapilla_Ovenbird,0.13138744,148.0,151.0
+Seiurus aurocapilla_Ovenbird,0.49715644,149.0,152.0
+Piranga olivacea_Scarlet Tanager,0.24622948,149.0,152.0
+Vireo olivaceus_Red-eyed Vireo,0.17846088,149.0,152.0
+Piranga olivacea_Scarlet Tanager,0.57846594,150.0,153.0
+Vireo olivaceus_Red-eyed Vireo,0.35637802,150.0,153.0
+Vireo olivaceus_Red-eyed Vireo,0.3778791,151.0,154.0
+Piranga olivacea_Scarlet Tanager,0.32232362,151.0,154.0
+Vireo olivaceus_Red-eyed Vireo,0.42620665,152.0,155.0
+Empidonax virescens_Acadian Flycatcher,0.20125502,152.0,155.0
+Piranga olivacea_Scarlet Tanager,0.1690657,152.0,155.0
+Vireo olivaceus_Red-eyed Vireo,0.6813636,153.0,156.0
+Piranga olivacea_Scarlet Tanager,0.22976153,153.0,156.0
+Vireo olivaceus_Red-eyed Vireo,0.23276281,154.0,157.0
+Vireo olivaceus_Red-eyed Vireo,0.42723227,155.0,158.0
+Vireo olivaceus_Red-eyed Vireo,0.6325064,156.0,159.0
+Piranga olivacea_Scarlet Tanager,0.15310992,156.0,159.0
+Setophaga virens_Black-throated Green Warbler,0.13813129,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.49114332,157.0,160.0
+Cardellina canadensis_Canada Warbler,0.12930968,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.9565161,158.0,161.0
+Seiurus aurocapilla_Ovenbird,0.96472114,159.0,162.0
+Seiurus aurocapilla_Ovenbird,0.9430683,160.0,163.0
+Seiurus aurocapilla_Ovenbird,0.9323545,161.0,164.0
+Setophaga ruticilla_American Redstart,0.109194525,162.0,165.0
+Geothlypis philadelphia_Mourning Warbler,0.75680226,163.0,166.0
+Geothlypis philadelphia_Mourning Warbler,0.9677039,164.0,167.0
+Geothlypis philadelphia_Mourning Warbler,0.9923949,165.0,168.0
+Geothlypis philadelphia_Mourning Warbler,0.9698448,166.0,169.0
+Geothlypis formosa_Kentucky Warbler,0.50338846,166.0,169.0
+Seiurus aurocapilla_Ovenbird,0.4691379,167.0,170.0
+Vireo olivaceus_Red-eyed Vireo,0.3539315,167.0,170.0
+Vireo olivaceus_Red-eyed Vireo,0.3518964,168.0,171.0
+Seiurus aurocapilla_Ovenbird,0.30826274,168.0,171.0
+Piranga olivacea_Scarlet Tanager,0.11835964,168.0,171.0
+Geothlypis philadelphia_Mourning Warbler,0.17680098,173.0,176.0
+Cardellina canadensis_Canada Warbler,0.11673415,173.0,176.0
+Geothlypis philadelphia_Mourning Warbler,0.5006673,174.0,177.0
+Geothlypis formosa_Kentucky Warbler,0.21317828,174.0,177.0
+Geothlypis philadelphia_Mourning Warbler,0.5335304,175.0,178.0
+Geothlypis formosa_Kentucky Warbler,0.23483488,175.0,178.0
+Geothlypis philadelphia_Mourning Warbler,0.5028972,176.0,179.0
+Geothlypis formosa_Kentucky Warbler,0.31012383,176.0,179.0
+Tamias striatus_Eastern Chipmunk,0.11508592,180.0,183.0
+Tamias striatus_Eastern Chipmunk,0.2650792,182.0,185.0
+Seiurus aurocapilla_Ovenbird,0.17126942,182.0,185.0
+Seiurus aurocapilla_Ovenbird,0.34100598,183.0,186.0
+Tamias striatus_Eastern Chipmunk,0.10172644,183.0,186.0
+Seiurus aurocapilla_Ovenbird,0.28147784,184.0,187.0
+Tamias striatus_Eastern Chipmunk,0.24077448,184.0,187.0
+Seiurus aurocapilla_Ovenbird,0.37845984,185.0,188.0
+Tamias striatus_Eastern Chipmunk,0.30285102,185.0,188.0
+Tamias striatus_Eastern Chipmunk,0.10775121,186.0,189.0

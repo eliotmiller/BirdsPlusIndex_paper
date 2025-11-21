@@ -1,0 +1,20 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.1900282,0.0,3.0
+Ixobrychus exilis_Least Bittern,0.15009028,0.0,3.0
+Ixobrychus exilis_Least Bittern,0.12350224,1.0,4.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.96161807,3.0,6.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9749771,4.0,7.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9806107,5.0,8.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.123984165,5.0,8.0
+Acrocephalus rufescens_Greater Swamp Warbler,0.10856709,5.0,8.0
+Catharus minimus_Gray-cheeked Thrush,0.11799104,10.0,13.0
+Asio clamator_Striped Owl,0.14767973,13.0,16.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.7977377,14.0,17.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.928056,15.0,18.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9451338,16.0,19.0
+Nyctibius griseus_Common Potoo,0.13016643,17.0,20.0
+Asio clamator_Striped Owl,0.1360625,18.0,21.0
+Pulsatrix koeniswaldiana_Tawny-browed Owl,0.13356934,18.0,21.0
+Nyctibius griseus_Common Potoo,0.102677874,18.0,21.0
+Asio clamator_Striped Owl,0.18606836,20.0,23.0
+Gallinago undulata_Giant Snipe,0.1504979,20.0,23.0

@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Passerina cyanea_Indigo Bunting,0.5441535,0.0,3.0
+Geothlypis philadelphia_Mourning Warbler,0.2895949,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.41075236,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.15359156,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.49489233,4.0,7.0
+Coccothraustes coccothraustes_Hawfinch,0.10428288,4.0,7.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.14052816,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.13037176,5.0,8.0
+Trichothraupis melanops_Black-goggled Tanager,0.109621994,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.3074939,6.0,9.0
+Psaltriparus minimus_Bushtit,0.12966588,6.0,9.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11012383,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.3715337,7.0,10.0
+Psaltriparus minimus_Bushtit,0.2723696,7.0,10.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13982953,7.0,10.0
+Passerina cyanea_Indigo Bunting,0.30318266,8.0,11.0
+Psaltriparus minimus_Bushtit,0.18959303,8.0,11.0
+Passerina cyanea_Indigo Bunting,0.25386992,9.0,12.0
+Psaltriparus minimus_Bushtit,0.14941609,10.0,13.0
+Tachycineta bicolor_Tree Swallow,0.11846402,10.0,13.0
+Tachycineta bicolor_Tree Swallow,0.21946149,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.10102334,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.31591937,15.0,18.0
+Spizella pusilla_Field Sparrow,0.14766505,15.0,18.0
+Psaltriparus minimus_Bushtit,0.21652174,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.35683894,17.0,20.0
+Spizella pusilla_Field Sparrow,0.30545348,17.0,20.0
+Psaltriparus minimus_Bushtit,0.8131803,18.0,21.0
+Passerina cyanea_Indigo Bunting,0.12728691,18.0,21.0
+Passerina cyanea_Indigo Bunting,0.6425535,19.0,22.0
+Passerina cyanea_Indigo Bunting,0.70800656,20.0,23.0
+Psaltriparus minimus_Bushtit,0.17002906,20.0,23.0
+Passerina cyanea_Indigo Bunting,0.66294503,21.0,24.0
+Passerina cyanea_Indigo Bunting,0.95252085,22.0,25.0
+Passerina cyanea_Indigo Bunting,0.9170996,23.0,26.0
+Passerina cyanea_Indigo Bunting,0.61868197,24.0,27.0
+Spizella pusilla_Field Sparrow,0.72605705,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.40383828,25.0,28.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13218395,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.59302425,26.0,29.0
+Spizella pusilla_Field Sparrow,0.38824284,26.0,29.0
+Vermivora cyanoptera_Blue-winged Warbler,0.15944894,26.0,29.0
+Setophaga discolor_Prairie Warbler,0.10508926,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.37531114,27.0,30.0
+Spizella pusilla_Field Sparrow,0.37132502,27.0,30.0
+Vermivora cyanoptera_Blue-winged Warbler,0.16557129,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.6046701,28.0,31.0
+Vermivora cyanoptera_Blue-winged Warbler,0.16826732,28.0,31.0
+Spizella pusilla_Field Sparrow,0.14702988,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.16932668,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.15225038,30.0,33.0
+Passerina cyanea_Indigo Bunting,0.1954287,31.0,34.0
+Passerina cyanea_Indigo Bunting,0.2641583,32.0,35.0
+Passerina cyanea_Indigo Bunting,0.5193186,33.0,36.0
+Passerina amoena_Lazuli Bunting,0.10152164,33.0,36.0
+Passerina cyanea_Indigo Bunting,0.48053604,34.0,37.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.2698421,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.1535763,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.33328676,36.0,39.0
+Passerina cyanea_Indigo Bunting,0.57314396,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.4049376,38.0,41.0
+Spizella pusilla_Field Sparrow,0.2206226,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.44670123,39.0,42.0
+Spizella pusilla_Field Sparrow,0.23712312,39.0,42.0
+Passerina cyanea_Indigo Bunting,0.31608877,40.0,43.0
+Spizella pusilla_Field Sparrow,0.17548871,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.7120779,41.0,44.0
+Spizella pusilla_Field Sparrow,0.30108607,41.0,44.0
+Passerina cyanea_Indigo Bunting,0.9346439,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.93579376,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.77417606,44.0,47.0
+Passerina cyanea_Indigo Bunting,0.9561029,45.0,47.32802721088435

@@ -1,0 +1,79 @@
+species,score,start_time,end_time
+Motacilla cinerea_Gray Wagtail,0.3842624,1.0,4.0
+Spiza americana_Dickcissel,0.15450388,1.0,4.0
+Prinia socialis_Ashy Prinia,0.1054877,1.0,4.0
+Spiza americana_Dickcissel,0.39504698,2.0,5.0
+Motacilla cinerea_Gray Wagtail,0.30868694,2.0,5.0
+Motacilla cinerea_Gray Wagtail,0.7288031,3.0,6.0
+Prinia socialis_Ashy Prinia,0.24259059,3.0,6.0
+Spiza americana_Dickcissel,0.8803172,5.0,8.0
+Spiza americana_Dickcissel,0.9303013,6.0,9.0
+Spiza americana_Dickcissel,0.83837754,7.0,10.0
+Sturnella magna_Eastern Meadowlark,0.7029618,10.0,13.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.121025436,10.0,13.0
+Sturnella magna_Eastern Meadowlark,0.82917684,11.0,14.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.10279789,11.0,14.0
+Spiza americana_Dickcissel,0.15091528,12.0,15.0
+Spiza americana_Dickcissel,0.9233368,13.0,16.0
+Spiza americana_Dickcissel,0.84973925,14.0,17.0
+Spiza americana_Dickcissel,0.10745265,15.0,18.0
+Sturnella magna_Eastern Meadowlark,0.8594414,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.8151049,18.0,21.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.17610249,18.0,21.0
+Spiza americana_Dickcissel,0.6532092,19.0,22.0
+Spiza americana_Dickcissel,0.9037608,20.0,23.0
+Spiza americana_Dickcissel,0.9260644,21.0,24.0
+Cinclus cinclus_White-throated Dipper,0.23156549,23.0,26.0
+Spiza americana_Dickcissel,0.92080045,24.0,27.0
+Spiza americana_Dickcissel,0.81455463,25.0,28.0
+Spiza americana_Dickcissel,0.73031837,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.4828796,27.0,30.0
+Sturnella magna_Eastern Meadowlark,0.27822915,27.0,30.0
+Sturnella magna_Eastern Meadowlark,0.21711832,29.0,32.0
+Sturnella magna_Eastern Meadowlark,0.597933,31.0,34.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.39159715,31.0,34.0
+Spiza americana_Dickcissel,0.15062879,32.0,35.0
+Spiza americana_Dickcissel,0.9588714,33.0,36.0
+Spiza americana_Dickcissel,0.9489655,34.0,37.0
+Setophaga ruticilla_American Redstart,0.12566899,35.0,38.0
+Motacilla cinerea_Gray Wagtail,0.12133173,35.0,38.0
+Setophaga occidentalis_Hermit Warbler,0.113266505,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.10746882,35.0,38.0
+Emberiza calandra_Corn Bunting,0.24885188,36.0,39.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.18546636,36.0,39.0
+Spiza americana_Dickcissel,0.15777487,36.0,39.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.11581111,36.0,39.0
+Spiza americana_Dickcissel,0.8886968,37.0,40.0
+Spiza americana_Dickcissel,0.8557385,38.0,41.0
+Motacilla cinerea_Gray Wagtail,0.2967382,39.0,42.0
+Spiza americana_Dickcissel,0.21968664,39.0,42.0
+Prinia socialis_Ashy Prinia,0.161085,39.0,42.0
+Sturnella magna_Eastern Meadowlark,0.4339059,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10193793,40.0,43.0
+Sturnella magna_Eastern Meadowlark,0.28260666,41.0,44.0
+Agelaius phoeniceus_Red-winged Blackbird,0.27723885,42.0,45.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6714058,43.0,46.0
+Sturnella magna_Eastern Meadowlark,0.19328128,43.0,46.0
+Agelaius phoeniceus_Red-winged Blackbird,0.70411646,44.0,47.0
+Rallus limicola_Virginia Rail,0.13378617,44.0,47.0
+Melanospiza bicolor_Black-faced Grassquit,0.16177681,45.0,48.0
+Emberiza tahapisi_Cinnamon-breasted Bunting,0.13412383,45.0,48.0
+Spiza americana_Dickcissel,0.95138025,46.0,49.0
+Spiza americana_Dickcissel,0.92203206,47.0,50.0
+Setophaga occidentalis_Hermit Warbler,0.16707034,48.0,51.0
+Sturnella magna_Eastern Meadowlark,0.9701198,49.0,52.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.29408142,49.0,52.0
+Sturnella magna_Eastern Meadowlark,0.8751028,50.0,53.0
+Spiza americana_Dickcissel,0.3000561,50.0,53.0
+Spiza americana_Dickcissel,0.86398685,51.0,54.0
+Spiza americana_Dickcissel,0.9015068,52.0,55.0
+Spiza americana_Dickcissel,0.9171358,53.0,56.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.33952987,56.0,59.0
+Spiza americana_Dickcissel,0.15047084,56.0,59.0
+Spiza americana_Dickcissel,0.92460793,57.0,60.0
+Spiza americana_Dickcissel,0.77173877,58.0,61.0
+Spiza americana_Dickcissel,0.7740869,59.0,62.0
+Sturnella magna_Eastern Meadowlark,0.26305822,59.0,62.0
+Agelaius phoeniceus_Red-winged Blackbird,0.35090992,60.0,63.0
+Sturnella magna_Eastern Meadowlark,0.13227741,60.0,63.0
+Agelaius phoeniceus_Red-winged Blackbird,0.4112664,61.0,64.0

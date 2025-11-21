@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.12911746,1.0,4.0
+Accipiter gentilis_Northern Goshawk,0.47525004,2.0,5.0
+Accipiter gentilis_Northern Goshawk,0.24042618,3.0,6.0
+Accipiter gentilis_Northern Goshawk,0.194792,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.18409404,5.0,8.0
+Catharus fuscescens_Veery,0.1163388,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.10243884,5.0,8.0
+Bubo virginianus_Great Horned Owl,0.5396579,10.0,13.0
+Rallus aquaticus_Water Rail,0.33222008,10.0,13.0
+Buteo jamaicensis_Red-tailed Hawk,0.10417883,10.0,13.0
+Bubo virginianus_Great Horned Owl,0.38065165,11.0,14.0
+Bubo virginianus_Great Horned Owl,0.6359861,12.0,15.0
+Buteo jamaicensis_Red-tailed Hawk,0.5212399,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.38123402,18.0,21.0
+Buteo swainsoni_Swainson's Hawk,0.15545408,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.54403037,19.0,22.0
+Buteo jamaicensis_Red-tailed Hawk,0.27146798,19.0,22.0
+Buteo jamaicensis_Red-tailed Hawk,0.58462447,20.0,23.0
+Todiramphus sordidus_Torresian Kingfisher,0.13113385,21.0,24.0
+Rupornis magnirostris_Roadside Hawk,0.1080867,21.0,24.0
+Bubo virginianus_Great Horned Owl,0.43260592,26.0,29.0
+Accipiter gentilis_Northern Goshawk,0.22824599,26.0,29.0
+Bubo virginianus_Great Horned Owl,0.34511325,27.0,30.0
+Accipiter gentilis_Northern Goshawk,0.23843992,27.0,30.0
+Accipiter gentilis_Northern Goshawk,0.46438834,28.0,31.0
+Bubo virginianus_Great Horned Owl,0.26032144,28.0,31.0
+Bubo virginianus_Great Horned Owl,0.15847358,30.0,33.0
+Bubo virginianus_Great Horned Owl,0.18086816,31.0,34.0
+Bubo virginianus_Great Horned Owl,0.27828676,38.0,41.0
+Bubo virginianus_Great Horned Owl,0.5325561,39.0,42.0
+Rallus aquaticus_Water Rail,0.21885704,39.0,42.0
+Rallus aquaticus_Water Rail,0.18213682,40.0,43.0
+Bubo virginianus_Great Horned Owl,0.1539428,40.0,43.0
+Buteo jamaicensis_Red-tailed Hawk,0.7054137,41.0,44.0
+Buteo buteo_Common Buzzard,0.1567915,41.0,44.0
+Accipiter gentilis_Northern Goshawk,0.109059185,41.0,44.0
+Bubo virginianus_Great Horned Owl,0.61250913,48.0,51.0
+Buteo jamaicensis_Red-tailed Hawk,0.18547523,48.0,51.0
+Bubo virginianus_Great Horned Owl,0.23975436,49.0,52.0
+Bubo virginianus_Great Horned Owl,0.6102247,50.0,53.0
+Buteo jamaicensis_Red-tailed Hawk,0.18956809,50.0,53.0
+Bubo virginianus_Great Horned Owl,0.72945815,56.0,59.0
+Bubo virginianus_Great Horned Owl,0.19954237,57.0,60.0
+Buteo jamaicensis_Red-tailed Hawk,0.15506767,58.0,61.0
+Bubo virginianus_Great Horned Owl,0.24820435,59.0,62.0
+Buteo jamaicensis_Red-tailed Hawk,0.12272654,59.0,62.0
+Bubo virginianus_Great Horned Owl,0.3051305,60.0,63.0
+Cyanocorax yncas_Green Jay,0.28397042,60.0,63.0
+Bubo virginianus_Great Horned Owl,0.33287632,61.0,64.0
+Bubo virginianus_Great Horned Owl,0.35599935,62.0,65.0
+Buteo jamaicensis_Red-tailed Hawk,0.30005118,63.0,66.0
+Bubo virginianus_Great Horned Owl,0.46690384,68.0,71.0
+Bubo virginianus_Great Horned Owl,0.48507515,69.0,72.0
+Bubo virginianus_Great Horned Owl,0.22216196,70.0,73.0
+Bubo virginianus_Great Horned Owl,0.7661248,74.0,77.0
+Buteo jamaicensis_Red-tailed Hawk,0.16244034,74.0,77.0
+Cyanocitta cristata_Blue Jay,0.121233396,74.0,77.0
+Accipiter gentilis_Northern Goshawk,0.17982775,75.0,78.0
+Buteo jamaicensis_Red-tailed Hawk,0.15255083,75.0,78.0
+Accipiter gentilis_Northern Goshawk,0.47864795,76.0,79.0
+Buteo jamaicensis_Red-tailed Hawk,0.19406478,76.0,79.0
+Bubo virginianus_Great Horned Owl,0.18754186,76.0,79.0
+Buteo jamaicensis_Red-tailed Hawk,0.28529695,77.0,80.0
+Accipiter gentilis_Northern Goshawk,0.2469637,77.0,80.0
+Buteo buteo_Common Buzzard,0.24442054,77.0,80.0
+Bubo virginianus_Great Horned Owl,0.40915084,81.0,84.0
+Ixoreus naevius_Varied Thrush,0.10905298,81.0,84.0
+Bubo virginianus_Great Horned Owl,0.40605205,82.0,85.0
+Bubo virginianus_Great Horned Owl,0.26729986,83.0,86.0
+Ixoreus naevius_Varied Thrush,0.112333,83.0,86.0
+Bubo virginianus_Great Horned Owl,0.9249014,86.0,89.0
+Bubo virginianus_Great Horned Owl,0.21275657,87.0,90.0
+Accipiter gentilis_Northern Goshawk,0.5336156,88.0,91.0
+Accipiter gentilis_Northern Goshawk,0.3606546,89.0,92.0
+Buteo jamaicensis_Red-tailed Hawk,0.24836434,89.0,92.0
+Bubo virginianus_Great Horned Owl,0.74115884,91.0,94.0
+Ixoreus naevius_Varied Thrush,0.14994767,91.0,94.0
+Bubo virginianus_Great Horned Owl,0.13848297,92.0,95.0
+Bubo virginianus_Great Horned Owl,0.41463622,93.0,96.0

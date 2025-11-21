@@ -1,0 +1,127 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.85675776,0.0,3.0
+Poecile atricapillus_Black-capped Chickadee,0.19232251,0.0,3.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.19910406,1.0,4.0
+Poecile palustris_Marsh Tit,0.13312209,1.0,4.0
+Poecile hudsonicus_Boreal Chickadee,0.56712496,2.0,5.0
+Poecile carolinensis_Carolina Chickadee,0.43239963,2.0,5.0
+Poecile carolinensis_Carolina Chickadee,0.89910114,3.0,6.0
+Poecile hudsonicus_Boreal Chickadee,0.38681048,3.0,6.0
+Poecile hudsonicus_Boreal Chickadee,0.74347353,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.37046754,4.0,7.0
+Poecile carolinensis_Carolina Chickadee,0.11259903,4.0,7.0
+Poecile carolinensis_Carolina Chickadee,0.85786957,6.0,9.0
+Poecile carolinensis_Carolina Chickadee,0.8918328,7.0,10.0
+Poecile carolinensis_Carolina Chickadee,0.4110317,8.0,11.0
+Poecile carolinensis_Carolina Chickadee,0.9378018,9.0,12.0
+Poecile hudsonicus_Boreal Chickadee,0.102926426,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.9500305,10.0,13.0
+Poecile atricapillus_Black-capped Chickadee,0.10503599,10.0,13.0
+Poecile carolinensis_Carolina Chickadee,0.88156885,11.0,14.0
+Poecile hudsonicus_Boreal Chickadee,0.17218064,11.0,14.0
+Poecile carolinensis_Carolina Chickadee,0.8809838,12.0,15.0
+Poecile carolinensis_Carolina Chickadee,0.968235,13.0,16.0
+Poecile carolinensis_Carolina Chickadee,0.97284734,14.0,17.0
+Poecile atricapillus_Black-capped Chickadee,0.21690167,14.0,17.0
+Poecile carolinensis_Carolina Chickadee,0.95781785,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.63692576,17.0,20.0
+Poecile hudsonicus_Boreal Chickadee,0.10312957,17.0,20.0
+Poecile carolinensis_Carolina Chickadee,0.93415,18.0,21.0
+Poecile carolinensis_Carolina Chickadee,0.9361084,19.0,22.0
+Poecile carolinensis_Carolina Chickadee,0.9410938,20.0,23.0
+Poecile carolinensis_Carolina Chickadee,0.80289674,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.17639382,25.0,28.0
+Leiothlypis crissalis_Colima Warbler,0.19380757,27.0,30.0
+Poecile carolinensis_Carolina Chickadee,0.92017287,30.0,33.0
+Poecile carolinensis_Carolina Chickadee,0.95764387,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.14317854,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.8776026,32.0,35.0
+Setophaga discolor_Prairie Warbler,0.26357213,39.0,42.0
+Setophaga discolor_Prairie Warbler,0.2013882,40.0,43.0
+Setophaga discolor_Prairie Warbler,0.16867206,41.0,44.0
+Atrichornis rufescens_Rufous Scrub-bird,0.11145043,41.0,44.0
+Atrichornis rufescens_Rufous Scrub-bird,0.23933102,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.31686503,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.4814812,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.11636782,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.58606094,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.15035968,50.0,53.0
+Numenius phaeopus_Whimbrel,0.1831078,51.0,54.0
+Dryocopus pileatus_Pileated Woodpecker,0.12165175,52.0,55.0
+Pandion haliaetus_Osprey,0.17164606,53.0,56.0
+Zenaida macroura_Mourning Dove,0.15594964,55.0,58.0
+Picus canus_Gray-headed Woodpecker,0.12613909,59.0,62.0
+Poecile carolinensis_Carolina Chickadee,0.34675875,61.0,64.0
+Poecile atricapillus_Black-capped Chickadee,0.15526196,61.0,64.0
+Poecile carolinensis_Carolina Chickadee,0.8337669,62.0,65.0
+Poecile carolinensis_Carolina Chickadee,0.87633747,63.0,66.0
+Poecile carolinensis_Carolina Chickadee,0.9488477,64.0,67.0
+Baeolophus atricristatus_Black-crested Titmouse,0.20585391,64.0,67.0
+Regulus regulus_Goldcrest,0.14314315,65.0,68.0
+Certhia americana_Brown Creeper,0.10856522,65.0,68.0
+Certhia americana_Brown Creeper,0.21780801,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.122776285,67.0,70.0
+Terpsiphone atrocaudata_Japanese Paradise-Flycatcher,0.1909047,69.0,72.0
+Baeolophus atricristatus_Black-crested Titmouse,0.22960426,73.0,76.0
+Peucaea aestivalis_Bachman's Sparrow,0.13996153,73.0,76.0
+Baeolophus atricristatus_Black-crested Titmouse,0.29379615,74.0,77.0
+Certhia americana_Brown Creeper,0.45365053,76.0,79.0
+Certhia americana_Brown Creeper,0.22645473,77.0,80.0
+Certhia familiaris_Eurasian Treecreeper,0.10898385,80.0,83.0
+Regulus regulus_Goldcrest,0.51786333,81.0,84.0
+Certhia familiaris_Eurasian Treecreeper,0.11944333,81.0,84.0
+Certhia americana_Brown Creeper,0.11244058,82.0,85.0
+Peucaea aestivalis_Bachman's Sparrow,0.10644866,82.0,85.0
+Setophaga tigrina_Cape May Warbler,0.24965614,83.0,86.0
+Poecile carolinensis_Carolina Chickadee,0.5204588,88.0,91.0
+Polioptila melanura_Black-tailed Gnatcatcher,0.19114456,88.0,91.0
+Poecile carolinensis_Carolina Chickadee,0.81127506,89.0,92.0
+Baeolophus atricristatus_Black-crested Titmouse,0.11112743,89.0,92.0
+Poecile carolinensis_Carolina Chickadee,0.6932656,90.0,93.0
+Poecile montanus_Willow Tit,0.17032807,90.0,93.0
+Poecile carolinensis_Carolina Chickadee,0.26313296,91.0,94.0
+Polioptila melanura_Black-tailed Gnatcatcher,0.20680858,91.0,94.0
+Poecile montanus_Willow Tit,0.12673609,91.0,94.0
+Zenaida macroura_Mourning Dove,0.18057728,92.0,95.0
+Setophaga discolor_Prairie Warbler,0.2389632,93.0,96.0
+Zenaida macroura_Mourning Dove,0.17982873,93.0,96.0
+Setophaga discolor_Prairie Warbler,0.47540668,94.0,97.0
+Zenaida macroura_Mourning Dove,0.3515284,94.0,97.0
+Zenaida macroura_Mourning Dove,0.6294221,95.0,98.0
+Setophaga discolor_Prairie Warbler,0.5151913,95.0,98.0
+Setophaga discolor_Prairie Warbler,0.755052,96.0,99.0
+Zenaida macroura_Mourning Dove,0.6907427,96.0,99.0
+Zenaida macroura_Mourning Dove,0.93877584,97.0,100.0
+Peucaea aestivalis_Bachman's Sparrow,0.10645879,97.0,100.0
+Atrichornis rufescens_Rufous Scrub-bird,0.17680131,99.0,102.0
+Certhia americana_Brown Creeper,0.14179452,101.0,104.0
+Certhia americana_Brown Creeper,0.33704886,102.0,105.0
+Certhia americana_Brown Creeper,0.22545156,103.0,106.0
+Regulus satrapa_Golden-crowned Kinglet,0.1908136,103.0,106.0
+Setophaga tigrina_Cape May Warbler,0.11897166,103.0,106.0
+Poecile carolinensis_Carolina Chickadee,0.4632586,107.0,110.0
+Poecile carolinensis_Carolina Chickadee,0.37857878,108.0,111.0
+Poecile carolinensis_Carolina Chickadee,0.65271896,109.0,112.0
+Setophaga discolor_Prairie Warbler,0.46051902,116.0,119.0
+Setophaga discolor_Prairie Warbler,0.22111823,117.0,120.0
+Setophaga discolor_Prairie Warbler,0.25316668,118.0,121.0
+Tricholaema lacrymosa_Spot-flanked Barbet,0.199834,119.0,122.0
+Tricholaema lacrymosa_Spot-flanked Barbet,0.14152889,120.0,123.0
+Setophaga discolor_Prairie Warbler,0.61291134,124.0,127.0
+Setophaga discolor_Prairie Warbler,0.5833192,125.0,128.0
+Setophaga discolor_Prairie Warbler,0.57428235,126.0,129.0
+Setophaga discolor_Prairie Warbler,0.2356384,127.0,130.0
+Leiothlypis crissalis_Colima Warbler,0.10661572,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12779981,133.0,136.0
+Setophaga discolor_Prairie Warbler,0.39016443,149.0,152.0
+Setophaga discolor_Prairie Warbler,0.5709962,153.0,156.0
+Setophaga discolor_Prairie Warbler,0.7784836,154.0,157.0
+Setophaga discolor_Prairie Warbler,0.8091173,155.0,158.0
+Setophaga discolor_Prairie Warbler,0.53433025,156.0,159.0
+Setophaga discolor_Prairie Warbler,0.623592,159.0,162.0
+Setophaga discolor_Prairie Warbler,0.92280537,160.0,163.0
+Setophaga discolor_Prairie Warbler,0.59576166,161.0,164.0
+Setophaga discolor_Prairie Warbler,0.76535094,162.0,165.0
+Setophaga discolor_Prairie Warbler,0.2614886,163.0,166.0
+Setophaga discolor_Prairie Warbler,0.47603697,164.0,166.48802721088435
+Basileuterus tristriatus_Three-striped Warbler,0.13409747,164.0,166.48802721088435
