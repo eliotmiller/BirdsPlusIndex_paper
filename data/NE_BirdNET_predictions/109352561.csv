@@ -1,0 +1,20 @@
+species,score,start_time,end_time
+Charadrius semipalmatus_Semipalmated Plover,0.24258716,0.0,3.0
+Charadrius hiaticula_Common Ringed Plover,0.11459374,0.0,3.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.22203638,1.0,4.0
+Charadrius semipalmatus_Semipalmated Plover,0.19922529,1.0,4.0
+Charadrius hiaticula_Common Ringed Plover,0.124457575,1.0,4.0
+Pluvialis dominica_American Golden-Plover,0.17655438,5.0,8.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.15749623,6.0,9.0
+Charadrius hiaticula_Common Ringed Plover,0.26134577,7.0,10.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.17467998,7.0,10.0
+Charadrius hiaticula_Common Ringed Plover,0.24448086,8.0,11.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.24236557,8.0,11.0
+Charadrius hiaticula_Common Ringed Plover,0.28201693,9.0,12.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.12853405,9.0,12.0
+Gelochelidon nilotica_Gull-billed Tern,0.21136546,10.0,13.0
+Charadrius hiaticula_Common Ringed Plover,0.60991037,11.0,14.0
+Charadrius hiaticula_Common Ringed Plover,0.3682507,12.0,15.0
+Charadrius hiaticula_Common Ringed Plover,0.88149416,13.0,16.0
+Branta canadensis_Canada Goose,0.16312002,14.0,16.464036281179137
+Cygnus olor_Mute Swan,0.10929656,14.0,16.464036281179137

@@ -1,0 +1,134 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.18718581,0.0,3.0
+Florisuga mellivora_White-necked Jacobin,0.11028875,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.3333525,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.1885835,4.0,7.0
+Canachites canadensis_Spruce Grouse,0.106867805,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.289651,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.5766836,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.66101384,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16436845,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.61454207,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4332522,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.7396475,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28349492,9.0,12.0
+Arremonops rufivirgatus_Olive Sparrow,0.2540906,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.16376789,11.0,14.0
+Arremonops rufivirgatus_Olive Sparrow,0.14756763,11.0,14.0
+Arremonops rufivirgatus_Olive Sparrow,0.17857695,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.106482245,12.0,15.0
+Arremonops rufivirgatus_Olive Sparrow,0.23685804,13.0,16.0
+Arremonops rufivirgatus_Olive Sparrow,0.13977364,14.0,17.0
+Zenaida macroura_Mourning Dove,0.10629867,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.49835557,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.26951405,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.37431267,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.662346,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15396643,19.0,22.0
+Arremonops rufivirgatus_Olive Sparrow,0.17088284,21.0,24.0
+Arremonops rufivirgatus_Olive Sparrow,0.1044236,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4472468,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.36847958,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.70635045,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13960743,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.505566,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.5306733,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.19937854,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.35826227,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.44017497,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.6523474,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1016685,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.45446983,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.5178742,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33558717,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.26068962,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20257144,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.39667097,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13660535,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.501754,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.3603934,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.19707868,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.40905386,38.0,41.0
+Zenaida macroura_Mourning Dove,0.29475316,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20429724,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.12673347,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.17394547,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12598188,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18534754,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5242342,45.0,48.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.1712524,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.10405249,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4545206,46.0,49.0
+Junco hyemalis_Dark-eyed Junco,0.29644135,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29024974,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.12746793,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.11999469,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33833724,48.0,51.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18629898,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.14759755,48.0,51.0
+Zenaida macroura_Mourning Dove,0.31195432,49.0,52.0
+Melospiza lincolnii_Lincoln's Sparrow,0.15970391,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14650045,49.0,52.0
+Zenaida macroura_Mourning Dove,0.4078783,50.0,53.0
+Melospiza lincolnii_Lincoln's Sparrow,0.23005831,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20685585,50.0,53.0
+Melospiza lincolnii_Lincoln's Sparrow,0.37679282,51.0,54.0
+Zenaida macroura_Mourning Dove,0.16238761,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11266549,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23129724,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.10214594,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24134496,53.0,56.0
+Junco hyemalis_Dark-eyed Junco,0.10983016,53.0,56.0
+Catharus fuscescens_Veery,0.11726783,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.11615003,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16466174,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10573804,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.24826923,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20395605,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.80080324,61.0,64.0
+Zenaida macroura_Mourning Dove,0.13157079,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.9677852,62.0,65.0
+Zenaida macroura_Mourning Dove,0.13510235,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.9703888,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.96561897,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.70835346,65.0,68.0
+Catharus fuscescens_Veery,0.18819654,66.0,69.0
+Catharus fuscescens_Veery,0.538977,67.0,70.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10265461,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.52390134,69.0,72.0
+Cardellina canadensis_Canada Warbler,0.19258365,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.18806398,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.71680295,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.19779769,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.13864176,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5825332,71.0,74.0
+Cardellina canadensis_Canada Warbler,0.24873342,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.12553388,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48798797,72.0,75.0
+Cardellina canadensis_Canada Warbler,0.22542056,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.11194999,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.29019794,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22269173,73.0,76.0
+Cardellina canadensis_Canada Warbler,0.15679897,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3542553,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.24742325,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.16115631,75.0,78.0
+Catharus fuscescens_Veery,0.108133025,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.21272042,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10248012,76.0,79.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18887186,87.0,90.0
+Melozone leucotis_White-eared Ground-Sparrow,0.1454474,88.0,91.0
+Catharus fuscescens_Veery,0.32323763,89.0,92.0
+Catharus fuscescens_Veery,0.15586899,90.0,93.0
+Catharus fuscescens_Veery,0.31913227,91.0,94.0
+Catharus fuscescens_Veery,0.508432,95.0,98.0
+Catharus fuscescens_Veery,0.84369576,96.0,99.0
+Catharus fuscescens_Veery,0.97379535,97.0,100.0
+Catharus fuscescens_Veery,0.8208303,98.0,101.0
+Catharus fuscescens_Veery,0.4831588,99.0,102.0
+Catharus fuscescens_Veery,0.16391835,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.15671016,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.10067495,104.0,107.0
+Catharus fuscescens_Veery,0.46186426,108.0,111.0
+Catharus fuscescens_Veery,0.20064178,109.0,112.0
+Patagioenas fasciata_Band-tailed Pigeon,0.15606903,110.0,113.0

@@ -1,0 +1,121 @@
+species,score,start_time,end_time
+Sayornis phoebe_Eastern Phoebe,0.50026804,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.14354622,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.12861,0.0,3.0
+Sayornis phoebe_Eastern Phoebe,0.39133608,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.16540246,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.14030832,1.0,4.0
+Sayornis phoebe_Eastern Phoebe,0.5468831,2.0,5.0
+Melospiza melodia_Song Sparrow,0.33676493,3.0,6.0
+Sayornis phoebe_Eastern Phoebe,0.13145158,3.0,6.0
+Melospiza melodia_Song Sparrow,0.58478147,4.0,7.0
+Melospiza melodia_Song Sparrow,0.5317829,5.0,8.0
+Sayornis phoebe_Eastern Phoebe,0.10763794,5.0,8.0
+Melospiza melodia_Song Sparrow,0.524792,6.0,9.0
+Sayornis phoebe_Eastern Phoebe,0.11145311,7.0,10.0
+Sayornis phoebe_Eastern Phoebe,0.66762084,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.23672412,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.30222264,10.0,13.0
+Leiothlypis celata_Orange-crowned Warbler,0.12822127,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20186317,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.10553027,12.0,15.0
+Melospiza melodia_Song Sparrow,0.34373876,13.0,16.0
+Melospiza melodia_Song Sparrow,0.82515764,14.0,17.0
+Melospiza melodia_Song Sparrow,0.7415006,15.0,18.0
+Sayornis phoebe_Eastern Phoebe,0.30840528,16.0,19.0
+Melospiza melodia_Song Sparrow,0.23695824,16.0,19.0
+Certhia americana_Brown Creeper,0.779288,17.0,20.0
+Sayornis phoebe_Eastern Phoebe,0.15277216,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.11636564,17.0,20.0
+Sayornis phoebe_Eastern Phoebe,0.42038664,18.0,21.0
+Catharus guttatus_Hermit Thrush,0.13431267,18.0,21.0
+Sayornis phoebe_Eastern Phoebe,0.20892213,19.0,22.0
+Sayornis phoebe_Eastern Phoebe,0.5009178,20.0,23.0
+Sayornis phoebe_Eastern Phoebe,0.6776407,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.12315492,21.0,24.0
+Sayornis phoebe_Eastern Phoebe,0.72814345,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.5909074,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.5539264,23.0,26.0
+Poecile atricapillus_Black-capped Chickadee,0.16996919,23.0,26.0
+Sayornis phoebe_Eastern Phoebe,0.149475,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13732702,23.0,26.0
+Melospiza melodia_Song Sparrow,0.4294873,24.0,27.0
+Melospiza melodia_Song Sparrow,0.8864289,25.0,28.0
+Melospiza melodia_Song Sparrow,0.71773446,26.0,29.0
+Melospiza melodia_Song Sparrow,0.195366,27.0,30.0
+Vermivora cyanoptera_Blue-winged Warbler,0.101204656,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20416811,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.1854831,29.0,32.0
+Geothlypis trichas_Common Yellowthroat,0.15848346,29.0,32.0
+Poecile atricapillus_Black-capped Chickadee,0.43813977,30.0,33.0
+Sayornis phoebe_Eastern Phoebe,0.13331285,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.11185607,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.48114958,31.0,34.0
+Sayornis phoebe_Eastern Phoebe,0.27110285,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.108012006,31.0,34.0
+Sayornis phoebe_Eastern Phoebe,0.27791,33.0,36.0
+Melospiza melodia_Song Sparrow,0.1466323,33.0,36.0
+Melospiza melodia_Song Sparrow,0.41722354,34.0,37.0
+Melospiza melodia_Song Sparrow,0.22903915,35.0,38.0
+Melospiza melodia_Song Sparrow,0.20367153,36.0,39.0
+Sayornis phoebe_Eastern Phoebe,0.27938923,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.18454912,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11643827,37.0,40.0
+Sayornis phoebe_Eastern Phoebe,0.3948677,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.16717961,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.13872519,38.0,41.0
+Sayornis phoebe_Eastern Phoebe,0.75673354,39.0,42.0
+Spizella passerina_Chipping Sparrow,0.12608068,40.0,43.0
+Peucaea aestivalis_Bachman's Sparrow,0.10882263,40.0,43.0
+Peucaea carpalis_Rufous-winged Sparrow,0.41446102,42.0,45.0
+Melospiza melodia_Song Sparrow,0.62329334,43.0,46.0
+Melospiza melodia_Song Sparrow,0.56885827,44.0,47.0
+Melospiza melodia_Song Sparrow,0.21962789,45.0,48.0
+Sayornis phoebe_Eastern Phoebe,0.12406612,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.55507725,47.0,50.0
+Sayornis phoebe_Eastern Phoebe,0.11274345,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.11163199,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.16679609,48.0,51.0
+Sayornis phoebe_Eastern Phoebe,0.11440599,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.25369036,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.13897927,49.0,52.0
+Sayornis phoebe_Eastern Phoebe,0.2074361,50.0,53.0
+Peucaea carpalis_Rufous-winged Sparrow,0.57239676,51.0,54.0
+Melospiza melodia_Song Sparrow,0.22454362,52.0,55.0
+Melospiza melodia_Song Sparrow,0.5264359,53.0,56.0
+Melospiza melodia_Song Sparrow,0.52021,54.0,57.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.17546305,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.3241391,56.0,59.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23514637,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.13678813,56.0,59.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.107909255,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.41818455,57.0,60.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25863892,57.0,60.0
+Poecile atricapillus_Black-capped Chickadee,0.15068194,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.11408967,57.0,60.0
+Turdus cardis_Japanese Thrush,0.21045056,58.0,61.0
+Poecile atricapillus_Black-capped Chickadee,0.19675975,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.19085646,58.0,61.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12701082,58.0,61.0
+Turdus migratorius_American Robin,0.1204698,58.0,61.0
+Hylocichla mustelina_Wood Thrush,0.10995255,58.0,61.0
+Turdus migratorius_American Robin,0.2416165,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.14561851,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.11588922,60.0,63.0
+Turdus migratorius_American Robin,0.23855706,61.0,64.0
+Turdus migratorius_American Robin,0.20472707,63.0,66.0
+Piranga rubra_Summer Tanager,0.12956984,63.0,66.0
+Turdus migratorius_American Robin,0.3730674,64.0,67.0
+Peucaea carpalis_Rufous-winged Sparrow,0.31408226,65.0,68.0
+Chaetura pelagica_Chimney Swift,0.117295235,65.0,68.0
+Melospiza melodia_Song Sparrow,0.67096835,67.0,70.0
+Melospiza melodia_Song Sparrow,0.3717913,68.0,71.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.21070373,69.0,72.0
+Emberiza spodocephala_Black-faced Bunting,0.15570472,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.107564636,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.16988635,73.0,76.0
+Melospiza melodia_Song Sparrow,0.25396448,77.0,80.0
+Peucaea carpalis_Rufous-winged Sparrow,0.11879684,77.0,80.0
+Melospiza melodia_Song Sparrow,0.8499669,79.0,82.0
+Melospiza melodia_Song Sparrow,0.40057638,80.0,83.0
+Melospiza melodia_Song Sparrow,0.12140062,81.0,84.0

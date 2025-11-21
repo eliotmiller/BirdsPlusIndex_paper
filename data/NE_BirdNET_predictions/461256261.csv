@@ -1,0 +1,192 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9047744,0.0,3.0
+Geothlypis philadelphia_Mourning Warbler,0.38822597,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.11697102,1.0,4.0
+Catharus fuscescens_Veery,0.28355864,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2617227,3.0,6.0
+Catharus fuscescens_Veery,0.769442,4.0,7.0
+Catharus fuscescens_Veery,0.9850605,5.0,8.0
+Catharus fuscescens_Veery,0.9209656,6.0,9.0
+Catharus fuscescens_Veery,0.9547033,7.0,10.0
+Contopus virens_Eastern Wood-Pewee,0.14474896,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.12753683,10.0,13.0
+Catharus fuscescens_Veery,0.29555044,11.0,14.0
+Catharus fuscescens_Veery,0.46390718,13.0,16.0
+Vireo flavifrons_Yellow-throated Vireo,0.33496332,18.0,21.0
+Catharus fuscescens_Veery,0.24252929,18.0,21.0
+Catharus fuscescens_Veery,0.45055366,19.0,22.0
+Geothlypis philadelphia_Mourning Warbler,0.25571284,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.18116847,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.14460687,21.0,24.0
+Geothlypis philadelphia_Mourning Warbler,0.16893001,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.15112332,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.10858315,22.0,25.0
+Geothlypis philadelphia_Mourning Warbler,0.15021574,23.0,26.0
+Catharus fuscescens_Veery,0.86037755,25.0,28.0
+Catharus fuscescens_Veery,0.41536662,26.0,29.0
+Geothlypis philadelphia_Mourning Warbler,0.24550568,27.0,30.0
+Catharus fuscescens_Veery,0.120272964,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.19181046,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14293389,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.10027531,28.0,31.0
+Geothlypis philadelphia_Mourning Warbler,0.12592542,29.0,32.0
+Ixoreus naevius_Varied Thrush,0.7680154,30.0,33.0
+Catharus fuscescens_Veery,0.41955107,35.0,38.0
+Catharus fuscescens_Veery,0.11039028,36.0,39.0
+Catharus fuscescens_Veery,0.4742693,38.0,41.0
+Catharus fuscescens_Veery,0.40684444,39.0,42.0
+Contopus virens_Eastern Wood-Pewee,0.27175283,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.17294171,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11249574,39.0,42.0
+Catharus fuscescens_Veery,0.68739104,40.0,43.0
+Ficedula parva_Red-breasted Flycatcher,0.10853389,41.0,44.0
+Catharus fuscescens_Veery,0.18108301,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.112086974,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.71983176,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.42056736,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.20612803,46.0,49.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.16316405,46.0,49.0
+Contopus virens_Eastern Wood-Pewee,0.19017597,47.0,50.0
+Catharus fuscescens_Veery,0.11885563,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.10771077,47.0,50.0
+Catharus fuscescens_Veery,0.3477054,48.0,51.0
+Geothlypis philadelphia_Mourning Warbler,0.2522173,48.0,51.0
+Catharus fuscescens_Veery,0.9001834,49.0,52.0
+Catharus fuscescens_Veery,0.8785066,50.0,53.0
+Catharus fuscescens_Veery,0.57813627,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.1503757,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.27529222,54.0,57.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10224536,54.0,57.0
+Geothlypis philadelphia_Mourning Warbler,0.20953915,55.0,58.0
+Oporornis agilis_Connecticut Warbler,0.12679237,55.0,58.0
+Geothlypis philadelphia_Mourning Warbler,0.67444694,56.0,59.0
+Catharus fuscescens_Veery,0.385118,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.3866351,58.0,61.0
+Catharus fuscescens_Veery,0.1939272,58.0,61.0
+Contopus virens_Eastern Wood-Pewee,0.13472715,59.0,62.0
+Contopus virens_Eastern Wood-Pewee,0.17383422,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.1051107,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.15537408,61.0,64.0
+Oporornis agilis_Connecticut Warbler,0.27068147,63.0,66.0
+Geothlypis formosa_Kentucky Warbler,0.114880614,63.0,66.0
+Contopus virens_Eastern Wood-Pewee,0.59618694,64.0,67.0
+Contopus virens_Eastern Wood-Pewee,0.47872373,65.0,68.0
+Catharus fuscescens_Veery,0.15353246,69.0,72.0
+Catharus fuscescens_Veery,0.57450217,70.0,73.0
+Geothlypis formosa_Kentucky Warbler,0.13989726,71.0,74.0
+Geothlypis formosa_Kentucky Warbler,0.13568634,72.0,75.0
+Geothlypis formosa_Kentucky Warbler,0.21294329,73.0,76.0
+Geothlypis formosa_Kentucky Warbler,0.28854328,74.0,77.0
+Geothlypis formosa_Kentucky Warbler,0.1651734,75.0,78.0
+Oporornis agilis_Connecticut Warbler,0.13414,75.0,78.0
+Geothlypis philadelphia_Mourning Warbler,0.5799101,76.0,79.0
+Oporornis agilis_Connecticut Warbler,0.34131184,76.0,79.0
+Emberiza sahari_House Bunting,0.13843341,76.0,79.0
+Chloris chloris_European Greenfinch,0.3099096,77.0,80.0
+Ficedula narcissina_Narcissus Flycatcher,0.14928919,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.14552352,78.0,81.0
+Cyanoptila cyanomelana_Blue-and-white Flycatcher,0.1052774,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.84757906,79.0,82.0
+Contopus virens_Eastern Wood-Pewee,0.74364066,80.0,83.0
+Geothlypis formosa_Kentucky Warbler,0.14954168,83.0,86.0
+Geothlypis formosa_Kentucky Warbler,0.15911429,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28228962,87.0,90.0
+Contopus virens_Eastern Wood-Pewee,0.24819513,87.0,90.0
+Catharus fuscescens_Veery,0.13853686,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20813502,88.0,91.0
+Contopus virens_Eastern Wood-Pewee,0.20668943,88.0,91.0
+Contopus virens_Eastern Wood-Pewee,0.34848627,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25719896,89.0,92.0
+Contopus virens_Eastern Wood-Pewee,0.18467037,90.0,93.0
+Contopus virens_Eastern Wood-Pewee,0.32993618,91.0,94.0
+Contopus virens_Eastern Wood-Pewee,0.44456333,92.0,95.0
+Geothlypis formosa_Kentucky Warbler,0.18741941,94.0,97.0
+Geothlypis philadelphia_Mourning Warbler,0.35605782,98.0,101.0
+Geothlypis formosa_Kentucky Warbler,0.117226325,98.0,101.0
+Geothlypis philadelphia_Mourning Warbler,0.28709748,99.0,102.0
+Geothlypis formosa_Kentucky Warbler,0.116774715,99.0,102.0
+Geothlypis philadelphia_Mourning Warbler,0.62729794,100.0,103.0
+Geothlypis philadelphia_Mourning Warbler,0.10488765,101.0,104.0
+Contopus virens_Eastern Wood-Pewee,0.9636652,103.0,106.0
+Contopus virens_Eastern Wood-Pewee,0.91062677,104.0,107.0
+Contopus virens_Eastern Wood-Pewee,0.50360143,105.0,108.0
+Contopus sordidulus_Western Wood-Pewee,0.13846937,105.0,108.0
+Geothlypis philadelphia_Mourning Warbler,0.14568508,106.0,109.0
+Empidonax virescens_Acadian Flycatcher,0.14366886,106.0,109.0
+Geothlypis formosa_Kentucky Warbler,0.13801765,106.0,109.0
+Geothlypis philadelphia_Mourning Warbler,0.3435641,107.0,110.0
+Geothlypis formosa_Kentucky Warbler,0.22249104,107.0,110.0
+Catharus fuscescens_Veery,0.12035793,107.0,110.0
+Catharus fuscescens_Veery,0.4619073,108.0,111.0
+Geothlypis philadelphia_Mourning Warbler,0.1162622,108.0,111.0
+Catharus fuscescens_Veery,0.64049983,109.0,112.0
+Vireo flavifrons_Yellow-throated Vireo,0.22016416,110.0,113.0
+Fringilla coelebs_Common Chaffinch,0.4069124,111.0,114.0
+Ficedula albicollis_Collared Flycatcher,0.17517614,111.0,114.0
+Fringilla coelebs_Common Chaffinch,0.24890363,112.0,115.0
+Parkesia noveboracensis_Northern Waterthrush,0.29622003,114.0,117.0
+Parkesia motacilla_Louisiana Waterthrush,0.15309037,114.0,117.0
+Setophaga magnolia_Magnolia Warbler,0.13352068,116.0,119.0
+Setophaga citrina_Hooded Warbler,0.12497773,116.0,119.0
+Contopus virens_Eastern Wood-Pewee,0.123173155,116.0,119.0
+Geothlypis philadelphia_Mourning Warbler,0.1060425,116.0,119.0
+Setophaga magnolia_Magnolia Warbler,0.67056745,117.0,120.0
+Setophaga citrina_Hooded Warbler,0.15709884,117.0,120.0
+Contopus virens_Eastern Wood-Pewee,0.9569967,121.0,124.0
+Contopus virens_Eastern Wood-Pewee,0.9506865,122.0,125.0
+Contopus virens_Eastern Wood-Pewee,0.49035874,123.0,126.0
+Geothlypis philadelphia_Mourning Warbler,0.15717816,124.0,127.0
+Bradypterus lopezi_Evergreen-forest Warbler,0.12731028,127.0,130.0
+Geothlypis philadelphia_Mourning Warbler,0.16670844,129.0,132.0
+Oporornis agilis_Connecticut Warbler,0.15107465,129.0,132.0
+Geothlypis philadelphia_Mourning Warbler,0.29596677,130.0,133.0
+Setophaga citrina_Hooded Warbler,0.20975278,130.0,133.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11407356,131.0,134.0
+Ptilonorhynchus violaceus_Satin Bowerbird,0.116761975,132.0,135.0
+Gymnorhina tibicen_Australian Magpie,0.10273902,132.0,135.0
+Contopus virens_Eastern Wood-Pewee,0.8378321,133.0,136.0
+Contopus virens_Eastern Wood-Pewee,0.795701,134.0,137.0
+Geothlypis philadelphia_Mourning Warbler,0.21629444,135.0,138.0
+Contopus virens_Eastern Wood-Pewee,0.15313578,135.0,138.0
+Geothlypis philadelphia_Mourning Warbler,0.75072455,136.0,139.0
+Geothlypis philadelphia_Mourning Warbler,0.8409168,137.0,140.0
+Geothlypis formosa_Kentucky Warbler,0.10805737,137.0,140.0
+Contopus virens_Eastern Wood-Pewee,0.73248816,138.0,141.0
+Contopus virens_Eastern Wood-Pewee,0.76604635,139.0,142.0
+Contopus virens_Eastern Wood-Pewee,0.6219765,140.0,143.0
+Piranga olivacea_Scarlet Tanager,0.22352454,141.0,144.0
+Catharus fuscescens_Veery,0.3141476,142.0,145.0
+Piranga olivacea_Scarlet Tanager,0.11086774,142.0,145.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10204156,142.0,145.0
+Contopus virens_Eastern Wood-Pewee,0.3901752,143.0,146.0
+Contopus virens_Eastern Wood-Pewee,0.46577123,144.0,147.0
+Contopus virens_Eastern Wood-Pewee,0.43130213,145.0,148.0
+Contopus virens_Eastern Wood-Pewee,0.6287735,149.0,152.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.2120909,149.0,152.0
+Contopus virens_Eastern Wood-Pewee,0.734654,150.0,153.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.10565066,150.0,153.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.4043066,151.0,154.0
+Contopus virens_Eastern Wood-Pewee,0.17404546,151.0,154.0
+Catharus guttatus_Hermit Thrush,0.15960446,155.0,158.0
+Euphagus carolinus_Rusty Blackbird,0.11853508,155.0,158.0
+Piranga olivacea_Scarlet Tanager,0.73505217,156.0,159.0
+Catharus fuscescens_Veery,0.57797223,157.0,160.0
+Piranga olivacea_Scarlet Tanager,0.3201713,157.0,160.0
+Catharus fuscescens_Veery,0.97373825,158.0,161.0
+Catharus fuscescens_Veery,0.26792434,159.0,162.0
+Contopus virens_Eastern Wood-Pewee,0.21363504,159.0,162.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.15806116,159.0,162.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.37914845,160.0,163.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.8470198,161.0,164.0
+Contopus virens_Eastern Wood-Pewee,0.27067152,161.0,164.0
+Contopus virens_Eastern Wood-Pewee,0.13040976,162.0,165.0
+Ficedula narcissina_Narcissus Flycatcher,0.114939995,163.0,166.0
+Contopus virens_Eastern Wood-Pewee,0.36819008,164.0,167.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.109167434,164.0,167.0
+Contopus virens_Eastern Wood-Pewee,0.41220793,165.0,168.0
+Contopus virens_Eastern Wood-Pewee,0.4340977,166.0,169.0
+Contopus virens_Eastern Wood-Pewee,0.26015088,167.0,170.0
+Piranga olivacea_Scarlet Tanager,0.4452804,169.0,172.0
+Piranga olivacea_Scarlet Tanager,0.35577142,170.0,173.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.856095,173.0,175.39201814058956
+Contopus virens_Eastern Wood-Pewee,0.8154943,173.0,175.39201814058956

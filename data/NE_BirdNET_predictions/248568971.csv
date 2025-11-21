@@ -1,0 +1,57 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.2825531,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.26114795,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1636212,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.14706965,1.0,4.0
+Progne subis_Purple Martin,0.34440127,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.55477095,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.25821316,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.7445125,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.99795544,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.99944204,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.9982198,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.5135721,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.28782338,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13659939,10.0,13.0
+Protonotaria citrea_Prothonotary Warbler,0.12118636,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.48663545,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.2988747,12.0,15.0
+Melanotis caerulescens_Blue Mockingbird,0.16055495,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.30936104,13.0,16.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.12508023,13.0,16.0
+Turdus assimilis_White-throated Thrush,0.14237991,14.0,17.0
+Turdus plumbeus_Red-legged Thrush,0.2718297,16.0,19.0
+Turdus philomelos_Song Thrush,0.13769658,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.505797,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.4771658,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.3435131,28.0,31.0
+Contopus virens_Eastern Wood-Pewee,0.20292532,29.0,32.0
+Buteo lineatus_Red-shouldered Hawk,0.44313738,32.0,35.0
+Ficedula albicollis_Collared Flycatcher,0.2502494,34.0,37.0
+Ficedula parva_Red-breasted Flycatcher,0.12140114,34.0,37.0
+Ficedula albicollis_Collared Flycatcher,0.33737153,35.0,38.0
+Ficedula parva_Red-breasted Flycatcher,0.20761175,35.0,38.0
+Protonotaria citrea_Prothonotary Warbler,0.17695194,36.0,39.0
+Protonotaria citrea_Prothonotary Warbler,0.10211198,37.0,40.0
+Contopus virens_Eastern Wood-Pewee,0.40199685,46.0,49.0
+Contopus virens_Eastern Wood-Pewee,0.4583673,47.0,50.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.19040805,52.0,55.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.11921855,52.0,55.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16426328,57.0,60.0
+Pterophylla camellifolia_Common True Katydid,0.15456396,62.0,65.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.13363126,62.0,65.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1320333,62.0,65.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.109099306,62.0,65.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.19869411,63.0,66.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.16756634,63.0,66.0
+Conocephalus brevipennis_Short-winged Meadow Katydid,0.16680983,63.0,66.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.13103954,63.0,66.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.12514657,63.0,66.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.15587474,64.0,67.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.119339384,64.0,67.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.114902064,64.0,67.0
+Pterophylla camellifolia_Common True Katydid,0.10657456,64.0,67.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.14703757,65.0,68.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.120289974,65.0,68.0
+Contopus virens_Eastern Wood-Pewee,0.13776267,68.0,71.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.1723825,72.0,75.0

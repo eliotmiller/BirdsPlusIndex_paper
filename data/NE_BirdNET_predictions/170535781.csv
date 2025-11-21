@@ -1,0 +1,112 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.9885986,0.0,3.0
+Vireo philadelphicus_Philadelphia Vireo,0.46618825,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.3395233,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.24209177,1.0,4.0
+Poecile atricapillus_Black-capped Chickadee,0.2535276,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.2415502,3.0,6.0
+Turdus migratorius_American Robin,0.116881005,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.729891,5.0,8.0
+Setophaga townsendi_Townsend's Warbler,0.17492199,5.0,8.0
+Setophaga occidentalis_Hermit Warbler,0.12037903,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.9690169,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.9909648,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.10755432,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.104987554,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.8571475,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.65394205,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.90245026,9.0,12.0
+Geothlypis trichas_Common Yellowthroat,0.95383483,10.0,13.0
+Geothlypis trichas_Common Yellowthroat,0.9856647,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.9084286,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.22378354,13.0,16.0
+Setophaga magnolia_Magnolia Warbler,0.20223743,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.14496526,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.12917975,13.0,16.0
+Setophaga dominica_Yellow-throated Warbler,0.11138725,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.87709963,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.3596176,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.80648124,15.0,18.0
+Corvus brachyrhynchos_American Crow,0.15150648,15.0,18.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.7006811,16.0,19.0
+Turdus migratorius_American Robin,0.17847092,16.0,19.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.6571744,17.0,20.0
+Leiothlypis celata_Orange-crowned Warbler,0.104343295,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.99148023,18.0,21.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.22137932,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.9929168,19.0,22.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11738512,19.0,22.0
+Geothlypis trichas_Common Yellowthroat,0.49179417,20.0,23.0
+Geothlypis trichas_Common Yellowthroat,0.9396144,21.0,24.0
+Geothlypis trichas_Common Yellowthroat,0.98244953,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.9435804,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.81957847,24.0,27.0
+Baeolophus bicolor_Tufted Titmouse,0.11846054,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.16067213,26.0,29.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.1040459,27.0,30.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.15971446,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.11209269,28.0,31.0
+Turdus migratorius_American Robin,0.12316511,29.0,32.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11470139,29.0,32.0
+Corvus brachyrhynchos_American Crow,0.4553465,30.0,33.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.30444306,30.0,33.0
+Mniotilta varia_Black-and-white Warbler,0.1656416,30.0,33.0
+Corvus brachyrhynchos_American Crow,0.44413826,31.0,34.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14106421,31.0,34.0
+Corvus brachyrhynchos_American Crow,0.36624113,32.0,35.0
+Basileuterus rufifrons_Rufous-capped Warbler,0.16177018,34.0,37.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11542065,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.9871371,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.86511666,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.96928656,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.9227989,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.9108399,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.2535424,40.0,43.0
+Parkesia motacilla_Louisiana Waterthrush,0.23846321,40.0,43.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13171817,40.0,43.0
+Geothlypis formosa_Kentucky Warbler,0.1216748,40.0,43.0
+Regulus satrapa_Golden-crowned Kinglet,0.37157232,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.10346199,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.19320735,44.0,47.0
+Mniotilta varia_Black-and-white Warbler,0.14867553,44.0,47.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1093984,46.0,49.0
+Poecile gambeli_Mountain Chickadee,0.38603562,47.0,50.0
+Geothlypis trichas_Common Yellowthroat,0.76164716,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.39200708,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.77929074,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.98094213,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.93655187,52.0,55.0
+Geothlypis trichas_Common Yellowthroat,0.83632666,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.15572238,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.14144881,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.24481605,57.0,60.0
+Protonotaria citrea_Prothonotary Warbler,0.3073712,59.0,62.0
+Mniotilta varia_Black-and-white Warbler,0.20642075,59.0,62.0
+Corvus brachyrhynchos_American Crow,0.5070074,62.0,65.0
+Poecile atricapillus_Black-capped Chickadee,0.28694546,62.0,65.0
+Regulus satrapa_Golden-crowned Kinglet,0.2592679,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.19080085,62.0,65.0
+Corvus brachyrhynchos_American Crow,0.3552754,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.28821918,63.0,66.0
+Regulus satrapa_Golden-crowned Kinglet,0.2510844,63.0,66.0
+Corvus brachyrhynchos_American Crow,0.71127295,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.19744594,64.0,67.0
+Poecile atricapillus_Black-capped Chickadee,0.1648315,64.0,67.0
+Regulus satrapa_Golden-crowned Kinglet,0.14257047,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.103868224,64.0,67.0
+Corvus brachyrhynchos_American Crow,0.5612282,65.0,68.0
+Poecile atricapillus_Black-capped Chickadee,0.49489442,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.48981786,65.0,68.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15582992,65.0,68.0
+Poecile atricapillus_Black-capped Chickadee,0.47065905,66.0,69.0
+Corvus brachyrhynchos_American Crow,0.123912476,66.0,69.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.23339696,67.0,70.0
+Poecile atricapillus_Black-capped Chickadee,0.21731159,67.0,70.0
+Vireo philadelphicus_Philadelphia Vireo,0.23923798,79.0,82.0
+Geothlypis trichas_Common Yellowthroat,0.57792175,80.0,83.0
+Geothlypis trichas_Common Yellowthroat,0.520761,81.0,84.0
+Geothlypis trichas_Common Yellowthroat,0.6818245,82.0,85.0
+Conocephalus brevipennis_Short-winged Meadow Katydid,0.1314264,84.0,87.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11519289,85.0,88.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.25526547,87.0,90.0
+Poecile atricapillus_Black-capped Chickadee,0.1324564,87.0,90.0

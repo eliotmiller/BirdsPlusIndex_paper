@@ -1,0 +1,128 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.1260164,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.10740611,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.8596217,1.0,4.0
+Setophaga castanea_Bay-breasted Warbler,0.6255154,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.98325044,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.9873849,3.0,6.0
+Setophaga pitiayumi_Tropical Parula,0.44900772,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.22477499,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.5137915,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.5773661,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.320464,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.15587918,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.97292715,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.8480826,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.5245357,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.23253013,10.0,13.0
+Dacnis cayana_Blue Dacnis,0.117991254,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.9632187,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.37155515,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.9964316,14.0,17.0
+Setophaga castanea_Bay-breasted Warbler,0.109122805,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.99591655,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.59221196,16.0,19.0
+Setophaga ruticilla_American Redstart,0.30833498,16.0,19.0
+Lepidocolaptes leucogaster_White-striped Woodcreeper,0.105814435,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.23461133,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.16716067,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.12131872,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.24023758,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.13023096,21.0,24.0
+Setophaga castanea_Bay-breasted Warbler,0.8695765,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.817645,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.9867296,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.118294105,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.9917739,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.99199986,26.0,29.0
+Setophaga ruticilla_American Redstart,0.512515,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.3232021,27.0,30.0
+Setophaga pitiayumi_Tropical Parula,0.10530316,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.21585351,29.0,32.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16935483,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.12819953,30.0,33.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.299452,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1402438,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.64110404,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.58349395,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.96466297,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.18768506,35.0,38.0
+Setophaga ruticilla_American Redstart,0.10799301,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.8373156,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.75149983,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.9951609,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.99530977,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.6927311,39.0,42.0
+Troglodytes pacificus_Pacific Wren,0.13449712,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.23402086,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.19711351,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.27746055,42.0,45.0
+Geothlypis formosa_Kentucky Warbler,0.10641757,42.0,45.0
+Geothlypis philadelphia_Mourning Warbler,0.3066474,44.0,47.0
+Geothlypis formosa_Kentucky Warbler,0.13175368,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13015795,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.23246185,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.26421967,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.14774758,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.10645299,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.9549931,50.0,53.0
+Setophaga castanea_Bay-breasted Warbler,0.5886118,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.9840142,51.0,54.0
+Setophaga castanea_Bay-breasted Warbler,0.53428024,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.990329,52.0,55.0
+Setophaga castanea_Bay-breasted Warbler,0.3841394,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.96899265,53.0,56.0
+Setophaga castanea_Bay-breasted Warbler,0.13770285,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.1078777,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.22948767,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.2268604,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.3831912,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14123522,58.0,61.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.101881996,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.39406505,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15707693,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10118752,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14511654,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10781759,60.0,63.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.108977914,61.0,64.0
+Contopus virens_Eastern Wood-Pewee,0.3618771,63.0,66.0
+Geothlypis formosa_Kentucky Warbler,0.11634812,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11019373,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.13766055,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109695114,67.0,70.0
+Geothlypis formosa_Kentucky Warbler,0.17373008,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.16518146,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.20560229,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.13308805,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.18017708,72.0,75.0
+Hylocichla mustelina_Wood Thrush,0.38202414,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.99282056,76.0,79.0
+Setophaga castanea_Bay-breasted Warbler,0.15709986,76.0,79.0
+Setophaga fusca_Blackburnian Warbler,0.98709387,77.0,80.0
+Setophaga castanea_Bay-breasted Warbler,0.33142942,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.98731947,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.97846884,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.5766691,80.0,83.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16207781,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10261047,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.46070877,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.61864704,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.40667513,83.0,86.0
+Setophaga citrina_Hooded Warbler,0.300842,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.19863199,84.0,87.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18155187,84.0,87.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15501668,84.0,87.0
+Hylocichla mustelina_Wood Thrush,0.2618257,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11273021,86.0,89.0
+Hylocichla mustelina_Wood Thrush,0.5389866,89.0,92.0
+Hylocichla mustelina_Wood Thrush,0.22298124,90.0,93.0
+Geothlypis formosa_Kentucky Warbler,0.106542006,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.70758235,91.0,94.0
+Setophaga castanea_Bay-breasted Warbler,0.6979281,91.0,94.0
+Setophaga ruticilla_American Redstart,0.16469035,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.9798925,92.0,95.0
+Setophaga castanea_Bay-breasted Warbler,0.29975405,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.99484175,93.0,96.0
+Setophaga fusca_Blackburnian Warbler,0.9933072,94.0,97.0
+Setophaga fusca_Blackburnian Warbler,0.96213603,95.0,98.0
+Troglodytes pacificus_Pacific Wren,0.22521132,95.0,98.0

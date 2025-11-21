@@ -1,0 +1,328 @@
+species,score,start_time,end_time
+Falco columbarius_Merlin,0.8042805,0.0,3.0
+Falco columbarius_Merlin,0.976592,1.0,4.0
+Falco sparverius_American Kestrel,0.19621572,1.0,4.0
+Falco tinnunculus_Eurasian Kestrel,0.15549566,1.0,4.0
+Falco columbarius_Merlin,0.88876945,2.0,5.0
+Falco tinnunculus_Eurasian Kestrel,0.32125935,2.0,5.0
+Falco sparverius_American Kestrel,0.25714666,2.0,5.0
+Falco columbarius_Merlin,0.93145835,3.0,6.0
+Falco tinnunculus_Eurasian Kestrel,0.32067683,3.0,6.0
+Falco sparverius_American Kestrel,0.2599589,3.0,6.0
+Falco columbarius_Merlin,0.6222279,4.0,7.0
+Falco tinnunculus_Eurasian Kestrel,0.55669993,4.0,7.0
+Falco sparverius_American Kestrel,0.34945384,4.0,7.0
+Falco columbarius_Merlin,0.6767816,5.0,8.0
+Falco sparverius_American Kestrel,0.3553209,5.0,8.0
+Falco tinnunculus_Eurasian Kestrel,0.32674158,5.0,8.0
+Falco columbarius_Merlin,0.7548265,6.0,9.0
+Falco sparverius_American Kestrel,0.6343871,6.0,9.0
+Falco tinnunculus_Eurasian Kestrel,0.4487432,6.0,9.0
+Falco columbarius_Merlin,0.6900195,7.0,10.0
+Falco tinnunculus_Eurasian Kestrel,0.49562556,7.0,10.0
+Falco sparverius_American Kestrel,0.35978127,7.0,10.0
+Falco columbarius_Merlin,0.4749455,8.0,11.0
+Falco tinnunculus_Eurasian Kestrel,0.3000702,8.0,11.0
+Falco sparverius_American Kestrel,0.1467989,8.0,11.0
+Falco columbarius_Merlin,0.5291525,9.0,12.0
+Falco tinnunculus_Eurasian Kestrel,0.5005913,9.0,12.0
+Falco sparverius_American Kestrel,0.2724626,9.0,12.0
+Falco columbarius_Merlin,0.54103243,10.0,13.0
+Falco tinnunculus_Eurasian Kestrel,0.23922268,10.0,13.0
+Falco sparverius_American Kestrel,0.19944134,10.0,13.0
+Falco columbarius_Merlin,0.52769995,11.0,14.0
+Falco sparverius_American Kestrel,0.3424857,11.0,14.0
+Falco tinnunculus_Eurasian Kestrel,0.16632873,11.0,14.0
+Falco columbarius_Merlin,0.6556221,12.0,15.0
+Falco tinnunculus_Eurasian Kestrel,0.1763551,12.0,15.0
+Falco sparverius_American Kestrel,0.16140963,12.0,15.0
+Falco sparverius_American Kestrel,0.4136023,13.0,16.0
+Falco tinnunculus_Eurasian Kestrel,0.37528244,13.0,16.0
+Falco columbarius_Merlin,0.2903196,13.0,16.0
+Falco columbarius_Merlin,0.6420894,14.0,17.0
+Falco sparverius_American Kestrel,0.1656245,14.0,17.0
+Falco columbarius_Merlin,0.86517286,15.0,18.0
+Falco sparverius_American Kestrel,0.18791187,15.0,18.0
+Falco tinnunculus_Eurasian Kestrel,0.16557889,15.0,18.0
+Falco columbarius_Merlin,0.34031627,16.0,19.0
+Falco tinnunculus_Eurasian Kestrel,0.30917984,16.0,19.0
+Falco sparverius_American Kestrel,0.20353115,16.0,19.0
+Falco tinnunculus_Eurasian Kestrel,0.40760726,17.0,20.0
+Falco columbarius_Merlin,0.31764033,17.0,20.0
+Falco sparverius_American Kestrel,0.25070798,17.0,20.0
+Falco columbarius_Merlin,0.5299508,18.0,21.0
+Falco tinnunculus_Eurasian Kestrel,0.4638192,18.0,21.0
+Falco sparverius_American Kestrel,0.21362758,18.0,21.0
+Falco tinnunculus_Eurasian Kestrel,0.61901164,19.0,22.0
+Falco columbarius_Merlin,0.49065265,19.0,22.0
+Falco sparverius_American Kestrel,0.3042656,19.0,22.0
+Fulmarus glacialis_Northern Fulmar,0.14484979,22.0,25.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.18404755,25.0,28.0
+Falco columbarius_Merlin,0.80965126,26.0,29.0
+Falco columbarius_Merlin,0.8208069,27.0,30.0
+Falco columbarius_Merlin,0.91917056,28.0,31.0
+Falco sparverius_American Kestrel,0.13693526,28.0,31.0
+Falco tinnunculus_Eurasian Kestrel,0.10164959,28.0,31.0
+Falco columbarius_Merlin,0.7824359,29.0,32.0
+Falco tinnunculus_Eurasian Kestrel,0.74183375,29.0,32.0
+Falco sparverius_American Kestrel,0.13684304,29.0,32.0
+Falco columbarius_Merlin,0.856181,30.0,33.0
+Falco tinnunculus_Eurasian Kestrel,0.6082071,30.0,33.0
+Falco sparverius_American Kestrel,0.33277625,30.0,33.0
+Falco tinnunculus_Eurasian Kestrel,0.7650319,31.0,34.0
+Falco columbarius_Merlin,0.6448761,31.0,34.0
+Falco sparverius_American Kestrel,0.36291823,31.0,34.0
+Falco tinnunculus_Eurasian Kestrel,0.75893176,32.0,35.0
+Falco sparverius_American Kestrel,0.5649066,32.0,35.0
+Falco columbarius_Merlin,0.209703,32.0,35.0
+Falco tinnunculus_Eurasian Kestrel,0.82920396,33.0,36.0
+Falco sparverius_American Kestrel,0.5035873,33.0,36.0
+Falco tinnunculus_Eurasian Kestrel,0.83272,34.0,37.0
+Falco sparverius_American Kestrel,0.72506577,34.0,37.0
+Falco tinnunculus_Eurasian Kestrel,0.80755794,35.0,38.0
+Falco sparverius_American Kestrel,0.63947326,35.0,38.0
+Falco sparverius_American Kestrel,0.826995,36.0,39.0
+Falco tinnunculus_Eurasian Kestrel,0.6498629,36.0,39.0
+Falco sparverius_American Kestrel,0.9206239,37.0,40.0
+Falco tinnunculus_Eurasian Kestrel,0.40712085,37.0,40.0
+Falco naumanni_Lesser Kestrel,0.22540106,37.0,40.0
+Falco sparverius_American Kestrel,0.7735946,38.0,41.0
+Falco naumanni_Lesser Kestrel,0.38959882,38.0,41.0
+Falco tinnunculus_Eurasian Kestrel,0.1943343,38.0,41.0
+Falco sparverius_American Kestrel,0.49402282,39.0,42.0
+Falco tinnunculus_Eurasian Kestrel,0.15223324,39.0,42.0
+Falco naumanni_Lesser Kestrel,0.107549876,39.0,42.0
+Falco columbarius_Merlin,0.17337736,40.0,43.0
+Falco sparverius_American Kestrel,0.15621482,40.0,43.0
+Falco tinnunculus_Eurasian Kestrel,0.4389082,41.0,44.0
+Falco sparverius_American Kestrel,0.20910065,41.0,44.0
+Falco tinnunculus_Eurasian Kestrel,0.85481787,42.0,45.0
+Falco sparverius_American Kestrel,0.4429091,42.0,45.0
+Falco columbarius_Merlin,0.18204845,42.0,45.0
+Falco tinnunculus_Eurasian Kestrel,0.42459694,43.0,46.0
+Falco sparverius_American Kestrel,0.26752064,43.0,46.0
+Falco columbarius_Merlin,0.6086298,44.0,47.0
+Falco tinnunculus_Eurasian Kestrel,0.32857835,44.0,47.0
+Falco sparverius_American Kestrel,0.2674661,44.0,47.0
+Falco tinnunculus_Eurasian Kestrel,0.336501,45.0,48.0
+Falco sparverius_American Kestrel,0.23629951,45.0,48.0
+Falco sparverius_American Kestrel,0.6799027,46.0,49.0
+Falco tinnunculus_Eurasian Kestrel,0.20940219,46.0,49.0
+Falco sparverius_American Kestrel,0.8470614,47.0,50.0
+Falco naumanni_Lesser Kestrel,0.3584615,47.0,50.0
+Falco tinnunculus_Eurasian Kestrel,0.14530924,47.0,50.0
+Falco naumanni_Lesser Kestrel,0.85527766,48.0,51.0
+Falco sparverius_American Kestrel,0.8356742,48.0,51.0
+Falco columbarius_Merlin,0.92738324,56.0,59.0
+Falco columbarius_Merlin,0.9945068,57.0,60.0
+Falco columbarius_Merlin,0.9901068,58.0,61.0
+Falco tinnunculus_Eurasian Kestrel,0.19934538,58.0,61.0
+Falco sparverius_American Kestrel,0.13580467,58.0,61.0
+Falco columbarius_Merlin,0.9743527,59.0,62.0
+Falco sparverius_American Kestrel,0.27837905,59.0,62.0
+Falco tinnunculus_Eurasian Kestrel,0.20043935,59.0,62.0
+Falco columbarius_Merlin,0.68294346,60.0,63.0
+Falco sparverius_American Kestrel,0.33220917,60.0,63.0
+Falco tinnunculus_Eurasian Kestrel,0.31729567,60.0,63.0
+Falco columbarius_Merlin,0.70740885,61.0,64.0
+Falco sparverius_American Kestrel,0.5452343,61.0,64.0
+Falco tinnunculus_Eurasian Kestrel,0.2914153,61.0,64.0
+Falco columbarius_Merlin,0.5701201,62.0,65.0
+Falco sparverius_American Kestrel,0.40896922,62.0,65.0
+Falco tinnunculus_Eurasian Kestrel,0.1645826,62.0,65.0
+Falco sparverius_American Kestrel,0.54792917,63.0,66.0
+Falco columbarius_Merlin,0.4211015,63.0,66.0
+Falco tinnunculus_Eurasian Kestrel,0.41756395,63.0,66.0
+Falco columbarius_Merlin,0.6812885,64.0,67.0
+Falco sparverius_American Kestrel,0.1552833,64.0,67.0
+Falco columbarius_Merlin,0.6408422,65.0,68.0
+Falco sparverius_American Kestrel,0.36509436,65.0,68.0
+Falco tinnunculus_Eurasian Kestrel,0.2370005,65.0,68.0
+Falco sparverius_American Kestrel,0.8859779,66.0,69.0
+Falco tinnunculus_Eurasian Kestrel,0.28462383,66.0,69.0
+Falco sparverius_American Kestrel,0.9743352,67.0,70.0
+Falco tinnunculus_Eurasian Kestrel,0.7599466,67.0,70.0
+Falco sparverius_American Kestrel,0.9660751,68.0,71.0
+Falco naumanni_Lesser Kestrel,0.7372726,68.0,71.0
+Falco tinnunculus_Eurasian Kestrel,0.5793747,68.0,71.0
+Falco naumanni_Lesser Kestrel,0.15192573,69.0,72.0
+Falco sparverius_American Kestrel,0.6299938,71.0,74.0
+Falco tinnunculus_Eurasian Kestrel,0.38766852,71.0,74.0
+Falco naumanni_Lesser Kestrel,0.22503981,71.0,74.0
+Falco tinnunculus_Eurasian Kestrel,0.6708078,72.0,75.0
+Falco sparverius_American Kestrel,0.6492987,72.0,75.0
+Falco naumanni_Lesser Kestrel,0.13269792,72.0,75.0
+Falco sparverius_American Kestrel,0.8488427,73.0,76.0
+Falco tinnunculus_Eurasian Kestrel,0.5181141,73.0,76.0
+Falco columbarius_Merlin,0.4403227,73.0,76.0
+Falco naumanni_Lesser Kestrel,0.11642524,73.0,76.0
+Falco columbarius_Merlin,0.4190423,74.0,77.0
+Falco sparverius_American Kestrel,0.371468,74.0,77.0
+Falco tinnunculus_Eurasian Kestrel,0.15268551,74.0,77.0
+Falco sparverius_American Kestrel,0.40077588,75.0,78.0
+Falco columbarius_Merlin,0.37090236,75.0,78.0
+Falco tinnunculus_Eurasian Kestrel,0.22068836,75.0,78.0
+Falco columbarius_Merlin,0.70247906,76.0,79.0
+Falco sparverius_American Kestrel,0.34036642,76.0,79.0
+Falco tinnunculus_Eurasian Kestrel,0.24492069,76.0,79.0
+Falco columbarius_Merlin,0.58842766,77.0,80.0
+Falco tinnunculus_Eurasian Kestrel,0.104326025,77.0,80.0
+Falco columbarius_Merlin,0.8236553,78.0,81.0
+Falco tinnunculus_Eurasian Kestrel,0.23740563,78.0,81.0
+Falco columbarius_Merlin,0.8375046,79.0,82.0
+Falco tinnunculus_Eurasian Kestrel,0.35932797,79.0,82.0
+Falco sparverius_American Kestrel,0.20465048,79.0,82.0
+Falco tinnunculus_Eurasian Kestrel,0.29102528,80.0,83.0
+Falco sparverius_American Kestrel,0.11633185,80.0,83.0
+Falco sparverius_American Kestrel,0.2336189,85.0,88.0
+Falco naumanni_Lesser Kestrel,0.14018095,85.0,88.0
+Falco columbarius_Merlin,0.64033777,86.0,89.0
+Falco sparverius_American Kestrel,0.14199945,86.0,89.0
+Falco tinnunculus_Eurasian Kestrel,0.2663662,87.0,90.0
+Falco columbarius_Merlin,0.2384019,87.0,90.0
+Falco sparverius_American Kestrel,0.1444662,87.0,90.0
+Falco columbarius_Merlin,0.2907372,88.0,91.0
+Falco tinnunculus_Eurasian Kestrel,0.21840993,88.0,91.0
+Falco tinnunculus_Eurasian Kestrel,0.2538466,89.0,92.0
+Falco tinnunculus_Eurasian Kestrel,0.20839405,90.0,93.0
+Falco sparverius_American Kestrel,0.14275464,90.0,93.0
+Falco tinnunculus_Eurasian Kestrel,0.34749678,91.0,94.0
+Falco sparverius_American Kestrel,0.19711448,91.0,94.0
+Falco tinnunculus_Eurasian Kestrel,0.41228858,92.0,95.0
+Falco sparverius_American Kestrel,0.3732078,92.0,95.0
+Falco sparverius_American Kestrel,0.62689024,93.0,96.0
+Falco tinnunculus_Eurasian Kestrel,0.59936243,93.0,96.0
+Falco sparverius_American Kestrel,0.83772486,94.0,97.0
+Falco tinnunculus_Eurasian Kestrel,0.65590537,94.0,97.0
+Falco tinnunculus_Eurasian Kestrel,0.53192586,95.0,98.0
+Falco sparverius_American Kestrel,0.5090103,95.0,98.0
+Falco tinnunculus_Eurasian Kestrel,0.7575136,96.0,99.0
+Falco sparverius_American Kestrel,0.5074621,96.0,99.0
+Falco tinnunculus_Eurasian Kestrel,0.82802314,97.0,100.0
+Falco sparverius_American Kestrel,0.2745213,97.0,100.0
+Falco naumanni_Lesser Kestrel,0.26099285,97.0,100.0
+Falco naumanni_Lesser Kestrel,0.20413962,98.0,101.0
+Falco sparverius_American Kestrel,0.12339787,98.0,101.0
+Falco columbarius_Merlin,0.96652746,99.0,102.0
+Falco columbarius_Merlin,0.9897878,100.0,103.0
+Falco columbarius_Merlin,0.98157334,101.0,104.0
+Falco columbarius_Merlin,0.95105493,102.0,105.0
+Falco columbarius_Merlin,0.90768355,103.0,106.0
+Falco columbarius_Merlin,0.89688,104.0,107.0
+Falco columbarius_Merlin,0.9231507,105.0,108.0
+Falco sparverius_American Kestrel,0.106945135,105.0,108.0
+Falco columbarius_Merlin,0.96916527,106.0,109.0
+Falco sparverius_American Kestrel,0.11810685,106.0,109.0
+Falco columbarius_Merlin,0.9319384,107.0,110.0
+Falco sparverius_American Kestrel,0.109630905,107.0,110.0
+Falco columbarius_Merlin,0.69225943,108.0,111.0
+Accipiter striatus_Sharp-shinned Hawk,0.2635013,108.0,111.0
+Falco sparverius_American Kestrel,0.13920014,108.0,111.0
+Falco columbarius_Merlin,0.3792346,109.0,112.0
+Accipiter striatus_Sharp-shinned Hawk,0.11323265,109.0,112.0
+Accipiter striatus_Sharp-shinned Hawk,0.3490236,110.0,113.0
+Falco columbarius_Merlin,0.76745003,116.0,119.0
+Falco columbarius_Merlin,0.96128774,117.0,120.0
+Falco columbarius_Merlin,0.954632,118.0,121.0
+Falco columbarius_Merlin,0.974854,119.0,122.0
+Falco columbarius_Merlin,0.97526985,120.0,123.0
+Falco sparverius_American Kestrel,0.1049363,120.0,123.0
+Falco columbarius_Merlin,0.92633986,121.0,124.0
+Falco sparverius_American Kestrel,0.11932571,121.0,124.0
+Falco columbarius_Merlin,0.8651653,122.0,125.0
+Falco tinnunculus_Eurasian Kestrel,0.10645578,122.0,125.0
+Falco columbarius_Merlin,0.8547642,123.0,126.0
+Falco tinnunculus_Eurasian Kestrel,0.24173768,123.0,126.0
+Falco columbarius_Merlin,0.8397131,124.0,127.0
+Falco tinnunculus_Eurasian Kestrel,0.29526836,124.0,127.0
+Falco sparverius_American Kestrel,0.15146808,124.0,127.0
+Falco columbarius_Merlin,0.83887357,125.0,128.0
+Falco sparverius_American Kestrel,0.20217079,125.0,128.0
+Falco tinnunculus_Eurasian Kestrel,0.17889601,125.0,128.0
+Falco columbarius_Merlin,0.7650243,126.0,129.0
+Falco sparverius_American Kestrel,0.17032033,126.0,129.0
+Falco tinnunculus_Eurasian Kestrel,0.159286,126.0,129.0
+Falco columbarius_Merlin,0.7583544,127.0,130.0
+Falco tinnunculus_Eurasian Kestrel,0.39923942,127.0,130.0
+Falco sparverius_American Kestrel,0.24217811,127.0,130.0
+Falco columbarius_Merlin,0.8518922,128.0,131.0
+Falco tinnunculus_Eurasian Kestrel,0.33383292,128.0,131.0
+Falco sparverius_American Kestrel,0.14315522,128.0,131.0
+Falco columbarius_Merlin,0.8227781,129.0,132.0
+Falco sparverius_American Kestrel,0.45441425,129.0,132.0
+Falco tinnunculus_Eurasian Kestrel,0.44431978,129.0,132.0
+Melithreptus affinis_Black-headed Honeyeater,0.50791264,130.0,133.0
+Dryobates borealis_Red-cockaded Woodpecker,0.13014258,130.0,133.0
+Falco columbarius_Merlin,0.18726829,133.0,136.0
+Falco columbarius_Merlin,0.917255,134.0,137.0
+Falco columbarius_Merlin,0.99213445,135.0,138.0
+Falco columbarius_Merlin,0.9752871,136.0,139.0
+Falco sparverius_American Kestrel,0.10524993,136.0,139.0
+Falco columbarius_Merlin,0.9769906,137.0,140.0
+Falco columbarius_Merlin,0.736566,138.0,141.0
+Falco sparverius_American Kestrel,0.28346613,138.0,141.0
+Falco columbarius_Merlin,0.7943274,142.0,145.0
+Falco columbarius_Merlin,0.99422884,143.0,146.0
+Falco columbarius_Merlin,0.9942842,144.0,147.0
+Falco columbarius_Merlin,0.9953686,145.0,148.0
+Falco sparverius_American Kestrel,0.1429476,145.0,148.0
+Falco columbarius_Merlin,0.9822202,146.0,149.0
+Falco sparverius_American Kestrel,0.119221285,146.0,149.0
+Falco columbarius_Merlin,0.9802065,147.0,150.0
+Falco columbarius_Merlin,0.92457134,148.0,151.0
+Falco sparverius_American Kestrel,0.11778706,148.0,151.0
+Falco columbarius_Merlin,0.97351813,149.0,152.0
+Falco sparverius_American Kestrel,0.13854587,149.0,152.0
+Falco columbarius_Merlin,0.9450118,150.0,153.0
+Falco sparverius_American Kestrel,0.128907,150.0,153.0
+Falco columbarius_Merlin,0.9321726,151.0,154.0
+Falco sparverius_American Kestrel,0.3541368,151.0,154.0
+Falco tinnunculus_Eurasian Kestrel,0.14851832,151.0,154.0
+Falco columbarius_Merlin,0.95312876,152.0,155.0
+Falco sparverius_American Kestrel,0.2674554,152.0,155.0
+Falco columbarius_Merlin,0.933552,153.0,156.0
+Falco sparverius_American Kestrel,0.32057744,153.0,156.0
+Falco tinnunculus_Eurasian Kestrel,0.20263755,153.0,156.0
+Falco columbarius_Merlin,0.65299857,154.0,157.0
+Falco sparverius_American Kestrel,0.51264155,154.0,157.0
+Falco tinnunculus_Eurasian Kestrel,0.4127471,154.0,157.0
+Falco tinnunculus_Eurasian Kestrel,0.61762625,155.0,158.0
+Falco sparverius_American Kestrel,0.4293525,155.0,158.0
+Falco tinnunculus_Eurasian Kestrel,0.8490439,156.0,159.0
+Falco sparverius_American Kestrel,0.69085395,156.0,159.0
+Falco sparverius_American Kestrel,0.13572168,157.0,160.0
+Falco naumanni_Lesser Kestrel,0.12612815,157.0,160.0
+Engine_Engine,0.18056513,158.0,161.0
+Engine_Engine,0.12994273,159.0,162.0
+Engine_Engine,0.1401945,160.0,163.0
+Falco columbarius_Merlin,0.9682103,163.0,166.0
+Falco sparverius_American Kestrel,0.38889435,163.0,166.0
+Falco columbarius_Merlin,0.9326823,164.0,167.0
+Falco sparverius_American Kestrel,0.390451,164.0,167.0
+Falco columbarius_Merlin,0.9844343,165.0,168.0
+Falco sparverius_American Kestrel,0.16170266,165.0,168.0
+Falco columbarius_Merlin,0.9566012,166.0,169.0
+Falco sparverius_American Kestrel,0.16826577,166.0,169.0
+Falco columbarius_Merlin,0.9343809,167.0,170.0
+Falco sparverius_American Kestrel,0.1277469,167.0,170.0
+Falco columbarius_Merlin,0.8895406,168.0,171.0
+Falco sparverius_American Kestrel,0.17367004,168.0,171.0
+Falco tinnunculus_Eurasian Kestrel,0.16178194,168.0,171.0
+Falco columbarius_Merlin,0.9566484,169.0,172.0
+Falco sparverius_American Kestrel,0.16588129,169.0,172.0
+Falco columbarius_Merlin,0.7889865,170.0,173.0
+Falco tinnunculus_Eurasian Kestrel,0.33184946,170.0,173.0
+Falco sparverius_American Kestrel,0.21172643,170.0,173.0
+Falco columbarius_Merlin,0.9026239,171.0,174.0
+Falco tinnunculus_Eurasian Kestrel,0.24018808,171.0,174.0
+Falco sparverius_American Kestrel,0.13529699,171.0,174.0
+Falco sparverius_American Kestrel,0.53589857,172.0,175.0
+Falco columbarius_Merlin,0.39386868,172.0,175.0
+Falco tinnunculus_Eurasian Kestrel,0.25548038,172.0,175.0
+Engine_Engine,0.29963797,174.0,177.0
+Melithreptus validirostris_Strong-billed Honeyeater,0.14145489,174.0,177.0
+Melithreptus validirostris_Strong-billed Honeyeater,0.23223716,175.0,178.0
+Engine_Engine,0.1313751,175.0,178.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10732137,179.0,182.0
+Engine_Engine,0.14970809,189.0,192.0
+Pygoscelis antarcticus_Chinstrap Penguin,0.11076867,191.0,194.0

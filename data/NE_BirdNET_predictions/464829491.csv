@@ -1,0 +1,37 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.16767909,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.11783458,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.14954561,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.14653714,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10626936,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10594305,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.121510096,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.10182365,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.111643456,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.18737978,5.0,8.0
+Strix varia_Barred Owl,0.97860914,9.0,12.0
+Strix occidentalis_Spotted Owl,0.36857373,9.0,12.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.104820885,9.0,12.0
+Strix varia_Barred Owl,0.8840896,10.0,13.0
+Malacoptila mystacalis_Moustached Puffbird,0.43442905,10.0,13.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.23335858,10.0,13.0
+Strix occidentalis_Spotted Owl,0.22982533,10.0,13.0
+Strix varia_Barred Owl,0.4727195,11.0,14.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.46437466,11.0,14.0
+Strix occidentalis_Spotted Owl,0.16191797,11.0,14.0
+Momotus aequatorialis_Andean Motmot,0.10276124,18.0,21.0
+Power tools_Power tools,0.108889215,27.0,30.0
+Strix varia_Barred Owl,0.78287387,29.0,32.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.49620396,29.0,32.0
+Strix occidentalis_Spotted Owl,0.35168254,29.0,32.0
+Strix varia_Barred Owl,0.99425805,30.0,33.0
+Strix occidentalis_Spotted Owl,0.78514266,30.0,33.0
+Strix varia_Barred Owl,0.97056717,31.0,34.0
+Strix occidentalis_Spotted Owl,0.88394386,31.0,34.0
+Setophaga castanea_Bay-breasted Warbler,0.20824507,32.0,35.0
+Poecilostreptus cabanisi_Azure-rumped Tanager,0.12193531,32.0,35.0
+Strix varia_Barred Owl,0.10437775,32.0,35.0
+Human vocal_Human vocal,0.2727985,36.0,39.0
+Human vocal_Human vocal,0.24071918,37.0,40.0
+Human vocal_Human vocal,0.1367768,38.0,40.656009070294786
+Human non-vocal_Human non-vocal,0.107857294,38.0,40.656009070294786

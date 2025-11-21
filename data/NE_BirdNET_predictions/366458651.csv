@@ -1,0 +1,79 @@
+species,score,start_time,end_time
+Anas platyrhynchos_Mallard,0.61560225,0.0,3.0
+Anas fulvigula_Mottled Duck,0.28092265,0.0,3.0
+Anas platyrhynchos_Mallard,0.67865336,1.0,4.0
+Anas fulvigula_Mottled Duck,0.56971854,1.0,4.0
+Anas platyrhynchos_Mallard,0.48312914,2.0,5.0
+Anas fulvigula_Mottled Duck,0.31486434,2.0,5.0
+Anas rubripes_American Black Duck,0.10464392,2.0,5.0
+Neopelma chrysocephalum_Saffron-crested Tyrant-Manakin,0.15828988,3.0,6.0
+Anas platyrhynchos_Mallard,0.47998112,5.0,8.0
+Anas fulvigula_Mottled Duck,0.29331508,5.0,8.0
+Anas diazi_Mexican Duck,0.11199198,5.0,8.0
+Anas platyrhynchos_Mallard,0.6210485,6.0,9.0
+Anas fulvigula_Mottled Duck,0.55684984,6.0,9.0
+Anas rubripes_American Black Duck,0.25995883,6.0,9.0
+Anas platyrhynchos_Mallard,0.61242336,7.0,10.0
+Anas fulvigula_Mottled Duck,0.50474966,7.0,10.0
+Anas diazi_Mexican Duck,0.13473122,7.0,10.0
+Anas fulvigula_Mottled Duck,0.72359574,8.0,11.0
+Anas platyrhynchos_Mallard,0.3240717,8.0,11.0
+Anas fulvigula_Mottled Duck,0.24049571,9.0,12.0
+Anas platyrhynchos_Mallard,0.2355841,9.0,12.0
+Icterus wagleri_Black-vented Oriole,0.32959765,11.0,14.0
+Icterus wagleri_Black-vented Oriole,0.6410929,12.0,15.0
+Icterus wagleri_Black-vented Oriole,0.4017835,13.0,16.0
+Phaethornis longirostris_Long-billed Hermit,0.12568311,13.0,16.0
+Icterus wagleri_Black-vented Oriole,0.5537132,14.0,17.0
+Phaethornis longirostris_Long-billed Hermit,0.11101404,15.0,18.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.52550966,16.0,19.0
+Anas fulvigula_Mottled Duck,0.38164353,16.0,19.0
+Anas platyrhynchos_Mallard,0.122789465,16.0,19.0
+Anas fulvigula_Mottled Duck,0.20618425,17.0,20.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.13364062,17.0,20.0
+Anas platyrhynchos_Mallard,0.12457311,17.0,20.0
+Anas platyrhynchos_Mallard,0.22336228,18.0,21.0
+Anas fulvigula_Mottled Duck,0.19590703,18.0,21.0
+Plegadis chihi_White-faced Ibis,0.11970494,20.0,23.0
+Anas fulvigula_Mottled Duck,0.11452262,20.0,23.0
+Anas fulvigula_Mottled Duck,0.1874456,21.0,24.0
+Anas fulvigula_Mottled Duck,0.38138738,22.0,25.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.17654207,22.0,25.0
+Anas platyrhynchos_Mallard,0.10661472,22.0,25.0
+Anas fulvigula_Mottled Duck,0.4164124,23.0,26.0
+Anas platyrhynchos_Mallard,0.21941657,23.0,26.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.19755861,23.0,26.0
+Anas platyrhynchos_Mallard,0.5772914,24.0,27.0
+Anas fulvigula_Mottled Duck,0.48166132,24.0,27.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.16227023,24.0,27.0
+Anas platyrhynchos_Mallard,0.59794104,25.0,28.0
+Anas fulvigula_Mottled Duck,0.37276712,25.0,28.0
+Anas diazi_Mexican Duck,0.19588012,25.0,28.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.14167178,25.0,28.0
+Anas rubripes_American Black Duck,0.11793212,25.0,28.0
+Anas platyrhynchos_Mallard,0.5639814,26.0,29.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.16354607,26.0,29.0
+Anas diazi_Mexican Duck,0.12361778,26.0,29.0
+Anas platyrhynchos_Mallard,0.6156033,27.0,30.0
+Anas fulvigula_Mottled Duck,0.307175,27.0,30.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.16665347,27.0,30.0
+Anas platyrhynchos_Mallard,0.5214509,28.0,31.0
+Anas fulvigula_Mottled Duck,0.2801653,28.0,31.0
+Anas platyrhynchos_Mallard,0.84447086,29.0,32.0
+Anas fulvigula_Mottled Duck,0.53414917,29.0,32.0
+Anas rubripes_American Black Duck,0.1502595,29.0,32.0
+Anas platyrhynchos_Mallard,0.65717494,30.0,33.0
+Anas fulvigula_Mottled Duck,0.39205673,30.0,33.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.11760212,30.0,33.0
+Anas rubripes_American Black Duck,0.10711984,30.0,33.0
+Anas diazi_Mexican Duck,0.10147255,30.0,33.0
+Anas platyrhynchos_Mallard,0.4693184,31.0,34.0
+Anas fulvigula_Mottled Duck,0.46931177,31.0,34.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.3671824,31.0,34.0
+Anas platyrhynchos_Mallard,0.43256837,32.0,35.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.3290111,32.0,35.0
+Anas fulvigula_Mottled Duck,0.1773953,32.0,35.0
+Anas platyrhynchos_Mallard,0.23366682,33.0,36.0
+Anas fulvigula_Mottled Duck,0.20880556,33.0,36.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.1409514,33.0,36.0
+Anas diazi_Mexican Duck,0.14062919,33.0,36.0

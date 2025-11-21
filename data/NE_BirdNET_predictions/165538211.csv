@@ -1,0 +1,96 @@
+species,score,start_time,end_time
+Locustella luscinioides_Savi's Warbler,0.19498794,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.11575542,0.0,3.0
+Protonotaria citrea_Prothonotary Warbler,0.98383623,1.0,4.0
+Protonotaria citrea_Prothonotary Warbler,0.99275535,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.98816025,3.0,6.0
+Protonotaria citrea_Prothonotary Warbler,0.9377313,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.26090723,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.11204435,5.0,8.0
+Contopus virens_Eastern Wood-Pewee,0.37377414,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.122642964,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.11031379,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.302197,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.3773276,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.630382,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.82333875,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.97773075,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.8447418,12.0,15.0
+Setophaga pinus_Pine Warbler,0.20117491,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14328967,13.0,16.0
+Peucaea aestivalis_Bachman's Sparrow,0.12395257,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.10015734,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21734415,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.1523959,14.0,17.0
+Setophaga pinus_Pine Warbler,0.102672294,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.14024872,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10597941,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.40056303,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.39403588,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.343172,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.14941545,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12338156,19.0,22.0
+Protonotaria citrea_Prothonotary Warbler,0.9452991,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.9638213,21.0,24.0
+Protonotaria citrea_Prothonotary Warbler,0.99033374,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.9798425,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.3441026,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.33477184,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.41329294,26.0,29.0
+Limnothlypis swainsonii_Swainson's Warbler,0.115897715,26.0,29.0
+Corvus ossifragus_Fish Crow,0.27732152,27.0,30.0
+Otus scops_Eurasian Scops-Owl,0.14376019,29.0,32.0
+Corvus ossifragus_Fish Crow,0.12714685,29.0,32.0
+Locustella luscinioides_Savi's Warbler,0.5959381,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.3982672,33.0,36.0
+Protonotaria citrea_Prothonotary Warbler,0.9839279,34.0,37.0
+Protonotaria citrea_Prothonotary Warbler,0.9915868,35.0,38.0
+Protonotaria citrea_Prothonotary Warbler,0.99412763,36.0,39.0
+Protonotaria citrea_Prothonotary Warbler,0.99647325,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.7329679,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.8311992,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.7504105,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.17246176,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.656641,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20895696,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.16819537,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.11344682,41.0,44.0
+Corvus brachyrhynchos_American Crow,0.40410933,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.13106297,42.0,45.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12039786,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.775623,43.0,46.0
+Contopus virens_Eastern Wood-Pewee,0.6301518,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.7741297,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.34428525,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.12009025,47.0,50.0
+Contopus virens_Eastern Wood-Pewee,0.11504684,48.0,51.0
+Setophaga pinus_Pine Warbler,0.10190392,49.0,52.0
+Setophaga pinus_Pine Warbler,0.3177765,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.11146281,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.46931776,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.7094156,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.8909935,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.8406726,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.26836455,55.0,58.0
+Corvus brachyrhynchos_American Crow,0.1252503,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.50139093,56.0,59.0
+Contopus virens_Eastern Wood-Pewee,0.13043413,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.59098,57.0,60.0
+Protonotaria citrea_Prothonotary Warbler,0.9835194,58.0,61.0
+Protonotaria citrea_Prothonotary Warbler,0.9965857,59.0,62.0
+Protonotaria citrea_Prothonotary Warbler,0.9976088,60.0,63.0
+Protonotaria citrea_Prothonotary Warbler,0.99162406,61.0,64.0
+Contopus virens_Eastern Wood-Pewee,0.565969,62.0,65.0
+Setophaga dominica_Yellow-throated Warbler,0.8090229,63.0,66.0
+Setophaga dominica_Yellow-throated Warbler,0.934163,64.0,67.0
+Setophaga dominica_Yellow-throated Warbler,0.8378737,65.0,68.0
+Contopus virens_Eastern Wood-Pewee,0.74249136,66.0,69.0
+Contopus virens_Eastern Wood-Pewee,0.92061096,67.0,70.0
+Contopus virens_Eastern Wood-Pewee,0.79255766,68.0,71.0
+Protonotaria citrea_Prothonotary Warbler,0.98628926,69.0,72.0
+Protonotaria citrea_Prothonotary Warbler,0.9858722,70.0,73.0
+Protonotaria citrea_Prothonotary Warbler,0.98303753,71.0,74.0
+Protonotaria citrea_Prothonotary Warbler,0.9718318,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.5174281,73.0,75.07201814058956
+Helmitheros vermivorum_Worm-eating Warbler,0.14073977,73.0,75.07201814058956
+Contopus virens_Eastern Wood-Pewee,0.116702065,73.0,75.07201814058956
