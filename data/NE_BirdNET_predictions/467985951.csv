@@ -1,0 +1,79 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.9773207,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.91389734,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17093462,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14143263,3.0,6.0
+Parkesia motacilla_Louisiana Waterthrush,0.13189743,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11658351,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.10499316,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.131486,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15282859,8.0,11.0
+Setophaga dominica_Yellow-throated Warbler,0.12883545,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.46043217,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.18695845,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12835799,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.8600809,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.94480264,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.92514116,16.0,19.0
+Phylloscopus sibilatrix_Wood Warbler,0.23919544,17.0,20.0
+Regulus regulus_Goldcrest,0.17217532,17.0,20.0
+Certhia familiaris_Eurasian Treecreeper,0.11323355,17.0,20.0
+Tetrastes bonasia_Hazel Grouse,0.13827705,18.0,21.0
+Certhia familiaris_Eurasian Treecreeper,0.109223045,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.2453058,19.0,22.0
+Tetrastes bonasia_Hazel Grouse,0.13839652,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.27092603,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.3062576,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.173168,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.1468908,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12427856,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.16348934,23.0,26.0
+Contopus sordidulus_Western Wood-Pewee,0.39425552,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.16362691,26.0,29.0
+Vireo philadelphicus_Philadelphia Vireo,0.2454571,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.1177072,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.9528442,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.96158624,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.53918445,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.1829634,31.0,34.0
+Tetrastes bonasia_Hazel Grouse,0.43749714,32.0,35.0
+Certhia familiaris_Eurasian Treecreeper,0.18999824,32.0,35.0
+Regulus regulus_Goldcrest,0.1089325,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.163886,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.27367252,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.2562587,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17932725,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.15804504,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123533405,38.0,41.0
+Vireo solitarius_Blue-headed Vireo,0.3558809,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16111028,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.119829945,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.116072014,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.92845887,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.97425395,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.9711032,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10655694,50.0,53.0
+Vireo solitarius_Blue-headed Vireo,0.5262293,52.0,55.0
+Vireo solitarius_Blue-headed Vireo,0.9316685,53.0,56.0
+Vireo solitarius_Blue-headed Vireo,0.12712787,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15241954,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.14041393,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11165555,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14596364,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.12879382,57.0,60.0
+Vireo solitarius_Blue-headed Vireo,0.11798034,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.16930802,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12368848,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.21443796,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16295739,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11743176,60.0,63.0
+Empidonax virescens_Acadian Flycatcher,0.10073238,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14618677,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.107196465,61.0,64.0
+Empidonax virescens_Acadian Flycatcher,0.8372891,62.0,65.0
+Empidonax virescens_Acadian Flycatcher,0.9636736,63.0,66.0
+Empidonax virescens_Acadian Flycatcher,0.964919,64.0,67.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21930717,65.0,67.15201814058958
+Empidonax virescens_Acadian Flycatcher,0.15703973,65.0,67.15201814058958
+Setophaga citrina_Hooded Warbler,0.123810545,65.0,67.15201814058958
+Parkesia motacilla_Louisiana Waterthrush,0.101628035,65.0,67.15201814058958

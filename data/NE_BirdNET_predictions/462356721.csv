@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Icteria virens_Yellow-breasted Chat,0.10068815,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.5490689,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.89547485,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.93215144,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.7688255,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.14655237,6.0,9.0
+Engine_Engine,0.520819,10.0,13.0
+Engine_Engine,0.63660055,11.0,14.0
+Engine_Engine,0.18928753,12.0,15.0
+Engine_Engine,0.34417614,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.6073954,15.0,18.0
+Protonotaria citrea_Prothonotary Warbler,0.24064302,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.60535336,16.0,19.0
+Protonotaria citrea_Prothonotary Warbler,0.1198036,16.0,19.0
+Protonotaria citrea_Prothonotary Warbler,0.23951346,17.0,20.0
+Setophaga dominica_Yellow-throated Warbler,0.10131069,17.0,20.0
+Cardinalis cardinalis_Northern Cardinal,0.17228553,23.0,26.0
+Poecile atricapillus_Black-capped Chickadee,0.1187829,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.19243677,24.0,27.0
+Poecile atricapillus_Black-capped Chickadee,0.12553072,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.55776215,25.0,28.0
+Setophaga ruticilla_American Redstart,0.15169385,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.78935206,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.8679361,27.0,30.0
+Protonotaria citrea_Prothonotary Warbler,0.10096326,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.65691936,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.33904988,29.0,32.0
+Poecile atricapillus_Black-capped Chickadee,0.14284702,30.0,33.0
+Cyanocitta cristata_Blue Jay,0.10631192,34.0,37.0
+Cardinalis cardinalis_Northern Cardinal,0.10238849,36.0,39.0
+Passerina cyanea_Indigo Bunting,0.90584624,37.0,40.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.2195114,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.8122561,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.5222674,39.0,42.0
+Setophaga ruticilla_American Redstart,0.15281506,39.0,42.0
+Passerina cyanea_Indigo Bunting,0.5856613,40.0,43.0
+Cyanocitta cristata_Blue Jay,0.10017942,41.0,44.0
+Poecile atricapillus_Black-capped Chickadee,0.1182216,45.0,48.0
+Poecile atricapillus_Black-capped Chickadee,0.29614884,46.0,49.0
+Cyanocitta cristata_Blue Jay,0.20774569,46.0,49.0
+Passerina cyanea_Indigo Bunting,0.6418262,50.0,53.0
+Passerina cyanea_Indigo Bunting,0.9301492,51.0,54.0
+Passerina cyanea_Indigo Bunting,0.91699463,52.0,55.0
+Setophaga ruticilla_American Redstart,0.115152195,52.0,55.0
+Passerina cyanea_Indigo Bunting,0.83251023,53.0,56.0
+Cyanocitta cristata_Blue Jay,0.3609631,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.3175623,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.1912253,55.0,58.0
+Cyanocitta cristata_Blue Jay,0.15582092,55.0,58.0
+Turdus migratorius_American Robin,0.13235542,55.0,58.0
+Piranga ludoviciana_Western Tanager,0.13551743,56.0,59.0
+Piranga ludoviciana_Western Tanager,0.767774,57.0,60.0
+Piranga ludoviciana_Western Tanager,0.4767077,58.0,61.0
+Chiroxiphia linearis_Long-tailed Manakin,0.22710583,59.0,62.0
+Cantorchilus modestus_Cabanis's Wren,0.45363218,63.0,66.0
+Passerina cyanea_Indigo Bunting,0.898,64.0,67.0
+Passerina cyanea_Indigo Bunting,0.76184434,65.0,68.0
+Passerina cyanea_Indigo Bunting,0.8495159,66.0,69.0
+Myzomela sanguinolenta_Scarlet Myzomela,0.12577586,67.0,70.0
+Rallus aquaticus_Water Rail,0.4264412,68.0,71.0
+Ardea cinerea_Gray Heron,0.19379339,70.0,73.0
+Passerina cyanea_Indigo Bunting,0.53674984,76.0,79.0
+Passerina cyanea_Indigo Bunting,0.9213509,77.0,80.0
+Empidonax alnorum_Alder Flycatcher,0.23025104,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.8971471,78.0,81.0
+Passerina cyanea_Indigo Bunting,0.5872804,79.0,82.0
+Rallus aquaticus_Water Rail,0.15630315,81.0,84.0
+Haemorhous purpureus_Purple Finch,0.11871101,81.0,84.0
+Haemorhous purpureus_Purple Finch,0.3119252,85.0,88.0
+Haemorhous purpureus_Purple Finch,0.27268937,86.0,89.0
+Cardinalis cardinalis_Northern Cardinal,0.117790185,86.0,89.0
+Cardinalis cardinalis_Northern Cardinal,0.24186097,87.0,90.0
+Haemorhous purpureus_Purple Finch,0.21955842,87.0,90.0
+Cyanocitta cristata_Blue Jay,0.20383179,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.12491368,87.0,90.0
+Haemorhous purpureus_Purple Finch,0.27300876,88.0,91.0
+Cardinalis cardinalis_Northern Cardinal,0.21218662,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.85755235,89.0,92.0
+Passerina cyanea_Indigo Bunting,0.751343,90.0,93.0
+Passerina cyanea_Indigo Bunting,0.70027244,91.0,94.0
+Parus minor_Japanese Tit,0.10610853,92.0,94.00802721088435

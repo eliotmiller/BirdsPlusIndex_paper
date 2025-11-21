@@ -1,0 +1,63 @@
+species,score,start_time,end_time
+Turdus migratorius_American Robin,0.11486853,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.3100969,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14619417,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.99603784,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.99163777,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.98955256,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.9979646,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.99944896,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.9999175,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.9997316,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.99519545,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.90746,10.0,13.0
+Rallus limicola_Virginia Rail,0.18521401,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.15100338,11.0,14.0
+Gallinago delicata_Wilson's Snipe,0.15666035,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11500918,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.102374315,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13804838,13.0,16.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1085058,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.9602251,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.27837342,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.99531424,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.98407054,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.99356765,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.99935275,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.9997608,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.9686058,22.0,25.0
+Molothrus ater_Brown-headed Cowbird,0.38828555,22.0,25.0
+Molothrus ater_Brown-headed Cowbird,0.18690287,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.13867994,23.0,26.0
+Gallinago delicata_Wilson's Snipe,0.3820079,24.0,27.0
+Gallinago delicata_Wilson's Snipe,0.16472606,25.0,28.0
+Gallinula galeata_Common Gallinule,0.20920102,26.0,29.0
+Podilymbus podiceps_Pied-billed Grebe,0.14571129,26.0,29.0
+Gallinago delicata_Wilson's Snipe,0.1315454,26.0,29.0
+Podiceps auritus_Horned Grebe,0.11568006,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.9959124,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11421373,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.990087,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.997663,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.99524695,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.94596845,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.36057678,32.0,35.0
+Melospiza melodia_Song Sparrow,0.1999481,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.12894191,33.0,36.0
+Melospiza melodia_Song Sparrow,0.15848859,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.15776724,34.0,37.0
+Pooecetes gramineus_Vesper Sparrow,0.13135256,34.0,37.0
+Melospiza melodia_Song Sparrow,0.46297485,35.0,38.0
+Pooecetes gramineus_Vesper Sparrow,0.18340066,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.16043058,35.0,38.0
+Pooecetes gramineus_Vesper Sparrow,0.13404998,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.11936441,36.0,39.0
+Pooecetes gramineus_Vesper Sparrow,0.20850931,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.38304943,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.2643953,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.711317,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.7421021,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.66248786,43.0,46.0
+Calamospiza melanocorys_Lark Bunting,0.12648797,48.0,51.0
+Pooecetes gramineus_Vesper Sparrow,0.12314747,48.0,51.0
+Pooecetes gramineus_Vesper Sparrow,0.17518847,50.0,53.0

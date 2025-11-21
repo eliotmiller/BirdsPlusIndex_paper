@@ -1,0 +1,302 @@
+species,score,start_time,end_time
+Accipiter cooperii_Cooper's Hawk,0.46915054,0.0,3.0
+Accipiter cooperii_Cooper's Hawk,0.50709903,1.0,4.0
+Accipiter cooperii_Cooper's Hawk,0.8630477,2.0,5.0
+Accipiter cooperii_Cooper's Hawk,0.9886227,3.0,6.0
+Accipiter cooperii_Cooper's Hawk,0.99316734,4.0,7.0
+Accipiter cooperii_Cooper's Hawk,0.9828927,5.0,8.0
+Accipiter cooperii_Cooper's Hawk,0.98482645,6.0,9.0
+Accipiter cooperii_Cooper's Hawk,0.7473421,7.0,10.0
+Accipiter cooperii_Cooper's Hawk,0.9747927,8.0,11.0
+Accipiter cooperii_Cooper's Hawk,0.95700836,9.0,12.0
+Accipiter cooperii_Cooper's Hawk,0.5914651,10.0,13.0
+Falcunculus frontatus_Crested Shrike-tit,0.18726082,14.0,17.0
+Colluricincla harmonica_Gray Shrikethrush,0.11693862,14.0,17.0
+Chaetura pelagica_Chimney Swift,0.20834583,17.0,20.0
+Accipiter cooperii_Cooper's Hawk,0.906283,18.0,21.0
+Accipiter cooperii_Cooper's Hawk,0.99924064,19.0,22.0
+Accipiter cooperii_Cooper's Hawk,0.99919814,20.0,23.0
+Accipiter cooperii_Cooper's Hawk,0.9772209,21.0,24.0
+Accipiter cooperii_Cooper's Hawk,0.9947942,22.0,25.0
+Helicolestes hamatus_Slender-billed Kite,0.12110771,22.0,25.0
+Accipiter cooperii_Cooper's Hawk,0.9710518,23.0,26.0
+Vanellus vanellus_Northern Lapwing,0.40660223,23.0,26.0
+Helicolestes hamatus_Slender-billed Kite,0.11362093,23.0,26.0
+Accipiter cooperii_Cooper's Hawk,0.60687566,24.0,27.0
+Helicolestes hamatus_Slender-billed Kite,0.38887048,24.0,27.0
+Accipiter cooperii_Cooper's Hawk,0.11858647,25.0,28.0
+Accipiter cooperii_Cooper's Hawk,0.9675976,26.0,29.0
+Accipiter cooperii_Cooper's Hawk,0.9685866,27.0,30.0
+Accipiter cooperii_Cooper's Hawk,0.9936079,28.0,31.0
+Accipiter cooperii_Cooper's Hawk,0.94925714,29.0,32.0
+Accipiter cooperii_Cooper's Hawk,0.9330102,30.0,33.0
+Accipiter cooperii_Cooper's Hawk,0.94739544,31.0,34.0
+Accipiter cooperii_Cooper's Hawk,0.2436274,32.0,35.0
+Accipiter cooperii_Cooper's Hawk,0.67718923,33.0,36.0
+Rupornis magnirostris_Roadside Hawk,0.13095357,34.0,37.0
+Accipiter cooperii_Cooper's Hawk,0.98102486,35.0,38.0
+Aramus guarauna_Limpkin,0.12710461,35.0,38.0
+Accipiter cooperii_Cooper's Hawk,0.99864334,36.0,39.0
+Accipiter cooperii_Cooper's Hawk,0.99664235,37.0,40.0
+Accipiter cooperii_Cooper's Hawk,0.94796747,38.0,41.0
+Accipiter cooperii_Cooper's Hawk,0.99625766,39.0,42.0
+Accipiter cooperii_Cooper's Hawk,0.98986685,40.0,43.0
+Accipiter cooperii_Cooper's Hawk,0.8787924,41.0,44.0
+Accipiter cooperii_Cooper's Hawk,0.98845077,42.0,45.0
+Accipiter cooperii_Cooper's Hawk,0.99855703,43.0,46.0
+Accipiter cooperii_Cooper's Hawk,0.9820238,44.0,47.0
+Accipiter cooperii_Cooper's Hawk,0.9952022,45.0,48.0
+Gallinula galeata_Common Gallinule,0.22317569,45.0,48.0
+Accipiter cooperii_Cooper's Hawk,0.9847719,46.0,49.0
+Accipiter cooperii_Cooper's Hawk,0.9938034,47.0,50.0
+Accipiter cooperii_Cooper's Hawk,0.8325491,48.0,51.0
+Accipiter cooperii_Cooper's Hawk,0.97887385,49.0,52.0
+Accipiter cooperii_Cooper's Hawk,0.1782097,50.0,53.0
+Accipiter cooperii_Cooper's Hawk,0.8032689,51.0,54.0
+Accipiter cooperii_Cooper's Hawk,0.9533101,52.0,55.0
+Accipiter cooperii_Cooper's Hawk,0.99234277,53.0,56.0
+Accipiter cooperii_Cooper's Hawk,0.99710304,54.0,57.0
+Accipiter cooperii_Cooper's Hawk,0.983146,55.0,58.0
+Accipiter cooperii_Cooper's Hawk,0.7536061,56.0,59.0
+Porphyrio martinica_Purple Gallinule,0.21891335,56.0,59.0
+Vanellus vanellus_Northern Lapwing,0.1395499,56.0,59.0
+Accipiter cooperii_Cooper's Hawk,0.9830101,57.0,60.0
+Accipiter cooperii_Cooper's Hawk,0.94094527,58.0,61.0
+Accipiter cooperii_Cooper's Hawk,0.8205576,59.0,62.0
+Rupornis magnirostris_Roadside Hawk,0.15560643,59.0,62.0
+Accipiter cooperii_Cooper's Hawk,0.81020653,60.0,63.0
+Vanellus vanellus_Northern Lapwing,0.2393643,60.0,63.0
+Accipiter cooperii_Cooper's Hawk,0.9379676,61.0,64.0
+Vanellus vanellus_Northern Lapwing,0.10078762,61.0,64.0
+Accipiter cooperii_Cooper's Hawk,0.97081023,62.0,65.0
+Vanellus vanellus_Northern Lapwing,0.26135412,62.0,65.0
+Accipiter cooperii_Cooper's Hawk,0.98460555,63.0,66.0
+Accipiter cooperii_Cooper's Hawk,0.9964342,64.0,67.0
+Accipiter cooperii_Cooper's Hawk,0.989995,65.0,68.0
+Accipiter cooperii_Cooper's Hawk,0.6952826,66.0,69.0
+Rupornis magnirostris_Roadside Hawk,0.4833963,66.0,69.0
+Ictinia mississippiensis_Mississippi Kite,0.1446284,66.0,69.0
+Accipiter cooperii_Cooper's Hawk,0.9157958,68.0,71.0
+Chordeiles minor_Common Nighthawk,0.12774207,68.0,71.0
+Accipiter cooperii_Cooper's Hawk,0.80034447,69.0,72.0
+Accipiter cooperii_Cooper's Hawk,0.3031191,70.0,73.0
+Vanellus vanellus_Northern Lapwing,0.621982,71.0,74.0
+Accipiter cooperii_Cooper's Hawk,0.35993502,71.0,74.0
+Accipiter cooperii_Cooper's Hawk,0.47161078,72.0,75.0
+Vanellus vanellus_Northern Lapwing,0.3310822,72.0,75.0
+Accipiter cooperii_Cooper's Hawk,0.40278152,73.0,76.0
+Vanellus vanellus_Northern Lapwing,0.18483974,73.0,76.0
+Helicolestes hamatus_Slender-billed Kite,0.14863971,73.0,76.0
+Accipiter cooperii_Cooper's Hawk,0.8288709,74.0,77.0
+Helicolestes hamatus_Slender-billed Kite,0.114352085,74.0,77.0
+Megarynchus pitangua_Boat-billed Flycatcher,0.6960365,75.0,78.0
+Buteo jamaicensis_Red-tailed Hawk,0.57126147,78.0,81.0
+Buteo swainsoni_Swainson's Hawk,0.23214914,78.0,81.0
+Accipiter cooperii_Cooper's Hawk,0.17423604,78.0,81.0
+Accipiter cooperii_Cooper's Hawk,0.9140009,79.0,82.0
+Accipiter cooperii_Cooper's Hawk,0.98062897,80.0,83.0
+Accipiter cooperii_Cooper's Hawk,0.98159283,81.0,84.0
+Accipiter cooperii_Cooper's Hawk,0.99739385,82.0,85.0
+Rupornis magnirostris_Roadside Hawk,0.86336696,83.0,86.0
+Accipiter cooperii_Cooper's Hawk,0.3544537,83.0,86.0
+Vireo solitarius_Blue-headed Vireo,0.14287485,84.0,87.0
+Spinus tristis_American Goldfinch,0.5216124,87.0,90.0
+Spinus tristis_American Goldfinch,0.5578363,88.0,91.0
+Spinus tristis_American Goldfinch,0.13692191,89.0,92.0
+Accipiter cooperii_Cooper's Hawk,0.94472575,91.0,94.0
+Accipiter cooperii_Cooper's Hawk,0.94520295,92.0,95.0
+Accipiter cooperii_Cooper's Hawk,0.94464296,93.0,96.0
+Accipiter cooperii_Cooper's Hawk,0.9562058,94.0,97.0
+Accipiter cooperii_Cooper's Hawk,0.9759788,95.0,98.0
+Accipiter cooperii_Cooper's Hawk,0.6689691,96.0,99.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.28431284,96.0,99.0
+Leucophaeus atricilla_Laughing Gull,0.19322464,96.0,99.0
+Buteo jamaicensis_Red-tailed Hawk,0.5789326,98.0,101.0
+Accipiter cooperii_Cooper's Hawk,0.32663777,98.0,101.0
+Accipiter cooperii_Cooper's Hawk,0.8350081,99.0,102.0
+Dumetella carolinensis_Gray Catbird,0.15064335,99.0,102.0
+Accipiter cooperii_Cooper's Hawk,0.8357267,100.0,103.0
+Dumetella carolinensis_Gray Catbird,0.10163113,101.0,104.0
+Vanellus vanellus_Northern Lapwing,0.22861044,102.0,105.0
+Vanellus vanellus_Northern Lapwing,0.30896285,103.0,106.0
+Vanellus vanellus_Northern Lapwing,0.7365768,104.0,107.0
+Accipiter cooperii_Cooper's Hawk,0.7325165,104.0,107.0
+Accipiter cooperii_Cooper's Hawk,0.9950729,105.0,108.0
+Vanellus vanellus_Northern Lapwing,0.19777018,105.0,108.0
+Accipiter cooperii_Cooper's Hawk,0.98005384,106.0,109.0
+Porphyrio martinica_Purple Gallinule,0.17670082,106.0,109.0
+Vanellus vanellus_Northern Lapwing,0.14900717,106.0,109.0
+Tachybaptus dominicus_Least Grebe,0.10940072,106.0,109.0
+Accipiter cooperii_Cooper's Hawk,0.2529007,107.0,110.0
+Accipiter cooperii_Cooper's Hawk,0.2630839,108.0,111.0
+Megarynchus pitangua_Boat-billed Flycatcher,0.13742794,108.0,111.0
+Accipiter cooperii_Cooper's Hawk,0.3326427,109.0,112.0
+Engine_Engine,0.30200607,120.0,123.0
+Ramphocelus dimidiatus_Crimson-backed Tanager,0.12438261,122.0,125.0
+Haliastur indus_Brahminy Kite,0.1048419,122.0,125.0
+Haliastur indus_Brahminy Kite,0.10374016,124.0,127.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.76865256,125.0,128.0
+Accipiter cooperii_Cooper's Hawk,0.50982213,125.0,128.0
+Buteo lineatus_Red-shouldered Hawk,0.17956965,125.0,128.0
+Accipiter cooperii_Cooper's Hawk,0.6138579,126.0,129.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.21758914,126.0,129.0
+Accipiter cooperii_Cooper's Hawk,0.58513224,127.0,130.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.33274248,128.0,131.0
+Rallus aquaticus_Water Rail,0.14690208,128.0,131.0
+Dumetella carolinensis_Gray Catbird,0.13164552,131.0,134.0
+Accipiter cooperii_Cooper's Hawk,0.7708468,135.0,138.0
+Accipiter cooperii_Cooper's Hawk,0.84225637,136.0,139.0
+Accipiter cooperii_Cooper's Hawk,0.9794194,140.0,143.0
+Accipiter cooperii_Cooper's Hawk,0.95215255,141.0,144.0
+Accipiter cooperii_Cooper's Hawk,0.9428907,142.0,145.0
+Sialia sialis_Eastern Bluebird,0.12512304,143.0,146.0
+Accipiter cooperii_Cooper's Hawk,0.9793849,147.0,150.0
+Accipiter cooperii_Cooper's Hawk,0.9958307,148.0,151.0
+Accipiter cooperii_Cooper's Hawk,0.9968575,149.0,152.0
+Accipiter cooperii_Cooper's Hawk,0.9870215,150.0,153.0
+Accipiter cooperii_Cooper's Hawk,0.47818434,151.0,154.0
+Rupornis magnirostris_Roadside Hawk,0.26798564,151.0,154.0
+Poliocrania exsul_Chestnut-backed Antbird,0.21000993,159.0,162.0
+Oncostoma olivaceum_Southern Bentbill,0.18558206,159.0,162.0
+Accipiter cooperii_Cooper's Hawk,0.44620824,164.0,167.0
+Aramus guarauna_Limpkin,0.14553684,164.0,167.0
+Aramus guarauna_Limpkin,0.18930274,165.0,168.0
+Accipiter cooperii_Cooper's Hawk,0.18881944,165.0,168.0
+Accipiter cooperii_Cooper's Hawk,0.398989,166.0,169.0
+Pitangus sulphuratus_Great Kiskadee,0.27588767,170.0,173.0
+Hylopezus perspicillatus_Streak-chested Antpitta,0.147573,171.0,174.0
+Poecile atricapillus_Black-capped Chickadee,0.10107263,171.0,174.0
+Accipiter cooperii_Cooper's Hawk,0.9875652,185.0,188.0
+Accipiter cooperii_Cooper's Hawk,0.9922387,186.0,189.0
+Vanellus vanellus_Northern Lapwing,0.17839867,186.0,189.0
+Accipiter cooperii_Cooper's Hawk,0.99581224,187.0,190.0
+Accipiter cooperii_Cooper's Hawk,0.9644118,188.0,191.0
+Aviceda subcristata_Pacific Baza,0.19684651,191.0,194.0
+Engine_Engine,0.13058396,197.0,200.0
+Engine_Engine,0.108765915,198.0,201.0
+Ictinia mississippiensis_Mississippi Kite,0.12340618,203.0,206.0
+Dumetella carolinensis_Gray Catbird,0.86983603,204.0,207.0
+Accipiter cooperii_Cooper's Hawk,0.31990775,204.0,207.0
+Accipiter cooperii_Cooper's Hawk,0.91196483,205.0,208.0
+Dumetella carolinensis_Gray Catbird,0.12911049,205.0,208.0
+Accipiter cooperii_Cooper's Hawk,0.9895349,206.0,209.0
+Piculus callopterus_Stripe-cheeked Woodpecker,0.119915456,206.0,209.0
+Accipiter cooperii_Cooper's Hawk,0.9868302,207.0,210.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14115375,207.0,210.0
+Accipiter cooperii_Cooper's Hawk,0.97535986,208.0,211.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.4164341,208.0,211.0
+Piculus callopterus_Stripe-cheeked Woodpecker,0.19364311,208.0,211.0
+Accipiter cooperii_Cooper's Hawk,0.2893464,209.0,212.0
+Megaceryle alcyon_Belted Kingfisher,0.1257725,213.0,216.0
+Accipiter cooperii_Cooper's Hawk,0.37451828,218.0,221.0
+Buteo lineatus_Red-shouldered Hawk,0.31005415,218.0,221.0
+Accipiter cooperii_Cooper's Hawk,0.87878996,219.0,222.0
+Buteo lineatus_Red-shouldered Hawk,0.3628849,219.0,222.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17353363,219.0,222.0
+Accipiter cooperii_Cooper's Hawk,0.6429152,220.0,223.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.30955836,220.0,223.0
+Accipiter cooperii_Cooper's Hawk,0.91811484,227.0,230.0
+Accipiter cooperii_Cooper's Hawk,0.8026321,228.0,231.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.102694914,228.0,231.0
+Accipiter cooperii_Cooper's Hawk,0.90407467,229.0,232.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11489935,234.0,237.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13605891,235.0,238.0
+Pandion haliaetus_Osprey,0.58991665,236.0,239.0
+Pandion haliaetus_Osprey,0.7702979,237.0,240.0
+Pandion haliaetus_Osprey,0.9544382,238.0,241.0
+Pandion haliaetus_Osprey,0.36041683,239.0,242.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.116696484,239.0,242.0
+Pandion haliaetus_Osprey,0.805619,240.0,243.0
+Pandion haliaetus_Osprey,0.23286887,241.0,244.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.12734744,241.0,244.0
+Pandion haliaetus_Osprey,0.4924086,242.0,245.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15390441,243.0,246.0
+Archilochus colubris_Ruby-throated Hummingbird,0.12995182,244.0,247.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1264896,244.0,247.0
+Accipiter cooperii_Cooper's Hawk,0.9873625,254.0,257.0
+Gallinula galeata_Common Gallinule,0.112744786,254.0,257.0
+Accipiter cooperii_Cooper's Hawk,0.9992955,255.0,258.0
+Accipiter cooperii_Cooper's Hawk,0.9992022,256.0,259.0
+Accipiter cooperii_Cooper's Hawk,0.9975655,257.0,260.0
+Accipiter cooperii_Cooper's Hawk,0.32288358,258.0,261.0
+Dumetella carolinensis_Gray Catbird,0.116221905,258.0,261.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1295499,259.0,262.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.22574271,260.0,263.0
+Leucophaeus atricilla_Laughing Gull,0.16518755,262.0,265.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13804162,264.0,267.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.17234322,265.0,268.0
+Spinus tristis_American Goldfinch,0.10947919,265.0,268.0
+Spizella pusilla_Field Sparrow,0.102711745,265.0,268.0
+Spinus tristis_American Goldfinch,0.23560339,266.0,269.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.12928995,266.0,269.0
+Buteo jamaicensis_Red-tailed Hawk,0.4237722,267.0,270.0
+Buteo jamaicensis_Red-tailed Hawk,0.20692667,268.0,271.0
+Accipiter cooperii_Cooper's Hawk,0.20824784,270.0,273.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.25566718,272.0,275.0
+Cyanocitta cristata_Blue Jay,0.1132588,273.0,276.0
+Strix aluco_Tawny Owl,0.18052092,274.0,277.0
+Porzana carolina_Sora,0.12621668,274.0,277.0
+Strix aluco_Tawny Owl,0.26912692,275.0,278.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13076219,278.0,281.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1321835,279.0,282.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.17727701,280.0,283.0
+Allonemobius allardi_Allard's Ground Cricket,0.11345045,280.0,283.0
+Allonemobius allardi_Allard's Ground Cricket,0.18820678,281.0,284.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18225604,281.0,284.0
+Buteo jamaicensis_Red-tailed Hawk,0.8535026,282.0,285.0
+Leucophaeus atricilla_Laughing Gull,0.10255306,282.0,285.0
+Cyanocitta cristata_Blue Jay,0.110289805,283.0,286.0
+Accipiter cooperii_Cooper's Hawk,0.9408346,285.0,288.0
+Accipiter cooperii_Cooper's Hawk,0.91340166,286.0,289.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14235035,286.0,289.0
+Accipiter cooperii_Cooper's Hawk,0.602822,287.0,290.0
+Chaetura vauxi_Vaux's Swift,0.16898613,294.0,297.0
+Accipiter cooperii_Cooper's Hawk,0.7885816,295.0,298.0
+Accipiter cooperii_Cooper's Hawk,0.9285155,296.0,299.0
+Accipiter cooperii_Cooper's Hawk,0.98077846,297.0,300.0
+Accipiter cooperii_Cooper's Hawk,0.18660666,298.0,301.0
+Accipiter cooperii_Cooper's Hawk,0.3647361,299.0,302.0
+Accipiter cooperii_Cooper's Hawk,0.13132922,300.0,303.0
+Accipiter cooperii_Cooper's Hawk,0.37387288,301.0,304.0
+Chordeiles minor_Common Nighthawk,0.34885496,302.0,305.0
+Accipiter cooperii_Cooper's Hawk,0.26864272,302.0,305.0
+Accipiter cooperii_Cooper's Hawk,0.63279665,303.0,306.0
+Poliocrania exsul_Chestnut-backed Antbird,0.107703015,304.0,307.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.27911732,305.0,308.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.23138143,306.0,309.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.17089221,307.0,310.0
+Caprimulgus asiaticus_Indian Nightjar,0.11310006,311.0,314.0
+Vanellus vanellus_Northern Lapwing,0.13892747,312.0,315.0
+Vanellus vanellus_Northern Lapwing,0.4684536,313.0,316.0
+Accipiter cooperii_Cooper's Hawk,0.37296182,313.0,316.0
+Accipiter cooperii_Cooper's Hawk,0.7394664,314.0,317.0
+Accipiter cooperii_Cooper's Hawk,0.876894,315.0,318.0
+Accipiter cooperii_Cooper's Hawk,0.8006066,320.0,323.0
+Cyanocitta cristata_Blue Jay,0.19819243,320.0,323.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15409334,320.0,323.0
+Accipiter cooperii_Cooper's Hawk,0.73963326,321.0,324.0
+Accipiter cooperii_Cooper's Hawk,0.85187066,322.0,325.0
+Dumetella carolinensis_Gray Catbird,0.1206298,323.0,326.0
+Accipiter cooperii_Cooper's Hawk,0.9733533,324.0,327.0
+Accipiter cooperii_Cooper's Hawk,0.89431053,325.0,328.0
+Rupornis magnirostris_Roadside Hawk,0.12773459,325.0,328.0
+Accipiter cooperii_Cooper's Hawk,0.39807525,326.0,329.0
+Tyrannus couchii_Couch's Kingbird,0.19229735,326.0,329.0
+Accipiter cooperii_Cooper's Hawk,0.643521,328.0,331.0
+Accipiter cooperii_Cooper's Hawk,0.9126063,329.0,332.0
+Accipiter cooperii_Cooper's Hawk,0.9705805,330.0,333.0
+Accipiter cooperii_Cooper's Hawk,0.5944527,331.0,334.0
+Accipiter cooperii_Cooper's Hawk,0.4113224,332.0,335.0
+Dumetella carolinensis_Gray Catbird,0.22253896,332.0,335.0
+Accipiter cooperii_Cooper's Hawk,0.23560101,333.0,336.0
+Dumetella carolinensis_Gray Catbird,0.1203987,333.0,336.0
+Accipiter cooperii_Cooper's Hawk,0.22722118,334.0,337.0
+Accipiter cooperii_Cooper's Hawk,0.833917,335.0,338.0
+Dumetella carolinensis_Gray Catbird,0.15195231,335.0,338.0
+Accipiter cooperii_Cooper's Hawk,0.72509503,336.0,339.0
+Tyto alba_Barn Owl,0.11326668,338.0,341.0
+Engine_Engine,0.13792908,339.0,342.0
+Engine_Engine,0.10694204,340.0,343.0
+Accipiter cooperii_Cooper's Hawk,0.82695967,341.0,344.0
+Accipiter cooperii_Cooper's Hawk,0.87841964,342.0,345.0
+Accipiter cooperii_Cooper's Hawk,0.8350977,343.0,346.0

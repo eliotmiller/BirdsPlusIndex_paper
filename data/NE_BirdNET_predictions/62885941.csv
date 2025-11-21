@@ -1,0 +1,144 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.14832027,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.89340436,1.0,4.0
+Baeolophus bicolor_Tufted Titmouse,0.7381152,2.0,5.0
+Baeolophus bicolor_Tufted Titmouse,0.6827575,3.0,6.0
+Baeolophus bicolor_Tufted Titmouse,0.78785163,4.0,7.0
+Icterus galbula_Baltimore Oriole,0.27940813,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2186263,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.120122395,5.0,8.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11765547,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.11139123,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19087757,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.94057435,8.0,11.0
+Baeolophus bicolor_Tufted Titmouse,0.9672746,9.0,12.0
+Baeolophus bicolor_Tufted Titmouse,0.88733923,10.0,13.0
+Baeolophus bicolor_Tufted Titmouse,0.49254358,11.0,14.0
+Icterus galbula_Baltimore Oriole,0.28488484,11.0,14.0
+Baeolophus bicolor_Tufted Titmouse,0.7568518,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.8124849,13.0,16.0
+Baeolophus bicolor_Tufted Titmouse,0.9144327,14.0,17.0
+Baeolophus bicolor_Tufted Titmouse,0.9408009,15.0,18.0
+Buteo platypterus_Broad-winged Hawk,0.14214973,16.0,19.0
+Baeolophus bicolor_Tufted Titmouse,0.792508,17.0,20.0
+Baeolophus bicolor_Tufted Titmouse,0.85006446,18.0,21.0
+Baeolophus bicolor_Tufted Titmouse,0.93465966,19.0,22.0
+Baeolophus bicolor_Tufted Titmouse,0.96223503,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35390747,21.0,24.0
+Buteo platypterus_Broad-winged Hawk,0.23899762,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.14866112,21.0,24.0
+Baeolophus bicolor_Tufted Titmouse,0.82916373,23.0,26.0
+Baeolophus bicolor_Tufted Titmouse,0.93235195,24.0,27.0
+Baeolophus bicolor_Tufted Titmouse,0.88185,25.0,28.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22959138,26.0,29.0
+Icterus galbula_Baltimore Oriole,0.15023617,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18425399,27.0,30.0
+Buteo platypterus_Broad-winged Hawk,0.14066668,27.0,30.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1262006,27.0,30.0
+Baeolophus bicolor_Tufted Titmouse,0.8096482,28.0,31.0
+Baeolophus bicolor_Tufted Titmouse,0.92382854,29.0,32.0
+Baeolophus bicolor_Tufted Titmouse,0.9227742,30.0,33.0
+Baeolophus bicolor_Tufted Titmouse,0.9047031,31.0,34.0
+Baeolophus bicolor_Tufted Titmouse,0.87213093,32.0,35.0
+Baeolophus bicolor_Tufted Titmouse,0.8478958,33.0,36.0
+Baeolophus bicolor_Tufted Titmouse,0.93458575,34.0,37.0
+Baeolophus bicolor_Tufted Titmouse,0.6545022,35.0,38.0
+Icterus galbula_Baltimore Oriole,0.19562234,35.0,38.0
+Baeolophus bicolor_Tufted Titmouse,0.895604,36.0,39.0
+Baeolophus bicolor_Tufted Titmouse,0.78632766,37.0,40.0
+Baeolophus bicolor_Tufted Titmouse,0.9295971,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22361362,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.11267644,39.0,42.0
+Baeolophus bicolor_Tufted Titmouse,0.89428556,40.0,43.0
+Baeolophus bicolor_Tufted Titmouse,0.8759715,41.0,44.0
+Baeolophus bicolor_Tufted Titmouse,0.9253934,42.0,45.0
+Baeolophus bicolor_Tufted Titmouse,0.9122305,43.0,46.0
+Icterus galbula_Baltimore Oriole,0.116360486,44.0,47.0
+Baeolophus bicolor_Tufted Titmouse,0.91091824,45.0,48.0
+Baeolophus bicolor_Tufted Titmouse,0.9231477,46.0,49.0
+Baeolophus bicolor_Tufted Titmouse,0.940628,47.0,50.0
+Icterus galbula_Baltimore Oriole,0.7197761,48.0,51.0
+Baeolophus bicolor_Tufted Titmouse,0.29385135,48.0,51.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1292441,48.0,51.0
+Baeolophus bicolor_Tufted Titmouse,0.79883456,49.0,52.0
+Baeolophus bicolor_Tufted Titmouse,0.8954883,50.0,53.0
+Baeolophus bicolor_Tufted Titmouse,0.95740694,51.0,54.0
+Baeolophus bicolor_Tufted Titmouse,0.8387301,52.0,55.0
+Icterus galbula_Baltimore Oriole,0.13453496,52.0,55.0
+Baeolophus bicolor_Tufted Titmouse,0.96115017,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.9509952,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.95078397,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.97907376,56.0,59.0
+Baeolophus bicolor_Tufted Titmouse,0.19940074,57.0,60.0
+Baeolophus bicolor_Tufted Titmouse,0.8809683,58.0,61.0
+Baeolophus bicolor_Tufted Titmouse,0.8404494,59.0,62.0
+Baeolophus bicolor_Tufted Titmouse,0.859621,60.0,63.0
+Icterus galbula_Baltimore Oriole,0.22751157,61.0,64.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.106700435,61.0,64.0
+Baeolophus bicolor_Tufted Titmouse,0.87720454,62.0,65.0
+Baeolophus bicolor_Tufted Titmouse,0.9070146,63.0,66.0
+Baeolophus bicolor_Tufted Titmouse,0.9436721,64.0,67.0
+Baeolophus bicolor_Tufted Titmouse,0.9239078,65.0,68.0
+Icterus galbula_Baltimore Oriole,0.11191054,66.0,69.0
+Baeolophus bicolor_Tufted Titmouse,0.82161343,67.0,70.0
+Baeolophus bicolor_Tufted Titmouse,0.9000414,68.0,71.0
+Baeolophus bicolor_Tufted Titmouse,0.90500635,69.0,72.0
+Baeolophus bicolor_Tufted Titmouse,0.5856419,70.0,73.0
+Icterus galbula_Baltimore Oriole,0.12282987,70.0,73.0
+Baeolophus bicolor_Tufted Titmouse,0.94015795,71.0,74.0
+Baeolophus bicolor_Tufted Titmouse,0.8982112,72.0,75.0
+Baeolophus bicolor_Tufted Titmouse,0.942703,73.0,76.0
+Baeolophus bicolor_Tufted Titmouse,0.9230529,74.0,77.0
+Baeolophus bicolor_Tufted Titmouse,0.95865357,75.0,78.0
+Baeolophus bicolor_Tufted Titmouse,0.94918185,76.0,79.0
+Baeolophus bicolor_Tufted Titmouse,0.91885704,77.0,80.0
+Baeolophus bicolor_Tufted Titmouse,0.17549571,78.0,81.0
+Baeolophus bicolor_Tufted Titmouse,0.9090539,79.0,82.0
+Baeolophus bicolor_Tufted Titmouse,0.9651904,80.0,83.0
+Baeolophus bicolor_Tufted Titmouse,0.85636675,81.0,84.0
+Baeolophus bicolor_Tufted Titmouse,0.897506,82.0,85.0
+Baeolophus bicolor_Tufted Titmouse,0.9033544,83.0,86.0
+Baeolophus bicolor_Tufted Titmouse,0.93834794,84.0,87.0
+Baeolophus bicolor_Tufted Titmouse,0.9034164,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25111565,86.0,89.0
+Setophaga cerulea_Cerulean Warbler,0.12695774,86.0,89.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.123016454,86.0,89.0
+Setophaga fusca_Blackburnian Warbler,0.11421095,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2159951,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.11987351,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31184262,88.0,91.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10432074,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31589106,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.18587686,89.0,92.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1446431,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.118025795,89.0,92.0
+Setophaga citrina_Hooded Warbler,0.11728112,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3300214,90.0,93.0
+Setophaga citrina_Hooded Warbler,0.16242261,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.15689667,90.0,93.0
+Setophaga cerulea_Cerulean Warbler,0.113078035,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19588573,91.0,94.0
+Buteo platypterus_Broad-winged Hawk,0.13984904,91.0,94.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10481233,91.0,94.0
+Setophaga citrina_Hooded Warbler,0.102364324,91.0,94.0
+Icterus galbula_Baltimore Oriole,0.12897003,92.0,95.0
+Baeolophus bicolor_Tufted Titmouse,0.7929346,93.0,96.0
+Baeolophus bicolor_Tufted Titmouse,0.9277881,94.0,97.0
+Baeolophus bicolor_Tufted Titmouse,0.8909816,95.0,98.0
+Baeolophus bicolor_Tufted Titmouse,0.77863383,96.0,99.0
+Baeolophus bicolor_Tufted Titmouse,0.90633667,97.0,100.0
+Baeolophus bicolor_Tufted Titmouse,0.8871044,98.0,101.0
+Baeolophus bicolor_Tufted Titmouse,0.8890301,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17756215,100.0,103.0
+Setophaga cerulea_Cerulean Warbler,0.11126322,100.0,103.0
+Setophaga castanea_Bay-breasted Warbler,0.1045773,100.0,103.0
+Baeolophus bicolor_Tufted Titmouse,0.89204603,101.0,104.0
+Baeolophus bicolor_Tufted Titmouse,0.9137874,102.0,105.0
+Baeolophus bicolor_Tufted Titmouse,0.9586468,103.0,106.0
+Baeolophus bicolor_Tufted Titmouse,0.8988176,104.0,107.0
+Baeolophus bicolor_Tufted Titmouse,0.95396626,105.0,108.0
+Baeolophus bicolor_Tufted Titmouse,0.91838384,106.0,109.0
+Baeolophus bicolor_Tufted Titmouse,0.9716423,107.0,110.0
+Baeolophus bicolor_Tufted Titmouse,0.29240292,109.0,112.0
+Baeolophus bicolor_Tufted Titmouse,0.6594129,110.0,113.0
+Baeolophus bicolor_Tufted Titmouse,0.17084445,111.0,114.0

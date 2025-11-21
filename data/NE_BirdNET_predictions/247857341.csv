@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.5049948,0.0,3.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.19071403,0.0,3.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.38069162,1.0,4.0
+Lanius cristatus_Brown Shrike,0.14747208,1.0,4.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.21204104,3.0,6.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14922446,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.12634973,4.0,7.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.745734,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.3017712,5.0,8.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.25974867,6.0,9.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.218184,7.0,10.0
+Melospiza melodia_Song Sparrow,0.2100447,7.0,10.0
+Melospiza melodia_Song Sparrow,0.18705203,8.0,11.0
+Melospiza melodia_Song Sparrow,0.26061034,11.0,14.0
+Melospiza melodia_Song Sparrow,0.4673687,12.0,15.0
+Melospiza melodia_Song Sparrow,0.44349393,13.0,16.0
+Melospiza melodia_Song Sparrow,0.25632152,14.0,17.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10299779,14.0,17.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10139078,14.0,17.0
+Melospiza melodia_Song Sparrow,0.20980349,15.0,18.0
+Melospiza melodia_Song Sparrow,0.34739494,16.0,19.0
+Peucaea aestivalis_Bachman's Sparrow,0.10450622,18.0,21.0
+Poecile carolinensis_Carolina Chickadee,0.10538705,19.0,22.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.24667422,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.14313915,21.0,24.0
+Melospiza melodia_Song Sparrow,0.3265575,22.0,25.0
+Melospiza melodia_Song Sparrow,0.54046637,23.0,26.0
+Melospiza melodia_Song Sparrow,0.49723247,24.0,27.0
+Melospiza melodia_Song Sparrow,0.37073767,25.0,28.0
+Melospiza melodia_Song Sparrow,0.24788597,26.0,29.0
+Spinus tristis_American Goldfinch,0.16649778,31.0,34.0
+Anthus rubescens_American Pipit,0.10430225,35.0,38.0
+Melospiza melodia_Song Sparrow,0.10126669,35.0,38.0
+Melospiza melodia_Song Sparrow,0.25791234,37.0,40.0
+Melospiza melodia_Song Sparrow,0.106723025,39.0,42.0
+Melospiza melodia_Song Sparrow,0.112103164,41.0,44.0
+Melospiza melodia_Song Sparrow,0.105668776,42.0,45.0
+Melospiza melodia_Song Sparrow,0.58161575,45.0,48.0
+Melospiza melodia_Song Sparrow,0.4580217,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.2972934,52.0,55.0
+Melospiza melodia_Song Sparrow,0.4563416,54.0,57.0
+Melospiza melodia_Song Sparrow,0.43831438,55.0,58.0
+Melospiza melodia_Song Sparrow,0.3874862,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.24590003,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.1344794,60.0,63.0
+Hylocichla mustelina_Wood Thrush,0.34873846,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11037792,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.33588678,66.0,69.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1495368,67.0,70.0
+Melospiza melodia_Song Sparrow,0.16284524,68.0,71.0
+Melospiza melodia_Song Sparrow,0.13030382,69.0,72.0
+Melospiza melodia_Song Sparrow,0.3606433,70.0,73.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.7432877,71.0,74.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.18369058,72.0,75.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.45103619,73.0,76.0
+Hylocichla mustelina_Wood Thrush,0.69976723,74.0,77.0
+Melospiza melodia_Song Sparrow,0.10790383,76.0,79.0
+Melospiza melodia_Song Sparrow,0.13617493,77.0,80.0
+Poecile carolinensis_Carolina Chickadee,0.12118147,85.0,88.0
+Protonotaria citrea_Prothonotary Warbler,0.102509856,87.0,90.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.10388598,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.15953583,89.0,92.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.10346396,90.0,93.0

@@ -1,0 +1,51 @@
+species,score,start_time,end_time
+Calidris canutus_Red Knot,0.443726,0.0,3.0
+Calidris canutus_Red Knot,0.120423935,1.0,4.0
+Campylorhynchus griseus_Bicolored Wren,0.3200997,3.0,6.0
+Calidris canutus_Red Knot,0.29008994,4.0,7.0
+Calidris canutus_Red Knot,0.11929027,5.0,8.0
+Aythya collaris_Ring-necked Duck,0.25427243,6.0,9.0
+Calidris canutus_Red Knot,0.22143555,6.0,9.0
+Aythya collaris_Ring-necked Duck,0.26335496,7.0,10.0
+Calidris canutus_Red Knot,0.17414272,7.0,10.0
+Calidris canutus_Red Knot,0.12927778,8.0,11.0
+Aythya collaris_Ring-necked Duck,0.10258764,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.22405714,11.0,14.0
+Antrostomus carolinensis_Chuck-will's-widow,0.10976363,12.0,15.0
+Aythya collaris_Ring-necked Duck,0.3801193,14.0,17.0
+Calidris canutus_Red Knot,0.21755195,14.0,17.0
+Aythya collaris_Ring-necked Duck,0.20378585,15.0,18.0
+Aythya collaris_Ring-necked Duck,0.124565154,16.0,19.0
+Calidris canutus_Red Knot,0.123582676,19.0,22.0
+Fregata magnificens_Magnificent Frigatebird,0.21417707,20.0,23.0
+Sialia sialis_Eastern Bluebird,0.23021169,22.0,25.0
+Tringa melanoleuca_Greater Yellowlegs,0.14618997,22.0,25.0
+Pandion haliaetus_Osprey,0.93272066,23.0,26.0
+Nyctiprogne leucopyga_Band-tailed Nighthawk,0.12466924,29.0,32.0
+Calidris canutus_Red Knot,0.2665496,30.0,33.0
+Aythya collaris_Ring-necked Duck,0.13994336,31.0,34.0
+Phalaenoptilus nuttallii_Common Poorwill,0.102720864,37.0,40.0
+Haliaeetus albicilla_White-tailed Eagle,0.11987452,39.0,42.0
+Phalaenoptilus nuttallii_Common Poorwill,0.15816233,40.0,43.0
+Cygnus melancoryphus_Black-necked Swan,0.20426054,41.0,44.0
+Phalaenoptilus nuttallii_Common Poorwill,0.15117554,43.0,46.0
+Aramides albiventris_Russet-naped Wood-Rail,0.10962592,43.0,46.0
+Cygnus melancoryphus_Black-necked Swan,0.10157154,44.0,47.0
+Aramides albiventris_Russet-naped Wood-Rail,0.106766835,51.0,54.0
+Podilymbus podiceps_Pied-billed Grebe,0.13790533,57.0,60.0
+Calidris canutus_Red Knot,0.11301113,57.0,60.0
+Lagopus leucura_White-tailed Ptarmigan,0.107307255,59.0,62.0
+Hydroprogne caspia_Caspian Tern,0.18613471,71.0,74.0
+Egretta tricolor_Tricolored Heron,0.11407401,71.0,74.0
+Hydroprogne caspia_Caspian Tern,0.28507942,72.0,75.0
+Haematopus bachmani_Black Oystercatcher,0.14117755,73.0,76.0
+Pandion haliaetus_Osprey,0.21853568,74.0,77.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.10863435,74.0,77.0
+Pandion haliaetus_Osprey,0.16815153,75.0,78.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.16278274,75.0,78.0
+Haematopus bachmani_Black Oystercatcher,0.15594365,75.0,78.0
+Buteogallus anthracinus_Common Black Hawk,0.11436843,75.0,78.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.29887313,76.0,79.0
+Pandion haliaetus_Osprey,0.11085404,76.0,79.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.5008565,77.0,79.60802721088436
+Falco rufigularis_Bat Falcon,0.1028544,77.0,79.60802721088436

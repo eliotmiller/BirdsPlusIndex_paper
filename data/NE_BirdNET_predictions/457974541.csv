@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.45757794,0.0,3.0
+Parus major_Great Tit,0.30030105,0.0,3.0
+Melospiza melodia_Song Sparrow,0.62977195,1.0,4.0
+Melospiza melodia_Song Sparrow,0.15231194,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22746167,3.0,6.0
+Pipilo maculatus_Spotted Towhee,0.12785555,3.0,6.0
+Curruca curruca_Lesser Whitethroat,0.11874335,4.0,7.0
+Larvivora brunnea_Indian Blue Robin,0.4583626,5.0,8.0
+Melospiza melodia_Song Sparrow,0.2172987,5.0,8.0
+Elachura formosa_Spotted Elachura,0.1226154,5.0,8.0
+Melospiza melodia_Song Sparrow,0.5128507,6.0,9.0
+Contopus cooperi_Olive-sided Flycatcher,0.2867187,7.0,10.0
+Melospiza melodia_Song Sparrow,0.15726298,7.0,10.0
+Melospiza melodia_Song Sparrow,0.2739269,10.0,13.0
+Melospiza melodia_Song Sparrow,0.70617926,12.0,15.0
+Melospiza melodia_Song Sparrow,0.8042695,13.0,16.0
+Melospiza melodia_Song Sparrow,0.6407264,14.0,17.0
+Phylloscopus magnirostris_Large-billed Leaf Warbler,0.1390069,15.0,18.0
+Larvivora brunnea_Indian Blue Robin,0.26375467,16.0,19.0
+Phylloscopus magnirostris_Large-billed Leaf Warbler,0.14670444,16.0,19.0
+Larvivora brunnea_Indian Blue Robin,0.28526714,17.0,20.0
+Melospiza melodia_Song Sparrow,0.10255352,18.0,21.0
+Melospiza melodia_Song Sparrow,0.4095769,22.0,25.0
+Melospiza melodia_Song Sparrow,0.23313113,23.0,26.0
+Melospiza melodia_Song Sparrow,0.34736657,24.0,27.0
+Tesia cyaniventer_Gray-bellied Tesia,0.16726492,29.0,32.0
+Melospiza melodia_Song Sparrow,0.114837706,29.0,32.0
+Melospiza melodia_Song Sparrow,0.816362,30.0,33.0
+Melospiza melodia_Song Sparrow,0.2930406,31.0,34.0
+Larvivora brunnea_Indian Blue Robin,0.34297186,35.0,38.0
+Phylloscopus magnirostris_Large-billed Leaf Warbler,0.112508625,35.0,38.0
+Melospiza melodia_Song Sparrow,0.24282463,36.0,39.0
+Melospiza melodia_Song Sparrow,0.2548606,37.0,40.0
+Melospiza melodia_Song Sparrow,0.9078344,39.0,42.0
+Melospiza melodia_Song Sparrow,0.9261504,40.0,43.0
+Melospiza melodia_Song Sparrow,0.9236166,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16196127,43.0,46.0
+Melospiza melodia_Song Sparrow,0.10526606,43.0,46.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4652281,44.0,47.0
+Lophotriccus pileatus_Scale-crested Pygmy-Tyrant,0.11733916,48.0,51.0
+Melospiza melodia_Song Sparrow,0.11725426,49.0,52.0
+Melospiza melodia_Song Sparrow,0.3571294,50.0,53.0
+Rhipidura albicollis_White-throated Fantail,0.10007976,51.0,54.0
+Melospiza melodia_Song Sparrow,0.38264722,53.0,56.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14545141,54.0,57.0
+Melospiza melodia_Song Sparrow,0.9088327,56.0,59.0
+Melospiza melodia_Song Sparrow,0.72694236,57.0,60.0
+Melospiza melodia_Song Sparrow,0.95349663,58.0,61.0
+Dicrurus leucophaeus_Ashy Drongo,0.21538734,59.0,62.0
+Chloropsis aurifrons_Golden-fronted Leafbird,0.19068956,59.0,62.0
+Melospiza melodia_Song Sparrow,0.107697494,63.0,66.0
+Chloris chloris_European Greenfinch,0.16176021,65.0,68.0
+Melospiza melodia_Song Sparrow,0.39490345,66.0,69.0
+Melospiza melodia_Song Sparrow,0.15624085,67.0,70.0
+Parus major_Great Tit,0.6669271,71.0,74.0
+Parus major_Great Tit,0.18634795,72.0,75.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10054343,73.0,76.0
+Chloris chloris_European Greenfinch,0.12593101,74.0,77.0
+Conopophaga lineata_Rufous Gnateater,0.10715479,75.0,78.0
+Apus affinis_Little Swift,0.14446321,83.0,86.0
+Ficedula parva_Red-breasted Flycatcher,0.15670796,86.0,89.0
+Emberiza cirlus_Cirl Bunting,0.12528406,88.0,91.0
+Hieraaetus pennatus_Booted Eagle,0.1773401,93.0,96.0
+Chloris chloris_European Greenfinch,0.103605434,95.0,98.0
+Pycnonotus cafer_Red-vented Bulbul,0.11408463,99.0,102.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.103684664,100.0,103.0
+Turdus viscivorus_Mistle Thrush,0.1157983,103.0,105.45600907029478
+Chloris chloris_European Greenfinch,0.11542548,103.0,105.45600907029478

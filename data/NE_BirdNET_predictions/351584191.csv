@@ -1,0 +1,86 @@
+species,score,start_time,end_time
+Setophaga magnolia_Magnolia Warbler,0.74616617,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.8064638,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.71941215,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.32744792,3.0,6.0
+Setophaga dominica_Yellow-throated Warbler,0.27903202,3.0,6.0
+Certhia americana_Brown Creeper,0.13887884,3.0,6.0
+Setophaga americana_Northern Parula,0.10596198,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.87895626,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.20116541,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.77122283,5.0,8.0
+Setophaga occidentalis_Hermit Warbler,0.11500555,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.6840658,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.44238356,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.1823478,7.0,10.0
+Setophaga coronata_Yellow-rumped Warbler,0.13385494,7.0,10.0
+Setophaga occidentalis_Hermit Warbler,0.11774214,7.0,10.0
+Certhia familiaris_Eurasian Treecreeper,0.27255023,8.0,11.0
+Ficedula parva_Red-breasted Flycatcher,0.11271775,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.35850197,10.0,13.0
+Setophaga occidentalis_Hermit Warbler,0.1697686,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.88496995,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.8171385,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.33623815,13.0,16.0
+Certhia americana_Brown Creeper,0.15059611,13.0,16.0
+Certhia americana_Brown Creeper,0.6583812,14.0,17.0
+Certhia americana_Brown Creeper,0.651632,15.0,18.0
+Certhia familiaris_Eurasian Treecreeper,0.17080311,15.0,18.0
+Certhia familiaris_Eurasian Treecreeper,0.32580078,16.0,19.0
+Certhia americana_Brown Creeper,0.3187275,16.0,19.0
+Certhia familiaris_Eurasian Treecreeper,0.23783651,17.0,20.0
+Regulus satrapa_Golden-crowned Kinglet,0.2185147,17.0,20.0
+Regulus satrapa_Golden-crowned Kinglet,0.22713894,18.0,21.0
+Certhia americana_Brown Creeper,0.17084135,18.0,21.0
+Regulus satrapa_Golden-crowned Kinglet,0.31460035,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.17881764,19.0,22.0
+Larvivora cyane_Siberian Blue Robin,0.12405105,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.41918898,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.49562636,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.11343932,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.49968418,23.0,26.0
+Certhia americana_Brown Creeper,0.2086077,23.0,26.0
+Setophaga occidentalis_Hermit Warbler,0.101844825,23.0,26.0
+Certhia americana_Brown Creeper,0.3676623,24.0,27.0
+Certhia americana_Brown Creeper,0.48209044,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.15676062,25.0,28.0
+Certhia familiaris_Eurasian Treecreeper,0.11278428,25.0,28.0
+Poecile atricapillus_Black-capped Chickadee,0.18786334,27.0,30.0
+Poecile atricapillus_Black-capped Chickadee,0.1264777,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.67429,29.0,32.0
+Certhia americana_Brown Creeper,0.105991274,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.1019405,29.0,32.0
+Certhia americana_Brown Creeper,0.36733744,30.0,33.0
+Setophaga magnolia_Magnolia Warbler,0.18048373,30.0,33.0
+Setophaga magnolia_Magnolia Warbler,0.4459883,31.0,34.0
+Setophaga occidentalis_Hermit Warbler,0.14112249,31.0,34.0
+Setophaga magnolia_Magnolia Warbler,0.51155835,32.0,35.0
+Certhia americana_Brown Creeper,0.24939704,32.0,35.0
+Setophaga occidentalis_Hermit Warbler,0.18472868,32.0,35.0
+Certhia americana_Brown Creeper,0.3927785,33.0,36.0
+Setophaga magnolia_Magnolia Warbler,0.36676794,33.0,36.0
+Setophaga occidentalis_Hermit Warbler,0.20341839,33.0,36.0
+Certhia americana_Brown Creeper,0.29725996,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.17658137,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.34273714,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.20649068,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.16692148,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.11986293,37.0,40.0
+Geothlypis philadelphia_Mourning Warbler,0.116866484,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.43688467,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.25647643,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.47793293,40.0,43.0
+Certhia familiaris_Eurasian Treecreeper,0.32131806,41.0,44.0
+Certhia americana_Brown Creeper,0.40787098,42.0,45.0
+Certhia americana_Brown Creeper,0.41142827,43.0,46.0
+Setophaga pinus_Pine Warbler,0.10475307,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.8536396,46.0,49.0
+Setophaga occidentalis_Hermit Warbler,0.13133125,46.0,49.0
+Setophaga magnolia_Magnolia Warbler,0.94064635,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.81888443,48.0,51.0
+Certhia americana_Brown Creeper,0.27138722,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.160608,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.23583326,55.0,58.0
+Setophaga occidentalis_Hermit Warbler,0.1839083,55.0,58.0
+Setophaga magnolia_Magnolia Warbler,0.27771935,56.0,59.0
+Phylloscopus poliocephalus_Island Leaf Warbler,0.23113239,57.0,60.0

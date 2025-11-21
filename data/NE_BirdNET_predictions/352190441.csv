@@ -1,0 +1,151 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.3709135,1.0,4.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.261024,2.0,5.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.15133052,3.0,6.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.2830163,4.0,7.0
+Megascops asio_Eastern Screech-Owl,0.1190871,9.0,12.0
+Megascops asio_Eastern Screech-Owl,0.26858822,10.0,13.0
+Megascops asio_Eastern Screech-Owl,0.24937695,11.0,14.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.20839472,11.0,14.0
+Megascops asio_Eastern Screech-Owl,0.25211734,12.0,15.0
+Megascops asio_Eastern Screech-Owl,0.84976566,13.0,16.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.15249552,13.0,16.0
+Megascops kennicottii_Western Screech-Owl,0.11144119,13.0,16.0
+Empidonax minimus_Least Flycatcher,0.2330301,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.18712083,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.1657863,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.49137282,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.22447449,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.1721751,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.12619753,18.0,21.0
+Megascops asio_Eastern Screech-Owl,0.2565817,19.0,22.0
+Megascops asio_Eastern Screech-Owl,0.5559067,20.0,23.0
+Megascops asio_Eastern Screech-Owl,0.673594,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30953464,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33922225,22.0,25.0
+Megascops asio_Eastern Screech-Owl,0.26039287,22.0,25.0
+Megascops asio_Eastern Screech-Owl,0.14903983,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14483128,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.2001534,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.11854226,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.23170748,28.0,31.0
+Poecile carolinensis_Carolina Chickadee,0.7511402,29.0,32.0
+Poecile carolinensis_Carolina Chickadee,0.83777696,30.0,33.0
+Poecile carolinensis_Carolina Chickadee,0.848624,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.6720894,32.0,35.0
+Megascops asio_Eastern Screech-Owl,0.5834735,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.11814789,33.0,36.0
+Poecile carolinensis_Carolina Chickadee,0.9187341,34.0,37.0
+Poecile carolinensis_Carolina Chickadee,0.8901089,35.0,38.0
+Poecile carolinensis_Carolina Chickadee,0.9471508,36.0,39.0
+Poecile carolinensis_Carolina Chickadee,0.78923124,37.0,40.0
+Poecile atricapillus_Black-capped Chickadee,0.18204752,37.0,40.0
+Certhia americana_Brown Creeper,0.22608483,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.39391968,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.35236084,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.12244491,40.0,43.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12193856,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.123505756,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.14327514,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.10514883,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.13857469,43.0,46.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10071329,43.0,46.0
+Vermivora chrysoptera_Golden-winged Warbler,0.25044766,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.46201202,45.0,48.0
+Megascops asio_Eastern Screech-Owl,0.13784765,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.12857565,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.118620686,45.0,48.0
+Megascops asio_Eastern Screech-Owl,0.5967278,46.0,49.0
+Vireo olivaceus_Red-eyed Vireo,0.1465448,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.13786939,46.0,49.0
+Megascops kennicottii_Western Screech-Owl,0.51197916,47.0,50.0
+Megascops asio_Eastern Screech-Owl,0.4994451,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.18583395,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.16707157,47.0,50.0
+Grallaria squamigera_Undulated Antpitta,0.105089635,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.20815247,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.11609095,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.32974526,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.11078011,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.6261535,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.21481253,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.1719302,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.31567937,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.1701117,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.16724283,52.0,55.0
+Vireo solitarius_Blue-headed Vireo,0.104861885,52.0,55.0
+Vireo olivaceus_Red-eyed Vireo,0.29077885,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.1551887,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.1189054,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.21915637,58.0,61.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11401072,58.0,61.0
+Poecile carolinensis_Carolina Chickadee,0.18089499,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.11915008,60.0,63.0
+Poecile carolinensis_Carolina Chickadee,0.24850349,61.0,64.0
+Vireo olivaceus_Red-eyed Vireo,0.1690626,63.0,66.0
+Vireo solitarius_Blue-headed Vireo,0.14828385,63.0,66.0
+Certhia americana_Brown Creeper,0.2878102,64.0,67.0
+Vireo solitarius_Blue-headed Vireo,0.112414,65.0,68.0
+Piranga olivacea_Scarlet Tanager,0.31546885,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.2539065,66.0,69.0
+Vireo solitarius_Blue-headed Vireo,0.22025368,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.20120773,67.0,70.0
+Vireo olivaceus_Red-eyed Vireo,0.11378489,68.0,71.0
+Setophaga americana_Northern Parula,0.10867689,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.18376149,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.11976647,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.11387814,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.22545132,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.18195991,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11773579,71.0,74.0
+Megascops asio_Eastern Screech-Owl,0.28791294,72.0,75.0
+Vireo olivaceus_Red-eyed Vireo,0.1070978,72.0,75.0
+Megascops asio_Eastern Screech-Owl,0.32617092,73.0,76.0
+Megascops asio_Eastern Screech-Owl,0.17393331,74.0,77.0
+Empidonax virescens_Acadian Flycatcher,0.11877853,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.17319356,79.0,82.0
+Setophaga ruticilla_American Redstart,0.15357417,79.0,82.0
+Setophaga americana_Northern Parula,0.13811512,79.0,82.0
+Setophaga cerulea_Cerulean Warbler,0.1278474,79.0,82.0
+Setophaga cerulea_Cerulean Warbler,0.1416296,80.0,83.0
+Megascops asio_Eastern Screech-Owl,0.102052264,84.0,87.0
+Setophaga ruticilla_American Redstart,0.10065367,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.13840131,86.0,89.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11585109,86.0,89.0
+Megascops asio_Eastern Screech-Owl,0.10358128,86.0,89.0
+Vireo olivaceus_Red-eyed Vireo,0.27159593,92.0,95.0
+Piranga olivacea_Scarlet Tanager,0.12574315,93.0,96.0
+Mniotilta varia_Black-and-white Warbler,0.124748915,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.10309738,95.0,98.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11645105,96.0,99.0
+Setophaga virens_Black-throated Green Warbler,0.19189648,97.0,100.0
+Setophaga americana_Northern Parula,0.12277143,97.0,100.0
+Setophaga fusca_Blackburnian Warbler,0.1123721,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.10419597,98.0,101.0
+Setophaga cerulea_Cerulean Warbler,0.12106853,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10019609,99.0,102.0
+Empidonax virescens_Acadian Flycatcher,0.15521783,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.13884632,101.0,104.0
+Empidonax virescens_Acadian Flycatcher,0.13070823,101.0,104.0
+Empidonax virescens_Acadian Flycatcher,0.12798306,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.1182585,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.10234481,102.0,105.0
+Vireo olivaceus_Red-eyed Vireo,0.23956932,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.13143529,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.10377567,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.37301064,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.11631151,104.0,107.0
+Poecile carolinensis_Carolina Chickadee,0.56527543,106.0,109.0
+Poecile carolinensis_Carolina Chickadee,0.63784873,107.0,110.0
+Poecile carolinensis_Carolina Chickadee,0.48466036,108.0,111.0
+Empidonax virescens_Acadian Flycatcher,0.14268067,108.0,111.0
+Vireo olivaceus_Red-eyed Vireo,0.102414444,108.0,111.0
+Poecile carolinensis_Carolina Chickadee,0.14010835,109.0,112.0
+Empidonax virescens_Acadian Flycatcher,0.12795413,109.0,112.0
+Poecile carolinensis_Carolina Chickadee,0.122259334,110.0,113.0
+Setophaga americana_Northern Parula,0.12992188,111.0,114.0
+Setophaga fusca_Blackburnian Warbler,0.21245371,114.0,117.0
+Setophaga ruticilla_American Redstart,0.15763979,114.0,117.0
+Megascops asio_Eastern Screech-Owl,0.12921342,116.0,119.0
+Poecile carolinensis_Carolina Chickadee,0.26786765,117.0,120.0
+Poecile carolinensis_Carolina Chickadee,0.47595793,118.0,120.04802721088436

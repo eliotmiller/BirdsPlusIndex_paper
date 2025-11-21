@@ -1,0 +1,68 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.913934,0.0,3.0
+Charadrius vociferus_Killdeer,0.71333575,1.0,4.0
+Charadrius vociferus_Killdeer,0.72230285,2.0,5.0
+Tringa flavipes_Lesser Yellowlegs,0.9507756,4.0,7.0
+Tringa flavipes_Lesser Yellowlegs,0.9883146,5.0,8.0
+Tringa flavipes_Lesser Yellowlegs,0.9251515,6.0,9.0
+Tringa flavipes_Lesser Yellowlegs,0.95528287,7.0,10.0
+Tringa flavipes_Lesser Yellowlegs,0.9565605,8.0,11.0
+Tringa flavipes_Lesser Yellowlegs,0.8840421,9.0,12.0
+Tringa flavipes_Lesser Yellowlegs,0.946829,10.0,13.0
+Tringa flavipes_Lesser Yellowlegs,0.9964514,11.0,14.0
+Tringa flavipes_Lesser Yellowlegs,0.9940222,12.0,15.0
+Tringa flavipes_Lesser Yellowlegs,0.9987067,13.0,16.0
+Tringa flavipes_Lesser Yellowlegs,0.9967249,14.0,17.0
+Tringa flavipes_Lesser Yellowlegs,0.9966265,15.0,18.0
+Limnodromus griseus_Short-billed Dowitcher,0.10537677,15.0,18.0
+Tringa flavipes_Lesser Yellowlegs,0.9684884,16.0,19.0
+Tringa flavipes_Lesser Yellowlegs,0.9709465,17.0,20.0
+Tringa totanus_Common Redshank,0.13964891,17.0,20.0
+Tringa flavipes_Lesser Yellowlegs,0.97675395,18.0,21.0
+Tringa totanus_Common Redshank,0.15184972,18.0,21.0
+Tringa flavipes_Lesser Yellowlegs,0.99150324,19.0,22.0
+Tringa flavipes_Lesser Yellowlegs,0.9624821,20.0,23.0
+Tringa flavipes_Lesser Yellowlegs,0.54290307,21.0,24.0
+Charadrius vociferus_Killdeer,0.13525885,21.0,24.0
+Charadrius vociferus_Killdeer,0.40563375,22.0,25.0
+Tringa flavipes_Lesser Yellowlegs,0.28139895,22.0,25.0
+Recurvirostra americana_American Avocet,0.17078146,22.0,25.0
+Tringa flavipes_Lesser Yellowlegs,0.36580977,23.0,26.0
+Tringa flavipes_Lesser Yellowlegs,0.7030607,24.0,27.0
+Recurvirostra americana_American Avocet,0.36479124,24.0,27.0
+Tringa flavipes_Lesser Yellowlegs,0.70447916,25.0,28.0
+Calidris minutilla_Least Sandpiper,0.49594763,25.0,28.0
+Charadrius vociferus_Killdeer,0.14782949,25.0,28.0
+Charadrius vociferus_Killdeer,0.7620462,26.0,29.0
+Calidris minutilla_Least Sandpiper,0.28587377,26.0,29.0
+Charadrius vociferus_Killdeer,0.5144467,27.0,30.0
+Tringa flavipes_Lesser Yellowlegs,0.18423352,30.0,33.0
+Tringa flavipes_Lesser Yellowlegs,0.22661947,31.0,34.0
+Tachybaptus ruficollis_Little Grebe,0.1664797,32.0,35.0
+Charadrius vociferus_Killdeer,0.25969493,34.0,37.0
+Calidris minutilla_Least Sandpiper,0.1227812,34.0,37.0
+Accipiter fasciatus_Brown Goshawk,0.15824173,35.0,38.0
+Tringa flavipes_Lesser Yellowlegs,0.59049946,36.0,39.0
+Tringa flavipes_Lesser Yellowlegs,0.55288684,37.0,40.0
+Bombycilla cedrorum_Cedar Waxwing,0.12306289,38.0,41.0
+Tringa flavipes_Lesser Yellowlegs,0.4932486,39.0,42.0
+Tringa flavipes_Lesser Yellowlegs,0.6099973,40.0,43.0
+Limnodromus griseus_Short-billed Dowitcher,0.14349502,40.0,43.0
+Elanus leucurus_White-tailed Kite,0.10924022,40.0,43.0
+Tringa flavipes_Lesser Yellowlegs,0.8083325,41.0,44.0
+Limnodromus griseus_Short-billed Dowitcher,0.17039791,41.0,44.0
+Tringa flavipes_Lesser Yellowlegs,0.73146147,42.0,45.0
+Tringa flavipes_Lesser Yellowlegs,0.8771341,43.0,46.0
+Tringa flavipes_Lesser Yellowlegs,0.43429267,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.19023213,45.0,48.0
+Charadrius vociferus_Killdeer,0.95476204,47.0,50.0
+Charadrius vociferus_Killdeer,0.93532205,48.0,51.0
+Charadrius vociferus_Killdeer,0.9710159,49.0,52.0
+Charadrius vociferus_Killdeer,0.91630477,50.0,53.0
+Charadrius vociferus_Killdeer,0.80314803,51.0,54.0
+Calidris minutilla_Least Sandpiper,0.13152504,51.0,54.0
+Charadrius vociferus_Killdeer,0.82145387,52.0,55.0
+Charadrius vociferus_Killdeer,0.6073508,53.0,56.0
+Calidris minutilla_Least Sandpiper,0.12290538,53.0,56.0
+Charadrius vociferus_Killdeer,0.8712034,54.0,57.0
+Thalasseus maximus_Royal Tern,0.31182754,54.0,57.0
