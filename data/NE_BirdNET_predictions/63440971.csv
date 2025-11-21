@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Megascops asio_Eastern Screech-Owl,0.22525422,0.0,3.0
+Gavia immer_Common Loon,0.12649351,0.0,3.0
+Gavia immer_Common Loon,0.32776445,1.0,4.0
+Gavia immer_Common Loon,0.8799746,2.0,5.0
+Gavia immer_Common Loon,0.3238135,3.0,6.0
+Strix varia_Barred Owl,0.23284572,3.0,6.0
+Megascops asio_Eastern Screech-Owl,0.23764393,4.0,7.0
+Gavia immer_Common Loon,0.14940797,4.0,7.0
+Gavia immer_Common Loon,0.9884604,5.0,8.0
+Gavia immer_Common Loon,0.9971629,6.0,9.0
+Gavia immer_Common Loon,0.99193925,7.0,10.0
+Gavia immer_Common Loon,0.9815564,8.0,11.0
+Strix aluco_Tawny Owl,0.35350588,8.0,11.0
+Gavia immer_Common Loon,0.5566369,9.0,12.0
+Aegolius funereus_Boreal Owl,0.35178304,9.0,12.0
+Strix aluco_Tawny Owl,0.26456282,9.0,12.0
+Gavia immer_Common Loon,0.99723226,15.0,18.0
+Gavia immer_Common Loon,0.99771935,16.0,19.0
+Gavia immer_Common Loon,0.99182445,17.0,20.0
+Gavia immer_Common Loon,0.8396131,18.0,21.0
+Strix aluco_Tawny Owl,0.7480963,18.0,21.0
+Gavia immer_Common Loon,0.95763886,19.0,22.0
+Aegolius funereus_Boreal Owl,0.28889632,19.0,22.0
+Contopus pertinax_Greater Pewee,0.124793485,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13891816,37.0,40.0
+Colaptes auratus_Northern Flicker,0.25124517,45.0,48.0
+Colaptes auratus_Northern Flicker,0.12673078,46.0,49.0
+Colaptes auratus_Northern Flicker,0.39357042,47.0,50.0
+Colaptes auratus_Northern Flicker,0.3784068,48.0,51.0
+Colaptes auratus_Northern Flicker,0.18011804,49.0,52.0
+Colaptes auratus_Northern Flicker,0.15760754,50.0,53.0
+Contopus cooperi_Olive-sided Flycatcher,0.12148677,50.0,53.0
+Bubo virginianus_Great Horned Owl,0.119217135,61.0,64.0
+Bubo virginianus_Great Horned Owl,0.10404407,62.0,65.0
+Icteria virens_Yellow-breasted Chat,0.28416863,67.0,70.0
+Colinus virginianus_Northern Bobwhite,0.12857157,68.0,71.0
+Buteo platypterus_Broad-winged Hawk,0.104518645,87.0,90.0
+Buteo platypterus_Broad-winged Hawk,0.1309921,88.0,91.0
+Contopus cooperi_Olive-sided Flycatcher,0.23915258,89.0,92.0
+Gavia immer_Common Loon,0.3218788,91.0,94.0
+Columbina passerina_Common Ground Dove,0.16310604,91.0,94.0
+Gavia immer_Common Loon,0.8486305,92.0,95.0
+Gavia immer_Common Loon,0.9867241,93.0,96.0
+Gavia immer_Common Loon,0.75172275,94.0,97.0
+Strix aluco_Tawny Owl,0.13731506,94.0,97.0
+Strix aluco_Tawny Owl,0.32380015,95.0,98.0
+Gavia immer_Common Loon,0.12193353,95.0,98.0
+Oriolus oriolus_Eurasian Golden Oriole,0.2737297,99.0,102.0
+Gavia immer_Common Loon,0.9949944,105.0,108.0
+Gavia immer_Common Loon,0.98670965,106.0,109.0
+Gavia immer_Common Loon,0.97687954,107.0,110.0
+Strix aluco_Tawny Owl,0.89528775,108.0,111.0
+Aegolius funereus_Boreal Owl,0.553145,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.47396684,121.0,124.0
+Setophaga virens_Black-throated Green Warbler,0.6666013,123.0,126.0
+Gavia immer_Common Loon,0.99206626,127.0,130.0
+Gavia immer_Common Loon,0.9958098,128.0,131.0
+Gavia immer_Common Loon,0.99912685,129.0,132.0
+Gavia immer_Common Loon,0.95308757,130.0,133.0
+Strix aluco_Tawny Owl,0.7261527,130.0,133.0
+Gavia immer_Common Loon,0.77834904,131.0,134.0
+Aegolius funereus_Boreal Owl,0.22382261,131.0,134.0
+Strix aluco_Tawny Owl,0.13889018,131.0,134.0
+Strix aluco_Tawny Owl,0.12167807,132.0,135.0

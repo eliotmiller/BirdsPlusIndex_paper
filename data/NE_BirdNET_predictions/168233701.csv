@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.4448341,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.15258291,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.17365831,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.12704255,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.16177826,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.15113908,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.23624712,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.12841119,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.27636805,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.1967581,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.1475835,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.14172047,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.12373114,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.2668414,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.17350438,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.11898789,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.36898017,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.11400756,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.22681487,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.16329749,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.114765465,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.19529733,13.0,16.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8571656,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8500679,15.0,18.0
+Geothlypis philadelphia_Mourning Warbler,0.11537137,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7289305,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.12921411,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.16287853,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.30047947,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.11896275,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.17099279,21.0,24.0
+Catharus fuscescens_Veery,0.11167602,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.12240621,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.107170224,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.20258687,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10046517,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.17238891,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9247494,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9127136,27.0,30.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11729713,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.79659307,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.14313123,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.12032324,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10016845,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.22020446,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.16852815,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.19663443,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.14412518,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.17567383,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.14342937,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.13695058,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.12900698,33.0,36.0
+Catharus fuscescens_Veery,0.63129354,34.0,37.0
+Catharus fuscescens_Veery,0.85855967,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.28683266,35.0,38.0
+Catharus fuscescens_Veery,0.6652021,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.53828984,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.31207862,37.0,40.0
+Catharus fuscescens_Veery,0.1832858,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.16266434,38.0,41.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8686493,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9449767,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9223715,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.15054877,42.0,45.0
+Catharus fuscescens_Veery,0.63371515,43.0,45.50403628117914

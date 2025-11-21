@@ -1,0 +1,35 @@
+species,score,start_time,end_time
+Columba livia_Rock Pigeon,0.12607585,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.104241125,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.18135235,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.15912998,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.5158979,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.115450606,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.11047947,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.32446343,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.109778754,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.7116153,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.7024733,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.45819667,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.3182408,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.116290025,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.10035721,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.27793223,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.13913745,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.10005281,9.0,12.0
+Engine_Engine,0.25685817,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.90676814,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.9440622,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.9088108,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.16371849,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.10105208,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.83439255,24.0,27.0
+Oriolus oriolus_Eurasian Golden Oriole,0.2521203,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.8899394,25.0,28.0
+Oriolus oriolus_Eurasian Golden Oriole,0.4205999,25.0,28.0
+Oriolus oriolus_Eurasian Golden Oriole,0.98680204,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.4756084,26.0,29.0
+Engine_Engine,0.16329777,33.0,36.0
+Engine_Engine,0.23798588,35.0,38.0
+Engine_Engine,0.1204288,38.0,41.0
+Micrathene whitneyi_Elf Owl,0.35545757,39.0,42.0

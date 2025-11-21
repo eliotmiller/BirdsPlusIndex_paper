@@ -1,0 +1,24 @@
+species,score,start_time,end_time
+Glaucidium radiatum_Jungle Owlet,0.91105133,0.0,3.0
+Corvus corax_Common Raven,0.24548341,0.0,3.0
+Amaurornis phoenicurus_White-breasted Waterhen,0.124347344,0.0,3.0
+Glaucidium radiatum_Jungle Owlet,0.8147081,1.0,4.0
+Glaucidium radiatum_Jungle Owlet,0.8848333,2.0,5.0
+Glaucidium radiatum_Jungle Owlet,0.33108836,3.0,6.0
+Corvus corax_Common Raven,0.10139564,3.0,6.0
+Engine_Engine,0.1622586,4.0,7.0
+Engine_Engine,0.26441115,5.0,8.0
+Power tools_Power tools,0.12044275,5.0,8.0
+Engine_Engine,0.10197754,6.0,9.0
+Engine_Engine,0.4697309,9.0,12.0
+Power tools_Power tools,0.1505131,9.0,12.0
+Coragyps atratus_Black Vulture,0.10378597,9.0,12.0
+Engine_Engine,0.13652183,12.0,15.0
+Engine_Engine,0.18065412,13.0,16.0
+Engine_Engine,0.37126875,14.0,17.0
+Otus bakkamoena_Indian Scops-Owl,0.10508892,15.0,18.0
+Engine_Engine,0.2915712,19.0,22.0
+Engine_Engine,0.16583242,21.0,24.0
+Glaucidium radiatum_Jungle Owlet,0.13492616,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.11937536,27.0,30.0
+Engine_Engine,0.15260302,29.0,31.176009070294786

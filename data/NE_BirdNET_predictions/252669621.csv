@@ -1,0 +1,49 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.1305052,0.0,3.0
+Corvus corax_Common Raven,0.18136816,2.0,5.0
+Corvus corax_Common Raven,0.74791896,3.0,6.0
+Corvus corax_Common Raven,0.88626397,4.0,7.0
+Aramus guarauna_Limpkin,0.23207122,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.32456836,7.0,10.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3287882,8.0,11.0
+Peucaea aestivalis_Bachman's Sparrow,0.14823823,8.0,11.0
+Corvus corax_Common Raven,0.6796098,10.0,13.0
+Corvus corax_Common Raven,0.9586193,11.0,14.0
+Corvus corax_Common Raven,0.85688853,12.0,15.0
+Aramus guarauna_Limpkin,0.34744772,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1453412,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5397534,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.48196575,16.0,19.0
+Ramphastos toco_Toco Toucan,0.30905974,17.0,20.0
+Ardea herodias_Great Blue Heron,0.17998537,19.0,22.0
+Ardea herodias_Great Blue Heron,0.11129114,20.0,23.0
+Pteroglossus torquatus_Collared Aracari,0.3012722,21.0,24.0
+Dryobates villosus_Hairy Woodpecker,0.19119479,21.0,24.0
+Gallirallus philippensis_Buff-banded Rail,0.1196739,21.0,24.0
+Dryobates villosus_Hairy Woodpecker,0.4812327,22.0,25.0
+Gallirallus philippensis_Buff-banded Rail,0.25486737,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18612319,23.0,26.0
+Dryobates villosus_Hairy Woodpecker,0.17399648,23.0,26.0
+Dryobates villosus_Hairy Woodpecker,0.87483615,24.0,27.0
+Dryobates villosus_Hairy Woodpecker,0.91298026,25.0,28.0
+Gallirallus philippensis_Buff-banded Rail,0.11125575,26.0,29.0
+Pipilo erythrophthalmus_Eastern Towhee,0.62552,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.37989017,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19943406,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3783102,30.0,33.0
+Ramphastos toco_Toco Toucan,0.3699875,31.0,34.0
+Corvus corax_Common Raven,0.10074221,32.0,35.0
+Ramphastos toco_Toco Toucan,0.59576005,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4046378,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5193718,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.6522981,36.0,39.0
+Ardea herodias_Great Blue Heron,0.111806676,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3339854,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.42222562,42.0,45.0
+Egretta thula_Snowy Egret,0.33242512,43.0,46.0
+Egretta tricolor_Tricolored Heron,0.12329936,44.0,47.0
+Egretta thula_Snowy Egret,0.119561784,44.0,47.0
+Egretta thula_Snowy Egret,0.12920451,45.0,48.0
+Aramus guarauna_Limpkin,0.35698187,46.0,49.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19800848,47.0,50.0
+Engine_Engine,0.16478151,48.0,50.76

@@ -1,0 +1,1226 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.26305735,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15541986,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7385469,1.0,4.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.30905327,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.13979042,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9479498,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.88342535,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9200546,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.58636826,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.84541446,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.33633602,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.93806857,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5767699,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.97314274,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5525815,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.9980562,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4096488,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8247988,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.43432358,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.57287145,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36914012,11.0,14.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.36408213,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.9877538,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4366842,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.988379,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41923806,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6980937,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.2570976,14.0,17.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.10116988,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.5534581,16.0,19.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.17656751,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.9890892,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6401043,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.93979484,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8265845,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.52596295,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.14997336,19.0,22.0
+Cardellina rubrifrons_Red-faced Warbler,0.24768361,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.8361728,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40112674,21.0,24.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.10965325,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.96197546,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61864614,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.9593757,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48357332,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.80843985,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.16722982,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.20390862,25.0,28.0
+Geothlypis philadelphia_Mourning Warbler,0.11355215,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.64498067,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.99210197,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.55556995,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.975248,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18365176,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.98505336,29.0,32.0
+Cardellina rubrifrons_Red-faced Warbler,0.14997455,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.5381247,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2879781,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9510664,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.72122663,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.91538596,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6925304,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.8951776,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.73343605,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2778256,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.27150795,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.94650203,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6391004,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.95511425,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.79266244,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.9664714,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.9804301,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.59546006,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.98037565,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.87045175,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.99218595,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22596732,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.262525,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.17613535,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40995792,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.13458961,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9754362,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.59159577,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.98847604,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75641435,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9323034,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.12994446,47.0,50.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.116687,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.9220904,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2598705,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94129705,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.9042611,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.90956116,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7996799,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.69090766,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.10865619,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.20627463,53.0,56.0
+Ficedula narcissina_Narcissus Flycatcher,0.112115495,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.9669182,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.66717136,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9705776,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.96583843,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.9898719,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4628655,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34318185,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.30318382,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.83969235,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67433995,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.9910783,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7235843,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22625938,61.0,64.0
+Locustella davidi_Baikal Bush Warbler,0.1682707,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16218741,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.9837409,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14353172,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.9930016,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.996305,65.0,68.0
+Turdus iliacus_Redwing,0.1200675,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.9416616,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.9986419,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13135289,68.0,71.0
+Setophaga cerulea_Cerulean Warbler,0.9938339,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47429323,71.0,74.0
+Setophaga cerulea_Cerulean Warbler,0.9130845,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8777155,72.0,75.0
+Setophaga cerulea_Cerulean Warbler,0.9538555,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7276663,73.0,76.0
+Setophaga cerulea_Cerulean Warbler,0.88802826,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6194417,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11747916,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.9870641,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12885763,76.0,79.0
+Setophaga cerulea_Cerulean Warbler,0.9927927,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.53387415,77.0,80.0
+Setophaga cerulea_Cerulean Warbler,0.99735,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.94125175,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8199756,80.0,83.0
+Phoenicurus ochruros_Black Redstart,0.12716416,80.0,83.0
+Setophaga cerulea_Cerulean Warbler,0.9705903,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2023917,81.0,84.0
+Setophaga cerulea_Cerulean Warbler,0.98879147,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.51522875,83.0,86.0
+Setophaga cerulea_Cerulean Warbler,0.20354113,83.0,86.0
+Setophaga cerulea_Cerulean Warbler,0.9913152,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28072786,84.0,87.0
+Setophaga cerulea_Cerulean Warbler,0.997505,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111106634,85.0,88.0
+Setophaga cerulea_Cerulean Warbler,0.9848357,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5523924,86.0,89.0
+Cyanoptila cumatilis_Zappey's Flycatcher,0.15398121,87.0,90.0
+Setophaga cerulea_Cerulean Warbler,0.976307,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33720186,88.0,91.0
+Setophaga cerulea_Cerulean Warbler,0.9520595,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8639558,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.9913111,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.343181,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5555554,91.0,94.0
+Setophaga cerulea_Cerulean Warbler,0.9018118,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.82675743,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.98893446,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.9719464,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.9831607,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39739966,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.9778426,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5020592,96.0,99.0
+Setophaga cerulea_Cerulean Warbler,0.97672266,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2299301,97.0,100.0
+Setophaga cerulea_Cerulean Warbler,0.99075717,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30016643,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.70355785,99.0,102.0
+Setophaga cerulea_Cerulean Warbler,0.9395685,100.0,103.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5384654,100.0,103.0
+Setophaga cerulea_Cerulean Warbler,0.939848,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.57000077,101.0,104.0
+Setophaga cerulea_Cerulean Warbler,0.98912174,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2999281,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.15778925,103.0,106.0
+Setophaga cerulea_Cerulean Warbler,0.98190063,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2586558,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.89560324,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.87722903,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.9261509,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.918393,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6632781,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.37109783,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.38704017,108.0,111.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22442843,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13749336,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.95309275,109.0,112.0
+Setophaga cerulea_Cerulean Warbler,0.94716954,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9638843,110.0,113.0
+Setophaga cerulea_Cerulean Warbler,0.88514465,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.73518044,111.0,114.0
+Setophaga cerulea_Cerulean Warbler,0.1134129,111.0,114.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.5253009,112.0,115.0
+Setophaga cerulea_Cerulean Warbler,0.30937162,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9391932,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.90220964,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.94733876,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5011677,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.58093053,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.23548405,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17026706,116.0,119.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.11452387,116.0,119.0
+Setophaga cerulea_Cerulean Warbler,0.9832028,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61273474,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.9556935,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9443709,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.80264485,119.0,122.0
+Setophaga cerulea_Cerulean Warbler,0.2786698,119.0,122.0
+Setophaga cerulea_Cerulean Warbler,0.9916407,121.0,124.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15753883,121.0,124.0
+Setophaga cerulea_Cerulean Warbler,0.94996583,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.81141675,122.0,125.0
+Setophaga cerulea_Cerulean Warbler,0.9776223,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35004216,123.0,126.0
+Setophaga cerulea_Cerulean Warbler,0.23089908,124.0,127.0
+Vermivora chrysoptera_Golden-winged Warbler,0.149847,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13424203,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8435518,125.0,128.0
+Setophaga cerulea_Cerulean Warbler,0.6673322,125.0,128.0
+Setophaga cerulea_Cerulean Warbler,0.9953341,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9825554,127.0,130.0
+Setophaga cerulea_Cerulean Warbler,0.8159926,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4697014,128.0,131.0
+Vermivora chrysoptera_Golden-winged Warbler,0.159509,128.0,131.0
+Setophaga cerulea_Cerulean Warbler,0.692449,129.0,132.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22990043,129.0,132.0
+Setophaga cerulea_Cerulean Warbler,0.99549156,130.0,133.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13068263,130.0,133.0
+Setophaga cerulea_Cerulean Warbler,0.99610823,131.0,134.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8675419,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.51997966,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.99028873,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.52712935,133.0,136.0
+Setophaga cerulea_Cerulean Warbler,0.99556303,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29270923,134.0,137.0
+Setophaga cerulea_Cerulean Warbler,0.98501354,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.56793886,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32923454,136.0,139.0
+Setophaga cerulea_Cerulean Warbler,0.1076122,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.944281,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.48919648,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.9502807,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9264774,138.0,141.0
+Setophaga cerulea_Cerulean Warbler,0.9742062,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12941147,139.0,142.0
+Setophaga cerulea_Cerulean Warbler,0.9184833,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48974705,141.0,144.0
+Setophaga cerulea_Cerulean Warbler,0.9540989,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94507354,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9868134,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.952228,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6532767,144.0,147.0
+Setophaga cerulea_Cerulean Warbler,0.16441365,144.0,147.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13842282,144.0,147.0
+Spizella pallida_Clay-colored Sparrow,0.12651607,144.0,147.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10443258,145.0,148.0
+Passerina cyanea_Indigo Bunting,0.14744261,146.0,149.0
+Setophaga cerulea_Cerulean Warbler,0.12908559,149.0,152.0
+Setophaga cerulea_Cerulean Warbler,0.52744865,150.0,153.0
+Setophaga cerulea_Cerulean Warbler,0.37020794,151.0,154.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18798119,151.0,154.0
+Setophaga cerulea_Cerulean Warbler,0.24768043,152.0,155.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20643897,153.0,156.0
+Setophaga cerulea_Cerulean Warbler,0.7516845,154.0,157.0
+Setophaga cerulea_Cerulean Warbler,0.5050883,155.0,158.0
+Tamiasciurus hudsonicus_Red Squirrel,0.111433566,155.0,158.0
+Setophaga cerulea_Cerulean Warbler,0.74497515,157.0,160.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13071325,157.0,160.0
+Setophaga cerulea_Cerulean Warbler,0.34958324,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1670933,158.0,161.0
+Setophaga cerulea_Cerulean Warbler,0.28649217,159.0,162.0
+Setophaga cerulea_Cerulean Warbler,0.18902385,160.0,163.0
+Setophaga cerulea_Cerulean Warbler,0.24805333,161.0,164.0
+Setophaga cerulea_Cerulean Warbler,0.3686436,162.0,165.0
+Setophaga cerulea_Cerulean Warbler,0.24525188,165.0,168.0
+Setophaga cerulea_Cerulean Warbler,0.426893,166.0,169.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15266366,167.0,170.0
+Setophaga cerulea_Cerulean Warbler,0.7173045,169.0,172.0
+Setophaga cerulea_Cerulean Warbler,0.8590484,170.0,173.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10167931,170.0,173.0
+Setophaga cerulea_Cerulean Warbler,0.18706541,171.0,174.0
+Setophaga cerulea_Cerulean Warbler,0.9434338,177.0,180.0
+Setophaga cerulea_Cerulean Warbler,0.955217,178.0,181.0
+Setophaga cerulea_Cerulean Warbler,0.8142817,179.0,182.0
+Setophaga cerulea_Cerulean Warbler,0.20517765,180.0,183.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13477671,181.0,184.0
+Tamiasciurus hudsonicus_Red Squirrel,0.30110395,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15228176,185.0,188.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.366533,186.0,189.0
+Setophaga cerulea_Cerulean Warbler,0.1802945,186.0,189.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15125833,187.0,190.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11721315,188.0,191.0
+Passerina cyanea_Indigo Bunting,0.11096536,191.0,194.0
+Cardellina rubrifrons_Red-faced Warbler,0.4524816,192.0,195.0
+Cardellina rubrifrons_Red-faced Warbler,0.12293978,193.0,196.0
+Setophaga cerulea_Cerulean Warbler,0.54754233,194.0,197.0
+Myioborus pictus_Painted Redstart,0.2859549,194.0,197.0
+Setophaga cerulea_Cerulean Warbler,0.9953432,195.0,198.0
+Setophaga cerulea_Cerulean Warbler,0.990516,196.0,199.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.54172003,196.0,199.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94431406,197.0,200.0
+Setophaga cerulea_Cerulean Warbler,0.105055526,197.0,200.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.34007,198.0,201.0
+Setophaga cerulea_Cerulean Warbler,0.13633932,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114184014,198.0,201.0
+Setophaga cerulea_Cerulean Warbler,0.9731963,199.0,202.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.69968176,199.0,202.0
+Setophaga cerulea_Cerulean Warbler,0.99173754,200.0,203.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75641733,200.0,203.0
+Setophaga cerulea_Cerulean Warbler,0.9138352,201.0,204.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6169434,201.0,204.0
+Setophaga cerulea_Cerulean Warbler,0.70495445,202.0,205.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6162899,202.0,205.0
+Setophaga cerulea_Cerulean Warbler,0.9913624,203.0,206.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.65087944,203.0,206.0
+Setophaga cerulea_Cerulean Warbler,0.9885562,204.0,207.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67533624,204.0,207.0
+Setophaga cerulea_Cerulean Warbler,0.8015523,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22066279,205.0,208.0
+Setophaga cerulea_Cerulean Warbler,0.9593888,206.0,209.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.73661137,206.0,209.0
+Setophaga cerulea_Cerulean Warbler,0.98792636,207.0,210.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.655366,207.0,210.0
+Setophaga cerulea_Cerulean Warbler,0.9968714,208.0,211.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9514394,209.0,212.0
+Setophaga cerulea_Cerulean Warbler,0.8221053,209.0,212.0
+Setophaga cerulea_Cerulean Warbler,0.92157555,210.0,213.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8394861,210.0,213.0
+Setophaga cerulea_Cerulean Warbler,0.9945491,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.58459675,211.0,214.0
+Setophaga cerulea_Cerulean Warbler,0.9980102,212.0,215.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1401868,212.0,215.0
+Setophaga cerulea_Cerulean Warbler,0.5954156,213.0,216.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.54170096,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17791954,213.0,216.0
+Setophaga cerulea_Cerulean Warbler,0.98793113,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6808062,214.0,217.0
+Setophaga cerulea_Cerulean Warbler,0.99831176,215.0,218.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24013613,215.0,218.0
+Setophaga cerulea_Cerulean Warbler,0.90321785,216.0,219.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.87357676,216.0,219.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41121724,217.0,220.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24294963,217.0,220.0
+Setophaga cerulea_Cerulean Warbler,0.96528363,218.0,221.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5776952,218.0,221.0
+Setophaga cerulea_Cerulean Warbler,0.9956844,219.0,222.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7855436,219.0,222.0
+Setophaga cerulea_Cerulean Warbler,0.98935,220.0,223.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14389576,220.0,223.0
+Setophaga cerulea_Cerulean Warbler,0.5751936,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10569174,221.0,224.0
+Setophaga cerulea_Cerulean Warbler,0.988756,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43765852,222.0,225.0
+Setophaga cerulea_Cerulean Warbler,0.98834306,223.0,226.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41867277,223.0,226.0
+Setophaga cerulea_Cerulean Warbler,0.96976477,224.0,227.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6651612,224.0,227.0
+Setophaga cerulea_Cerulean Warbler,0.42502922,225.0,228.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.40714803,225.0,228.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32770193,225.0,228.0
+Setophaga cerulea_Cerulean Warbler,0.99413043,226.0,229.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1766995,226.0,229.0
+Setophaga cerulea_Cerulean Warbler,0.9981267,227.0,230.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3550648,227.0,230.0
+Setophaga cerulea_Cerulean Warbler,0.999099,228.0,231.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9135251,229.0,232.0
+Setophaga cerulea_Cerulean Warbler,0.46831542,229.0,232.0
+Setophaga cerulea_Cerulean Warbler,0.98767614,230.0,233.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39375994,230.0,233.0
+Setophaga cerulea_Cerulean Warbler,0.99612445,231.0,234.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.85563743,231.0,234.0
+Setophaga cerulea_Cerulean Warbler,0.99654096,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47508332,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.90990967,234.0,237.0
+Setophaga cerulea_Cerulean Warbler,0.8671724,234.0,237.0
+Setophaga cerulea_Cerulean Warbler,0.99607325,235.0,238.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8428728,235.0,238.0
+Setophaga cerulea_Cerulean Warbler,0.9664927,236.0,239.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.87359214,236.0,239.0
+Setophaga cerulea_Cerulean Warbler,0.81817746,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7391963,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9674123,238.0,241.0
+Setophaga cerulea_Cerulean Warbler,0.9203808,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.95563716,239.0,242.0
+Setophaga cerulea_Cerulean Warbler,0.9280788,239.0,242.0
+Setophaga cerulea_Cerulean Warbler,0.97918075,240.0,243.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9162015,240.0,243.0
+Setophaga cerulea_Cerulean Warbler,0.9892727,242.0,245.0
+Setophaga cerulea_Cerulean Warbler,0.9887571,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7263819,243.0,246.0
+Setophaga cerulea_Cerulean Warbler,0.97536576,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12006887,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.83793205,245.0,248.0
+Setophaga cerulea_Cerulean Warbler,0.2190654,245.0,248.0
+Setophaga cerulea_Cerulean Warbler,0.9951014,246.0,249.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1116043,246.0,249.0
+Setophaga cerulea_Cerulean Warbler,0.99488395,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5925045,247.0,250.0
+Setophaga cerulea_Cerulean Warbler,0.9836927,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20236842,248.0,251.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19212772,249.0,252.0
+Setophaga cerulea_Cerulean Warbler,0.728857,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28276592,250.0,253.0
+Setophaga cerulea_Cerulean Warbler,0.9369699,251.0,254.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9180394,251.0,254.0
+Setophaga cerulea_Cerulean Warbler,0.9902126,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3388395,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5517966,253.0,256.0
+Setophaga cerulea_Cerulean Warbler,0.22049087,253.0,256.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1613129,253.0,256.0
+Setophaga cerulea_Cerulean Warbler,0.52022344,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50693613,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.84308934,255.0,258.0
+Setophaga cerulea_Cerulean Warbler,0.7851019,255.0,258.0
+Setophaga cerulea_Cerulean Warbler,0.9958253,256.0,259.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50074834,256.0,259.0
+Setophaga cerulea_Cerulean Warbler,0.39765218,257.0,260.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2781823,257.0,260.0
+Pipilo erythrophthalmus_Eastern Towhee,0.51359284,258.0,261.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.51235825,259.0,262.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.37359148,259.0,262.0
+Setophaga cerulea_Cerulean Warbler,0.24287261,259.0,262.0
+Setophaga cerulea_Cerulean Warbler,0.9931901,260.0,263.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9024248,260.0,263.0
+Setophaga cerulea_Cerulean Warbler,0.97267735,261.0,264.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.55235577,261.0,264.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8874061,262.0,265.0
+Setophaga cerulea_Cerulean Warbler,0.6814904,262.0,265.0
+Setophaga cerulea_Cerulean Warbler,0.9506513,263.0,266.0
+Setophaga cerulea_Cerulean Warbler,0.9407227,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6127564,264.0,267.0
+Setophaga cerulea_Cerulean Warbler,0.9681443,265.0,268.0
+Pipilo erythrophthalmus_Eastern Towhee,0.74323106,266.0,269.0
+Setophaga cerulea_Cerulean Warbler,0.9276988,267.0,270.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3114391,267.0,270.0
+Setophaga cerulea_Cerulean Warbler,0.91764915,268.0,271.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3262569,268.0,271.0
+Setophaga cerulea_Cerulean Warbler,0.9972811,269.0,272.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45176047,269.0,272.0
+Setophaga cerulea_Cerulean Warbler,0.52744913,270.0,273.0
+Vermivora chrysoptera_Golden-winged Warbler,0.32526207,270.0,273.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31103694,270.0,273.0
+Setophaga cerulea_Cerulean Warbler,0.61570984,271.0,274.0
+Setophaga cerulea_Cerulean Warbler,0.6781926,272.0,275.0
+Setophaga cerulea_Cerulean Warbler,0.45231077,273.0,276.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10932803,273.0,276.0
+Setophaga cerulea_Cerulean Warbler,0.70736086,275.0,278.0
+Setophaga cerulea_Cerulean Warbler,0.7748545,276.0,279.0
+Setophaga cerulea_Cerulean Warbler,0.14273816,277.0,280.0
+Setophaga cerulea_Cerulean Warbler,0.2433538,279.0,282.0
+Setophaga cerulea_Cerulean Warbler,0.66230446,280.0,283.0
+Setophaga cerulea_Cerulean Warbler,0.5757884,282.0,285.0
+Setophaga cerulea_Cerulean Warbler,0.17959544,283.0,286.0
+Setophaga cerulea_Cerulean Warbler,0.6896257,284.0,287.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17115845,284.0,287.0
+Setophaga cerulea_Cerulean Warbler,0.109572835,285.0,288.0
+Setophaga cerulea_Cerulean Warbler,0.21632609,286.0,289.0
+Setophaga cerulea_Cerulean Warbler,0.14102176,287.0,290.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1160053,288.0,291.0
+Setophaga cerulea_Cerulean Warbler,0.81511617,289.0,292.0
+Setophaga cerulea_Cerulean Warbler,0.74915683,290.0,293.0
+Setophaga cerulea_Cerulean Warbler,0.92711276,291.0,294.0
+Setophaga cerulea_Cerulean Warbler,0.48458442,293.0,296.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102829434,293.0,296.0
+Setophaga cerulea_Cerulean Warbler,0.2465113,294.0,297.0
+Setophaga cerulea_Cerulean Warbler,0.75599974,295.0,298.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12950218,295.0,298.0
+Himatione sanguinea_Apapane,0.18332177,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9601752,299.0,302.0
+Setophaga cerulea_Cerulean Warbler,0.8389208,299.0,302.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91467214,300.0,303.0
+Setophaga cerulea_Cerulean Warbler,0.7966239,300.0,303.0
+Setophaga cerulea_Cerulean Warbler,0.9825121,301.0,304.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.62971026,301.0,304.0
+Setophaga cerulea_Cerulean Warbler,0.94475615,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.744744,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9359366,304.0,307.0
+Setophaga cerulea_Cerulean Warbler,0.86854315,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9483857,305.0,308.0
+Setophaga cerulea_Cerulean Warbler,0.8792224,305.0,308.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6808972,306.0,309.0
+Setophaga cerulea_Cerulean Warbler,0.11265487,306.0,309.0
+Setophaga cerulea_Cerulean Warbler,0.95361555,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7502768,307.0,310.0
+Setophaga cerulea_Cerulean Warbler,0.97521305,308.0,311.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9186304,308.0,311.0
+Setophaga cerulea_Cerulean Warbler,0.993975,309.0,312.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14921644,309.0,312.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7333835,310.0,313.0
+Setophaga cerulea_Cerulean Warbler,0.3734831,310.0,313.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1429669,310.0,313.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9713832,311.0,314.0
+Setophaga cerulea_Cerulean Warbler,0.800291,311.0,314.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.99521554,312.0,315.0
+Setophaga cerulea_Cerulean Warbler,0.6770674,312.0,315.0
+Setophaga cerulea_Cerulean Warbler,0.9694772,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6543528,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7059383,314.0,317.0
+Setophaga cerulea_Cerulean Warbler,0.6988972,314.0,317.0
+Setophaga cerulea_Cerulean Warbler,0.9480709,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.85502166,315.0,318.0
+Setophaga cerulea_Cerulean Warbler,0.9918522,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8735744,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9595393,317.0,320.0
+Setophaga cerulea_Cerulean Warbler,0.6182686,317.0,320.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.3743616,318.0,321.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34338254,318.0,321.0
+Setophaga cerulea_Cerulean Warbler,0.22801435,318.0,321.0
+Setophaga cerulea_Cerulean Warbler,0.98853624,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.565562,319.0,322.0
+Setophaga cerulea_Cerulean Warbler,0.9648824,320.0,323.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8733489,320.0,323.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8704011,321.0,324.0
+Setophaga cerulea_Cerulean Warbler,0.3571107,321.0,324.0
+Setophaga cerulea_Cerulean Warbler,0.99359196,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47643942,322.0,325.0
+Setophaga cerulea_Cerulean Warbler,0.998326,323.0,326.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.64348364,323.0,326.0
+Setophaga cerulea_Cerulean Warbler,0.9907128,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23503758,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7488761,325.0,328.0
+Setophaga cerulea_Cerulean Warbler,0.69883114,325.0,328.0
+Setophaga cerulea_Cerulean Warbler,0.95962524,326.0,329.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5742133,326.0,329.0
+Setophaga cerulea_Cerulean Warbler,0.9981193,327.0,330.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48656437,327.0,330.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8105914,328.0,331.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.5682641,328.0,331.0
+Setophaga cerulea_Cerulean Warbler,0.5536103,328.0,331.0
+Setophaga cerulea_Cerulean Warbler,0.594447,329.0,332.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.49030724,329.0,332.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1776973,329.0,332.0
+Setophaga cerulea_Cerulean Warbler,0.9910061,330.0,333.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7975558,330.0,333.0
+Setophaga cerulea_Cerulean Warbler,0.9790508,331.0,334.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.81771106,331.0,334.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.93538547,332.0,335.0
+Setophaga cerulea_Cerulean Warbler,0.11045016,332.0,335.0
+Setophaga cerulea_Cerulean Warbler,0.9838305,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.72904366,333.0,336.0
+Setophaga cerulea_Cerulean Warbler,0.9694836,334.0,337.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.89799905,334.0,337.0
+Setophaga cerulea_Cerulean Warbler,0.98801875,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28037098,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46874982,336.0,339.0
+Setophaga cerulea_Cerulean Warbler,0.40710267,336.0,339.0
+Setophaga cerulea_Cerulean Warbler,0.7098288,337.0,340.0
+Myioborus pictus_Painted Redstart,0.17023747,337.0,340.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.15856169,337.0,340.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11657103,337.0,340.0
+Setophaga cerulea_Cerulean Warbler,0.9780406,338.0,341.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5337868,338.0,341.0
+Setophaga cerulea_Cerulean Warbler,0.9921077,339.0,342.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.82833976,339.0,342.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8508859,340.0,343.0
+Setophaga cerulea_Cerulean Warbler,0.7337589,340.0,343.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.14351043,340.0,343.0
+Passerina cyanea_Indigo Bunting,0.103433825,341.0,344.0
+Setophaga cerulea_Cerulean Warbler,0.53241986,342.0,345.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26439545,342.0,345.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.23296286,342.0,345.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97284126,343.0,346.0
+Setophaga cerulea_Cerulean Warbler,0.92162555,343.0,346.0
+Setophaga cerulea_Cerulean Warbler,0.9367124,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8641291,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9725008,345.0,348.0
+Setophaga cerulea_Cerulean Warbler,0.55277556,346.0,349.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.41642794,346.0,349.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22940026,346.0,349.0
+Setophaga cerulea_Cerulean Warbler,0.98815095,347.0,350.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7548908,347.0,350.0
+Setophaga cerulea_Cerulean Warbler,0.99600106,348.0,351.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6521727,348.0,351.0
+Setophaga cerulea_Cerulean Warbler,0.98870146,349.0,352.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61718255,349.0,352.0
+Setophaga cerulea_Cerulean Warbler,0.17410164,350.0,353.0
+Vireo flavifrons_Yellow-throated Vireo,0.10589167,350.0,353.0
+Setophaga cerulea_Cerulean Warbler,0.9708953,351.0,354.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.51530105,351.0,354.0
+Setophaga cerulea_Cerulean Warbler,0.9280451,352.0,355.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8122146,352.0,355.0
+Setophaga cerulea_Cerulean Warbler,0.988877,353.0,356.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61131495,353.0,356.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.66317225,354.0,357.0
+Setophaga cerulea_Cerulean Warbler,0.59149504,354.0,357.0
+Setophaga cerulea_Cerulean Warbler,0.88981223,355.0,358.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20916702,355.0,358.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.106742024,355.0,358.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9769,356.0,359.0
+Setophaga cerulea_Cerulean Warbler,0.9587563,356.0,359.0
+Setophaga cerulea_Cerulean Warbler,0.9862591,357.0,360.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32893148,357.0,360.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91114247,358.0,361.0
+Setophaga cerulea_Cerulean Warbler,0.98267454,359.0,362.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6713217,359.0,362.0
+Setophaga cerulea_Cerulean Warbler,0.99375534,360.0,363.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.736627,360.0,363.0
+Setophaga cerulea_Cerulean Warbler,0.99383473,361.0,364.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38128006,361.0,364.0
+Setophaga cerulea_Cerulean Warbler,0.35235757,362.0,365.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21183492,362.0,365.0
+Setophaga cerulea_Cerulean Warbler,0.978704,363.0,366.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.65711874,363.0,366.0
+Setophaga cerulea_Cerulean Warbler,0.99026847,364.0,367.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.76862085,364.0,367.0
+Setophaga cerulea_Cerulean Warbler,0.99428445,365.0,368.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1145304,365.0,368.0
+Setophaga cerulea_Cerulean Warbler,0.6744077,366.0,369.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38576844,366.0,369.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.2081499,366.0,369.0
+Setophaga cerulea_Cerulean Warbler,0.9264725,367.0,370.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91310024,367.0,370.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9329575,368.0,371.0
+Setophaga cerulea_Cerulean Warbler,0.9315882,368.0,371.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8285544,369.0,372.0
+Setophaga cerulea_Cerulean Warbler,0.7968187,369.0,372.0
+Setophaga cerulea_Cerulean Warbler,0.7855979,371.0,374.0
+Setophaga cerulea_Cerulean Warbler,0.91829115,372.0,375.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8536291,372.0,375.0
+Setophaga cerulea_Cerulean Warbler,0.99357396,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75062466,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9519719,374.0,377.0
+Setophaga cerulea_Cerulean Warbler,0.8487022,374.0,377.0
+Pipilo erythrophthalmus_Eastern Towhee,0.31307352,375.0,378.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3846712,376.0,379.0
+Setophaga cerulea_Cerulean Warbler,0.26804864,376.0,379.0
+Setophaga cerulea_Cerulean Warbler,0.96903676,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2755868,377.0,380.0
+Setophaga cerulea_Cerulean Warbler,0.9294792,378.0,381.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.90670276,378.0,381.0
+Setophaga cerulea_Cerulean Warbler,0.91782874,379.0,382.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7999876,379.0,382.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91403913,380.0,383.0
+Setophaga cerulea_Cerulean Warbler,0.29566103,380.0,383.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9626657,381.0,384.0
+Setophaga cerulea_Cerulean Warbler,0.90254384,381.0,384.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9790902,382.0,385.0
+Setophaga cerulea_Cerulean Warbler,0.9159252,382.0,385.0
+Setophaga cerulea_Cerulean Warbler,0.93080634,383.0,386.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9014183,383.0,386.0
+Setophaga cerulea_Cerulean Warbler,0.981619,384.0,387.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.76627684,384.0,387.0
+Setophaga cerulea_Cerulean Warbler,0.9817198,385.0,388.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.82796144,385.0,388.0
+Setophaga cerulea_Cerulean Warbler,0.98921305,386.0,389.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5305088,386.0,389.0
+Setophaga cerulea_Cerulean Warbler,0.47141153,387.0,390.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16266194,387.0,390.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9619018,388.0,391.0
+Setophaga cerulea_Cerulean Warbler,0.88996905,388.0,391.0
+Setophaga cerulea_Cerulean Warbler,0.9967842,389.0,392.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48649213,389.0,392.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9391707,390.0,393.0
+Setophaga cerulea_Cerulean Warbler,0.9292955,390.0,393.0
+Geothlypis formosa_Kentucky Warbler,0.12683488,391.0,394.0
+Setophaga cerulea_Cerulean Warbler,0.10235644,391.0,394.0
+Setophaga cerulea_Cerulean Warbler,0.71750605,392.0,395.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18542404,392.0,395.0
+Setophaga cerulea_Cerulean Warbler,0.701142,393.0,396.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18925215,393.0,396.0
+Setophaga cerulea_Cerulean Warbler,0.77031106,394.0,397.0
+Setophaga cerulea_Cerulean Warbler,0.16023564,395.0,398.0
+Setophaga cerulea_Cerulean Warbler,0.59185684,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31656832,397.0,400.0
+Setophaga cerulea_Cerulean Warbler,0.46268874,398.0,401.0
+Setophaga cerulea_Cerulean Warbler,0.32478353,399.0,402.0
+Setophaga cerulea_Cerulean Warbler,0.41307923,400.0,403.0
+Setophaga cerulea_Cerulean Warbler,0.97574925,401.0,404.0
+Setophaga cerulea_Cerulean Warbler,0.9875163,402.0,405.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.7359516,403.0,406.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7221265,403.0,406.0
+Setophaga cerulea_Cerulean Warbler,0.26792842,403.0,406.0
+Phoenicurus ochruros_Black Redstart,0.12964246,403.0,406.0
+Setophaga cerulea_Cerulean Warbler,0.96650654,404.0,407.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9435067,404.0,407.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9801893,405.0,408.0
+Setophaga cerulea_Cerulean Warbler,0.95658123,405.0,408.0
+Setophaga cerulea_Cerulean Warbler,0.9410582,406.0,409.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.88344276,406.0,409.0
+Setophaga cerulea_Cerulean Warbler,0.92363805,407.0,410.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7354226,407.0,410.0
+Setophaga cerulea_Cerulean Warbler,0.9985676,408.0,411.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46376935,408.0,411.0
+Setophaga cerulea_Cerulean Warbler,0.97775203,409.0,412.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.85714567,409.0,412.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.72712827,410.0,413.0
+Setophaga cerulea_Cerulean Warbler,0.23999603,410.0,413.0
+Setophaga cerulea_Cerulean Warbler,0.9664728,411.0,414.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.79194677,411.0,414.0
+Setophaga cerulea_Cerulean Warbler,0.99798167,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.588909,412.0,415.0
+Setophaga cerulea_Cerulean Warbler,0.94764614,413.0,416.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67771596,413.0,416.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.36942276,414.0,417.0
+Cardellina canadensis_Canada Warbler,0.17752571,414.0,417.0
+Setophaga petechia_Yellow Warbler,0.11275292,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27675244,415.0,418.0
+Setophaga cerulea_Cerulean Warbler,0.10320261,415.0,418.0
+Setophaga cerulea_Cerulean Warbler,0.98490417,416.0,419.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26648268,416.0,419.0
+Setophaga cerulea_Cerulean Warbler,0.99415296,417.0,420.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.729597,417.0,420.0
+Setophaga cerulea_Cerulean Warbler,0.9931237,418.0,421.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6121605,418.0,421.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.6981953,419.0,422.0
+Setophaga cerulea_Cerulean Warbler,0.46095964,419.0,422.0
+Setophaga cerulea_Cerulean Warbler,0.96723104,420.0,423.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7353864,420.0,423.0
+Setophaga cerulea_Cerulean Warbler,0.9971035,421.0,424.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.60470533,421.0,424.0
+Setophaga cerulea_Cerulean Warbler,0.8342971,422.0,425.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.73561186,422.0,425.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.722441,423.0,426.0
+Setophaga cerulea_Cerulean Warbler,0.47453943,423.0,426.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15621631,423.0,426.0
+Setophaga cerulea_Cerulean Warbler,0.989677,424.0,427.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40187302,424.0,427.0
+Setophaga cerulea_Cerulean Warbler,0.98242915,425.0,428.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9650524,425.0,428.0
+Setophaga cerulea_Cerulean Warbler,0.9856619,426.0,429.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3521116,426.0,429.0
+Setophaga cerulea_Cerulean Warbler,0.115291096,439.0,442.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3446009,443.0,446.0
+Setophaga cerulea_Cerulean Warbler,0.11311644,444.0,447.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10322472,444.0,447.0
+Contopus virens_Eastern Wood-Pewee,0.22304115,445.0,448.0
+Setophaga cerulea_Cerulean Warbler,0.20699236,447.0,450.0
+Setophaga cerulea_Cerulean Warbler,0.258893,452.0,455.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2888733,461.0,464.0
+Brachyramphus marmoratus_Marbled Murrelet,0.4278714,468.0,471.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.93510145,474.0,477.0
+Setophaga cerulea_Cerulean Warbler,0.71889,474.0,477.0
+Setophaga cerulea_Cerulean Warbler,0.993133,475.0,478.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30240914,475.0,478.0
+Setophaga cerulea_Cerulean Warbler,0.99010426,476.0,479.0
+Setophaga cerulea_Cerulean Warbler,0.97670615,480.0,483.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10169632,480.0,483.0
+Setophaga cerulea_Cerulean Warbler,0.9944402,481.0,484.0
+Setophaga cerulea_Cerulean Warbler,0.99335986,482.0,485.0
+Setophaga cerulea_Cerulean Warbler,0.99193174,483.0,486.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35633004,483.0,486.0
+Setophaga cerulea_Cerulean Warbler,0.95411927,484.0,487.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6819603,484.0,487.0
+Setophaga cerulea_Cerulean Warbler,0.97114784,485.0,488.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45855045,485.0,488.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.65296656,486.0,489.0
+Setophaga cerulea_Cerulean Warbler,0.9592068,488.0,491.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33213937,488.0,491.0
+Setophaga cerulea_Cerulean Warbler,0.9917503,489.0,492.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11477175,489.0,492.0
+Setophaga cerulea_Cerulean Warbler,0.9931142,490.0,493.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14071858,490.0,493.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6435796,491.0,494.0
+Setophaga cerulea_Cerulean Warbler,0.9916612,492.0,495.0
+Setophaga cerulea_Cerulean Warbler,0.9797601,493.0,496.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26135308,493.0,496.0
+Setophaga cerulea_Cerulean Warbler,0.99282867,494.0,497.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.518071,495.0,498.0
+Setophaga cerulea_Cerulean Warbler,0.41025016,495.0,498.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1652094,495.0,498.0
+Setophaga cerulea_Cerulean Warbler,0.5795478,496.0,499.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.5168142,496.0,499.0
+Setophaga cerulea_Cerulean Warbler,0.9949325,497.0,500.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.55969,497.0,500.0
+Setophaga cerulea_Cerulean Warbler,0.9929482,498.0,501.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3134477,498.0,501.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5136925,499.0,502.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13683645,499.0,502.0
+Setophaga cerulea_Cerulean Warbler,0.87686145,500.0,503.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.62500757,500.0,503.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9503623,501.0,504.0
+Setophaga cerulea_Cerulean Warbler,0.8710084,501.0,504.0
+Setophaga cerulea_Cerulean Warbler,0.9643651,502.0,505.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.72559786,502.0,505.0
+Setophaga cerulea_Cerulean Warbler,0.19339927,503.0,506.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10313892,504.0,507.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8714298,505.0,508.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.34300303,505.0,508.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.93760043,506.0,509.0
+Setophaga cerulea_Cerulean Warbler,0.9373667,506.0,509.0
+Setophaga cerulea_Cerulean Warbler,0.9904771,507.0,510.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.665103,507.0,510.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97512984,508.0,511.0
+Setophaga cerulea_Cerulean Warbler,0.2633942,508.0,511.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9438298,509.0,512.0
+Setophaga cerulea_Cerulean Warbler,0.8219428,509.0,512.0
+Setophaga cerulea_Cerulean Warbler,0.99412525,510.0,513.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5635107,510.0,513.0
+Setophaga cerulea_Cerulean Warbler,0.9838113,511.0,514.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36024716,511.0,514.0
+Setophaga cerulea_Cerulean Warbler,0.88886404,513.0,516.0
+Setophaga cerulea_Cerulean Warbler,0.9934587,514.0,517.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22542015,514.0,517.0
+Setophaga cerulea_Cerulean Warbler,0.99796885,515.0,518.0
+Setophaga cerulea_Cerulean Warbler,0.57639205,516.0,519.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3149809,516.0,519.0
+Vermivora chrysoptera_Golden-winged Warbler,0.19016796,516.0,519.0
+Setophaga cerulea_Cerulean Warbler,0.84256506,517.0,520.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30530608,517.0,520.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22165866,517.0,520.0
+Setophaga cerulea_Cerulean Warbler,0.99448675,518.0,521.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31070545,518.0,521.0
+Setophaga cerulea_Cerulean Warbler,0.9934182,519.0,522.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48253036,519.0,522.0
+Setophaga cerulea_Cerulean Warbler,0.9569875,520.0,523.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7070764,520.0,523.0
+Setophaga cerulea_Cerulean Warbler,0.7867258,521.0,524.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7001554,521.0,524.0
+Setophaga cerulea_Cerulean Warbler,0.9739586,522.0,525.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.92103934,522.0,525.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9878598,523.0,526.0
+Setophaga cerulea_Cerulean Warbler,0.9352639,523.0,526.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8782493,524.0,527.0
+Setophaga cerulea_Cerulean Warbler,0.54919654,524.0,527.0
+Setophaga cerulea_Cerulean Warbler,0.99428433,525.0,528.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111352965,525.0,528.0
+Setophaga cerulea_Cerulean Warbler,0.982971,526.0,529.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.81092983,526.0,529.0
+Setophaga cerulea_Cerulean Warbler,0.9214083,527.0,530.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8812099,527.0,530.0
+Setophaga cerulea_Cerulean Warbler,0.8922987,528.0,531.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2505173,528.0,531.0
+Setophaga cerulea_Cerulean Warbler,0.98049575,529.0,532.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.52662957,529.0,532.0
+Setophaga cerulea_Cerulean Warbler,0.9930655,530.0,533.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36064675,530.0,533.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.663445,531.0,534.0
+Setophaga cerulea_Cerulean Warbler,0.28526145,531.0,534.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.96015686,532.0,535.0
+Setophaga cerulea_Cerulean Warbler,0.6949902,532.0,535.0
+Setophaga cerulea_Cerulean Warbler,0.9323512,533.0,536.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6387625,533.0,536.0
+Setophaga cerulea_Cerulean Warbler,0.97601753,534.0,537.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6152863,534.0,537.0
+Setophaga cerulea_Cerulean Warbler,0.9067457,535.0,538.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.62111014,535.0,538.0
+Setophaga cerulea_Cerulean Warbler,0.98450875,536.0,539.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8051082,536.0,539.0
+Setophaga cerulea_Cerulean Warbler,0.98494935,537.0,540.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.92727387,537.0,540.0
+Setophaga cerulea_Cerulean Warbler,0.9657858,538.0,541.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8125875,538.0,541.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94414496,539.0,542.0
+Setophaga cerulea_Cerulean Warbler,0.16227454,539.0,542.0
+Setophaga cerulea_Cerulean Warbler,0.9432168,540.0,543.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3115975,540.0,543.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9855068,541.0,544.0
+Setophaga cerulea_Cerulean Warbler,0.8751102,541.0,544.0
+Setophaga cerulea_Cerulean Warbler,0.9941736,542.0,545.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17602812,542.0,545.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94448733,543.0,546.0
+Setophaga cerulea_Cerulean Warbler,0.22440548,543.0,546.0
+Setophaga cerulea_Cerulean Warbler,0.97723836,544.0,547.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3989358,544.0,547.0
+Setophaga cerulea_Cerulean Warbler,0.96334094,545.0,548.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6902223,545.0,548.0
+Setophaga cerulea_Cerulean Warbler,0.9885776,546.0,549.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18460584,546.0,549.0
+Geothlypis philadelphia_Mourning Warbler,0.119783625,548.0,551.0
+Setophaga cerulea_Cerulean Warbler,0.7993319,549.0,552.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.62313294,549.0,552.0
+Setophaga cerulea_Cerulean Warbler,0.9845974,550.0,553.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21507138,550.0,553.0
+Setophaga cerulea_Cerulean Warbler,0.9919424,551.0,554.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.65051025,551.0,554.0
+Setophaga cerulea_Cerulean Warbler,0.31211194,552.0,555.0
+Vermivora chrysoptera_Golden-winged Warbler,0.26372728,552.0,555.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22245455,552.0,555.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.78237754,553.0,556.0
+Setophaga cerulea_Cerulean Warbler,0.48417103,553.0,556.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9245982,554.0,557.0
+Setophaga cerulea_Cerulean Warbler,0.8919577,554.0,557.0
+Setophaga cerulea_Cerulean Warbler,0.97076607,555.0,558.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75585854,555.0,558.0
+Setophaga cerulea_Cerulean Warbler,0.98189527,556.0,559.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25929064,556.0,559.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7443324,557.0,560.0
+Setophaga cerulea_Cerulean Warbler,0.14931968,557.0,560.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14859359,557.0,560.0
+Setophaga cerulea_Cerulean Warbler,0.81559765,558.0,561.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.791825,558.0,561.0
+Setophaga cerulea_Cerulean Warbler,0.97467506,559.0,562.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75769883,559.0,562.0
+Setophaga cerulea_Cerulean Warbler,0.98973733,560.0,563.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.416277,560.0,563.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.825805,561.0,564.0
+Setophaga cerulea_Cerulean Warbler,0.9305898,562.0,565.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25101438,562.0,565.0
+Setophaga cerulea_Cerulean Warbler,0.96110255,563.0,566.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7605922,563.0,566.0
+Setophaga cerulea_Cerulean Warbler,0.9731476,564.0,567.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1481209,564.0,567.0
+Setophaga cerulea_Cerulean Warbler,0.6733789,565.0,568.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.4545437,565.0,568.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33522314,565.0,568.0
+Setophaga cerulea_Cerulean Warbler,0.9140835,566.0,569.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.68022424,566.0,569.0
+Setophaga cerulea_Cerulean Warbler,0.97381973,567.0,570.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8440829,567.0,570.0
+Setophaga cerulea_Cerulean Warbler,0.967421,568.0,571.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4633554,568.0,571.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8638534,569.0,572.0
+Setophaga cerulea_Cerulean Warbler,0.3673041,569.0,572.0
+Setophaga cerulea_Cerulean Warbler,0.9613873,570.0,573.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67345864,570.0,573.0
+Setophaga cerulea_Cerulean Warbler,0.99046093,571.0,574.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26203924,571.0,574.0
+Setophaga cerulea_Cerulean Warbler,0.91092086,572.0,575.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.448288,572.0,575.0
+Setophaga cerulea_Cerulean Warbler,0.9313859,573.0,576.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24491228,573.0,576.0
+Setophaga cerulea_Cerulean Warbler,0.9836053,574.0,577.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30630547,574.0,577.0
+Setophaga cerulea_Cerulean Warbler,0.9718613,575.0,578.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38484147,575.0,578.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9436731,576.0,579.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.54091287,577.0,580.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.24011435,577.0,580.0
+Setophaga cerulea_Cerulean Warbler,0.13511862,577.0,580.0
+Setophaga cerulea_Cerulean Warbler,0.9788014,578.0,581.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8952711,578.0,581.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9686095,579.0,582.0
+Setophaga cerulea_Cerulean Warbler,0.91704965,579.0,582.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8380176,580.0,583.0
+Setophaga cerulea_Cerulean Warbler,0.565737,580.0,583.0
+Setophaga cerulea_Cerulean Warbler,0.9797862,581.0,584.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3374118,581.0,584.0
+Setophaga cerulea_Cerulean Warbler,0.9688469,582.0,585.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.70252883,582.0,585.0
+Setophaga cerulea_Cerulean Warbler,0.9909924,583.0,586.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5997717,583.0,586.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39221194,584.0,587.0
+Setophaga cerulea_Cerulean Warbler,0.31437722,584.0,587.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.96007544,585.0,588.0
+Setophaga cerulea_Cerulean Warbler,0.90931636,585.0,588.0
+Setophaga cerulea_Cerulean Warbler,0.99848735,586.0,589.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5661087,586.0,589.0
+Setophaga cerulea_Cerulean Warbler,0.9931304,587.0,590.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34781745,587.0,590.0
+Setophaga cerulea_Cerulean Warbler,0.21117684,589.0,592.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19852217,589.0,592.0
+Setophaga cerulea_Cerulean Warbler,0.9870711,590.0,593.0
+Setophaga cerulea_Cerulean Warbler,0.99304765,591.0,594.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7388042,591.0,594.0
+Setophaga cerulea_Cerulean Warbler,0.9939715,592.0,595.0
+Setophaga cerulea_Cerulean Warbler,0.81449914,594.0,597.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6934043,594.0,597.0
+Setophaga cerulea_Cerulean Warbler,0.9829925,595.0,598.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19668573,595.0,598.0
+Setophaga cerulea_Cerulean Warbler,0.98936975,596.0,599.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27337334,596.0,599.0
+Setophaga cerulea_Cerulean Warbler,0.7546386,597.0,600.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36060524,597.0,600.0
+Myadestes occidentalis_Brown-backed Solitaire,0.25470173,599.0,602.0
+Setophaga cerulea_Cerulean Warbler,0.9979007,600.0,603.0
+Setophaga cerulea_Cerulean Warbler,0.99387425,601.0,604.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67274237,601.0,604.0
+Setophaga cerulea_Cerulean Warbler,0.99061954,602.0,605.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2136503,602.0,605.0
+Setophaga cerulea_Cerulean Warbler,0.53851616,604.0,607.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.37474805,604.0,607.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.92818815,605.0,608.0
+Setophaga cerulea_Cerulean Warbler,0.92088586,605.0,608.0
+Setophaga cerulea_Cerulean Warbler,0.9917339,606.0,609.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4763061,606.0,609.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38141903,607.0,610.0
+Setophaga cerulea_Cerulean Warbler,0.21549553,607.0,610.0
+Setophaga virens_Black-throated Green Warbler,0.11972106,607.0,610.0
+Setophaga cerulea_Cerulean Warbler,0.3658006,608.0,611.0
+Setophaga cerulea_Cerulean Warbler,0.20777136,609.0,612.0
+Setophaga cerulea_Cerulean Warbler,0.36693797,611.0,614.0
+Setophaga cerulea_Cerulean Warbler,0.968293,612.0,615.0
+Setophaga cerulea_Cerulean Warbler,0.9608573,613.0,616.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22545333,613.0,616.0
+Setophaga cerulea_Cerulean Warbler,0.16504908,614.0,617.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12943085,614.0,617.0
+Setophaga cerulea_Cerulean Warbler,0.6945692,615.0,618.0
+Setophaga cerulea_Cerulean Warbler,0.5669395,616.0,619.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14780967,616.0,619.0
+Setophaga cerulea_Cerulean Warbler,0.38506857,617.0,620.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11014516,617.0,620.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1637886,618.0,621.0
+Setophaga cerulea_Cerulean Warbler,0.47829613,619.0,622.0
+Setophaga cerulea_Cerulean Warbler,0.89531505,620.0,623.0
+Setophaga cerulea_Cerulean Warbler,0.63525605,621.0,624.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10895807,621.0,624.0
+Setophaga cerulea_Cerulean Warbler,0.6040373,622.0,625.0
+Setophaga cerulea_Cerulean Warbler,0.2433451,623.0,626.0
+Setophaga cerulea_Cerulean Warbler,0.7262967,624.0,627.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.538806,624.0,627.0
+Setophaga cerulea_Cerulean Warbler,0.88201636,625.0,628.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21562168,625.0,628.0
+Setophaga cerulea_Cerulean Warbler,0.55007887,626.0,629.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34788972,626.0,629.0
+Contopus virens_Eastern Wood-Pewee,0.28726798,627.0,630.0
+Setophaga cerulea_Cerulean Warbler,0.75107837,628.0,631.0
+Contopus virens_Eastern Wood-Pewee,0.13075049,628.0,631.0
+Setophaga cerulea_Cerulean Warbler,0.39611992,629.0,632.0
+Setophaga cerulea_Cerulean Warbler,0.22260898,630.0,633.0
+Setophaga cerulea_Cerulean Warbler,0.17943855,631.0,634.0
+Setophaga cerulea_Cerulean Warbler,0.6593344,632.0,635.0
+Setophaga cerulea_Cerulean Warbler,0.80355793,633.0,636.0
+Setophaga cerulea_Cerulean Warbler,0.29064733,634.0,637.0
+Setophaga cerulea_Cerulean Warbler,0.95707756,637.0,640.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14768106,637.0,640.0
+Setophaga cerulea_Cerulean Warbler,0.94018006,638.0,641.0
+Setophaga cerulea_Cerulean Warbler,0.3432753,639.0,642.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21113096,639.0,642.0
+Setophaga cerulea_Cerulean Warbler,0.47145,640.0,643.0
+Setophaga cerulea_Cerulean Warbler,0.9041058,641.0,644.0
+Setophaga cerulea_Cerulean Warbler,0.9858045,642.0,645.0
+Setophaga cerulea_Cerulean Warbler,0.33407342,643.0,646.0
+Setophaga cerulea_Cerulean Warbler,0.8844007,644.0,647.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17131104,644.0,647.0
+Setophaga cerulea_Cerulean Warbler,0.9871573,645.0,648.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10311563,645.0,648.0
+Setophaga cerulea_Cerulean Warbler,0.98439527,646.0,649.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11531581,646.0,649.0
+Contopus virens_Eastern Wood-Pewee,0.22227508,647.0,650.0
+Setophaga cerulea_Cerulean Warbler,0.15665825,647.0,650.0
+Setophaga cerulea_Cerulean Warbler,0.7393834,649.0,652.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3316949,649.0,652.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.16722399,649.0,652.0
+Setophaga cerulea_Cerulean Warbler,0.99515295,650.0,653.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25593814,650.0,653.0
+Setophaga cerulea_Cerulean Warbler,0.9979196,651.0,654.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6142716,651.0,654.0
+Setophaga cerulea_Cerulean Warbler,0.9995316,652.0,655.0
+Setophaga cerulea_Cerulean Warbler,0.69748425,653.0,656.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6530381,653.0,656.0
+Setophaga cerulea_Cerulean Warbler,0.9966425,654.0,657.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41197982,654.0,657.0
+Setophaga cerulea_Cerulean Warbler,0.99722666,655.0,658.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.360196,655.0,658.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94908935,656.0,659.0
+Setophaga cerulea_Cerulean Warbler,0.9456507,656.0,659.0
+Setophaga cerulea_Cerulean Warbler,0.98617375,657.0,660.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.345061,657.0,660.0
+Setophaga cerulea_Cerulean Warbler,0.9879056,658.0,661.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7082133,658.0,661.0
+Setophaga cerulea_Cerulean Warbler,0.99410087,659.0,662.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4949653,659.0,662.0
+Setophaga cerulea_Cerulean Warbler,0.9204449,661.0,664.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5015438,661.0,664.0
+Setophaga cerulea_Cerulean Warbler,0.93915355,662.0,665.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8985777,662.0,665.0
+Setophaga cerulea_Cerulean Warbler,0.9849272,663.0,666.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5719597,663.0,666.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7724342,664.0,667.0
+Setophaga cerulea_Cerulean Warbler,0.65774167,665.0,668.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15053663,665.0,668.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.12616983,665.0,668.0
+Setophaga cerulea_Cerulean Warbler,0.9932098,666.0,669.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18750903,666.0,669.0
+Setophaga cerulea_Cerulean Warbler,0.994166,667.0,670.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5152876,667.0,670.0
+Setophaga cerulea_Cerulean Warbler,0.9655867,668.0,671.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.76732564,668.0,671.0
+Setophaga cerulea_Cerulean Warbler,0.93639934,670.0,673.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7238837,670.0,673.0
+Setophaga cerulea_Cerulean Warbler,0.99541134,671.0,674.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3686617,671.0,674.0
+Setophaga cerulea_Cerulean Warbler,0.99135184,672.0,675.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37967893,672.0,675.0
+Setophaga cerulea_Cerulean Warbler,0.79052186,673.0,676.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39433664,673.0,676.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41129902,674.0,677.0
+Setophaga cerulea_Cerulean Warbler,0.26971102,674.0,677.0
+Setophaga cerulea_Cerulean Warbler,0.98629713,675.0,678.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1867926,675.0,678.0
+Setophaga cerulea_Cerulean Warbler,0.97837013,676.0,679.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.70227176,676.0,679.0
+Setophaga cerulea_Cerulean Warbler,0.9847959,677.0,680.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6996123,677.0,680.0
+Passerina cyanea_Indigo Bunting,0.26081237,678.0,681.0
+Setophaga cerulea_Cerulean Warbler,0.4473469,679.0,682.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44316167,679.0,682.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.34426102,679.0,682.0
+Setophaga cerulea_Cerulean Warbler,0.9134836,680.0,683.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9129944,680.0,683.0
+Setophaga cerulea_Cerulean Warbler,0.9731603,681.0,684.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.63182175,681.0,684.0
+Setophaga cerulea_Cerulean Warbler,0.8863398,682.0,685.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67609066,682.0,685.0
+Setophaga cerulea_Cerulean Warbler,0.11476093,683.0,686.0
+Geothlypis philadelphia_Mourning Warbler,0.10746211,683.0,686.0
+Setophaga cerulea_Cerulean Warbler,0.6948525,684.0,687.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28740272,684.0,687.0
+Setophaga cerulea_Cerulean Warbler,0.9725346,685.0,688.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94334865,685.0,688.0
+Setophaga cerulea_Cerulean Warbler,0.9945629,686.0,689.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16820559,686.0,689.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6335261,687.0,690.0
+Setophaga cerulea_Cerulean Warbler,0.3969121,687.0,690.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13203342,687.0,690.0
+Setophaga cerulea_Cerulean Warbler,0.9312337,688.0,691.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1415595,688.0,691.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13929483,688.0,691.0
+Setophaga cerulea_Cerulean Warbler,0.97880393,689.0,692.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44300202,689.0,692.0
+Setophaga cerulea_Cerulean Warbler,0.990218,690.0,693.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4092154,690.0,693.0
+Setophaga cerulea_Cerulean Warbler,0.89554656,691.0,694.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7575181,691.0,694.0
+Contopus virens_Eastern Wood-Pewee,0.21197248,692.0,695.0
+Setophaga cerulea_Cerulean Warbler,0.12675558,692.0,695.0
+Protonotaria citrea_Prothonotary Warbler,0.10531677,692.0,695.0
+Setophaga cerulea_Cerulean Warbler,0.66464627,693.0,696.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5378259,693.0,696.0
+Setophaga cerulea_Cerulean Warbler,0.9882464,694.0,697.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33565977,694.0,697.0
+Setophaga cerulea_Cerulean Warbler,0.99458575,695.0,698.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44427347,695.0,698.0
+Setophaga cerulea_Cerulean Warbler,0.9747396,696.0,699.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5893418,696.0,699.0
+Setophaga cerulea_Cerulean Warbler,0.7921474,697.0,700.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.42857525,697.0,700.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.95476985,698.0,701.0
+Setophaga cerulea_Cerulean Warbler,0.803647,698.0,701.0
+Setophaga cerulea_Cerulean Warbler,0.99522483,699.0,702.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19555849,699.0,702.0
+Setophaga cerulea_Cerulean Warbler,0.85768723,700.0,703.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23765194,700.0,703.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67486703,701.0,704.0
+Setophaga cerulea_Cerulean Warbler,0.50154096,701.0,704.0
+Setophaga cerulea_Cerulean Warbler,0.9734605,702.0,705.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.98923767,703.0,706.0
+Setophaga cerulea_Cerulean Warbler,0.6429718,703.0,706.0
+Setophaga cerulea_Cerulean Warbler,0.9539312,704.0,707.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2224293,704.0,707.0
+Setophaga cerulea_Cerulean Warbler,0.85108304,706.0,709.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1266739,706.0,709.0
+Setophaga cerulea_Cerulean Warbler,0.99149466,707.0,710.0
+Setophaga cerulea_Cerulean Warbler,0.9874687,708.0,711.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.222191,708.0,711.0
+Setophaga cerulea_Cerulean Warbler,0.94310087,709.0,712.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16729106,709.0,712.0
+Setophaga cerulea_Cerulean Warbler,0.55773693,710.0,713.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.42015752,710.0,713.0
+Setophaga cerulea_Cerulean Warbler,0.976392,711.0,714.0
+Setophaga cerulea_Cerulean Warbler,0.98938215,712.0,715.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.79930717,712.0,715.0
+Setophaga cerulea_Cerulean Warbler,0.98876816,713.0,716.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18892586,713.0,716.0
+Setophaga cerulea_Cerulean Warbler,0.7334468,715.0,718.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23735419,715.0,718.0
+Setophaga cerulea_Cerulean Warbler,0.9281653,716.0,719.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8077845,716.0,719.0
+Setophaga cerulea_Cerulean Warbler,0.9791312,717.0,720.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26794246,717.0,720.0
+Setophaga cerulea_Cerulean Warbler,0.9379294,718.0,721.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5250604,718.0,721.0
+Contopus virens_Eastern Wood-Pewee,0.2462717,719.0,722.0
+Setophaga cerulea_Cerulean Warbler,0.82140356,720.0,723.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29348883,720.0,723.0
+Setophaga cerulea_Cerulean Warbler,0.95177716,721.0,724.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9432983,721.0,724.0
+Setophaga cerulea_Cerulean Warbler,0.9780667,722.0,725.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9229747,722.0,725.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8246215,723.0,726.0
+Setophaga cerulea_Cerulean Warbler,0.5542562,723.0,726.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.20169511,723.0,726.0
+Setophaga cerulea_Cerulean Warbler,0.9942439,725.0,728.0
+Setophaga cerulea_Cerulean Warbler,0.99721414,726.0,729.0
+Setophaga cerulea_Cerulean Warbler,0.99468756,727.0,730.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8433969,728.0,731.0
+Setophaga cerulea_Cerulean Warbler,0.46357405,728.0,731.0
+Setophaga cerulea_Cerulean Warbler,0.9654664,730.0,733.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14552528,730.0,733.0
+Setophaga cerulea_Cerulean Warbler,0.9944965,731.0,734.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17870076,731.0,734.0
+Setophaga cerulea_Cerulean Warbler,0.99333584,732.0,735.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18891622,732.0,735.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.70805883,733.0,736.0
+Setophaga cerulea_Cerulean Warbler,0.47726923,733.0,736.0
+Phylloscopus coronatus_Eastern Crowned Warbler,0.13658988,733.0,736.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23211053,734.0,737.0
+Setophaga cerulea_Cerulean Warbler,0.13291763,734.0,737.0
+Setophaga cerulea_Cerulean Warbler,0.9948749,735.0,738.0
+Setophaga cerulea_Cerulean Warbler,0.9760357,736.0,739.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7567752,736.0,739.0
+Setophaga cerulea_Cerulean Warbler,0.9928731,737.0,740.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.6586113,739.0,742.0
+Setophaga cerulea_Cerulean Warbler,0.34237158,739.0,742.0
+Setophaga cerulea_Cerulean Warbler,0.97647923,740.0,743.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.699489,740.0,743.0
+Setophaga cerulea_Cerulean Warbler,0.98235625,741.0,744.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37946022,741.0,744.0
+Setophaga cerulea_Cerulean Warbler,0.93128675,742.0,745.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25706986,742.0,745.0
+Contopus virens_Eastern Wood-Pewee,0.18628399,743.0,746.0
+Setophaga cerulea_Cerulean Warbler,0.9377765,746.0,749.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20532872,746.0,749.0
+Setophaga cerulea_Cerulean Warbler,0.9934401,747.0,750.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50771505,747.0,750.0
+Setophaga cerulea_Cerulean Warbler,0.99694353,748.0,751.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15200005,748.0,751.0
+Vermivora chrysoptera_Golden-winged Warbler,0.4551805,749.0,752.0
+Setophaga cerulea_Cerulean Warbler,0.20544708,749.0,752.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1916351,750.0,753.0
+Setophaga cerulea_Cerulean Warbler,0.88981754,751.0,754.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37841824,751.0,754.0
+Setophaga cerulea_Cerulean Warbler,0.97911304,752.0,755.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7247561,752.0,755.0
+Setophaga cerulea_Cerulean Warbler,0.92560947,753.0,756.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38014823,753.0,756.0
+Cardellina rubrifrons_Red-faced Warbler,0.11315334,754.0,757.0
+Passerina cyanea_Indigo Bunting,0.10967197,755.0,758.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12055111,759.0,762.0
+Tamiasciurus hudsonicus_Red Squirrel,0.100141,761.0,764.0
+Contopus virens_Eastern Wood-Pewee,0.12540339,765.0,768.0
+Passerina cyanea_Indigo Bunting,0.23831847,768.0,771.0
+Passerina cyanea_Indigo Bunting,0.15128775,770.0,773.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10834808,774.0,777.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11562164,779.0,782.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20139228,781.0,784.0
+Oecanthus fultoni_Snowy Tree Cricket,0.11000345,785.0,788.0
+Contopus virens_Eastern Wood-Pewee,0.20805025,790.0,793.0
+Contopus virens_Eastern Wood-Pewee,0.30535018,791.0,794.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24652797,795.0,798.0
+Cardellina rubrifrons_Red-faced Warbler,0.11225531,795.0,798.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19323753,796.0,799.0
+Setophaga cerulea_Cerulean Warbler,0.10544914,803.0,806.0

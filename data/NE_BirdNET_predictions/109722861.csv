@@ -1,0 +1,16 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.9312948,0.0,3.0
+Human whistle_Human whistle,0.12642927,0.0,3.0
+Engine_Engine,0.108795814,0.0,3.0
+Colinus virginianus_Northern Bobwhite,0.59625036,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.9470944,2.0,5.0
+Siren_Siren,0.11998049,3.0,6.0
+Siren_Siren,0.32914832,5.0,8.0
+Gun_Gun,0.10962649,5.0,8.0
+Siren_Siren,0.22752781,7.0,10.0
+Gun_Gun,0.17817873,7.0,10.0
+Siren_Siren,0.2422396,8.0,11.0
+Siren_Siren,0.15595204,9.0,12.0
+Siren_Siren,0.5744243,10.0,13.0
+Gun_Gun,0.30783656,11.0,13.536009070294785
+Siren_Siren,0.22996166,11.0,13.536009070294785

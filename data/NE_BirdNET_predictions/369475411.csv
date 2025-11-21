@@ -1,0 +1,68 @@
+species,score,start_time,end_time
+Butorides virescens_Green Heron,0.9857103,0.0,3.0
+Ixobrychus minutus_Little Bittern,0.3924402,0.0,3.0
+Butorides striata_Striated Heron,0.2961136,0.0,3.0
+Butorides virescens_Green Heron,0.9856494,1.0,4.0
+Butorides striata_Striated Heron,0.15909377,1.0,4.0
+Butorides virescens_Green Heron,0.9828083,2.0,5.0
+Butorides striata_Striated Heron,0.10163887,2.0,5.0
+Tringa flavipes_Lesser Yellowlegs,0.31850994,3.0,6.0
+Tringa flavipes_Lesser Yellowlegs,0.3670066,4.0,7.0
+Tringa flavipes_Lesser Yellowlegs,0.40632936,5.0,8.0
+Sitta carolinensis_White-breasted Nuthatch,0.13985421,6.0,9.0
+Morus bassanus_Northern Gannet,0.15824226,7.0,10.0
+Plegadis chihi_White-faced Ibis,0.13568883,7.0,10.0
+Anas platyrhynchos_Mallard,0.108370565,7.0,10.0
+Anas platyrhynchos_Mallard,0.3315813,8.0,11.0
+Anas platyrhynchos_Mallard,0.115848415,9.0,12.0
+Tringa flavipes_Lesser Yellowlegs,0.13695328,10.0,13.0
+Charadrius vociferus_Killdeer,0.49180478,11.0,14.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.21482804,11.0,14.0
+Calidris minutilla_Least Sandpiper,0.10368209,11.0,14.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.30137724,12.0,15.0
+Charadrius vociferus_Killdeer,0.21351951,12.0,15.0
+Tringa flavipes_Lesser Yellowlegs,0.66628647,13.0,16.0
+Apus melba_Alpine Swift,0.11955146,13.0,16.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.1143215,13.0,16.0
+Calidris minutilla_Least Sandpiper,0.1121381,13.0,16.0
+Tringa flavipes_Lesser Yellowlegs,0.6792741,14.0,17.0
+Tringa flavipes_Lesser Yellowlegs,0.911185,15.0,18.0
+Tringa flavipes_Lesser Yellowlegs,0.8990162,16.0,19.0
+Tringa flavipes_Lesser Yellowlegs,0.25550032,17.0,20.0
+Tringa flavipes_Lesser Yellowlegs,0.15591311,18.0,21.0
+Pandion haliaetus_Osprey,0.118472666,18.0,21.0
+Tringa flavipes_Lesser Yellowlegs,0.36634615,22.0,25.0
+Tringa flavipes_Lesser Yellowlegs,0.7405739,23.0,26.0
+Tringa totanus_Common Redshank,0.19008638,23.0,26.0
+Tringa totanus_Common Redshank,0.42535448,24.0,27.0
+Tringa flavipes_Lesser Yellowlegs,0.38296956,24.0,27.0
+Tringa flavipes_Lesser Yellowlegs,0.60983044,25.0,28.0
+Tringa totanus_Common Redshank,0.2791984,25.0,28.0
+Pandion haliaetus_Osprey,0.278244,26.0,29.0
+Tringa flavipes_Lesser Yellowlegs,0.15926196,26.0,29.0
+Tringa totanus_Common Redshank,0.3298474,27.0,30.0
+Tringa flavipes_Lesser Yellowlegs,0.18601741,27.0,30.0
+Butorides virescens_Green Heron,0.5777212,28.0,31.0
+Laterallus jamaicensis_Black Rail,0.15649188,28.0,31.0
+Butorides virescens_Green Heron,0.50056237,29.0,32.0
+Calidris himantopus_Stilt Sandpiper,0.21580185,29.0,32.0
+Tringa flavipes_Lesser Yellowlegs,0.2065653,29.0,32.0
+Laterallus jamaicensis_Black Rail,0.17478694,29.0,32.0
+Tringa flavipes_Lesser Yellowlegs,0.5858004,30.0,33.0
+Pandion haliaetus_Osprey,0.35754636,30.0,33.0
+Tringa flavipes_Lesser Yellowlegs,0.69534427,31.0,34.0
+Pandion haliaetus_Osprey,0.33333147,31.0,34.0
+Arenaria interpres_Ruddy Turnstone,0.14401777,31.0,34.0
+Engine_Engine,0.25234395,33.0,36.0
+Pandion haliaetus_Osprey,0.28732625,35.0,38.0
+Sialia sialis_Eastern Bluebird,0.11556831,35.0,38.0
+Pandion haliaetus_Osprey,0.45322606,36.0,39.0
+Pandion haliaetus_Osprey,0.16755648,38.0,41.0
+Sialia mexicana_Western Bluebird,0.13637951,39.0,42.0
+Tringa flavipes_Lesser Yellowlegs,0.10876109,39.0,42.0
+Tringa flavipes_Lesser Yellowlegs,0.18215722,40.0,43.0
+Tringa totanus_Common Redshank,0.10504071,40.0,43.0
+Tringa flavipes_Lesser Yellowlegs,0.32433796,41.0,44.0
+Tringa flavipes_Lesser Yellowlegs,0.14103207,42.0,45.0
+Calcarius lapponicus_Lapland Longspur,0.102794334,42.0,45.0
+Tringa flavipes_Lesser Yellowlegs,0.10073011,43.0,46.0

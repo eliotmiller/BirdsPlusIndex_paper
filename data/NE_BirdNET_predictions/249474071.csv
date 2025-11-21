@@ -1,0 +1,115 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.54029584,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.84449375,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.9627998,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9748883,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.94831824,4.0,7.0
+Phylloscopus sibilatrix_Wood Warbler,0.11114253,5.0,8.0
+Turdus merula_Eurasian Blackbird,0.17341354,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10335249,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.23670866,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.43015018,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11170679,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.26133797,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.15769473,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15608084,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.57258636,17.0,20.0
+Setophaga occidentalis_Hermit Warbler,0.12952778,17.0,20.0
+Phylloscopus sibilatrix_Wood Warbler,0.12606132,19.0,22.0
+Erithacus rubecula_European Robin,0.13493755,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.24452607,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.16701359,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12062901,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.105759144,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.13852331,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.3203837,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103311926,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.18506368,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.74803287,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1043758,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.3468852,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.14359668,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.36076188,46.0,49.0
+Ixoreus naevius_Varied Thrush,0.1130676,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.43540326,48.0,51.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.29175058,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.3104491,49.0,52.0
+Junco phaeonotus_Yellow-eyed Junco,0.14517014,49.0,52.0
+Junco hyemalis_Dark-eyed Junco,0.48282298,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.23923069,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.1952592,52.0,55.0
+Junco hyemalis_Dark-eyed Junco,0.21997333,53.0,56.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.18714619,53.0,56.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1252467,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.35643616,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.2825903,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.5131097,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.37285638,58.0,61.0
+Junco phaeonotus_Yellow-eyed Junco,0.17344098,58.0,61.0
+Vanellus vanellus_Northern Lapwing,0.10429151,62.0,65.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.48767006,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11765973,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.46916047,66.0,69.0
+Strix nebulosa_Great Gray Owl,0.15794487,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.28320387,70.0,73.0
+Setophaga virens_Black-throated Green Warbler,0.12784106,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.27711985,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.18339935,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12942156,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.20198448,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.11731654,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11290292,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.18490565,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1843268,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.1048335,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2536027,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15822004,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13066652,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1508477,82.0,85.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29509348,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2684779,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3664878,85.0,88.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22341235,86.0,89.0
+Phylloscopus sibilatrix_Wood Warbler,0.15051575,88.0,91.0
+Columba oenas_Stock Dove,0.11107859,88.0,91.0
+Phylloscopus sibilatrix_Wood Warbler,0.20976944,89.0,92.0
+Columba oenas_Stock Dove,0.119981095,89.0,92.0
+Phylloscopus sibilatrix_Wood Warbler,0.3221976,90.0,93.0
+Phylloscopus sibilatrix_Wood Warbler,0.3947786,91.0,94.0
+Picus canus_Gray-headed Woodpecker,0.12570082,92.0,95.0
+Picus canus_Gray-headed Woodpecker,0.35174313,93.0,96.0
+Picus canus_Gray-headed Woodpecker,0.1484979,95.0,98.0
+Setophaga fusca_Blackburnian Warbler,0.11490428,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17046896,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19648646,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13429718,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.12733367,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.62853974,104.0,107.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13969868,106.0,109.0
+Phylloscopus sibilatrix_Wood Warbler,0.27254748,110.0,113.0
+Phylloscopus sibilatrix_Wood Warbler,0.16275881,111.0,114.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13126415,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16050814,123.0,126.0
+Setophaga virens_Black-throated Green Warbler,0.107276514,123.0,126.0
+Dryobates minor_Lesser Spotted Woodpecker,0.37523553,125.0,128.0
+Dendrocopos major_Great Spotted Woodpecker,0.106879026,125.0,128.0
+Dendrocopos major_Great Spotted Woodpecker,0.5514211,127.0,130.0
+Dryobates minor_Lesser Spotted Woodpecker,0.11184777,127.0,130.0
+Phylloscopus sibilatrix_Wood Warbler,0.2684102,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.18692096,130.0,133.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5957751,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21984866,134.0,137.0
+Setophaga americana_Northern Parula,0.12163063,134.0,137.0
+Setophaga fusca_Blackburnian Warbler,0.10011185,134.0,137.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2886901,135.0,138.0
+Setophaga fusca_Blackburnian Warbler,0.1286944,136.0,139.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25605673,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.56977415,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.95474637,147.0,150.0
+Seiurus aurocapilla_Ovenbird,0.97756064,148.0,151.0
+Setophaga virens_Black-throated Green Warbler,0.10959172,148.0,151.0
+Seiurus aurocapilla_Ovenbird,0.9782502,149.0,152.0
+Setophaga virens_Black-throated Green Warbler,0.22729154,149.0,152.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17989455,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.84822154,150.0,153.0
+Phylloscopus sibilatrix_Wood Warbler,0.36425045,151.0,154.0

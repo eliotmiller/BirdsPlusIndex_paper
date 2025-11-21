@@ -1,0 +1,132 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.5588809,1.0,4.0
+Setophaga discolor_Prairie Warbler,0.21435954,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13009126,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9909079,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.9873552,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.9867278,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17987192,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1209703,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110562816,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.2620182,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18415964,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.114026666,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.11155244,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15912798,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.12824982,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15478434,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.129258,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18252128,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.13326406,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.12978722,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.10242706,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.7768148,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11643616,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.9867191,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.994665,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.9955428,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.3515145,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.204574,28.0,31.0
+Setophaga discolor_Prairie Warbler,0.12452963,28.0,31.0
+Cyanocitta cristata_Blue Jay,0.1941993,30.0,33.0
+Cyanocitta cristata_Blue Jay,0.1678297,31.0,34.0
+Cyanocitta cristata_Blue Jay,0.17779677,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.18841366,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.14049555,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116112396,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14889053,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.105771095,35.0,38.0
+Cyanocitta cristata_Blue Jay,0.22687584,38.0,41.0
+Cyanocitta cristata_Blue Jay,0.44266003,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.29571778,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.15204439,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.18317042,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10309627,44.0,47.0
+Cyanocitta cristata_Blue Jay,0.10429021,46.0,49.0
+Cyanocitta cristata_Blue Jay,0.21768115,48.0,51.0
+Cyanocitta cristata_Blue Jay,0.31198725,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.9238697,50.0,53.0
+Setophaga discolor_Prairie Warbler,0.19831277,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12310104,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.9908179,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.99073046,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.99302495,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.13655058,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.13214238,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.13064422,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12344773,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.12117685,56.0,59.0
+Cyanocitta cristata_Blue Jay,0.14437677,57.0,60.0
+Cyanocitta cristata_Blue Jay,0.53937244,58.0,61.0
+Cyanocitta cristata_Blue Jay,0.28073588,59.0,62.0
+Cyanocitta cristata_Blue Jay,0.16694069,63.0,66.0
+Cyanocitta cristata_Blue Jay,0.20621157,64.0,67.0
+Accipiter striatus_Sharp-shinned Hawk,0.15519387,65.0,68.0
+Cyanocitta cristata_Blue Jay,0.44992337,66.0,69.0
+Cyanocitta cristata_Blue Jay,0.47681835,67.0,70.0
+Cyanocitta cristata_Blue Jay,0.23903286,68.0,71.0
+Cyanocitta cristata_Blue Jay,0.11425593,69.0,72.0
+Cyanocitta cristata_Blue Jay,0.31424412,71.0,74.0
+Accipiter striatus_Sharp-shinned Hawk,0.11134418,71.0,74.0
+Cyanocitta cristata_Blue Jay,0.38519222,72.0,75.0
+Cyanocitta cristata_Blue Jay,0.2295616,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.11088062,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10270623,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.22201684,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15961914,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.38681138,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1468024,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.9915916,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.99315965,78.0,81.0
+Setophaga virens_Black-throated Green Warbler,0.9830232,79.0,82.0
+Cyanocitta cristata_Blue Jay,0.29932603,80.0,83.0
+Cyanocitta cristata_Blue Jay,0.3274604,81.0,84.0
+Cyanocitta cristata_Blue Jay,0.20320979,82.0,85.0
+Cyanocitta cristata_Blue Jay,0.22016361,83.0,86.0
+Cyanocitta cristata_Blue Jay,0.4117172,84.0,87.0
+Cyanocitta cristata_Blue Jay,0.18219718,85.0,88.0
+Cyanocitta cristata_Blue Jay,0.19641922,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19623053,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.14571553,87.0,90.0
+Cyanocitta cristata_Blue Jay,0.2760203,88.0,91.0
+Cyanocitta cristata_Blue Jay,0.43774468,89.0,92.0
+Cyanocitta cristata_Blue Jay,0.60797673,90.0,93.0
+Cyanocitta cristata_Blue Jay,0.5466354,91.0,94.0
+Cyanocitta cristata_Blue Jay,0.3987099,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.20241848,93.0,96.0
+Cyanocitta cristata_Blue Jay,0.18522942,93.0,96.0
+Cyanocitta cristata_Blue Jay,0.2958972,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.21644214,96.0,99.0
+Cyanocitta cristata_Blue Jay,0.14442998,96.0,99.0
+Cyanocitta cristata_Blue Jay,0.2085962,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.19561772,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.3996278,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21988255,98.0,101.0
+Setophaga fusca_Blackburnian Warbler,0.13845964,98.0,101.0
+Seiurus aurocapilla_Ovenbird,0.16532953,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108773015,99.0,102.0
+Cyanocitta cristata_Blue Jay,0.39831078,100.0,103.0
+Cyanocitta cristata_Blue Jay,0.4487193,101.0,104.0
+Cyanocitta cristata_Blue Jay,0.32156217,102.0,105.0
+Cyanocitta cristata_Blue Jay,0.5958924,103.0,106.0
+Cyanocitta cristata_Blue Jay,0.6029522,104.0,107.0
+Cyanocitta cristata_Blue Jay,0.39367035,105.0,108.0
+Cyanocitta cristata_Blue Jay,0.1335862,106.0,109.0
+Cyanocitta cristata_Blue Jay,0.2588522,107.0,110.0
+Cyanocitta cristata_Blue Jay,0.24566089,108.0,111.0
+Setophaga virens_Black-throated Green Warbler,0.47086814,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.9277346,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10405596,110.0,113.0
+Setophaga virens_Black-throated Green Warbler,0.991996,111.0,114.0
+Setophaga virens_Black-throated Green Warbler,0.9933143,112.0,115.0
+Setophaga virens_Black-throated Green Warbler,0.5808387,113.0,116.0
+Cyanocitta cristata_Blue Jay,0.3853266,116.0,119.0
+Cyanocitta cristata_Blue Jay,0.3178182,117.0,120.0
+Cyanocitta cristata_Blue Jay,0.21706949,118.0,121.0
+Cyanocitta cristata_Blue Jay,0.28489557,119.0,122.0
+Cyanocitta cristata_Blue Jay,0.3181622,120.0,123.0
+Cyanocitta cristata_Blue Jay,0.34677356,121.0,124.0
+Cyanocitta cristata_Blue Jay,0.3844203,122.0,125.0
+Cyanocitta cristata_Blue Jay,0.36405504,123.0,126.0
+Cyanocitta cristata_Blue Jay,0.4312628,124.0,127.0
+Cyanocitta cristata_Blue Jay,0.48114592,125.0,127.08
