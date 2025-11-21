@@ -1,0 +1,32 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.9894364,0.0,3.0
+Melospiza melodia_Song Sparrow,0.8554845,1.0,4.0
+Melospiza melodia_Song Sparrow,0.45352465,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.13189183,2.0,5.0
+Spinus tristis_American Goldfinch,0.12365158,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.27525827,6.0,9.0
+Melospiza melodia_Song Sparrow,0.67978406,7.0,10.0
+Rallus limicola_Virginia Rail,0.11811438,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.106143005,7.0,10.0
+Melospiza melodia_Song Sparrow,0.76002735,8.0,11.0
+Melospiza melodia_Song Sparrow,0.8955451,9.0,12.0
+Melospiza melodia_Song Sparrow,0.7452933,10.0,13.0
+Vireo gilvus_Warbling Vireo,0.44754308,12.0,15.0
+Vireo gilvus_Warbling Vireo,0.34200782,13.0,16.0
+Haemorhous purpureus_Purple Finch,0.13541949,13.0,16.0
+Melospiza melodia_Song Sparrow,0.7183489,15.0,18.0
+Rallus limicola_Virginia Rail,0.14566112,15.0,18.0
+Melospiza melodia_Song Sparrow,0.9201558,16.0,19.0
+Melospiza melodia_Song Sparrow,0.9605987,17.0,20.0
+Melospiza melodia_Song Sparrow,0.8563343,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.17105176,18.0,21.0
+Emberiza spodocephala_Black-faced Bunting,0.34841153,19.0,22.0
+Melospiza melodia_Song Sparrow,0.1604447,19.0,22.0
+Phylloscopus borealis_Arctic Warbler,0.16194622,20.0,23.0
+Vireo gilvus_Warbling Vireo,0.10888172,21.0,24.0
+Vireo gilvus_Warbling Vireo,0.5680791,22.0,25.0
+Melospiza melodia_Song Sparrow,0.7924654,24.0,27.0
+Melospiza melodia_Song Sparrow,0.94910717,25.0,28.0
+Melospiza melodia_Song Sparrow,0.93115294,26.0,29.0
+Melospiza melodia_Song Sparrow,0.8784687,27.0,30.0
+Melospiza melodia_Song Sparrow,0.6491017,28.0,30.84

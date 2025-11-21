@@ -1,0 +1,537 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.975905,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.10211752,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.5088444,1.0,4.0
+Setophaga tigrina_Cape May Warbler,0.3855705,1.0,4.0
+Mniotilta varia_Black-and-white Warbler,0.96048313,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.9665052,3.0,6.0
+Mniotilta varia_Black-and-white Warbler,0.9912136,4.0,7.0
+Mniotilta varia_Black-and-white Warbler,0.9526769,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.10929574,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10538308,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.24923755,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.15461743,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.12504344,10.0,13.0
+Mniotilta varia_Black-and-white Warbler,0.9879645,11.0,14.0
+Setophaga tigrina_Cape May Warbler,0.10393542,11.0,14.0
+Mniotilta varia_Black-and-white Warbler,0.979939,12.0,15.0
+Mniotilta varia_Black-and-white Warbler,0.9959318,13.0,16.0
+Mniotilta varia_Black-and-white Warbler,0.9922009,14.0,17.0
+Mniotilta varia_Black-and-white Warbler,0.9958371,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.31858295,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.13572593,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.10843883,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.11098934,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.10430116,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.24204299,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.12860917,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.12319192,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.16066726,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.1261784,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.17833138,21.0,24.0
+Mniotilta varia_Black-and-white Warbler,0.97299373,22.0,25.0
+Setophaga tigrina_Cape May Warbler,0.23579189,22.0,25.0
+Mniotilta varia_Black-and-white Warbler,0.9878072,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.10638973,23.0,26.0
+Mniotilta varia_Black-and-white Warbler,0.99155945,24.0,27.0
+Mniotilta varia_Black-and-white Warbler,0.9681073,25.0,28.0
+Mniotilta varia_Black-and-white Warbler,0.690483,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10070915,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.59252065,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.455176,28.0,31.0
+Vireo olivaceus_Red-eyed Vireo,0.47640002,29.0,32.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.13399826,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.60404086,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.12800159,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.11156247,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.111101784,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.10335154,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.17655677,32.0,35.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12372346,32.0,35.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.361449,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.106892794,33.0,36.0
+Mniotilta varia_Black-and-white Warbler,0.9465366,35.0,38.0
+Setophaga tigrina_Cape May Warbler,0.25165045,35.0,38.0
+Mniotilta varia_Black-and-white Warbler,0.98903555,36.0,39.0
+Mniotilta varia_Black-and-white Warbler,0.9723292,37.0,40.0
+Mniotilta varia_Black-and-white Warbler,0.99078196,38.0,41.0
+Mniotilta varia_Black-and-white Warbler,0.9891087,39.0,42.0
+Vireo olivaceus_Red-eyed Vireo,0.11919689,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.13140441,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.11810831,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.17111118,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.1065986,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.15852937,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.11899086,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.101847485,43.0,46.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.26286346,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.15458025,44.0,47.0
+Mniotilta varia_Black-and-white Warbler,0.9856425,45.0,48.0
+Setophaga tigrina_Cape May Warbler,0.2318063,45.0,48.0
+Mniotilta varia_Black-and-white Warbler,0.9795053,46.0,49.0
+Setophaga tigrina_Cape May Warbler,0.31140628,46.0,49.0
+Mniotilta varia_Black-and-white Warbler,0.9838972,47.0,50.0
+Setophaga tigrina_Cape May Warbler,0.18944766,47.0,50.0
+Mniotilta varia_Black-and-white Warbler,0.97343665,48.0,51.0
+Setophaga tigrina_Cape May Warbler,0.10956037,48.0,51.0
+Mniotilta varia_Black-and-white Warbler,0.7081128,49.0,52.0
+Setophaga castanea_Bay-breasted Warbler,0.39111522,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.21957791,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.12948416,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.111848444,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.17524768,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14159654,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.11483902,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.10114044,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.14697982,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.13700047,52.0,55.0
+Vireo olivaceus_Red-eyed Vireo,0.25002736,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.13979304,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.20845762,55.0,58.0
+Vireo solitarius_Blue-headed Vireo,0.176243,55.0,58.0
+Mniotilta varia_Black-and-white Warbler,0.4753875,56.0,59.0
+Mniotilta varia_Black-and-white Warbler,0.96310985,57.0,60.0
+Mniotilta varia_Black-and-white Warbler,0.9910527,58.0,61.0
+Mniotilta varia_Black-and-white Warbler,0.9837076,59.0,62.0
+Setophaga tigrina_Cape May Warbler,0.1001609,59.0,62.0
+Mniotilta varia_Black-and-white Warbler,0.9590112,60.0,63.0
+Setophaga tigrina_Cape May Warbler,0.69938916,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.12050994,60.0,63.0
+Vireo olivaceus_Red-eyed Vireo,0.24114442,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.13354962,61.0,64.0
+Vireo olivaceus_Red-eyed Vireo,0.20863397,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.12136145,62.0,65.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20742077,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.16738671,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14111441,63.0,66.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.27423957,64.0,67.0
+Vireo olivaceus_Red-eyed Vireo,0.20341392,65.0,68.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15987857,65.0,68.0
+Vireo olivaceus_Red-eyed Vireo,0.15154535,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.2834434,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.12134176,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.11448311,67.0,70.0
+Vireo olivaceus_Red-eyed Vireo,0.1993255,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.14887406,68.0,71.0
+Setophaga cerulea_Cerulean Warbler,0.11633568,68.0,71.0
+Mniotilta varia_Black-and-white Warbler,0.81390274,69.0,72.0
+Setophaga tigrina_Cape May Warbler,0.10403923,69.0,72.0
+Mniotilta varia_Black-and-white Warbler,0.97429615,70.0,73.0
+Mniotilta varia_Black-and-white Warbler,0.95241106,71.0,74.0
+Setophaga tigrina_Cape May Warbler,0.16044126,71.0,74.0
+Mniotilta varia_Black-and-white Warbler,0.98545665,72.0,75.0
+Mniotilta varia_Black-and-white Warbler,0.9559105,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.1326748,73.0,76.0
+Vireo olivaceus_Red-eyed Vireo,0.24676272,74.0,77.0
+Vireo solitarius_Blue-headed Vireo,0.1671461,74.0,77.0
+Mniotilta varia_Black-and-white Warbler,0.4594655,83.0,86.0
+Mniotilta varia_Black-and-white Warbler,0.89045286,84.0,87.0
+Mniotilta varia_Black-and-white Warbler,0.9157659,85.0,88.0
+Mniotilta varia_Black-and-white Warbler,0.80594814,86.0,89.0
+Vireo flavifrons_Yellow-throated Vireo,0.13577953,87.0,90.0
+Setophaga cerulea_Cerulean Warbler,0.17190512,88.0,91.0
+Mniotilta varia_Black-and-white Warbler,0.9513263,89.0,92.0
+Setophaga tigrina_Cape May Warbler,0.2411575,89.0,92.0
+Mniotilta varia_Black-and-white Warbler,0.9734596,90.0,93.0
+Mniotilta varia_Black-and-white Warbler,0.9728589,91.0,94.0
+Mniotilta varia_Black-and-white Warbler,0.9568688,92.0,95.0
+Setophaga cerulea_Cerulean Warbler,0.15752804,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.18023193,94.0,97.0
+Seiurus aurocapilla_Ovenbird,0.14839384,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.16642457,95.0,98.0
+Contopus virens_Eastern Wood-Pewee,0.21892509,96.0,99.0
+Contopus virens_Eastern Wood-Pewee,0.15451376,97.0,100.0
+Setophaga cerulea_Cerulean Warbler,0.10841616,97.0,100.0
+Contopus virens_Eastern Wood-Pewee,0.19040516,98.0,101.0
+Setophaga cerulea_Cerulean Warbler,0.11115826,98.0,101.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1785812,99.0,102.0
+Setophaga cerulea_Cerulean Warbler,0.12593475,99.0,102.0
+Mniotilta varia_Black-and-white Warbler,0.9691535,100.0,103.0
+Setophaga tigrina_Cape May Warbler,0.10421477,100.0,103.0
+Mniotilta varia_Black-and-white Warbler,0.98526,101.0,104.0
+Setophaga tigrina_Cape May Warbler,0.11525392,101.0,104.0
+Mniotilta varia_Black-and-white Warbler,0.98830354,102.0,105.0
+Mniotilta varia_Black-and-white Warbler,0.9873139,103.0,106.0
+Setophaga cerulea_Cerulean Warbler,0.13194972,104.0,107.0
+Setophaga cerulea_Cerulean Warbler,0.3014725,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10189871,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.11731303,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11301254,107.0,110.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10207243,107.0,110.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13186164,108.0,111.0
+Setophaga cerulea_Cerulean Warbler,0.10056623,108.0,111.0
+Contopus virens_Eastern Wood-Pewee,0.1427226,109.0,112.0
+Contopus virens_Eastern Wood-Pewee,0.1611178,110.0,113.0
+Setophaga cerulea_Cerulean Warbler,0.13923162,110.0,113.0
+Setophaga cerulea_Cerulean Warbler,0.21736021,111.0,114.0
+Contopus virens_Eastern Wood-Pewee,0.20529483,111.0,114.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12193019,111.0,114.0
+Mniotilta varia_Black-and-white Warbler,0.5709669,112.0,115.0
+Setophaga tigrina_Cape May Warbler,0.118030995,112.0,115.0
+Mniotilta varia_Black-and-white Warbler,0.94906175,113.0,116.0
+Mniotilta varia_Black-and-white Warbler,0.9677576,114.0,117.0
+Mniotilta varia_Black-and-white Warbler,0.9805547,115.0,118.0
+Mniotilta varia_Black-and-white Warbler,0.9743411,116.0,119.0
+Periparus venustulus_Yellow-bellied Tit,0.3372948,116.0,119.0
+Seiurus aurocapilla_Ovenbird,0.12587412,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.12192183,118.0,121.0
+Setophaga cerulea_Cerulean Warbler,0.11168209,118.0,121.0
+Setophaga cerulea_Cerulean Warbler,0.14027183,119.0,122.0
+Contopus virens_Eastern Wood-Pewee,0.12475158,119.0,122.0
+Contopus virens_Eastern Wood-Pewee,0.32383016,120.0,123.0
+Setophaga cerulea_Cerulean Warbler,0.13000321,120.0,123.0
+Contopus virens_Eastern Wood-Pewee,0.27940798,121.0,124.0
+Setophaga cerulea_Cerulean Warbler,0.152173,121.0,124.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1033633,121.0,124.0
+Setophaga cerulea_Cerulean Warbler,0.13951167,123.0,126.0
+Setophaga cerulea_Cerulean Warbler,0.14003778,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.10355994,125.0,128.0
+Mniotilta varia_Black-and-white Warbler,0.9893846,128.0,131.0
+Mniotilta varia_Black-and-white Warbler,0.9761698,129.0,132.0
+Mniotilta varia_Black-and-white Warbler,0.98929286,130.0,133.0
+Mniotilta varia_Black-and-white Warbler,0.97837687,131.0,134.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16057675,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.11119072,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122498885,134.0,137.0
+Setophaga cerulea_Cerulean Warbler,0.11889301,134.0,137.0
+Setophaga cerulea_Cerulean Warbler,0.1458198,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15317108,136.0,139.0
+Setophaga cerulea_Cerulean Warbler,0.103594586,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.141364,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.20706207,138.0,141.0
+Setophaga fusca_Blackburnian Warbler,0.107492246,138.0,141.0
+Mniotilta varia_Black-and-white Warbler,0.99355423,139.0,142.0
+Mniotilta varia_Black-and-white Warbler,0.9887045,140.0,143.0
+Mniotilta varia_Black-and-white Warbler,0.9901357,141.0,144.0
+Mniotilta varia_Black-and-white Warbler,0.9868558,142.0,145.0
+Setophaga tigrina_Cape May Warbler,0.1691335,142.0,145.0
+Setophaga cerulea_Cerulean Warbler,0.1436418,143.0,146.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10628799,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11405001,146.0,149.0
+Setophaga cerulea_Cerulean Warbler,0.1447308,147.0,150.0
+Contopus virens_Eastern Wood-Pewee,0.21739382,148.0,151.0
+Setophaga cerulea_Cerulean Warbler,0.13214573,148.0,151.0
+Contopus virens_Eastern Wood-Pewee,0.39007905,149.0,152.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1422076,149.0,152.0
+Setophaga cerulea_Cerulean Warbler,0.11324508,149.0,152.0
+Contopus virens_Eastern Wood-Pewee,0.24049194,150.0,153.0
+Setophaga cerulea_Cerulean Warbler,0.13960683,150.0,153.0
+Setophaga cerulea_Cerulean Warbler,0.12703209,151.0,154.0
+Contopus virens_Eastern Wood-Pewee,0.117862225,151.0,154.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10143734,152.0,155.0
+Mniotilta varia_Black-and-white Warbler,0.99138194,153.0,156.0
+Mniotilta varia_Black-and-white Warbler,0.99437356,154.0,157.0
+Mniotilta varia_Black-and-white Warbler,0.9922328,155.0,158.0
+Mniotilta varia_Black-and-white Warbler,0.95574445,156.0,159.0
+Contopus virens_Eastern Wood-Pewee,0.28233683,157.0,160.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13632561,158.0,161.0
+Empidonax virescens_Acadian Flycatcher,0.112786695,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1306705,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.12657869,159.0,162.0
+Setophaga cerulea_Cerulean Warbler,0.10136473,159.0,162.0
+Setophaga fusca_Blackburnian Warbler,0.40675876,160.0,163.0
+Vireo olivaceus_Red-eyed Vireo,0.10118592,160.0,163.0
+Setophaga fusca_Blackburnian Warbler,0.16584894,161.0,164.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14925955,161.0,164.0
+Setophaga cerulea_Cerulean Warbler,0.13793747,161.0,164.0
+Setophaga fusca_Blackburnian Warbler,0.27215266,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1946766,162.0,165.0
+Setophaga cerulea_Cerulean Warbler,0.109292775,162.0,165.0
+Mniotilta varia_Black-and-white Warbler,0.9816347,163.0,166.0
+Setophaga tigrina_Cape May Warbler,0.17887802,163.0,166.0
+Mniotilta varia_Black-and-white Warbler,0.97411853,164.0,167.0
+Mniotilta varia_Black-and-white Warbler,0.9673594,165.0,168.0
+Mniotilta varia_Black-and-white Warbler,0.9823139,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13246426,167.0,170.0
+Piranga olivacea_Scarlet Tanager,0.12384574,167.0,170.0
+Vireo olivaceus_Red-eyed Vireo,0.11970992,167.0,170.0
+Vireo olivaceus_Red-eyed Vireo,0.18161471,168.0,171.0
+Setophaga cerulea_Cerulean Warbler,0.16785179,168.0,171.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15812664,168.0,171.0
+Piranga olivacea_Scarlet Tanager,0.12237888,168.0,171.0
+Empidonax virescens_Acadian Flycatcher,0.100092135,168.0,171.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1870281,169.0,172.0
+Piranga olivacea_Scarlet Tanager,0.15344091,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19495875,170.0,173.0
+Piranga olivacea_Scarlet Tanager,0.2545684,171.0,174.0
+Contopus virens_Eastern Wood-Pewee,0.34446448,172.0,175.0
+Piranga olivacea_Scarlet Tanager,0.11934057,172.0,175.0
+Mniotilta varia_Black-and-white Warbler,0.3216771,173.0,176.0
+Mniotilta varia_Black-and-white Warbler,0.951433,174.0,177.0
+Setophaga tigrina_Cape May Warbler,0.12103053,174.0,177.0
+Mniotilta varia_Black-and-white Warbler,0.99111825,175.0,178.0
+Mniotilta varia_Black-and-white Warbler,0.9885988,176.0,179.0
+Mniotilta varia_Black-and-white Warbler,0.9899284,177.0,180.0
+Setophaga tigrina_Cape May Warbler,0.18761736,177.0,180.0
+Piranga olivacea_Scarlet Tanager,0.15836269,178.0,181.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14686102,178.0,181.0
+Setophaga cerulea_Cerulean Warbler,0.13699172,178.0,181.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13242519,178.0,181.0
+Mniotilta varia_Black-and-white Warbler,0.11832067,181.0,184.0
+Mniotilta varia_Black-and-white Warbler,0.9818927,182.0,185.0
+Setophaga tigrina_Cape May Warbler,0.12154463,182.0,185.0
+Mniotilta varia_Black-and-white Warbler,0.9737819,183.0,186.0
+Mniotilta varia_Black-and-white Warbler,0.92833316,184.0,187.0
+Spindalis zena_Western Spindalis,0.2841039,184.0,187.0
+Chlorestes cyanus_White-chinned Sapphire,0.24924244,185.0,188.0
+Mniotilta varia_Black-and-white Warbler,0.18294646,185.0,188.0
+Dryocopus pileatus_Pileated Woodpecker,0.99696237,186.0,189.0
+Dryocopus pileatus_Pileated Woodpecker,0.9940223,187.0,190.0
+Dryocopus pileatus_Pileated Woodpecker,0.9551977,188.0,191.0
+Setophaga cerulea_Cerulean Warbler,0.22730806,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15599574,189.0,192.0
+Setophaga cerulea_Cerulean Warbler,0.15664992,190.0,193.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14793818,190.0,193.0
+Mniotilta varia_Black-and-white Warbler,0.98576665,192.0,195.0
+Mniotilta varia_Black-and-white Warbler,0.98277366,193.0,196.0
+Mniotilta varia_Black-and-white Warbler,0.9911214,194.0,197.0
+Mniotilta varia_Black-and-white Warbler,0.9179305,195.0,198.0
+Vireo olivaceus_Red-eyed Vireo,0.16562788,196.0,199.0
+Empidonax virescens_Acadian Flycatcher,0.13566491,196.0,199.0
+Setophaga cerulea_Cerulean Warbler,0.12736607,196.0,199.0
+Piranga olivacea_Scarlet Tanager,0.1137184,196.0,199.0
+Piranga olivacea_Scarlet Tanager,0.10475698,197.0,200.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1304548,198.0,201.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1233315,201.0,204.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12025172,201.0,204.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10023259,201.0,204.0
+Mniotilta varia_Black-and-white Warbler,0.96430933,202.0,205.0
+Setophaga tigrina_Cape May Warbler,0.20246187,202.0,205.0
+Mniotilta varia_Black-and-white Warbler,0.9892133,203.0,206.0
+Mniotilta varia_Black-and-white Warbler,0.95198435,204.0,207.0
+Mniotilta varia_Black-and-white Warbler,0.7377532,205.0,208.0
+Mniotilta varia_Black-and-white Warbler,0.18369123,206.0,209.0
+Setophaga cerulea_Cerulean Warbler,0.11715888,207.0,210.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11655284,207.0,210.0
+Seiurus aurocapilla_Ovenbird,0.23485641,208.0,211.0
+Setophaga cerulea_Cerulean Warbler,0.10793241,208.0,211.0
+Setophaga cerulea_Cerulean Warbler,0.11881297,209.0,212.0
+Seiurus aurocapilla_Ovenbird,0.10090818,209.0,212.0
+Seiurus aurocapilla_Ovenbird,0.2888334,210.0,213.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16796537,211.0,214.0
+Mniotilta varia_Black-and-white Warbler,0.96161413,212.0,215.0
+Mniotilta varia_Black-and-white Warbler,0.9896281,213.0,216.0
+Mniotilta varia_Black-and-white Warbler,0.99174654,214.0,217.0
+Mniotilta varia_Black-and-white Warbler,0.9391699,215.0,218.0
+Mniotilta varia_Black-and-white Warbler,0.8118629,216.0,219.0
+Setophaga fusca_Blackburnian Warbler,0.21311659,216.0,219.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.15905948,217.0,220.0
+Setophaga cerulea_Cerulean Warbler,0.1422783,217.0,220.0
+Piranga olivacea_Scarlet Tanager,0.1289192,217.0,220.0
+Setophaga fusca_Blackburnian Warbler,0.19947957,218.0,221.0
+Setophaga tigrina_Cape May Warbler,0.11647463,218.0,221.0
+Mniotilta varia_Black-and-white Warbler,0.19608398,227.0,230.0
+Mniotilta varia_Black-and-white Warbler,0.85818267,228.0,231.0
+Mniotilta varia_Black-and-white Warbler,0.7811396,229.0,232.0
+Mniotilta varia_Black-and-white Warbler,0.8391394,230.0,233.0
+Mniotilta varia_Black-and-white Warbler,0.18393302,231.0,234.0
+Mniotilta varia_Black-and-white Warbler,0.76393163,238.0,241.0
+Mniotilta varia_Black-and-white Warbler,0.8357924,239.0,242.0
+Mniotilta varia_Black-and-white Warbler,0.86545664,240.0,243.0
+Mniotilta varia_Black-and-white Warbler,0.48317763,241.0,244.0
+Vireo olivaceus_Red-eyed Vireo,0.10051491,251.0,254.0
+Mniotilta varia_Black-and-white Warbler,0.9165752,252.0,255.0
+Setophaga tigrina_Cape May Warbler,0.2078182,252.0,255.0
+Mniotilta varia_Black-and-white Warbler,0.98227936,253.0,256.0
+Mniotilta varia_Black-and-white Warbler,0.97119,254.0,257.0
+Mniotilta varia_Black-and-white Warbler,0.96533096,255.0,258.0
+Mniotilta varia_Black-and-white Warbler,0.55223846,256.0,259.0
+Setophaga castanea_Bay-breasted Warbler,0.44057918,256.0,259.0
+Setophaga ruticilla_American Redstart,0.13223104,256.0,259.0
+Setophaga fusca_Blackburnian Warbler,0.12610455,256.0,259.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13280436,257.0,260.0
+Vireo olivaceus_Red-eyed Vireo,0.14023009,258.0,261.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10922041,258.0,261.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.48182634,262.0,265.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40276262,263.0,266.0
+Setophaga cerulea_Cerulean Warbler,0.12395695,263.0,266.0
+Mniotilta varia_Black-and-white Warbler,0.4413804,264.0,267.0
+Setophaga tigrina_Cape May Warbler,0.11301758,264.0,267.0
+Mniotilta varia_Black-and-white Warbler,0.9891187,265.0,268.0
+Mniotilta varia_Black-and-white Warbler,0.9906403,266.0,269.0
+Mniotilta varia_Black-and-white Warbler,0.97451496,267.0,270.0
+Mniotilta varia_Black-and-white Warbler,0.96091175,268.0,271.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123527005,272.0,275.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15838027,273.0,276.0
+Setophaga cerulea_Cerulean Warbler,0.15744855,273.0,276.0
+Piranga olivacea_Scarlet Tanager,0.24137384,277.0,280.0
+Mniotilta varia_Black-and-white Warbler,0.92973745,278.0,281.0
+Setophaga tigrina_Cape May Warbler,0.6573313,278.0,281.0
+Mniotilta varia_Black-and-white Warbler,0.95560366,279.0,282.0
+Setophaga tigrina_Cape May Warbler,0.19511111,279.0,282.0
+Mniotilta varia_Black-and-white Warbler,0.94380766,280.0,283.0
+Mniotilta varia_Black-and-white Warbler,0.9714945,281.0,284.0
+Mniotilta varia_Black-and-white Warbler,0.96559215,282.0,285.0
+Vireo olivaceus_Red-eyed Vireo,0.24653825,283.0,286.0
+Setophaga fusca_Blackburnian Warbler,0.16121653,284.0,287.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11211996,284.0,287.0
+Setophaga cerulea_Cerulean Warbler,0.10228016,284.0,287.0
+Setophaga fusca_Blackburnian Warbler,0.149289,285.0,288.0
+Setophaga cerulea_Cerulean Warbler,0.10980597,285.0,288.0
+Setophaga fusca_Blackburnian Warbler,0.22859624,286.0,289.0
+Setophaga cerulea_Cerulean Warbler,0.11052951,286.0,289.0
+Mniotilta varia_Black-and-white Warbler,0.98603165,288.0,291.0
+Mniotilta varia_Black-and-white Warbler,0.98761183,289.0,292.0
+Mniotilta varia_Black-and-white Warbler,0.98955464,290.0,293.0
+Mniotilta varia_Black-and-white Warbler,0.8910682,291.0,294.0
+Setophaga cerulea_Cerulean Warbler,0.12242753,292.0,295.0
+Setophaga cerulea_Cerulean Warbler,0.12061759,293.0,296.0
+Vireo flavifrons_Yellow-throated Vireo,0.106552295,293.0,296.0
+Vireo olivaceus_Red-eyed Vireo,0.15292211,295.0,298.0
+Mniotilta varia_Black-and-white Warbler,0.93675834,296.0,299.0
+Setophaga tigrina_Cape May Warbler,0.25870526,296.0,299.0
+Mniotilta varia_Black-and-white Warbler,0.98105925,297.0,300.0
+Mniotilta varia_Black-and-white Warbler,0.9809202,298.0,301.0
+Mniotilta varia_Black-and-white Warbler,0.986167,299.0,302.0
+Vireo olivaceus_Red-eyed Vireo,0.10294071,300.0,303.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13347149,301.0,304.0
+Vireo olivaceus_Red-eyed Vireo,0.11816216,301.0,304.0
+Setophaga cerulea_Cerulean Warbler,0.116579585,301.0,304.0
+Vireo olivaceus_Red-eyed Vireo,0.26267958,302.0,305.0
+Setophaga fusca_Blackburnian Warbler,0.12370961,303.0,306.0
+Setophaga fusca_Blackburnian Warbler,0.13902071,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11665381,304.0,307.0
+Setophaga cerulea_Cerulean Warbler,0.11584125,306.0,309.0
+Setophaga fusca_Blackburnian Warbler,0.10607684,306.0,309.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105417386,306.0,309.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22678818,307.0,310.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2718121,308.0,311.0
+Mniotilta varia_Black-and-white Warbler,0.9544723,310.0,313.0
+Setophaga tigrina_Cape May Warbler,0.4772763,310.0,313.0
+Mniotilta varia_Black-and-white Warbler,0.96451455,311.0,314.0
+Mniotilta varia_Black-and-white Warbler,0.96684474,312.0,315.0
+Mniotilta varia_Black-and-white Warbler,0.8948496,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12722448,314.0,317.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17668217,315.0,318.0
+Vireo olivaceus_Red-eyed Vireo,0.16523421,316.0,319.0
+Setophaga cerulea_Cerulean Warbler,0.110968515,316.0,319.0
+Setophaga citrina_Hooded Warbler,0.106130764,316.0,319.0
+Piranga olivacea_Scarlet Tanager,0.10326393,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11718256,318.0,321.0
+Pomatorhinus horsfieldii_Indian Scimitar-Babbler,0.23515323,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10863419,319.0,322.0
+Setophaga fusca_Blackburnian Warbler,0.29374978,320.0,323.0
+Vireo olivaceus_Red-eyed Vireo,0.13735719,320.0,323.0
+Setophaga fusca_Blackburnian Warbler,0.16890904,321.0,324.0
+Piranga olivacea_Scarlet Tanager,0.11687655,321.0,324.0
+Setophaga fusca_Blackburnian Warbler,0.18554534,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10360809,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14283063,323.0,326.0
+Piranga olivacea_Scarlet Tanager,0.11683993,323.0,326.0
+Setophaga fusca_Blackburnian Warbler,0.10871955,323.0,326.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12812132,324.0,327.0
+Vireo olivaceus_Red-eyed Vireo,0.12307636,324.0,327.0
+Setophaga fusca_Blackburnian Warbler,0.102291286,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1678986,325.0,328.0
+Vireo olivaceus_Red-eyed Vireo,0.11934736,325.0,328.0
+Setophaga fusca_Blackburnian Warbler,0.10424411,325.0,328.0
+Mniotilta varia_Black-and-white Warbler,0.96624506,326.0,329.0
+Mniotilta varia_Black-and-white Warbler,0.9198009,327.0,330.0
+Mniotilta varia_Black-and-white Warbler,0.9676119,328.0,331.0
+Mniotilta varia_Black-and-white Warbler,0.90381074,329.0,332.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13013324,330.0,333.0
+Seiurus aurocapilla_Ovenbird,0.112132,330.0,333.0
+Seiurus aurocapilla_Ovenbird,0.22912017,331.0,334.0
+Piranga olivacea_Scarlet Tanager,0.14017463,333.0,336.0
+Piranga olivacea_Scarlet Tanager,0.15405427,334.0,337.0
+Vireo olivaceus_Red-eyed Vireo,0.10902976,334.0,337.0
+Vireo olivaceus_Red-eyed Vireo,0.20991224,335.0,338.0
+Piranga olivacea_Scarlet Tanager,0.15607339,335.0,338.0
+Vireo olivaceus_Red-eyed Vireo,0.34651062,336.0,339.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16672796,336.0,339.0
+Piranga olivacea_Scarlet Tanager,0.15515183,336.0,339.0
+Mniotilta varia_Black-and-white Warbler,0.8409768,337.0,340.0
+Mniotilta varia_Black-and-white Warbler,0.963877,338.0,341.0
+Setophaga tigrina_Cape May Warbler,0.21918647,338.0,341.0
+Mniotilta varia_Black-and-white Warbler,0.94001836,339.0,342.0
+Setophaga tigrina_Cape May Warbler,0.18630339,339.0,342.0
+Mniotilta varia_Black-and-white Warbler,0.978684,340.0,343.0
+Setophaga tigrina_Cape May Warbler,0.10238242,340.0,343.0
+Mniotilta varia_Black-and-white Warbler,0.8685296,341.0,344.0
+Setophaga tigrina_Cape May Warbler,0.11902981,341.0,344.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28578436,342.0,345.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25743145,343.0,346.0
+Vireo flavifrons_Yellow-throated Vireo,0.19128893,343.0,346.0
+Setophaga cerulea_Cerulean Warbler,0.16325845,343.0,346.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26069525,344.0,347.0
+Setophaga fusca_Blackburnian Warbler,0.19570863,344.0,347.0
+Setophaga cerulea_Cerulean Warbler,0.15313788,344.0,347.0
+Setophaga cerulea_Cerulean Warbler,0.18374297,345.0,348.0
+Setophaga fusca_Blackburnian Warbler,0.18265943,345.0,348.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1610958,345.0,348.0
+Seiurus aurocapilla_Ovenbird,0.122634046,345.0,348.0
+Seiurus aurocapilla_Ovenbird,0.18885292,346.0,349.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1446746,346.0,349.0
+Setophaga fusca_Blackburnian Warbler,0.12868264,346.0,349.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18307032,347.0,350.0
+Seiurus aurocapilla_Ovenbird,0.1789871,347.0,350.0
+Seiurus aurocapilla_Ovenbird,0.19694366,348.0,351.0
+Laniarius major_Tropical Boubou,0.10468621,348.0,351.0
+Mniotilta varia_Black-and-white Warbler,0.40197027,349.0,352.0
+Mniotilta varia_Black-and-white Warbler,0.97658724,350.0,353.0
+Mniotilta varia_Black-and-white Warbler,0.9862665,351.0,354.0
+Mniotilta varia_Black-and-white Warbler,0.9704949,352.0,355.0
+Mniotilta varia_Black-and-white Warbler,0.9965802,353.0,356.0
+Setophaga cerulea_Cerulean Warbler,0.11387628,354.0,357.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10001336,354.0,357.0
+Piranga olivacea_Scarlet Tanager,0.14200422,356.0,359.0
+Vireo olivaceus_Red-eyed Vireo,0.111239485,356.0,359.0
+Vireo olivaceus_Red-eyed Vireo,0.5907248,357.0,360.0
+Vireo olivaceus_Red-eyed Vireo,0.13132544,358.0,361.0
+Empidonax virescens_Acadian Flycatcher,0.11767796,358.0,361.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1044226,358.0,361.0
+Piranga olivacea_Scarlet Tanager,0.10310199,358.0,361.0
+Setophaga cerulea_Cerulean Warbler,0.10237627,358.0,361.0
+Mniotilta varia_Black-and-white Warbler,0.9130575,359.0,362.0
+Setophaga tigrina_Cape May Warbler,0.1715153,359.0,362.0
+Mniotilta varia_Black-and-white Warbler,0.95957506,360.0,363.0
+Mniotilta varia_Black-and-white Warbler,0.9432975,361.0,364.0
+Setophaga tigrina_Cape May Warbler,0.17508607,361.0,364.0
+Mniotilta varia_Black-and-white Warbler,0.9524234,362.0,365.0
+Setophaga tigrina_Cape May Warbler,0.26610845,362.0,365.0
+Setophaga fusca_Blackburnian Warbler,0.17194092,363.0,366.0
+Setophaga fusca_Blackburnian Warbler,0.18570685,364.0,367.0
+Vireo olivaceus_Red-eyed Vireo,0.17977796,364.0,367.0
+Vireo olivaceus_Red-eyed Vireo,0.27689877,365.0,368.0
+Vireo olivaceus_Red-eyed Vireo,0.1658779,366.0,369.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12366933,366.0,369.0
+Vireo olivaceus_Red-eyed Vireo,0.2425488,367.0,370.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102442145,367.0,370.0
+Vireo olivaceus_Red-eyed Vireo,0.24327397,368.0,371.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14185664,368.0,371.0
+Vireo olivaceus_Red-eyed Vireo,0.3586309,369.0,372.0
+Piranga olivacea_Scarlet Tanager,0.102910385,369.0,372.0
+Vireo olivaceus_Red-eyed Vireo,0.10796097,370.0,373.0
+Pomatorhinus horsfieldii_Indian Scimitar-Babbler,0.51366097,371.0,374.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.31356344,372.0,375.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.25294554,373.0,376.0
+Mniotilta varia_Black-and-white Warbler,0.9266343,375.0,378.0
+Setophaga tigrina_Cape May Warbler,0.10754878,375.0,378.0
+Mniotilta varia_Black-and-white Warbler,0.97211087,376.0,379.0
+Mniotilta varia_Black-and-white Warbler,0.97423834,377.0,380.0
+Mniotilta varia_Black-and-white Warbler,0.9086214,378.0,381.0
+Setophaga citrina_Hooded Warbler,0.11455335,379.0,382.0
+Setophaga cerulea_Cerulean Warbler,0.10298938,379.0,382.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21272686,380.0,383.0
+Setophaga fusca_Blackburnian Warbler,0.15224823,380.0,383.0
+Seiurus aurocapilla_Ovenbird,0.14091522,380.0,383.0
+Setophaga cerulea_Cerulean Warbler,0.105950415,380.0,383.0
+Seiurus aurocapilla_Ovenbird,0.2216946,381.0,384.0
+Seiurus aurocapilla_Ovenbird,0.13781478,382.0,385.0
+Seiurus aurocapilla_Ovenbird,0.14025436,383.0,386.0
+Mniotilta varia_Black-and-white Warbler,0.96575904,386.0,389.0
+Setophaga tigrina_Cape May Warbler,0.102447495,386.0,389.0
+Mniotilta varia_Black-and-white Warbler,0.9900967,387.0,390.0
+Mniotilta varia_Black-and-white Warbler,0.995786,388.0,391.0
+Mniotilta varia_Black-and-white Warbler,0.97852325,389.0,392.0
+Setophaga cerulea_Cerulean Warbler,0.11052236,390.0,393.0
+Vireo olivaceus_Red-eyed Vireo,0.15213214,392.0,395.0
+Vireo olivaceus_Red-eyed Vireo,0.39812678,394.0,397.0
+Piranga olivacea_Scarlet Tanager,0.14033636,394.0,397.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10110214,394.0,397.0
+Mniotilta varia_Black-and-white Warbler,0.9740511,398.0,401.0
+Mniotilta varia_Black-and-white Warbler,0.9629374,399.0,402.0
+Mniotilta varia_Black-and-white Warbler,0.9765177,400.0,403.0
+Mniotilta varia_Black-and-white Warbler,0.8690242,401.0,404.0
+Seiurus aurocapilla_Ovenbird,0.18289593,402.0,404.5920181405896
+Setophaga caerulescens_Black-throated Blue Warbler,0.167332,402.0,404.5920181405896

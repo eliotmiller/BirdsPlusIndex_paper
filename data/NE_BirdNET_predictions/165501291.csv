@@ -1,0 +1,59 @@
+species,score,start_time,end_time
+Poecile atricapillus_Black-capped Chickadee,0.24539526,0.0,3.0
+Poecile hudsonicus_Boreal Chickadee,0.23637442,0.0,3.0
+Poecile carolinensis_Carolina Chickadee,0.17772624,0.0,3.0
+Baeolophus wollweberi_Bridled Titmouse,0.27695188,1.0,4.0
+Poecile hudsonicus_Boreal Chickadee,0.20410487,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.14210394,1.0,4.0
+Poecile hudsonicus_Boreal Chickadee,0.13383442,2.0,5.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.26997793,3.0,6.0
+Parus major_Great Tit,0.2381593,3.0,6.0
+Parus minor_Japanese Tit,0.21947663,3.0,6.0
+Aethopyga siparaja_Crimson Sunbird,0.15691067,3.0,6.0
+Poecile hudsonicus_Boreal Chickadee,0.20699935,4.0,7.0
+Parus major_Great Tit,0.24360873,5.0,8.0
+Poecile hudsonicus_Boreal Chickadee,0.18520819,5.0,8.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.12313462,5.0,8.0
+Poecile rufescens_Chestnut-backed Chickadee,0.11879038,5.0,8.0
+Poecile gambeli_Mountain Chickadee,0.63482183,6.0,9.0
+Poecile hudsonicus_Boreal Chickadee,0.44764072,6.0,9.0
+Poecile hudsonicus_Boreal Chickadee,0.88282084,7.0,10.0
+Poecile gambeli_Mountain Chickadee,0.104397446,7.0,10.0
+Poecile hudsonicus_Boreal Chickadee,0.8127228,8.0,11.0
+Poecile gambeli_Mountain Chickadee,0.17066783,8.0,11.0
+Poecile hudsonicus_Boreal Chickadee,0.699391,9.0,12.0
+Poecile hudsonicus_Boreal Chickadee,0.46398672,10.0,13.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.11457867,10.0,13.0
+Poecile hudsonicus_Boreal Chickadee,0.24696806,11.0,14.0
+Poecile atricapillus_Black-capped Chickadee,0.11283382,11.0,14.0
+Poecile hudsonicus_Boreal Chickadee,0.47357553,12.0,15.0
+Poecile gambeli_Mountain Chickadee,0.24057318,12.0,15.0
+Poecile hudsonicus_Boreal Chickadee,0.19435206,13.0,16.0
+Poecile gambeli_Mountain Chickadee,0.122857675,13.0,16.0
+Poecile hudsonicus_Boreal Chickadee,0.23927276,14.0,17.0
+Poecile gambeli_Mountain Chickadee,0.22462392,14.0,17.0
+Poecile hudsonicus_Boreal Chickadee,0.12831013,15.0,18.0
+Poecile hudsonicus_Boreal Chickadee,0.33051288,16.0,19.0
+Poecile atricapillus_Black-capped Chickadee,0.12194554,16.0,19.0
+Poecile hudsonicus_Boreal Chickadee,0.23466964,17.0,20.0
+Poecile atricapillus_Black-capped Chickadee,0.15050653,19.0,22.0
+Poecile atricapillus_Black-capped Chickadee,0.12534684,20.0,23.0
+Poecile hudsonicus_Boreal Chickadee,0.3309786,21.0,24.0
+Poecile carolinensis_Carolina Chickadee,0.26710218,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.15695691,21.0,24.0
+Poecile hudsonicus_Boreal Chickadee,0.5835236,22.0,25.0
+Poecile carolinensis_Carolina Chickadee,0.34937248,22.0,25.0
+Poecile hudsonicus_Boreal Chickadee,0.37237528,23.0,26.0
+Poecile hudsonicus_Boreal Chickadee,0.5771665,24.0,27.0
+Poecile gambeli_Mountain Chickadee,0.3164347,24.0,27.0
+Poecile hudsonicus_Boreal Chickadee,0.37397856,25.0,28.0
+Poecile gambeli_Mountain Chickadee,0.1425915,25.0,28.0
+Poecile hudsonicus_Boreal Chickadee,0.9176528,26.0,29.0
+Poecile gambeli_Mountain Chickadee,0.23119362,26.0,29.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.16869165,26.0,29.0
+Parus major_Great Tit,0.5016254,27.0,30.0
+Poecile hudsonicus_Boreal Chickadee,0.1943077,27.0,30.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.17598327,27.0,30.0
+Human non-vocal_Human non-vocal,0.40451232,29.0,31.87201814058957
+Dog_Dog,0.1416715,29.0,31.87201814058957
+Engine_Engine,0.10331734,29.0,31.87201814058957

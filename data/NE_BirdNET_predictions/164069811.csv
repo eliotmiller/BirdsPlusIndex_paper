@@ -1,0 +1,193 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.9567531,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.13640872,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.83774704,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.21548456,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9636478,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.23727642,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.85520774,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.21736404,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.9321666,5.0,8.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.32300258,6.0,9.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.23924764,7.0,10.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.24750319,8.0,11.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.20794232,9.0,12.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16538425,10.0,13.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.304864,11.0,14.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.20205514,12.0,15.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.20426416,13.0,16.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13842097,15.0,18.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15187353,17.0,20.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.28671175,19.0,22.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.17138287,20.0,23.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11209375,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.9389133,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.17439501,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.9641391,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.21167532,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.9390716,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.27961797,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.75620544,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10798049,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.7966459,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2059624,26.0,29.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.106981315,27.0,30.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.22362804,28.0,31.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13555829,31.0,34.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.123052284,32.0,35.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13235958,33.0,36.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1692309,34.0,37.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13455492,35.0,38.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.10710406,36.0,39.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.12809609,37.0,40.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15280765,38.0,41.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.161174,39.0,42.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15434144,40.0,43.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15010944,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.8403865,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.9481665,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.20750366,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.89931136,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.18236686,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.76558846,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.11846338,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11726937,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.801294,47.0,50.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.24000672,48.0,51.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.32174715,49.0,52.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16663705,50.0,53.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.10467933,51.0,54.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18657349,57.0,60.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.17408836,58.0,61.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18162483,59.0,62.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.12076157,60.0,63.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16442564,61.0,64.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.43687063,62.0,65.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15719147,63.0,66.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1732701,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.8477525,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.17301448,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.9201916,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.13224725,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.9173641,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.14177321,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.91817296,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.20478456,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.9480786,69.0,72.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.19195525,70.0,73.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15914941,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.33020157,72.0,75.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.256562,74.0,77.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14305283,75.0,78.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15646969,77.0,80.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14940092,80.0,83.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.115478225,81.0,84.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16315044,82.0,85.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14723381,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.8606969,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.11508126,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.9721696,86.0,89.0
+Setophaga virens_Black-throated Green Warbler,0.15123378,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.99425757,87.0,90.0
+Setophaga virens_Black-throated Green Warbler,0.21003535,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.95876116,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.16757002,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.967933,89.0,92.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.12987171,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.14560364,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.1526866,92.0,95.0
+Haemorhous mexicanus_House Finch,0.122838445,93.0,96.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11023156,93.0,96.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.31424615,94.0,97.0
+Haemorhous mexicanus_House Finch,0.111787304,94.0,97.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.20850645,96.0,99.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.26309896,98.0,101.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16484423,99.0,102.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1393285,100.0,103.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.109721005,101.0,104.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18583848,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.7700951,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.11111154,105.0,108.0
+Seiurus aurocapilla_Ovenbird,0.8487846,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.10732008,106.0,109.0
+Seiurus aurocapilla_Ovenbird,0.8336772,107.0,110.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14920305,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.12537558,107.0,110.0
+Seiurus aurocapilla_Ovenbird,0.5520367,108.0,111.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17542925,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.88835955,109.0,112.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.110239536,116.0,119.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14334755,117.0,120.0
+Haemorhous mexicanus_House Finch,0.1414298,117.0,120.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13345645,118.0,121.0
+Haemorhous mexicanus_House Finch,0.17521562,119.0,122.0
+Haemorhous mexicanus_House Finch,0.14346148,120.0,123.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1100338,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.8457697,122.0,125.0
+Setophaga virens_Black-throated Green Warbler,0.11767233,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.58556193,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14392917,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.7498875,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13940294,124.0,127.0
+Setophaga virens_Black-throated Green Warbler,0.12918942,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.6817595,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10565654,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.7125044,126.0,129.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14228666,126.0,129.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13557151,127.0,130.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.17547292,128.0,131.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.12030738,129.0,132.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18616009,130.0,133.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.21680681,131.0,134.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.27924755,132.0,135.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13955744,133.0,136.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15999576,134.0,137.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1764222,135.0,138.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.260146,136.0,139.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18477269,137.0,140.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.34660554,138.0,141.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11623782,139.0,142.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14888899,140.0,143.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.10702966,141.0,144.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13591577,142.0,145.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.16070154,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.43561086,144.0,147.0
+Setophaga virens_Black-throated Green Warbler,0.14730398,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.6933236,145.0,148.0
+Setophaga virens_Black-throated Green Warbler,0.17189877,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.95252615,146.0,149.0
+Setophaga virens_Black-throated Green Warbler,0.22556488,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.8967716,147.0,150.0
+Setophaga virens_Black-throated Green Warbler,0.23708986,147.0,150.0
+Seiurus aurocapilla_Ovenbird,0.8827591,148.0,151.0
+Setophaga virens_Black-throated Green Warbler,0.13554229,148.0,151.0
+Seiurus aurocapilla_Ovenbird,0.12153073,149.0,152.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.19312944,150.0,153.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14669256,151.0,154.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.17296627,152.0,155.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.12547958,153.0,156.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13866064,154.0,157.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.3474648,155.0,158.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.2076653,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.11696022,157.0,160.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13759787,158.0,161.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.25460696,159.0,162.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1632385,160.0,163.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.27115718,161.0,164.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.100952126,162.0,165.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1956013,163.0,166.0
+Setophaga virens_Black-throated Green Warbler,0.14020781,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.112138316,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.9187689,165.0,168.0
+Setophaga virens_Black-throated Green Warbler,0.1320747,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.94556457,166.0,169.0
+Setophaga virens_Black-throated Green Warbler,0.24009445,166.0,169.0
+Seiurus aurocapilla_Ovenbird,0.876064,167.0,170.0
+Setophaga virens_Black-throated Green Warbler,0.20604086,167.0,170.0
+Seiurus aurocapilla_Ovenbird,0.78026336,168.0,171.0
+Setophaga virens_Black-throated Green Warbler,0.104161635,168.0,171.0
+Seiurus aurocapilla_Ovenbird,0.4098698,187.0,190.0
+Seiurus aurocapilla_Ovenbird,0.43717644,188.0,191.0
+Seiurus aurocapilla_Ovenbird,0.19497304,189.0,192.0
+Seiurus aurocapilla_Ovenbird,0.119181775,190.0,193.0
+Bubo virginianus_Great Horned Owl,0.16704436,191.0,194.0

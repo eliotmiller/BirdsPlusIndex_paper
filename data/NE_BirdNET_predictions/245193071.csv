@@ -1,0 +1,102 @@
+species,score,start_time,end_time
+Engine_Engine,0.3620138,1.0,4.0
+Engine_Engine,0.24503994,2.0,5.0
+Oporornis agilis_Connecticut Warbler,0.11182294,4.0,7.0
+Haemorhous mexicanus_House Finch,0.7125199,5.0,8.0
+Haemorhous mexicanus_House Finch,0.78244776,6.0,9.0
+Haemorhous mexicanus_House Finch,0.70237064,7.0,10.0
+Engine_Engine,0.23832037,8.0,11.0
+Oporornis agilis_Connecticut Warbler,0.12429754,9.0,12.0
+Haemorhous mexicanus_House Finch,0.10159547,9.0,12.0
+Haemorhous mexicanus_House Finch,0.98131645,10.0,13.0
+Haemorhous mexicanus_House Finch,0.905333,11.0,14.0
+Haemorhous mexicanus_House Finch,0.14571202,12.0,15.0
+Engine_Engine,0.5874031,14.0,17.0
+Engine_Engine,0.53496486,15.0,18.0
+Engine_Engine,0.6562083,16.0,19.0
+Engine_Engine,0.3069233,17.0,20.0
+Engine_Engine,0.10263012,18.0,21.0
+Engine_Engine,0.1636051,20.0,23.0
+Dog_Dog,0.4464349,35.0,38.0
+Dog_Dog,0.55780786,36.0,39.0
+Ixobrychus minutus_Little Bittern,0.2673355,36.0,39.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.3971569,41.0,44.0
+Ixobrychus minutus_Little Bittern,0.14370482,42.0,45.0
+Haemorhous mexicanus_House Finch,0.6144899,46.0,49.0
+Psiloscops flammeolus_Flammulated Owl,0.18036957,46.0,49.0
+Zenaida macroura_Mourning Dove,0.11593869,46.0,49.0
+Haemorhous mexicanus_House Finch,0.46053824,47.0,50.0
+Psiloscops flammeolus_Flammulated Owl,0.17976834,47.0,50.0
+Zenaida macroura_Mourning Dove,0.14292067,47.0,50.0
+Haemorhous mexicanus_House Finch,0.59364796,48.0,51.0
+Geococcyx californianus_Greater Roadrunner,0.12301501,48.0,51.0
+Haemorhous mexicanus_House Finch,0.24255465,49.0,52.0
+Turdus migratorius_American Robin,0.26117533,50.0,53.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14067176,50.0,53.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.39353538,54.0,57.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.2468343,54.0,57.0
+Haemorhous mexicanus_House Finch,0.216533,54.0,57.0
+Oporornis agilis_Connecticut Warbler,0.7574284,55.0,58.0
+Haemorhous mexicanus_House Finch,0.24664252,55.0,58.0
+Haemorhous mexicanus_House Finch,0.79758394,56.0,59.0
+Haemorhous mexicanus_House Finch,0.9499575,57.0,60.0
+Haemorhous mexicanus_House Finch,0.6688731,58.0,61.0
+Curruca communis_Greater Whitethroat,0.27330863,58.0,61.0
+Haemorhous cassinii_Cassin's Finch,0.2179588,58.0,61.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.10292286,58.0,61.0
+Haemorhous mexicanus_House Finch,0.6185999,59.0,62.0
+Haemorhous mexicanus_House Finch,0.8703348,60.0,63.0
+Haemorhous mexicanus_House Finch,0.9090928,61.0,64.0
+Brachypteryx leucophris_Lesser Shortwing,0.12711468,61.0,64.0
+Emberiza rustica_Rustic Bunting,0.26311916,62.0,65.0
+Haemorhous mexicanus_House Finch,0.12693174,62.0,65.0
+Engine_Engine,0.10087845,65.0,68.0
+Psiloscops flammeolus_Flammulated Owl,0.34030402,66.0,69.0
+Zenaida macroura_Mourning Dove,0.113772705,66.0,69.0
+Zenaida macroura_Mourning Dove,0.4838447,67.0,70.0
+Haemorhous mexicanus_House Finch,0.103030026,74.0,77.0
+Haemorhous mexicanus_House Finch,0.879193,75.0,78.0
+Haemorhous mexicanus_House Finch,0.9610191,76.0,79.0
+Haemorhous cassinii_Cassin's Finch,0.21828535,76.0,79.0
+Haemorhous mexicanus_House Finch,0.92198116,77.0,80.0
+Haemorhous mexicanus_House Finch,0.1986169,78.0,81.0
+Curruca communis_Greater Whitethroat,0.116294466,78.0,81.0
+Fringilla coelebs_Common Chaffinch,0.10949331,78.0,81.0
+Human vocal_Human vocal,0.10767667,79.0,82.0
+Zenaida macroura_Mourning Dove,0.29035008,80.0,83.0
+Haemorhous mexicanus_House Finch,0.5943161,81.0,84.0
+Haemorhous mexicanus_House Finch,0.7509734,82.0,85.0
+Haemorhous mexicanus_House Finch,0.35304078,83.0,86.0
+Brachypteryx leucophris_Lesser Shortwing,0.10627541,84.0,87.0
+Engine_Engine,0.115240365,85.0,88.0
+Haemorhous mexicanus_House Finch,0.38056007,86.0,89.0
+Oporornis agilis_Connecticut Warbler,0.18147537,86.0,89.0
+Haemorhous mexicanus_House Finch,0.8246419,87.0,90.0
+Haemorhous mexicanus_House Finch,0.95569694,88.0,91.0
+Haemorhous mexicanus_House Finch,0.8295547,89.0,92.0
+Oporornis agilis_Connecticut Warbler,0.65206754,92.0,95.0
+Haemorhous mexicanus_House Finch,0.25209686,92.0,95.0
+Haemorhous mexicanus_House Finch,0.9613636,93.0,96.0
+Dasyornis longirostris_Western Bristlebird,0.101440005,93.0,96.0
+Haemorhous mexicanus_House Finch,0.9770447,94.0,97.0
+Sturnella neglecta_Western Meadowlark,0.20527229,95.0,98.0
+Sturnella magna_Eastern Meadowlark,0.107797116,95.0,98.0
+Engine_Engine,0.28822154,96.0,99.0
+Oporornis agilis_Connecticut Warbler,0.10979045,97.0,100.0
+Haemorhous mexicanus_House Finch,0.94342875,98.0,101.0
+Haemorhous mexicanus_House Finch,0.9847883,99.0,102.0
+Haemorhous mexicanus_House Finch,0.87204146,100.0,103.0
+Haemorhous mexicanus_House Finch,0.4338533,101.0,104.0
+Haemorhous mexicanus_House Finch,0.968441,106.0,109.0
+Haemorhous mexicanus_House Finch,0.8315023,107.0,110.0
+Haemorhous mexicanus_House Finch,0.9192845,108.0,111.0
+Haemorhous mexicanus_House Finch,0.93103844,109.0,112.0
+Haemorhous cassinii_Cassin's Finch,0.20312741,109.0,112.0
+Calliope calliope_Siberian Rubythroat,0.14443481,110.0,113.0
+Engine_Engine,0.11358161,112.0,115.0
+Numenius arquata_Eurasian Curlew,0.12783489,113.0,116.0
+Haematopus ostralegus_Eurasian Oystercatcher,0.10148027,113.0,116.0
+Engine_Engine,0.24256285,114.0,117.0
+Engine_Engine,0.21176668,115.0,118.0
+Engine_Engine,0.16983362,116.0,119.0
+Strix aluco_Tawny Owl,0.12373375,117.0,120.0

@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.48999193,1.0,4.0
+Contopus virens_Eastern Wood-Pewee,0.6687402,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.4942884,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.19530714,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.31911308,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.123896666,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.13980179,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.1276221,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.22422566,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.11765992,12.0,15.0
+Buteo jamaicensis_Red-tailed Hawk,0.33906084,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.92764145,17.0,20.0
+Haliaeetus leucocephalus_Bald Eagle,0.19869907,17.0,20.0
+Buteo jamaicensis_Red-tailed Hawk,0.8809514,18.0,21.0
+Haliaeetus leucocephalus_Bald Eagle,0.23849162,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.20906438,19.0,22.0
+Falco peregrinus_Peregrine Falcon,0.117125355,19.0,22.0
+Haliaeetus leucocephalus_Bald Eagle,0.105103925,19.0,22.0
+Eopsaltria australis_Eastern Yellow Robin,0.2118747,21.0,24.0
+Cyanocitta cristata_Blue Jay,0.10088706,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.5643779,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.849077,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.7239511,26.0,29.0
+Euphagus carolinus_Rusty Blackbird,0.16783787,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.15695478,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.35220608,32.0,35.0
+Vireo flavifrons_Yellow-throated Vireo,0.50460243,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.24267627,33.0,36.0
+Eopsaltria australis_Eastern Yellow Robin,0.28235605,35.0,38.0
+Myadestes townsendi_Townsend's Solitaire,0.25261164,35.0,38.0
+Platycercus caledonicus_Green Rosella,0.18945624,35.0,38.0
+Heteromyias cinereifrons_Gray-headed Robin,0.1371989,36.0,39.0
+Cinclosoma punctatum_Spotted Quail-thrush,0.11793289,36.0,39.0
+Vireo flavifrons_Yellow-throated Vireo,0.5762622,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.11677117,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.12610075,49.0,52.0
+Vireo flavifrons_Yellow-throated Vireo,0.11799037,52.0,55.0
+Vireo olivaceus_Red-eyed Vireo,0.26233822,55.0,58.0
+Vireo olivaceus_Red-eyed Vireo,0.11113219,56.0,59.0
+Vireo flavifrons_Yellow-throated Vireo,0.27583468,60.0,63.0
+Empidonax virescens_Acadian Flycatcher,0.1158305,60.0,63.0
+Vireo flavifrons_Yellow-throated Vireo,0.36944228,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11860281,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.14891395,64.0,67.0
+Vireo olivaceus_Red-eyed Vireo,0.1164391,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.116763875,67.0,70.0
+Geothlypis philadelphia_Mourning Warbler,0.104142085,67.0,70.0
+Bonasa umbellus_Ruffed Grouse,0.48318046,68.0,71.0
+Bonasa umbellus_Ruffed Grouse,0.5877071,69.0,72.0
+Vireo olivaceus_Red-eyed Vireo,0.33173385,70.0,73.0
+Vireo olivaceus_Red-eyed Vireo,0.43439874,71.0,74.0
+Vireo philadelphicus_Philadelphia Vireo,0.11698157,71.0,74.0
+Vireo olivaceus_Red-eyed Vireo,0.34101585,72.0,75.0
+Vireo solitarius_Blue-headed Vireo,0.1104701,72.0,75.0
+Vireo olivaceus_Red-eyed Vireo,0.18677533,73.0,76.0
+Vireo flavifrons_Yellow-throated Vireo,0.10781106,73.0,76.0
+Vireo olivaceus_Red-eyed Vireo,0.2089953,74.0,77.0
+Vireo olivaceus_Red-eyed Vireo,0.12038923,75.0,78.0
+Vireo flavifrons_Yellow-throated Vireo,0.113504365,76.0,79.0
+Vireo olivaceus_Red-eyed Vireo,0.115279436,77.0,80.0

@@ -1,0 +1,580 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.11985449,0.0,3.0
+Troglodytes hiemalis_Winter Wren,0.9975485,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.99928135,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.99942577,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.99949026,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.99875903,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.9550826,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.49673274,7.0,10.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.4683033,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.44010586,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11228818,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10376741,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.42392477,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.101902656,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.25266746,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1738603,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.2005651,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12518694,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.123052195,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.22368099,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15061074,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.57047844,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26430222,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.12187509,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.7186866,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.7180718,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.21078482,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15095602,17.0,20.0
+Buteo platypterus_Broad-winged Hawk,0.10000345,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.19077328,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11907913,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.19874702,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11191269,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.5673213,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.9959651,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.9995066,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.99918383,23.0,26.0
+Troglodytes hiemalis_Winter Wren,0.9979265,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.9992749,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.9985948,26.0,29.0
+Troglodytes hiemalis_Winter Wren,0.9967616,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.99770206,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.99858874,29.0,32.0
+Regulus ignicapilla_Common Firecrest,0.11940111,30.0,33.0
+Troglodytes hiemalis_Winter Wren,0.10230554,30.0,33.0
+Regulus ignicapilla_Common Firecrest,0.5127196,31.0,34.0
+Aegithalos caudatus_Long-tailed Tit,0.18172747,31.0,34.0
+Setophaga castanea_Bay-breasted Warbler,0.12353713,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10239953,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15131819,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.11077184,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.79051787,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11718799,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.4667419,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13772207,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.7667054,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1510617,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.13372284,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124386184,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.27917916,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13739116,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.6299386,39.0,42.0
+Troglodytes hiemalis_Winter Wren,0.79666513,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.16728951,40.0,43.0
+Troglodytes hiemalis_Winter Wren,0.99726284,41.0,44.0
+Troglodytes hiemalis_Winter Wren,0.9996092,42.0,45.0
+Troglodytes hiemalis_Winter Wren,0.99967396,43.0,46.0
+Troglodytes hiemalis_Winter Wren,0.99963546,44.0,47.0
+Troglodytes hiemalis_Winter Wren,0.9993573,45.0,48.0
+Troglodytes hiemalis_Winter Wren,0.91712373,46.0,49.0
+Troglodytes troglodytes_Eurasian Wren,0.1450433,46.0,49.0
+Spizella pusilla_Field Sparrow,0.2588833,47.0,50.0
+Troglodytes hiemalis_Winter Wren,0.1776738,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21231328,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20677364,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.101809785,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1493963,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.11630378,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1302871,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.11568177,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14699553,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28443465,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.17759869,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.15733457,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.10686023,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13931674,54.0,57.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10194225,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.17148933,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14984705,55.0,58.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11531904,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.10725921,55.0,58.0
+Vireo olivaceus_Red-eyed Vireo,0.17979328,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.11952273,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10700373,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.123847045,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11746666,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.18636371,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113409616,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.21445976,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13281605,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17567918,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.11823995,60.0,63.0
+Troglodytes hiemalis_Winter Wren,0.96116775,61.0,64.0
+Troglodytes hiemalis_Winter Wren,0.9962464,62.0,65.0
+Troglodytes hiemalis_Winter Wren,0.99853444,63.0,66.0
+Troglodytes hiemalis_Winter Wren,0.99924845,64.0,67.0
+Troglodytes hiemalis_Winter Wren,0.99850273,65.0,68.0
+Troglodytes hiemalis_Winter Wren,0.9930992,66.0,69.0
+Troglodytes hiemalis_Winter Wren,0.98118573,67.0,70.0
+Troglodytes hiemalis_Winter Wren,0.31049415,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.13939592,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1561445,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.10141504,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1969511,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.13339406,72.0,75.0
+Buteo platypterus_Broad-winged Hawk,0.11618032,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15861358,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.14633146,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.1257915,73.0,76.0
+Troglodytes hiemalis_Winter Wren,0.9627185,74.0,77.0
+Troglodytes hiemalis_Winter Wren,0.9966646,75.0,78.0
+Troglodytes hiemalis_Winter Wren,0.999148,76.0,79.0
+Troglodytes hiemalis_Winter Wren,0.9992111,77.0,80.0
+Troglodytes hiemalis_Winter Wren,0.99798536,78.0,81.0
+Troglodytes hiemalis_Winter Wren,0.99887246,79.0,82.0
+Troglodytes hiemalis_Winter Wren,0.9816108,80.0,83.0
+Troglodytes hiemalis_Winter Wren,0.3908995,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18061557,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.12591268,82.0,85.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12315446,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14965233,83.0,86.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13047178,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.16241552,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16164675,84.0,87.0
+Bonasa umbellus_Ruffed Grouse,0.1222054,84.0,87.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18166061,85.0,88.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12719502,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.10344225,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.13326573,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10451739,86.0,89.0
+Setophaga fusca_Blackburnian Warbler,0.25645623,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23728606,87.0,90.0
+Piranga olivacea_Scarlet Tanager,0.19669145,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16346313,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.12416898,88.0,91.0
+Setophaga fusca_Blackburnian Warbler,0.10632469,88.0,91.0
+Troglodytes hiemalis_Winter Wren,0.9220238,89.0,92.0
+Troglodytes hiemalis_Winter Wren,0.9990996,90.0,93.0
+Troglodytes hiemalis_Winter Wren,0.9993924,91.0,94.0
+Troglodytes hiemalis_Winter Wren,0.99853766,92.0,95.0
+Troglodytes hiemalis_Winter Wren,0.9991079,93.0,96.0
+Troglodytes hiemalis_Winter Wren,0.9977018,94.0,97.0
+Troglodytes hiemalis_Winter Wren,0.9816852,95.0,98.0
+Troglodytes hiemalis_Winter Wren,0.6160228,96.0,99.0
+Spizella pusilla_Field Sparrow,0.11252477,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13320059,97.0,100.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.106430896,97.0,100.0
+Bonasa umbellus_Ruffed Grouse,0.10217651,97.0,100.0
+Bonasa umbellus_Ruffed Grouse,0.17376883,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12411507,98.0,101.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10749641,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1939975,99.0,102.0
+Bonasa umbellus_Ruffed Grouse,0.16004324,99.0,102.0
+Bonasa umbellus_Ruffed Grouse,0.15721227,100.0,103.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11616413,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.115691625,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.17911913,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15328252,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17442708,102.0,105.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14819916,102.0,105.0
+Buteo platypterus_Broad-winged Hawk,0.104749195,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.19779764,103.0,106.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15132983,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.11213371,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.43424284,104.0,107.0
+Troglodytes hiemalis_Winter Wren,0.89173555,105.0,108.0
+Troglodytes hiemalis_Winter Wren,0.9970687,106.0,109.0
+Troglodytes hiemalis_Winter Wren,0.99906737,107.0,110.0
+Troglodytes hiemalis_Winter Wren,0.99958307,108.0,111.0
+Troglodytes hiemalis_Winter Wren,0.9991211,109.0,112.0
+Troglodytes hiemalis_Winter Wren,0.9943036,110.0,113.0
+Troglodytes hiemalis_Winter Wren,0.9831529,111.0,114.0
+Troglodytes hiemalis_Winter Wren,0.4627978,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14856242,113.0,116.0
+Piranga olivacea_Scarlet Tanager,0.13767473,113.0,116.0
+Buteo platypterus_Broad-winged Hawk,0.11339713,113.0,116.0
+Piranga olivacea_Scarlet Tanager,0.23320876,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17075749,114.0,117.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.106943086,114.0,117.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.2250054,115.0,118.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12226901,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10510917,116.0,119.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1368483,117.0,120.0
+Piranga olivacea_Scarlet Tanager,0.13564499,119.0,122.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10184966,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19553646,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1487092,121.0,124.0
+Bonasa umbellus_Ruffed Grouse,0.15624534,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15092616,122.0,125.0
+Bonasa umbellus_Ruffed Grouse,0.14429127,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1332134,123.0,126.0
+Piranga olivacea_Scarlet Tanager,0.12954259,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15432443,124.0,127.0
+Piranga olivacea_Scarlet Tanager,0.15402707,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.211581,125.0,128.0
+Piranga olivacea_Scarlet Tanager,0.14935414,125.0,128.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11459991,125.0,128.0
+Setophaga fusca_Blackburnian Warbler,0.10866859,125.0,128.0
+Piranga olivacea_Scarlet Tanager,0.24074335,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15754029,126.0,129.0
+Setophaga virens_Black-throated Green Warbler,0.38082954,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29501116,127.0,130.0
+Setophaga virens_Black-throated Green Warbler,0.40908602,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23406498,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.6422372,129.0,132.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2375203,129.0,132.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10963326,129.0,132.0
+Troglodytes hiemalis_Winter Wren,0.9968957,130.0,133.0
+Troglodytes hiemalis_Winter Wren,0.9955745,131.0,134.0
+Troglodytes hiemalis_Winter Wren,0.99874413,132.0,135.0
+Troglodytes hiemalis_Winter Wren,0.9993088,133.0,136.0
+Troglodytes hiemalis_Winter Wren,0.99977976,134.0,137.0
+Troglodytes hiemalis_Winter Wren,0.99814403,135.0,138.0
+Troglodytes hiemalis_Winter Wren,0.9942179,136.0,139.0
+Spizella pusilla_Field Sparrow,0.61630976,137.0,140.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.117063455,138.0,141.0
+Setophaga fusca_Blackburnian Warbler,0.11176296,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1094738,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15514815,139.0,142.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10653901,140.0,143.0
+Piranga olivacea_Scarlet Tanager,0.20315051,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10320404,141.0,144.0
+Setophaga virens_Black-throated Green Warbler,0.16821228,142.0,145.0
+Bonasa umbellus_Ruffed Grouse,0.13928919,142.0,145.0
+Setophaga virens_Black-throated Green Warbler,0.6652321,143.0,146.0
+Setophaga virens_Black-throated Green Warbler,0.5599243,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1263775,144.0,147.0
+Bonasa umbellus_Ruffed Grouse,0.12458836,144.0,147.0
+Setophaga virens_Black-throated Green Warbler,0.2906022,145.0,148.0
+Piranga olivacea_Scarlet Tanager,0.10311789,145.0,148.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13177368,147.0,150.0
+Troglodytes hiemalis_Winter Wren,0.9509027,148.0,151.0
+Troglodytes hiemalis_Winter Wren,0.99885094,149.0,152.0
+Troglodytes hiemalis_Winter Wren,0.99841774,150.0,153.0
+Troglodytes hiemalis_Winter Wren,0.9996196,151.0,154.0
+Troglodytes hiemalis_Winter Wren,0.99878246,152.0,155.0
+Troglodytes hiemalis_Winter Wren,0.9987048,153.0,156.0
+Troglodytes hiemalis_Winter Wren,0.9980913,154.0,157.0
+Troglodytes hiemalis_Winter Wren,0.46749705,155.0,158.0
+Spizella pusilla_Field Sparrow,0.27310506,155.0,158.0
+Setophaga virens_Black-throated Green Warbler,0.6342667,156.0,159.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21797685,156.0,159.0
+Setophaga virens_Black-throated Green Warbler,0.1740121,157.0,160.0
+Setophaga virens_Black-throated Green Warbler,0.15253896,158.0,161.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10051777,158.0,161.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.72645783,159.0,162.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6674263,160.0,163.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8244754,161.0,164.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.63333946,162.0,165.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5609269,163.0,166.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.3117893,164.0,167.0
+Troglodytes hiemalis_Winter Wren,0.9127085,165.0,168.0
+Troglodytes hiemalis_Winter Wren,0.998752,166.0,169.0
+Troglodytes hiemalis_Winter Wren,0.99943894,167.0,170.0
+Troglodytes hiemalis_Winter Wren,0.99853396,168.0,171.0
+Troglodytes hiemalis_Winter Wren,0.99939525,169.0,172.0
+Troglodytes hiemalis_Winter Wren,0.99897254,170.0,173.0
+Troglodytes troglodytes_Eurasian Wren,0.5618942,170.0,173.0
+Troglodytes hiemalis_Winter Wren,0.9984012,171.0,174.0
+Troglodytes hiemalis_Winter Wren,0.14765719,172.0,175.0
+Petroica boodang_Scarlet Robin,0.10453393,172.0,175.0
+Setophaga virens_Black-throated Green Warbler,0.13267347,173.0,176.0
+Buteo platypterus_Broad-winged Hawk,0.11606366,173.0,176.0
+Piranga olivacea_Scarlet Tanager,0.18620472,174.0,177.0
+Piranga olivacea_Scarlet Tanager,0.19180414,175.0,178.0
+Vireo olivaceus_Red-eyed Vireo,0.10422512,175.0,178.0
+Piranga olivacea_Scarlet Tanager,0.22360481,176.0,179.0
+Vireo olivaceus_Red-eyed Vireo,0.11774475,176.0,179.0
+Piranga olivacea_Scarlet Tanager,0.11431244,177.0,180.0
+Piranga olivacea_Scarlet Tanager,0.24497943,178.0,181.0
+Vireo olivaceus_Red-eyed Vireo,0.14635962,178.0,181.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17227851,179.0,182.0
+Piranga olivacea_Scarlet Tanager,0.1607419,179.0,182.0
+Setophaga virens_Black-throated Green Warbler,0.65153164,180.0,183.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21087202,180.0,183.0
+Piranga olivacea_Scarlet Tanager,0.12703387,180.0,183.0
+Troglodytes hiemalis_Winter Wren,0.97898406,181.0,184.0
+Troglodytes hiemalis_Winter Wren,0.997113,182.0,185.0
+Troglodytes hiemalis_Winter Wren,0.99872917,183.0,186.0
+Troglodytes hiemalis_Winter Wren,0.9997327,184.0,187.0
+Troglodytes hiemalis_Winter Wren,0.9995474,185.0,188.0
+Troglodytes hiemalis_Winter Wren,0.999696,186.0,189.0
+Troglodytes hiemalis_Winter Wren,0.9988978,187.0,190.0
+Troglodytes hiemalis_Winter Wren,0.9987393,188.0,191.0
+Troglodytes hiemalis_Winter Wren,0.99922097,189.0,192.0
+Troglodytes hiemalis_Winter Wren,0.9997712,190.0,193.0
+Regulus ignicapilla_Common Firecrest,0.8411779,191.0,194.0
+Setophaga castanea_Bay-breasted Warbler,0.8527322,192.0,195.0
+Certhia americana_Brown Creeper,0.16408287,192.0,195.0
+Setophaga fusca_Blackburnian Warbler,0.13117173,192.0,195.0
+Regulus regulus_Goldcrest,0.10556495,192.0,195.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.108185895,193.0,196.0
+Piranga olivacea_Scarlet Tanager,0.119081885,196.0,199.0
+Setophaga virens_Black-throated Green Warbler,0.113302074,196.0,199.0
+Piranga olivacea_Scarlet Tanager,0.13544737,197.0,200.0
+Setophaga virens_Black-throated Green Warbler,0.114936695,197.0,200.0
+Bonasa umbellus_Ruffed Grouse,0.14337845,198.0,201.0
+Piranga olivacea_Scarlet Tanager,0.1277062,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11041618,198.0,201.0
+Setophaga virens_Black-throated Green Warbler,0.10049276,198.0,201.0
+Troglodytes hiemalis_Winter Wren,0.9542274,199.0,202.0
+Troglodytes hiemalis_Winter Wren,0.9986008,200.0,203.0
+Troglodytes hiemalis_Winter Wren,0.9992447,201.0,204.0
+Troglodytes hiemalis_Winter Wren,0.9997737,202.0,205.0
+Troglodytes hiemalis_Winter Wren,0.99969363,203.0,206.0
+Troglodytes hiemalis_Winter Wren,0.9999025,204.0,207.0
+Troglodytes hiemalis_Winter Wren,0.94187975,205.0,208.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.14353786,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11644554,207.0,210.0
+Setophaga fusca_Blackburnian Warbler,0.11416274,207.0,210.0
+Piranga olivacea_Scarlet Tanager,0.12654111,210.0,213.0
+Troglodytes hiemalis_Winter Wren,0.85607475,211.0,214.0
+Troglodytes hiemalis_Winter Wren,0.9971226,212.0,215.0
+Troglodytes hiemalis_Winter Wren,0.9977335,213.0,216.0
+Troglodytes hiemalis_Winter Wren,0.9991283,214.0,217.0
+Troglodytes hiemalis_Winter Wren,0.9996623,215.0,218.0
+Troglodytes hiemalis_Winter Wren,0.99986553,216.0,219.0
+Troglodytes hiemalis_Winter Wren,0.99975103,217.0,220.0
+Troglodytes hiemalis_Winter Wren,0.99873644,218.0,221.0
+Troglodytes hiemalis_Winter Wren,0.9997923,219.0,222.0
+Troglodytes hiemalis_Winter Wren,0.9998915,220.0,223.0
+Regulus ignicapilla_Common Firecrest,0.38022336,221.0,224.0
+Setophaga castanea_Bay-breasted Warbler,0.33311307,221.0,224.0
+Troglodytes hiemalis_Winter Wren,0.27292982,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1549482,222.0,225.0
+Bonasa umbellus_Ruffed Grouse,0.114430115,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122387394,223.0,226.0
+Sitta carolinensis_White-breasted Nuthatch,0.12843369,224.0,227.0
+Piranga olivacea_Scarlet Tanager,0.13239567,225.0,228.0
+Setophaga virens_Black-throated Green Warbler,0.40186697,228.0,231.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2627519,228.0,231.0
+Setophaga virens_Black-throated Green Warbler,0.66770655,229.0,232.0
+Setophaga virens_Black-throated Green Warbler,0.7595195,230.0,233.0
+Troglodytes hiemalis_Winter Wren,0.9986778,231.0,234.0
+Troglodytes hiemalis_Winter Wren,0.9987908,232.0,235.0
+Troglodytes hiemalis_Winter Wren,0.9965424,233.0,236.0
+Troglodytes hiemalis_Winter Wren,0.9992386,234.0,237.0
+Troglodytes hiemalis_Winter Wren,0.9990939,235.0,238.0
+Troglodytes hiemalis_Winter Wren,0.99936,236.0,239.0
+Troglodytes hiemalis_Winter Wren,0.9990451,237.0,240.0
+Troglodytes hiemalis_Winter Wren,0.999138,238.0,241.0
+Regulus ignicapilla_Common Firecrest,0.9843128,239.0,242.0
+Setophaga castanea_Bay-breasted Warbler,0.5531681,240.0,243.0
+Setophaga fusca_Blackburnian Warbler,0.30719128,240.0,243.0
+Setophaga virens_Black-throated Green Warbler,0.23454304,240.0,243.0
+Setophaga virens_Black-throated Green Warbler,0.1106439,241.0,244.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105195776,241.0,244.0
+Setophaga fusca_Blackburnian Warbler,0.15277854,245.0,248.0
+Piranga olivacea_Scarlet Tanager,0.100892134,246.0,249.0
+Piranga olivacea_Scarlet Tanager,0.24510571,247.0,250.0
+Setophaga virens_Black-throated Green Warbler,0.40281102,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1698974,248.0,251.0
+Piranga olivacea_Scarlet Tanager,0.10079859,248.0,251.0
+Setophaga virens_Black-throated Green Warbler,0.827004,249.0,252.0
+Piranga olivacea_Scarlet Tanager,0.1954745,249.0,252.0
+Setophaga virens_Black-throated Green Warbler,0.82816106,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14388488,250.0,253.0
+Setophaga virens_Black-throated Green Warbler,0.8307377,251.0,254.0
+Sitta carolinensis_White-breasted Nuthatch,0.107457854,251.0,254.0
+Troglodytes hiemalis_Winter Wren,0.9911692,252.0,255.0
+Cardellina canadensis_Canada Warbler,0.1401004,252.0,255.0
+Troglodytes hiemalis_Winter Wren,0.9967715,253.0,256.0
+Troglodytes hiemalis_Winter Wren,0.99596643,254.0,257.0
+Troglodytes hiemalis_Winter Wren,0.9947843,255.0,258.0
+Troglodytes hiemalis_Winter Wren,0.99915326,256.0,259.0
+Troglodytes hiemalis_Winter Wren,0.9974759,257.0,260.0
+Troglodytes hiemalis_Winter Wren,0.99972886,258.0,261.0
+Troglodytes hiemalis_Winter Wren,0.99973506,259.0,262.0
+Troglodytes hiemalis_Winter Wren,0.7856814,260.0,263.0
+Regulus ignicapilla_Common Firecrest,0.24005684,260.0,263.0
+Regulus ignicapilla_Common Firecrest,0.95117974,261.0,264.0
+Setophaga castanea_Bay-breasted Warbler,0.15115504,261.0,264.0
+Troglodytes hiemalis_Winter Wren,0.10008341,261.0,264.0
+Piranga olivacea_Scarlet Tanager,0.1447249,262.0,265.0
+Piranga olivacea_Scarlet Tanager,0.14266816,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1099354,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10149315,265.0,268.0
+Setophaga virens_Black-throated Green Warbler,0.31366515,268.0,271.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12915218,268.0,271.0
+Setophaga virens_Black-throated Green Warbler,0.4671357,269.0,272.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16523112,269.0,272.0
+Setophaga virens_Black-throated Green Warbler,0.7593719,270.0,273.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18232255,270.0,273.0
+Troglodytes hiemalis_Winter Wren,0.9990276,271.0,274.0
+Troglodytes hiemalis_Winter Wren,0.99609536,272.0,275.0
+Troglodytes hiemalis_Winter Wren,0.9959149,273.0,276.0
+Troglodytes hiemalis_Winter Wren,0.9969168,274.0,277.0
+Troglodytes hiemalis_Winter Wren,0.9981882,275.0,278.0
+Troglodytes hiemalis_Winter Wren,0.99915755,276.0,279.0
+Troglodytes hiemalis_Winter Wren,0.99951184,277.0,280.0
+Troglodytes hiemalis_Winter Wren,0.99972636,278.0,281.0
+Regulus ignicapilla_Common Firecrest,0.8591101,279.0,282.0
+Mniotilta varia_Black-and-white Warbler,0.19884323,280.0,283.0
+Setophaga castanea_Bay-breasted Warbler,0.1979671,280.0,283.0
+Certhia americana_Brown Creeper,0.13265824,280.0,283.0
+Setophaga virens_Black-throated Green Warbler,0.7937794,281.0,284.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18008447,281.0,284.0
+Setophaga virens_Black-throated Green Warbler,0.5141065,282.0,285.0
+Buteo platypterus_Broad-winged Hawk,0.47525364,282.0,285.0
+Piranga olivacea_Scarlet Tanager,0.20382716,283.0,286.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13111913,283.0,286.0
+Setophaga fusca_Blackburnian Warbler,0.12132709,283.0,286.0
+Setophaga virens_Black-throated Green Warbler,0.11410817,283.0,286.0
+Setophaga virens_Black-throated Green Warbler,0.15708834,284.0,287.0
+Setophaga virens_Black-throated Green Warbler,0.15705,285.0,288.0
+Piranga olivacea_Scarlet Tanager,0.14426574,285.0,288.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13268802,285.0,288.0
+Piranga olivacea_Scarlet Tanager,0.18095176,286.0,289.0
+Setophaga virens_Black-throated Green Warbler,0.121924944,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11095315,286.0,289.0
+Setophaga virens_Black-throated Green Warbler,0.22660634,287.0,290.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20328741,287.0,290.0
+Piranga olivacea_Scarlet Tanager,0.10322566,287.0,290.0
+Setophaga virens_Black-throated Green Warbler,0.8446811,288.0,291.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12246827,288.0,291.0
+Setophaga virens_Black-throated Green Warbler,0.1353778,289.0,292.0
+Troglodytes hiemalis_Winter Wren,0.9977309,290.0,293.0
+Troglodytes hiemalis_Winter Wren,0.9988569,291.0,294.0
+Troglodytes hiemalis_Winter Wren,0.99586535,292.0,295.0
+Troglodytes hiemalis_Winter Wren,0.99963295,293.0,296.0
+Troglodytes hiemalis_Winter Wren,0.9997851,294.0,297.0
+Troglodytes hiemalis_Winter Wren,0.99981517,295.0,298.0
+Troglodytes hiemalis_Winter Wren,0.9988507,296.0,299.0
+Troglodytes hiemalis_Winter Wren,0.9972088,297.0,300.0
+Regulus ignicapilla_Common Firecrest,0.8386339,298.0,301.0
+Setophaga castanea_Bay-breasted Warbler,0.2591479,298.0,301.0
+Setophaga magnolia_Magnolia Warbler,0.40829703,299.0,302.0
+Setophaga ruticilla_American Redstart,0.16951486,299.0,302.0
+Setophaga ruticilla_American Redstart,0.26792297,300.0,303.0
+Setophaga magnolia_Magnolia Warbler,0.2408946,300.0,303.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10213859,300.0,303.0
+Setophaga magnolia_Magnolia Warbler,0.44420674,301.0,304.0
+Setophaga ruticilla_American Redstart,0.22082625,301.0,304.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13045603,301.0,304.0
+Setophaga magnolia_Magnolia Warbler,0.62771976,302.0,305.0
+Setophaga ruticilla_American Redstart,0.11331966,302.0,305.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.23202673,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12156997,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17823583,305.0,308.0
+Troglodytes hiemalis_Winter Wren,0.55574656,306.0,309.0
+Melozone crissalis_California Towhee,0.18342778,306.0,309.0
+Troglodytes hiemalis_Winter Wren,0.2612076,307.0,310.0
+Troglodytes hiemalis_Winter Wren,0.9466419,308.0,311.0
+Setophaga magnolia_Magnolia Warbler,0.17722917,309.0,312.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.112660244,309.0,312.0
+Setophaga magnolia_Magnolia Warbler,0.10219383,310.0,313.0
+Troglodytes hiemalis_Winter Wren,0.9976851,311.0,314.0
+Passerina cyanea_Indigo Bunting,0.1135123,311.0,314.0
+Troglodytes hiemalis_Winter Wren,0.98196775,312.0,315.0
+Troglodytes hiemalis_Winter Wren,0.99030226,313.0,316.0
+Troglodytes hiemalis_Winter Wren,0.99569774,314.0,317.0
+Troglodytes hiemalis_Winter Wren,0.99968374,315.0,318.0
+Troglodytes hiemalis_Winter Wren,0.99682474,316.0,319.0
+Troglodytes hiemalis_Winter Wren,0.99964523,317.0,320.0
+Troglodytes hiemalis_Winter Wren,0.99926263,318.0,321.0
+Regulus ignicapilla_Common Firecrest,0.48516032,319.0,322.0
+Setophaga castanea_Bay-breasted Warbler,0.2151127,319.0,322.0
+Troglodytes hiemalis_Winter Wren,0.17350325,319.0,322.0
+Setophaga castanea_Bay-breasted Warbler,0.7275086,320.0,323.0
+Troglodytes hiemalis_Winter Wren,0.23289391,320.0,323.0
+Setophaga fusca_Blackburnian Warbler,0.17855117,320.0,323.0
+Setophaga virens_Black-throated Green Warbler,0.7116539,321.0,324.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23261493,321.0,324.0
+Setophaga virens_Black-throated Green Warbler,0.5758652,322.0,325.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14051339,322.0,325.0
+Setophaga virens_Black-throated Green Warbler,0.5093207,323.0,326.0
+Piranga olivacea_Scarlet Tanager,0.10820908,324.0,327.0
+Setophaga virens_Black-throated Green Warbler,0.10165653,324.0,327.0
+Buteo platypterus_Broad-winged Hawk,0.10125644,324.0,327.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.100301,324.0,327.0
+Piranga olivacea_Scarlet Tanager,0.16009295,325.0,328.0
+Setophaga ruticilla_American Redstart,0.19980781,326.0,329.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.106028154,326.0,329.0
+Setophaga ruticilla_American Redstart,0.24465239,327.0,330.0
+Setophaga magnolia_Magnolia Warbler,0.19416873,327.0,330.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15290646,327.0,330.0
+Troglodytes hiemalis_Winter Wren,0.996669,328.0,331.0
+Troglodytes hiemalis_Winter Wren,0.9916004,329.0,332.0
+Troglodytes hiemalis_Winter Wren,0.997399,330.0,333.0
+Troglodytes hiemalis_Winter Wren,0.998485,331.0,334.0
+Troglodytes hiemalis_Winter Wren,0.99889874,332.0,335.0
+Troglodytes hiemalis_Winter Wren,0.9988661,333.0,336.0
+Troglodytes hiemalis_Winter Wren,0.99856097,334.0,337.0
+Troglodytes hiemalis_Winter Wren,0.9999149,335.0,338.0
+Regulus ignicapilla_Common Firecrest,0.54993576,336.0,339.0
+Setophaga castanea_Bay-breasted Warbler,0.6285877,337.0,340.0
+Mniotilta varia_Black-and-white Warbler,0.4211108,337.0,340.0
+Certhia americana_Brown Creeper,0.30041555,337.0,340.0
+Setophaga virens_Black-throated Green Warbler,0.29755494,338.0,341.0
+Certhia americana_Brown Creeper,0.109384134,338.0,341.0
+Setophaga virens_Black-throated Green Warbler,0.3685562,339.0,342.0
+Buteo platypterus_Broad-winged Hawk,0.31126577,340.0,343.0
+Setophaga virens_Black-throated Green Warbler,0.15266591,340.0,343.0
+Bonasa umbellus_Ruffed Grouse,0.12732457,341.0,344.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10236017,341.0,344.0
+Setophaga fusca_Blackburnian Warbler,0.14389293,342.0,345.0
+Setophaga magnolia_Magnolia Warbler,0.13622256,342.0,345.0
+Troglodytes hiemalis_Winter Wren,0.99201113,343.0,346.0
+Troglodytes hiemalis_Winter Wren,0.9908215,344.0,347.0
+Troglodytes hiemalis_Winter Wren,0.9978405,345.0,348.0
+Troglodytes hiemalis_Winter Wren,0.99871385,346.0,349.0
+Troglodytes hiemalis_Winter Wren,0.9997918,347.0,350.0
+Troglodytes hiemalis_Winter Wren,0.998958,348.0,351.0
+Troglodytes hiemalis_Winter Wren,0.9996799,349.0,352.0
+Troglodytes hiemalis_Winter Wren,0.99921536,350.0,353.0
+Regulus ignicapilla_Common Firecrest,0.9745573,351.0,354.0
+Regulus ignicapilla_Common Firecrest,0.585936,352.0,355.0
+Setophaga castanea_Bay-breasted Warbler,0.33895558,352.0,355.0
+Certhia americana_Brown Creeper,0.11515465,352.0,355.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13107103,353.0,356.0
+Setophaga virens_Black-throated Green Warbler,0.7971204,354.0,357.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24801089,354.0,357.0
+Setophaga virens_Black-throated Green Warbler,0.41461375,355.0,358.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13571125,355.0,358.0
+Setophaga virens_Black-throated Green Warbler,0.54821455,356.0,359.0
+Setophaga ruticilla_American Redstart,0.14029436,356.0,359.0
+Troglodytes hiemalis_Winter Wren,0.13026088,357.0,360.0
+Troglodytes hiemalis_Winter Wren,0.996768,358.0,361.0
+Troglodytes hiemalis_Winter Wren,0.9957236,359.0,362.0
+Troglodytes hiemalis_Winter Wren,0.99498475,360.0,363.0
+Troglodytes hiemalis_Winter Wren,0.99966633,361.0,364.0
+Troglodytes hiemalis_Winter Wren,0.9992662,362.0,365.0
+Troglodytes hiemalis_Winter Wren,0.9997646,363.0,366.0
+Troglodytes hiemalis_Winter Wren,0.99987316,364.0,367.0
+Troglodytes hiemalis_Winter Wren,0.99572855,365.0,368.0
+Setophaga castanea_Bay-breasted Warbler,0.559286,366.0,369.0
+Regulus ignicapilla_Common Firecrest,0.50107527,366.0,369.0
+Piranga olivacea_Scarlet Tanager,0.12730443,370.0,373.0
+Piranga olivacea_Scarlet Tanager,0.14945544,371.0,374.0
+Sitta carolinensis_White-breasted Nuthatch,0.22822642,372.0,375.0
+Setophaga virens_Black-throated Green Warbler,0.7406027,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10529379,373.0,376.0
+Setophaga virens_Black-throated Green Warbler,0.71100605,374.0,377.0
+Sitta carolinensis_White-breasted Nuthatch,0.19787881,374.0,377.0
+Setophaga virens_Black-throated Green Warbler,0.7972343,375.0,378.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15188253,375.0,378.0
+Sitta carolinensis_White-breasted Nuthatch,0.33027798,376.0,379.0
+Setophaga virens_Black-throated Green Warbler,0.12161509,376.0,379.0
+Sitta carolinensis_White-breasted Nuthatch,0.14212665,377.0,380.0
+Sitta carolinensis_White-breasted Nuthatch,0.12112475,379.0,382.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10368879,379.0,382.0
+Setophaga virens_Black-throated Green Warbler,0.14151952,384.0,387.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18003295,388.0,391.0
+Bonasa umbellus_Ruffed Grouse,0.14122465,388.0,391.0
+Dryocopus pileatus_Pileated Woodpecker,0.123404115,388.0,391.0
+Setophaga fusca_Blackburnian Warbler,0.11118894,388.0,391.0
+Setophaga fusca_Blackburnian Warbler,0.10935241,389.0,392.0
+Setophaga virens_Black-throated Green Warbler,0.18794332,390.0,393.0
+Setophaga virens_Black-throated Green Warbler,0.2922246,391.0,394.0
+Setophaga virens_Black-throated Green Warbler,0.6870257,392.0,395.0
+Bonasa umbellus_Ruffed Grouse,0.20131311,395.0,398.0
+Bonasa umbellus_Ruffed Grouse,0.14606431,396.0,399.0
+Canachites canadensis_Spruce Grouse,0.13510953,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120988935,399.0,402.0
+Setophaga virens_Black-throated Green Warbler,0.124383375,400.0,403.0
+Setophaga virens_Black-throated Green Warbler,0.19265102,401.0,404.0
+Setophaga virens_Black-throated Green Warbler,0.2045697,411.0,414.0
+Setophaga virens_Black-throated Green Warbler,0.14269744,412.0,415.0
+Piranga olivacea_Scarlet Tanager,0.10121986,418.0,421.0
+Setophaga virens_Black-throated Green Warbler,0.2368037,419.0,422.0
+Piranga olivacea_Scarlet Tanager,0.11251755,436.0,439.0
+Piranga olivacea_Scarlet Tanager,0.12969397,438.0,441.0
+Piranga olivacea_Scarlet Tanager,0.102362305,439.0,442.0
+Setophaga virens_Black-throated Green Warbler,0.6718329,441.0,444.0
+Setophaga virens_Black-throated Green Warbler,0.2851612,442.0,445.0
+Setophaga virens_Black-throated Green Warbler,0.5859172,443.0,446.0
+Setophaga virens_Black-throated Green Warbler,0.12130498,451.0,454.0
+Setophaga virens_Black-throated Green Warbler,0.46053842,452.0,455.0
+Setophaga virens_Black-throated Green Warbler,0.67053044,453.0,455.47201814058957

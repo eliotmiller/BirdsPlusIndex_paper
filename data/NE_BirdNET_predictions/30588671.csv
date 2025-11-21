@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.27431297,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.23067138,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11455092,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25744,1.0,4.0
+Setophaga ruticilla_American Redstart,0.17073001,1.0,4.0
+Setophaga ruticilla_American Redstart,0.1873955,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.112332895,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.22705464,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11320172,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.10050607,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.18768574,10.0,13.0
+Leiothlypis peregrina_Tennessee Warbler,0.1360711,10.0,13.0
+Setophaga ruticilla_American Redstart,0.42204353,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.2427009,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.4664415,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.27731964,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14182842,13.0,16.0
+Setophaga tigrina_Cape May Warbler,0.25458747,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30582252,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.13183141,17.0,20.0
+Setophaga ruticilla_American Redstart,0.10347188,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22607288,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10511479,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21104419,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.19447263,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.1386303,22.0,25.0
+Setophaga dominica_Yellow-throated Warbler,0.10678161,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26512575,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.12725875,24.0,27.0
+Baeolophus bicolor_Tufted Titmouse,0.18452759,25.0,28.0
+Spizelloides arborea_American Tree Sparrow,0.16192949,25.0,28.0
+Setophaga tigrina_Cape May Warbler,0.14025958,27.0,30.0
+Baeolophus bicolor_Tufted Titmouse,0.10626652,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.105241805,27.0,30.0
+Peucaea aestivalis_Bachman's Sparrow,0.15408409,28.0,31.0
+Certhia americana_Brown Creeper,0.114853844,28.0,31.0
+Baeolophus bicolor_Tufted Titmouse,0.10784734,28.0,31.0
+Certhia americana_Brown Creeper,0.102546185,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.28336114,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14604512,36.0,39.0
+Catharus guttatus_Hermit Thrush,0.38543075,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21260305,37.0,40.0
+Catharus guttatus_Hermit Thrush,0.3437292,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.12802948,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.1477089,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14303368,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.10743017,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.10407546,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5466563,43.0,46.0
+Peucaea aestivalis_Bachman's Sparrow,0.19226336,44.0,47.0
+Setophaga tigrina_Cape May Warbler,0.12636374,50.0,53.0
+Turdus philomelos_Song Thrush,0.17759857,54.0,57.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.11212431,54.0,57.0
+Peucaea aestivalis_Bachman's Sparrow,0.19257154,55.0,58.0
+Leiothlypis peregrina_Tennessee Warbler,0.3820076,61.0,64.0
+Baeolophus bicolor_Tufted Titmouse,0.12228463,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.13232829,64.0,67.0
+Mniotilta varia_Black-and-white Warbler,0.10450284,64.0,67.0
+Setophaga castanea_Bay-breasted Warbler,0.103084505,64.0,67.0
+Peucaea aestivalis_Bachman's Sparrow,0.10158825,73.0,76.0
+Baeolophus bicolor_Tufted Titmouse,0.10096767,73.0,76.0
+Peucaea aestivalis_Bachman's Sparrow,0.108002946,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122751966,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18727751,82.0,85.0
+Setophaga tigrina_Cape May Warbler,0.17467736,83.0,86.0
+Setophaga tigrina_Cape May Warbler,0.19122678,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.14013523,84.0,87.0
+Setophaga tigrina_Cape May Warbler,0.1839639,85.0,88.0
+Setophaga tigrina_Cape May Warbler,0.13813694,86.0,89.0
+Setophaga tigrina_Cape May Warbler,0.27282426,87.0,90.0
+Setophaga tigrina_Cape May Warbler,0.10574484,88.0,91.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2877935,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11742751,91.0,94.0
+Setophaga citrina_Hooded Warbler,0.10535063,91.0,94.0
+Setophaga tigrina_Cape May Warbler,0.12324164,94.0,97.0
+Tamias striatus_Eastern Chipmunk,0.132841,103.0,106.0
+Tamias striatus_Eastern Chipmunk,0.13256665,104.0,107.0
+Basileuterus belli_Golden-browed Warbler,0.108247444,108.0,111.0
+Basileuterus belli_Golden-browed Warbler,0.14930241,112.0,115.0
+Tamias striatus_Eastern Chipmunk,0.11536446,114.0,117.0

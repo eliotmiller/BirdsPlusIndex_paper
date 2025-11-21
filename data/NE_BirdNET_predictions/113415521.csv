@@ -1,0 +1,50 @@
+species,score,start_time,end_time
+Coragyps atratus_Black Vulture,0.3847482,0.0,3.0
+Platalea ajaja_Roseate Spoonbill,0.20962246,0.0,3.0
+Larus delawarensis_Ring-billed Gull,0.11483674,2.0,5.0
+Larus delawarensis_Ring-billed Gull,0.14285843,4.0,7.0
+Larus delawarensis_Ring-billed Gull,0.5659776,5.0,8.0
+Leucophaeus atricilla_Laughing Gull,0.19502632,5.0,8.0
+Larus delawarensis_Ring-billed Gull,0.6273183,6.0,9.0
+Leucophaeus atricilla_Laughing Gull,0.16241866,6.0,9.0
+Larus delawarensis_Ring-billed Gull,0.512911,7.0,10.0
+Larus delawarensis_Ring-billed Gull,0.29348627,8.0,11.0
+Hydroprogne caspia_Caspian Tern,0.107642785,9.0,12.0
+Hydroprogne caspia_Caspian Tern,0.13878891,10.0,13.0
+Larus delawarensis_Ring-billed Gull,0.12643047,10.0,13.0
+Larus delawarensis_Ring-billed Gull,0.13115086,11.0,14.0
+Hydroprogne caspia_Caspian Tern,0.10382179,11.0,14.0
+Larus delawarensis_Ring-billed Gull,0.19771758,14.0,17.0
+Leucophaeus atricilla_Laughing Gull,0.17960857,14.0,17.0
+Larus delawarensis_Ring-billed Gull,0.19887656,15.0,18.0
+Leucophaeus atricilla_Laughing Gull,0.14474341,15.0,18.0
+Larus delawarensis_Ring-billed Gull,0.16811058,16.0,19.0
+Larus delawarensis_Ring-billed Gull,0.12396315,23.0,26.0
+Larus delawarensis_Ring-billed Gull,0.29448605,24.0,27.0
+Larus delawarensis_Ring-billed Gull,0.19468305,25.0,28.0
+Hydroprogne caspia_Caspian Tern,0.24663047,26.0,29.0
+Platalea ajaja_Roseate Spoonbill,0.15238033,26.0,29.0
+Hydroprogne caspia_Caspian Tern,0.42503604,27.0,30.0
+Hydroprogne caspia_Caspian Tern,0.44452006,28.0,31.0
+Mergus merganser_Common Merganser,0.19044535,39.0,42.0
+Rallus crepitans_Clapper Rail,0.5325974,42.0,45.0
+Rallus elegans_King Rail,0.20650284,42.0,45.0
+Rallus crepitans_Clapper Rail,0.120321915,43.0,46.0
+Rallus elegans_King Rail,0.11295121,43.0,46.0
+Rallus crepitans_Clapper Rail,0.22182341,44.0,47.0
+Rallus elegans_King Rail,0.14489895,44.0,47.0
+Ardea herodias_Great Blue Heron,0.1537161,47.0,50.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.16796409,53.0,56.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.33299932,54.0,57.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.19457665,55.0,58.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.14768101,58.0,61.0
+Ardea herodias_Great Blue Heron,0.12688413,58.0,61.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.3017721,59.0,62.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.110024,60.0,63.0
+Ardea herodias_Great Blue Heron,0.12258951,62.0,65.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.108304925,63.0,66.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.16534397,64.0,67.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.13691504,65.0,68.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.12723076,66.0,69.0
+Eunemobius carolinus_Carolina Ground Cricket,0.10701197,67.0,70.0
+Gryllus rubens_Southeastern Field Cricket,0.10358872,67.0,70.0

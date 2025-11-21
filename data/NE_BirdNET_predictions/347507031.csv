@@ -1,0 +1,139 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.13928226,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.13010144,0.0,3.0
+Regulus satrapa_Golden-crowned Kinglet,0.11237049,1.0,4.0
+Regulus satrapa_Golden-crowned Kinglet,0.15195574,2.0,5.0
+Regulus ignicapilla_Common Firecrest,0.12855117,2.0,5.0
+Cardellina canadensis_Canada Warbler,0.9828683,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.9791835,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.3692046,4.0,7.0
+Cardellina canadensis_Canada Warbler,0.99475634,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.15079203,5.0,8.0
+Cardellina canadensis_Canada Warbler,0.50111675,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.26256508,6.0,9.0
+Setophaga magnolia_Magnolia Warbler,0.20002219,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.4685324,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13685648,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10675421,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.3254002,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28813267,8.0,11.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10726633,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.15825848,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.23772937,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.20410068,10.0,13.0
+Regulus ignicapilla_Common Firecrest,0.1229023,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.25598735,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.20336093,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.47961038,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.2973458,13.0,16.0
+Setophaga magnolia_Magnolia Warbler,0.29996902,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.16305582,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.9706641,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.9813478,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.23771907,16.0,19.0
+Cardellina canadensis_Canada Warbler,0.9831861,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.16629772,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.12934975,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10607263,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.4837512,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17771204,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15158603,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.11264442,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.6790319,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18653025,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.5891266,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1287632,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.12480709,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.37922966,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.38621688,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.65713847,27.0,30.0
+Cardellina rubrifrons_Red-faced Warbler,0.24458523,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.14941545,27.0,30.0
+Junco phaeonotus_Yellow-eyed Junco,0.13825081,27.0,30.0
+Cardellina canadensis_Canada Warbler,0.98441905,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.12445309,28.0,31.0
+Cardellina canadensis_Canada Warbler,0.99258536,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.1144814,29.0,32.0
+Cardellina canadensis_Canada Warbler,0.92329705,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.5259226,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.4772846,31.0,34.0
+Regulus satrapa_Golden-crowned Kinglet,0.26443374,33.0,36.0
+Setophaga occidentalis_Hermit Warbler,0.19640501,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.1832127,33.0,36.0
+Setophaga magnolia_Magnolia Warbler,0.12809826,33.0,36.0
+Regulus satrapa_Golden-crowned Kinglet,0.29105076,34.0,37.0
+Setophaga occidentalis_Hermit Warbler,0.20199317,34.0,37.0
+Regulus satrapa_Golden-crowned Kinglet,0.37298948,35.0,38.0
+Regulus ignicapilla_Common Firecrest,0.12556283,35.0,38.0
+Regulus ignicapilla_Common Firecrest,0.1415777,36.0,39.0
+Cardellina canadensis_Canada Warbler,0.96022147,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.9747806,40.0,43.0
+Setophaga magnolia_Magnolia Warbler,0.23534112,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.9977981,41.0,44.0
+Setophaga magnolia_Magnolia Warbler,0.14910989,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.59199625,42.0,45.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21677844,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.3105538,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.19323662,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1097514,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.23238207,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1457143,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14054815,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.10123413,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.42395094,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10727101,45.0,48.0
+Bradypterus lopezi_Evergreen-forest Warbler,0.10139362,46.0,49.0
+Regulus satrapa_Golden-crowned Kinglet,0.7583467,48.0,51.0
+Regulus satrapa_Golden-crowned Kinglet,0.8419721,49.0,52.0
+Regulus satrapa_Golden-crowned Kinglet,0.8016614,50.0,53.0
+Cardellina canadensis_Canada Warbler,0.1186295,51.0,54.0
+Cardellina canadensis_Canada Warbler,0.9637157,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.11867605,52.0,55.0
+Cardellina canadensis_Canada Warbler,0.9757096,53.0,56.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16113612,53.0,56.0
+Cardellina canadensis_Canada Warbler,0.96522576,54.0,57.0
+Limnothlypis swainsonii_Swainson's Warbler,0.42353633,54.0,57.0
+Regulus satrapa_Golden-crowned Kinglet,0.79374653,57.0,60.0
+Regulus satrapa_Golden-crowned Kinglet,0.86720425,58.0,61.0
+Regulus satrapa_Golden-crowned Kinglet,0.7218422,59.0,62.0
+Regulus satrapa_Golden-crowned Kinglet,0.7594099,60.0,63.0
+Poecile atricapillus_Black-capped Chickadee,0.20573513,61.0,64.0
+Junco phaeonotus_Yellow-eyed Junco,0.28633955,62.0,65.0
+Cardellina canadensis_Canada Warbler,0.9904952,63.0,66.0
+Cardellina canadensis_Canada Warbler,0.79041517,64.0,67.0
+Setophaga magnolia_Magnolia Warbler,0.14819863,64.0,67.0
+Cardellina canadensis_Canada Warbler,0.906769,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.3922769,66.0,69.0
+Regulus satrapa_Golden-crowned Kinglet,0.14942212,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.5267464,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.15817799,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12987264,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12402854,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.4901127,68.0,71.0
+Regulus satrapa_Golden-crowned Kinglet,0.16572703,70.0,73.0
+Regulus satrapa_Golden-crowned Kinglet,0.23897173,71.0,74.0
+Regulus satrapa_Golden-crowned Kinglet,0.46492442,72.0,75.0
+Setophaga occidentalis_Hermit Warbler,0.17350344,72.0,75.0
+Cardellina canadensis_Canada Warbler,0.7088316,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.10846033,73.0,76.0
+Cardellina canadensis_Canada Warbler,0.97653913,74.0,77.0
+Cardellina canadensis_Canada Warbler,0.98895687,75.0,78.0
+Cardellina canadensis_Canada Warbler,0.29462102,76.0,79.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25285205,76.0,79.0
+Regulus satrapa_Golden-crowned Kinglet,0.42798522,78.0,81.0
+Regulus satrapa_Golden-crowned Kinglet,0.41063195,79.0,82.0
+Regulus satrapa_Golden-crowned Kinglet,0.37572253,80.0,83.0
+Regulus satrapa_Golden-crowned Kinglet,0.36952513,81.0,84.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.46098903,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.12071357,82.0,85.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5847892,83.0,86.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6805555,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.25636894,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.23782325,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13679227,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.67283523,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.17161253,87.0,90.0
+Cardellina canadensis_Canada Warbler,0.10244381,87.0,90.0
+Cardellina canadensis_Canada Warbler,0.7860049,88.0,91.0
+Cardellina canadensis_Canada Warbler,0.90714836,89.0,91.17600907029478
+Cardellina rubrifrons_Red-faced Warbler,0.29465744,89.0,91.17600907029478

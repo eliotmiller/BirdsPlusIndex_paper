@@ -1,0 +1,224 @@
+species,score,start_time,end_time
+Fringilla coelebs_Common Chaffinch,0.4307686,0.0,3.0
+Troglodytes aedon_House Wren,0.29751325,0.0,3.0
+Troglodytes aedon_House Wren,0.15576668,1.0,4.0
+Dryobates villosus_Hairy Woodpecker,0.35289115,6.0,9.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.33679992,6.0,9.0
+Dryobates villosus_Hairy Woodpecker,0.5412972,7.0,10.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.31269225,7.0,10.0
+Dryobates minor_Lesser Spotted Woodpecker,0.10161032,7.0,10.0
+Dryobates villosus_Hairy Woodpecker,0.39729443,8.0,11.0
+Dryobates villosus_Hairy Woodpecker,0.26780933,9.0,12.0
+Dryobates villosus_Hairy Woodpecker,0.5128958,12.0,15.0
+Dryobates villosus_Hairy Woodpecker,0.48824218,13.0,16.0
+Dryobates villosus_Hairy Woodpecker,0.39121422,14.0,17.0
+Dryobates villosus_Hairy Woodpecker,0.35302863,15.0,18.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.24577631,19.0,22.0
+Dryobates villosus_Hairy Woodpecker,0.2445809,19.0,22.0
+Dryobates villosus_Hairy Woodpecker,0.33706516,20.0,23.0
+Dryobates minor_Lesser Spotted Woodpecker,0.2522442,20.0,23.0
+Dryobates villosus_Hairy Woodpecker,0.49156317,21.0,24.0
+Dryobates villosus_Hairy Woodpecker,0.28050154,22.0,25.0
+Dryobates villosus_Hairy Woodpecker,0.2587789,24.0,27.0
+Dryobates villosus_Hairy Woodpecker,0.38571858,25.0,28.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.13637598,25.0,28.0
+Dryobates villosus_Hairy Woodpecker,0.5297355,26.0,29.0
+Dryobates villosus_Hairy Woodpecker,0.23393516,27.0,30.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.5127292,31.0,34.0
+Dryobates villosus_Hairy Woodpecker,0.27357382,31.0,34.0
+Dryobates villosus_Hairy Woodpecker,0.47687376,32.0,35.0
+Dryobates minor_Lesser Spotted Woodpecker,0.38811496,32.0,35.0
+Dryobates villosus_Hairy Woodpecker,0.3668984,33.0,36.0
+Dryobates minor_Lesser Spotted Woodpecker,0.22965223,33.0,36.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.11865365,33.0,36.0
+Dryobates villosus_Hairy Woodpecker,0.5562839,35.0,38.0
+Dryobates villosus_Hairy Woodpecker,0.54710364,36.0,39.0
+Dryobates minor_Lesser Spotted Woodpecker,0.7092047,37.0,40.0
+Dryobates villosus_Hairy Woodpecker,0.47656676,37.0,40.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.24386747,37.0,40.0
+Dryobates villosus_Hairy Woodpecker,0.2748197,38.0,41.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.15937561,38.0,41.0
+Dryobates minor_Lesser Spotted Woodpecker,0.14766723,38.0,41.0
+Buteo platypterus_Broad-winged Hawk,0.22869541,40.0,43.0
+Dryobates villosus_Hairy Woodpecker,0.5422378,41.0,44.0
+Dryobates villosus_Hairy Woodpecker,0.54113024,42.0,45.0
+Dryobates villosus_Hairy Woodpecker,0.6410298,43.0,46.0
+Dryobates villosus_Hairy Woodpecker,0.114169694,44.0,47.0
+Dryobates minor_Lesser Spotted Woodpecker,0.57564205,46.0,49.0
+Dryobates villosus_Hairy Woodpecker,0.21807303,46.0,49.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.12414125,46.0,49.0
+Dryobates villosus_Hairy Woodpecker,0.61684316,47.0,50.0
+Dryobates minor_Lesser Spotted Woodpecker,0.34287393,47.0,50.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.1713504,47.0,50.0
+Dryobates villosus_Hairy Woodpecker,0.5751531,48.0,51.0
+Dryobates minor_Lesser Spotted Woodpecker,0.3443704,48.0,51.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.21740815,48.0,51.0
+Dryobates villosus_Hairy Woodpecker,0.47068763,49.0,52.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.23580934,49.0,52.0
+Dryobates minor_Lesser Spotted Woodpecker,0.12718196,49.0,52.0
+Dryobates villosus_Hairy Woodpecker,0.37161547,50.0,53.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.30779108,50.0,53.0
+Dryobates minor_Lesser Spotted Woodpecker,0.16221072,50.0,53.0
+Dryobates villosus_Hairy Woodpecker,0.46642017,51.0,54.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.239471,51.0,54.0
+Dryobates villosus_Hairy Woodpecker,0.5330002,52.0,55.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.27516553,52.0,55.0
+Dryobates minor_Lesser Spotted Woodpecker,0.13915506,52.0,55.0
+Dryobates villosus_Hairy Woodpecker,0.6891036,53.0,56.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.20517601,53.0,56.0
+Dryobates villosus_Hairy Woodpecker,0.7076543,54.0,57.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.22259177,54.0,57.0
+Dryobates minor_Lesser Spotted Woodpecker,0.13283767,54.0,57.0
+Dryobates villosus_Hairy Woodpecker,0.15683012,55.0,58.0
+Colaptes auratus_Northern Flicker,0.13312684,55.0,58.0
+Dryobates villosus_Hairy Woodpecker,0.431076,59.0,62.0
+Dryobates minor_Lesser Spotted Woodpecker,0.18752752,59.0,62.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.10958232,59.0,62.0
+Dryobates villosus_Hairy Woodpecker,0.6622742,60.0,63.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.21042982,60.0,63.0
+Dryobates minor_Lesser Spotted Woodpecker,0.20486774,60.0,63.0
+Dryobates villosus_Hairy Woodpecker,0.65538776,61.0,64.0
+Dryobates villosus_Hairy Woodpecker,0.3619697,62.0,65.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.22116224,62.0,65.0
+Colaptes auratus_Northern Flicker,0.10712995,62.0,65.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.8134641,68.0,71.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.9240342,69.0,72.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.9772815,70.0,73.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.9396614,71.0,74.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.3500669,72.0,75.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.46108332,73.0,76.0
+Dryobates villosus_Hairy Woodpecker,0.4221621,73.0,76.0
+Dryobates minor_Lesser Spotted Woodpecker,0.3077201,73.0,76.0
+Dryobates villosus_Hairy Woodpecker,0.6306414,74.0,77.0
+Dryobates villosus_Hairy Woodpecker,0.42366558,75.0,78.0
+Ficedula parva_Red-breasted Flycatcher,0.12069635,78.0,81.0
+Ficedula parva_Red-breasted Flycatcher,0.17075774,79.0,82.0
+Phylloscopus sibilatrix_Wood Warbler,0.10616079,79.0,82.0
+Phylloscopus sibilatrix_Wood Warbler,0.14735076,83.0,86.0
+Ficedula parva_Red-breasted Flycatcher,0.11955225,83.0,86.0
+Ficedula albicollis_Collared Flycatcher,0.15987588,84.0,87.0
+Ficedula parva_Red-breasted Flycatcher,0.10155827,84.0,87.0
+Dryobates villosus_Hairy Woodpecker,0.5247436,85.0,88.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.39461875,85.0,88.0
+Dryobates villosus_Hairy Woodpecker,0.70639044,86.0,89.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.14366275,86.0,89.0
+Dryobates villosus_Hairy Woodpecker,0.4916299,87.0,90.0
+Dryobates minor_Lesser Spotted Woodpecker,0.34267092,87.0,90.0
+Dryobates villosus_Hairy Woodpecker,0.56794614,88.0,91.0
+Dryobates minor_Lesser Spotted Woodpecker,0.21231087,88.0,91.0
+Dryobates villosus_Hairy Woodpecker,0.78018403,89.0,92.0
+Dryobates minor_Lesser Spotted Woodpecker,0.29440323,89.0,92.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.17560197,89.0,92.0
+Dryobates villosus_Hairy Woodpecker,0.4752061,90.0,93.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.1467627,90.0,93.0
+Dryobates minor_Lesser Spotted Woodpecker,0.7682404,96.0,99.0
+Dryobates villosus_Hairy Woodpecker,0.4489169,96.0,99.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.14025752,96.0,99.0
+Dryobates villosus_Hairy Woodpecker,0.79389864,97.0,100.0
+Dryobates minor_Lesser Spotted Woodpecker,0.32279807,97.0,100.0
+Dryobates villosus_Hairy Woodpecker,0.34325308,98.0,101.0
+Dryobates minor_Lesser Spotted Woodpecker,0.25232407,98.0,101.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.11960289,98.0,101.0
+Ficedula parva_Red-breasted Flycatcher,0.19143763,101.0,104.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.40744245,102.0,105.0
+Dryobates minor_Lesser Spotted Woodpecker,0.389749,102.0,105.0
+Dryobates villosus_Hairy Woodpecker,0.3351842,102.0,105.0
+Dryobates minor_Lesser Spotted Woodpecker,0.8661744,103.0,106.0
+Dryobates villosus_Hairy Woodpecker,0.46610194,103.0,106.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.27106288,103.0,106.0
+Dryobates villosus_Hairy Woodpecker,0.8639482,104.0,107.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.23701288,104.0,107.0
+Dryobates minor_Lesser Spotted Woodpecker,0.1631295,104.0,107.0
+Dryobates villosus_Hairy Woodpecker,0.14259121,105.0,108.0
+Fringilla coelebs_Common Chaffinch,0.16762456,106.0,109.0
+Dryobates minor_Lesser Spotted Woodpecker,0.519248,107.0,110.0
+Dryobates villosus_Hairy Woodpecker,0.34041974,107.0,110.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.18660533,107.0,110.0
+Dryobates minor_Lesser Spotted Woodpecker,0.6932083,108.0,111.0
+Dryobates villosus_Hairy Woodpecker,0.6174487,108.0,111.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.14419241,108.0,111.0
+Dryobates minor_Lesser Spotted Woodpecker,0.45342806,109.0,112.0
+Dryobates villosus_Hairy Woodpecker,0.3033262,109.0,112.0
+Troglodytes aedon_House Wren,0.38885027,113.0,116.0
+Poecile atricapillus_Black-capped Chickadee,0.15945357,115.0,118.0
+Geothlypis formosa_Kentucky Warbler,0.1423936,115.0,118.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10972531,115.0,118.0
+Poecile atricapillus_Black-capped Chickadee,0.10602777,117.0,120.0
+Poecile atricapillus_Black-capped Chickadee,0.29762787,118.0,121.0
+Dryobates villosus_Hairy Woodpecker,0.4889108,121.0,124.0
+Dryobates minor_Lesser Spotted Woodpecker,0.36285198,121.0,124.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.1319216,121.0,124.0
+Dryobates minor_Lesser Spotted Woodpecker,0.7287065,122.0,125.0
+Dryobates villosus_Hairy Woodpecker,0.6857151,122.0,125.0
+Dryobates villosus_Hairy Woodpecker,0.8921897,123.0,126.0
+Dryobates minor_Lesser Spotted Woodpecker,0.5803622,123.0,126.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.10091137,123.0,126.0
+Dryobates villosus_Hairy Woodpecker,0.3421762,124.0,127.0
+Colaptes auratus_Northern Flicker,0.11124918,124.0,127.0
+Corvus brachyrhynchos_American Crow,0.36143655,125.0,128.0
+Corvus brachyrhynchos_American Crow,0.6614372,126.0,129.0
+Corvus brachyrhynchos_American Crow,0.41737065,127.0,130.0
+Corvus brachyrhynchos_American Crow,0.36676422,128.0,131.0
+Ficedula parva_Red-breasted Flycatcher,0.122232154,130.0,133.0
+Poecile atricapillus_Black-capped Chickadee,0.15868503,131.0,134.0
+Contopus virens_Eastern Wood-Pewee,0.26026717,132.0,135.0
+Dryobates minor_Lesser Spotted Woodpecker,0.49017626,134.0,137.0
+Dendrocopos major_Great Spotted Woodpecker,0.1635703,134.0,137.0
+Dryobates minor_Lesser Spotted Woodpecker,0.7060972,135.0,138.0
+Dryobates villosus_Hairy Woodpecker,0.14450967,135.0,138.0
+Dryobates minor_Lesser Spotted Woodpecker,0.7490888,136.0,139.0
+Dryobates villosus_Hairy Woodpecker,0.65326387,136.0,139.0
+Dryobates villosus_Hairy Woodpecker,0.6435986,137.0,140.0
+Colaptes auratus_Northern Flicker,0.16123769,137.0,140.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.11548166,137.0,140.0
+Cardinalis cardinalis_Northern Cardinal,0.15367793,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.14308715,140.0,143.0
+Ficedula parva_Red-breasted Flycatcher,0.19973171,141.0,144.0
+Poecile palustris_Marsh Tit,0.118383825,141.0,144.0
+Dryobates villosus_Hairy Woodpecker,0.5043259,144.0,147.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.25902656,144.0,147.0
+Corvus brachyrhynchos_American Crow,0.13276452,144.0,147.0
+Dryobates pubescens_Downy Woodpecker,0.12809317,144.0,147.0
+Dryobates villosus_Hairy Woodpecker,0.7317307,145.0,148.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.12040643,145.0,148.0
+Colaptes auratus_Northern Flicker,0.10240096,145.0,148.0
+Dryobates villosus_Hairy Woodpecker,0.84586275,146.0,149.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.113211036,146.0,149.0
+Dryobates villosus_Hairy Woodpecker,0.5622595,147.0,150.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.11700817,147.0,150.0
+Poecile atricapillus_Black-capped Chickadee,0.27478638,152.0,155.0
+Corvus brachyrhynchos_American Crow,0.2701199,152.0,155.0
+Dryobates villosus_Hairy Woodpecker,0.7183608,154.0,157.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.6515374,154.0,157.0
+Colaptes auratus_Northern Flicker,0.10263974,154.0,157.0
+Dryobates villosus_Hairy Woodpecker,0.80807394,155.0,158.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.16426624,155.0,158.0
+Dryobates minor_Lesser Spotted Woodpecker,0.13229485,155.0,158.0
+Dryobates villosus_Hairy Woodpecker,0.48339832,156.0,159.0
+Corvus corax_Common Raven,0.10241875,157.0,160.0
+Cardinalis cardinalis_Northern Cardinal,0.10193836,157.0,160.0
+Poecile palustris_Marsh Tit,0.2421171,158.0,161.0
+Dryobates villosus_Hairy Woodpecker,0.45946988,159.0,162.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.1344898,159.0,162.0
+Dryobates pubescens_Downy Woodpecker,0.102026306,159.0,162.0
+Dryobates villosus_Hairy Woodpecker,0.6542778,160.0,163.0
+Dryobates minor_Lesser Spotted Woodpecker,0.34598613,160.0,163.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.2952037,160.0,163.0
+Dryobates villosus_Hairy Woodpecker,0.5133749,161.0,164.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.2776346,161.0,164.0
+Dryobates villosus_Hairy Woodpecker,0.182447,162.0,165.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.12896839,162.0,165.0
+Colaptes auratus_Northern Flicker,0.12125549,162.0,165.0
+Dryobates villosus_Hairy Woodpecker,0.47976875,167.0,170.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.31525725,167.0,170.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.72080845,168.0,171.0
+Dryobates villosus_Hairy Woodpecker,0.71415234,168.0,171.0
+Dryobates villosus_Hairy Woodpecker,0.734444,169.0,172.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.4561898,169.0,172.0
+Dryobates minor_Lesser Spotted Woodpecker,0.4054649,169.0,172.0
+Dryobates villosus_Hairy Woodpecker,0.4207395,170.0,173.0
+Dryobates minor_Lesser Spotted Woodpecker,0.24376976,170.0,173.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.18555275,170.0,173.0
+Fringilla coelebs_Common Chaffinch,0.11399129,171.0,174.0
+Troglodytes aedon_House Wren,0.32246923,172.0,175.0
+Ficedula parva_Red-breasted Flycatcher,0.109159365,173.0,175.82403628117913

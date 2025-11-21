@@ -1,0 +1,27 @@
+species,score,start_time,end_time
+Buteo buteo_Common Buzzard,0.5554822,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.4858287,0.0,3.0
+Accipiter gentilis_Northern Goshawk,0.11451354,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.37809572,1.0,4.0
+Buteo buteo_Common Buzzard,0.3316052,1.0,4.0
+Accipiter gentilis_Northern Goshawk,0.17276984,1.0,4.0
+Buteo albonotatus_Zone-tailed Hawk,0.15102112,1.0,4.0
+Buteo albonotatus_Zone-tailed Hawk,0.2349638,2.0,5.0
+Accipiter gentilis_Northern Goshawk,0.1808484,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.14552781,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.12661725,3.0,6.0
+Buteo albonotatus_Zone-tailed Hawk,0.121125594,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.5427199,4.0,7.0
+Buteo albonotatus_Zone-tailed Hawk,0.25224042,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.45296708,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.18971814,5.0,8.0
+Milvus migrans_Black Kite,0.13126439,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.35526747,10.0,13.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.66926855,11.0,14.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.56393206,12.0,15.0
+Cyanocitta cristata_Blue Jay,0.108814046,12.0,15.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.89971375,13.0,16.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.83701795,14.0,17.0
+Melospiza melodia_Song Sparrow,0.218549,15.0,18.0
+Melospiza melodia_Song Sparrow,0.31702498,16.0,19.0
+Haliaeetus leucocephalus_Bald Eagle,0.14858116,17.0,20.0

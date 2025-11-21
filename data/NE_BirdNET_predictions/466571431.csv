@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Spizella passerina_Chipping Sparrow,0.85897535,0.0,3.0
+Spizella passerina_Chipping Sparrow,0.6010797,1.0,4.0
+Spizella passerina_Chipping Sparrow,0.5923636,2.0,5.0
+Spizella passerina_Chipping Sparrow,0.42908868,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.4674094,4.0,7.0
+Spizella passerina_Chipping Sparrow,0.66359174,5.0,8.0
+Calypte costae_Costa's Hummingbird,0.23261745,5.0,8.0
+Spizella passerina_Chipping Sparrow,0.86674434,6.0,9.0
+Psaltriparus minimus_Bushtit,0.16087301,6.0,9.0
+Calypte costae_Costa's Hummingbird,0.1171687,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.6269678,7.0,10.0
+Spizella passerina_Chipping Sparrow,0.41633925,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.20280354,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.3244347,11.0,14.0
+Spizella passerina_Chipping Sparrow,0.6282392,12.0,15.0
+Calypte costae_Costa's Hummingbird,0.13504456,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.1035966,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.81754744,13.0,16.0
+Calypte costae_Costa's Hummingbird,0.28256103,13.0,16.0
+Spizella passerina_Chipping Sparrow,0.6562651,14.0,17.0
+Spizella passerina_Chipping Sparrow,0.62640923,15.0,18.0
+Spizella passerina_Chipping Sparrow,0.5653095,16.0,19.0
+Sicalis luteola_Grassland Yellow-Finch,0.16200843,16.0,19.0
+Calypte anna_Anna's Hummingbird,0.36937097,17.0,20.0
+Spizella passerina_Chipping Sparrow,0.3128894,17.0,20.0
+Calypte anna_Anna's Hummingbird,0.8105254,18.0,21.0
+Spizella passerina_Chipping Sparrow,0.14323722,18.0,21.0
+Calypte anna_Anna's Hummingbird,0.2594327,19.0,22.0
+Psaltriparus minimus_Bushtit,0.13715039,19.0,22.0
+Calypte anna_Anna's Hummingbird,0.5985418,20.0,23.0
+Spizella passerina_Chipping Sparrow,0.25320303,20.0,23.0
+Psaltriparus minimus_Bushtit,0.17943017,20.0,23.0
+Calypte anna_Anna's Hummingbird,0.43346712,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.19633093,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.5635761,22.0,25.0
+Calypte anna_Anna's Hummingbird,0.5476262,22.0,25.0
+Sicalis luteola_Grassland Yellow-Finch,0.24462888,22.0,25.0
+Spizella passerina_Chipping Sparrow,0.5325001,23.0,26.0
+Calypte anna_Anna's Hummingbird,0.4639993,23.0,26.0
+Sicalis luteola_Grassland Yellow-Finch,0.18032947,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.64675534,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.25054026,24.0,27.0
+Calypte anna_Anna's Hummingbird,0.22785917,24.0,27.0
+Calypte costae_Costa's Hummingbird,0.1630264,24.0,27.0
+Psaltriparus minimus_Bushtit,0.122074075,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.23624283,25.0,28.0
+Quiscalus quiscula_Common Grackle,0.107694134,25.0,28.0
+Euphagus carolinus_Rusty Blackbird,0.10561309,25.0,28.0
+Spizella passerina_Chipping Sparrow,0.27451593,26.0,29.0
+Quiscalus quiscula_Common Grackle,0.12473559,26.0,29.0
+Spizella passerina_Chipping Sparrow,0.44272706,27.0,30.0
+Quiscalus quiscula_Common Grackle,0.12905847,27.0,30.0
+Euphagus carolinus_Rusty Blackbird,0.11808796,27.0,30.0
+Spizella passerina_Chipping Sparrow,0.8252735,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.13727526,28.0,31.0
+Sicalis luteola_Grassland Yellow-Finch,0.13619827,28.0,31.0
+Quiscalus quiscula_Common Grackle,0.13030419,28.0,31.0
+Spizella passerina_Chipping Sparrow,0.739379,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.17121452,29.0,32.0
+Sicalis luteola_Grassland Yellow-Finch,0.15704936,29.0,32.0
+Spizella passerina_Chipping Sparrow,0.805258,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.8060207,31.0,34.0
+Psaltriparus minimus_Bushtit,0.195925,31.0,34.0
+Spizella passerina_Chipping Sparrow,0.9200101,32.0,35.0
+Psaltriparus minimus_Bushtit,0.23458768,32.0,35.0
+Spizella passerina_Chipping Sparrow,0.7101114,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.7950739,34.0,37.0
+Psaltriparus minimus_Bushtit,0.2328215,34.0,37.0
+Spizella passerina_Chipping Sparrow,0.6263234,35.0,38.0
+Calypte costae_Costa's Hummingbird,0.14013126,35.0,38.0
+Spizella passerina_Chipping Sparrow,0.7328354,36.0,39.0
+Setophaga townsendi_Townsend's Warbler,0.101962216,36.0,39.0
+Spizella passerina_Chipping Sparrow,0.93984395,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.20243983,37.0,40.0
+Spizella passerina_Chipping Sparrow,0.7882321,38.0,41.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.11909907,38.0,41.0
+Spizella passerina_Chipping Sparrow,0.25607723,39.0,42.0
+Spizella passerina_Chipping Sparrow,0.3724436,40.0,43.0
+Spizella passerina_Chipping Sparrow,0.8545396,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.5063135,41.0,44.0
+Spizella passerina_Chipping Sparrow,0.73932725,42.0,45.0
+Junco hyemalis_Dark-eyed Junco,0.20301199,42.0,45.0
+Spizella passerina_Chipping Sparrow,0.57064146,43.0,46.0
+Calypte costae_Costa's Hummingbird,0.10238849,43.0,46.0
+Spizella passerina_Chipping Sparrow,0.20004556,44.0,47.0
+Spizella passerina_Chipping Sparrow,0.15319343,45.0,47.976009070294786
+Passer domesticus_House Sparrow,0.10748719,45.0,47.976009070294786

@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.17367513,0.0,3.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.97747153,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.8190092,3.0,6.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13970628,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.81526303,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.91905475,5.0,8.0
+Passer domesticus_House Sparrow,0.22806266,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.89540565,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.9091515,8.0,11.0
+Cyanocitta cristata_Blue Jay,0.8358196,9.0,12.0
+Quiscalus quiscula_Common Grackle,0.15525442,10.0,13.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14100094,10.0,13.0
+Quiscalus quiscula_Common Grackle,0.35833427,11.0,14.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.110665925,11.0,14.0
+Aix sponsa_Wood Duck,0.12316299,13.0,16.0
+Passer domesticus_House Sparrow,0.16439816,14.0,17.0
+Passer domesticus_House Sparrow,0.20863485,15.0,18.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13847426,15.0,18.0
+Passer domesticus_House Sparrow,0.43112174,16.0,19.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.20804559,16.0,19.0
+Passer domesticus_House Sparrow,0.12172867,18.0,21.0
+Passer domesticus_House Sparrow,0.15306029,20.0,23.0
+Colinus virginianus_Northern Bobwhite,0.26602367,22.0,25.0
+Passer domesticus_House Sparrow,0.10356578,23.0,26.0
+Prosthemadera novaeseelandiae_Tui,0.28858384,24.0,27.0
+Passer domesticus_House Sparrow,0.18884657,24.0,27.0
+Prosthemadera novaeseelandiae_Tui,0.51612264,25.0,28.0
+Passer domesticus_House Sparrow,0.39642763,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.2545962,28.0,31.0
+Setophaga tigrina_Cape May Warbler,0.21028404,28.0,31.0
+Dryobates villosus_Hairy Woodpecker,0.19278365,31.0,34.0
+Cyanocitta cristata_Blue Jay,0.58873236,34.0,37.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13795206,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.60562783,35.0,38.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1517605,35.0,38.0
+Cyanocitta cristata_Blue Jay,0.59644336,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.14495568,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.13947733,38.0,41.0
+Cyanocitta cristata_Blue Jay,0.25418234,39.0,41.25600907029479

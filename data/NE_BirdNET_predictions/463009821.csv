@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Chondestes grammacus_Lark Sparrow,0.4285411,0.0,3.0
+Coracias garrulus_European Roller,0.16821612,0.0,3.0
+Chondestes grammacus_Lark Sparrow,0.6524329,1.0,4.0
+Coracias garrulus_European Roller,0.21892513,1.0,4.0
+Chondestes grammacus_Lark Sparrow,0.46544954,2.0,5.0
+Linaria cannabina_Eurasian Linnet,0.13770577,2.0,5.0
+Pooecetes gramineus_Vesper Sparrow,0.18963206,3.0,6.0
+Chondestes grammacus_Lark Sparrow,0.18111305,3.0,6.0
+Linaria cannabina_Eurasian Linnet,0.13841397,3.0,6.0
+Chloris chloris_European Greenfinch,0.3509316,4.0,7.0
+Chondestes grammacus_Lark Sparrow,0.28316894,4.0,7.0
+Carduelis carduelis_European Goldfinch,0.22043222,4.0,7.0
+Chondestes grammacus_Lark Sparrow,0.61705524,5.0,8.0
+Pooecetes gramineus_Vesper Sparrow,0.39860967,5.0,8.0
+Chloris chloris_European Greenfinch,0.13192938,5.0,8.0
+Carduelis carduelis_European Goldfinch,0.12842794,5.0,8.0
+Chondestes grammacus_Lark Sparrow,0.8369651,6.0,9.0
+Pooecetes gramineus_Vesper Sparrow,0.31390518,6.0,9.0
+Chondestes grammacus_Lark Sparrow,0.97742736,7.0,10.0
+Chondestes grammacus_Lark Sparrow,0.898082,8.0,11.0
+Amphispiza bilineata_Black-throated Sparrow,0.11607538,8.0,11.0
+Chondestes grammacus_Lark Sparrow,0.91746145,9.0,12.0
+Chondestes grammacus_Lark Sparrow,0.37650317,10.0,13.0
+Chondestes grammacus_Lark Sparrow,0.78571767,11.0,14.0
+Chondestes grammacus_Lark Sparrow,0.9776289,12.0,15.0
+Chloris chloris_European Greenfinch,0.13851656,12.0,15.0
+Chondestes grammacus_Lark Sparrow,0.97593385,13.0,16.0
+Chondestes grammacus_Lark Sparrow,0.9120708,14.0,17.0
+Chloris chloris_European Greenfinch,0.23990567,14.0,17.0
+Pooecetes gramineus_Vesper Sparrow,0.13069801,14.0,17.0
+Chondestes grammacus_Lark Sparrow,0.49622944,15.0,18.0
+Pooecetes gramineus_Vesper Sparrow,0.27865598,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.11815758,15.0,18.0
+Chondestes grammacus_Lark Sparrow,0.92852145,16.0,19.0
+Pipilo chlorurus_Green-tailed Towhee,0.14878052,16.0,19.0
+Chondestes grammacus_Lark Sparrow,0.9777074,17.0,20.0
+Pipilo chlorurus_Green-tailed Towhee,0.13178667,17.0,20.0
+Chondestes grammacus_Lark Sparrow,0.9415735,18.0,21.0
+Chondestes grammacus_Lark Sparrow,0.37913543,19.0,22.0
+Chondestes grammacus_Lark Sparrow,0.63599545,20.0,23.0
+Chondestes grammacus_Lark Sparrow,0.9610677,21.0,24.0
+Pooecetes gramineus_Vesper Sparrow,0.306106,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.102816015,21.0,24.0
+Chondestes grammacus_Lark Sparrow,0.99009997,22.0,25.0
+Pooecetes gramineus_Vesper Sparrow,0.3385293,22.0,25.0
+Chondestes grammacus_Lark Sparrow,0.9856493,23.0,26.0
+Amphispiza bilineata_Black-throated Sparrow,0.1229354,23.0,26.0
+Chondestes grammacus_Lark Sparrow,0.81959766,24.0,27.0
+Motacilla maderaspatensis_White-browed Wagtail,0.12090905,24.0,27.0
+Amphispiza bilineata_Black-throated Sparrow,0.104521774,24.0,27.0
+Chondestes grammacus_Lark Sparrow,0.2609093,25.0,28.0
+Amphispiza bilineata_Black-throated Sparrow,0.25216997,25.0,28.0
+Melospiza melodia_Song Sparrow,0.10985918,30.0,33.0
+Chondestes grammacus_Lark Sparrow,0.9402064,32.0,35.0
+Pooecetes gramineus_Vesper Sparrow,0.17899673,32.0,35.0
+Chondestes grammacus_Lark Sparrow,0.73184735,33.0,36.0
+Chondestes grammacus_Lark Sparrow,0.9692608,34.0,37.0
+Chloris chloris_European Greenfinch,0.35068136,35.0,38.0
+Sporophila lineola_Lined Seedeater,0.12295423,35.0,38.0
+Chondestes grammacus_Lark Sparrow,0.108547114,35.0,38.0
+Charadrius vociferus_Killdeer,0.19662413,37.0,40.0
+Charadrius vociferus_Killdeer,0.17162298,38.0,41.0
+Colinus virginianus_Northern Bobwhite,0.12683994,39.0,42.0
