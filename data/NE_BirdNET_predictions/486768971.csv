@@ -1,0 +1,153 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.7065493,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.9323962,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.7197322,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.7884538,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.68896526,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.11146666,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.36418992,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.3626699,6.0,9.0
+Turdus migratorius_American Robin,0.22728802,6.0,9.0
+Poecile atricapillus_Black-capped Chickadee,0.16084175,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.111521475,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.38182095,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.18581238,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.12273474,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.10626802,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.14040053,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.12801003,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.1106691,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.14648716,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.14098576,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.13451959,12.0,15.0
+Parkesia motacilla_Louisiana Waterthrush,0.1334096,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.112263344,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10735083,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.10518681,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.21803376,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.13663755,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.13471515,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.251082,14.0,17.0
+Sitta carolinensis_White-breasted Nuthatch,0.2676112,15.0,18.0
+Sitta carolinensis_White-breasted Nuthatch,0.5433408,16.0,19.0
+Troglodytes hiemalis_Winter Wren,0.16555257,16.0,19.0
+Sitta carolinensis_White-breasted Nuthatch,0.7156869,17.0,20.0
+Troglodytes hiemalis_Winter Wren,0.21565779,17.0,20.0
+Sitta carolinensis_White-breasted Nuthatch,0.7578597,18.0,21.0
+Sitta carolinensis_White-breasted Nuthatch,0.56435645,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.48190537,19.0,22.0
+Sitta carolinensis_White-breasted Nuthatch,0.29083267,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.23494111,20.0,23.0
+Sitta carolinensis_White-breasted Nuthatch,0.3011798,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25812727,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.2509768,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.19146584,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.10607647,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15285708,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.1356123,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.12260545,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.17744781,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1668115,23.0,26.0
+Sitta carolinensis_White-breasted Nuthatch,0.110978276,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.10796074,23.0,26.0
+Sitta carolinensis_White-breasted Nuthatch,0.5188653,24.0,27.0
+Sitta carolinensis_White-breasted Nuthatch,0.592062,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.38514432,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.6355643,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.39681587,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.81820416,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.45421866,27.0,30.0
+Sitta carolinensis_White-breasted Nuthatch,0.7419998,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.25753522,28.0,31.0
+Sitta carolinensis_White-breasted Nuthatch,0.6354351,29.0,32.0
+Sitta carolinensis_White-breasted Nuthatch,0.26977602,30.0,33.0
+Sitta carolinensis_White-breasted Nuthatch,0.3778551,31.0,34.0
+Sitta carolinensis_White-breasted Nuthatch,0.5754987,32.0,35.0
+Sitta carolinensis_White-breasted Nuthatch,0.15242378,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.12553297,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.10596507,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.44949603,34.0,37.0
+Sitta carolinensis_White-breasted Nuthatch,0.3884432,34.0,37.0
+Sitta carolinensis_White-breasted Nuthatch,0.91002196,35.0,38.0
+Sitta carolinensis_White-breasted Nuthatch,0.8722556,36.0,39.0
+Sitta carolinensis_White-breasted Nuthatch,0.8520567,37.0,40.0
+Sitta carolinensis_White-breasted Nuthatch,0.6017684,38.0,41.0
+Troglodytes hiemalis_Winter Wren,0.44097957,38.0,41.0
+Troglodytes hiemalis_Winter Wren,0.7200501,39.0,42.0
+Troglodytes hiemalis_Winter Wren,0.3881142,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.5054567,42.0,45.0
+Certhia americana_Brown Creeper,0.18587756,42.0,45.0
+Sitta carolinensis_White-breasted Nuthatch,0.507073,43.0,46.0
+Sitta carolinensis_White-breasted Nuthatch,0.76791596,44.0,47.0
+Sitta carolinensis_White-breasted Nuthatch,0.5557778,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.19061574,46.0,49.0
+Sitta carolinensis_White-breasted Nuthatch,0.42876062,47.0,50.0
+Sitta carolinensis_White-breasted Nuthatch,0.5948821,48.0,51.0
+Troglodytes hiemalis_Winter Wren,0.14924063,48.0,51.0
+Sitta carolinensis_White-breasted Nuthatch,0.9345895,49.0,52.0
+Sitta carolinensis_White-breasted Nuthatch,0.9095346,50.0,53.0
+Troglodytes hiemalis_Winter Wren,0.117351025,50.0,53.0
+Sitta carolinensis_White-breasted Nuthatch,0.9839662,51.0,54.0
+Sitta carolinensis_White-breasted Nuthatch,0.74980253,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.12222644,52.0,55.0
+Sitta carolinensis_White-breasted Nuthatch,0.36388794,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.29045135,53.0,56.0
+Sitta carolinensis_White-breasted Nuthatch,0.76348704,54.0,57.0
+Sitta carolinensis_White-breasted Nuthatch,0.91319335,55.0,58.0
+Sitta carolinensis_White-breasted Nuthatch,0.89025223,56.0,59.0
+Troglodytes hiemalis_Winter Wren,0.6471179,57.0,60.0
+Sitta carolinensis_White-breasted Nuthatch,0.28490683,57.0,60.0
+Troglodytes hiemalis_Winter Wren,0.95232457,58.0,61.0
+Troglodytes hiemalis_Winter Wren,0.7329478,59.0,62.0
+Sitta carolinensis_White-breasted Nuthatch,0.54377824,60.0,63.0
+Troglodytes hiemalis_Winter Wren,0.8614177,61.0,64.0
+Sitta carolinensis_White-breasted Nuthatch,0.37114775,61.0,64.0
+Troglodytes hiemalis_Winter Wren,0.5014088,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.4224207,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.6000596,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.8330852,64.0,67.0
+Corvus brachyrhynchos_American Crow,0.6060942,64.0,67.0
+Vireo olivaceus_Red-eyed Vireo,0.11280122,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.30521065,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.19433352,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.10639643,65.0,68.0
+Troglodytes hiemalis_Winter Wren,0.5922509,66.0,69.0
+Troglodytes hiemalis_Winter Wren,0.9312733,67.0,70.0
+Troglodytes hiemalis_Winter Wren,0.9429911,68.0,71.0
+Troglodytes hiemalis_Winter Wren,0.5827345,69.0,72.0
+Geothlypis formosa_Kentucky Warbler,0.418186,70.0,73.0
+Troglodytes hiemalis_Winter Wren,0.112626314,70.0,73.0
+Setophaga virens_Black-throated Green Warbler,0.111187056,70.0,73.0
+Troglodytes hiemalis_Winter Wren,0.9272512,71.0,74.0
+Troglodytes hiemalis_Winter Wren,0.8973279,72.0,75.0
+Corvus brachyrhynchos_American Crow,0.87390584,73.0,76.0
+Troglodytes hiemalis_Winter Wren,0.5836337,73.0,76.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15650573,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.10963694,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.792134,74.0,77.0
+Corvus brachyrhynchos_American Crow,0.5524583,74.0,77.0
+Troglodytes hiemalis_Winter Wren,0.18056867,74.0,77.0
+Geothlypis formosa_Kentucky Warbler,0.100866035,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.9195466,75.0,78.0
+Setophaga citrina_Hooded Warbler,0.18514842,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.47475675,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.62261856,77.0,80.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11440682,77.0,80.0
+Accipiter gentilis_Northern Goshawk,0.281393,78.0,81.0
+Setophaga citrina_Hooded Warbler,0.13592511,79.0,82.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12226968,79.0,82.0
+Troglodytes hiemalis_Winter Wren,0.7855296,80.0,83.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14035207,80.0,83.0
+Troglodytes hiemalis_Winter Wren,0.86469287,81.0,84.0
+Troglodytes hiemalis_Winter Wren,0.712556,82.0,85.0
+Troglodytes hiemalis_Winter Wren,0.6004719,83.0,86.0
+Accipiter gentilis_Northern Goshawk,0.11257005,83.0,86.0
+Troglodytes hiemalis_Winter Wren,0.8947328,84.0,87.0
+Troglodytes hiemalis_Winter Wren,0.8586856,85.0,88.0
+Troglodytes hiemalis_Winter Wren,0.25203237,86.0,89.0
+Ficedula parva_Red-breasted Flycatcher,0.14064689,86.0,89.0
+Setophaga virens_Black-throated Green Warbler,0.39551735,87.0,90.0
+Geothlypis formosa_Kentucky Warbler,0.24871159,87.0,90.0
+Geothlypis formosa_Kentucky Warbler,0.25136286,88.0,90.45600907029478
+Hylocichla mustelina_Wood Thrush,0.12638667,88.0,90.45600907029478
+Setophaga virens_Black-throated Green Warbler,0.119901,88.0,90.45600907029478

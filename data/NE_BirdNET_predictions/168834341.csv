@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Ammodramus savannarum_Grasshopper Sparrow,0.39661983,0.0,3.0
+Ammodramus savannarum_Grasshopper Sparrow,0.89686596,1.0,4.0
+Ammodramus savannarum_Grasshopper Sparrow,0.86573833,2.0,5.0
+Ammodramus savannarum_Grasshopper Sparrow,0.68419945,3.0,6.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7589467,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.1353019,4.0,7.0
+Lophodytes cucullatus_Hooded Merganser,0.120751865,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.112062715,6.0,9.0
+Mergus merganser_Common Merganser,0.19382426,7.0,10.0
+Lophodytes cucullatus_Hooded Merganser,0.13195361,7.0,10.0
+Mergus merganser_Common Merganser,0.10597341,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4309598,13.0,16.0
+Ammodramus savannarum_Grasshopper Sparrow,0.69540787,14.0,17.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6208693,15.0,18.0
+Ammodramus savannarum_Grasshopper Sparrow,0.39674574,16.0,19.0
+Ammospiza leconteii_LeConte's Sparrow,0.18558373,16.0,19.0
+Pooecetes gramineus_Vesper Sparrow,0.13122232,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.8302917,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.83196217,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.6432257,22.0,25.0
+Spizella pusilla_Field Sparrow,0.7317807,23.0,26.0
+Spizella pusilla_Field Sparrow,0.7298179,24.0,27.0
+Setophaga kirtlandii_Kirtland's Warbler,0.15304099,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.82134706,25.0,28.0
+Spizella pusilla_Field Sparrow,0.17121403,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6083941,26.0,29.0
+Spizella pusilla_Field Sparrow,0.15534195,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.76712215,27.0,30.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7992737,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.2208244,28.0,31.0
+Ammodramus savannarum_Grasshopper Sparrow,0.42028013,29.0,32.0
+Centronyx henslowii_Henslow's Sparrow,0.20026118,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.8397774,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.95918655,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.9409247,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.8244535,33.0,36.0
+Spizella pusilla_Field Sparrow,0.528399,34.0,37.0
+Spizella pusilla_Field Sparrow,0.49852914,35.0,38.0
+Spizella pusilla_Field Sparrow,0.43468082,36.0,39.0
+Setophaga kirtlandii_Kirtland's Warbler,0.12530883,36.0,39.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9164458,37.0,40.0
+Centronyx henslowii_Henslow's Sparrow,0.19773903,37.0,40.0
+Centronyx bairdii_Baird's Sparrow,0.11179019,37.0,40.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9850234,38.0,41.0
+Ammodramus savannarum_Grasshopper Sparrow,0.968187,39.0,42.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9292896,40.0,43.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6211828,41.0,44.0
+Ammospiza leconteii_LeConte's Sparrow,0.30276442,41.0,44.0
+Spizella pusilla_Field Sparrow,0.117537394,48.0,51.0
+Spizella pusilla_Field Sparrow,0.56863,49.0,52.0
+Setophaga kirtlandii_Kirtland's Warbler,0.15228862,49.0,52.0
+Pooecetes gramineus_Vesper Sparrow,0.11109536,49.0,52.0
+Ammodramus savannarum_Grasshopper Sparrow,0.70390195,50.0,53.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6831292,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8664324,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7036964,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.13443886,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.20069002,54.0,57.0
+Ammospiza leconteii_LeConte's Sparrow,0.16249286,54.0,57.0
+Centronyx henslowii_Henslow's Sparrow,0.15167096,54.0,57.0
+Spizella pallida_Clay-colored Sparrow,0.12484424,54.0,57.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1168467,54.0,57.0
+Curruca curruca_Lesser Whitethroat,0.23633833,55.0,58.0
+Dolichonyx oryzivorus_Bobolink,0.13151023,56.0,59.0
+Dolichonyx oryzivorus_Bobolink,0.63264114,57.0,60.0
+Dolichonyx oryzivorus_Bobolink,0.21907233,58.0,61.0
+Spizella pusilla_Field Sparrow,0.49269262,61.0,64.0
+Pooecetes gramineus_Vesper Sparrow,0.28510538,61.0,64.0
+Spizella pusilla_Field Sparrow,0.80627304,62.0,65.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19881056,62.0,65.0
+Ammodramus savannarum_Grasshopper Sparrow,0.83505917,63.0,66.0
+Spizella pusilla_Field Sparrow,0.47187188,63.0,66.0
+Ammodramus savannarum_Grasshopper Sparrow,0.95847535,64.0,67.0
+Spizella pusilla_Field Sparrow,0.40503633,64.0,67.0
+Ammodramus savannarum_Grasshopper Sparrow,0.86946565,65.0,68.0
+Spizella pusilla_Field Sparrow,0.5297633,65.0,68.0
+Ammodramus savannarum_Grasshopper Sparrow,0.64431036,66.0,69.0
+Ammospiza leconteii_LeConte's Sparrow,0.11720257,66.0,69.0
+Recurvirostra americana_American Avocet,0.22719976,69.0,72.0
+Dolichonyx oryzivorus_Bobolink,0.16747673,69.0,72.0
+Recurvirostra americana_American Avocet,0.100298464,70.0,73.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.107545465,71.0,74.0

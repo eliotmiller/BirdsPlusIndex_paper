@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.9723684,0.0,3.0
+Strix uralensis_Ural Owl,0.4022884,0.0,3.0
+Strix varia_Barred Owl,0.15895161,0.0,3.0
+Strix leptogrammica_Brown Wood-Owl,0.1442037,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.9561088,1.0,4.0
+Bubo virginianus_Great Horned Owl,0.99071586,2.0,5.0
+Bubo virginianus_Great Horned Owl,0.9968741,3.0,6.0
+Bubo virginianus_Great Horned Owl,0.9891454,4.0,7.0
+Ninox strenua_Powerful Owl,0.19350697,4.0,7.0
+Dog_Dog,0.64452976,5.0,8.0
+Engine_Engine,0.11549439,5.0,8.0
+Dog_Dog,0.745841,6.0,9.0
+Engine_Engine,0.2061896,6.0,9.0
+Corvus corax_Common Raven,0.19596744,6.0,9.0
+Dog_Dog,0.7433682,7.0,10.0
+Engine_Engine,0.11796399,7.0,10.0
+Corvus corax_Common Raven,0.3047104,8.0,11.0
+Dog_Dog,0.2719543,8.0,11.0
+Dog_Dog,0.22030357,9.0,12.0
+Dog_Dog,0.19817309,10.0,13.0
+Dog_Dog,0.25872073,11.0,14.0
+Meleagris gallopavo_Wild Turkey,0.12231718,12.0,15.0
+Dog_Dog,0.18180947,13.0,16.0
+Corvus corax_Common Raven,0.16595615,13.0,16.0
+Egretta garzetta_Little Egret,0.1362672,13.0,16.0
+Meleagris gallopavo_Wild Turkey,0.12110374,13.0,16.0
+Dog_Dog,0.49419078,14.0,17.0
+Engine_Engine,0.14837606,15.0,18.0
+Dog_Dog,0.14791098,15.0,18.0
+Meleagris gallopavo_Wild Turkey,0.12003068,15.0,18.0
+Engine_Engine,0.21686597,16.0,19.0
+Bubo virginianus_Great Horned Owl,0.8485039,19.0,22.0
+Strix uralensis_Ural Owl,0.21927199,19.0,22.0
+Bubo virginianus_Great Horned Owl,0.98691756,20.0,23.0
+Bubo virginianus_Great Horned Owl,0.9973756,21.0,24.0
+Bubo virginianus_Great Horned Owl,0.9988134,22.0,25.0
+Bubo virginianus_Great Horned Owl,0.99836105,23.0,26.0
+Engine_Engine,0.27715147,25.0,28.0
+Engine_Engine,0.16846226,26.0,29.0
+Engine_Engine,0.22853892,27.0,30.0
+Megascops asio_Eastern Screech-Owl,0.123187914,27.0,30.0
+Megascops kennicottii_Western Screech-Owl,0.106593125,27.0,30.0
+Engine_Engine,0.19089349,28.0,31.0
+Engine_Engine,0.2505377,29.0,32.0
+Engine_Engine,0.20004563,30.0,33.0
+Engine_Engine,0.40706587,31.0,34.0
+Engine_Engine,0.18071768,32.0,35.0
+Engine_Engine,0.37146255,33.0,36.0
+Engine_Engine,0.16344026,34.0,37.0
+Engine_Engine,0.17129108,35.0,38.0
+Bubo virginianus_Great Horned Owl,0.8872314,36.0,39.0
+Strix uralensis_Ural Owl,0.2134379,36.0,39.0
+Strix leptogrammica_Brown Wood-Owl,0.14373797,36.0,39.0
+Centropus sinensis_Greater Coucal,0.117143594,36.0,39.0
+Bubo virginianus_Great Horned Owl,0.9833431,37.0,40.0
+Bubo virginianus_Great Horned Owl,0.994729,38.0,41.0
+Bubo virginianus_Great Horned Owl,0.9995134,39.0,42.0
+Bubo virginianus_Great Horned Owl,0.998538,40.0,43.0
+Engine_Engine,0.28238723,41.0,44.0
+Engine_Engine,0.29424402,42.0,45.0
+Engine_Engine,0.16594721,43.0,46.0
+Bubo virginianus_Great Horned Owl,0.9023095,44.0,47.0
+Bubo bubo_Eurasian Eagle-Owl,0.16720174,44.0,47.0
+Strix uralensis_Ural Owl,0.15791345,44.0,47.0
+Bubo virginianus_Great Horned Owl,0.9791115,45.0,48.0
+Bubo virginianus_Great Horned Owl,0.9865574,46.0,49.0
+Bubo virginianus_Great Horned Owl,0.9981419,47.0,50.0
+Bubo virginianus_Great Horned Owl,0.9965114,48.0,51.0
+Bubo virginianus_Great Horned Owl,0.72170097,49.0,52.0
+Engine_Engine,0.22599006,50.0,53.0
+Engine_Engine,0.114396036,51.0,54.0
+Engine_Engine,0.17533462,52.0,55.0
+Engine_Engine,0.19403271,53.0,56.0
+Engine_Engine,0.23927188,54.0,57.0
+Engine_Engine,0.18911979,55.0,58.0
+Engine_Engine,0.12696499,56.0,59.0
+Engine_Engine,0.18272649,57.0,60.0
+Engine_Engine,0.16626962,58.0,61.0
+Engine_Engine,0.21309128,59.0,62.0
+Engine_Engine,0.15732014,60.0,63.0
+Engine_Engine,0.1523027,61.0,64.0
+Engine_Engine,0.3265348,62.0,65.0
+Engine_Engine,0.5591852,63.0,66.0
+Engine_Engine,0.5954817,64.0,67.0
+Engine_Engine,0.77371186,65.0,68.0
+Engine_Engine,0.11073338,66.0,69.0
+Bubo virginianus_Great Horned Owl,0.7297097,67.0,70.0
+Strix uralensis_Ural Owl,0.33810347,67.0,70.0
+Bubo virginianus_Great Horned Owl,0.9477856,68.0,71.0
+Bubo virginianus_Great Horned Owl,0.9898863,69.0,72.0
+Bubo virginianus_Great Horned Owl,0.9935927,70.0,73.0
+Bubo virginianus_Great Horned Owl,0.99405825,71.0,73.12802721088435

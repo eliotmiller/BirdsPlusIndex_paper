@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.56796414,0.0,3.0
+Vireo philadelphicus_Philadelphia Vireo,0.43398213,0.0,3.0
+Vireo philadelphicus_Philadelphia Vireo,0.8237455,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.5974882,1.0,4.0
+Vireo philadelphicus_Philadelphia Vireo,0.90081346,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.325901,2.0,5.0
+Vireo philadelphicus_Philadelphia Vireo,0.8045981,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.28595865,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.84060717,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.17683764,4.0,7.0
+Vireo philadelphicus_Philadelphia Vireo,0.48769417,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.2671253,5.0,8.0
+Setophaga americana_Northern Parula,0.1272737,6.0,9.0
+Setophaga pitiayumi_Tropical Parula,0.11421822,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.13469596,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.24310003,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.10380406,10.0,13.0
+Vireo philadelphicus_Philadelphia Vireo,0.82825625,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.4374906,13.0,16.0
+Vireo philadelphicus_Philadelphia Vireo,0.769285,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.7418304,14.0,17.0
+Vireo philadelphicus_Philadelphia Vireo,0.6398645,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.6164526,15.0,18.0
+Vireo philadelphicus_Philadelphia Vireo,0.6061052,16.0,19.0
+Myioborus pictus_Painted Redstart,0.16071765,16.0,19.0
+Vireo philadelphicus_Philadelphia Vireo,0.6596729,17.0,20.0
+Vireo philadelphicus_Philadelphia Vireo,0.47510663,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.41921,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.5953033,19.0,22.0
+Vireo philadelphicus_Philadelphia Vireo,0.4499767,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.7463285,20.0,23.0
+Vireo philadelphicus_Philadelphia Vireo,0.35593408,20.0,23.0
+Setophaga americana_Northern Parula,0.40383077,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.13551751,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10381109,22.0,25.0
+Vireo philadelphicus_Philadelphia Vireo,0.89004034,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.17290232,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.13841125,24.0,27.0
+Vireo philadelphicus_Philadelphia Vireo,0.6288441,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.22510998,25.0,28.0
+Vireo philadelphicus_Philadelphia Vireo,0.5558587,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.30882072,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.1437859,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.15460967,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.15406244,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.10723556,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.122438654,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.1145284,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.15409368,35.0,38.0
+Setophaga americana_Northern Parula,0.15779631,36.0,39.0
+Setophaga americana_Northern Parula,0.24462956,37.0,40.0
+Setophaga americana_Northern Parula,0.31711182,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13397557,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13689598,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12513722,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11524172,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.12990516,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105551265,42.0,45.0
+Vireo philadelphicus_Philadelphia Vireo,0.43714464,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.11681209,44.0,47.0
+Vireo philadelphicus_Philadelphia Vireo,0.327863,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.15282434,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.140588,45.0,48.0
+Vireo philadelphicus_Philadelphia Vireo,0.5224416,46.0,49.0
+Vireo olivaceus_Red-eyed Vireo,0.1293097,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.44267556,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.48748565,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.2602819,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.33004385,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.20361534,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.13201755,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.2542332,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.18184692,66.0,69.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18749295,73.0,76.0

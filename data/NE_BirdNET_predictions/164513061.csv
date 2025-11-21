@@ -1,0 +1,24 @@
+species,score,start_time,end_time
+Coccyzus americanus_Yellow-billed Cuckoo,0.8881278,0.0,3.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.23598051,0.0,3.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.82727635,1.0,4.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.28542298,1.0,4.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96959317,2.0,5.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.14323872,2.0,5.0
+Vermivora cyanoptera_Blue-winged Warbler,0.53563005,3.0,6.0
+Vermivora chrysoptera_Golden-winged Warbler,0.39793724,3.0,6.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.37307534,3.0,6.0
+Vermivora chrysoptera_Golden-winged Warbler,0.95162916,4.0,7.0
+Vermivora cyanoptera_Blue-winged Warbler,0.502982,4.0,7.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.100427255,4.0,7.0
+Vermivora chrysoptera_Golden-winged Warbler,0.9780903,5.0,8.0
+Vermivora cyanoptera_Blue-winged Warbler,0.20011535,5.0,8.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.17626378,5.0,8.0
+Meleagris gallopavo_Wild Turkey,0.1009913,5.0,8.0
+Vermivora chrysoptera_Golden-winged Warbler,0.98152465,6.0,9.0
+Aquila chrysaetos_Golden Eagle,0.31856674,6.0,9.0
+Vermivora cyanoptera_Blue-winged Warbler,0.2344045,6.0,9.0
+Meleagris gallopavo_Wild Turkey,0.13837115,6.0,9.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.119907334,6.0,9.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13259163,7.0,9.19201814058957
+Vermivora cyanoptera_Blue-winged Warbler,0.11494204,7.0,9.19201814058957

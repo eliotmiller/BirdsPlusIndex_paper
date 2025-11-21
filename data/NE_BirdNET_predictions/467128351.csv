@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Troglodytes aedon_House Wren,0.75039816,0.0,3.0
+Vireo pallens_Mangrove Vireo,0.46839464,0.0,3.0
+Phylloscopus schwarzi_Radde's Warbler,0.122215755,0.0,3.0
+Melospiza melodia_Song Sparrow,0.44723785,2.0,5.0
+Melospiza melodia_Song Sparrow,0.66181,3.0,6.0
+Melospiza melodia_Song Sparrow,0.22796965,4.0,7.0
+Melospiza melodia_Song Sparrow,0.13694692,5.0,8.0
+Haemorhous mexicanus_House Finch,0.37299353,6.0,9.0
+Loxia leucoptera_White-winged Crossbill,0.18828185,6.0,9.0
+Loxia curvirostra_Red Crossbill,0.14147948,6.0,9.0
+Haemorhous mexicanus_House Finch,0.27570438,7.0,10.0
+Acanthis flammea_Common Redpoll,0.14954917,7.0,10.0
+Haemorhous mexicanus_House Finch,0.866405,8.0,11.0
+Haemorhous mexicanus_House Finch,0.70478064,9.0,12.0
+Troglodytes aedon_House Wren,0.62226427,10.0,13.0
+Troglodytes aedon_House Wren,0.9805479,11.0,14.0
+Troglodytes aedon_House Wren,0.98335177,12.0,15.0
+Troglodytes aedon_House Wren,0.90976566,13.0,16.0
+Phylloscopus schwarzi_Radde's Warbler,0.24230279,13.0,16.0
+Engine_Engine,0.44753993,14.0,17.0
+Engine_Engine,0.24650556,15.0,18.0
+Sula leucogaster_Brown Booby,0.1076643,15.0,18.0
+Troglodytes aedon_House Wren,0.67635316,17.0,20.0
+Geothlypis philadelphia_Mourning Warbler,0.12614952,17.0,20.0
+Troglodytes aedon_House Wren,0.59189165,18.0,21.0
+Setophaga kirtlandii_Kirtland's Warbler,0.17682244,18.0,21.0
+Troglodytes aedon_House Wren,0.93704695,19.0,22.0
+Fringilla coelebs_Common Chaffinch,0.26109028,20.0,23.0
+Anthus trivialis_Tree Pipit,0.117339104,20.0,23.0
+Phylloscopus schwarzi_Radde's Warbler,0.24306199,21.0,24.0
+Setophaga kirtlandii_Kirtland's Warbler,0.18979143,21.0,24.0
+Troglodytes aedon_House Wren,0.2752698,22.0,25.0
+Troglodytes aedon_House Wren,0.5383837,23.0,26.0
+Setophaga kirtlandii_Kirtland's Warbler,0.15627238,23.0,26.0
+Icterus cucullatus_Hooded Oriole,0.13146275,24.0,27.0
+Phylloscopus borealoides_Sakhalin Leaf Warbler,0.10736702,24.0,27.0
+Phylloscopus borealoides_Sakhalin Leaf Warbler,0.23712096,25.0,28.0
+Troglodytes aedon_House Wren,0.9108164,27.0,30.0
+Troglodytes aedon_House Wren,0.9653758,28.0,31.0
+Troglodytes aedon_House Wren,0.9525538,29.0,32.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.17478356,30.0,33.0
+Piranga rubra_Summer Tanager,0.24658148,31.0,34.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1300095,31.0,34.0
+Piranga rubra_Summer Tanager,0.22846207,32.0,35.0
+Hemixos castanonotus_Chestnut Bulbul,0.11469004,33.0,36.0
+Piranga rubra_Summer Tanager,0.24445903,37.0,40.0
+Icterus spurius_Orchard Oriole,0.14438969,39.0,42.0
+Buteo platypterus_Broad-winged Hawk,0.8450232,40.0,43.0
+Engine_Engine,0.119697586,43.0,46.0
+Engine_Engine,0.19262186,44.0,47.0
+Buteo platypterus_Broad-winged Hawk,0.4994941,46.0,49.0
+Melozone crissalis_California Towhee,0.25348783,46.0,49.0
+Phylloscopus borealoides_Sakhalin Leaf Warbler,0.1564183,47.0,50.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.10539536,48.0,51.0
+Piranga rubra_Summer Tanager,0.3763849,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.15353999,49.0,52.0
+Turdus migratorius_American Robin,0.10761798,49.0,52.0
+Piranga rubra_Summer Tanager,0.103919804,50.0,53.0
+Piranga rubra_Summer Tanager,0.1940478,57.0,60.0
+Piranga rubra_Summer Tanager,0.30875763,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.19048466,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.45768625,63.0,66.0
+Turdus migratorius_American Robin,0.29984567,64.0,67.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.49118644,65.0,68.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.26665756,66.0,69.0
+Thalasseus maximus_Royal Tern,0.122647844,66.0,69.0
