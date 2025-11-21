@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.32462212,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16594343,1.0,4.0
+Lanius collurio_Red-backed Shrike,0.13544588,1.0,4.0
+Lanius collurio_Red-backed Shrike,0.32369983,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11633185,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.134383,5.0,8.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22912161,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.24593158,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2064641,9.0,12.0
+Lanius collurio_Red-backed Shrike,0.20219636,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.23715323,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.26447117,11.0,14.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13576525,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14772749,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.16773044,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.48424828,15.0,18.0
+Agelaius phoeniceus_Red-winged Blackbird,0.43479347,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.5190963,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.21149267,17.0,20.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10902497,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2613662,19.0,22.0
+Agelaius phoeniceus_Red-winged Blackbird,0.32491478,20.0,23.0
+Agelaius phoeniceus_Red-winged Blackbird,0.26204655,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3489033,22.0,25.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14530763,23.0,26.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.13387956,23.0,26.0
+Myiarchus crinitus_Great Crested Flycatcher,0.34556133,30.0,33.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8484548,31.0,34.0
+Myiarchus crinitus_Great Crested Flycatcher,0.42728788,32.0,35.0
+Spizella passerina_Chipping Sparrow,0.17320172,37.0,40.0
+Melospiza georgiana_Swamp Sparrow,0.12732929,37.0,40.0
+Melospiza georgiana_Swamp Sparrow,0.46278328,38.0,41.0
+Melospiza georgiana_Swamp Sparrow,0.20163651,39.0,42.0
+Myiarchus crinitus_Great Crested Flycatcher,0.12463503,41.0,44.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7023081,42.0,45.0
+Passer domesticus_House Sparrow,0.13054071,45.0,48.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9214544,46.0,49.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9648977,47.0,50.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9309921,48.0,51.0

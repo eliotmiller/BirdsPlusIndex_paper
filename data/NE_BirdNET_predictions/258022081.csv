@@ -1,0 +1,57 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.97297615,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.8968841,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.9369898,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.9633022,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.9636988,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.9851409,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.92410547,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.9424553,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.8781775,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.9648415,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.93658566,10.0,13.0
+Elaenia olivina_Tepui Elaenia,0.17180572,10.0,13.0
+Elaenia olivina_Tepui Elaenia,0.5719697,11.0,14.0
+Sublegatus modestus_Southern Scrub-Flycatcher,0.2747528,11.0,14.0
+Elaenia martinica_Caribbean Elaenia,0.104200885,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.64963,13.0,16.0
+Elaenia frantzii_Mountain Elaenia,0.23027612,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.78227437,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.70501935,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.6504421,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.7390084,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.7928805,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.751485,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.5965867,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.12338832,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.11474187,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.4689988,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.49539343,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.3334067,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103271626,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.13962494,29.0,32.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.12888336,32.0,35.0
+Myiotriccus ornatus_Ornate Flycatcher,0.12191624,32.0,35.0
+Sclerurus mexicanus_Middle American Leaftosser,0.105452694,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.2259568,33.0,36.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.20571198,33.0,36.0
+Myiotriccus ornatus_Ornate Flycatcher,0.124956146,33.0,36.0
+Myiotriccus ornatus_Ornate Flycatcher,0.23726466,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.15002601,34.0,37.0
+Elaenia olivina_Tepui Elaenia,0.11014853,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.8770172,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.88363653,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.8084312,37.0,40.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.14908762,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.4997474,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.6057674,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.6432014,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.72830486,45.0,48.0
+Empidonax virescens_Acadian Flycatcher,0.85914224,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.88416356,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.7301786,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.9037087,49.0,52.0
+Limnothlypis swainsonii_Swainson's Warbler,0.5252522,50.0,53.0
+Setophaga dominica_Yellow-throated Warbler,0.1428947,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.112565584,50.0,53.0
+Parkesia motacilla_Louisiana Waterthrush,0.105178066,50.0,53.0

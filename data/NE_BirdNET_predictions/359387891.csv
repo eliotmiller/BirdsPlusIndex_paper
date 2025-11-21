@@ -1,0 +1,49 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.10032301,0.0,3.0
+Vireo altiloquus_Black-whiskered Vireo,0.12140773,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.10564981,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.11147379,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.13283962,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.22333725,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10919245,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.18662657,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.12368989,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.11379129,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.1827864,9.0,12.0
+Liocichla steerii_Steere's Liocichla,0.1735192,12.0,15.0
+Liocichla steerii_Steere's Liocichla,0.18661386,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.19902638,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.12321474,16.0,19.0
+Human non-vocal_Human non-vocal,0.15919976,20.0,23.0
+Human non-vocal_Human non-vocal,0.14758457,21.0,24.0
+Human vocal_Human vocal,0.20774856,26.0,29.0
+Cygnus buccinator_Trumpeter Swan,0.108105846,26.0,29.0
+Human vocal_Human vocal,0.32152936,27.0,30.0
+Cygnus buccinator_Trumpeter Swan,0.7494519,28.0,31.0
+Tadorna ferruginea_Ruddy Shelduck,0.111778,28.0,31.0
+Human vocal_Human vocal,0.13618955,32.0,35.0
+Human vocal_Human vocal,0.27557665,33.0,36.0
+Canis lupus_Gray Wolf,0.27762282,34.0,37.0
+Human vocal_Human vocal,0.20602496,34.0,37.0
+Canis lupus_Gray Wolf,0.104669854,35.0,38.0
+Canis lupus_Gray Wolf,0.15480165,36.0,39.0
+Canis lupus_Gray Wolf,0.11544372,38.0,41.0
+Human vocal_Human vocal,0.20949574,39.0,42.0
+Human vocal_Human vocal,0.2562516,40.0,43.0
+Cygnus columbianus_Tundra Swan,0.21683422,43.0,46.0
+Cuculus canorus_Common Cuckoo,0.19162649,43.0,46.0
+Streptopelia senegalensis_Laughing Dove,0.13336915,43.0,46.0
+Human vocal_Human vocal,0.11386985,44.0,47.0
+Human vocal_Human vocal,0.11464743,47.0,50.0
+Human vocal_Human vocal,0.17510839,48.0,51.0
+Human vocal_Human vocal,0.25805748,49.0,52.0
+Fireworks_Fireworks,0.11358184,49.0,52.0
+Gun_Gun,0.10333687,49.0,52.0
+Fireworks_Fireworks,0.26305568,50.0,53.0
+Human vocal_Human vocal,0.14752547,50.0,53.0
+Fireworks_Fireworks,0.17866182,51.0,54.0
+Human vocal_Human vocal,0.10088382,51.0,54.0
+Fireworks_Fireworks,0.13490051,53.0,56.0
+Fireworks_Fireworks,0.10519247,54.0,57.0
+Fireworks_Fireworks,0.12033072,55.0,58.0
+Fireworks_Fireworks,0.122876994,64.0,67.0

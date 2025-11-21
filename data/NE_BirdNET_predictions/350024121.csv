@@ -1,0 +1,113 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.2589716,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.12606648,0.0,3.0
+Catharus fuscescens_Veery,0.8965228,1.0,4.0
+Catharus fuscescens_Veery,0.80380416,2.0,5.0
+Catharus fuscescens_Veery,0.76820034,3.0,6.0
+Setophaga ruticilla_American Redstart,0.3032341,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.11072191,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.11027202,4.0,7.0
+Catharus fuscescens_Veery,0.55369073,5.0,8.0
+Catharus fuscescens_Veery,0.46715412,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.10367706,6.0,9.0
+Catharus fuscescens_Veery,0.7297191,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13962096,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.12536539,8.0,11.0
+Catharus fuscescens_Veery,0.39780477,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.10113683,9.0,12.0
+Setophaga ruticilla_American Redstart,0.100265846,9.0,12.0
+Catharus fuscescens_Veery,0.39666963,10.0,13.0
+Setophaga ruticilla_American Redstart,0.16902587,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.10551845,10.0,13.0
+Geothlypis philadelphia_Mourning Warbler,0.14276312,11.0,14.0
+Catharus fuscescens_Veery,0.1351333,11.0,14.0
+Setophaga ruticilla_American Redstart,0.10175887,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.11769476,12.0,15.0
+Catharus fuscescens_Veery,0.9361314,13.0,16.0
+Catharus fuscescens_Veery,0.93805015,14.0,17.0
+Catharus fuscescens_Veery,0.84562385,15.0,18.0
+Catharus fuscescens_Veery,0.2827888,16.0,19.0
+Catharus fuscescens_Veery,0.36075056,17.0,20.0
+Catharus fuscescens_Veery,0.23864333,18.0,21.0
+Catharus fuscescens_Veery,0.21853843,19.0,22.0
+Protonotaria citrea_Prothonotary Warbler,0.10819991,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.19810364,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.13409667,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.19855046,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.16730107,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.16439396,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10758302,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.18407063,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.15902591,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.12426227,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.2042842,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.24065183,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.1113377,28.0,31.0
+Protonotaria citrea_Prothonotary Warbler,0.102972515,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.19990154,29.0,32.0
+Protonotaria citrea_Prothonotary Warbler,0.19148445,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.12622209,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.115183756,30.0,33.0
+Oporornis agilis_Connecticut Warbler,0.20563427,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.19294283,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.21709837,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.20980185,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.2399426,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10716039,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.24394424,35.0,38.0
+Protonotaria citrea_Prothonotary Warbler,0.11590678,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.107032716,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.13500398,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.15818441,39.0,42.0
+Geothlypis formosa_Kentucky Warbler,0.15328196,40.0,43.0
+Protonotaria citrea_Prothonotary Warbler,0.14792779,40.0,43.0
+Setophaga ruticilla_American Redstart,0.24822633,41.0,44.0
+Geothlypis formosa_Kentucky Warbler,0.20935954,41.0,44.0
+Protonotaria citrea_Prothonotary Warbler,0.1774387,41.0,44.0
+Protonotaria citrea_Prothonotary Warbler,0.11663181,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.23790996,43.0,46.0
+Protonotaria citrea_Prothonotary Warbler,0.1555782,43.0,46.0
+Geothlypis formosa_Kentucky Warbler,0.10860399,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.18930832,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.110194854,45.0,48.0
+Setophaga ruticilla_American Redstart,0.14244239,46.0,49.0
+Setophaga ruticilla_American Redstart,0.11319806,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.10217914,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.15929767,50.0,53.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10704929,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.103600785,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.11534194,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.10658314,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.20632215,56.0,59.0
+Setophaga ruticilla_American Redstart,0.13170588,56.0,59.0
+Protonotaria citrea_Prothonotary Warbler,0.11505244,56.0,59.0
+Catharus fuscescens_Veery,0.22378322,57.0,60.0
+Catharus fuscescens_Veery,0.10927513,58.0,61.0
+Vermivora chrysoptera_Golden-winged Warbler,0.101283304,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.10125654,58.0,61.0
+Protonotaria citrea_Prothonotary Warbler,0.17169194,59.0,62.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12041907,59.0,62.0
+Catharus fuscescens_Veery,0.59922284,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.17472935,60.0,63.0
+Catharus fuscescens_Veery,0.88795805,61.0,64.0
+Catharus fuscescens_Veery,0.8299145,62.0,65.0
+Catharus fuscescens_Veery,0.5008389,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.10777742,64.0,67.0
+Catharus fuscescens_Veery,0.5196746,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.12841007,65.0,68.0
+Catharus fuscescens_Veery,0.4481477,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.24930468,66.0,69.0
+Catharus fuscescens_Veery,0.4748839,67.0,70.0
+Catharus fuscescens_Veery,0.785435,68.0,71.0
+Catharus fuscescens_Veery,0.9202522,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.13024975,70.0,73.0
+Setophaga ruticilla_American Redstart,0.12260396,70.0,73.0
+Catharus fuscescens_Veery,0.5197997,71.0,74.0
+Catharus fuscescens_Veery,0.8640962,72.0,75.0
+Catharus fuscescens_Veery,0.9289318,73.0,76.0
+Setophaga cerulea_Cerulean Warbler,0.11773316,73.0,76.0
+Setophaga cerulea_Cerulean Warbler,0.24446231,74.0,77.0
+Catharus fuscescens_Veery,0.6851787,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.13735062,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.100854404,75.0,78.0
+Catharus fuscescens_Veery,0.8332637,76.0,78.86403628117914

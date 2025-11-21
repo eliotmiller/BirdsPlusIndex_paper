@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Thryothorus ludovicianus_Carolina Wren,0.96507585,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.23366567,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.39482868,1.0,4.0
+Thryothorus ludovicianus_Carolina Wren,0.17653729,1.0,4.0
+Mimus polyglottos_Northern Mockingbird,0.876983,2.0,5.0
+Thryothorus ludovicianus_Carolina Wren,0.10998872,2.0,5.0
+Mimus polyglottos_Northern Mockingbird,0.7155615,3.0,6.0
+Mimus polyglottos_Northern Mockingbird,0.46276388,4.0,7.0
+Megaceryle alcyon_Belted Kingfisher,0.26786247,6.0,9.0
+Icterus galbula_Baltimore Oriole,0.16180947,6.0,9.0
+Megaceryle alcyon_Belted Kingfisher,0.7831083,7.0,10.0
+Megaceryle alcyon_Belted Kingfisher,0.9654379,8.0,11.0
+Megaceryle alcyon_Belted Kingfisher,0.98102427,9.0,12.0
+Megaceryle alcyon_Belted Kingfisher,0.9280459,10.0,13.0
+Megaceryle alcyon_Belted Kingfisher,0.89570826,11.0,14.0
+Megaceryle alcyon_Belted Kingfisher,0.6334014,12.0,15.0
+Megaceryle alcyon_Belted Kingfisher,0.7010035,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.19792882,14.0,17.0
+Coccothraustes vespertinus_Evening Grosbeak,0.18902144,14.0,17.0
+Sitta carolinensis_White-breasted Nuthatch,0.37315392,15.0,18.0
+Coccothraustes vespertinus_Evening Grosbeak,0.26531917,15.0,18.0
+Sitta canadensis_Red-breasted Nuthatch,0.19994247,15.0,18.0
+Sitta carolinensis_White-breasted Nuthatch,0.4904749,16.0,19.0
+Coccothraustes vespertinus_Evening Grosbeak,0.39152887,16.0,19.0
+Sitta canadensis_Red-breasted Nuthatch,0.30776045,16.0,19.0
+Sitta carolinensis_White-breasted Nuthatch,0.561661,17.0,20.0
+Sitta canadensis_Red-breasted Nuthatch,0.3910117,17.0,20.0
+Coccothraustes vespertinus_Evening Grosbeak,0.31655857,17.0,20.0
+Coccothraustes vespertinus_Evening Grosbeak,0.2890515,18.0,21.0
+Haemorhous mexicanus_House Finch,0.22240281,18.0,21.0
+Coccothraustes vespertinus_Evening Grosbeak,0.3877601,19.0,22.0
+Mimus polyglottos_Northern Mockingbird,0.12040245,21.0,24.0
+Mimus polyglottos_Northern Mockingbird,0.23462315,22.0,25.0
+Tamias striatus_Eastern Chipmunk,0.47528106,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.19570209,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.17115347,28.0,31.0
+Mimus polyglottos_Northern Mockingbird,0.5533525,29.0,32.0
+Toxostoma rufum_Brown Thrasher,0.1688804,29.0,32.0
+Mimus polyglottos_Northern Mockingbird,0.5481121,30.0,33.0
+Toxostoma rufum_Brown Thrasher,0.13331132,30.0,33.0
+Mimus polyglottos_Northern Mockingbird,0.3948098,31.0,34.0
+Cardinalis cardinalis_Northern Cardinal,0.106132895,31.0,34.0
+Mimus polyglottos_Northern Mockingbird,0.2873495,32.0,35.0
+Turdus grayi_Clay-colored Thrush,0.12158401,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.101200856,34.0,37.0
+Sialia sialis_Eastern Bluebird,0.74831545,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.20055263,35.0,38.0
+Sialia sialis_Eastern Bluebird,0.489917,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.23211402,36.0,39.0
+Sialia sialis_Eastern Bluebird,0.89776224,37.0,40.0
+Sialia mexicana_Western Bluebird,0.15882628,37.0,40.0
+Sialia sialis_Eastern Bluebird,0.92617655,38.0,41.0
+Sialia mexicana_Western Bluebird,0.14928813,38.0,41.0
+Sialia sialis_Eastern Bluebird,0.5866436,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.1538567,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.28094026,40.0,43.0
+Charadrius vociferus_Killdeer,0.18181995,41.0,44.0
+Mimus polyglottos_Northern Mockingbird,0.17680223,41.0,44.0
+Charadrius vociferus_Killdeer,0.6683648,42.0,45.0
+Charadrius vociferus_Killdeer,0.9648677,43.0,46.0
+Charadrius vociferus_Killdeer,0.9725169,44.0,47.0
+Charadrius vociferus_Killdeer,0.9912916,45.0,48.0
+Charadrius vociferus_Killdeer,0.98177665,46.0,49.0
+Charadrius vociferus_Killdeer,0.81765085,47.0,50.0

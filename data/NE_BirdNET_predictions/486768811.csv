@@ -1,0 +1,126 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.1918984,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13902809,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.15402749,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.10776057,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.2359412,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108568154,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.16047232,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.2838301,4.0,7.0
+Setophaga occidentalis_Hermit Warbler,0.10271315,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.9453395,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.9887454,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.9574143,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.38978702,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.42938587,9.0,12.0
+Buteo platypterus_Broad-winged Hawk,0.23861784,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.10029509,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16437134,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.13803144,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.10801311,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.16708548,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.11217536,12.0,15.0
+Poecile atricapillus_Black-capped Chickadee,0.10718797,12.0,15.0
+Troglodytes hiemalis_Winter Wren,0.14331934,13.0,16.0
+Poecile atricapillus_Black-capped Chickadee,0.10777206,13.0,16.0
+Troglodytes hiemalis_Winter Wren,0.6304289,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14353904,15.0,18.0
+Troglodytes hiemalis_Winter Wren,0.45624486,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.17821835,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10091544,16.0,19.0
+Troglodytes hiemalis_Winter Wren,0.7356474,17.0,20.0
+Ficedula parva_Red-breasted Flycatcher,0.13668849,17.0,20.0
+Troglodytes hiemalis_Winter Wren,0.4885165,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.7720683,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1810919,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.11853012,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.77114034,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.9906061,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.17073478,22.0,25.0
+Cardinalis cardinalis_Northern Cardinal,0.13578144,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.99203706,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.19771963,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.112673976,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.9981067,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.12558527,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.93288195,25.0,28.0
+Setophaga occidentalis_Hermit Warbler,0.18285859,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.25799978,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.21254256,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.33665696,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.116589695,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1082999,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.10991742,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.40211943,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.10172591,29.0,32.0
+Troglodytes hiemalis_Winter Wren,0.30719373,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.27401224,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.14395979,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23838492,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.15693821,31.0,34.0
+Ficedula parva_Red-breasted Flycatcher,0.11141689,32.0,35.0
+Phylloscopus sibilatrix_Wood Warbler,0.109946415,32.0,35.0
+Ficedula albicollis_Collared Flycatcher,0.36198866,33.0,36.0
+Phylloscopus sibilatrix_Wood Warbler,0.35532528,33.0,36.0
+Columba oenas_Stock Dove,0.21547657,33.0,36.0
+Ficedula parva_Red-breasted Flycatcher,0.16164006,33.0,36.0
+Accipiter gentilis_Northern Goshawk,0.117960535,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.29715666,34.0,37.0
+Geothlypis formosa_Kentucky Warbler,0.113617316,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.10503093,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.1047645,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.92312634,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.26389197,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.1373763,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.1351554,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.7712306,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.4297699,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.11083969,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.47780874,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.14280638,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.104200244,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.24504879,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.21164718,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14072186,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12338389,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.11967774,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.23609304,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.13670991,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.11089141,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.4030647,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.37106195,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.27422813,40.0,43.0
+Poecile atricapillus_Black-capped Chickadee,0.19567065,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11679062,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.10265239,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.2900776,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.2716009,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.21024965,41.0,44.0
+Geothlypis formosa_Kentucky Warbler,0.17060223,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.13963273,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.10131347,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.40186164,42.0,45.0
+Poecile atricapillus_Black-capped Chickadee,0.20140783,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.14813727,42.0,45.0
+Troglodytes hiemalis_Winter Wren,0.14049494,43.0,46.0
+Troglodytes hiemalis_Winter Wren,0.54353017,44.0,47.0
+Troglodytes hiemalis_Winter Wren,0.10880712,45.0,48.0
+Troglodytes hiemalis_Winter Wren,0.4398787,46.0,49.0
+Troglodytes hiemalis_Winter Wren,0.8535218,47.0,50.0
+Troglodytes hiemalis_Winter Wren,0.5570099,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.19474083,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.11570367,49.0,52.0
+Ficedula albicollis_Collared Flycatcher,0.35893995,50.0,53.0
+Columba oenas_Stock Dove,0.13434684,50.0,53.0
+Phylloscopus sibilatrix_Wood Warbler,0.105763845,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.8351368,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.11631615,51.0,54.0
+Setophaga occidentalis_Hermit Warbler,0.10802649,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.6880504,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.36267474,52.0,55.0
+Setophaga occidentalis_Hermit Warbler,0.29003966,52.0,55.0
+Piranga ludoviciana_Western Tanager,0.19073936,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.8661556,53.0,55.96802721088435
+Piranga olivacea_Scarlet Tanager,0.37107906,53.0,55.96802721088435
+Catharus guttatus_Hermit Thrush,0.23634537,53.0,55.96802721088435
+Hylocichla mustelina_Wood Thrush,0.124650374,53.0,55.96802721088435

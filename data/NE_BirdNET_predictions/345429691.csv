@@ -1,0 +1,144 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.13310042,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.10710737,5.0,8.0
+Certhia americana_Brown Creeper,0.11152348,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.11446791,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10309496,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113520026,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.101229034,13.0,16.0
+Spinus tristis_American Goldfinch,0.16677566,15.0,18.0
+Poecile palustris_Marsh Tit,0.64093447,16.0,19.0
+Spizella passerina_Chipping Sparrow,0.14851552,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.1511011,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4119774,26.0,29.0
+Spizella passerina_Chipping Sparrow,0.21599971,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13540651,27.0,30.0
+Certhia americana_Brown Creeper,0.57834023,29.0,32.0
+Certhia americana_Brown Creeper,0.6132084,30.0,33.0
+Certhia americana_Brown Creeper,0.5055674,31.0,34.0
+Certhia americana_Brown Creeper,0.11292185,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.12947135,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.21118033,38.0,41.0
+Setophaga tigrina_Cape May Warbler,0.10872391,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.18885718,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.23222826,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14858547,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.115490444,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10848207,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.14703977,45.0,48.0
+Spinus tristis_American Goldfinch,0.16309294,47.0,50.0
+Dryobates villosus_Hairy Woodpecker,0.6002597,52.0,55.0
+Dryobates villosus_Hairy Woodpecker,0.7236465,53.0,56.0
+Dryobates villosus_Hairy Woodpecker,0.81071347,54.0,57.0
+Empidonax hammondii_Hammond's Flycatcher,0.25565618,55.0,58.0
+Dendrocopos major_Great Spotted Woodpecker,0.16302562,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25976864,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.11034606,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20483643,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.12038362,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.2266841,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16128549,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.6830774,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.735643,65.0,68.0
+Setophaga fusca_Blackburnian Warbler,0.63323116,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.35823467,67.0,70.0
+Setophaga tigrina_Cape May Warbler,0.113795534,67.0,70.0
+Coccothraustes coccothraustes_Hawfinch,0.21388735,72.0,75.0
+Setophaga fusca_Blackburnian Warbler,0.34443727,75.0,78.0
+Setophaga fusca_Blackburnian Warbler,0.5115586,76.0,79.0
+Setophaga fusca_Blackburnian Warbler,0.3249457,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.10841243,78.0,81.0
+Elminia albonotata_White-tailed Crested-Flycatcher,0.14189723,80.0,83.0
+Gerygone mouki_Brown Gerygone,0.10722524,80.0,83.0
+Empidonax hammondii_Hammond's Flycatcher,0.20587195,84.0,87.0
+Empidonax hammondii_Hammond's Flycatcher,0.18068148,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.28133354,87.0,90.0
+Lepidocolaptes lacrymiger_Montane Woodcreeper,0.142226,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.7731061,88.0,91.0
+Setophaga fusca_Blackburnian Warbler,0.80277777,89.0,92.0
+Setophaga ruticilla_American Redstart,0.24957256,90.0,93.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22642222,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.14997831,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.22431727,91.0,94.0
+Loxia sinesciuris_Cassia Crossbill,0.11615928,96.0,99.0
+Setophaga americana_Northern Parula,0.12603119,100.0,103.0
+Parkesia noveboracensis_Northern Waterthrush,0.13742265,101.0,104.0
+Setophaga fusca_Blackburnian Warbler,0.123584695,101.0,104.0
+Empidonax hammondii_Hammond's Flycatcher,0.120011404,106.0,109.0
+Ficedula parva_Red-breasted Flycatcher,0.10300211,108.0,111.0
+Empidonax virescens_Acadian Flycatcher,0.13408628,110.0,113.0
+Loxia sinesciuris_Cassia Crossbill,0.105834045,111.0,114.0
+Mniotilta varia_Black-and-white Warbler,0.14303707,114.0,117.0
+Setophaga ruticilla_American Redstart,0.12578289,114.0,117.0
+Parkesia noveboracensis_Northern Waterthrush,0.10595206,116.0,119.0
+Parkesia noveboracensis_Northern Waterthrush,0.122367784,117.0,120.0
+Zonotrichia albicollis_White-throated Sparrow,0.10004207,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29585767,119.0,122.0
+Setophaga fusca_Blackburnian Warbler,0.1533994,119.0,122.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11354049,120.0,123.0
+Setophaga palmarum_Palm Warbler,0.102611914,121.0,124.0
+Loxia leucoptera_White-winged Crossbill,0.17122374,122.0,125.0
+Loxia leucoptera_White-winged Crossbill,0.60304064,123.0,126.0
+Empidonax hammondii_Hammond's Flycatcher,0.11561074,127.0,130.0
+Empidonax minimus_Least Flycatcher,0.10059344,127.0,130.0
+Setophaga virens_Black-throated Green Warbler,0.1368757,130.0,133.0
+Setophaga occidentalis_Hermit Warbler,0.15556432,131.0,134.0
+Setophaga townsendi_Townsend's Warbler,0.15204205,131.0,134.0
+Setophaga palmarum_Palm Warbler,0.10626898,131.0,134.0
+Setophaga fusca_Blackburnian Warbler,0.10454117,131.0,134.0
+Setophaga fusca_Blackburnian Warbler,0.14153467,132.0,135.0
+Setophaga virens_Black-throated Green Warbler,0.10419405,132.0,135.0
+Vireo cassinii_Cassin's Vireo,0.12485429,135.0,138.0
+Zonotrichia albicollis_White-throated Sparrow,0.13549565,139.0,142.0
+Zonotrichia albicollis_White-throated Sparrow,0.8522102,140.0,143.0
+Zonotrichia albicollis_White-throated Sparrow,0.36822042,141.0,144.0
+Setophaga fusca_Blackburnian Warbler,0.10646521,144.0,147.0
+Setophaga fusca_Blackburnian Warbler,0.204562,145.0,148.0
+Setophaga fusca_Blackburnian Warbler,0.27413824,146.0,149.0
+Setophaga tigrina_Cape May Warbler,0.17692837,146.0,149.0
+Setophaga castanea_Bay-breasted Warbler,0.17375807,146.0,149.0
+Setophaga fusca_Blackburnian Warbler,0.10144609,150.0,153.0
+Buteo platypterus_Broad-winged Hawk,0.17057142,151.0,154.0
+Setophaga fusca_Blackburnian Warbler,0.107589126,151.0,154.0
+Setophaga virens_Black-throated Green Warbler,0.10110782,151.0,154.0
+Setophaga townsendi_Townsend's Warbler,0.2278358,157.0,160.0
+Setophaga occidentalis_Hermit Warbler,0.14892176,157.0,160.0
+Buteo platypterus_Broad-winged Hawk,0.32627395,159.0,162.0
+Setophaga virens_Black-throated Green Warbler,0.13413255,159.0,162.0
+Zonotrichia albicollis_White-throated Sparrow,0.70150465,161.0,164.0
+Zonotrichia albicollis_White-throated Sparrow,0.80756474,162.0,165.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.39338258,163.0,166.0
+Zonotrichia albicollis_White-throated Sparrow,0.30126375,163.0,166.0
+Setophaga palmarum_Palm Warbler,0.12858379,163.0,166.0
+Zonotrichia albicollis_White-throated Sparrow,0.10986698,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.2731218,171.0,174.0
+Seiurus aurocapilla_Ovenbird,0.4042886,172.0,175.0
+Seiurus aurocapilla_Ovenbird,0.26012915,173.0,176.0
+Seiurus aurocapilla_Ovenbird,0.16810726,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.1009607,175.0,178.0
+Setophaga fusca_Blackburnian Warbler,0.87849367,178.0,181.0
+Setophaga fusca_Blackburnian Warbler,0.8143306,179.0,182.0
+Setophaga fusca_Blackburnian Warbler,0.860368,180.0,183.0
+Setophaga fusca_Blackburnian Warbler,0.51369,181.0,184.0
+Setophaga magnolia_Magnolia Warbler,0.13003221,185.0,188.0
+Loxia curvirostra_Red Crossbill,0.50197226,188.0,191.0
+Setophaga fusca_Blackburnian Warbler,0.73882896,189.0,192.0
+Setophaga fusca_Blackburnian Warbler,0.825132,190.0,193.0
+Setophaga fusca_Blackburnian Warbler,0.67432064,191.0,194.0
+Loxia curvirostra_Red Crossbill,0.1695837,192.0,195.0
+Setophaga fusca_Blackburnian Warbler,0.14461374,192.0,195.0
+Certhia americana_Brown Creeper,0.11994039,194.0,197.0
+Loxia curvirostra_Red Crossbill,0.15136828,195.0,198.0
+Loxia curvirostra_Red Crossbill,0.282587,196.0,199.0
+Loxia curvirostra_Red Crossbill,0.16967191,197.0,200.0
+Loxia curvirostra_Red Crossbill,0.19958541,198.0,201.0
+Loxia curvirostra_Red Crossbill,0.13432267,201.0,204.0
+Empidonax hammondii_Hammond's Flycatcher,0.10663591,201.0,204.0
+Setophaga fusca_Blackburnian Warbler,0.71429175,202.0,205.0
+Loxia curvirostra_Red Crossbill,0.21066013,202.0,205.0
+Setophaga fusca_Blackburnian Warbler,0.5440865,203.0,206.0
+Setophaga fusca_Blackburnian Warbler,0.57977843,204.0,207.0
+Setophaga fusca_Blackburnian Warbler,0.6790479,205.0,208.0
+Loxia curvirostra_Red Crossbill,0.15407006,206.0,209.0
+Cyanomitra olivacea_Olive Sunbird,0.10404994,207.0,210.0
+Loxia curvirostra_Red Crossbill,0.12333202,208.0,211.0

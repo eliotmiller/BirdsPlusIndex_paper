@@ -1,0 +1,104 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9018396,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40177378,0.0,3.0
+Catharus fuscescens_Veery,0.41994202,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29537296,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.11402056,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5153948,2.0,5.0
+Catharus fuscescens_Veery,0.45769846,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.7725313,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.98105466,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.99004525,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.47911045,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10186393,6.0,9.0
+Catharus fuscescens_Veery,0.3034967,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.11169721,7.0,10.0
+Catharus fuscescens_Veery,0.81757945,8.0,11.0
+Catharus fuscescens_Veery,0.4900166,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1716323,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.12822437,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27496317,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.2686409,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11120432,10.0,13.0
+Catharus fuscescens_Veery,0.7260874,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6107508,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.966411,12.0,15.0
+Catharus fuscescens_Veery,0.14539643,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97412205,13.0,16.0
+Catharus fuscescens_Veery,0.1853801,13.0,16.0
+Catharus fuscescens_Veery,0.56186193,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3526317,14.0,17.0
+Catharus fuscescens_Veery,0.7237801,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.10407751,15.0,18.0
+Catharus fuscescens_Veery,0.2352493,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.20982431,16.0,19.0
+Catharus fuscescens_Veery,0.6291138,17.0,20.0
+Catharus fuscescens_Veery,0.5378802,18.0,21.0
+Catharus fuscescens_Veery,0.9109506,19.0,22.0
+Catharus fuscescens_Veery,0.65334576,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.1395359,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9718542,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9528637,22.0,25.0
+Catharus fuscescens_Veery,0.27685124,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9601633,23.0,26.0
+Catharus fuscescens_Veery,0.25787657,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.18705048,24.0,27.0
+Catharus fuscescens_Veery,0.33621788,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.10325415,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.110241175,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.9812368,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.9750915,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.9921091,29.0,32.0
+Catharus fuscescens_Veery,0.98084337,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91234875,31.0,34.0
+Catharus fuscescens_Veery,0.6809542,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.87375325,32.0,35.0
+Catharus fuscescens_Veery,0.73827684,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9368417,33.0,36.0
+Catharus fuscescens_Veery,0.52579725,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2028616,34.0,37.0
+Catharus fuscescens_Veery,0.16408351,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.36970997,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.62135446,36.0,39.0
+Catharus fuscescens_Veery,0.50408673,37.0,40.0
+Catharus fuscescens_Veery,0.9693569,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.10530448,38.0,41.0
+Catharus fuscescens_Veery,0.9282124,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.27128354,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1284671,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123498514,40.0,43.0
+Catharus fuscescens_Veery,0.94197375,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.19016355,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.161342,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.948869,42.0,45.0
+Catharus fuscescens_Veery,0.4217357,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9555379,43.0,46.0
+Catharus fuscescens_Veery,0.5302257,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.99396425,44.0,47.0
+Catharus fuscescens_Veery,0.6880435,45.0,48.0
+Catharus fuscescens_Veery,0.9233128,46.0,49.0
+Catharus fuscescens_Veery,0.94011545,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.12120766,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28691077,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.24700637,48.0,51.0
+Catharus fuscescens_Veery,0.57437164,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21814638,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.18790428,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9115648,50.0,53.0
+Catharus fuscescens_Veery,0.19921641,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8441526,51.0,54.0
+Catharus fuscescens_Veery,0.19711302,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91373986,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.2506828,52.0,55.0
+Catharus fuscescens_Veery,0.5773835,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20036381,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.13523677,53.0,56.0
+Catharus fuscescens_Veery,0.46264383,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10274298,54.0,57.0
+Setophaga magnolia_Magnolia Warbler,0.96288455,55.0,58.0
+Setophaga magnolia_Magnolia Warbler,0.9365527,56.0,59.0
+Setophaga magnolia_Magnolia Warbler,0.8474658,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8756949,58.0,61.0
+Catharus fuscescens_Veery,0.25575897,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8376473,59.0,61.416009070294784
+Catharus fuscescens_Veery,0.13873626,59.0,61.416009070294784

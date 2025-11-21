@@ -1,0 +1,31 @@
+species,score,start_time,end_time
+Larus argentatus_Herring Gull,0.39830354,0.0,3.0
+Larus dominicanus_Kelp Gull,0.17500374,0.0,3.0
+Pardirallus maculatus_Spotted Rail,0.13333914,0.0,3.0
+Larus dominicanus_Kelp Gull,0.2837464,1.0,4.0
+Larus argentatus_Herring Gull,0.20096566,1.0,4.0
+Larus dominicanus_Kelp Gull,0.6587646,2.0,5.0
+Larus argentatus_Herring Gull,0.30121183,2.0,5.0
+Larus argentatus_Herring Gull,0.50750524,3.0,6.0
+Larus dominicanus_Kelp Gull,0.36744103,3.0,6.0
+Larus argentatus_Herring Gull,0.58519334,4.0,7.0
+Larus dominicanus_Kelp Gull,0.26736787,4.0,7.0
+Larus argentatus_Herring Gull,0.30079368,5.0,8.0
+Aramus guarauna_Limpkin,0.27344584,5.0,8.0
+Pardirallus maculatus_Spotted Rail,0.17309777,5.0,8.0
+Larus argentatus_Herring Gull,0.5516643,6.0,9.0
+Larus argentatus_Herring Gull,0.67532533,7.0,10.0
+Larus argentatus_Herring Gull,0.8395058,8.0,11.0
+Larus argentatus_Herring Gull,0.718263,9.0,12.0
+Larus argentatus_Herring Gull,0.6967537,10.0,13.0
+Larus argentatus_Herring Gull,0.6543669,11.0,14.0
+Larus argentatus_Herring Gull,0.13939221,12.0,15.0
+Cariama cristata_Red-legged Seriema,0.117926866,12.0,15.0
+Cepphus grylle_Black Guillemot,0.18562144,14.0,17.0
+Guira guira_Guira Cuckoo,0.12187572,14.0,17.0
+Larus glaucescens_Glaucous-winged Gull,0.24068479,15.0,18.0
+Larus argentatus_Herring Gull,0.2174217,15.0,18.0
+Guira guira_Guira Cuckoo,0.2035623,15.0,18.0
+Cepphus grylle_Black Guillemot,0.123585284,15.0,18.0
+Aramus guarauna_Limpkin,0.12355847,15.0,18.0
+Tachybaptus dominicus_Least Grebe,0.10100438,17.0,20.0

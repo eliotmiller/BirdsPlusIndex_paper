@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.3563575,1.0,4.0
+Setophaga pitiayumi_Tropical Parula,0.19469285,1.0,4.0
+Sporophila falcirostris_Temminck's Seedeater,0.15456189,1.0,4.0
+Setophaga ruticilla_American Redstart,0.8616146,2.0,5.0
+Setophaga ruticilla_American Redstart,0.833568,3.0,6.0
+Setophaga ruticilla_American Redstart,0.7679003,4.0,7.0
+Mniotilta varia_Black-and-white Warbler,0.27843451,5.0,8.0
+Mniotilta varia_Black-and-white Warbler,0.24997371,6.0,9.0
+Euchrepomis callinota_Rufous-rumped Antwren,0.12618516,7.0,10.0
+Myioborus miniatus_Slate-throated Redstart,0.17478226,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13060622,9.0,12.0
+Setophaga ruticilla_American Redstart,0.7010898,15.0,18.0
+Setophaga ruticilla_American Redstart,0.8486031,16.0,19.0
+Setophaga ruticilla_American Redstart,0.7331029,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10190759,20.0,23.0
+Setophaga americana_Northern Parula,0.23027806,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12431345,21.0,24.0
+Setophaga americana_Northern Parula,0.31153223,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.16804646,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.2957156,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.5247035,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17841218,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2350108,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.14525539,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14282706,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.12041143,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.13908187,29.0,32.0
+Setophaga ruticilla_American Redstart,0.16182543,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.12349498,30.0,33.0
+Setophaga ruticilla_American Redstart,0.11542867,31.0,34.0
+Setophaga ruticilla_American Redstart,0.821712,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.11671116,32.0,35.0
+Setophaga ruticilla_American Redstart,0.42295778,33.0,36.0
+Setophaga ruticilla_American Redstart,0.6380516,34.0,37.0
+Setophaga ruticilla_American Redstart,0.32075003,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.22385713,35.0,38.0
+Setophaga ruticilla_American Redstart,0.1711835,36.0,39.0
+Setophaga ruticilla_American Redstart,0.25913316,37.0,40.0
+Setophaga ruticilla_American Redstart,0.31248924,38.0,41.0
+Setophaga americana_Northern Parula,0.17719261,38.0,41.0
+Setophaga ruticilla_American Redstart,0.7277664,39.0,42.0
+Setophaga americana_Northern Parula,0.4531643,39.0,42.0
+Setophaga ruticilla_American Redstart,0.26220417,40.0,43.0
+Setophaga americana_Northern Parula,0.23326026,40.0,43.0
+Setophaga ruticilla_American Redstart,0.22056983,41.0,44.0
+Setophaga americana_Northern Parula,0.11580585,41.0,44.0
+Setophaga americana_Northern Parula,0.36636657,42.0,45.0
+Setophaga ruticilla_American Redstart,0.25947997,42.0,45.0
+Ceratopipra mentalis_Red-capped Manakin,0.107854,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15055202,45.0,48.0
+Baeolophus bicolor_Tufted Titmouse,0.25079274,47.0,50.0
+Baeolophus bicolor_Tufted Titmouse,0.6575325,48.0,51.0
+Baeolophus bicolor_Tufted Titmouse,0.47143242,49.0,52.0
+Baeolophus bicolor_Tufted Titmouse,0.43587762,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.2612419,52.0,55.0
+Setophaga ruticilla_American Redstart,0.11723064,52.0,55.0
+Setophaga americana_Northern Parula,0.114027016,52.0,55.0
+Setophaga ruticilla_American Redstart,0.28080466,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.11321289,53.0,56.0
+Setophaga ruticilla_American Redstart,0.15014648,54.0,57.0
+Setophaga americana_Northern Parula,0.12875909,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3598888,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33925194,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.46008685,57.0,60.0
+Setophaga americana_Northern Parula,0.16216469,59.0,62.0
+Setophaga ruticilla_American Redstart,0.1950975,60.0,63.0
+Setophaga americana_Northern Parula,0.15132329,60.0,63.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.19540443,62.0,65.0
+Parkesia motacilla_Louisiana Waterthrush,0.16889721,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14071581,64.0,66.64802721088435

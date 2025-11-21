@@ -1,0 +1,56 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.37697977,0.0,3.0
+Vireo flavifrons_Yellow-throated Vireo,0.34765005,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.18314795,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.31395376,1.0,4.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.28183067,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.6170124,2.0,5.0
+Vireo philadelphicus_Philadelphia Vireo,0.4853941,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.4889484,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.16656409,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.4304059,4.0,7.0
+Vireo philadelphicus_Philadelphia Vireo,0.30727962,4.0,7.0
+Vireo philadelphicus_Philadelphia Vireo,0.29683706,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.24572906,5.0,8.0
+Vireo philadelphicus_Philadelphia Vireo,0.72785574,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.19255634,6.0,9.0
+Vireo philadelphicus_Philadelphia Vireo,0.5988538,7.0,10.0
+Vireo philadelphicus_Philadelphia Vireo,0.6896011,8.0,11.0
+Vireo philadelphicus_Philadelphia Vireo,0.53834236,10.0,13.0
+Vireo philadelphicus_Philadelphia Vireo,0.53008825,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.25650653,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.67358637,12.0,15.0
+Vireo philadelphicus_Philadelphia Vireo,0.14671311,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.16916068,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.5148493,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.1921824,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.4364601,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.41153392,17.0,20.0
+Vireo philadelphicus_Philadelphia Vireo,0.23687741,17.0,20.0
+Vireo philadelphicus_Philadelphia Vireo,0.16458343,18.0,21.0
+Strix nebulosa_Great Gray Owl,0.19749017,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.19154721,19.0,22.0
+Strix nebulosa_Great Gray Owl,0.25730664,20.0,23.0
+Vireo philadelphicus_Philadelphia Vireo,0.71442586,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.15703492,21.0,24.0
+Vireo philadelphicus_Philadelphia Vireo,0.8147979,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.36824012,22.0,25.0
+Vireo philadelphicus_Philadelphia Vireo,0.608315,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.26738295,23.0,26.0
+Junco hyemalis_Dark-eyed Junco,0.35030693,26.0,29.0
+Troglodytes pacificus_Pacific Wren,0.11413507,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.27873385,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.35192105,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19037059,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.34987032,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34507287,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.13828637,29.0,32.0
+Vireo philadelphicus_Philadelphia Vireo,0.97513133,30.0,33.0
+Vireo philadelphicus_Philadelphia Vireo,0.9938059,31.0,34.0
+Vireo philadelphicus_Philadelphia Vireo,0.97520286,32.0,35.0
+Junco hyemalis_Dark-eyed Junco,0.21956125,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10306069,33.0,36.0
+Junco hyemalis_Dark-eyed Junco,0.71835846,34.0,36.14403628117914
+Myioborus brunniceps_Brown-capped Redstart,0.22959596,34.0,36.14403628117914
+Setophaga caerulescens_Black-throated Blue Warbler,0.21350618,34.0,36.14403628117914
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.11740413,34.0,36.14403628117914

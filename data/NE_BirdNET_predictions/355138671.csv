@@ -1,0 +1,76 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.5125629,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.2257901,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.1591158,1.0,4.0
+Cyanocitta cristata_Blue Jay,0.11161913,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.12210533,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.15110634,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.13360883,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.155622,7.0,10.0
+Buteo lineatus_Red-shouldered Hawk,0.19710924,8.0,11.0
+Buteo lineatus_Red-shouldered Hawk,0.36124384,9.0,12.0
+Leptosittaca branickii_Golden-plumed Parakeet,0.32593337,9.0,12.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.30493656,9.0,12.0
+Falco peregrinus_Peregrine Falcon,0.115452334,9.0,12.0
+Falco peregrinus_Peregrine Falcon,0.5423225,10.0,13.0
+Buteo lineatus_Red-shouldered Hawk,0.14497152,10.0,13.0
+Cyanocitta cristata_Blue Jay,0.11008464,10.0,13.0
+Falco peregrinus_Peregrine Falcon,0.6317331,11.0,14.0
+Falco peregrinus_Peregrine Falcon,0.89881307,12.0,15.0
+Falco peregrinus_Peregrine Falcon,0.93507516,13.0,16.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.1035186,13.0,16.0
+Falco peregrinus_Peregrine Falcon,0.88355285,14.0,17.0
+Falco peregrinus_Peregrine Falcon,0.565913,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.16202745,16.0,19.0
+Buteo lineatus_Red-shouldered Hawk,0.40591544,23.0,26.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16229787,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.12755494,23.0,26.0
+Aramus guarauna_Limpkin,0.260053,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100156344,42.0,45.0
+Empidonax virescens_Acadian Flycatcher,0.18172003,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.105485916,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.1928925,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.15522292,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11120003,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.14980416,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.14006028,45.0,48.0
+Machaeropterus deliciosus_Club-winged Manakin,0.12192973,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.10412475,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.14588857,66.0,69.0
+Dumetella carolinensis_Gray Catbird,0.14451374,67.0,70.0
+Aramus guarauna_Limpkin,0.13224234,68.0,71.0
+Accipiter cooperii_Cooper's Hawk,0.12669852,68.0,71.0
+Falco peregrinus_Peregrine Falcon,0.24264011,73.0,76.0
+Engine_Engine,0.1821113,74.0,77.0
+Falco peregrinus_Peregrine Falcon,0.10402551,74.0,77.0
+Quiscalus mexicanus_Great-tailed Grackle,0.10782401,75.0,78.0
+Cyanocitta cristata_Blue Jay,0.23323445,76.0,79.0
+Cyanocitta cristata_Blue Jay,0.22603561,77.0,80.0
+Cyanocitta cristata_Blue Jay,0.1764561,78.0,81.0
+Cyanocitta cristata_Blue Jay,0.10603985,79.0,82.0
+Dumetella carolinensis_Gray Catbird,0.13875054,81.0,84.0
+Cyanocorax beecheii_Purplish-backed Jay,0.19185363,89.0,92.0
+Aramus guarauna_Limpkin,0.17641245,90.0,93.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.20278737,91.0,94.0
+Cyanocitta cristata_Blue Jay,0.14821717,91.0,94.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.27048808,92.0,95.0
+Corcorax melanorhamphos_White-winged Chough,0.10210574,92.0,95.0
+Buteo lineatus_Red-shouldered Hawk,0.22773015,94.0,97.0
+Gymnorhina tibicen_Australian Magpie,0.11370928,96.0,99.0
+Falcunculus frontatus_Crested Shrike-tit,0.17099638,97.0,100.0
+Gymnorhina tibicen_Australian Magpie,0.16400959,97.0,100.0
+Aix sponsa_Wood Duck,0.14396548,99.0,102.0
+Geranoaetus albicaudatus_White-tailed Hawk,0.11948585,104.0,107.0
+Corcorax melanorhamphos_White-winged Chough,0.11516592,105.0,108.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.17696661,106.0,109.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.22524203,107.0,110.0
+Buteo lineatus_Red-shouldered Hawk,0.39050987,108.0,111.0
+Buteo lineatus_Red-shouldered Hawk,0.32551357,110.0,113.0
+Buteo lineatus_Red-shouldered Hawk,0.21222079,119.0,122.0
+Buteo lineatus_Red-shouldered Hawk,0.38293865,120.0,123.0
+Buteo lineatus_Red-shouldered Hawk,0.196554,121.0,124.0
+Buteo lineatus_Red-shouldered Hawk,0.39350578,124.0,127.0
+Cyanocitta cristata_Blue Jay,0.31448582,125.0,128.0
+Buteo lineatus_Red-shouldered Hawk,0.11983655,125.0,128.0
+Engine_Engine,0.15560995,132.0,135.0
+Buteo lineatus_Red-shouldered Hawk,0.12844661,132.0,135.0

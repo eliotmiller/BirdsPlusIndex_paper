@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Spizella pallida_Clay-colored Sparrow,0.85715145,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.9461274,2.0,5.0
+Spizella pallida_Clay-colored Sparrow,0.7600586,3.0,6.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.13397887,3.0,6.0
+Spizella pallida_Clay-colored Sparrow,0.8086598,4.0,7.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11632715,4.0,7.0
+Pooecetes gramineus_Vesper Sparrow,0.10908691,10.0,13.0
+Centronyx henslowii_Henslow's Sparrow,0.12800075,13.0,16.0
+Amphispiza bilineata_Black-throated Sparrow,0.10123988,17.0,20.0
+Pooecetes gramineus_Vesper Sparrow,0.44139966,18.0,21.0
+Chaetura pelagica_Chimney Swift,0.106173255,23.0,26.0
+Melospiza melodia_Song Sparrow,0.2336568,29.0,32.0
+Empidonax traillii_Willow Flycatcher,0.12953301,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31884754,37.0,40.0
+Spizella pallida_Clay-colored Sparrow,0.34082726,38.0,41.0
+Spizella pallida_Clay-colored Sparrow,0.24708946,39.0,42.0
+Spizella pallida_Clay-colored Sparrow,0.60964316,40.0,43.0
+Spizella pallida_Clay-colored Sparrow,0.118852146,51.0,54.0
+Polioptila nigriceps_Black-capped Gnatcatcher,0.10899019,51.0,54.0
+Spizella pallida_Clay-colored Sparrow,0.90828186,52.0,55.0
+Spizella pallida_Clay-colored Sparrow,0.901809,53.0,56.0
+Spizella pallida_Clay-colored Sparrow,0.9932882,54.0,57.0
+Dumetella carolinensis_Gray Catbird,0.13181825,56.0,59.0
+Loxia leucoptera_White-winged Crossbill,0.100658,64.0,67.0
+Acanthis flammea_Common Redpoll,0.10375443,65.0,68.0
+Acanthis flammea_Common Redpoll,0.28686714,66.0,69.0
+Spizella pallida_Clay-colored Sparrow,0.27985853,67.0,70.0
+Spizella pallida_Clay-colored Sparrow,0.75386506,68.0,71.0
+Vermivora chrysoptera_Golden-winged Warbler,0.16380793,68.0,71.0
+Spizella pallida_Clay-colored Sparrow,0.42475703,69.0,72.0
+Spizella pallida_Clay-colored Sparrow,0.26991922,70.0,73.0
+Vermivora chrysoptera_Golden-winged Warbler,0.23788847,70.0,73.0
+Centronyx henslowii_Henslow's Sparrow,0.26420492,73.0,76.0
+Spizella pallida_Clay-colored Sparrow,0.11100368,73.0,76.0
+Spizella pallida_Clay-colored Sparrow,0.13373257,75.0,78.0
+Spizella pallida_Clay-colored Sparrow,0.6736148,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5909861,76.0,79.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.14014412,76.0,79.0
+Spizella pallida_Clay-colored Sparrow,0.7439612,77.0,80.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.37117887,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13007317,77.0,80.0
+Spizella pallida_Clay-colored Sparrow,0.8577943,78.0,81.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.14492884,78.0,81.0
+Spizella pallida_Clay-colored Sparrow,0.7665214,79.0,82.0
+Spizella passerina_Chipping Sparrow,0.134482,79.0,82.0
+Pipilo chlorurus_Green-tailed Towhee,0.11554236,79.0,82.0
+Spizella pallida_Clay-colored Sparrow,0.49972823,83.0,86.0
+Haemorhous cassinii_Cassin's Finch,0.11180648,83.0,86.0
+Spizella pallida_Clay-colored Sparrow,0.81059253,84.0,87.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.5697627,84.0,87.0
+Spizella breweri_Brewer's Sparrow,0.11185472,84.0,87.0
+Spizella pallida_Clay-colored Sparrow,0.9649407,85.0,88.0
+Locustella tacsanowskia_Chinese Bush Warbler,0.16209601,85.0,88.0
+Spizella pallida_Clay-colored Sparrow,0.9501017,86.0,89.0
+Spizella pallida_Clay-colored Sparrow,0.93732524,87.0,90.0
+Vermivora chrysoptera_Golden-winged Warbler,0.15950722,88.0,91.0
+Vermivora chrysoptera_Golden-winged Warbler,0.17998992,90.0,93.0
+Vermivora chrysoptera_Golden-winged Warbler,0.21004552,91.0,94.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11000761,91.0,94.0
+Spizella pusilla_Field Sparrow,0.10367536,91.0,94.0
+Spizella pallida_Clay-colored Sparrow,0.5310209,92.0,95.0
+Vermivora chrysoptera_Golden-winged Warbler,0.3841849,92.0,95.0
+Vermivora cyanoptera_Blue-winged Warbler,0.17660446,92.0,95.0
+Spizella pallida_Clay-colored Sparrow,0.7259215,93.0,96.0
+Spizella pallida_Clay-colored Sparrow,0.81454754,94.0,97.0
+Spizella pallida_Clay-colored Sparrow,0.8020639,95.0,98.0
+Spizella passerina_Chipping Sparrow,0.15951169,95.0,98.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15593226,95.0,98.0
+Spizella pallida_Clay-colored Sparrow,0.26664674,96.0,99.0
+Vermivora chrysoptera_Golden-winged Warbler,0.20870565,96.0,99.0
+Spizella pusilla_Field Sparrow,0.14994931,96.0,99.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13942249,96.0,99.0
+Vermivora chrysoptera_Golden-winged Warbler,0.18597546,97.0,100.0
+Vermivora chrysoptera_Golden-winged Warbler,0.20625478,98.0,101.0
+Bombycilla cedrorum_Cedar Waxwing,0.104804195,98.0,101.0
+Spizella pallida_Clay-colored Sparrow,0.10657914,99.0,102.0
+Spizella pusilla_Field Sparrow,0.1933456,101.0,104.0
+Vermivora chrysoptera_Golden-winged Warbler,0.114068046,101.0,104.0
+Spinus tristis_American Goldfinch,0.20349324,102.0,105.0
+Spinus tristis_American Goldfinch,0.25099343,103.0,106.0
+Spinus tristis_American Goldfinch,0.51231074,104.0,107.0
+Spinus tristis_American Goldfinch,0.60148585,105.0,108.0
+Spinus tristis_American Goldfinch,0.3949882,106.0,109.0
+Acanthis flammea_Common Redpoll,0.37453267,106.0,109.0
+Spinus tristis_American Goldfinch,0.20048925,107.0,110.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11255165,109.0,112.0
