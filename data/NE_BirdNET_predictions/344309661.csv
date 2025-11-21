@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.6267581,0.0,3.0
+Cardinalis cardinalis_Northern Cardinal,0.11063033,0.0,3.0
+Setophaga ruticilla_American Redstart,0.63489795,1.0,4.0
+Setophaga ruticilla_American Redstart,0.13743311,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.51835275,3.0,6.0
+Setophaga tigrina_Cape May Warbler,0.2724716,3.0,6.0
+Setophaga castanea_Bay-breasted Warbler,0.16233304,3.0,6.0
+Setophaga ruticilla_American Redstart,0.15173833,3.0,6.0
+Empidonax minimus_Least Flycatcher,0.12913588,4.0,7.0
+Antrostomus carolinensis_Chuck-will's-widow,0.11944557,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.1329078,11.0,14.0
+Empidonax minimus_Least Flycatcher,0.11166313,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.3609559,18.0,21.0
+Mniotilta varia_Black-and-white Warbler,0.16775446,18.0,21.0
+Setophaga castanea_Bay-breasted Warbler,0.58873904,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.2377292,19.0,22.0
+Setophaga tigrina_Cape May Warbler,0.21557775,19.0,22.0
+Setophaga castanea_Bay-breasted Warbler,0.44062683,20.0,23.0
+Setophaga ruticilla_American Redstart,0.22892947,20.0,23.0
+Setophaga tigrina_Cape May Warbler,0.17878094,20.0,23.0
+Setophaga ruticilla_American Redstart,0.17775996,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.1742459,21.0,24.0
+Setophaga castanea_Bay-breasted Warbler,0.1165808,21.0,24.0
+Setophaga tigrina_Cape May Warbler,0.108279414,21.0,24.0
+Cardinalis cardinalis_Northern Cardinal,0.1505697,24.0,27.0
+Cardinalis cardinalis_Northern Cardinal,0.17022125,25.0,28.0
+Setophaga castanea_Bay-breasted Warbler,0.21812928,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.18145005,26.0,29.0
+Setophaga tigrina_Cape May Warbler,0.16809748,26.0,29.0
+Setophaga castanea_Bay-breasted Warbler,0.22430967,27.0,30.0
+Setophaga castanea_Bay-breasted Warbler,0.41533232,28.0,31.0
+Setophaga tigrina_Cape May Warbler,0.12462917,28.0,31.0
+Cardinalis cardinalis_Northern Cardinal,0.16341725,31.0,34.0
+Cardinalis cardinalis_Northern Cardinal,0.39530018,32.0,35.0
+Cardinalis cardinalis_Northern Cardinal,0.79539174,33.0,36.0
+Cardinalis cardinalis_Northern Cardinal,0.49581495,34.0,37.0
+Cardinalis cardinalis_Northern Cardinal,0.2928057,35.0,38.0
+Cardinalis cardinalis_Northern Cardinal,0.16055126,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.33719733,37.0,40.0
+Setophaga castanea_Bay-breasted Warbler,0.8294172,38.0,41.0
+Setophaga castanea_Bay-breasted Warbler,0.96340287,39.0,42.0
+Setophaga castanea_Bay-breasted Warbler,0.7683152,40.0,43.0
+Setophaga ruticilla_American Redstart,0.32386923,44.0,47.0
+Setophaga tigrina_Cape May Warbler,0.14501455,44.0,47.0
+Setophaga castanea_Bay-breasted Warbler,0.19668424,45.0,48.0
+Setophaga ruticilla_American Redstart,0.14588886,45.0,48.0
+Setophaga castanea_Bay-breasted Warbler,0.40877184,46.0,49.0
+Setophaga ruticilla_American Redstart,0.18850848,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.18995522,47.0,50.0
+Setophaga castanea_Bay-breasted Warbler,0.14787114,47.0,50.0
+Poecile atricapillus_Black-capped Chickadee,0.17903517,48.0,51.0
+Cardinalis cardinalis_Northern Cardinal,0.10945858,48.0,51.0
+Poecile atricapillus_Black-capped Chickadee,0.1671848,49.0,52.0
+Poecile atricapillus_Black-capped Chickadee,0.13656807,50.0,53.0
+Cardinalis cardinalis_Northern Cardinal,0.25331002,52.0,55.0
+Cardinalis cardinalis_Northern Cardinal,0.18387857,53.0,56.0
+Setophaga castanea_Bay-breasted Warbler,0.31617823,54.0,57.0
+Setophaga ruticilla_American Redstart,0.13769253,54.0,57.0
+Setophaga castanea_Bay-breasted Warbler,0.44311926,55.0,58.0
+Setophaga ruticilla_American Redstart,0.16052091,55.0,58.0
+Setophaga castanea_Bay-breasted Warbler,0.15635663,56.0,59.0
+Setophaga ruticilla_American Redstart,0.13290904,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.69545865,57.0,60.0
+Asemospiza fuliginosa_Sooty Grassquit,0.27332258,57.0,60.0
+Empidonax minimus_Least Flycatcher,0.13971274,61.0,64.0
+Empidonax minimus_Least Flycatcher,0.13990225,63.0,66.0
+Empidonax minimus_Least Flycatcher,0.13587473,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113789655,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15766324,65.0,68.0
+Empidonax minimus_Least Flycatcher,0.12827086,65.0,68.0
+Empidonax minimus_Least Flycatcher,0.1617535,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15083529,66.0,69.0
+Setophaga ruticilla_American Redstart,0.17984422,67.0,70.0
+Setophaga castanea_Bay-breasted Warbler,0.17819116,67.0,70.0
+Setophaga castanea_Bay-breasted Warbler,0.10140034,68.0,71.0
+Setophaga castanea_Bay-breasted Warbler,0.289607,69.0,71.20802721088435

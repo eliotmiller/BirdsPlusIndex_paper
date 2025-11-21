@@ -1,0 +1,142 @@
+species,score,start_time,end_time
+Myiarchus crinitus_Great Crested Flycatcher,0.2028058,0.0,3.0
+Dendrocolaptes platyrostris_Planalto Woodcreeper,0.1996737,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.3818065,1.0,4.0
+Setophaga castanea_Bay-breasted Warbler,0.17982131,1.0,4.0
+Dendrocolaptes platyrostris_Planalto Woodcreeper,0.16435848,1.0,4.0
+Setophaga ruticilla_American Redstart,0.1056537,2.0,5.0
+Setophaga ruticilla_American Redstart,0.3530779,3.0,6.0
+Setophaga ruticilla_American Redstart,0.23119122,4.0,7.0
+Setophaga americana_Northern Parula,0.1931346,5.0,8.0
+Setophaga ruticilla_American Redstart,0.16612785,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.222892,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.14038229,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.20075074,7.0,10.0
+Spizella passerina_Chipping Sparrow,0.15825482,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.17244692,9.0,12.0
+Setophaga ruticilla_American Redstart,0.6334723,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.1035502,11.0,14.0
+Setophaga ruticilla_American Redstart,0.8431493,12.0,15.0
+Setophaga ruticilla_American Redstart,0.8578922,13.0,16.0
+Setophaga ruticilla_American Redstart,0.17883047,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17433074,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.12561212,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.11766223,14.0,17.0
+Setophaga americana_Northern Parula,0.10465104,14.0,17.0
+Myiarchus crinitus_Great Crested Flycatcher,0.51055485,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7668912,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7291835,17.0,20.0
+Setophaga americana_Northern Parula,0.34513697,18.0,21.0
+Myiarchus crinitus_Great Crested Flycatcher,0.18964127,18.0,21.0
+Setophaga americana_Northern Parula,0.2741723,19.0,22.0
+Setophaga ruticilla_American Redstart,0.12875739,20.0,23.0
+Setophaga ruticilla_American Redstart,0.24514389,21.0,24.0
+Setophaga americana_Northern Parula,0.15729423,21.0,24.0
+Turdus migratorius_American Robin,0.26728743,23.0,26.0
+Setophaga americana_Northern Parula,0.29834422,24.0,27.0
+Vermivora cyanoptera_Blue-winged Warbler,0.121012785,24.0,27.0
+Setophaga americana_Northern Parula,0.28039563,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13140194,25.0,28.0
+Spizella passerina_Chipping Sparrow,0.122589365,25.0,28.0
+Spizella passerina_Chipping Sparrow,0.33096018,26.0,29.0
+Mniotilta varia_Black-and-white Warbler,0.2529887,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10833278,27.0,30.0
+Setophaga ruticilla_American Redstart,0.19009109,28.0,31.0
+Setophaga castanea_Bay-breasted Warbler,0.123919465,28.0,31.0
+Setophaga ruticilla_American Redstart,0.5761766,29.0,32.0
+Setophaga castanea_Bay-breasted Warbler,0.16869237,29.0,32.0
+Setophaga ruticilla_American Redstart,0.39374122,30.0,33.0
+Setophaga castanea_Bay-breasted Warbler,0.10206476,30.0,33.0
+Setophaga pitiayumi_Tropical Parula,0.17674164,32.0,35.0
+Setophaga ruticilla_American Redstart,0.3308042,33.0,36.0
+Setophaga ruticilla_American Redstart,0.4487626,34.0,37.0
+Setophaga ruticilla_American Redstart,0.33290645,35.0,38.0
+Setophaga americana_Northern Parula,0.25345802,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12141701,35.0,38.0
+Myiarchus crinitus_Great Crested Flycatcher,0.78684247,36.0,39.0
+Mniotilta varia_Black-and-white Warbler,0.6679754,37.0,40.0
+Setophaga ruticilla_American Redstart,0.29125154,37.0,40.0
+Setophaga castanea_Bay-breasted Warbler,0.17465644,37.0,40.0
+Mniotilta varia_Black-and-white Warbler,0.34102643,38.0,41.0
+Setophaga castanea_Bay-breasted Warbler,0.24135114,38.0,41.0
+Setophaga castanea_Bay-breasted Warbler,0.40538102,39.0,42.0
+Setophaga ruticilla_American Redstart,0.35134706,39.0,42.0
+Mniotilta varia_Black-and-white Warbler,0.17440149,39.0,42.0
+Setophaga ruticilla_American Redstart,0.26491007,40.0,43.0
+Setophaga castanea_Bay-breasted Warbler,0.22072561,40.0,43.0
+Mniotilta varia_Black-and-white Warbler,0.16639493,40.0,43.0
+Setophaga tigrina_Cape May Warbler,0.15635802,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.23356321,41.0,44.0
+Setophaga ruticilla_American Redstart,0.15696648,41.0,44.0
+Setophaga tigrina_Cape May Warbler,0.10112173,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.3549063,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.25378177,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.7665941,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.16428123,43.0,46.0
+Setophaga americana_Northern Parula,0.11901682,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.11681759,43.0,46.0
+Setophaga americana_Northern Parula,0.51016796,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16886638,44.0,47.0
+Vireo solitarius_Blue-headed Vireo,0.15020707,44.0,47.0
+Setophaga ruticilla_American Redstart,0.26011035,45.0,48.0
+Setophaga americana_Northern Parula,0.10865803,45.0,48.0
+Setophaga ruticilla_American Redstart,0.36250758,46.0,49.0
+Setophaga ruticilla_American Redstart,0.52662164,47.0,50.0
+Setophaga ruticilla_American Redstart,0.199408,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116337456,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.106978275,49.0,52.0
+Myiarchus crinitus_Great Crested Flycatcher,0.34221086,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.11832007,50.0,53.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3399786,51.0,54.0
+Myiarchus crinitus_Great Crested Flycatcher,0.15639758,52.0,55.0
+Setophaga pitiayumi_Tropical Parula,0.18398963,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.121917404,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.20810027,55.0,58.0
+Myiarchus crinitus_Great Crested Flycatcher,0.123716384,59.0,62.0
+Setophaga ruticilla_American Redstart,0.17238136,60.0,63.0
+Setophaga americana_Northern Parula,0.13312721,60.0,63.0
+Setophaga ruticilla_American Redstart,0.19291748,61.0,64.0
+Setophaga ruticilla_American Redstart,0.5112868,62.0,65.0
+Setophaga ruticilla_American Redstart,0.41607368,63.0,66.0
+Setophaga castanea_Bay-breasted Warbler,0.14634003,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10337671,63.0,66.0
+Setophaga ruticilla_American Redstart,0.10939914,64.0,67.0
+Setophaga castanea_Bay-breasted Warbler,0.10000747,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.19271336,65.0,68.0
+Setophaga ruticilla_American Redstart,0.1764244,65.0,68.0
+Setophaga tigrina_Cape May Warbler,0.12155838,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30802712,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2803651,67.0,70.0
+Setophaga ruticilla_American Redstart,0.1038611,67.0,70.0
+Myiarchus crinitus_Great Crested Flycatcher,0.31120744,68.0,71.0
+Myiarchus crinitus_Great Crested Flycatcher,0.14811207,69.0,72.0
+Piranga olivacea_Scarlet Tanager,0.1007971,69.0,72.0
+Setophaga ruticilla_American Redstart,0.16953179,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.1160483,70.0,73.0
+Setophaga ruticilla_American Redstart,0.13075833,71.0,74.0
+Setophaga ruticilla_American Redstart,0.14121939,73.0,76.0
+Setophaga ruticilla_American Redstart,0.19851463,74.0,77.0
+Setophaga ruticilla_American Redstart,0.18397188,75.0,78.0
+Setophaga ruticilla_American Redstart,0.16175354,76.0,79.0
+Setophaga tigrina_Cape May Warbler,0.14470142,76.0,79.0
+Setophaga americana_Northern Parula,0.31606945,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16028129,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.13774142,78.0,81.0
+Piranga olivacea_Scarlet Tanager,0.16440924,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12957916,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20528816,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.19168778,80.0,83.0
+Vireo flavifrons_Yellow-throated Vireo,0.21443285,81.0,84.0
+Piranga olivacea_Scarlet Tanager,0.124129966,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117079675,81.0,84.0
+Setophaga ruticilla_American Redstart,0.2874356,82.0,85.0
+Mniotilta varia_Black-and-white Warbler,0.23342101,82.0,85.0
+Setophaga ruticilla_American Redstart,0.38380387,83.0,86.0
+Mniotilta varia_Black-and-white Warbler,0.23429745,83.0,86.0
+Setophaga ruticilla_American Redstart,0.3733291,84.0,87.0
+Setophaga castanea_Bay-breasted Warbler,0.23292133,84.0,87.0
+Mniotilta varia_Black-and-white Warbler,0.2167903,84.0,87.0
+Setophaga ruticilla_American Redstart,0.405608,85.0,88.0
+Setophaga castanea_Bay-breasted Warbler,0.16332465,85.0,88.0
+Setophaga ruticilla_American Redstart,0.35316023,88.0,91.0
+Setophaga ruticilla_American Redstart,0.35538217,89.0,91.17600907029478

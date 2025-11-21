@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.7102197,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.52702373,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8951256,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.3649319,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.95413804,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.71662563,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.56766266,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.23530278,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.81609833,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.52423114,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.8090363,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29076883,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8623663,7.0,10.0
+Junco hyemalis_Dark-eyed Junco,0.7274704,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.93832123,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.563673,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.935784,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.28839308,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6852119,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.11489106,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.9301869,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.901105,11.0,14.0
+Junco hyemalis_Dark-eyed Junco,0.97781974,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94788426,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.88859457,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.6953375,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8017364,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.22952937,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.64168155,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.21523964,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34661445,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.12641154,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.83983225,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.40578327,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9364394,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.76909333,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.91490227,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.8320927,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9239127,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.89706707,20.0,23.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10490068,20.0,23.0
+Melospiza lincolnii_Lincoln's Sparrow,0.101451114,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.92238414,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.86656874,21.0,24.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1070388,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.9643708,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9432363,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.88635826,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8474984,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.11092018,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9088791,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.8986151,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5920425,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.28302482,25.0,28.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10292511,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4723625,26.0,29.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10905411,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10536618,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.12647846,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.12681672,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.1092869,31.0,34.0

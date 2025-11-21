@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Empidonax alnorum_Alder Flycatcher,0.97884756,0.0,3.0
+Empidonax alnorum_Alder Flycatcher,0.9364473,1.0,4.0
+Melospiza melodia_Song Sparrow,0.28766182,2.0,5.0
+Melospiza melodia_Song Sparrow,0.21172623,3.0,6.0
+Empidonax alnorum_Alder Flycatcher,0.14125015,5.0,8.0
+Empidonax alnorum_Alder Flycatcher,0.18076415,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.103857554,6.0,9.0
+Empidonax alnorum_Alder Flycatcher,0.9797916,7.0,10.0
+Empidonax alnorum_Alder Flycatcher,0.99547416,8.0,11.0
+Empidonax alnorum_Alder Flycatcher,0.9950212,9.0,12.0
+Empidonax alnorum_Alder Flycatcher,0.11765997,10.0,13.0
+Empidonax alnorum_Alder Flycatcher,0.7069843,11.0,14.0
+Empidonax alnorum_Alder Flycatcher,0.9133446,12.0,15.0
+Empidonax alnorum_Alder Flycatcher,0.65689313,13.0,16.0
+Empidonax alnorum_Alder Flycatcher,0.9937317,14.0,17.0
+Empidonax alnorum_Alder Flycatcher,0.99747014,15.0,18.0
+Empidonax alnorum_Alder Flycatcher,0.9953849,16.0,19.0
+Empidonax alnorum_Alder Flycatcher,0.9812229,17.0,20.0
+Empidonax alnorum_Alder Flycatcher,0.94924897,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.20849931,18.0,21.0
+Empidonax alnorum_Alder Flycatcher,0.68299854,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.29620877,20.0,23.0
+Dumetella carolinensis_Gray Catbird,0.1823858,21.0,24.0
+Melospiza melodia_Song Sparrow,0.30683464,23.0,26.0
+Melospiza melodia_Song Sparrow,0.5811771,24.0,27.0
+Melospiza melodia_Song Sparrow,0.24896742,25.0,28.0
+Bombycilla cedrorum_Cedar Waxwing,0.1459869,25.0,28.0
+Melospiza melodia_Song Sparrow,0.24949846,26.0,29.0
+Quiscalus quiscula_Common Grackle,0.25057426,27.0,30.0
+Quiscalus quiscula_Common Grackle,0.7469164,28.0,31.0
+Quiscalus quiscula_Common Grackle,0.2749932,29.0,32.0
+Empidonax alnorum_Alder Flycatcher,0.120979495,30.0,33.0
+Empidonax alnorum_Alder Flycatcher,0.35504287,31.0,34.0
+Melospiza georgiana_Swamp Sparrow,0.10100875,31.0,34.0
+Empidonax alnorum_Alder Flycatcher,0.12286912,32.0,35.0
+Melospiza georgiana_Swamp Sparrow,0.11322769,32.0,35.0
+Quiscalus quiscula_Common Grackle,0.5902453,35.0,38.0
+Quiscalus quiscula_Common Grackle,0.86955523,36.0,39.0
+Quiscalus quiscula_Common Grackle,0.79989845,37.0,40.0
+Melospiza melodia_Song Sparrow,0.11074423,38.0,41.0
+Acrocephalus palustris_Marsh Warbler,0.26220787,40.0,43.0
+Melospiza melodia_Song Sparrow,0.42377517,42.0,45.0
+Melospiza melodia_Song Sparrow,0.7457636,43.0,46.0
+Melospiza melodia_Song Sparrow,0.52849185,44.0,47.0
+Empidonax alnorum_Alder Flycatcher,0.88273597,45.0,48.0
+Empidonax alnorum_Alder Flycatcher,0.76163006,46.0,49.0
+Empidonax alnorum_Alder Flycatcher,0.52479565,47.0,50.0
+Empidonax alnorum_Alder Flycatcher,0.102852836,50.0,53.0
+Empidonax alnorum_Alder Flycatcher,0.9096125,51.0,54.0
+Myiarchus crinitus_Great Crested Flycatcher,0.24072358,55.0,58.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13056985,57.0,60.0
+Empidonax alnorum_Alder Flycatcher,0.9033385,58.0,61.0
+Empidonax alnorum_Alder Flycatcher,0.8715418,59.0,62.0
+Empidonax alnorum_Alder Flycatcher,0.21559517,60.0,63.0
+Dumetella carolinensis_Gray Catbird,0.15443684,60.0,63.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3660883,62.0,65.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3421096,63.0,66.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3066949,64.0,67.0
+Peucaea aestivalis_Bachman's Sparrow,0.5862438,65.0,68.0
+Peucaea aestivalis_Bachman's Sparrow,0.33648148,66.0,69.0
+Myiarchus crinitus_Great Crested Flycatcher,0.12046101,66.0,69.0
+Melospiza georgiana_Swamp Sparrow,0.10099439,67.0,70.0
+Myiarchus crinitus_Great Crested Flycatcher,0.24615644,68.0,71.0
+Empidonax alnorum_Alder Flycatcher,0.9580129,69.0,72.0
+Empidonax alnorum_Alder Flycatcher,0.9487803,70.0,73.0
+Empidonax alnorum_Alder Flycatcher,0.9777899,71.0,73.77600907029479

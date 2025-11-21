@@ -1,0 +1,39 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.36864117,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.16115047,0.0,3.0
+Cardinalis cardinalis_Northern Cardinal,0.1741623,2.0,5.0
+Pandion haliaetus_Osprey,0.4432237,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.15481742,5.0,8.0
+Pandion haliaetus_Osprey,0.76730347,6.0,9.0
+Haliaeetus leucocephalus_Bald Eagle,0.49571487,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.24718247,6.0,9.0
+Pandion haliaetus_Osprey,0.36564004,7.0,10.0
+Haliaeetus leucocephalus_Bald Eagle,0.2948031,7.0,10.0
+Buteo jamaicensis_Red-tailed Hawk,0.10724033,7.0,10.0
+Haliaeetus leucocephalus_Bald Eagle,0.24381842,8.0,11.0
+Cardinalis cardinalis_Northern Cardinal,0.14743346,11.0,14.0
+Cardinalis cardinalis_Northern Cardinal,0.17216937,12.0,15.0
+Cardinalis cardinalis_Northern Cardinal,0.17467429,13.0,16.0
+Cardinalis cardinalis_Northern Cardinal,0.29290113,14.0,17.0
+Cardinalis cardinalis_Northern Cardinal,0.31669137,15.0,18.0
+Cardinalis cardinalis_Northern Cardinal,0.36856186,16.0,19.0
+Pandion haliaetus_Osprey,0.17939162,17.0,20.0
+Numenius phaeopus_Whimbrel,0.10231761,17.0,20.0
+Pandion haliaetus_Osprey,0.9895285,18.0,21.0
+Pandion haliaetus_Osprey,0.99853885,19.0,22.0
+Pandion haliaetus_Osprey,0.999841,20.0,23.0
+Elanoides forficatus_Swallow-tailed Kite,0.14214788,20.0,23.0
+Pandion haliaetus_Osprey,0.9997906,21.0,24.0
+Elanoides forficatus_Swallow-tailed Kite,0.17558943,21.0,24.0
+Pandion haliaetus_Osprey,0.9868407,22.0,25.0
+Elanoides forficatus_Swallow-tailed Kite,0.60249513,22.0,25.0
+Butorides virescens_Green Heron,0.1662494,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.1332627,24.0,27.0
+Cardinalis cardinalis_Northern Cardinal,0.11735562,25.0,28.0
+Cardinalis cardinalis_Northern Cardinal,0.27329955,26.0,29.0
+Baeolophus bicolor_Tufted Titmouse,0.11155453,27.0,30.0
+Butorides virescens_Green Heron,0.14026152,28.0,31.0
+Pandion haliaetus_Osprey,0.12623166,28.0,31.0
+Pandion haliaetus_Osprey,0.36260697,29.0,32.0
+Butorides virescens_Green Heron,0.2839292,29.0,32.0
+Leucophaeus atricilla_Laughing Gull,0.16644806,30.0,33.0

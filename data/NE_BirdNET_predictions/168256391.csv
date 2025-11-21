@@ -1,0 +1,43 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.9188528,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.24524187,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.48308244,1.0,4.0
+Drepanis coccinea_Iiwi,0.1030894,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.34285313,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.33381605,6.0,9.0
+Otus scops_Eurasian Scops-Owl,0.19902705,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.98787445,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.9770477,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.9039811,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.4340199,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.17793691,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.5132509,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.4575102,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.14387383,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.22693719,16.0,19.0
+Catharus bicknelli_Bicknell's Thrush,0.1601448,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.9009096,18.0,21.0
+Elachura formosa_Spotted Elachura,0.107178025,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.980185,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.97067124,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.85031307,21.0,24.0
+Phyllergates cucullatus_Mountain Tailorbird,0.12092372,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.6519393,23.0,26.0
+Setophaga discolor_Prairie Warbler,0.2684952,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.52533036,24.0,27.0
+Setophaga discolor_Prairie Warbler,0.21426626,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.82532495,25.0,28.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.13859038,26.0,29.0
+Rallus aquaticus_Water Rail,0.13315913,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.6186476,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.18050261,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.75190604,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.15244083,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.5915181,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.56533825,30.0,33.0
+Myophonus horsfieldii_Malabar Whistling-Thrush,0.17976737,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.7769046,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.9361721,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.73596054,36.0,39.0
+Human non-vocal_Human non-vocal,0.18228617,38.0,40.99201814058957
+Power tools_Power tools,0.12596615,38.0,40.99201814058957

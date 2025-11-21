@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.6174383,0.0,3.0
+Setophaga ruticilla_American Redstart,0.23551513,1.0,4.0
+Catharus fuscescens_Veery,0.84862334,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23307078,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.10242508,2.0,5.0
+Catharus fuscescens_Veery,0.9885666,3.0,6.0
+Catharus fuscescens_Veery,0.99902105,4.0,7.0
+Catharus fuscescens_Veery,0.9988243,5.0,8.0
+Catharus fuscescens_Veery,0.9855144,6.0,9.0
+Setophaga ruticilla_American Redstart,0.4636946,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.10913543,7.0,10.0
+Catharus fuscescens_Veery,0.38004124,8.0,11.0
+Icterus galbula_Baltimore Oriole,0.6514291,9.0,12.0
+Catharus fuscescens_Veery,0.578063,9.0,12.0
+Protonotaria citrea_Prothonotary Warbler,0.20406199,10.0,13.0
+Catharus fuscescens_Veery,0.1441373,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.12947567,10.0,13.0
+Setophaga ruticilla_American Redstart,0.12409714,10.0,13.0
+Catharus fuscescens_Veery,0.8012463,12.0,15.0
+Catharus fuscescens_Veery,0.88561845,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.12551773,13.0,16.0
+Icterus galbula_Baltimore Oriole,0.10594533,13.0,16.0
+Catharus fuscescens_Veery,0.9990338,14.0,17.0
+Catharus fuscescens_Veery,0.99689025,15.0,18.0
+Catharus fuscescens_Veery,0.9887156,16.0,19.0
+Catharus fuscescens_Veery,0.9921354,17.0,20.0
+Setophaga ruticilla_American Redstart,0.2999417,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.26487356,18.0,21.0
+Setophaga ruticilla_American Redstart,0.36584002,19.0,22.0
+Catharus fuscescens_Veery,0.35229734,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12119234,20.0,23.0
+Catharus fuscescens_Veery,0.92048925,21.0,24.0
+Catharus fuscescens_Veery,0.9994097,22.0,25.0
+Catharus fuscescens_Veery,0.99756587,23.0,26.0
+Catharus fuscescens_Veery,0.79450214,24.0,27.0
+Catharus ustulatus_Swainson's Thrush,0.13563836,24.0,27.0
+Catharus fuscescens_Veery,0.44059482,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12830727,25.0,28.0
+Cardinalis cardinalis_Northern Cardinal,0.108234785,25.0,28.0
+Catharus fuscescens_Veery,0.99373204,26.0,29.0
+Catharus fuscescens_Veery,0.997129,27.0,30.0
+Catharus fuscescens_Veery,0.99702793,28.0,31.0
+Catharus fuscescens_Veery,0.98290205,29.0,32.0
+Setophaga ruticilla_American Redstart,0.19669001,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.16704586,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.11921435,30.0,33.0
+Protonotaria citrea_Prothonotary Warbler,0.20726235,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.1846112,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1645393,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.109533966,31.0,34.0
+Setophaga ruticilla_American Redstart,0.106011674,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6887554,32.0,35.0
+Catharus fuscescens_Veery,0.6124135,32.0,35.0
+Catharus fuscescens_Veery,0.9921327,33.0,36.0
+Catharus fuscescens_Veery,0.9995161,34.0,37.0
+Catharus fuscescens_Veery,0.9879666,35.0,38.0
+Catharus fuscescens_Veery,0.9785534,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13753474,37.0,40.0
+Setophaga ruticilla_American Redstart,0.105643906,37.0,40.0
+Catharus fuscescens_Veery,0.7775829,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12348412,38.0,41.0
+Catharus fuscescens_Veery,0.9968874,39.0,42.0
+Catharus fuscescens_Veery,0.9970523,40.0,43.0
+Catharus fuscescens_Veery,0.99389315,41.0,44.0
+Catharus fuscescens_Veery,0.98685753,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.16340205,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.15175289,44.0,47.0
+Setophaga ruticilla_American Redstart,0.10173278,44.0,47.0
+Setophaga tigrina_Cape May Warbler,0.10135194,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.24766782,45.0,48.0
+Setophaga americana_Northern Parula,0.11501724,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117036775,46.0,49.0
+Catharus fuscescens_Veery,0.88737154,48.0,51.0
+Catharus fuscescens_Veery,0.99717206,49.0,52.0
+Catharus fuscescens_Veery,0.99976176,50.0,53.0
+Catharus fuscescens_Veery,0.9981958,51.0,53.4
