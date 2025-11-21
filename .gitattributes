@@ -1,0 +1,2 @@
+data/QGIS/just_parks.gpkg filter=lfs diff=lfs merge=lfs -text
+data/srd_subset_acoustic+ebird_17Oct2023.csv filter=lfs diff=lfs merge=lfs -text
