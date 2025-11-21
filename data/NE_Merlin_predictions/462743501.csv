@@ -1,0 +1,11 @@
+species_code,score,start_offset_sec,end_offset_sec
+bird1,0.9954964,0.0,3.0
+norpar,0.9474543,0.0,3.0
+tropar,0.025515838,0.0,3.0
+norcar,0.016042057,0.0,3.0
+bird1,0.9978779,1.0,4.0
+reevir1,0.010016185,1.0,4.0
+carwre,0.011627902,1.0,4.0
+norpar,0.9804717,1.0,4.0
+tropar,0.038434073,1.0,4.0
+norcar,0.026777878,1.0,4.0
