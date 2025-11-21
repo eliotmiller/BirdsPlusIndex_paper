@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9915432,0.0,3.0
+Catharus fuscescens_Veery,0.68693656,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.27751607,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.1154454,1.0,4.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1020824,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.41194543,2.0,5.0
+Catharus fuscescens_Veery,0.99038625,3.0,6.0
+Catharus fuscescens_Veery,0.97691524,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.2954789,4.0,7.0
+Catharus fuscescens_Veery,0.99228656,5.0,8.0
+Catharus fuscescens_Veery,0.99102825,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.21119122,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.65054375,7.0,10.0
+Catharus fuscescens_Veery,0.24575123,7.0,10.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20115921,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.14388986,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.12092599,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.8025265,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5517419,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.47165304,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.42309672,9.0,12.0
+Catharus fuscescens_Veery,0.14204903,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12315319,9.0,12.0
+Baeolophus bicolor_Tufted Titmouse,0.10853096,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.12785761,10.0,13.0
+Catharus fuscescens_Veery,0.87194175,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13147053,11.0,14.0
+Catharus fuscescens_Veery,0.77858233,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.13009459,12.0,15.0
+Catharus fuscescens_Veery,0.823463,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16940822,13.0,16.0
+Catharus fuscescens_Veery,0.9916734,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.124347664,14.0,17.0
+Catharus fuscescens_Veery,0.9828971,15.0,18.0
+Catharus guttatus_Hermit Thrush,0.3976816,15.0,18.0
+Catharus fuscescens_Veery,0.89638853,16.0,19.0
+Catharus guttatus_Hermit Thrush,0.41223183,16.0,19.0
+Catharus fuscescens_Veery,0.39796057,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.31155053,17.0,20.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2177475,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.18460083,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.15971178,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.1390674,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.12931724,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.3490195,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.27752528,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18000335,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.111582175,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.10902469,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.27703354,19.0,22.0
+Baeolophus bicolor_Tufted Titmouse,0.26843464,19.0,22.0
+Catharus fuscescens_Veery,0.12951516,19.0,22.0
+Catharus fuscescens_Veery,0.23235993,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.23196629,20.0,23.0
+Baeolophus bicolor_Tufted Titmouse,0.19852541,20.0,23.0
+Catharus fuscescens_Veery,0.8157478,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.120780185,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.47673547,22.0,25.0
+Catharus fuscescens_Veery,0.24839644,22.0,25.0
+Catharus fuscescens_Veery,0.8168732,23.0,26.0
+Catharus fuscescens_Veery,0.39613354,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.31057125,24.0,27.0
+Poecile atricapillus_Black-capped Chickadee,0.17886981,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.17234924,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.12050055,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.11660424,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.10918687,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10389588,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.29785407,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.15368558,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.14338294,26.0,29.0
+Poecile atricapillus_Black-capped Chickadee,0.14172609,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.13927098,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.33375072,27.0,30.0
+Catharus fuscescens_Veery,0.17661223,27.0,30.0
+Catharus fuscescens_Veery,0.6991676,28.0,31.0
+Catharus guttatus_Hermit Thrush,0.35445765,28.0,31.0
+Catharus fuscescens_Veery,0.8993929,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.6805615,29.0,32.0
+Catharus ustulatus_Swainson's Thrush,0.10720235,29.0,32.0
+Catharus fuscescens_Veery,0.66362166,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.121011026,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23234598,31.0,34.0
+Catharus fuscescens_Veery,0.20948246,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.2089794,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.20696133,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.17619197,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.48729733,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.13730663,32.0,35.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1253882,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.10031341,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.115414746,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.10707676,36.0,38.92802721088435

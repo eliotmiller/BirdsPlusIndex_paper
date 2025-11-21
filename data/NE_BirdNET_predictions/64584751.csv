@@ -1,0 +1,102 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.8825962,0.0,3.0
+Haemorhous mexicanus_House Finch,0.13787147,1.0,4.0
+Chlorodrepanis virens_Hawaii Amakihi,0.12197164,1.0,4.0
+Salpinctes obsoletus_Rock Wren,0.18256892,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.9152695,3.0,6.0
+Pachysylvia hypoxantha_Dusky-capped Greenlet,0.51433843,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.1161269,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.9962237,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.10823642,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.98797506,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.7147647,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.45023802,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.35170168,6.0,9.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26497588,6.0,9.0
+Catharus fuscescens_Veery,0.59949124,7.0,10.0
+Catharus fuscescens_Veery,0.38879117,8.0,11.0
+Cardinalis cardinalis_Northern Cardinal,0.23785982,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.21231143,8.0,11.0
+Poecile atricapillus_Black-capped Chickadee,0.14468488,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13099346,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.30702195,9.0,12.0
+Catharus fuscescens_Veery,0.27350917,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.1841086,9.0,12.0
+Catharus fuscescens_Veery,0.7561094,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.101383686,10.0,13.0
+Catharus fuscescens_Veery,0.9375046,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.83265245,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.12354499,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3257615,14.0,17.0
+Catharus fuscescens_Veery,0.22914104,14.0,17.0
+Catharus fuscescens_Veery,0.8684181,15.0,18.0
+Catharus fuscescens_Veery,0.91978633,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.3563278,16.0,19.0
+Catharus fuscescens_Veery,0.5324625,17.0,20.0
+Salpinctes obsoletus_Rock Wren,0.37544778,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.3077421,17.0,20.0
+Catharus fuscescens_Veery,0.5242017,18.0,21.0
+Salpinctes obsoletus_Rock Wren,0.28742874,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.98625517,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.99143535,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.14622422,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.9823186,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.17527509,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.1085349,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8605444,22.0,25.0
+Catharus fuscescens_Veery,0.43712044,22.0,25.0
+Catharus guttatus_Hermit Thrush,0.20686212,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.17082243,22.0,25.0
+Catharus fuscescens_Veery,0.6275963,23.0,26.0
+Salpinctes obsoletus_Rock Wren,0.1803657,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.18030103,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14335352,23.0,26.0
+Catharus fuscescens_Veery,0.36561137,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.27120185,24.0,27.0
+Salpinctes obsoletus_Rock Wren,0.13207182,29.0,32.0
+Catharus fuscescens_Veery,0.895818,30.0,33.0
+Salpinctes obsoletus_Rock Wren,0.21968375,30.0,33.0
+Catharus fuscescens_Veery,0.93934005,31.0,34.0
+Catharus fuscescens_Veery,0.62929416,32.0,35.0
+Salpinctes obsoletus_Rock Wren,0.24195988,33.0,36.0
+Catharus fuscescens_Veery,0.5928406,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.7510943,35.0,38.0
+Geothlypis formosa_Kentucky Warbler,0.25323611,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.9832993,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.19330905,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14938357,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.106923416,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.976065,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.14080867,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.5840724,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10438584,38.0,41.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.5694459,39.0,42.0
+Salpinctes obsoletus_Rock Wren,0.13719009,39.0,42.0
+Salpinctes obsoletus_Rock Wren,0.21498941,40.0,43.0
+Pternistis erckelii_Erckel's Francolin,0.1617852,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.48275235,41.0,44.0
+Pternistis erckelii_Erckel's Francolin,0.15530577,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.27782035,42.0,45.0
+Chlorodrepanis virens_Hawaii Amakihi,0.13597906,42.0,45.0
+Pternistis erckelii_Erckel's Francolin,0.1274963,42.0,45.0
+Salpinctes obsoletus_Rock Wren,0.10193139,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.3608935,46.0,49.0
+Poecile atricapillus_Black-capped Chickadee,0.17910168,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.25475597,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.15943663,48.0,51.0
+Catharus fuscescens_Veery,0.5565955,49.0,52.0
+Catharus fuscescens_Veery,0.41911033,50.0,53.0
+Catharus guttatus_Hermit Thrush,0.15536273,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.37151578,51.0,54.0
+Pipilo erythrophthalmus_Eastern Towhee,0.34184247,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.21068363,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14341772,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.131177,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.48884627,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.15980169,53.0,56.0
+Setophaga citrina_Hooded Warbler,0.9547442,54.0,57.0
+Geothlypis formosa_Kentucky Warbler,0.11435481,54.0,57.0
+Setophaga citrina_Hooded Warbler,0.9604735,55.0,58.0
+Setophaga citrina_Hooded Warbler,0.96748316,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.70851934,57.0,60.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16872591,57.0,60.0

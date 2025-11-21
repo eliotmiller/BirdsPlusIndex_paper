@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Ammodramus savannarum_Grasshopper Sparrow,0.1051035,0.0,3.0
+Setophaga kirtlandii_Kirtland's Warbler,0.1500934,1.0,4.0
+Spizella pusilla_Field Sparrow,0.13231742,1.0,4.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11990764,1.0,4.0
+Setophaga kirtlandii_Kirtland's Warbler,0.20357975,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.13650234,2.0,5.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13377921,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.7765623,3.0,6.0
+Setophaga kirtlandii_Kirtland's Warbler,0.1576481,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.88882834,4.0,7.0
+Centronyx henslowii_Henslow's Sparrow,0.13001566,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.7710483,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.47417644,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.14425391,7.0,10.0
+Ammodramus savannarum_Grasshopper Sparrow,0.121124305,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.10326582,8.0,11.0
+Chondestes grammacus_Lark Sparrow,0.11072096,9.0,12.0
+Spiza americana_Dickcissel,0.12693878,12.0,15.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11534703,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.27418196,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.94730145,16.0,19.0
+Spiza americana_Dickcissel,0.3070675,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.99665403,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.99102235,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.9929663,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.98760843,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.2447543,21.0,24.0
+Spiza americana_Dickcissel,0.20573367,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.13424475,22.0,25.0
+Luscinia svecica_Bluethroat,0.18382198,23.0,26.0
+Gryllus fultoni_Southern Wood Cricket,0.15704368,23.0,26.0
+Chondestes grammacus_Lark Sparrow,0.12638484,23.0,26.0
+Gryllus fultoni_Southern Wood Cricket,0.16388725,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.7191416,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.95096505,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.9879474,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.98450065,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.85859746,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.59020257,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.8307043,35.0,38.0
+Sturnella neglecta_Western Meadowlark,0.24094073,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15606658,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.4537818,42.0,45.0
+Icterus spurius_Orchard Oriole,0.11156748,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.9379442,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.96577406,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.9650735,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.89024836,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.81072015,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.9283324,48.0,51.0
+Tachycineta bicolor_Tree Swallow,0.6675157,51.0,54.0
+Setophaga kirtlandii_Kirtland's Warbler,0.10450956,51.0,54.0
+Tachycineta bicolor_Tree Swallow,0.3058175,52.0,55.0
+Tachycineta bicolor_Tree Swallow,0.17400932,53.0,56.0
+Tachycineta bicolor_Tree Swallow,0.27277738,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.28913027,55.0,58.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1568791,56.0,59.0
+Dolichonyx oryzivorus_Bobolink,0.12000705,58.0,61.0
+Dolichonyx oryzivorus_Bobolink,0.25582805,59.0,62.0
+Dolichonyx oryzivorus_Bobolink,0.12576742,60.0,63.0
+Sturnus vulgaris_European Starling,0.11569165,64.0,67.0
+Sturnus vulgaris_European Starling,0.25780115,65.0,68.0
+Sturnus vulgaris_European Starling,0.310727,66.0,69.0
+Sturnus vulgaris_European Starling,0.14879769,67.0,70.0
+Dolichonyx oryzivorus_Bobolink,0.2274444,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.92384815,69.0,72.0
+Dolichonyx oryzivorus_Bobolink,0.9863973,70.0,73.0
+Dolichonyx oryzivorus_Bobolink,0.949038,71.0,74.0
+Dolichonyx oryzivorus_Bobolink,0.9706616,72.0,75.0
+Dolichonyx oryzivorus_Bobolink,0.96770525,73.0,76.0
+Dolichonyx oryzivorus_Bobolink,0.92392266,74.0,77.0
+Dolichonyx oryzivorus_Bobolink,0.95390284,75.0,78.0
+Spizella pusilla_Field Sparrow,0.14372541,76.0,79.0
+Setophaga kirtlandii_Kirtland's Warbler,0.11994728,77.0,80.0
+Spizella pusilla_Field Sparrow,0.116798155,77.0,80.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1125096,77.0,80.0
+Dolichonyx oryzivorus_Bobolink,0.7413567,78.0,81.0
+Icterus spurius_Orchard Oriole,0.38267532,78.0,81.0
+Dolichonyx oryzivorus_Bobolink,0.97847795,79.0,82.0
+Dolichonyx oryzivorus_Bobolink,0.9812019,80.0,83.0
+Icterus spurius_Orchard Oriole,0.16677922,80.0,83.0
+Dolichonyx oryzivorus_Bobolink,0.9808647,81.0,84.0
+Dolichonyx oryzivorus_Bobolink,0.4967659,82.0,85.0
+Spiza americana_Dickcissel,0.1020551,82.0,85.0
+Dolichonyx oryzivorus_Bobolink,0.8369308,83.0,86.0
+Dolichonyx oryzivorus_Bobolink,0.2903861,84.0,87.0

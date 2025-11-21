@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Helmitheros vermivorum_Worm-eating Warbler,0.38246435,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.102696866,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36714584,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12344879,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22605534,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33331087,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3580844,9.0,12.0
+Turdus viscivorus_Mistle Thrush,0.15629753,10.0,13.0
+Troglodytes troglodytes_Eurasian Wren,0.1362492,10.0,13.0
+Pycnonotus cafer_Red-vented Bulbul,0.16530432,15.0,18.0
+Colaptes auratus_Northern Flicker,0.11881831,20.0,23.0
+Sitta europaea_Eurasian Nuthatch,0.15398541,21.0,24.0
+Sitta europaea_Eurasian Nuthatch,0.33309478,22.0,25.0
+Sitta europaea_Eurasian Nuthatch,0.80143493,23.0,26.0
+Sitta europaea_Eurasian Nuthatch,0.25802776,25.0,28.0
+Turdus philomelos_Song Thrush,0.10276232,25.0,28.0
+Hirundo rustica_Barn Swallow,0.13440202,27.0,30.0
+Sitta europaea_Eurasian Nuthatch,0.119539924,27.0,30.0
+Turdus philomelos_Song Thrush,0.100193694,27.0,30.0
+Sitta europaea_Eurasian Nuthatch,0.5407455,28.0,31.0
+Hirundo rustica_Barn Swallow,0.11542354,28.0,31.0
+Sitta europaea_Eurasian Nuthatch,0.6526461,29.0,32.0
+Sitta europaea_Eurasian Nuthatch,0.2732324,30.0,33.0
+Thryothorus ludovicianus_Carolina Wren,0.19101846,30.0,33.0
+Turdus philomelos_Song Thrush,0.14241087,30.0,33.0
+Sitta europaea_Eurasian Nuthatch,0.8048114,31.0,34.0
+Turdus philomelos_Song Thrush,0.3416193,31.0,34.0
+Toxostoma redivivum_California Thrasher,0.19994278,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.11892065,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.12943593,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.10815369,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10595303,34.0,37.0
+Melospiza melodia_Song Sparrow,0.105769105,34.0,37.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.31579208,43.0,46.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.14304338,44.0,47.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10881224,48.0,51.0
+Engine_Engine,0.18073702,59.0,62.0
+Engine_Engine,0.26309308,61.0,64.0
+Poecile atricapillus_Black-capped Chickadee,0.16928141,66.0,69.0
+Engine_Engine,0.20330022,70.0,73.0
+Engine_Engine,0.10973838,71.0,74.0
+Engine_Engine,0.17951891,72.0,75.0
+Poecile atricapillus_Black-capped Chickadee,0.26081166,73.0,76.0
+Engine_Engine,0.1237108,73.0,76.0
+Engine_Engine,0.51778376,74.0,77.0
+Poecile atricapillus_Black-capped Chickadee,0.45824465,74.0,77.0
+Engine_Engine,0.44470564,75.0,78.0
+Poecile atricapillus_Black-capped Chickadee,0.28813928,75.0,78.0
+Engine_Engine,0.102301754,76.0,79.0
+Spinus tristis_American Goldfinch,0.22505133,77.0,80.0
+Engine_Engine,0.24361014,81.0,84.0
+Engine_Engine,0.59295624,83.0,86.0
+Engine_Engine,0.21946704,84.0,87.0
+Poecile atricapillus_Black-capped Chickadee,0.111970454,84.0,87.0

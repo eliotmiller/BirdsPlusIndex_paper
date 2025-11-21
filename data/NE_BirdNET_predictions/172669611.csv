@@ -1,0 +1,137 @@
+species,score,start_time,end_time
+Setophaga pensylvanica_Chestnut-sided Warbler,0.955026,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.104123175,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8185894,1.0,4.0
+Phylloscopus trochiloides_Greenish Warbler,0.2852169,2.0,5.0
+Myioborus miniatus_Slate-throated Redstart,0.15560345,2.0,5.0
+Catharus fuscescens_Veery,0.20700891,3.0,6.0
+Catharus fuscescens_Veery,0.20945957,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.33760968,5.0,8.0
+Catharus fuscescens_Veery,0.23747574,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.2213971,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.2829463,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16264628,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23184645,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.11064504,8.0,11.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.90106887,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.1376734,9.0,12.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.84331644,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.53855985,10.0,13.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.83425826,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.25529176,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.4873139,12.0,15.0
+Strix nebulosa_Great Gray Owl,0.14851682,13.0,16.0
+Catharus fuscescens_Veery,0.20206806,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8790207,17.0,20.0
+Leiothlypis virginiae_Virginia's Warbler,0.13893458,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8665636,18.0,21.0
+Setophaga magnolia_Magnolia Warbler,0.18323898,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4734936,19.0,22.0
+Myioborus miniatus_Slate-throated Redstart,0.4265971,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.21603286,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.7459992,20.0,23.0
+Myioborus miniatus_Slate-throated Redstart,0.11060915,20.0,23.0
+Catharus fuscescens_Veery,0.15347753,22.0,25.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.46880642,23.0,26.0
+Ficedula parva_Red-breasted Flycatcher,0.41581663,23.0,26.0
+Tetrastes bonasia_Hazel Grouse,0.19082789,23.0,26.0
+Strix nebulosa_Great Gray Owl,0.12710646,23.0,26.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.51779383,24.0,27.0
+Strix nebulosa_Great Gray Owl,0.11692575,24.0,27.0
+Ficedula parva_Red-breasted Flycatcher,0.10143429,24.0,27.0
+Leiothlypis virginiae_Virginia's Warbler,0.26337054,27.0,30.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.1858117,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.13560215,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9078585,28.0,31.0
+Setophaga petechia_Yellow Warbler,0.14157811,28.0,31.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.86607087,29.0,32.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13717246,30.0,33.0
+Phylloscopus nitidus_Green Warbler,0.1796624,31.0,34.0
+Phylloscopus trochiloides_Greenish Warbler,0.13059556,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.75962263,32.0,35.0
+Setophaga townsendi_Townsend's Warbler,0.1029202,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11205354,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6085367,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3944461,35.0,38.0
+Leiothlypis virginiae_Virginia's Warbler,0.13399576,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.82700354,38.0,41.0
+Leiothlypis luciae_Lucy's Warbler,0.12138491,38.0,41.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.78259623,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.28983665,40.0,43.0
+Myioborus miniatus_Slate-throated Redstart,0.15439285,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118924946,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.13615316,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11906636,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.22548246,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.25230452,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.24182579,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.24384253,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.3752352,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.3005526,48.0,51.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.83641285,49.0,52.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.76625687,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.53353477,50.0,53.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.794884,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.48458213,51.0,54.0
+Setophaga ruticilla_American Redstart,0.10442271,51.0,54.0
+Setophaga ruticilla_American Redstart,0.57673097,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.48779315,52.0,55.0
+Scenopoeetes dentirostris_Tooth-billed Bowerbird,0.21595071,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7841521,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7196234,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.77542067,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3539004,57.0,60.0
+Catharus fuscescens_Veery,0.18348552,57.0,60.0
+Catharus fuscescens_Veery,0.39716294,58.0,61.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.81774616,59.0,62.0
+Leiothlypis luciae_Lucy's Warbler,0.32711235,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.83609426,60.0,63.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8466619,61.0,64.0
+Cardellina canadensis_Canada Warbler,0.21492055,62.0,65.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19945219,62.0,65.0
+Setophaga magnolia_Magnolia Warbler,0.16751367,62.0,65.0
+Setophaga ruticilla_American Redstart,0.15927081,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9372318,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9473031,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8028321,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19207607,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.11107132,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.10691503,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1014027,67.0,70.0
+Catharus fuscescens_Veery,0.28000635,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16261731,68.0,71.0
+Setophaga cerulea_Cerulean Warbler,0.13284302,68.0,71.0
+Setophaga magnolia_Magnolia Warbler,0.71536565,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.6827719,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7779588,70.0,73.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7514702,71.0,74.0
+Setophaga magnolia_Magnolia Warbler,0.28887293,72.0,75.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25682756,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.48374736,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.105389535,73.0,76.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20970438,76.0,79.0
+Tamiasciurus hudsonicus_Red Squirrel,0.27623478,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23275429,77.0,80.0
+Setophaga cerulea_Cerulean Warbler,0.12094341,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30568403,78.0,81.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19124763,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3224536,79.0,82.0
+Tamiasciurus hudsonicus_Red Squirrel,0.25920662,79.0,82.0
+Setophaga cerulea_Cerulean Warbler,0.19593616,79.0,82.0
+Tamias striatus_Eastern Chipmunk,0.19538577,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1046409,80.0,83.0
+Tamiasciurus hudsonicus_Red Squirrel,0.30493492,82.0,85.0
+Tamiasciurus hudsonicus_Red Squirrel,0.50934994,83.0,86.0
+Tamiasciurus hudsonicus_Red Squirrel,0.31137842,84.0,87.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12456541,84.0,87.0
+Setophaga cerulea_Cerulean Warbler,0.10895083,84.0,87.0
+Tamiasciurus hudsonicus_Red Squirrel,0.32179356,85.0,88.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3068173,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17125554,86.0,89.0
+Tamias striatus_Eastern Chipmunk,0.11178114,86.0,89.0
+Odocoileus virginianus_White-tailed Deer,0.1101885,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45435533,87.0,90.0
+Tamias striatus_Eastern Chipmunk,0.32916126,87.0,90.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12185436,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4789989,88.0,90.12
+Tamias striatus_Eastern Chipmunk,0.112079106,88.0,90.12

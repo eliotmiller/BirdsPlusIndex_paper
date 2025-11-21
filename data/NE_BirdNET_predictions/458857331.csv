@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Turdus migratorius_American Robin,0.78232485,0.0,3.0
+Strix varia_Barred Owl,0.25754198,0.0,3.0
+Turdus migratorius_American Robin,0.19327499,1.0,4.0
+Buteo platypterus_Broad-winged Hawk,0.102687225,1.0,4.0
+Turdus migratorius_American Robin,0.25126734,2.0,5.0
+Buteo platypterus_Broad-winged Hawk,0.11209463,2.0,5.0
+Strix varia_Barred Owl,0.73222065,3.0,6.0
+Turdus migratorius_American Robin,0.11454604,3.0,6.0
+Strix varia_Barred Owl,0.9979826,4.0,7.0
+Strix varia_Barred Owl,0.99937695,5.0,8.0
+Strix varia_Barred Owl,0.998514,6.0,9.0
+Strix varia_Barred Owl,0.996793,7.0,10.0
+Turdus migratorius_American Robin,0.5204674,8.0,11.0
+Turdus migratorius_American Robin,0.3829766,9.0,12.0
+Turdus migratorius_American Robin,0.49795136,10.0,13.0
+Buteo platypterus_Broad-winged Hawk,0.15894996,10.0,13.0
+Quiscalus quiscula_Common Grackle,0.14563805,10.0,13.0
+Turdus migratorius_American Robin,0.39120817,11.0,14.0
+Strix varia_Barred Owl,0.22016035,11.0,14.0
+Turdus migratorius_American Robin,0.23091286,12.0,15.0
+Buteo platypterus_Broad-winged Hawk,0.13407668,12.0,15.0
+Turdus migratorius_American Robin,0.36248365,13.0,16.0
+Turdus migratorius_American Robin,0.15162432,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.13670984,14.0,17.0
+Strix varia_Barred Owl,0.10974865,14.0,17.0
+Strix varia_Barred Owl,0.96907467,15.0,18.0
+Turdus migratorius_American Robin,0.43464154,15.0,18.0
+Strix varia_Barred Owl,0.9588895,16.0,19.0
+Strix varia_Barred Owl,0.9749628,17.0,20.0
+Strix varia_Barred Owl,0.7948153,18.0,21.0
+Strix varia_Barred Owl,0.95320064,19.0,22.0
+Turdus migratorius_American Robin,0.12102608,19.0,22.0
+Turdus migratorius_American Robin,0.51826215,20.0,23.0
+Gun_Gun,0.13754553,21.0,24.0
+Fireworks_Fireworks,0.1027188,21.0,24.0
+Gun_Gun,0.11863644,22.0,25.0
+Siren_Siren,0.1093206,22.0,25.0
+Parus major_Great Tit,0.15697642,23.0,26.0
+Centropus sinensis_Greater Coucal,0.11259763,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.25961325,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.24957636,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.14843862,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.37778252,26.0,29.0

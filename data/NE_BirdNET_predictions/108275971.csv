@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.15440944,1.0,4.0
+Ixobrychus exilis_Least Bittern,0.12290021,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3517356,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.31453297,3.0,6.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.23455743,4.0,7.0
+Gallinula galeata_Common Gallinule,0.21595469,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13009478,7.0,10.0
+Gallinula galeata_Common Gallinule,0.2265726,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.185505,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.34920266,9.0,12.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.33592296,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16878673,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16824971,15.0,18.0
+Colinus virginianus_Northern Bobwhite,0.12479093,15.0,18.0
+Aramus guarauna_Limpkin,0.20257305,16.0,19.0
+Gallinula galeata_Common Gallinule,0.12192761,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11363805,16.0,19.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.7795285,17.0,20.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.1352618,18.0,21.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.24426855,19.0,22.0
+Agelaius phoeniceus_Red-winged Blackbird,0.43395594,24.0,27.0
+Agelaius phoeniceus_Red-winged Blackbird,0.103158064,25.0,28.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2152357,30.0,33.0
+Gallinula galeata_Common Gallinule,0.12305878,30.0,33.0
+Podilymbus podiceps_Pied-billed Grebe,0.100720614,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.24302088,31.0,34.0
+Gallinula galeata_Common Gallinule,0.11540856,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.34799123,32.0,35.0
+Dryophytes cinereus_Green Treefrog,0.3061623,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10239671,35.0,38.0
+Agelaius phoeniceus_Red-winged Blackbird,0.29160962,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19176623,37.0,40.0
+Agelaius phoeniceus_Red-winged Blackbird,0.27362224,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.18539047,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.40155518,45.0,48.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3725982,46.0,49.0
+Gallinula galeata_Common Gallinule,0.23471907,46.0,49.0
+Porzana carolina_Sora,0.20558965,46.0,49.0
+Gallinula galeata_Common Gallinule,0.32281822,47.0,50.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18401077,47.0,50.0
+Ixobrychus exilis_Least Bittern,0.10021886,47.0,50.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.17091374,48.0,51.0
+Chloroceryle amazona_Amazon Kingfisher,0.1512502,50.0,53.0
+Agelaius phoeniceus_Red-winged Blackbird,0.48482832,54.0,57.0
+Agelaius phoeniceus_Red-winged Blackbird,0.62980366,55.0,58.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2997008,56.0,59.0
+Dryophytes cinereus_Green Treefrog,0.20537996,58.0,61.0
+Dryophytes cinereus_Green Treefrog,0.1351737,59.0,62.0
+Dryophytes cinereus_Green Treefrog,0.16621059,60.0,63.0
+Contopus virens_Eastern Wood-Pewee,0.1615559,61.0,64.0
+Dryophytes cinereus_Green Treefrog,0.11037801,61.0,64.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.15447783,63.0,66.0
+Colinus virginianus_Northern Bobwhite,0.13098839,63.0,66.0
+Colinus virginianus_Northern Bobwhite,0.18368505,64.0,67.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.14784808,64.0,67.0
+Colinus virginianus_Northern Bobwhite,0.11439495,66.0,69.0
+Agelaius phoeniceus_Red-winged Blackbird,0.4118405,70.0,73.0
+Agelaius phoeniceus_Red-winged Blackbird,0.33858696,71.0,74.0
+Ixobrychus exilis_Least Bittern,0.13616405,71.0,74.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2141391,72.0,75.0
+Passerina cyanea_Indigo Bunting,0.1492129,74.0,77.0
+Peucaea aestivalis_Bachman's Sparrow,0.11142791,74.0,77.0
+Agelaius phoeniceus_Red-winged Blackbird,0.25485632,79.0,82.0
+Agelaius phoeniceus_Red-winged Blackbird,0.112680934,80.0,83.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.22258107,81.0,84.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17034906,82.0,85.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.13524933,82.0,85.0
+Agelaius phoeniceus_Red-winged Blackbird,0.30857632,83.0,86.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19950797,84.0,87.0
+Colinus virginianus_Northern Bobwhite,0.17625946,89.0,92.0
+Agelaius phoeniceus_Red-winged Blackbird,0.39555427,90.0,93.0
+Gallinula galeata_Common Gallinule,0.106667824,90.0,93.0
+Agelaius phoeniceus_Red-winged Blackbird,0.5278287,91.0,94.0
+Agelaius phoeniceus_Red-winged Blackbird,0.48354566,92.0,95.0

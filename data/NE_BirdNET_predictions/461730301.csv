@@ -1,0 +1,13 @@
+species,score,start_time,end_time
+Engine_Engine,0.13447191,0.0,3.0
+Engine_Engine,0.11883671,1.0,4.0
+Engine_Engine,0.13036716,11.0,14.0
+Setophaga americana_Northern Parula,0.18762541,13.0,16.0
+Setophaga americana_Northern Parula,0.6339544,14.0,17.0
+Setophaga americana_Northern Parula,0.3637762,15.0,18.0
+Chaetura pelagica_Chimney Swift,0.1513154,20.0,23.0
+Ficedula subrubra_Kashmir Flycatcher,0.11382733,20.0,23.0
+Chaetura pelagica_Chimney Swift,0.6490648,21.0,24.0
+Chaetura pelagica_Chimney Swift,0.39392605,22.0,25.0
+Psophodes olivaceus_Eastern Whipbird,0.117214784,25.0,28.0
+Accipiter cooperii_Cooper's Hawk,0.19568396,27.0,30.0

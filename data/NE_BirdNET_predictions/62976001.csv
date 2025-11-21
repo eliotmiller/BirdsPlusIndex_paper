@@ -1,0 +1,177 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.1346156,0.0,3.0
+Xenotriccus callizonus_Belted Flycatcher,0.55064046,2.0,5.0
+Catharus minimus_Gray-cheeked Thrush,0.16557181,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6660835,3.0,6.0
+Catharus minimus_Gray-cheeked Thrush,0.18079036,3.0,6.0
+Catharus fuscescens_Veery,0.8484103,4.0,7.0
+Catharus fuscescens_Veery,0.9657528,5.0,8.0
+Catharus fuscescens_Veery,0.9645912,6.0,9.0
+Catharus fuscescens_Veery,0.74464357,7.0,10.0
+Catharus fuscescens_Veery,0.97997403,8.0,11.0
+Catharus fuscescens_Veery,0.9954809,9.0,12.0
+Catharus fuscescens_Veery,0.999443,10.0,13.0
+Catharus bicknelli_Bicknell's Thrush,0.15259217,11.0,14.0
+Catharus minimus_Gray-cheeked Thrush,0.11257804,11.0,14.0
+Catharus minimus_Gray-cheeked Thrush,0.12459989,12.0,15.0
+Catharus fuscescens_Veery,0.8611921,13.0,16.0
+Catharus minimus_Gray-cheeked Thrush,0.16194467,13.0,16.0
+Catharus fuscescens_Veery,0.99789137,14.0,17.0
+Catharus fuscescens_Veery,0.99408746,15.0,18.0
+Catharus fuscescens_Veery,0.99414945,16.0,19.0
+Catharus fuscescens_Veery,0.9960433,17.0,20.0
+Catharus fuscescens_Veery,0.9898218,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.26791206,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.92020905,20.0,23.0
+Spizella passerina_Chipping Sparrow,0.12255083,20.0,23.0
+Catharus fuscescens_Veery,0.9491724,21.0,24.0
+Catharus fuscescens_Veery,0.9547727,22.0,25.0
+Catharus fuscescens_Veery,0.9552193,23.0,26.0
+Catharus fuscescens_Veery,0.9250328,24.0,27.0
+Catharus fuscescens_Veery,0.9972,25.0,28.0
+Catharus fuscescens_Veery,0.9917795,26.0,29.0
+Catharus fuscescens_Veery,0.99325526,28.0,31.0
+Catharus fuscescens_Veery,0.99829525,29.0,32.0
+Catharus fuscescens_Veery,0.99812955,30.0,33.0
+Catharus fuscescens_Veery,0.5826839,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10830267,32.0,35.0
+Catharus fuscescens_Veery,0.9342097,33.0,36.0
+Catharus fuscescens_Veery,0.9620401,34.0,37.0
+Catharus fuscescens_Veery,0.951767,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19538733,36.0,39.0
+Catharus fuscescens_Veery,0.8524398,37.0,40.0
+Catharus fuscescens_Veery,0.9977851,38.0,41.0
+Catharus fuscescens_Veery,0.99694556,39.0,42.0
+Catharus fuscescens_Veery,0.9910479,40.0,43.0
+Contopus virens_Eastern Wood-Pewee,0.204618,41.0,44.0
+Sitta carolinensis_White-breasted Nuthatch,0.1534679,41.0,44.0
+Dryobates pubescens_Downy Woodpecker,0.2611264,43.0,46.0
+Picoides dorsalis_American Three-toed Woodpecker,0.17829053,43.0,46.0
+Dryobates pubescens_Downy Woodpecker,0.29231843,44.0,47.0
+Dryobates pubescens_Downy Woodpecker,0.16530049,45.0,48.0
+Catharus fuscescens_Veery,0.98664397,46.0,49.0
+Catharus fuscescens_Veery,0.9294018,47.0,50.0
+Catharus fuscescens_Veery,0.33442098,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23151952,48.0,51.0
+Catharus fuscescens_Veery,0.88025904,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28499034,49.0,52.0
+Catharus fuscescens_Veery,0.18344969,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12027791,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.59717077,51.0,54.0
+Catharus fuscescens_Veery,0.5096564,51.0,54.0
+Catharus fuscescens_Veery,0.39160633,52.0,55.0
+Progne chalybea_Gray-breasted Martin,0.13037549,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.115006536,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.10802696,53.0,56.0
+Acridotheres fuscus_Jungle Myna,0.1012744,54.0,57.0
+Catharus fuscescens_Veery,0.399424,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.14609134,55.0,58.0
+Turdus falcklandii_Austral Thrush,0.10073318,55.0,58.0
+Catharus fuscescens_Veery,0.9937748,56.0,59.0
+Catharus fuscescens_Veery,0.94088477,57.0,60.0
+Catharus fuscescens_Veery,0.11664798,58.0,61.0
+Catharus fuscescens_Veery,0.9547404,59.0,62.0
+Catharus fuscescens_Veery,0.9612939,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24531557,60.0,63.0
+Catharus fuscescens_Veery,0.8157941,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3137083,61.0,64.0
+Vireo plumbeus_Plumbeous Vireo,0.15332502,62.0,65.0
+Catharus fuscescens_Veery,0.98406607,64.0,67.0
+Catharus fuscescens_Veery,0.9906747,65.0,68.0
+Catharus fuscescens_Veery,0.95946324,66.0,69.0
+Catharus fuscescens_Veery,0.99689305,67.0,70.0
+Catharus fuscescens_Veery,0.99404067,68.0,71.0
+Sitta carolinensis_White-breasted Nuthatch,0.11436008,69.0,72.0
+Sitta carolinensis_White-breasted Nuthatch,0.14418747,70.0,73.0
+Contopus virens_Eastern Wood-Pewee,0.12727532,70.0,73.0
+Sitta carolinensis_White-breasted Nuthatch,0.59989184,71.0,74.0
+Contopus virens_Eastern Wood-Pewee,0.15022412,71.0,74.0
+Contopus virens_Eastern Wood-Pewee,0.38048714,72.0,75.0
+Contopus virens_Eastern Wood-Pewee,0.1532923,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16419026,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.829036,75.0,78.0
+Catharus fuscescens_Veery,0.9391322,76.0,79.0
+Catharus fuscescens_Veery,0.9553886,77.0,80.0
+Catharus fuscescens_Veery,0.5159938,78.0,81.0
+Catharus fuscescens_Veery,0.9966486,79.0,82.0
+Catharus fuscescens_Veery,0.9967192,80.0,83.0
+Catharus fuscescens_Veery,0.98088694,81.0,84.0
+Catharus fuscescens_Veery,0.9956137,82.0,85.0
+Catharus fuscescens_Veery,0.9235039,83.0,86.0
+Catharus fuscescens_Veery,0.45806083,84.0,87.0
+Catharus fuscescens_Veery,0.9923805,85.0,88.0
+Catharus fuscescens_Veery,0.99498284,86.0,89.0
+Catharus fuscescens_Veery,0.99236697,87.0,90.0
+Catharus fuscescens_Veery,0.9958621,88.0,91.0
+Catharus fuscescens_Veery,0.98587054,89.0,92.0
+Catharus fuscescens_Veery,0.94291717,90.0,93.0
+Cyanocorax violaceus_Violaceous Jay,0.11549743,90.0,93.0
+Helmitheros vermivorum_Worm-eating Warbler,0.95928186,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.892145,92.0,95.0
+Spizella passerina_Chipping Sparrow,0.275697,92.0,95.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9299378,93.0,96.0
+Spizella passerina_Chipping Sparrow,0.3857843,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9345452,94.0,97.0
+Spizella passerina_Chipping Sparrow,0.5421345,94.0,97.0
+Catharus fuscescens_Veery,0.9797021,95.0,98.0
+Catharus fuscescens_Veery,0.99786645,96.0,99.0
+Catharus fuscescens_Veery,0.9973374,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.24335985,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.2187202,98.0,101.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12990054,98.0,101.0
+Catharus fuscescens_Veery,0.113600545,99.0,102.0
+Catharus fuscescens_Veery,0.96757644,100.0,103.0
+Catharus fuscescens_Veery,0.99560505,101.0,104.0
+Catharus fuscescens_Veery,0.9980159,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.12942067,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.94268245,104.0,107.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9507929,105.0,108.0
+Spizella passerina_Chipping Sparrow,0.28516003,105.0,108.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9402006,106.0,109.0
+Spizella passerina_Chipping Sparrow,0.6946428,106.0,109.0
+Catharus fuscescens_Veery,0.4474192,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28573123,107.0,110.0
+Piranga olivacea_Scarlet Tanager,0.2497233,107.0,110.0
+Catharus fuscescens_Veery,0.9856205,108.0,111.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15149826,108.0,111.0
+Catharus fuscescens_Veery,0.9949333,109.0,112.0
+Catharus fuscescens_Veery,0.2851264,110.0,113.0
+Piranga olivacea_Scarlet Tanager,0.11525925,110.0,113.0
+Catharus fuscescens_Veery,0.98971736,111.0,114.0
+Catharus fuscescens_Veery,0.982866,112.0,115.0
+Catharus fuscescens_Veery,0.90884227,113.0,116.0
+Catharus fuscescens_Veery,0.9894928,114.0,117.0
+Catharus fuscescens_Veery,0.98806703,115.0,118.0
+Catharus fuscescens_Veery,0.2798646,116.0,119.0
+Progne elegans_Southern Martin,0.21054132,117.0,120.0
+Catharus fuscescens_Veery,0.9863322,118.0,121.0
+Catharus fuscescens_Veery,0.9893327,119.0,122.0
+Catharus fuscescens_Veery,0.9391655,120.0,123.0
+Helmitheros vermivorum_Worm-eating Warbler,0.95400935,121.0,124.0
+Spizella passerina_Chipping Sparrow,0.2771069,121.0,124.0
+Catharus fuscescens_Veery,0.80037296,122.0,125.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24341075,122.0,125.0
+Catharus fuscescens_Veery,0.9377567,123.0,126.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13020495,123.0,126.0
+Catharus fuscescens_Veery,0.9853689,124.0,127.0
+Piranga olivacea_Scarlet Tanager,0.113833904,125.0,128.0
+Spizella passerina_Chipping Sparrow,0.25932685,128.0,131.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12605034,129.0,132.0
+Spizella passerina_Chipping Sparrow,0.12931865,130.0,133.0
+Spizella passerina_Chipping Sparrow,0.22951962,138.0,141.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5334099,143.0,146.0
+Spizella passerina_Chipping Sparrow,0.19695915,143.0,146.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10397642,144.0,147.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29013267,145.0,148.0
+Spizella passerina_Chipping Sparrow,0.2512303,145.0,148.0
+Spizella passerina_Chipping Sparrow,0.52570844,146.0,149.0
+Helmitheros vermivorum_Worm-eating Warbler,0.49100244,147.0,150.0
+Spizella passerina_Chipping Sparrow,0.235911,147.0,150.0
+Spizella passerina_Chipping Sparrow,0.17311876,153.0,156.0
+Spizella pallida_Clay-colored Sparrow,0.1384587,153.0,156.0
+Helmitheros vermivorum_Worm-eating Warbler,0.123633675,153.0,156.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29694164,154.0,157.0
+Spizella passerina_Chipping Sparrow,0.18547353,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33853447,155.0,157.27201814058958
+Spizella passerina_Chipping Sparrow,0.31613362,155.0,157.27201814058958
+Spizella pallida_Clay-colored Sparrow,0.10689903,155.0,157.27201814058958

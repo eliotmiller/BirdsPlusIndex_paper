@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Geothlypis philadelphia_Mourning Warbler,0.9625379,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.15852189,1.0,4.0
+Geothlypis philadelphia_Mourning Warbler,0.13478422,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.10242008,1.0,4.0
+Geothlypis philadelphia_Mourning Warbler,0.1534641,3.0,6.0
+Geothlypis philadelphia_Mourning Warbler,0.5284225,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.11056952,4.0,7.0
+Geothlypis philadelphia_Mourning Warbler,0.16381851,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.10725735,5.0,8.0
+Geothlypis philadelphia_Mourning Warbler,0.2277085,6.0,9.0
+Catharus fuscescens_Veery,0.12535423,9.0,12.0
+Geothlypis philadelphia_Mourning Warbler,0.6562181,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.49265337,10.0,13.0
+Geothlypis philadelphia_Mourning Warbler,0.8036573,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.27743918,11.0,14.0
+Geothlypis philadelphia_Mourning Warbler,0.92818475,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.19624233,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.15849222,13.0,16.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12874538,13.0,16.0
+Geothlypis philadelphia_Mourning Warbler,0.8584881,15.0,18.0
+Geothlypis philadelphia_Mourning Warbler,0.7213242,16.0,19.0
+Geothlypis philadelphia_Mourning Warbler,0.8342811,17.0,20.0
+Geothlypis philadelphia_Mourning Warbler,0.18846877,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.13091806,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.5902287,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.3040662,20.0,23.0
+Catharus fuscescens_Veery,0.277068,21.0,24.0
+Geothlypis philadelphia_Mourning Warbler,0.894044,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.50294006,22.0,25.0
+Geothlypis philadelphia_Mourning Warbler,0.9370046,23.0,26.0
+Geothlypis philadelphia_Mourning Warbler,0.98321736,24.0,27.0
+Oporornis agilis_Connecticut Warbler,0.19943596,24.0,27.0
+Geothlypis philadelphia_Mourning Warbler,0.44733268,25.0,28.0
+Parkesia motacilla_Louisiana Waterthrush,0.16637261,25.0,28.0
+Catharus fuscescens_Veery,0.26329345,26.0,29.0
+Catharus fuscescens_Veery,0.5623814,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.11257149,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.13209954,32.0,35.0
+Oporornis agilis_Connecticut Warbler,0.10304585,33.0,36.0
+Geothlypis philadelphia_Mourning Warbler,0.82500994,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.16378081,34.0,37.0
+Geothlypis philadelphia_Mourning Warbler,0.9585635,35.0,38.0
+Geothlypis philadelphia_Mourning Warbler,0.59637284,36.0,39.0
+Catharus fuscescens_Veery,0.710004,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12889108,38.0,41.0
+Catharus fuscescens_Veery,0.5891109,39.0,42.0
+Catharus fuscescens_Veery,0.43814716,40.0,43.0
+Geothlypis philadelphia_Mourning Warbler,0.881689,41.0,44.0
+Geothlypis formosa_Kentucky Warbler,0.13075663,41.0,44.0
+Geothlypis philadelphia_Mourning Warbler,0.97575915,42.0,45.0
+Oporornis agilis_Connecticut Warbler,0.17199811,42.0,45.0
+Geothlypis philadelphia_Mourning Warbler,0.9879026,43.0,46.0
+Oporornis agilis_Connecticut Warbler,0.1166935,43.0,46.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12919329,44.0,47.0
+Catharus fuscescens_Veery,0.12873356,44.0,47.0
+Geothlypis formosa_Kentucky Warbler,0.10990267,44.0,47.0
+Catharus fuscescens_Veery,0.69775367,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1376778,46.0,49.0
+Catharus fuscescens_Veery,0.11673588,46.0,49.0
+Catharus fuscescens_Veery,0.47732008,47.0,50.0
+Catharus fuscescens_Veery,0.15585288,48.0,51.0
+Catharus fuscescens_Veery,0.8538992,49.0,52.0
+Catharus fuscescens_Veery,0.58866316,50.0,53.0
+Catharus fuscescens_Veery,0.29663295,51.0,54.0
+Catharus fuscescens_Veery,0.36158407,52.0,55.0
+Catharus fuscescens_Veery,0.2115814,53.0,56.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13483833,53.0,56.0
+Geothlypis philadelphia_Mourning Warbler,0.8504483,54.0,57.0
+Geothlypis formosa_Kentucky Warbler,0.15249139,54.0,57.0
+Oporornis agilis_Connecticut Warbler,0.12171071,54.0,57.0
+Geothlypis philadelphia_Mourning Warbler,0.99605334,55.0,58.0
+Geothlypis philadelphia_Mourning Warbler,0.99493706,56.0,58.87201814058957

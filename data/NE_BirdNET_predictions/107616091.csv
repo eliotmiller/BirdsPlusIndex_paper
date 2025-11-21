@@ -1,0 +1,119 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.9248472,0.0,3.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3016316,0.0,3.0
+Strix varia_Barred Owl,0.7540402,1.0,4.0
+Strix varia_Barred Owl,0.48363608,2.0,5.0
+Strix aluco_Tawny Owl,0.1673469,2.0,5.0
+Strix aluco_Tawny Owl,0.8533982,3.0,6.0
+Strix varia_Barred Owl,0.19635583,3.0,6.0
+Strix varia_Barred Owl,0.23884699,10.0,13.0
+Power tools_Power tools,0.19813657,10.0,13.0
+Human non-vocal_Human non-vocal,0.1247539,10.0,13.0
+Strix varia_Barred Owl,0.89151937,11.0,14.0
+Strix varia_Barred Owl,0.9486604,12.0,15.0
+Aegolius acadicus_Northern Saw-whet Owl,0.14681529,12.0,15.0
+Strix aluco_Tawny Owl,0.8802944,13.0,16.0
+Strix varia_Barred Owl,0.1819534,13.0,16.0
+Strix varia_Barred Owl,0.8373796,18.0,21.0
+Strix varia_Barred Owl,0.9184055,19.0,22.0
+Strix varia_Barred Owl,0.97652745,20.0,23.0
+Strix occidentalis_Spotted Owl,0.20219609,20.0,23.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.10874811,20.0,23.0
+Strix varia_Barred Owl,0.8127699,25.0,28.0
+Strix aluco_Tawny Owl,0.21804664,25.0,28.0
+Strix occidentalis_Spotted Owl,0.10811861,25.0,28.0
+Strix varia_Barred Owl,0.9787844,26.0,29.0
+Strix occidentalis_Spotted Owl,0.5039272,26.0,29.0
+Human non-vocal_Human non-vocal,0.10188616,26.0,29.0
+Strix varia_Barred Owl,0.99680734,27.0,30.0
+Strix occidentalis_Spotted Owl,0.18920925,27.0,30.0
+Strix varia_Barred Owl,0.99837273,28.0,31.0
+Strix occidentalis_Spotted Owl,0.24053936,28.0,31.0
+Strix aluco_Tawny Owl,0.10871686,29.0,32.0
+Strix varia_Barred Owl,0.16336226,40.0,43.0
+Strix aluco_Tawny Owl,0.14090455,40.0,43.0
+Aegolius acadicus_Northern Saw-whet Owl,0.13184544,40.0,43.0
+Strix varia_Barred Owl,0.5766614,41.0,44.0
+Strix varia_Barred Owl,0.9503747,42.0,45.0
+Strix varia_Barred Owl,0.9144856,43.0,46.0
+Strix aluco_Tawny Owl,0.35940236,44.0,47.0
+Engine_Engine,0.18963394,45.0,48.0
+Engine_Engine,0.15821962,46.0,49.0
+Engine_Engine,0.1799624,47.0,50.0
+Engine_Engine,0.20202656,48.0,51.0
+Engine_Engine,0.2641077,49.0,52.0
+Engine_Engine,0.15030722,50.0,53.0
+Engine_Engine,0.3099177,51.0,54.0
+Engine_Engine,0.3125617,52.0,55.0
+Engine_Engine,0.11473748,53.0,56.0
+Strix varia_Barred Owl,0.13489422,55.0,58.0
+Strix varia_Barred Owl,0.5388062,56.0,59.0
+Aegolius acadicus_Northern Saw-whet Owl,0.12999512,56.0,59.0
+Strix aluco_Tawny Owl,0.10866652,56.0,59.0
+Strix aluco_Tawny Owl,0.11274438,57.0,60.0
+Engine_Engine,0.16201745,65.0,68.0
+Human non-vocal_Human non-vocal,0.5913608,69.0,72.0
+Strix varia_Barred Owl,0.13252385,69.0,72.0
+Engine_Engine,0.11040379,69.0,72.0
+Strix varia_Barred Owl,0.71858525,70.0,73.0
+Strix varia_Barred Owl,0.9523857,71.0,74.0
+Strix varia_Barred Owl,0.77000844,72.0,75.0
+Strix aluco_Tawny Owl,0.10045677,72.0,75.0
+Engine_Engine,0.4268512,73.0,76.0
+Engine_Engine,0.2675813,74.0,77.0
+Human vocal_Human vocal,0.23077743,74.0,77.0
+Engine_Engine,0.25999647,75.0,78.0
+Human vocal_Human vocal,0.16398503,75.0,78.0
+Engine_Engine,0.20758478,76.0,79.0
+Strix varia_Barred Owl,0.97922814,78.0,81.0
+Strix occidentalis_Spotted Owl,0.6908751,78.0,81.0
+Malacoptila fulvogularis_Black-streaked Puffbird,0.17252252,78.0,81.0
+Strix varia_Barred Owl,0.99532086,79.0,82.0
+Strix occidentalis_Spotted Owl,0.89197665,79.0,82.0
+Surnia ulula_Northern Hawk Owl,0.7073916,79.0,82.0
+Strix varia_Barred Owl,0.989903,80.0,83.0
+Strix occidentalis_Spotted Owl,0.6204572,80.0,83.0
+Surnia ulula_Northern Hawk Owl,0.19046329,80.0,83.0
+Engine_Engine,0.32531062,81.0,84.0
+Engine_Engine,0.2784952,82.0,85.0
+Engine_Engine,0.13432172,84.0,87.0
+Strix varia_Barred Owl,0.37256944,85.0,88.0
+Tyto alba_Barn Owl,0.20321298,85.0,88.0
+Athene noctua_Little Owl,0.12687401,85.0,88.0
+Aegolius acadicus_Northern Saw-whet Owl,0.12480081,85.0,88.0
+Strix varia_Barred Owl,0.82112217,86.0,89.0
+Strix varia_Barred Owl,0.8961519,87.0,90.0
+Strix varia_Barred Owl,0.5300873,88.0,91.0
+Engine_Engine,0.23030543,90.0,93.0
+Engine_Engine,0.18869482,91.0,94.0
+Engine_Engine,0.112527765,92.0,95.0
+Engine_Engine,0.29554945,93.0,96.0
+Engine_Engine,0.31937572,94.0,97.0
+Engine_Engine,0.30963036,95.0,98.0
+Engine_Engine,0.28365576,96.0,99.0
+Engine_Engine,0.45294946,97.0,100.0
+Engine_Engine,0.5867081,98.0,101.0
+Oreothlypis gutturalis_Flame-throated Warbler,0.101483114,99.0,102.0
+Strix varia_Barred Owl,0.8187371,100.0,103.0
+Strix varia_Barred Owl,0.858223,101.0,104.0
+Strix varia_Barred Owl,0.62680435,102.0,105.0
+Tyto alba_Barn Owl,0.26284665,102.0,105.0
+Engine_Engine,0.26173052,103.0,106.0
+Engine_Engine,0.20822787,104.0,107.0
+Engine_Engine,0.27304,105.0,108.0
+Engine_Engine,0.17700283,106.0,109.0
+Engine_Engine,0.3019163,107.0,110.0
+Engine_Engine,0.22897518,108.0,111.0
+Engine_Engine,0.30624402,109.0,112.0
+Engine_Engine,0.33387735,110.0,113.0
+Engine_Engine,0.76436365,111.0,114.0
+Strix varia_Barred Owl,0.58407,112.0,115.0
+Strix aluco_Tawny Owl,0.2016283,112.0,115.0
+Megascops asio_Eastern Screech-Owl,0.18672757,112.0,115.0
+Strix varia_Barred Owl,0.725892,113.0,116.0
+Engine_Engine,0.20557861,113.0,116.0
+Human non-vocal_Human non-vocal,0.116708875,113.0,116.0
+Strix varia_Barred Owl,0.8790768,114.0,117.0
+Human non-vocal_Human non-vocal,0.11337778,114.0,117.0
+Tyto alba_Barn Owl,0.10862574,114.0,117.0
+Strix varia_Barred Owl,0.88229495,115.0,117.72

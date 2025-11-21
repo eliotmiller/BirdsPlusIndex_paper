@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.2297494,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17072296,0.0,3.0
+Setophaga ruticilla_American Redstart,0.11061558,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11027376,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24048662,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21843144,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.11452868,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.105585344,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.18071069,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1693945,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15675732,3.0,6.0
+Buteo platypterus_Broad-winged Hawk,0.10610406,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.10537859,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20116673,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15711178,4.0,7.0
+Buteo platypterus_Broad-winged Hawk,0.1466406,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.12059063,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.108947806,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100620784,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10373577,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.35958776,8.0,11.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.104638845,9.0,12.0
+Setophaga ruticilla_American Redstart,0.4806924,10.0,13.0
+Setophaga ruticilla_American Redstart,0.8266264,11.0,14.0
+Setophaga ruticilla_American Redstart,0.8439465,12.0,15.0
+Setophaga ruticilla_American Redstart,0.5193373,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.12178685,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1411263,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.13611348,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10028839,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.12518534,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11333963,15.0,18.0
+Buteo platypterus_Broad-winged Hawk,0.13286333,16.0,19.0
+Buteo platypterus_Broad-winged Hawk,0.11202793,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13853341,19.0,22.0
+Buteo platypterus_Broad-winged Hawk,0.13255975,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.11602384,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.110141076,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12652452,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.11768473,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10743896,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.13399535,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1087362,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.103493646,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.13099085,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.113823675,25.0,28.0
+Buteo platypterus_Broad-winged Hawk,0.120643765,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15094055,28.0,31.0
+Buteo platypterus_Broad-winged Hawk,0.10645332,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.10487541,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.10186476,28.0,31.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.18690844,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.21089475,31.0,34.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12396592,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.10295218,31.0,34.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.28908342,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115348995,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.116808996,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.16941443,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.4981723,36.0,39.0
+Setophaga ruticilla_American Redstart,0.3734559,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.24981429,37.0,40.0
+Setophaga ruticilla_American Redstart,0.6275038,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.13247018,38.0,41.0
+Setophaga ruticilla_American Redstart,0.3289823,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.119756095,39.0,42.0
+Setophaga ruticilla_American Redstart,0.3053602,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.13403521,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10604666,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.12975827,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112375475,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11131392,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.13637032,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117557004,45.0,48.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11526175,45.0,48.0
+Setophaga ruticilla_American Redstart,0.8256395,46.0,49.0
+Setophaga ruticilla_American Redstart,0.8971811,47.0,50.0
+Setophaga ruticilla_American Redstart,0.9250438,48.0,51.0
+Setophaga ruticilla_American Redstart,0.6354435,49.0,51.79201814058957
+Setophaga americana_Northern Parula,0.16048937,49.0,51.79201814058957

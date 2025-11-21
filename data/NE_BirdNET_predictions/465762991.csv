@@ -1,0 +1,357 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.5768865,1.0,4.0
+Melospiza melodia_Song Sparrow,0.846353,2.0,5.0
+Melospiza melodia_Song Sparrow,0.9722162,3.0,6.0
+Melospiza melodia_Song Sparrow,0.73565716,4.0,7.0
+Melospiza melodia_Song Sparrow,0.36323005,5.0,8.0
+Lanius collurio_Red-backed Shrike,0.33464602,6.0,9.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13052486,6.0,9.0
+Lanius collurio_Red-backed Shrike,0.21110868,8.0,11.0
+Lanius collurio_Red-backed Shrike,0.21886781,9.0,12.0
+Lanius collurio_Red-backed Shrike,0.6976715,10.0,13.0
+Gryllus fultoni_Southern Wood Cricket,0.29534462,11.0,14.0
+Ammodramus savannarum_Grasshopper Sparrow,0.82360405,12.0,15.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8231369,13.0,16.0
+Gryllus fultoni_Southern Wood Cricket,0.11852009,13.0,16.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5513534,14.0,17.0
+Ammodramus savannarum_Grasshopper Sparrow,0.24090716,15.0,18.0
+Melospiza melodia_Song Sparrow,0.720395,16.0,19.0
+Melospiza melodia_Song Sparrow,0.51461065,17.0,20.0
+Melospiza melodia_Song Sparrow,0.9329909,18.0,21.0
+Melospiza melodia_Song Sparrow,0.5726967,19.0,22.0
+Melospiza melodia_Song Sparrow,0.5076964,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.29735565,22.0,25.0
+Ammodramus savannarum_Grasshopper Sparrow,0.37676966,23.0,26.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7831906,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4590098,25.0,28.0
+Lanius collurio_Red-backed Shrike,0.7266685,26.0,29.0
+Lanius collurio_Red-backed Shrike,0.5211986,27.0,30.0
+Lanius collurio_Red-backed Shrike,0.22563711,28.0,31.0
+Icterus cucullatus_Hooded Oriole,0.11416417,28.0,31.0
+Amphispiza bilineata_Black-throated Sparrow,0.31443018,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19560717,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.122710146,33.0,36.0
+Colinus virginianus_Northern Bobwhite,0.11074437,33.0,36.0
+Sturnella neglecta_Western Meadowlark,0.30343595,34.0,37.0
+Melospiza melodia_Song Sparrow,0.89169216,35.0,38.0
+Melospiza melodia_Song Sparrow,0.9485641,36.0,39.0
+Melospiza melodia_Song Sparrow,0.97167295,37.0,40.0
+Melospiza melodia_Song Sparrow,0.77990097,38.0,41.0
+Pooecetes gramineus_Vesper Sparrow,0.28192222,38.0,41.0
+Calamospiza melanocorys_Lark Bunting,0.1901732,39.0,42.0
+Melospiza melodia_Song Sparrow,0.15582547,39.0,42.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11032415,40.0,43.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10423465,41.0,44.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10556498,43.0,46.0
+Ammodramus savannarum_Grasshopper Sparrow,0.49252576,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.10609596,45.0,48.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4855229,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.17869084,46.0,49.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30309713,47.0,50.0
+Icteria virens_Yellow-breasted Chat,0.1427857,50.0,53.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1314623,50.0,53.0
+Melospiza melodia_Song Sparrow,0.48313215,51.0,54.0
+Melospiza melodia_Song Sparrow,0.31961218,52.0,55.0
+Melospiza melodia_Song Sparrow,0.894974,53.0,56.0
+Melospiza melodia_Song Sparrow,0.5629329,54.0,57.0
+Melospiza melodia_Song Sparrow,0.4105588,55.0,58.0
+Ammodramus savannarum_Grasshopper Sparrow,0.62180895,58.0,61.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3842879,59.0,62.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7745083,60.0,63.0
+Ammodramus savannarum_Grasshopper Sparrow,0.49657854,61.0,64.0
+Ammodramus savannarum_Grasshopper Sparrow,0.34011564,62.0,65.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1620709,65.0,68.0
+Peucaea cassinii_Cassin's Sparrow,0.11026436,65.0,68.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12021163,66.0,69.0
+Icteria virens_Yellow-breasted Chat,0.11454054,66.0,69.0
+Melospiza melodia_Song Sparrow,0.59056145,68.0,71.0
+Melospiza melodia_Song Sparrow,0.61881566,69.0,72.0
+Melospiza melodia_Song Sparrow,0.9558225,70.0,73.0
+Melospiza melodia_Song Sparrow,0.315932,71.0,74.0
+Pooecetes gramineus_Vesper Sparrow,0.19678968,71.0,74.0
+Melospiza melodia_Song Sparrow,0.43455076,72.0,75.0
+Spiza americana_Dickcissel,0.14674248,74.0,77.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13696225,74.0,77.0
+Centronyx henslowii_Henslow's Sparrow,0.100902475,74.0,77.0
+Spiza americana_Dickcissel,0.2336995,75.0,78.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15598659,75.0,78.0
+Icterus spurius_Orchard Oriole,0.10581785,75.0,78.0
+Ixobrychus exilis_Least Bittern,0.102711,75.0,78.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1651434,76.0,79.0
+Spiza americana_Dickcissel,0.11665691,76.0,79.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11889148,77.0,80.0
+Dolichonyx oryzivorus_Bobolink,0.34282506,79.0,82.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2060084,79.0,82.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2530636,80.0,83.0
+Dolichonyx oryzivorus_Bobolink,0.12426884,80.0,83.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4151334,81.0,84.0
+Dolichonyx oryzivorus_Bobolink,0.104963854,81.0,84.0
+Melospiza melodia_Song Sparrow,0.21579297,82.0,85.0
+Melospiza melodia_Song Sparrow,0.7151046,83.0,86.0
+Melospiza melodia_Song Sparrow,0.96525663,84.0,87.0
+Melospiza melodia_Song Sparrow,0.8580885,85.0,88.0
+Pooecetes gramineus_Vesper Sparrow,0.14323963,85.0,88.0
+Melospiza melodia_Song Sparrow,0.6624519,86.0,89.0
+Passerina caerulea_Blue Grosbeak,0.20840545,87.0,90.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13547713,88.0,91.0
+Ammodramus savannarum_Grasshopper Sparrow,0.107581645,89.0,92.0
+Ammospiza maritima_Seaside Sparrow,0.10827944,91.0,94.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10792787,91.0,94.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10776141,93.0,96.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18931189,94.0,97.0
+Dolichonyx oryzivorus_Bobolink,0.12885134,94.0,97.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2909826,95.0,98.0
+Icteria virens_Yellow-breasted Chat,0.39072916,96.0,99.0
+Sturnella neglecta_Western Meadowlark,0.12728432,96.0,99.0
+Melospiza melodia_Song Sparrow,0.6529665,97.0,100.0
+Melospiza melodia_Song Sparrow,0.89402366,98.0,101.0
+Melospiza melodia_Song Sparrow,0.96973485,99.0,102.0
+Melospiza melodia_Song Sparrow,0.5332012,100.0,103.0
+Pooecetes gramineus_Vesper Sparrow,0.25381362,100.0,103.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25201404,102.0,105.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5041862,103.0,106.0
+Ammodramus savannarum_Grasshopper Sparrow,0.33360854,104.0,107.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6654163,105.0,108.0
+Ammodramus savannarum_Grasshopper Sparrow,0.50891083,106.0,109.0
+Pooecetes gramineus_Vesper Sparrow,0.12396391,108.0,111.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12288621,108.0,111.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16230737,109.0,112.0
+Pooecetes gramineus_Vesper Sparrow,0.10418528,109.0,112.0
+Passerina caerulea_Blue Grosbeak,0.16315125,110.0,113.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11731659,110.0,113.0
+Melospiza melodia_Song Sparrow,0.3395656,112.0,115.0
+Melospiza melodia_Song Sparrow,0.93786365,113.0,116.0
+Melospiza melodia_Song Sparrow,0.98366714,114.0,117.0
+Melospiza melodia_Song Sparrow,0.4600485,115.0,118.0
+Pooecetes gramineus_Vesper Sparrow,0.36862305,115.0,118.0
+Melospiza melodia_Song Sparrow,0.16835296,116.0,119.0
+Passerina caerulea_Blue Grosbeak,0.5562925,117.0,120.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11269667,117.0,120.0
+Passerina caerulea_Blue Grosbeak,0.5079664,118.0,121.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14701696,119.0,122.0
+Ammodramus savannarum_Grasshopper Sparrow,0.123891495,120.0,123.0
+Dolichonyx oryzivorus_Bobolink,0.1183644,121.0,124.0
+Calamospiza melanocorys_Lark Bunting,0.19395263,122.0,125.0
+Peucaea cassinii_Cassin's Sparrow,0.116963774,123.0,126.0
+Passerina caerulea_Blue Grosbeak,0.1892811,126.0,129.0
+Peucaea cassinii_Cassin's Sparrow,0.17629097,126.0,129.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12408244,126.0,129.0
+Passerina caerulea_Blue Grosbeak,0.24673352,127.0,130.0
+Passerina caerulea_Blue Grosbeak,0.48866653,128.0,131.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20560731,128.0,131.0
+Peucaea cassinii_Cassin's Sparrow,0.13433865,128.0,131.0
+Melospiza melodia_Song Sparrow,0.43621427,129.0,132.0
+Melospiza melodia_Song Sparrow,0.28438538,130.0,133.0
+Melospiza melodia_Song Sparrow,0.9397646,131.0,134.0
+Melospiza melodia_Song Sparrow,0.77935725,132.0,135.0
+Pooecetes gramineus_Vesper Sparrow,0.19317578,132.0,135.0
+Melospiza melodia_Song Sparrow,0.656541,133.0,136.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.3382514,134.0,137.0
+Emberiza hortulana_Ortolan Bunting,0.19246237,134.0,137.0
+Emberiza melanocephala_Black-headed Bunting,0.11100566,134.0,137.0
+Passerina caerulea_Blue Grosbeak,0.4800395,138.0,141.0
+Passerina caerulea_Blue Grosbeak,0.17109612,139.0,142.0
+Passerina caerulea_Blue Grosbeak,0.44172972,140.0,143.0
+Ammodramus savannarum_Grasshopper Sparrow,0.41099077,141.0,144.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30389673,142.0,145.0
+Ammodramus savannarum_Grasshopper Sparrow,0.32161522,143.0,146.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12134716,144.0,147.0
+Dolichonyx oryzivorus_Bobolink,0.18390259,145.0,148.0
+Melospiza melodia_Song Sparrow,0.86743945,146.0,149.0
+Spiza americana_Dickcissel,0.43837097,146.0,149.0
+Melospiza melodia_Song Sparrow,0.1964181,147.0,150.0
+Pooecetes gramineus_Vesper Sparrow,0.14712377,147.0,150.0
+Melospiza melodia_Song Sparrow,0.98997,148.0,151.0
+Melospiza melodia_Song Sparrow,0.6766847,149.0,152.0
+Passerina caerulea_Blue Grosbeak,0.25152513,151.0,154.0
+Passerina caerulea_Blue Grosbeak,0.28096482,152.0,155.0
+Vireo bellii_Bell's Vireo,0.15936323,152.0,155.0
+Passerina caerulea_Blue Grosbeak,0.13482185,153.0,156.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2390616,154.0,157.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10645684,155.0,158.0
+Gryllus fultoni_Southern Wood Cricket,0.21878621,161.0,164.0
+Gryllus fultoni_Southern Wood Cricket,0.13728538,162.0,165.0
+Gryllus fultoni_Southern Wood Cricket,0.19996545,163.0,166.0
+Gryllus fultoni_Southern Wood Cricket,0.51534027,164.0,167.0
+Gryllus fultoni_Southern Wood Cricket,0.36407107,165.0,168.0
+Gryllus fultoni_Southern Wood Cricket,0.10490831,166.0,169.0
+Gryllus fultoni_Southern Wood Cricket,0.16561349,167.0,170.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6487921,168.0,171.0
+Ammodramus savannarum_Grasshopper Sparrow,0.60929793,169.0,172.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2532143,170.0,173.0
+Gryllus fultoni_Southern Wood Cricket,0.15431304,171.0,174.0
+Gryllus fultoni_Southern Wood Cricket,0.27352268,172.0,175.0
+Gryllus fultoni_Southern Wood Cricket,0.13820595,173.0,176.0
+Gryllus rubens_Southeastern Field Cricket,0.12243824,173.0,176.0
+Gryllus fultoni_Southern Wood Cricket,0.14961062,174.0,177.0
+Gryllus fultoni_Southern Wood Cricket,0.12055259,175.0,178.0
+Gryllus fultoni_Southern Wood Cricket,0.23593047,176.0,179.0
+Gryllus fultoni_Southern Wood Cricket,0.1056144,177.0,180.0
+Spiza americana_Dickcissel,0.1876673,178.0,181.0
+Gryllus fultoni_Southern Wood Cricket,0.114779145,178.0,181.0
+Calamospiza melanocorys_Lark Bunting,0.13175279,181.0,184.0
+Pooecetes gramineus_Vesper Sparrow,0.104038514,182.0,185.0
+Gryllus fultoni_Southern Wood Cricket,0.23126584,183.0,186.0
+Gryllus fultoni_Southern Wood Cricket,0.29613945,184.0,187.0
+Gryllus fultoni_Southern Wood Cricket,0.29956874,185.0,188.0
+Gryllus fultoni_Southern Wood Cricket,0.57637554,186.0,189.0
+Gryllus fultoni_Southern Wood Cricket,0.7274547,187.0,190.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.11809086,187.0,190.0
+Gryllus fultoni_Southern Wood Cricket,0.6038003,188.0,191.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1070708,188.0,191.0
+Gryllus fultoni_Southern Wood Cricket,0.472872,189.0,192.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1650729,189.0,192.0
+Ammodramus savannarum_Grasshopper Sparrow,0.32915586,191.0,194.0
+Ammodramus savannarum_Grasshopper Sparrow,0.54694283,192.0,195.0
+Ammodramus savannarum_Grasshopper Sparrow,0.453752,193.0,196.0
+Gryllus fultoni_Southern Wood Cricket,0.31639555,195.0,198.0
+Gryllus fultoni_Southern Wood Cricket,0.17704841,196.0,199.0
+Gryllus fultoni_Southern Wood Cricket,0.6040836,197.0,200.0
+Pooecetes gramineus_Vesper Sparrow,0.101303115,204.0,207.0
+Gryllus fultoni_Southern Wood Cricket,0.13780738,205.0,208.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12722623,205.0,208.0
+Gryllus fultoni_Southern Wood Cricket,0.10049445,206.0,209.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15123,208.0,211.0
+Ammodramus savannarum_Grasshopper Sparrow,0.100988224,209.0,212.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1418871,210.0,213.0
+Spiza americana_Dickcissel,0.23115359,211.0,214.0
+Spiza americana_Dickcissel,0.503271,212.0,215.0
+Melospiza melodia_Song Sparrow,0.4844727,213.0,216.0
+Melospiza melodia_Song Sparrow,0.54799575,214.0,217.0
+Pooecetes gramineus_Vesper Sparrow,0.3071673,214.0,217.0
+Melospiza melodia_Song Sparrow,0.2350139,215.0,218.0
+Pooecetes gramineus_Vesper Sparrow,0.12920776,215.0,218.0
+Melospiza melodia_Song Sparrow,0.3191255,216.0,219.0
+Ixobrychus exilis_Least Bittern,0.13576628,218.0,221.0
+Passerina caerulea_Blue Grosbeak,0.11361298,218.0,221.0
+Spizella pusilla_Field Sparrow,0.42130187,219.0,222.0
+Spizella pusilla_Field Sparrow,0.45586643,220.0,223.0
+Spizella pusilla_Field Sparrow,0.27753222,221.0,224.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25778228,221.0,224.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12538132,222.0,225.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12836444,223.0,226.0
+Spiza americana_Dickcissel,0.3669342,227.0,230.0
+Pipilo chlorurus_Green-tailed Towhee,0.14282663,227.0,230.0
+Melospiza melodia_Song Sparrow,0.9223759,228.0,231.0
+Melospiza melodia_Song Sparrow,0.9291859,229.0,232.0
+Melospiza melodia_Song Sparrow,0.87677747,230.0,233.0
+Pooecetes gramineus_Vesper Sparrow,0.23866747,231.0,234.0
+Melospiza melodia_Song Sparrow,0.11218964,231.0,234.0
+Saxicola rubetra_Whinchat,0.104712784,232.0,235.0
+Spizella pusilla_Field Sparrow,0.2850819,236.0,239.0
+Spizella pusilla_Field Sparrow,0.73800397,237.0,240.0
+Spizella pusilla_Field Sparrow,0.6203055,238.0,241.0
+Peucaea cassinii_Cassin's Sparrow,0.1284892,238.0,241.0
+Spizella pusilla_Field Sparrow,0.91942436,239.0,242.0
+Ammodramus savannarum_Grasshopper Sparrow,0.43329096,239.0,242.0
+Centronyx henslowii_Henslow's Sparrow,0.19853383,239.0,242.0
+Passerina caerulea_Blue Grosbeak,0.11148583,239.0,242.0
+Melospiza melodia_Song Sparrow,0.7590268,240.0,243.0
+Spiza americana_Dickcissel,0.6737236,240.0,243.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20109455,240.0,243.0
+Melospiza melodia_Song Sparrow,0.71829337,241.0,244.0
+Melospiza melodia_Song Sparrow,0.95506716,242.0,245.0
+Melospiza melodia_Song Sparrow,0.51537097,243.0,246.0
+Pooecetes gramineus_Vesper Sparrow,0.14551951,243.0,246.0
+Melospiza melodia_Song Sparrow,0.5911216,244.0,247.0
+Pooecetes gramineus_Vesper Sparrow,0.32713297,244.0,247.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11795332,245.0,248.0
+Melospiza melodia_Song Sparrow,0.13350151,246.0,249.0
+Spizella pallida_Clay-colored Sparrow,0.19950782,247.0,250.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1011612,247.0,250.0
+Ammodramus savannarum_Grasshopper Sparrow,0.41042274,249.0,252.0
+Ammospiza leconteii_LeConte's Sparrow,0.13200508,249.0,252.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7477029,250.0,253.0
+Passerina caerulea_Blue Grosbeak,0.19111457,250.0,253.0
+Ammodramus savannarum_Grasshopper Sparrow,0.45432943,251.0,254.0
+Passerina caerulea_Blue Grosbeak,0.43997735,252.0,255.0
+Icterus spurius_Orchard Oriole,0.2164168,252.0,255.0
+Spiza americana_Dickcissel,0.10881823,252.0,255.0
+Passerina caerulea_Blue Grosbeak,0.8343151,253.0,256.0
+Passerina caerulea_Blue Grosbeak,0.6762455,254.0,257.0
+Passerina caerulea_Blue Grosbeak,0.6551876,255.0,258.0
+Lanius collurio_Red-backed Shrike,0.1916431,259.0,262.0
+Lanius collurio_Red-backed Shrike,0.4658988,260.0,263.0
+Lanius collurio_Red-backed Shrike,0.28263366,261.0,264.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7550359,263.0,266.0
+Passerina caerulea_Blue Grosbeak,0.97347856,264.0,267.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15095468,264.0,267.0
+Passerina caerulea_Blue Grosbeak,0.94495314,265.0,268.0
+Ammodramus savannarum_Grasshopper Sparrow,0.35249338,265.0,268.0
+Passerina caerulea_Blue Grosbeak,0.87854046,266.0,269.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2581996,266.0,269.0
+Passerina caerulea_Blue Grosbeak,0.965211,267.0,270.0
+Spiza americana_Dickcissel,0.8618029,268.0,271.0
+Melospiza melodia_Song Sparrow,0.9008883,269.0,272.0
+Melospiza melodia_Song Sparrow,0.88433427,270.0,273.0
+Melospiza melodia_Song Sparrow,0.8970804,271.0,274.0
+Melospiza melodia_Song Sparrow,0.5064163,272.0,275.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8964356,274.0,277.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6733664,275.0,278.0
+Ammodramus savannarum_Grasshopper Sparrow,0.48789164,276.0,279.0
+Passerina caerulea_Blue Grosbeak,0.9808194,277.0,280.0
+Passerina caerulea_Blue Grosbeak,0.98432434,278.0,281.0
+Passerina caerulea_Blue Grosbeak,0.9454518,279.0,282.0
+Passerina caerulea_Blue Grosbeak,0.98956084,280.0,283.0
+Passerina caerulea_Blue Grosbeak,0.94142735,281.0,284.0
+Melospiza melodia_Song Sparrow,0.8085511,282.0,285.0
+Melospiza melodia_Song Sparrow,0.9246713,283.0,286.0
+Melospiza melodia_Song Sparrow,0.93248415,284.0,287.0
+Melospiza melodia_Song Sparrow,0.36079195,285.0,288.0
+Melospiza melodia_Song Sparrow,0.2752435,286.0,289.0
+Passerina caerulea_Blue Grosbeak,0.91132283,288.0,291.0
+Passerina caerulea_Blue Grosbeak,0.9798406,289.0,292.0
+Passerina caerulea_Blue Grosbeak,0.9635097,290.0,293.0
+Passerina caerulea_Blue Grosbeak,0.9473594,291.0,294.0
+Peucaea cassinii_Cassin's Sparrow,0.21352339,291.0,294.0
+Passerina caerulea_Blue Grosbeak,0.9873547,292.0,295.0
+Peucaea cassinii_Cassin's Sparrow,0.18595268,292.0,295.0
+Passerina caerulea_Blue Grosbeak,0.9384157,293.0,296.0
+Peucaea cassinii_Cassin's Sparrow,0.2771064,293.0,296.0
+Emberiza hortulana_Ortolan Bunting,0.22373013,297.0,300.0
+Spiza americana_Dickcissel,0.22150923,297.0,300.0
+Luscinia svecica_Bluethroat,0.1607262,297.0,300.0
+Melospiza melodia_Song Sparrow,0.93006915,298.0,301.0
+Melospiza melodia_Song Sparrow,0.6771535,299.0,302.0
+Melospiza melodia_Song Sparrow,0.8842783,300.0,303.0
+Pooecetes gramineus_Vesper Sparrow,0.3256168,301.0,304.0
+Melospiza melodia_Song Sparrow,0.1508206,301.0,304.0
+Passerina caerulea_Blue Grosbeak,0.8314086,303.0,306.0
+Passerina caerulea_Blue Grosbeak,0.9079865,304.0,307.0
+Passerina caerulea_Blue Grosbeak,0.71397847,305.0,308.0
+Lanius collurio_Red-backed Shrike,0.22229722,307.0,310.0
+Gryllus fultoni_Southern Wood Cricket,0.10164632,307.0,310.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.22013673,309.0,312.0
+Lanius collurio_Red-backed Shrike,0.16358218,309.0,312.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.26384938,310.0,313.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21499398,310.0,313.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11738841,311.0,314.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10801643,312.0,315.0
+Melospiza melodia_Song Sparrow,0.6423497,314.0,317.0
+Melospiza melodia_Song Sparrow,0.71266484,315.0,318.0
+Melospiza melodia_Song Sparrow,0.94718343,316.0,319.0
+Melospiza melodia_Song Sparrow,0.44278243,317.0,320.0
+Melospiza melodia_Song Sparrow,0.107292816,318.0,321.0
+Spizella pusilla_Field Sparrow,0.13751993,322.0,325.0
+Dolichonyx oryzivorus_Bobolink,0.10791313,322.0,325.0
+Spizella pusilla_Field Sparrow,0.1651657,323.0,326.0
+Spizella pusilla_Field Sparrow,0.18877313,324.0,327.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11752438,324.0,327.0
+Spizella pusilla_Field Sparrow,0.16895062,325.0,328.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12086197,326.0,329.0
+Agelaius phoeniceus_Red-winged Blackbird,0.24463108,327.0,330.0
+Agelaius phoeniceus_Red-winged Blackbird,0.28246385,328.0,331.0
+Passerina caerulea_Blue Grosbeak,0.19801398,329.0,332.0
+Passerina caerulea_Blue Grosbeak,0.17958914,330.0,333.0
+Passerina caerulea_Blue Grosbeak,0.29398862,331.0,334.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1504338,336.0,339.0
+Gryllus fultoni_Southern Wood Cricket,0.15381232,338.0,341.0
+Gryllus fultoni_Southern Wood Cricket,0.1396259,339.0,342.0
+Gryllus fultoni_Southern Wood Cricket,0.17957766,340.0,343.0
+Passerina caerulea_Blue Grosbeak,0.157321,345.0,348.0
+Chondestes grammacus_Lark Sparrow,0.15682785,345.0,348.0
+Gryllus fultoni_Southern Wood Cricket,0.27453429,351.0,354.0
+Gryllus fultoni_Southern Wood Cricket,0.18557435,353.0,356.0
+Passerina caerulea_Blue Grosbeak,0.13367455,357.0,360.0
+Chondestes grammacus_Lark Sparrow,0.1294805,357.0,360.0
+Passerina caerulea_Blue Grosbeak,0.24046451,358.0,361.0

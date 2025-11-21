@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Thryothorus ludovicianus_Carolina Wren,0.96717393,0.0,3.0
+Thryothorus ludovicianus_Carolina Wren,0.3694171,1.0,4.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.17379604,2.0,5.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17381856,3.0,6.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.13446987,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10584372,3.0,6.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.8182216,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.985338,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.98246723,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.9185116,7.0,10.0
+Thryothorus ludovicianus_Carolina Wren,0.9103168,8.0,11.0
+Thryothorus ludovicianus_Carolina Wren,0.6894124,9.0,12.0
+Thryothorus ludovicianus_Carolina Wren,0.46889886,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.28618553,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.2713218,11.0,14.0
+Pooecetes gramineus_Vesper Sparrow,0.21082197,11.0,14.0
+Piranga ludoviciana_Western Tanager,0.1508505,11.0,14.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.30518055,12.0,15.0
+Regulus satrapa_Golden-crowned Kinglet,0.10058833,12.0,15.0
+Thryothorus ludovicianus_Carolina Wren,0.89781684,13.0,16.0
+Thryothorus ludovicianus_Carolina Wren,0.9182131,14.0,17.0
+Thryothorus ludovicianus_Carolina Wren,0.8255175,15.0,18.0
+Thryothorus ludovicianus_Carolina Wren,0.43769443,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.13656859,16.0,19.0
+Catharus guttatus_Hermit Thrush,0.57942814,18.0,21.0
+Certhia americana_Brown Creeper,0.1985709,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.61567503,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.307174,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.2108277,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.62603563,20.0,23.0
+Catharus fuscescens_Veery,0.3630792,20.0,23.0
+Catharus fuscescens_Veery,0.33608133,21.0,24.0
+Monarcha melanopsis_Black-faced Monarch,0.19824895,22.0,25.0
+Catharus fuscescens_Veery,0.20995653,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14559773,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.112871185,23.0,26.0
+Catharus fuscescens_Veery,0.45605686,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.22511795,24.0,27.0
+Monarcha melanopsis_Black-faced Monarch,0.14497203,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.11184361,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1037751,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.9793092,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.9800961,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.99313,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12256322,28.0,31.0
+Catharus fuscescens_Veery,0.5194672,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.120386384,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.4374962,30.0,33.0
+Sitta canadensis_Red-breasted Nuthatch,0.14796034,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.2747944,31.0,34.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.1354854,31.0,34.0
+Regulus satrapa_Golden-crowned Kinglet,0.10590108,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.374314,32.0,35.0
+Psiloscops flammeolus_Flammulated Owl,0.26382408,32.0,35.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12655134,32.0,35.0
+Poecile atricapillus_Black-capped Chickadee,0.108196504,32.0,35.0
+Sitta canadensis_Red-breasted Nuthatch,0.22715567,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.17020516,33.0,36.0
+Psiloscops flammeolus_Flammulated Owl,0.44498867,34.0,37.0
+Catharus fuscescens_Veery,0.103434466,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.60377663,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.31557217,36.0,39.0
+Regulus satrapa_Golden-crowned Kinglet,0.29076645,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.20978187,36.0,39.0
+Sitta canadensis_Red-breasted Nuthatch,0.15600102,36.0,39.0
+Catharus fuscescens_Veery,0.12070059,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.9887151,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.98177904,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.9803177,40.0,43.0
+Catharus fuscescens_Veery,0.42628568,41.0,43.94403628117914
