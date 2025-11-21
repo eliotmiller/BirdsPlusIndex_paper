@@ -1,0 +1,525 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.44455692,0.0,3.0
+Icterus spurius_Orchard Oriole,0.39964622,0.0,3.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.2701634,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16050614,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.78515553,1.0,4.0
+Icterus spurius_Orchard Oriole,0.25511324,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.41063643,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.5078712,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.1278922,4.0,7.0
+Corvus brachyrhynchos_American Crow,0.17419548,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.6266609,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.22092603,10.0,13.0
+Acrocephalus australis_Australian Reed Warbler,0.14279218,10.0,13.0
+Dolichonyx oryzivorus_Bobolink,0.3875921,11.0,14.0
+Icterus spurius_Orchard Oriole,0.15806763,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.2990534,12.0,15.0
+Icterus spurius_Orchard Oriole,0.17581116,12.0,15.0
+Campylorhynchus jocosus_Boucard's Wren,0.1779371,13.0,16.0
+Perisoreus canadensis_Canada Jay,0.11814084,13.0,16.0
+Dulus dominicus_Palmchat,0.103479356,13.0,16.0
+Campylorhynchus jocosus_Boucard's Wren,0.18236823,14.0,17.0
+Dulus dominicus_Palmchat,0.12378204,14.0,17.0
+Acrocephalus australis_Australian Reed Warbler,0.19636759,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.10977111,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.54915625,16.0,19.0
+Icterus spurius_Orchard Oriole,0.31833407,16.0,19.0
+Acrocephalus australis_Australian Reed Warbler,0.14795148,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.36192662,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.24092236,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.38802332,21.0,24.0
+Perisoreus canadensis_Canada Jay,0.16293018,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.52735984,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.7561485,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.42926064,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.22373404,27.0,30.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.22344814,27.0,30.0
+Icterus pyrrhopterus_Variable Oriole,0.10294609,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.9232078,28.0,31.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.22686246,28.0,31.0
+Icterus spurius_Orchard Oriole,0.14284256,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.60068834,29.0,32.0
+Icterus spurius_Orchard Oriole,0.15635045,29.0,32.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.1448411,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.36926013,30.0,33.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.23486094,30.0,33.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.31787834,32.0,35.0
+Psarocolius decumanus_Crested Oropendola,0.1524684,32.0,35.0
+Perisoreus canadensis_Canada Jay,0.10578126,32.0,35.0
+Psarocolius decumanus_Crested Oropendola,0.46063796,33.0,36.0
+Perisoreus canadensis_Canada Jay,0.17908375,33.0,36.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.18625517,34.0,37.0
+Perisoreus canadensis_Canada Jay,0.15873957,34.0,37.0
+Psarocolius decumanus_Crested Oropendola,0.11584818,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.9368409,35.0,38.0
+Icterus spurius_Orchard Oriole,0.1827142,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.9576009,36.0,39.0
+Icterus spurius_Orchard Oriole,0.14012262,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.58195,37.0,40.0
+Icterus spurius_Orchard Oriole,0.10368542,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.1878045,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.9918534,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.9924193,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.9908652,45.0,48.0
+Quiscalus quiscula_Common Grackle,0.25277886,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.20066015,46.0,49.0
+Perisoreus canadensis_Canada Jay,0.12746052,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.6682033,48.0,51.0
+Icterus spurius_Orchard Oriole,0.1948339,48.0,51.0
+Dolichonyx oryzivorus_Bobolink,0.59618235,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.35856786,50.0,53.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.119819,58.0,61.0
+Perisoreus canadensis_Canada Jay,0.4533973,59.0,62.0
+Dolichonyx oryzivorus_Bobolink,0.21607347,65.0,68.0
+Icterus spurius_Orchard Oriole,0.16417736,65.0,68.0
+Dolichonyx oryzivorus_Bobolink,0.83282936,66.0,69.0
+Icterus spurius_Orchard Oriole,0.10745949,66.0,69.0
+Dolichonyx oryzivorus_Bobolink,0.35356146,67.0,70.0
+Dolichonyx oryzivorus_Bobolink,0.34676066,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.39731565,69.0,72.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.100628436,71.0,74.0
+Gryllus rubens_Southeastern Field Cricket,0.1613476,74.0,77.0
+Icterus spurius_Orchard Oriole,0.105115026,77.0,80.0
+Icterus spurius_Orchard Oriole,0.16247769,78.0,81.0
+Cyanocitta cristata_Blue Jay,0.11115866,80.0,83.0
+Cyanocitta cristata_Blue Jay,0.19556214,83.0,86.0
+Cyanocitta cristata_Blue Jay,0.10409409,84.0,87.0
+Cyanocitta cristata_Blue Jay,0.21496649,89.0,92.0
+Cyanocitta cristata_Blue Jay,0.24885981,90.0,93.0
+Aix sponsa_Wood Duck,0.17089577,90.0,93.0
+Icterus spurius_Orchard Oriole,0.26183555,103.0,106.0
+Dolichonyx oryzivorus_Bobolink,0.22465652,103.0,106.0
+Icterus spurius_Orchard Oriole,0.33404455,104.0,107.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.2675864,104.0,107.0
+Dolichonyx oryzivorus_Bobolink,0.24243915,104.0,107.0
+Dolichonyx oryzivorus_Bobolink,0.61229193,105.0,108.0
+Icterus spurius_Orchard Oriole,0.44147226,105.0,108.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.106330015,105.0,108.0
+Strix varia_Barred Owl,0.20020203,107.0,110.0
+Cyanocitta cristata_Blue Jay,0.1742112,107.0,110.0
+Gryllus rubens_Southeastern Field Cricket,0.11560427,107.0,110.0
+Aix sponsa_Wood Duck,0.13832803,108.0,111.0
+Strix varia_Barred Owl,0.12877162,108.0,111.0
+Cyanocitta cristata_Blue Jay,0.12423624,108.0,111.0
+Gryllus rubens_Southeastern Field Cricket,0.18715885,110.0,113.0
+Cyanocitta cristata_Blue Jay,0.13072483,110.0,113.0
+Cyanocitta cristata_Blue Jay,0.19961669,111.0,114.0
+Cyanocitta cristata_Blue Jay,0.16033094,112.0,115.0
+Icterus spurius_Orchard Oriole,0.1998219,113.0,116.0
+Icterus spurius_Orchard Oriole,0.23372503,114.0,117.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.116920434,114.0,117.0
+Icterus spurius_Orchard Oriole,0.11436619,115.0,118.0
+Colinus virginianus_Northern Bobwhite,0.12208317,121.0,124.0
+Colinus virginianus_Northern Bobwhite,0.11523832,122.0,125.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.20695165,123.0,126.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.71098274,124.0,127.0
+Dolichonyx oryzivorus_Bobolink,0.1789994,124.0,127.0
+Icterus spurius_Orchard Oriole,0.11631936,124.0,127.0
+Dolichonyx oryzivorus_Bobolink,0.66659814,125.0,128.0
+Icterus spurius_Orchard Oriole,0.13163142,125.0,128.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2315704,131.0,134.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.14915526,131.0,134.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.11009304,131.0,134.0
+Icterus spurius_Orchard Oriole,0.11716471,134.0,137.0
+Icterus spurius_Orchard Oriole,0.37997594,136.0,139.0
+Syndactyla dimidiata_Russet-mantled Foliage-gleaner,0.15659042,136.0,139.0
+Cyanocitta cristata_Blue Jay,0.39385557,138.0,141.0
+Cyanocitta cristata_Blue Jay,0.5210956,139.0,142.0
+Cyanocitta cristata_Blue Jay,0.39972568,140.0,143.0
+Cyanocitta cristata_Blue Jay,0.20941795,141.0,144.0
+Cyanocitta cristata_Blue Jay,0.43224624,142.0,145.0
+Meleagris gallopavo_Wild Turkey,0.100135215,142.0,145.0
+Cyanocitta cristata_Blue Jay,0.22612095,143.0,146.0
+Cyanocitta cristata_Blue Jay,0.2582151,144.0,147.0
+Cyanocitta cristata_Blue Jay,0.10755867,145.0,148.0
+Icterus spurius_Orchard Oriole,0.19482313,147.0,150.0
+Cyanocitta cristata_Blue Jay,0.13814242,149.0,152.0
+Cyanocitta cristata_Blue Jay,0.4083204,150.0,153.0
+Cyanocitta cristata_Blue Jay,0.39214426,151.0,154.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.17061876,152.0,155.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.22044167,153.0,156.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.36736828,154.0,157.0
+Campylorhynchus jocosus_Boucard's Wren,0.15363821,156.0,159.0
+Icterus spurius_Orchard Oriole,0.2428282,157.0,160.0
+Dolichonyx oryzivorus_Bobolink,0.122015774,157.0,160.0
+Dolichonyx oryzivorus_Bobolink,0.51607245,159.0,162.0
+Icterus spurius_Orchard Oriole,0.13843633,159.0,162.0
+Dolichonyx oryzivorus_Bobolink,0.62074274,160.0,163.0
+Icterus spurius_Orchard Oriole,0.43807623,160.0,163.0
+Dolichonyx oryzivorus_Bobolink,0.6238517,161.0,164.0
+Icterus spurius_Orchard Oriole,0.33580488,161.0,164.0
+Dolichonyx oryzivorus_Bobolink,0.79966366,162.0,165.0
+Dolichonyx oryzivorus_Bobolink,0.43800285,163.0,166.0
+Dolichonyx oryzivorus_Bobolink,0.5812329,164.0,167.0
+Dumetella carolinensis_Gray Catbird,0.117779456,164.0,167.0
+Icterus spurius_Orchard Oriole,0.6153969,166.0,169.0
+Dolichonyx oryzivorus_Bobolink,0.6082946,166.0,169.0
+Calliope calliope_Siberian Rubythroat,0.39936233,166.0,169.0
+Dolichonyx oryzivorus_Bobolink,0.37329933,167.0,170.0
+Icterus spurius_Orchard Oriole,0.1720587,167.0,170.0
+Cyanocitta cristata_Blue Jay,0.80497956,168.0,171.0
+Cyanocitta cristata_Blue Jay,0.18740879,169.0,172.0
+Quiscalus quiscula_Common Grackle,0.13631566,169.0,172.0
+Dolichonyx oryzivorus_Bobolink,0.16992849,170.0,173.0
+Icterus spurius_Orchard Oriole,0.14554408,170.0,173.0
+Dolichonyx oryzivorus_Bobolink,0.8378855,171.0,174.0
+Icterus spurius_Orchard Oriole,0.2595919,171.0,174.0
+Dolichonyx oryzivorus_Bobolink,0.19749697,172.0,175.0
+Dolichonyx oryzivorus_Bobolink,0.24767952,173.0,176.0
+Icterus spurius_Orchard Oriole,0.11737464,173.0,176.0
+Dolichonyx oryzivorus_Bobolink,0.12914093,174.0,177.0
+Icterus spurius_Orchard Oriole,0.29506415,175.0,178.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.28683504,175.0,178.0
+Dolichonyx oryzivorus_Bobolink,0.19401692,175.0,178.0
+Dolichonyx oryzivorus_Bobolink,0.69066226,176.0,179.0
+Icterus spurius_Orchard Oriole,0.4697936,176.0,179.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.3009082,176.0,179.0
+Dolichonyx oryzivorus_Bobolink,0.5378317,177.0,180.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16607447,177.0,180.0
+Icterus spurius_Orchard Oriole,0.14031243,177.0,180.0
+Dolichonyx oryzivorus_Bobolink,0.53215384,178.0,181.0
+Icterus spurius_Orchard Oriole,0.3408684,178.0,181.0
+Dolichonyx oryzivorus_Bobolink,0.2158077,179.0,182.0
+Dolichonyx oryzivorus_Bobolink,0.4303884,180.0,183.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15614419,180.0,183.0
+Dolichonyx oryzivorus_Bobolink,0.36910444,181.0,184.0
+Corvus brachyrhynchos_American Crow,0.12060932,181.0,184.0
+Dolichonyx oryzivorus_Bobolink,0.26121622,182.0,185.0
+Dolichonyx oryzivorus_Bobolink,0.84022903,183.0,186.0
+Icterus spurius_Orchard Oriole,0.10912144,183.0,186.0
+Dolichonyx oryzivorus_Bobolink,0.6945784,184.0,187.0
+Dolichonyx oryzivorus_Bobolink,0.29708722,185.0,188.0
+Dolichonyx oryzivorus_Bobolink,0.8635834,188.0,191.0
+Icterus spurius_Orchard Oriole,0.27379614,188.0,191.0
+Dolichonyx oryzivorus_Bobolink,0.7566128,189.0,192.0
+Icterus spurius_Orchard Oriole,0.1802455,189.0,192.0
+Dolichonyx oryzivorus_Bobolink,0.8943669,190.0,193.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14071466,190.0,193.0
+Icterus spurius_Orchard Oriole,0.11851571,190.0,193.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2080517,191.0,194.0
+Dolichonyx oryzivorus_Bobolink,0.5688455,192.0,195.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15444471,192.0,195.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.105955854,192.0,195.0
+Dolichonyx oryzivorus_Bobolink,0.1485573,193.0,196.0
+Agelaius phoeniceus_Red-winged Blackbird,0.5401746,194.0,197.0
+Dolichonyx oryzivorus_Bobolink,0.23273502,194.0,197.0
+Icterus spurius_Orchard Oriole,0.13997386,194.0,197.0
+Dolichonyx oryzivorus_Bobolink,0.54142237,195.0,198.0
+Icterus spurius_Orchard Oriole,0.36552167,195.0,198.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20094572,195.0,198.0
+Dolichonyx oryzivorus_Bobolink,0.41303927,196.0,199.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.4126073,196.0,199.0
+Icterus spurius_Orchard Oriole,0.3597978,196.0,199.0
+Dolichonyx oryzivorus_Bobolink,0.5549106,197.0,200.0
+Icterus spurius_Orchard Oriole,0.43449864,197.0,200.0
+Dolichonyx oryzivorus_Bobolink,0.74945587,198.0,201.0
+Icterus spurius_Orchard Oriole,0.13270782,198.0,201.0
+Dolichonyx oryzivorus_Bobolink,0.66244453,199.0,202.0
+Dolichonyx oryzivorus_Bobolink,0.7374641,200.0,203.0
+Habia fuscicauda_Red-throated Ant-Tanager,0.16231835,202.0,205.0
+Dolichonyx oryzivorus_Bobolink,0.29341805,204.0,207.0
+Icterus spurius_Orchard Oriole,0.22097373,204.0,207.0
+Ramphocelus passerinii_Scarlet-rumped Tanager,0.14546192,204.0,207.0
+Dolichonyx oryzivorus_Bobolink,0.48689377,205.0,208.0
+Icterus spurius_Orchard Oriole,0.31378162,205.0,208.0
+Tityra semifasciata_Masked Tityra,0.43559498,206.0,209.0
+Agelaius tricolor_Tricolored Blackbird,0.213782,206.0,209.0
+Tityra semifasciata_Masked Tityra,0.23409986,207.0,210.0
+Perisoreus canadensis_Canada Jay,0.105123654,210.0,213.0
+Dolichonyx oryzivorus_Bobolink,0.19770664,213.0,216.0
+Acrocephalus australis_Australian Reed Warbler,0.16038273,213.0,216.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13598041,213.0,216.0
+Dolichonyx oryzivorus_Bobolink,0.19897282,214.0,217.0
+Icterus spurius_Orchard Oriole,0.19576712,214.0,217.0
+Acrocephalus australis_Australian Reed Warbler,0.17804386,214.0,217.0
+Dolichonyx oryzivorus_Bobolink,0.20451845,215.0,218.0
+Agelaius phoeniceus_Red-winged Blackbird,0.109151185,215.0,218.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.10725224,215.0,218.0
+Dulus dominicus_Palmchat,0.29015666,216.0,219.0
+Egretta thula_Snowy Egret,0.14824551,217.0,220.0
+Dolichonyx oryzivorus_Bobolink,0.52442575,218.0,221.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1037211,218.0,221.0
+Dolichonyx oryzivorus_Bobolink,0.64990383,219.0,222.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.100789525,219.0,222.0
+Dolichonyx oryzivorus_Bobolink,0.3025439,220.0,223.0
+Acrocephalus australis_Australian Reed Warbler,0.1061833,220.0,223.0
+Dolichonyx oryzivorus_Bobolink,0.5657939,222.0,225.0
+Icterus spurius_Orchard Oriole,0.35347876,222.0,225.0
+Dolichonyx oryzivorus_Bobolink,0.71765894,223.0,226.0
+Icterus spurius_Orchard Oriole,0.41941988,223.0,226.0
+Dolichonyx oryzivorus_Bobolink,0.796821,224.0,227.0
+Icterus spurius_Orchard Oriole,0.1890272,224.0,227.0
+Agelaius tricolor_Tricolored Blackbird,0.12220724,225.0,228.0
+Icterus spurius_Orchard Oriole,0.10433908,225.0,228.0
+Dolichonyx oryzivorus_Bobolink,0.36004207,227.0,230.0
+Dolichonyx oryzivorus_Bobolink,0.47397742,228.0,231.0
+Agelaius phoeniceus_Red-winged Blackbird,0.23288071,228.0,231.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.102322176,228.0,231.0
+Dolichonyx oryzivorus_Bobolink,0.29985872,229.0,232.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.2808208,229.0,232.0
+Icterus spurius_Orchard Oriole,0.26377732,229.0,232.0
+Agelaius tricolor_Tricolored Blackbird,0.13684626,229.0,232.0
+Myiopsitta monachus_Monk Parakeet,0.10117094,230.0,233.0
+Icterus spurius_Orchard Oriole,0.10001607,230.0,233.0
+Campylorhynchus jocosus_Boucard's Wren,0.11781652,232.0,235.0
+Myiopsitta monachus_Monk Parakeet,0.112521,232.0,235.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.14114125,239.0,242.0
+Icterus cucullatus_Hooded Oriole,0.91210544,241.0,244.0
+Icterus cucullatus_Hooded Oriole,0.8345488,242.0,245.0
+Dolichonyx oryzivorus_Bobolink,0.32775575,242.0,245.0
+Aphelocoma wollweberi_Mexican Jay,0.10947912,242.0,245.0
+Dolichonyx oryzivorus_Bobolink,0.90326804,243.0,246.0
+Icterus cucullatus_Hooded Oriole,0.62678176,243.0,246.0
+Dolichonyx oryzivorus_Bobolink,0.9306468,244.0,247.0
+Icterus cucullatus_Hooded Oriole,0.8981706,244.0,247.0
+Dolichonyx oryzivorus_Bobolink,0.96142423,245.0,248.0
+Icterus cucullatus_Hooded Oriole,0.45721647,245.0,248.0
+Dolichonyx oryzivorus_Bobolink,0.89707935,246.0,249.0
+Icterus cucullatus_Hooded Oriole,0.47566548,246.0,249.0
+Dolichonyx oryzivorus_Bobolink,0.6461649,247.0,250.0
+Icterus cucullatus_Hooded Oriole,0.23288335,247.0,250.0
+Dolichonyx oryzivorus_Bobolink,0.91302806,248.0,251.0
+Icterus cucullatus_Hooded Oriole,0.19606331,248.0,251.0
+Carduelis corsicana_Corsican Finch,0.14960979,248.0,251.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4447805,250.0,253.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.4243789,251.0,254.0
+Aphelocoma wollweberi_Mexican Jay,0.14128608,251.0,254.0
+Perisoreus canadensis_Canada Jay,0.18046324,256.0,259.0
+Cisticola chiniana_Rattling Cisticola,0.11957883,259.0,262.0
+Dolichonyx oryzivorus_Bobolink,0.10550651,260.0,263.0
+Icterus cucullatus_Hooded Oriole,0.51196724,261.0,264.0
+Icterus cucullatus_Hooded Oriole,0.18099041,262.0,265.0
+Chlorophonia elegantissima_Elegant Euphonia,0.22374026,266.0,269.0
+Dolichonyx oryzivorus_Bobolink,0.1713872,266.0,269.0
+Icterus cucullatus_Hooded Oriole,0.13716607,266.0,269.0
+Icterus cucullatus_Hooded Oriole,0.33052444,267.0,270.0
+Dolichonyx oryzivorus_Bobolink,0.37867737,272.0,275.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.1341067,273.0,276.0
+Seiurus aurocapilla_Ovenbird,0.27892086,276.0,279.0
+Seiurus aurocapilla_Ovenbird,0.35509026,277.0,280.0
+Chlorophonia elegantissima_Elegant Euphonia,0.15631865,279.0,282.0
+Aphelocoma wollweberi_Mexican Jay,0.13157244,279.0,282.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.25961396,280.0,283.0
+Dolichonyx oryzivorus_Bobolink,0.11109545,280.0,283.0
+Icterus cucullatus_Hooded Oriole,0.28950074,282.0,285.0
+Dolichonyx oryzivorus_Bobolink,0.14722063,283.0,286.0
+Dolichonyx oryzivorus_Bobolink,0.124708,284.0,287.0
+Haemorhous mexicanus_House Finch,0.121704325,285.0,288.0
+Haemorhous mexicanus_House Finch,0.5401273,286.0,289.0
+Dolichonyx oryzivorus_Bobolink,0.11752264,286.0,289.0
+Haemorhous mexicanus_House Finch,0.40590465,287.0,290.0
+Chlorophonia elegantissima_Elegant Euphonia,0.21174398,287.0,290.0
+Icterus cucullatus_Hooded Oriole,0.1941773,287.0,290.0
+Icterus cucullatus_Hooded Oriole,0.14549173,288.0,291.0
+Chlorophonia elegantissima_Elegant Euphonia,0.12340791,288.0,291.0
+Icterus cucullatus_Hooded Oriole,0.3948508,289.0,292.0
+Dolichonyx oryzivorus_Bobolink,0.20078085,295.0,298.0
+Icterus spurius_Orchard Oriole,0.17007533,296.0,299.0
+Cyanocitta cristata_Blue Jay,0.14948781,306.0,309.0
+Cyanocitta cristata_Blue Jay,0.2501398,310.0,313.0
+Cyanocitta cristata_Blue Jay,0.119839095,311.0,314.0
+Dumetella carolinensis_Gray Catbird,0.1556882,312.0,315.0
+Cyanocitta cristata_Blue Jay,0.11424086,312.0,315.0
+Dumetella carolinensis_Gray Catbird,0.15957995,313.0,316.0
+Chlorophonia elegantissima_Elegant Euphonia,0.51689625,317.0,320.0
+Dolichonyx oryzivorus_Bobolink,0.27972826,317.0,320.0
+Icterus cucullatus_Hooded Oriole,0.2599413,317.0,320.0
+Icterus cucullatus_Hooded Oriole,0.41475028,318.0,321.0
+Chlorophonia elegantissima_Elegant Euphonia,0.2982956,318.0,321.0
+Icterus cucullatus_Hooded Oriole,0.23697089,319.0,322.0
+Dolichonyx oryzivorus_Bobolink,0.15171327,319.0,322.0
+Cyanocitta cristata_Blue Jay,0.12583849,324.0,327.0
+Dolichonyx oryzivorus_Bobolink,0.27693996,327.0,330.0
+Dolichonyx oryzivorus_Bobolink,0.22655934,328.0,331.0
+Dolichonyx oryzivorus_Bobolink,0.779118,329.0,332.0
+Haemorhous mexicanus_House Finch,0.14632377,329.0,332.0
+Dolichonyx oryzivorus_Bobolink,0.16091529,330.0,333.0
+Dolichonyx oryzivorus_Bobolink,0.22246522,331.0,334.0
+Dolichonyx oryzivorus_Bobolink,0.41603744,333.0,336.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.10620277,333.0,336.0
+Dolichonyx oryzivorus_Bobolink,0.4048442,334.0,337.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.22080556,334.0,337.0
+Icterus spurius_Orchard Oriole,0.1386672,334.0,337.0
+Dolichonyx oryzivorus_Bobolink,0.48856395,335.0,338.0
+Cyanocitta cristata_Blue Jay,0.13050114,337.0,340.0
+Cyanocitta cristata_Blue Jay,0.12328149,339.0,342.0
+Dolichonyx oryzivorus_Bobolink,0.40638557,340.0,343.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.39360356,341.0,344.0
+Dolichonyx oryzivorus_Bobolink,0.21094802,341.0,344.0
+Euphagus carolinus_Rusty Blackbird,0.11583109,341.0,344.0
+Dolichonyx oryzivorus_Bobolink,0.7068334,342.0,345.0
+Haemorhous mexicanus_House Finch,0.10890219,343.0,346.0
+Cyanocitta cristata_Blue Jay,0.14355233,345.0,348.0
+Tringa melanoleuca_Greater Yellowlegs,0.120285764,354.0,357.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10682523,378.0,381.0
+Dolichonyx oryzivorus_Bobolink,0.5218007,383.0,386.0
+Agelaius tricolor_Tricolored Blackbird,0.4127451,383.0,386.0
+Icterus spurius_Orchard Oriole,0.26344338,383.0,386.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.15014347,383.0,386.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.12349598,383.0,386.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10109218,383.0,386.0
+Dolichonyx oryzivorus_Bobolink,0.69116944,384.0,387.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22081658,384.0,387.0
+Icterus spurius_Orchard Oriole,0.20956007,384.0,387.0
+Dolichonyx oryzivorus_Bobolink,0.7098683,385.0,388.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16730092,385.0,388.0
+Dolichonyx oryzivorus_Bobolink,0.14411543,389.0,392.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.13520575,389.0,392.0
+Dolichonyx oryzivorus_Bobolink,0.27626595,390.0,393.0
+Icterus bullockii_Bullock's Oriole,0.2006672,391.0,394.0
+Dolichonyx oryzivorus_Bobolink,0.17854819,393.0,396.0
+Dolichonyx oryzivorus_Bobolink,0.1581514,395.0,398.0
+Perisoreus canadensis_Canada Jay,0.10967355,395.0,398.0
+Corvus brachyrhynchos_American Crow,0.10049849,395.0,398.0
+Dolichonyx oryzivorus_Bobolink,0.10027295,396.0,399.0
+Dolichonyx oryzivorus_Bobolink,0.10029304,397.0,400.0
+Ptiliogonys cinereus_Gray Silky-flycatcher,0.26972705,398.0,401.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.117499106,399.0,402.0
+Dolichonyx oryzivorus_Bobolink,0.5013734,400.0,403.0
+Dolichonyx oryzivorus_Bobolink,0.35036778,401.0,404.0
+Perisoreus canadensis_Canada Jay,0.35229832,403.0,406.0
+Perisoreus canadensis_Canada Jay,0.33349696,404.0,407.0
+Perisoreus canadensis_Canada Jay,0.41155982,405.0,408.0
+Struthidea cinerea_Apostlebird,0.13176747,405.0,408.0
+Dolichonyx oryzivorus_Bobolink,0.12347725,407.0,410.0
+Dolichonyx oryzivorus_Bobolink,0.16164407,411.0,414.0
+Dolichonyx oryzivorus_Bobolink,0.15910976,412.0,415.0
+Dolichonyx oryzivorus_Bobolink,0.8362272,413.0,416.0
+Dolichonyx oryzivorus_Bobolink,0.7461619,414.0,417.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.16502646,414.0,417.0
+Dolichonyx oryzivorus_Bobolink,0.40032244,415.0,418.0
+Argya striata_Jungle Babbler,0.14782098,416.0,419.0
+Calliope calliope_Siberian Rubythroat,0.14665142,416.0,419.0
+Dolichonyx oryzivorus_Bobolink,0.11809536,416.0,419.0
+Argya striata_Jungle Babbler,0.23441662,417.0,420.0
+Calliope calliope_Siberian Rubythroat,0.4513274,418.0,421.0
+Argya striata_Jungle Babbler,0.2392022,418.0,421.0
+Quiscalus quiscula_Common Grackle,0.19228408,420.0,423.0
+Dolichonyx oryzivorus_Bobolink,0.12666108,420.0,423.0
+Quiscalus quiscula_Common Grackle,0.12982275,422.0,425.0
+Dolichonyx oryzivorus_Bobolink,0.11060439,422.0,425.0
+Dolichonyx oryzivorus_Bobolink,0.21807837,423.0,426.0
+Struthidea cinerea_Apostlebird,0.17733456,424.0,427.0
+Dolichonyx oryzivorus_Bobolink,0.13252828,429.0,432.0
+Dolichonyx oryzivorus_Bobolink,0.30407965,430.0,433.0
+Calliope calliope_Siberian Rubythroat,0.15283854,430.0,433.0
+Quiscalus quiscula_Common Grackle,0.112867646,431.0,434.0
+Dolichonyx oryzivorus_Bobolink,0.13652788,432.0,435.0
+Quiscalus quiscula_Common Grackle,0.10254061,432.0,435.0
+Actitis macularius_Spotted Sandpiper,0.24060284,438.0,441.0
+Actitis macularius_Spotted Sandpiper,0.30084145,439.0,442.0
+Chondestes grammacus_Lark Sparrow,0.1031674,441.0,444.0
+Chondestes grammacus_Lark Sparrow,0.12335953,442.0,445.0
+Dolichonyx oryzivorus_Bobolink,0.41482115,443.0,446.0
+Chlorophonia elegantissima_Elegant Euphonia,0.18962802,443.0,446.0
+Dolichonyx oryzivorus_Bobolink,0.41750398,444.0,447.0
+Chlorophonia elegantissima_Elegant Euphonia,0.23663776,444.0,447.0
+Icterus cucullatus_Hooded Oriole,0.19793355,444.0,447.0
+Aphelocoma wollweberi_Mexican Jay,0.11122893,444.0,447.0
+Dolichonyx oryzivorus_Bobolink,0.88893163,445.0,448.0
+Icterus cucullatus_Hooded Oriole,0.28574938,445.0,448.0
+Icterus wagleri_Black-vented Oriole,0.107603624,448.0,451.0
+Lanius collurio_Red-backed Shrike,0.13060619,449.0,452.0
+Actinodura egertoni_Rusty-fronted Barwing,0.119467415,450.0,453.0
+Chlorophonia elegantissima_Elegant Euphonia,0.25996405,456.0,459.0
+Dolichonyx oryzivorus_Bobolink,0.13714167,456.0,459.0
+Zosterops luteus_Australian Yellow White-eye,0.20658772,457.0,460.0
+Argya striata_Jungle Babbler,0.15094943,461.0,464.0
+Campylorhynchus jocosus_Boucard's Wren,0.121933706,461.0,464.0
+Quiscalus quiscula_Common Grackle,0.15752263,463.0,466.0
+Dolichonyx oryzivorus_Bobolink,0.67184204,468.0,471.0
+Icterus spurius_Orchard Oriole,0.12535168,468.0,471.0
+Dolichonyx oryzivorus_Bobolink,0.26540405,469.0,472.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.26230326,469.0,472.0
+Agelaius tricolor_Tricolored Blackbird,0.15710798,469.0,472.0
+Icterus spurius_Orchard Oriole,0.12691188,469.0,472.0
+Iduna caligata_Booted Warbler,0.11931054,469.0,472.0
+Dolichonyx oryzivorus_Bobolink,0.3974191,470.0,473.0
+Iduna caligata_Booted Warbler,0.20174342,470.0,473.0
+Icterus spurius_Orchard Oriole,0.13727245,470.0,473.0
+Coccothraustes abeillei_Hooded Grosbeak,0.18591222,471.0,474.0
+Dolichonyx oryzivorus_Bobolink,0.10615055,471.0,474.0
+Coccothraustes abeillei_Hooded Grosbeak,0.35397688,472.0,475.0
+Dolichonyx oryzivorus_Bobolink,0.16476427,472.0,475.0
+Contopus pertinax_Greater Pewee,0.12940988,472.0,475.0
+Haematopus palliatus_American Oystercatcher,0.10057358,472.0,475.0
+Contopus pertinax_Greater Pewee,0.6404658,473.0,476.0
+Icterus cucullatus_Hooded Oriole,0.10294717,476.0,479.0
+Icterus cucullatus_Hooded Oriole,0.25292063,479.0,482.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.15144743,483.0,486.0
+Corvus brachyrhynchos_American Crow,0.1226653,484.0,487.0
+Corvus brachyrhynchos_American Crow,0.2596266,485.0,488.0
+Corvus brachyrhynchos_American Crow,0.20697396,486.0,489.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.42137015,490.0,493.0
+Icterus spurius_Orchard Oriole,0.19804697,490.0,493.0
+Dolichonyx oryzivorus_Bobolink,0.17276353,490.0,493.0
+Icterus spurius_Orchard Oriole,0.36215657,491.0,494.0
+Dolichonyx oryzivorus_Bobolink,0.29137838,491.0,494.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.21294282,491.0,494.0
+Icterus spurius_Orchard Oriole,0.112272754,492.0,495.0
+Dolichonyx oryzivorus_Bobolink,0.104995735,492.0,495.0
+Spinus tristis_American Goldfinch,0.169588,493.0,496.0
+Spinus tristis_American Goldfinch,0.12886336,494.0,497.0
+Spinus tristis_American Goldfinch,0.24884155,495.0,498.0
+Dolichonyx oryzivorus_Bobolink,0.6822527,500.0,503.0
+Icterus spurius_Orchard Oriole,0.56335247,500.0,503.0
+Sialia sialis_Eastern Bluebird,0.2250927,500.0,503.0
+Dolichonyx oryzivorus_Bobolink,0.8497381,501.0,504.0
+Icterus spurius_Orchard Oriole,0.4105137,501.0,504.0
+Dolichonyx oryzivorus_Bobolink,0.47478852,502.0,505.0
+Icterus spurius_Orchard Oriole,0.3329729,502.0,505.0
+Cyanocitta cristata_Blue Jay,0.10751679,506.0,509.0
+Dolichonyx oryzivorus_Bobolink,0.71821105,511.0,514.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10939553,511.0,514.0
+Icterus spurius_Orchard Oriole,0.5510684,512.0,515.0
+Dolichonyx oryzivorus_Bobolink,0.52302754,512.0,515.0
+Dolichonyx oryzivorus_Bobolink,0.5493028,513.0,516.0
+Icterus spurius_Orchard Oriole,0.49308968,513.0,516.0
+Dolichonyx oryzivorus_Bobolink,0.10367833,515.0,518.0
+Dolichonyx oryzivorus_Bobolink,0.4477776,516.0,519.0
+Dolichonyx oryzivorus_Bobolink,0.54841125,517.0,520.0
+Chlorophonia elegantissima_Elegant Euphonia,0.1688524,517.0,520.0
+Dolichonyx oryzivorus_Bobolink,0.1649551,518.0,521.0
+Dolichonyx oryzivorus_Bobolink,0.52962357,520.0,523.0
+Icterus spurius_Orchard Oriole,0.20804226,520.0,523.0
+Dolichonyx oryzivorus_Bobolink,0.33788928,521.0,524.0
+Icterus spurius_Orchard Oriole,0.26658294,521.0,524.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.11662766,521.0,524.0
+Icterus spurius_Orchard Oriole,0.62848496,522.0,525.0
+Dolichonyx oryzivorus_Bobolink,0.48116857,522.0,525.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.12088661,522.0,525.0
+Dolichonyx oryzivorus_Bobolink,0.58506024,527.0,530.0
+Chlorophonia elegantissima_Elegant Euphonia,0.17825258,527.0,530.0
+Peucedramus taeniatus_Olive Warbler,0.15719528,527.0,530.0
+Chlorophonia elegantissima_Elegant Euphonia,0.5040989,528.0,531.0
+Dolichonyx oryzivorus_Bobolink,0.4389827,528.0,531.0
+Dolichonyx oryzivorus_Bobolink,0.29169458,529.0,532.0
+Dryocopus pileatus_Pileated Woodpecker,0.66761404,530.0,533.0
+Colaptes auratus_Northern Flicker,0.2143857,531.0,534.0
+Dryocopus pileatus_Pileated Woodpecker,0.19163296,531.0,534.0
+Dryocopus pileatus_Pileated Woodpecker,0.33674863,532.0,535.0
+Dolichonyx oryzivorus_Bobolink,0.19031067,535.0,538.0
+Chlorophonia elegantissima_Elegant Euphonia,0.15618403,535.0,538.0
+Chlorophonia elegantissima_Elegant Euphonia,0.32160774,536.0,539.0
+Dolichonyx oryzivorus_Bobolink,0.22565638,536.0,539.0
+Dolichonyx oryzivorus_Bobolink,0.6856921,537.0,540.0
+Dolichonyx oryzivorus_Bobolink,0.80309963,539.0,542.0
+Icterus cucullatus_Hooded Oriole,0.23824894,539.0,542.0
+Dolichonyx oryzivorus_Bobolink,0.94132805,540.0,543.0
+Chlorophonia elegantissima_Elegant Euphonia,0.23489043,540.0,543.0
+Icterus cucullatus_Hooded Oriole,0.15279551,540.0,543.0
+Dolichonyx oryzivorus_Bobolink,0.9385938,541.0,544.0
+Dolichonyx oryzivorus_Bobolink,0.7818569,542.0,545.0
+Icterus cucullatus_Hooded Oriole,0.21029074,542.0,545.0
+Chlorophonia elegantissima_Elegant Euphonia,0.119051464,542.0,545.0
+Dolichonyx oryzivorus_Bobolink,0.86012304,543.0,546.0
+Icterus cucullatus_Hooded Oriole,0.5378016,543.0,546.0
+Dolichonyx oryzivorus_Bobolink,0.45685625,544.0,547.0
+Icterus cucullatus_Hooded Oriole,0.33244872,544.0,547.0
+Peucedramus taeniatus_Olive Warbler,0.12326402,546.0,549.0
+Dolichonyx oryzivorus_Bobolink,0.11012456,547.0,550.0
+Chlorophonia elegantissima_Elegant Euphonia,0.12347306,548.0,551.0
+Dolichonyx oryzivorus_Bobolink,0.21349101,549.0,552.0
+Chlorophonia elegantissima_Elegant Euphonia,0.10070549,549.0,552.0
+Geothlypis speciosa_Black-polled Yellowthroat,0.13138708,555.0,558.0

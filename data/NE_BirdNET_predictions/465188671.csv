@@ -1,0 +1,63 @@
+species,score,start_time,end_time
+Corvus brachyrhynchos_American Crow,0.4466891,0.0,3.0
+Corvus brachyrhynchos_American Crow,0.4624114,1.0,4.0
+Corvus brachyrhynchos_American Crow,0.6618955,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.78400165,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.51648617,4.0,7.0
+Corvus brachyrhynchos_American Crow,0.59278667,5.0,8.0
+Corvus brachyrhynchos_American Crow,0.77493715,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.76500523,7.0,10.0
+Cardinalis cardinalis_Northern Cardinal,0.12867676,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.7948069,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.78565925,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.6272098,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.45112514,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.22078155,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.35913426,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.62423193,16.0,19.0
+Corvus brachyrhynchos_American Crow,0.44245002,17.0,20.0
+Corvus brachyrhynchos_American Crow,0.8838436,18.0,21.0
+Corvus brachyrhynchos_American Crow,0.90958136,19.0,22.0
+Corvus brachyrhynchos_American Crow,0.8490651,20.0,23.0
+Corvus brachyrhynchos_American Crow,0.5592553,21.0,24.0
+Corvus brachyrhynchos_American Crow,0.44064748,22.0,25.0
+Turdus migratorius_American Robin,0.15520114,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.15000522,36.0,39.0
+Colaptes auratus_Northern Flicker,0.14984038,37.0,40.0
+Colaptes auratus_Northern Flicker,0.21406867,38.0,41.0
+Colaptes auratus_Northern Flicker,0.17435451,39.0,42.0
+Colaptes auratus_Northern Flicker,0.573743,40.0,43.0
+Sitta carolinensis_White-breasted Nuthatch,0.2508167,42.0,45.0
+Colaptes auratus_Northern Flicker,0.118916154,42.0,45.0
+Picus viridis_Eurasian Green Woodpecker,0.41078857,48.0,51.0
+Picus viridis_Eurasian Green Woodpecker,0.37201658,49.0,52.0
+Baeolophus bicolor_Tufted Titmouse,0.11117256,50.0,53.0
+Spinus tristis_American Goldfinch,0.4087233,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.107752986,53.0,56.0
+Corvus brachyrhynchos_American Crow,0.36239648,55.0,58.0
+Corvus brachyrhynchos_American Crow,0.12555237,58.0,61.0
+Corvus brachyrhynchos_American Crow,0.19359946,59.0,62.0
+Corvus brachyrhynchos_American Crow,0.19056487,60.0,63.0
+Corvus brachyrhynchos_American Crow,0.15170376,61.0,64.0
+Corvus brachyrhynchos_American Crow,0.36183074,62.0,65.0
+Corvus brachyrhynchos_American Crow,0.24714938,63.0,66.0
+Corvus brachyrhynchos_American Crow,0.3140738,64.0,67.0
+Corvus brachyrhynchos_American Crow,0.18015294,65.0,68.0
+Corvus brachyrhynchos_American Crow,0.3195415,66.0,69.0
+Corvus brachyrhynchos_American Crow,0.38621497,67.0,70.0
+Passer domesticus_House Sparrow,0.19726333,68.0,71.0
+Corvus brachyrhynchos_American Crow,0.17932947,68.0,71.0
+Passer domesticus_House Sparrow,0.8599831,69.0,72.0
+Passer italiae_Italian Sparrow,0.15202689,69.0,72.0
+Passer domesticus_House Sparrow,0.7714136,70.0,73.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.20337296,73.0,76.0
+Calypte anna_Anna's Hummingbird,0.19738303,73.0,76.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.14350598,73.0,76.0
+Corvus brachyrhynchos_American Crow,0.24780744,75.0,78.0
+Corvus brachyrhynchos_American Crow,0.47005653,76.0,79.0
+Corvus brachyrhynchos_American Crow,0.27474198,77.0,80.0
+Corvus brachyrhynchos_American Crow,0.26879993,78.0,81.0
+Corvus brachyrhynchos_American Crow,0.35860217,79.0,82.0
+Corvus brachyrhynchos_American Crow,0.17672226,80.0,83.0
+Athene noctua_Little Owl,0.17000178,91.0,93.86403628117914
+Porzana carolina_Sora,0.103513904,91.0,93.86403628117914

@@ -1,0 +1,146 @@
+species,score,start_time,end_time
+Sialia sialis_Eastern Bluebird,0.9957022,0.0,3.0
+Sialia sialis_Eastern Bluebird,0.95976937,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.9873717,2.0,5.0
+Turdus viscivorus_Mistle Thrush,0.110316366,2.0,5.0
+Sialia sialis_Eastern Bluebird,0.96356845,3.0,6.0
+Icterus galbula_Baltimore Oriole,0.103826046,3.0,6.0
+Sialia sialis_Eastern Bluebird,0.81631744,4.0,7.0
+Icterus galbula_Baltimore Oriole,0.40600535,4.0,7.0
+Sialia sialis_Eastern Bluebird,0.99741,5.0,8.0
+Sialia sialis_Eastern Bluebird,0.9854616,6.0,9.0
+Mimus polyglottos_Northern Mockingbird,0.46340054,8.0,11.0
+Toxostoma rufum_Brown Thrasher,0.20030874,8.0,11.0
+Mimus polyglottos_Northern Mockingbird,0.3395242,9.0,12.0
+Mimus polyglottos_Northern Mockingbird,0.6429725,10.0,13.0
+Icterus galbula_Baltimore Oriole,0.25808975,10.0,13.0
+Mimus polyglottos_Northern Mockingbird,0.37186953,11.0,14.0
+Icterus galbula_Baltimore Oriole,0.27268603,11.0,14.0
+Toxostoma redivivum_California Thrasher,0.21307783,12.0,15.0
+Charadrius vociferus_Killdeer,0.19038048,12.0,15.0
+Toxostoma redivivum_California Thrasher,0.12000194,13.0,16.0
+Charadrius vociferus_Killdeer,0.11119043,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2756515,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.10103077,20.0,23.0
+Mimus polyglottos_Northern Mockingbird,0.22730274,21.0,24.0
+Mimus polyglottos_Northern Mockingbird,0.44137874,22.0,25.0
+Pnoepyga pusilla_Pygmy Cupwing,0.5598189,23.0,26.0
+Lanius ludovicianus_Loggerhead Shrike,0.24303591,23.0,26.0
+Mimus polyglottos_Northern Mockingbird,0.19444998,23.0,26.0
+Turdus unicolor_Tickell's Thrush,0.25152534,27.0,30.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.250912,27.0,30.0
+Quiscalus quiscula_Common Grackle,0.12834549,27.0,30.0
+Quiscalus quiscula_Common Grackle,0.25608835,28.0,31.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.62249714,29.0,32.0
+Quiscalus quiscula_Common Grackle,0.21858612,29.0,32.0
+Mimus polyglottos_Northern Mockingbird,0.29989547,30.0,33.0
+Mimus polyglottos_Northern Mockingbird,0.6817805,31.0,34.0
+Geothlypis trichas_Common Yellowthroat,0.11325235,31.0,34.0
+Mimus polyglottos_Northern Mockingbird,0.8541575,32.0,35.0
+Mimus polyglottos_Northern Mockingbird,0.960337,33.0,36.0
+Mimus saturninus_Chalk-browed Mockingbird,0.39521116,33.0,36.0
+Mimus gilvus_Tropical Mockingbird,0.21439348,33.0,36.0
+Mimus polyglottos_Northern Mockingbird,0.9547931,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.8207563,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.6489926,36.0,39.0
+Mimus saturninus_Chalk-browed Mockingbird,0.13847068,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.42159104,37.0,40.0
+Mimus polyglottos_Northern Mockingbird,0.13940571,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.17653596,39.0,42.0
+Toxostoma ocellatum_Ocellated Thrasher,0.11174016,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.109970696,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.17075628,41.0,44.0
+Mimus polyglottos_Northern Mockingbird,0.4679752,42.0,45.0
+Mimus gilvus_Tropical Mockingbird,0.17334756,42.0,45.0
+Toxostoma rufum_Brown Thrasher,0.10603246,43.0,46.0
+Mimus gilvus_Tropical Mockingbird,0.6089441,44.0,47.0
+Mimus polyglottos_Northern Mockingbird,0.3989777,44.0,47.0
+Mimus polyglottos_Northern Mockingbird,0.25049704,45.0,48.0
+Mimus gilvus_Tropical Mockingbird,0.13377872,45.0,48.0
+Mimus polyglottos_Northern Mockingbird,0.24151489,46.0,49.0
+Mimus polyglottos_Northern Mockingbird,0.85097486,47.0,50.0
+Mimus gilvus_Tropical Mockingbird,0.2101824,47.0,50.0
+Mimus polyglottos_Northern Mockingbird,0.9450628,48.0,51.0
+Mimus polyglottos_Northern Mockingbird,0.9446416,49.0,52.0
+Toxostoma rufum_Brown Thrasher,0.3724746,49.0,52.0
+Mimus polyglottos_Northern Mockingbird,0.6732477,50.0,53.0
+Toxostoma rufum_Brown Thrasher,0.2216857,50.0,53.0
+Mimus gilvus_Tropical Mockingbird,0.20511855,50.0,53.0
+Mimus polyglottos_Northern Mockingbird,0.17861484,51.0,54.0
+Turdus assimilis_White-throated Thrush,0.16399685,51.0,54.0
+Mimus polyglottos_Northern Mockingbird,0.33445913,52.0,55.0
+Turdus assimilis_White-throated Thrush,0.24419957,52.0,55.0
+Mimus gilvus_Tropical Mockingbird,0.1717593,52.0,55.0
+Mimus polyglottos_Northern Mockingbird,0.2649626,53.0,56.0
+Icterus gularis_Altamira Oriole,0.1482462,54.0,57.0
+Icterus galbula_Baltimore Oriole,0.36156502,55.0,58.0
+Sialia sialis_Eastern Bluebird,0.262642,55.0,58.0
+Icterus gularis_Altamira Oriole,0.1853678,55.0,58.0
+Toxostoma redivivum_California Thrasher,0.49890032,56.0,59.0
+Toxostoma redivivum_California Thrasher,0.21409854,58.0,61.0
+Myiarchus crinitus_Great Crested Flycatcher,0.20182256,63.0,66.0
+Myiarchus crinitus_Great Crested Flycatcher,0.32039303,64.0,67.0
+Sialia sialis_Eastern Bluebird,0.1181198,67.0,70.0
+Cyanocitta cristata_Blue Jay,0.41519532,68.0,71.0
+Charadrius vociferus_Killdeer,0.86146545,69.0,72.0
+Cyanocitta cristata_Blue Jay,0.11040271,69.0,72.0
+Charadrius vociferus_Killdeer,0.9892251,70.0,73.0
+Charadrius vociferus_Killdeer,0.99616504,71.0,74.0
+Charadrius vociferus_Killdeer,0.9945315,72.0,75.0
+Charadrius vociferus_Killdeer,0.9913265,73.0,76.0
+Charadrius vociferus_Killdeer,0.9880976,74.0,77.0
+Brotogeris chrysoptera_Golden-winged Parakeet,0.11949735,75.0,78.0
+Brotogeris chrysoptera_Golden-winged Parakeet,0.18347311,76.0,79.0
+Brotogeris chrysoptera_Golden-winged Parakeet,0.1158342,77.0,80.0
+Sayornis phoebe_Eastern Phoebe,0.7203877,78.0,81.0
+Heliomaster constantii_Plain-capped Starthroat,0.39058405,78.0,81.0
+Tamias striatus_Eastern Chipmunk,0.12753169,78.0,81.0
+Sayornis phoebe_Eastern Phoebe,0.16208665,79.0,82.0
+Toxostoma ocellatum_Ocellated Thrasher,0.103293926,82.0,85.0
+Toxostoma ocellatum_Ocellated Thrasher,0.6236196,83.0,86.0
+Toxostoma ocellatum_Ocellated Thrasher,0.10724339,84.0,87.0
+Quiscalus quiscula_Common Grackle,0.3101403,86.0,89.0
+Mimus gilvus_Tropical Mockingbird,0.37107635,88.0,91.0
+Mimus polyglottos_Northern Mockingbird,0.2013324,88.0,91.0
+Toxostoma rufum_Brown Thrasher,0.1247287,88.0,91.0
+Mimus gilvus_Tropical Mockingbird,0.69695854,89.0,92.0
+Mimus polyglottos_Northern Mockingbird,0.57133627,89.0,92.0
+Toxostoma rufum_Brown Thrasher,0.38512543,89.0,92.0
+Mimus polyglottos_Northern Mockingbird,0.87412655,90.0,93.0
+Toxostoma rufum_Brown Thrasher,0.5896647,90.0,93.0
+Mimus gilvus_Tropical Mockingbird,0.56632286,90.0,93.0
+Mimus polyglottos_Northern Mockingbird,0.7392219,91.0,94.0
+Mimus gilvus_Tropical Mockingbird,0.29876179,91.0,94.0
+Mimus polyglottos_Northern Mockingbird,0.3726687,92.0,95.0
+Mimus polyglottos_Northern Mockingbird,0.14294888,93.0,96.0
+Charadrius vociferus_Killdeer,0.11149207,98.0,101.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9921611,99.0,102.0
+Myiarchus crinitus_Great Crested Flycatcher,0.98467296,100.0,103.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9636768,101.0,104.0
+Icteria virens_Yellow-breasted Chat,0.49583536,102.0,105.0
+Icteria virens_Yellow-breasted Chat,0.14712098,103.0,106.0
+Toxostoma redivivum_California Thrasher,0.104684,103.0,106.0
+Icteria virens_Yellow-breasted Chat,0.18844609,104.0,107.0
+Toxostoma rufum_Brown Thrasher,0.14018452,104.0,107.0
+Toxostoma longirostre_Long-billed Thrasher,0.1717162,106.0,109.0
+Turdus grayi_Clay-colored Thrush,0.30018708,107.0,110.0
+Turdus rufopalliatus_Rufous-backed Robin,0.14857608,107.0,110.0
+Mimus gilvus_Tropical Mockingbird,0.11191543,108.0,111.0
+Mimus gilvus_Tropical Mockingbird,0.58061355,109.0,112.0
+Mimus gilvus_Tropical Mockingbird,0.37267286,110.0,113.0
+Mimus gilvus_Tropical Mockingbird,0.21731503,111.0,114.0
+Toxostoma rufum_Brown Thrasher,0.20375387,111.0,114.0
+Quiscalus quiscula_Common Grackle,0.43103588,112.0,115.0
+Charadrius vociferus_Killdeer,0.36326793,112.0,115.0
+Quiscalus quiscula_Common Grackle,0.95952696,113.0,116.0
+Quiscalus quiscula_Common Grackle,0.9486892,114.0,117.0
+Quiscalus quiscula_Common Grackle,0.95671713,115.0,118.0
+Turdus migratorius_American Robin,0.22582501,116.0,119.0
+Turdus migratorius_American Robin,0.12704018,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1875546,120.0,123.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34632587,121.0,124.0
+Spizella passerina_Chipping Sparrow,0.12882839,121.0,124.0
+Turdus migratorius_American Robin,0.109060474,122.0,125.0
+Turdus migratorius_American Robin,0.34944978,123.0,126.0
+Turdus migratorius_American Robin,0.28889024,124.0,127.0
+Icterus galbula_Baltimore Oriole,0.11216317,125.0,128.0

@@ -1,0 +1,99 @@
+species,score,start_time,end_time
+Leiothlypis celata_Orange-crowned Warbler,0.10810686,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.9880747,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9960977,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.98975486,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.1379149,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2523903,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.12948975,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.32264954,11.0,14.0
+Setophaga townsendi_Townsend's Warbler,0.16119075,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12677102,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.99688524,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.99818003,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.9947437,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.9835945,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.14906104,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.9796281,25.0,28.0
+Setophaga townsendi_Townsend's Warbler,0.11087726,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.9983852,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.98959774,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.9145923,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.12927496,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3090979,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.42302758,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.8675128,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.99454075,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9912548,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.98587775,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3899329,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.10757629,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1599829,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30559117,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.40086544,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16831043,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.98151165,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.95451194,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.955158,56.0,59.0
+Ailuroedus maculosus_Spotted Catbird,0.18235387,58.0,61.0
+Ailuroedus maculosus_Spotted Catbird,0.32623234,59.0,62.0
+Colluricincla rufogaster_Rufous Shrikethrush,0.14535345,59.0,62.0
+Colluricincla megarhyncha_Arafura Shrikethrush,0.13043912,59.0,62.0
+Ailuroedus maculosus_Spotted Catbird,0.3045217,60.0,63.0
+Meliphaga notata_Yellow-spotted Honeyeater,0.1972504,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.34346423,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3229746,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.9698878,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.9780562,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.9647241,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.83523506,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.81298035,73.0,76.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10023081,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.790193,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.81460464,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.65728277,76.0,79.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.14357558,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.9430366,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14084676,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.9984906,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.99584526,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.9888442,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.7849696,98.0,101.0
+Setophaga virens_Black-throated Green Warbler,0.9968098,99.0,102.0
+Setophaga virens_Black-throated Green Warbler,0.9995018,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.99909794,101.0,104.0
+Setophaga virens_Black-throated Green Warbler,0.99748933,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.11608684,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.99531305,120.0,123.0
+Setophaga virens_Black-throated Green Warbler,0.9985403,121.0,124.0
+Setophaga virens_Black-throated Green Warbler,0.97515094,122.0,125.0
+Setophaga virens_Black-throated Green Warbler,0.40648073,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115463674,124.0,127.0
+Setophaga virens_Black-throated Green Warbler,0.22993374,134.0,137.0
+Cardellina rubrifrons_Red-faced Warbler,0.1582684,134.0,137.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14186099,134.0,137.0
+Cardellina canadensis_Canada Warbler,0.105862156,134.0,137.0
+Setophaga virens_Black-throated Green Warbler,0.88786864,135.0,138.0
+Setophaga virens_Black-throated Green Warbler,0.9983078,136.0,139.0
+Setophaga virens_Black-throated Green Warbler,0.99582714,137.0,140.0
+Setophaga virens_Black-throated Green Warbler,0.98138857,138.0,141.0
+Setophaga virens_Black-throated Green Warbler,0.20539251,147.0,150.0
+Setophaga virens_Black-throated Green Warbler,0.22842966,148.0,151.0
+Setophaga virens_Black-throated Green Warbler,0.9849133,149.0,152.0
+Setophaga virens_Black-throated Green Warbler,0.99739045,150.0,153.0
+Setophaga virens_Black-throated Green Warbler,0.99301505,151.0,154.0
+Setophaga virens_Black-throated Green Warbler,0.99314076,152.0,155.0
+Cardellina canadensis_Canada Warbler,0.12788494,159.0,162.0
+Setophaga virens_Black-throated Green Warbler,0.1258946,159.0,162.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12266786,159.0,162.0
+Setophaga virens_Black-throated Green Warbler,0.92584085,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1251412,160.0,163.0
+Setophaga virens_Black-throated Green Warbler,0.99736816,161.0,164.0
+Setophaga virens_Black-throated Green Warbler,0.9969734,162.0,165.0
+Setophaga virens_Black-throated Green Warbler,0.9935167,163.0,166.0
+Setophaga virens_Black-throated Green Warbler,0.42848295,170.0,173.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.116782896,170.0,173.0
+Setophaga virens_Black-throated Green Warbler,0.9471091,171.0,174.0
+Setophaga virens_Black-throated Green Warbler,0.9978998,172.0,175.0
+Setophaga virens_Black-throated Green Warbler,0.99528044,173.0,176.0
+Setophaga virens_Black-throated Green Warbler,0.98668516,174.0,176.59201814058957

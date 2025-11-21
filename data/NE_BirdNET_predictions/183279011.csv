@@ -1,0 +1,263 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.19071431,0.0,3.0
+Porzana carolina_Sora,0.1597104,1.0,4.0
+Pandion haliaetus_Osprey,0.9995092,2.0,5.0
+Pandion haliaetus_Osprey,0.9996873,3.0,6.0
+Pandion haliaetus_Osprey,0.99725777,4.0,7.0
+Pandion haliaetus_Osprey,0.99863714,5.0,8.0
+Pandion haliaetus_Osprey,0.9965114,6.0,9.0
+Pandion haliaetus_Osprey,0.23124081,7.0,10.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.31317848,8.0,11.0
+Melozone crissalis_California Towhee,0.20809485,9.0,12.0
+Accipiter striatus_Sharp-shinned Hawk,0.22751838,12.0,15.0
+Cyanocitta cristata_Blue Jay,0.18663715,12.0,15.0
+Porzana carolina_Sora,0.16181445,12.0,15.0
+Pandion haliaetus_Osprey,0.9998777,13.0,16.0
+Accipiter striatus_Sharp-shinned Hawk,0.13883014,13.0,16.0
+Pandion haliaetus_Osprey,0.9999138,14.0,17.0
+Pandion haliaetus_Osprey,0.99983466,15.0,18.0
+Pandion haliaetus_Osprey,0.99990356,16.0,19.0
+Pandion haliaetus_Osprey,0.9986185,17.0,20.0
+Cyanocitta cristata_Blue Jay,0.10319855,19.0,22.0
+Cyanocitta cristata_Blue Jay,0.1685693,20.0,23.0
+Melospiza georgiana_Swamp Sparrow,0.31601968,21.0,24.0
+Pandion haliaetus_Osprey,0.9835202,22.0,25.0
+Pandion haliaetus_Osprey,0.9994154,23.0,26.0
+Pandion haliaetus_Osprey,0.9978775,24.0,27.0
+Pandion haliaetus_Osprey,0.99853647,25.0,28.0
+Pandion haliaetus_Osprey,0.9933426,26.0,29.0
+Zenaida macroura_Mourning Dove,0.17678154,26.0,29.0
+Pandion haliaetus_Osprey,0.99403256,27.0,30.0
+Pandion haliaetus_Osprey,0.99950254,28.0,31.0
+Pandion haliaetus_Osprey,0.999848,29.0,32.0
+Pandion haliaetus_Osprey,0.99947435,30.0,33.0
+Pandion haliaetus_Osprey,0.99972385,31.0,34.0
+Empidonax traillii_Willow Flycatcher,0.16045596,34.0,37.0
+Pandion haliaetus_Osprey,0.19059429,38.0,41.0
+Zenaida macroura_Mourning Dove,0.1614321,38.0,41.0
+Pandion haliaetus_Osprey,0.9998579,39.0,42.0
+Pandion haliaetus_Osprey,0.9995553,40.0,43.0
+Pandion haliaetus_Osprey,0.9962721,41.0,44.0
+Pandion haliaetus_Osprey,0.99854136,42.0,45.0
+Pandion haliaetus_Osprey,0.99567956,43.0,46.0
+Sialia sialis_Eastern Bluebird,0.96202844,45.0,48.0
+Sialia sialis_Eastern Bluebird,0.8766509,46.0,49.0
+Sialia sialis_Eastern Bluebird,0.9314385,47.0,50.0
+Sialia sialis_Eastern Bluebird,0.5712786,48.0,51.0
+Sialia sialis_Eastern Bluebird,0.3230961,49.0,52.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.13936785,49.0,52.0
+Elanus leucurus_White-tailed Kite,0.13396965,50.0,53.0
+Pandion haliaetus_Osprey,0.9989617,52.0,55.0
+Accipiter striatus_Sharp-shinned Hawk,0.10406578,52.0,55.0
+Pandion haliaetus_Osprey,0.99932706,53.0,56.0
+Pandion haliaetus_Osprey,0.9995708,54.0,57.0
+Pandion haliaetus_Osprey,0.99778914,55.0,58.0
+Pandion haliaetus_Osprey,0.9885112,56.0,59.0
+Pandion haliaetus_Osprey,0.97967577,57.0,60.0
+Pandion haliaetus_Osprey,0.98538685,61.0,64.0
+Pandion haliaetus_Osprey,0.91819936,62.0,65.0
+Pandion haliaetus_Osprey,0.8840363,63.0,66.0
+Pandion haliaetus_Osprey,0.9587278,64.0,67.0
+Melospiza georgiana_Swamp Sparrow,0.11429777,65.0,68.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12319173,67.0,70.0
+Pooecetes gramineus_Vesper Sparrow,0.11966666,67.0,70.0
+Porzana carolina_Sora,0.11384728,68.0,71.0
+Pandion haliaetus_Osprey,0.105970085,68.0,71.0
+Pandion haliaetus_Osprey,0.9981793,69.0,72.0
+Pandion haliaetus_Osprey,0.9998437,70.0,73.0
+Pandion haliaetus_Osprey,0.9992711,71.0,74.0
+Pandion haliaetus_Osprey,0.9995865,72.0,75.0
+Pandion haliaetus_Osprey,0.9982181,73.0,76.0
+Pandion haliaetus_Osprey,0.9449365,74.0,77.0
+Pandion haliaetus_Osprey,0.31315568,75.0,78.0
+Pandion haliaetus_Osprey,0.46825603,76.0,79.0
+Zenaida macroura_Mourning Dove,0.13293706,76.0,79.0
+Spatula discors_Blue-winged Teal,0.24726006,77.0,80.0
+Spatula discors_Blue-winged Teal,0.21981135,78.0,81.0
+Pandion haliaetus_Osprey,0.98666257,79.0,82.0
+Pandion haliaetus_Osprey,0.9999043,80.0,83.0
+Pandion haliaetus_Osprey,0.9995097,81.0,84.0
+Pandion haliaetus_Osprey,0.99977237,82.0,85.0
+Pandion haliaetus_Osprey,0.99966633,83.0,86.0
+Pandion haliaetus_Osprey,0.99934477,84.0,87.0
+Quiscalus mexicanus_Great-tailed Grackle,0.18571411,85.0,88.0
+Quiscalus major_Boat-tailed Grackle,0.12900108,85.0,88.0
+Empidonax traillii_Willow Flycatcher,0.16873175,88.0,91.0
+Spizelloides arborea_American Tree Sparrow,0.114807,89.0,92.0
+Pooecetes gramineus_Vesper Sparrow,0.17912379,91.0,94.0
+Dolichonyx oryzivorus_Bobolink,0.10125149,91.0,94.0
+Pandion haliaetus_Osprey,0.8110936,93.0,96.0
+Pandion haliaetus_Osprey,0.9997825,94.0,97.0
+Pandion haliaetus_Osprey,0.9998429,95.0,98.0
+Pandion haliaetus_Osprey,0.99903154,96.0,99.0
+Pandion haliaetus_Osprey,0.9995553,97.0,100.0
+Pandion haliaetus_Osprey,0.9987735,98.0,101.0
+Zenaida macroura_Mourning Dove,0.117009215,98.0,101.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20097762,99.0,102.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15066317,100.0,103.0
+Pandion haliaetus_Osprey,0.9994823,102.0,105.0
+Pandion haliaetus_Osprey,0.9993006,103.0,106.0
+Pandion haliaetus_Osprey,0.9985879,104.0,107.0
+Pandion haliaetus_Osprey,0.9986091,105.0,108.0
+Sialia sialis_Eastern Bluebird,0.19701084,109.0,112.0
+Sialia sialis_Eastern Bluebird,0.3404565,110.0,113.0
+Sialia sialis_Eastern Bluebird,0.48046744,111.0,114.0
+Sialia sialis_Eastern Bluebird,0.970281,113.0,116.0
+Sialia sialis_Eastern Bluebird,0.8334377,114.0,117.0
+Ammospiza nelsoni_Nelson's Sparrow,0.23114003,114.0,117.0
+Sialia sialis_Eastern Bluebird,0.71230066,115.0,118.0
+Ammospiza nelsoni_Nelson's Sparrow,0.108544506,115.0,118.0
+Spinus tristis_American Goldfinch,0.47615352,117.0,120.0
+Bombycilla cedrorum_Cedar Waxwing,0.13692534,117.0,120.0
+Pandion haliaetus_Osprey,0.39677158,118.0,121.0
+Haliaeetus leucocephalus_Bald Eagle,0.10689093,118.0,121.0
+Pandion haliaetus_Osprey,0.99516076,119.0,122.0
+Pandion haliaetus_Osprey,0.9991394,120.0,123.0
+Pandion haliaetus_Osprey,0.9994324,121.0,124.0
+Pandion haliaetus_Osprey,0.9910999,122.0,125.0
+Pandion haliaetus_Osprey,0.9904178,123.0,126.0
+Pandion haliaetus_Osprey,0.18928099,124.0,127.0
+Elanus leucurus_White-tailed Kite,0.114684366,127.0,130.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.11154338,134.0,137.0
+Melospiza melodia_Song Sparrow,0.20002815,141.0,144.0
+Pooecetes gramineus_Vesper Sparrow,0.11810397,141.0,144.0
+Dolichonyx oryzivorus_Bobolink,0.15311593,142.0,145.0
+Pooecetes gramineus_Vesper Sparrow,0.107814975,142.0,145.0
+Spinus tristis_American Goldfinch,0.5050962,143.0,146.0
+Pandion haliaetus_Osprey,0.9033028,144.0,147.0
+Pandion haliaetus_Osprey,0.9976069,145.0,148.0
+Pandion haliaetus_Osprey,0.9986797,146.0,149.0
+Pandion haliaetus_Osprey,0.99729127,147.0,150.0
+Pandion haliaetus_Osprey,0.9906199,148.0,151.0
+Pandion haliaetus_Osprey,0.9896096,149.0,152.0
+Rallus crepitans_Clapper Rail,0.11925803,150.0,153.0
+Baeolophus bicolor_Tufted Titmouse,0.12358129,157.0,160.0
+Bombycilla cedrorum_Cedar Waxwing,0.11854119,158.0,161.0
+Bombycilla cedrorum_Cedar Waxwing,0.12452625,159.0,162.0
+Spinus tristis_American Goldfinch,0.17113961,166.0,169.0
+Bombycilla cedrorum_Cedar Waxwing,0.10002545,166.0,169.0
+Spinus tristis_American Goldfinch,0.20429744,167.0,170.0
+Spinus tristis_American Goldfinch,0.35263154,168.0,171.0
+Melospiza georgiana_Swamp Sparrow,0.667691,169.0,172.0
+Podiceps auritus_Horned Grebe,0.2508504,169.0,172.0
+Pandion haliaetus_Osprey,0.9668911,170.0,173.0
+Melospiza georgiana_Swamp Sparrow,0.44507104,170.0,173.0
+Pandion haliaetus_Osprey,0.9701895,171.0,174.0
+Melospiza georgiana_Swamp Sparrow,0.6043249,171.0,174.0
+Pandion haliaetus_Osprey,0.97675383,172.0,175.0
+Pandion haliaetus_Osprey,0.94494474,173.0,176.0
+Dolichonyx oryzivorus_Bobolink,0.31843436,174.0,177.0
+Dolichonyx oryzivorus_Bobolink,0.33145636,175.0,178.0
+Tachycineta bicolor_Tree Swallow,0.107517794,175.0,178.0
+Dolichonyx oryzivorus_Bobolink,0.11004406,176.0,179.0
+Tachycineta thalassina_Violet-green Swallow,0.4784932,177.0,180.0
+Bombycilla cedrorum_Cedar Waxwing,0.1087683,177.0,180.0
+Pandion haliaetus_Osprey,0.99765503,179.0,182.0
+Pandion haliaetus_Osprey,0.99852896,180.0,183.0
+Pandion haliaetus_Osprey,0.9983683,181.0,184.0
+Pandion haliaetus_Osprey,0.99747795,182.0,185.0
+Pandion haliaetus_Osprey,0.99197185,183.0,186.0
+Pandion haliaetus_Osprey,0.36200815,184.0,187.0
+Melospiza georgiana_Swamp Sparrow,0.75332904,186.0,189.0
+Melospiza georgiana_Swamp Sparrow,0.2737294,187.0,190.0
+Pandion haliaetus_Osprey,0.9951584,188.0,191.0
+Pandion haliaetus_Osprey,0.997626,189.0,192.0
+Pandion haliaetus_Osprey,0.9867154,190.0,193.0
+Pandion haliaetus_Osprey,0.98413914,191.0,194.0
+Dumetella carolinensis_Gray Catbird,0.10328024,197.0,200.0
+Melospiza georgiana_Swamp Sparrow,0.1873918,202.0,205.0
+Porzana carolina_Sora,0.32517043,203.0,206.0
+Aix sponsa_Wood Duck,0.10399325,203.0,206.0
+Pandion haliaetus_Osprey,0.842079,204.0,207.0
+Pandion haliaetus_Osprey,0.92484933,205.0,208.0
+Theristicus caerulescens_Plumbeous Ibis,0.14007339,205.0,208.0
+Pandion haliaetus_Osprey,0.9958047,206.0,209.0
+Pandion haliaetus_Osprey,0.99068177,207.0,210.0
+Pandion haliaetus_Osprey,0.9903904,208.0,211.0
+Lithobates clamitans_Green Frog,0.29318458,210.0,213.0
+Lithobates clamitans_Green Frog,0.11979041,211.0,214.0
+Bombycilla cedrorum_Cedar Waxwing,0.27811226,212.0,215.0
+Sialia sialis_Eastern Bluebird,0.122194566,212.0,215.0
+Butorides virescens_Green Heron,0.13293236,213.0,216.0
+Ixobrychus exilis_Least Bittern,0.11537393,214.0,217.0
+Pandion haliaetus_Osprey,0.16420592,216.0,219.0
+Pandion haliaetus_Osprey,0.9796822,217.0,220.0
+Melospiza georgiana_Swamp Sparrow,0.2371213,217.0,220.0
+Pandion haliaetus_Osprey,0.787466,218.0,221.0
+Melospiza georgiana_Swamp Sparrow,0.4643913,218.0,221.0
+Pandion haliaetus_Osprey,0.99599946,219.0,222.0
+Melospiza georgiana_Swamp Sparrow,0.17337824,219.0,222.0
+Pandion haliaetus_Osprey,0.92606735,220.0,223.0
+Pandion haliaetus_Osprey,0.9974208,221.0,224.0
+Pandion haliaetus_Osprey,0.99806136,222.0,225.0
+Pandion haliaetus_Osprey,0.9917276,223.0,226.0
+Pandion haliaetus_Osprey,0.9896507,224.0,227.0
+Pandion haliaetus_Osprey,0.98694617,225.0,228.0
+Pandion haliaetus_Osprey,0.9974153,227.0,230.0
+Pandion haliaetus_Osprey,0.9991041,228.0,231.0
+Pandion haliaetus_Osprey,0.9848873,229.0,232.0
+Pandion haliaetus_Osprey,0.99445325,230.0,233.0
+Pandion haliaetus_Osprey,0.86751735,231.0,234.0
+Melospiza georgiana_Swamp Sparrow,0.5472512,232.0,235.0
+Melospiza georgiana_Swamp Sparrow,0.7872017,233.0,236.0
+Melospiza georgiana_Swamp Sparrow,0.85183924,234.0,237.0
+Melospiza georgiana_Swamp Sparrow,0.6467979,235.0,238.0
+Bombycilla cedrorum_Cedar Waxwing,0.100684404,238.0,241.0
+Bombycilla cedrorum_Cedar Waxwing,0.36489305,239.0,242.0
+Pandion haliaetus_Osprey,0.13175894,243.0,246.0
+Accipiter striatus_Sharp-shinned Hawk,0.10042084,243.0,246.0
+Pandion haliaetus_Osprey,0.99642867,244.0,247.0
+Pandion haliaetus_Osprey,0.99418384,245.0,248.0
+Pandion haliaetus_Osprey,0.99748105,246.0,249.0
+Pandion haliaetus_Osprey,0.9872472,247.0,250.0
+Pandion haliaetus_Osprey,0.98109436,248.0,251.0
+Pandion haliaetus_Osprey,0.9830941,249.0,252.0
+Melospiza georgiana_Swamp Sparrow,0.6470356,250.0,253.0
+Melospiza georgiana_Swamp Sparrow,0.9712474,251.0,254.0
+Melospiza georgiana_Swamp Sparrow,0.9193521,252.0,255.0
+Melospiza georgiana_Swamp Sparrow,0.68400055,253.0,256.0
+Melospiza melodia_Song Sparrow,0.20785235,255.0,258.0
+Bombycilla cedrorum_Cedar Waxwing,0.11863338,255.0,258.0
+Sialia sialis_Eastern Bluebird,0.5096813,256.0,259.0
+Sialia sialis_Eastern Bluebird,0.18731126,258.0,261.0
+Melospiza georgiana_Swamp Sparrow,0.3122321,266.0,269.0
+Melospiza georgiana_Swamp Sparrow,0.43974388,267.0,270.0
+Melospiza georgiana_Swamp Sparrow,0.24795555,268.0,271.0
+Pandion haliaetus_Osprey,0.32863992,271.0,274.0
+Recurvirostra americana_American Avocet,0.10011554,271.0,274.0
+Pandion haliaetus_Osprey,0.999159,272.0,275.0
+Pandion haliaetus_Osprey,0.9991295,273.0,276.0
+Pandion haliaetus_Osprey,0.9975707,274.0,277.0
+Pandion haliaetus_Osprey,0.9953607,275.0,278.0
+Pandion haliaetus_Osprey,0.98973936,276.0,279.0
+Zenaida macroura_Mourning Dove,0.104853615,276.0,279.0
+Vireo gilvus_Warbling Vireo,0.29541373,280.0,283.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1485525,283.0,286.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.10461247,284.0,287.0
+Pandion haliaetus_Osprey,0.97178257,292.0,295.0
+Pandion haliaetus_Osprey,0.9761982,293.0,296.0
+Pandion haliaetus_Osprey,0.87760174,294.0,297.0
+Melospiza georgiana_Swamp Sparrow,0.14539644,294.0,297.0
+Pandion haliaetus_Osprey,0.8660652,295.0,298.0
+Melospiza georgiana_Swamp Sparrow,0.20372868,295.0,298.0
+Pandion haliaetus_Osprey,0.99792755,296.0,299.0
+Melospiza georgiana_Swamp Sparrow,0.20978856,296.0,299.0
+Pandion haliaetus_Osprey,0.99617803,297.0,300.0
+Pandion haliaetus_Osprey,0.99419975,298.0,301.0
+Pandion haliaetus_Osprey,0.9974916,299.0,302.0
+Pandion haliaetus_Osprey,0.44335282,304.0,307.0
+Pandion haliaetus_Osprey,0.20703493,305.0,308.0
+Pandion haliaetus_Osprey,0.32697657,306.0,309.0
+Pandion haliaetus_Osprey,0.20732425,307.0,310.0
+Pandion haliaetus_Osprey,0.31170937,308.0,311.0
+Lophodytes cucullatus_Hooded Merganser,0.11957752,310.0,313.0
+Spinus tristis_American Goldfinch,0.10797679,317.0,320.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.15359731,321.0,324.0
+Sterna forsteri_Forster's Tern,0.12285212,331.0,334.0
+Pandion haliaetus_Osprey,0.11353774,331.0,334.0
+Pandion haliaetus_Osprey,0.50799006,332.0,335.0
+Pandion haliaetus_Osprey,0.5849647,333.0,336.0
+Pandion haliaetus_Osprey,0.5616259,334.0,337.0
+Pandion haliaetus_Osprey,0.10707962,335.0,338.0
+Conocephalus brevipennis_Short-winged Meadow Katydid,0.117073126,336.0,339.0
+Conocephalus brevipennis_Short-winged Meadow Katydid,0.112901956,337.0,340.0

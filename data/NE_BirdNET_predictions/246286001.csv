@@ -1,0 +1,50 @@
+species,score,start_time,end_time
+Setophaga americana_Northern Parula,0.16079691,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15398136,1.0,4.0
+Strix varia_Barred Owl,0.15339117,1.0,4.0
+Strix varia_Barred Owl,0.9571004,2.0,5.0
+Setophaga americana_Northern Parula,0.10336156,2.0,5.0
+Strix varia_Barred Owl,0.9767436,3.0,6.0
+Strix occidentalis_Spotted Owl,0.21554568,3.0,6.0
+Setophaga americana_Northern Parula,0.12526427,3.0,6.0
+Strix varia_Barred Owl,0.9349796,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11352106,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.24523488,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.33966017,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11452265,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.43820173,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14378184,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.55032927,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.40617615,12.0,15.0
+Strix varia_Barred Owl,0.94455945,13.0,16.0
+Setophaga americana_Northern Parula,0.30225846,13.0,16.0
+Strix varia_Barred Owl,0.9956519,14.0,17.0
+Strix occidentalis_Spotted Owl,0.23615095,14.0,17.0
+Setophaga americana_Northern Parula,0.14008142,14.0,17.0
+Strix varia_Barred Owl,0.99769586,15.0,18.0
+Strix occidentalis_Spotted Owl,0.30121344,15.0,18.0
+Surnia ulula_Northern Hawk Owl,0.29300168,15.0,18.0
+Strix varia_Barred Owl,0.9174147,16.0,19.0
+Strix occidentalis_Spotted Owl,0.3166419,16.0,19.0
+Surnia ulula_Northern Hawk Owl,0.11866839,16.0,19.0
+Palmeria dolei_Akohekohe,0.3053688,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.17213325,18.0,21.0
+Palmeria dolei_Akohekohe,0.11407487,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.5775282,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.4869072,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.23212548,22.0,25.0
+Turdus pallidus_Pale Thrush,0.14371058,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.12957181,23.0,26.0
+Palmeria dolei_Akohekohe,0.13657796,25.0,28.0
+Palmeria dolei_Akohekohe,0.4633405,26.0,29.0
+Palmeria dolei_Akohekohe,0.20088102,27.0,30.0
+Hemignathus wilsoni_Akiapolaau,0.1731803,27.0,30.0
+Strix varia_Barred Owl,0.9165946,28.0,31.0
+Strix varia_Barred Owl,0.9917173,29.0,32.0
+Strix occidentalis_Spotted Owl,0.17750446,29.0,32.0
+Strix varia_Barred Owl,0.9966684,30.0,33.0
+Strix occidentalis_Spotted Owl,0.45634595,30.0,33.0
+Setophaga americana_Northern Parula,0.30333298,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.277034,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1474843,31.0,34.0
+Strix varia_Barred Owl,0.11067841,31.0,34.0

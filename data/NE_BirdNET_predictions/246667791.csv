@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Geothlypis formosa_Kentucky Warbler,0.8362177,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18997549,0.0,3.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15895239,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.91164786,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29979157,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.271022,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.842408,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27039486,2.0,5.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16242717,2.0,5.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.10663125,3.0,6.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.18286946,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.9069094,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23330282,5.0,8.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15817441,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.99249226,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.13082379,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.115165845,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.9901906,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.114666745,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.98219174,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.18258719,8.0,11.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11763998,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.9891149,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.13502145,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.99573237,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.25000465,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.97721374,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.97519296,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.10856864,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10441075,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.6487042,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.28806067,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1597966,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.26141968,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14344095,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12302996,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.95441324,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27981523,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17447548,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.9968574,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.9920195,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.98253894,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.18484122,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.16871344,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.9709183,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.1280454,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.9238399,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.8957408,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.12619893,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10188649,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.10272755,24.0,27.0
+Setophaga tigrina_Cape May Warbler,0.14564712,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.11455137,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.9651221,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.97954935,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.11001211,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106912896,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.8935341,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.20591606,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14954637,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10264604,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14779277,36.0,39.0
+Setophaga ruticilla_American Redstart,0.108615376,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.15055929,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10415029,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.3136336,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105166145,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.2396509,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.13151187,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.24233292,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.3300062,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.29056928,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.18135962,45.0,48.0
+Geothlypis formosa_Kentucky Warbler,0.5864642,46.0,49.0
+Geothlypis formosa_Kentucky Warbler,0.8824042,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32115984,47.0,50.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1772001,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.12466747,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.7660131,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12281967,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.82942075,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.28018478,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.20232476,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.14071988,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.51117426,50.0,53.0
+Vireo olivaceus_Red-eyed Vireo,0.39551318,51.0,54.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11784797,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.12942418,53.0,56.0

@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.65053034,0.0,3.0
+Setophaga petechia_Yellow Warbler,0.16268858,0.0,3.0
+Leiothlypis ruficapilla_Nashville Warbler,0.14786905,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10118874,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.7621539,2.0,5.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5755491,3.0,6.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9830239,4.0,7.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9806465,5.0,8.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.94903266,6.0,9.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9718987,7.0,10.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.85543907,8.0,11.0
+Oporornis agilis_Connecticut Warbler,0.11712249,10.0,13.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16069306,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.1086039,13.0,16.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.957705,16.0,19.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.99409723,17.0,20.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9964367,18.0,21.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9880006,19.0,22.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.97068506,20.0,23.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.92461514,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9463593,22.0,25.0
+Setophaga ruticilla_American Redstart,0.16606629,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.11337916,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.10184537,24.0,27.0
+Setophaga tigrina_Cape May Warbler,0.11503136,25.0,28.0
+Setophaga ruticilla_American Redstart,0.16675147,26.0,29.0
+Setophaga tigrina_Cape May Warbler,0.10797957,26.0,29.0
+Setophaga tigrina_Cape May Warbler,0.11784152,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.101085074,27.0,30.0
+Setophaga petechia_Yellow Warbler,0.18221213,29.0,32.0
+Setophaga ruticilla_American Redstart,0.1850717,33.0,36.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5272125,34.0,37.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7296519,35.0,38.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7285796,36.0,39.0
+Icterus galbula_Baltimore Oriole,0.84167916,37.0,40.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30353358,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21913986,40.0,43.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.92073876,42.0,45.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.969328,43.0,46.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9859261,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.93364435,45.0,48.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.89847374,46.0,49.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9740592,47.0,50.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.994321,48.0,51.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.986902,49.0,52.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11248025,50.0,53.0
+Setophaga ruticilla_American Redstart,0.35597804,51.0,54.0
+Setophaga tigrina_Cape May Warbler,0.18943663,51.0,54.0
+Setophaga ruticilla_American Redstart,0.20276871,52.0,55.0
+Setophaga ruticilla_American Redstart,0.30281407,54.0,57.0
+Setophaga tigrina_Cape May Warbler,0.23046999,54.0,57.0
+Setophaga ruticilla_American Redstart,0.41540676,55.0,58.0
+Setophaga tigrina_Cape May Warbler,0.2569948,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.1020964,55.0,58.0
+Setophaga ruticilla_American Redstart,0.17981397,56.0,59.0
+Setophaga cerulea_Cerulean Warbler,0.12732278,56.0,59.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17499235,57.0,60.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6347551,59.0,62.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.98264194,60.0,63.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9674453,61.0,64.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9790151,62.0,65.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9762131,63.0,66.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9831576,64.0,67.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9785,65.0,68.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.89909947,66.0,69.0
+Setophaga tigrina_Cape May Warbler,0.10299522,68.0,71.0

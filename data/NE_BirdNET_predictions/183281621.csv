@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.9125124,0.0,3.0
+Melospiza melodia_Song Sparrow,0.30618432,1.0,4.0
+Melospiza melodia_Song Sparrow,0.11023315,2.0,5.0
+Elanus leucurus_White-tailed Kite,0.18793578,4.0,7.0
+Melospiza georgiana_Swamp Sparrow,0.516868,6.0,9.0
+Melospiza georgiana_Swamp Sparrow,0.41607475,7.0,10.0
+Melospiza georgiana_Swamp Sparrow,0.16458017,8.0,11.0
+Cyanolyca nanus_Dwarf Jay,0.3085128,9.0,12.0
+Melospiza melodia_Song Sparrow,0.13475887,13.0,16.0
+Elanus leucurus_White-tailed Kite,0.15436503,16.0,19.0
+Elanus leucurus_White-tailed Kite,0.22779566,17.0,20.0
+Elanus leucurus_White-tailed Kite,0.13912699,18.0,21.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.1052838,21.0,24.0
+Elanus leucurus_White-tailed Kite,0.105498046,22.0,25.0
+Melospiza georgiana_Swamp Sparrow,0.13765979,24.0,27.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.39757526,26.0,29.0
+Elanus leucurus_White-tailed Kite,0.17618977,27.0,30.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.15879403,27.0,30.0
+Mergus merganser_Common Merganser,0.103857525,29.0,32.0
+Melospiza melodia_Song Sparrow,0.34527436,32.0,35.0
+Melospiza melodia_Song Sparrow,0.21486191,33.0,36.0
+Melospiza melodia_Song Sparrow,0.51836574,34.0,37.0
+Melospiza melodia_Song Sparrow,0.54087454,35.0,38.0
+Ammospiza maritima_Seaside Sparrow,0.43225038,36.0,39.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13926518,36.0,39.0
+Calidris minutilla_Least Sandpiper,0.1836604,38.0,41.0
+Spizelloides arborea_American Tree Sparrow,0.2469523,39.0,42.0
+Melospiza melodia_Song Sparrow,0.5069253,41.0,44.0
+Melospiza melodia_Song Sparrow,0.33482203,42.0,45.0
+Sitta pygmaea_Pygmy Nuthatch,0.7611625,44.0,47.0
+Sitta pygmaea_Pygmy Nuthatch,0.1773023,45.0,48.0
+Melospiza georgiana_Swamp Sparrow,0.119479336,45.0,48.0
+Melospiza georgiana_Swamp Sparrow,0.51792294,46.0,49.0
+Melospiza georgiana_Swamp Sparrow,0.83513975,47.0,50.0
+Melospiza georgiana_Swamp Sparrow,0.5673669,48.0,51.0
+Melospiza melodia_Song Sparrow,0.28795767,51.0,54.0
+Peucaea botterii_Botteri's Sparrow,0.19343232,51.0,54.0
+Melospiza melodia_Song Sparrow,0.81663877,52.0,55.0
+Melospiza melodia_Song Sparrow,0.42412466,53.0,56.0
+Melospiza georgiana_Swamp Sparrow,0.3859233,60.0,63.0
+Melospiza georgiana_Swamp Sparrow,0.49928665,61.0,64.0
+Melospiza georgiana_Swamp Sparrow,0.3119612,62.0,65.0
+Melospiza melodia_Song Sparrow,0.24462204,63.0,66.0
+Melospiza georgiana_Swamp Sparrow,0.11331811,63.0,66.0
+Melospiza melodia_Song Sparrow,0.5977151,64.0,67.0
+Melospiza melodia_Song Sparrow,0.13281666,65.0,68.0
+Ammospiza maritima_Seaside Sparrow,0.43743214,66.0,69.0
+Zosterops luteus_Australian Yellow White-eye,0.27394846,67.0,70.0
+Aphelocoma californica_California Scrub-Jay,0.12549625,72.0,75.0
+Aphelocoma californica_California Scrub-Jay,0.5113446,73.0,76.0
+Elanus leucurus_White-tailed Kite,0.24738267,73.0,76.0
+Aphelocoma woodhouseii_Woodhouse's Scrub-Jay,0.12224266,73.0,76.0
+Melospiza melodia_Song Sparrow,0.4986467,75.0,78.0
+Melospiza melodia_Song Sparrow,0.83989394,76.0,79.0
+Melospiza melodia_Song Sparrow,0.6102098,77.0,80.0
+Ammospiza maritima_Seaside Sparrow,0.212677,78.0,81.0
+Melospiza melodia_Song Sparrow,0.14371975,78.0,81.0
+Aphelocoma californica_California Scrub-Jay,0.13958153,82.0,85.0
+Spizelloides arborea_American Tree Sparrow,0.6494161,84.0,87.0
+Melospiza melodia_Song Sparrow,0.36119717,85.0,88.0
+Melospiza melodia_Song Sparrow,0.7988797,86.0,89.0
+Melospiza melodia_Song Sparrow,0.54397666,87.0,90.0
+Ammospiza maritima_Seaside Sparrow,0.2832795,88.0,91.0
+Ammospiza nelsoni_Nelson's Sparrow,0.127201,88.0,91.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.22302715,90.0,93.0
+Acanthiza apicalis_Inland Thornbill,0.20186627,90.0,93.0
+Selasphorus heloisa_Bumblebee Hummingbird,0.10825741,93.0,96.0
+Melospiza georgiana_Swamp Sparrow,0.5616354,94.0,97.0
+Cistothorus palustris_Marsh Wren,0.20286396,94.0,97.0
+Melospiza georgiana_Swamp Sparrow,0.6116514,95.0,98.0
+Cistothorus palustris_Marsh Wren,0.1081888,95.0,98.0
+Melospiza georgiana_Swamp Sparrow,0.27340147,96.0,99.0
+Cistothorus palustris_Marsh Wren,0.17427282,96.0,99.0
+Melospiza georgiana_Swamp Sparrow,0.17314982,97.0,100.0
+Melospiza melodia_Song Sparrow,0.5070307,98.0,101.0
+Melospiza melodia_Song Sparrow,0.14090526,99.0,102.0
+Ammospiza maritima_Seaside Sparrow,0.6444132,100.0,103.0
+Zosterops luteus_Australian Yellow White-eye,0.21579927,101.0,104.0
+Elanus leucurus_White-tailed Kite,0.19044837,101.0,104.0
+Elanus leucurus_White-tailed Kite,0.30133268,102.0,105.0
+Aphelocoma californica_California Scrub-Jay,0.10048717,102.0,105.0
+Chamaea fasciata_Wrentit,0.110213816,103.0,106.0
+Chamaea fasciata_Wrentit,0.12188073,104.0,107.0
+Spizelloides arborea_American Tree Sparrow,0.11210067,107.0,110.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.10584805,107.0,110.0
+Melospiza melodia_Song Sparrow,0.40229687,108.0,111.0
+Melospiza melodia_Song Sparrow,0.71798736,109.0,112.0
+Melospiza melodia_Song Sparrow,0.69858676,110.0,113.0
+Melospiza melodia_Song Sparrow,0.2608511,111.0,114.0
+Tyrannus tyrannus_Eastern Kingbird,0.1464154,112.0,115.0
+Melospiza georgiana_Swamp Sparrow,0.45930004,115.0,118.0
+Melospiza georgiana_Swamp Sparrow,0.23858894,116.0,119.0
+Melospiza georgiana_Swamp Sparrow,0.17292126,117.0,120.0

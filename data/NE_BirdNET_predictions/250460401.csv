@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.6063372,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16226882,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.14490935,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.1222324,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.11103001,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.2567835,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17880805,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.16248058,1.0,4.0
+Mniotilta varia_Black-and-white Warbler,0.13163504,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.11971527,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10871428,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.23354147,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.17335667,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16595177,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14427331,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.100191906,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.216195,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.21002913,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.19068702,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18308415,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1638268,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2759609,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.20724042,5.0,8.0
+Cardellina canadensis_Canada Warbler,0.1912356,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13146807,5.0,8.0
+Palmeria dolei_Akohekohe,0.108550064,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.26164308,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.114438765,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.18590562,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.11776666,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.29602295,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1825906,11.0,14.0
+Cardellina canadensis_Canada Warbler,0.120289825,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.11980626,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.23958266,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13278653,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.11957752,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.27627647,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25958762,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.15044297,15.0,18.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.1207807,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.16906552,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15282194,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12911944,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.120454565,16.0,19.0
+Ixothraupis rufigula_Rufous-throated Tanager,0.27615792,19.0,22.0
+Myioborus castaneocapilla_Tepui Redstart,0.16590865,19.0,22.0
+Ixothraupis punctata_Spotted Tanager,0.11551602,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.10058644,21.0,24.0
+Cygnus buccinator_Trumpeter Swan,0.7826904,25.0,28.0
+Cygnus buccinator_Trumpeter Swan,0.56750655,26.0,29.0
+Cygnus buccinator_Trumpeter Swan,0.12045991,27.0,30.0
+Basileuterus tristriatus_Three-striped Warbler,0.16890988,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.14651369,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.103303805,32.0,35.0
+Setophaga tigrina_Cape May Warbler,0.19200325,33.0,36.0
+Setophaga tigrina_Cape May Warbler,0.10555703,34.0,37.0
+Emberiza variabilis_Gray Bunting,0.17789814,35.0,38.0
+Emberiza tristrami_Tristram's Bunting,0.16092192,35.0,38.0
+Troglodytes pacificus_Pacific Wren,0.15345626,37.0,40.0
+Myioborus castaneocapilla_Tepui Redstart,0.12195935,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10222501,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.19238709,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12958714,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.100092754,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.13669613,40.0,42.168027210884354
+Helmitheros vermivorum_Worm-eating Warbler,0.12610313,40.0,42.168027210884354
+Seiurus aurocapilla_Ovenbird,0.106188074,40.0,42.168027210884354

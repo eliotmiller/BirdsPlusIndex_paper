@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Mniotilta varia_Black-and-white Warbler,0.991994,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.9939805,1.0,4.0
+Mniotilta varia_Black-and-white Warbler,0.9969566,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.9885395,3.0,6.0
+Mniotilta varia_Black-and-white Warbler,0.3957237,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.28788143,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1541711,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.26366976,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16053401,6.0,9.0
+Geothlypis philadelphia_Mourning Warbler,0.11392822,7.0,10.0
+Geothlypis philadelphia_Mourning Warbler,0.13856904,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.25801787,10.0,13.0
+Geothlypis philadelphia_Mourning Warbler,0.10645405,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17269574,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.10601757,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18995419,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.14311594,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.103141636,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17597425,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.12415907,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.15455614,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11460854,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.26275507,15.0,18.0
+Certhia americana_Brown Creeper,0.10046402,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.18995588,16.0,19.0
+Geothlypis philadelphia_Mourning Warbler,0.14735098,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119806476,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.11071493,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.10254792,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.10217767,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.10064784,16.0,19.0
+Geothlypis philadelphia_Mourning Warbler,0.761695,17.0,20.0
+Geothlypis philadelphia_Mourning Warbler,0.8960407,18.0,21.0
+Geothlypis philadelphia_Mourning Warbler,0.7473443,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11932076,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9172167,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9566397,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.10409171,21.0,24.0
+Mniotilta varia_Black-and-white Warbler,0.85548604,22.0,25.0
+Mniotilta varia_Black-and-white Warbler,0.95405143,23.0,26.0
+Mniotilta varia_Black-and-white Warbler,0.97204036,24.0,27.0
+Mniotilta varia_Black-and-white Warbler,0.98650706,25.0,28.0
+Mniotilta varia_Black-and-white Warbler,0.9693276,26.0,29.0
+Mniotilta varia_Black-and-white Warbler,0.5111228,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.16825159,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13042419,28.0,31.0
+Certhia americana_Brown Creeper,0.45055193,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.16464688,29.0,32.0
+Setophaga occidentalis_Hermit Warbler,0.10269358,29.0,32.0
+Certhia americana_Brown Creeper,0.2377015,30.0,33.0
+Certhia americana_Brown Creeper,0.58292,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12154899,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17155208,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.56665087,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.101063535,34.0,37.0
+Catharus fuscescens_Veery,0.47480384,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18813765,35.0,38.0
+Catharus fuscescens_Veery,0.60949254,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12153294,36.0,39.0
+Catharus fuscescens_Veery,0.60465366,37.0,40.0
+Colluricincla harmonica_Gray Shrikethrush,0.17575623,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.16913672,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.12832308,39.0,42.0
+Colluricincla harmonica_Gray Shrikethrush,0.106515914,39.0,42.0
+Certhia americana_Brown Creeper,0.15998743,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16687955,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2119139,42.0,45.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3989858,43.0,46.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2726376,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.26277786,44.0,47.0
+Catharus fuscescens_Veery,0.23093748,45.0,48.0
+Catharus fuscescens_Veery,0.76846015,46.0,49.0
+Catharus fuscescens_Veery,0.16406474,47.0,50.0
+Setophaga tigrina_Cape May Warbler,0.82941705,48.0,51.0
+Mniotilta varia_Black-and-white Warbler,0.32935542,48.0,51.0
+Mniotilta varia_Black-and-white Warbler,0.99388075,49.0,52.0
+Mniotilta varia_Black-and-white Warbler,0.9922025,50.0,53.0
+Mniotilta varia_Black-and-white Warbler,0.9939288,51.0,54.0
+Mniotilta varia_Black-and-white Warbler,0.90115833,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17908674,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.15501702,53.0,56.0
+Mniotilta varia_Black-and-white Warbler,0.11897884,53.0,56.0
+Geothlypis philadelphia_Mourning Warbler,0.64253235,54.0,57.0
+Geothlypis philadelphia_Mourning Warbler,0.9017722,55.0,58.0
+Geothlypis philadelphia_Mourning Warbler,0.9641021,56.0,59.0
+Geothlypis philadelphia_Mourning Warbler,0.79967636,57.0,60.0
+Geothlypis formosa_Kentucky Warbler,0.40668252,57.0,60.0
+Colluricincla harmonica_Gray Shrikethrush,0.21497539,58.0,60.62403628117914

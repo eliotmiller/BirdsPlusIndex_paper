@@ -1,0 +1,59 @@
+species,score,start_time,end_time
+Accipiter cooperii_Cooper's Hawk,0.10024602,3.0,6.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.2035317,4.0,7.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.10622543,9.0,12.0
+Myiomela leucura_White-tailed Robin,0.14284758,26.0,29.0
+Spinus psaltria_Lesser Goldfinch,0.20942593,29.0,32.0
+Circus hudsonius_Northern Harrier,0.1424524,54.0,57.0
+Accipiter cooperii_Cooper's Hawk,0.13970377,59.0,62.0
+Accipiter cooperii_Cooper's Hawk,0.14779215,63.0,66.0
+Circus hudsonius_Northern Harrier,0.1256017,63.0,66.0
+Accipiter cooperii_Cooper's Hawk,0.21302402,64.0,67.0
+Melanocorypha calandra_Calandra Lark,0.100116394,69.0,72.0
+Spizella pallida_Clay-colored Sparrow,0.11492254,70.0,73.0
+Tachycineta bicolor_Tree Swallow,0.11669988,73.0,76.0
+Drymophila squamata_Scaled Antbird,0.5351965,78.0,81.0
+Drymophila squamata_Scaled Antbird,0.13761607,79.0,82.0
+Troglodytes ochraceus_Ochraceous Wren,0.13339692,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27119565,80.0,83.0
+Drymophila squamata_Scaled Antbird,0.25726476,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17640802,81.0,84.0
+Bombycilla cedrorum_Cedar Waxwing,0.11243753,83.0,86.0
+Bombycilla cedrorum_Cedar Waxwing,0.4370488,84.0,87.0
+Bombycilla cedrorum_Cedar Waxwing,0.12790732,86.0,89.0
+Bombycilla cedrorum_Cedar Waxwing,0.20527539,87.0,90.0
+Apus pallidus_Pallid Swift,0.11199665,90.0,93.0
+Apus pallidus_Pallid Swift,0.15315238,91.0,94.0
+Drymophila squamata_Scaled Antbird,0.24601837,100.0,103.0
+Drymophila squamata_Scaled Antbird,0.10010162,101.0,104.0
+Drymophila squamata_Scaled Antbird,0.15800302,102.0,105.0
+Manacus candei_White-collared Manakin,0.2329088,109.0,112.0
+Manacus vitellinus_Golden-collared Manakin,0.10428561,109.0,112.0
+Myiarchus crinitus_Great Crested Flycatcher,0.14105342,122.0,125.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3650594,123.0,126.0
+Myiarchus crinitus_Great Crested Flycatcher,0.67768735,124.0,127.0
+Setophaga virens_Black-throated Green Warbler,0.11483545,130.0,133.0
+Selasphorus heloisa_Bumblebee Hummingbird,0.13977991,145.0,148.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.10244425,159.0,162.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.19690771,166.0,169.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.93921727,167.0,170.0
+Campylorhynchus zonatus_Band-backed Wren,0.36621195,167.0,170.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.22421315,168.0,171.0
+Campylorhynchus zonatus_Band-backed Wren,0.16351505,169.0,172.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.13706683,169.0,172.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.6773528,170.0,173.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.1563795,171.0,174.0
+Campylorhynchus zonatus_Band-backed Wren,0.13957897,171.0,174.0
+Colluricincla harmonica_Gray Shrikethrush,0.14418626,173.0,176.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.20203891,177.0,180.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.26778522,178.0,181.0
+Sayornis nigricans_Black Phoebe,0.10151531,178.0,181.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.6281056,179.0,182.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.32224205,180.0,183.0
+Poecile rufescens_Chestnut-backed Chickadee,0.20768064,180.0,183.0
+Tachycineta bicolor_Tree Swallow,0.12656946,186.0,189.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.59153736,189.0,192.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.64871734,190.0,193.0
+Tyrannus tyrannus_Eastern Kingbird,0.106736735,190.0,193.0
+Molothrus ater_Brown-headed Cowbird,0.104181774,190.0,193.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.48620847,191.0,194.0

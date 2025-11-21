@@ -1,0 +1,34 @@
+species,score,start_time,end_time
+Corvus frugilegus_Rook,0.4146181,1.0,4.0
+Corvus frugilegus_Rook,0.2072583,2.0,5.0
+Corvus ossifragus_Fish Crow,0.10824519,2.0,5.0
+Corvus frugilegus_Rook,0.34209442,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.2671817,3.0,6.0
+Corvus ossifragus_Fish Crow,0.17670524,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.57950914,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.6966074,5.0,8.0
+Engine_Engine,0.14274117,5.0,8.0
+Buteo swainsoni_Swainson's Hawk,0.1008418,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.7412572,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.47016084,7.0,10.0
+Engine_Engine,0.32203424,7.0,10.0
+Buteo swainsoni_Swainson's Hawk,0.10295844,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.102359414,8.0,11.0
+Engine_Engine,0.12616923,11.0,14.0
+Engine_Engine,0.1188656,13.0,16.0
+Engine_Engine,0.10835942,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.45631507,16.0,19.0
+Cyanocitta cristata_Blue Jay,0.20613943,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.9801971,17.0,20.0
+Cyanocitta cristata_Blue Jay,0.104401946,17.0,20.0
+Buteo jamaicensis_Red-tailed Hawk,0.97587025,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.106421374,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.13501306,20.0,23.0
+Contopus sordidulus_Western Wood-Pewee,0.13216323,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.22574627,24.0,27.0
+Poecile atricapillus_Black-capped Chickadee,0.10708786,25.0,28.0
+Accipiter cooperii_Cooper's Hawk,0.1658412,29.0,32.0
+Buteo jamaicensis_Red-tailed Hawk,0.15953591,29.0,32.0
+Buteo jamaicensis_Red-tailed Hawk,0.9667535,30.0,33.0
+Cyanocitta cristata_Blue Jay,0.13240075,30.0,33.0
+Buteo jamaicensis_Red-tailed Hawk,0.9192606,31.0,33.768027210884355

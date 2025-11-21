@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.4955893,0.0,3.0
+Loxia curvirostra_Red Crossbill,0.368525,0.0,3.0
+Parus major_Great Tit,0.18805233,0.0,3.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.18982224,1.0,4.0
+Cyanomitra olivacea_Olive Sunbird,0.10049732,2.0,5.0
+Cyanomitra olivacea_Olive Sunbird,0.38573644,3.0,6.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.29498762,3.0,6.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.3657398,4.0,7.0
+Cyanomitra olivacea_Olive Sunbird,0.1455463,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.13424307,4.0,7.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.3136247,5.0,8.0
+Cyanomitra olivacea_Olive Sunbird,0.53808975,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.33425334,6.0,9.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.10119893,6.0,9.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.63777536,7.0,10.0
+Cyanomitra olivacea_Olive Sunbird,0.26652226,7.0,10.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.49141538,8.0,11.0
+Troglodytes hiemalis_Winter Wren,0.2647405,8.0,11.0
+Loxia curvirostra_Red Crossbill,0.42909008,9.0,12.0
+Loxia curvirostra_Red Crossbill,0.5770541,10.0,13.0
+Loxia curvirostra_Red Crossbill,0.40307474,11.0,14.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.1522309,11.0,14.0
+Cyanomitra olivacea_Olive Sunbird,0.1345063,11.0,14.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.7840828,12.0,15.0
+Cyanomitra olivacea_Olive Sunbird,0.12953314,12.0,15.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.23376791,13.0,16.0
+Haemorhous mexicanus_House Finch,0.15201345,14.0,17.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.26326048,17.0,20.0
+Rhipidura albiscapa_Gray Fantail,0.14927283,17.0,20.0
+Cyanomitra olivacea_Olive Sunbird,0.13432124,17.0,20.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.5906434,18.0,21.0
+Luscinia svecica_Bluethroat,0.49001202,18.0,21.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.43788263,19.0,22.0
+Parus major_Great Tit,0.36100197,19.0,22.0
+Luscinia svecica_Bluethroat,0.17318843,19.0,22.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.21882999,20.0,23.0
+Loxia pytyopsittacus_Parrot Crossbill,0.19180825,20.0,23.0
+Lullula arborea_Wood Lark,0.19102861,22.0,25.0
+Lullula arborea_Wood Lark,0.46536532,23.0,26.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.10603075,23.0,26.0
+Lullula arborea_Wood Lark,0.6064679,24.0,27.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.13818288,24.0,27.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.3527639,25.0,28.0
+Loxia pytyopsittacus_Parrot Crossbill,0.14203629,25.0,28.0
+Spizelloides arborea_American Tree Sparrow,0.1015303,25.0,28.0
+Loxia curvirostra_Red Crossbill,0.40000775,26.0,29.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.14365529,26.0,29.0
+Loxia pytyopsittacus_Parrot Crossbill,0.10816058,26.0,29.0
+Loxia curvirostra_Red Crossbill,0.8233903,27.0,30.0
+Loxia pytyopsittacus_Parrot Crossbill,0.46826836,27.0,30.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.10850241,27.0,30.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.78780776,28.0,31.0
+Loxia curvirostra_Red Crossbill,0.39047256,28.0,31.0
+Loxia pytyopsittacus_Parrot Crossbill,0.14906009,28.0,31.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.38667968,29.0,32.0
+Loxia curvirostra_Red Crossbill,0.10829576,29.0,32.0
+Loxia curvirostra_Red Crossbill,0.1941564,30.0,33.0
+Poecile carolinensis_Carolina Chickadee,0.36723143,32.0,35.0
+Loxia curvirostra_Red Crossbill,0.7204936,33.0,36.0
+Loxia curvirostra_Red Crossbill,0.8930261,34.0,37.0
+Loxia curvirostra_Red Crossbill,0.21152155,35.0,38.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.50183386,36.0,39.0
+Luscinia svecica_Bluethroat,0.35746834,36.0,39.0
+Parus major_Great Tit,0.301454,36.0,39.0
+Luscinia svecica_Bluethroat,0.72700125,37.0,40.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.7058313,37.0,40.0
+Luscinia svecica_Bluethroat,0.7521926,38.0,41.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.6618689,38.0,41.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.19478455,39.0,42.0
+Tyrannus dominicensis_Gray Kingbird,0.22839874,41.0,44.0
+Rhipidura leucophrys_Willie-wagtail,0.14708588,41.0,44.0
+Parus major_Great Tit,0.21922453,42.0,45.0
+Parus major_Great Tit,0.12876083,43.0,46.0
+Loxia curvirostra_Red Crossbill,0.61329305,45.0,48.0
+Loxia curvirostra_Red Crossbill,0.26814887,46.0,49.0
+Loxia curvirostra_Red Crossbill,0.38198707,47.0,50.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.1705124,47.0,50.0
+Loxia curvirostra_Red Crossbill,0.5112455,48.0,51.0
+Loxia curvirostra_Red Crossbill,0.7480974,49.0,52.0
+Loxia pytyopsittacus_Parrot Crossbill,0.18109874,49.0,52.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.15554637,49.0,52.0
+Loxia curvirostra_Red Crossbill,0.84640086,50.0,53.0
+Loxia pytyopsittacus_Parrot Crossbill,0.21424603,50.0,53.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.1607122,50.0,53.0
+Acanthorhynchus tenuirostris_Eastern Spinebill,0.45365563,51.0,54.0
+Loxia curvirostra_Red Crossbill,0.8819574,52.0,55.0
+Loxia curvirostra_Red Crossbill,0.6520818,53.0,55.15201814058957

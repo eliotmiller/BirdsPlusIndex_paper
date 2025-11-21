@@ -1,0 +1,30 @@
+species,score,start_time,end_time
+Passer domesticus_House Sparrow,0.24233213,0.0,3.0
+Passer domesticus_House Sparrow,0.14822383,9.0,12.0
+Pycnonotus sinensis_Light-vented Bulbul,0.13634601,10.0,13.0
+Passer domesticus_House Sparrow,0.23945649,11.0,14.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.14464174,12.0,15.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.480012,13.0,16.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.17203929,14.0,17.0
+Passer domesticus_House Sparrow,0.19111946,15.0,18.0
+Apus melba_Alpine Swift,0.16866735,16.0,19.0
+Apus melba_Alpine Swift,0.1571916,17.0,20.0
+Passer domesticus_House Sparrow,0.11979755,17.0,20.0
+Apus melba_Alpine Swift,0.12759732,18.0,21.0
+Passer domesticus_House Sparrow,0.17649648,20.0,23.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1613481,20.0,23.0
+Thryothorus ludovicianus_Carolina Wren,0.8461814,21.0,24.0
+Thryothorus ludovicianus_Carolina Wren,0.9811957,22.0,25.0
+Thryothorus ludovicianus_Carolina Wren,0.99080855,23.0,26.0
+Thryothorus ludovicianus_Carolina Wren,0.9189345,24.0,27.0
+Pycnonotus plumosus_Olive-winged Bulbul,0.1400645,28.0,31.0
+Pycnonotus plumosus_Olive-winged Bulbul,0.5961393,29.0,32.0
+Knipolegus orenocensis_Riverside Tyrant,0.3431452,29.0,32.0
+Thryothorus ludovicianus_Carolina Wren,0.10399763,31.0,34.0
+Laterallus melanophaius_Rufous-sided Crake,0.17103578,32.0,35.0
+Laterallus melanophaius_Rufous-sided Crake,0.124145016,33.0,36.0
+Gryllus rubens_Southeastern Field Cricket,0.12529528,38.0,41.0
+Gryllus rubens_Southeastern Field Cricket,0.15937512,40.0,43.0
+Neoconocephalus robustus_Robust Conehead,0.14827788,40.0,43.0
+Neoconocephalus robustus_Robust Conehead,0.122252405,41.0,44.0
+Quiscalus quiscula_Common Grackle,0.17860647,51.0,54.0
