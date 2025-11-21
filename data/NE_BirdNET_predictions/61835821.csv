@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.117046,0.0,3.0
+Coccothraustes coccothraustes_Hawfinch,0.6525404,1.0,4.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.163197,1.0,4.0
+Coccothraustes coccothraustes_Hawfinch,0.37624535,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.11352132,3.0,6.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.10473454,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.11022478,4.0,7.0
+Passerina cyanea_Indigo Bunting,0.1528578,5.0,8.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.12584916,5.0,8.0
+Coccothraustes coccothraustes_Hawfinch,0.10779659,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.5886416,6.0,9.0
+Passerina amoena_Lazuli Bunting,0.17709005,6.0,9.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.1449172,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.13849497,7.0,10.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.11487742,8.0,11.0
+Passerina cyanea_Indigo Bunting,0.23979981,9.0,12.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.15720353,10.0,13.0
+Coccothraustes coccothraustes_Hawfinch,0.11661851,10.0,13.0
+Passerina cyanea_Indigo Bunting,0.36701295,11.0,14.0
+Coccothraustes coccothraustes_Hawfinch,0.24637009,11.0,14.0
+Coccothraustes coccothraustes_Hawfinch,0.9000961,12.0,15.0
+Erithacus rubecula_European Robin,0.12136858,12.0,15.0
+Coccothraustes coccothraustes_Hawfinch,0.877113,13.0,16.0
+Erithacus rubecula_European Robin,0.11722043,13.0,16.0
+Cisticola juncidis_Zitting Cisticola,0.28882354,14.0,17.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.12343006,14.0,17.0
+Spartonoica maluroides_Bay-capped Wren-Spinetail,0.5124403,15.0,18.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.47899967,15.0,18.0
+Coccothraustes coccothraustes_Hawfinch,0.47232664,15.0,18.0
+Spartonoica maluroides_Bay-capped Wren-Spinetail,0.2318858,16.0,19.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.18776871,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.525305,17.0,20.0
+Coccothraustes coccothraustes_Hawfinch,0.684416,18.0,21.0
+Coccothraustes coccothraustes_Hawfinch,0.8488039,19.0,22.0
+Coccothraustes coccothraustes_Hawfinch,0.12936491,20.0,23.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.35830402,24.0,27.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.17359787,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.3430793,26.0,29.0
+Coccothraustes coccothraustes_Hawfinch,0.24912684,27.0,30.0
+Erithacus rubecula_European Robin,0.112431735,27.0,30.0
+Emberiza fucata_Chestnut-eared Bunting,0.11003826,27.0,30.0
+Coccothraustes coccothraustes_Hawfinch,0.78643495,28.0,31.0
+Coccothraustes coccothraustes_Hawfinch,0.7205595,29.0,32.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.45669347,29.0,32.0
+Erithacus rubecula_European Robin,0.11233334,29.0,32.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.26232836,30.0,33.0
+Erithacus rubecula_European Robin,0.22066465,30.0,33.0
+Coccothraustes coccothraustes_Hawfinch,0.13035126,30.0,33.0
+Erithacus rubecula_European Robin,0.2803186,32.0,35.0
+Coccothraustes coccothraustes_Hawfinch,0.15217201,33.0,36.0
+Erithacus rubecula_European Robin,0.15153912,33.0,36.0
+Erithacus rubecula_European Robin,0.34357253,34.0,37.0
+Coccothraustes coccothraustes_Hawfinch,0.19789807,34.0,37.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.1182012,34.0,37.0
+Coccothraustes coccothraustes_Hawfinch,0.113638565,36.0,39.0
+Passerina cyanea_Indigo Bunting,0.37169063,37.0,40.0
+Coccothraustes coccothraustes_Hawfinch,0.336843,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.10306744,41.0,44.0
+Coccothraustes coccothraustes_Hawfinch,0.19942038,43.0,46.0
+Coccothraustes coccothraustes_Hawfinch,0.977865,44.0,47.0
+Emberiza fucata_Chestnut-eared Bunting,0.2582473,45.0,48.0
+Spartonoica maluroides_Bay-capped Wren-Spinetail,0.3989008,47.0,50.0
+Coccothraustes coccothraustes_Hawfinch,0.271621,47.0,50.0
+Erithacus rubecula_European Robin,0.15732938,47.0,50.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.11385186,47.0,50.0
+Phacellodomus maculipectus_Spot-breasted Thornbird,0.4361564,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.29576495,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.45898852,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.4470953,51.0,54.0
+Coccothraustes coccothraustes_Hawfinch,0.5628017,53.0,56.0
+Coccothraustes coccothraustes_Hawfinch,0.22735181,54.0,57.0
+Passerina cyanea_Indigo Bunting,0.1395719,55.0,58.0
+Passerina cyanea_Indigo Bunting,0.17918137,56.0,59.0
+Dulus dominicus_Palmchat,0.10560074,63.0,66.0
+Buteo ridgwayi_Ridgway's Hawk,0.103519596,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.13707174,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.11319588,67.0,70.0
+Setophaga petechia_Yellow Warbler,0.19263178,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10066493,68.0,71.0
+Abroscopus albogularis_Rufous-faced Warbler,0.10009387,73.0,76.0
+Tamias striatus_Eastern Chipmunk,0.17198841,77.0,80.0

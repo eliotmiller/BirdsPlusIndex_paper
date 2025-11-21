@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Empidonax traillii_Willow Flycatcher,0.16173856,0.0,3.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7569885,1.0,4.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9398278,2.0,5.0
+Ammodramus savannarum_Grasshopper Sparrow,0.40373978,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.2600002,3.0,6.0
+Leiothlypis celata_Orange-crowned Warbler,0.30446556,4.0,7.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11252312,4.0,7.0
+Spizella passerina_Chipping Sparrow,0.110632725,4.0,7.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7958908,5.0,8.0
+Spizella pallida_Clay-colored Sparrow,0.1511821,5.0,8.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3406553,6.0,9.0
+Spizella pallida_Clay-colored Sparrow,0.2100634,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.20526919,6.0,9.0
+Leiothlypis celata_Orange-crowned Warbler,0.10216693,6.0,9.0
+Passerina caerulea_Blue Grosbeak,0.17625426,10.0,13.0
+Passerina caerulea_Blue Grosbeak,0.2555709,11.0,14.0
+Passerina caerulea_Blue Grosbeak,0.1312448,12.0,15.0
+Progne subis_Purple Martin,0.258442,19.0,22.0
+Vireo bellii_Bell's Vireo,0.15871842,19.0,22.0
+Passerina caerulea_Blue Grosbeak,0.6358665,20.0,23.0
+Passerina caerulea_Blue Grosbeak,0.57190794,21.0,24.0
+Passerina caerulea_Blue Grosbeak,0.8409006,22.0,25.0
+Passerina caerulea_Blue Grosbeak,0.5911421,23.0,26.0
+Passerina caerulea_Blue Grosbeak,0.1834026,24.0,27.0
+Passerina caerulea_Blue Grosbeak,0.48794252,31.0,34.0
+Passerina caerulea_Blue Grosbeak,0.90871334,32.0,35.0
+Passerina caerulea_Blue Grosbeak,0.8223485,33.0,36.0
+Passerina caerulea_Blue Grosbeak,0.6823823,34.0,37.0
+Pterophylla camellifolia_Common True Katydid,0.10295422,39.0,42.0
+Passerina caerulea_Blue Grosbeak,0.33303353,44.0,47.0
+Passerina caerulea_Blue Grosbeak,0.5281583,45.0,48.0
+Passerina caerulea_Blue Grosbeak,0.63642603,46.0,49.0
+Passerina caerulea_Blue Grosbeak,0.42420095,47.0,50.0
+Passerina caerulea_Blue Grosbeak,0.1470216,48.0,51.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.43055516,52.0,55.0
+Atlanticus testaceus_Protean Shieldback,0.14967565,52.0,55.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.34578213,53.0,56.0
+Gryllus rubens_Southeastern Field Cricket,0.10772181,53.0,56.0
+Allonemobius allardi_Allard's Ground Cricket,0.10718994,53.0,56.0
+Passerina caerulea_Blue Grosbeak,0.17595609,55.0,58.0
+Passerina caerulea_Blue Grosbeak,0.30929652,56.0,59.0
+Passerina caerulea_Blue Grosbeak,0.79167074,57.0,60.0
+Ammodramus savannarum_Grasshopper Sparrow,0.45012814,58.0,61.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8189994,59.0,62.0
+Ammodramus savannarum_Grasshopper Sparrow,0.63044417,60.0,63.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10517604,60.0,63.0
+Ammodramus savannarum_Grasshopper Sparrow,0.90085155,61.0,64.0
+Spizella pallida_Clay-colored Sparrow,0.124754645,61.0,64.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9862083,62.0,65.0
+Spizella passerina_Chipping Sparrow,0.114193365,62.0,65.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9181331,63.0,66.0
+Passerculus sandwichensis_Savannah Sparrow,0.16667372,63.0,66.0
+Spizella passerina_Chipping Sparrow,0.13601801,63.0,66.0
+Spizella pallida_Clay-colored Sparrow,0.107161336,63.0,66.0
+Ixobrychus exilis_Least Bittern,0.11121498,67.0,70.0
+Mimus polyglottos_Northern Mockingbird,0.1797032,72.0,75.0
+Tringa melanoleuca_Greater Yellowlegs,0.21500543,74.0,77.0
+Mimus polyglottos_Northern Mockingbird,0.1734294,74.0,77.0
+Tringa semipalmata_Willet,0.14667992,74.0,77.0
+Tringa melanoleuca_Greater Yellowlegs,0.21577871,75.0,78.0
+Pterophylla camellifolia_Common True Katydid,0.14470923,77.0,80.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.11734745,77.0,80.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.13029037,78.0,81.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.4698098,79.0,82.0
+Pterophylla camellifolia_Common True Katydid,0.28992444,79.0,82.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.2064654,79.0,82.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.24024385,88.0,91.0
+Conocephalus brevipennis_Short-winged Meadow Katydid,0.1643464,88.0,91.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.25485066,89.0,92.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.3214246,90.0,93.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.16073668,90.0,93.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.1413719,92.0,95.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.133093,93.0,96.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.116605125,93.0,96.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.18552622,94.0,97.0
+Pterophylla camellifolia_Common True Katydid,0.116198555,94.0,97.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.14197454,95.0,98.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11125276,95.0,98.0
+Pterophylla camellifolia_Common True Katydid,0.10893195,95.0,98.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2502285,98.0,101.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4456653,99.0,102.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.11388123,99.0,102.0
+Ammodramus savannarum_Grasshopper Sparrow,0.47619492,100.0,103.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11072979,101.0,104.0
+Calamospiza melanocorys_Lark Bunting,0.32314646,103.0,106.0
+Mimus polyglottos_Northern Mockingbird,0.1551997,104.0,107.0
+Calamospiza melanocorys_Lark Bunting,0.24992548,105.0,107.16

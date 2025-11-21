@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.8149755,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.51445335,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.6065604,2.0,5.0
+Setophaga ruticilla_American Redstart,0.20925368,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.15378512,5.0,8.0
+Setophaga ruticilla_American Redstart,0.5545655,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.109983586,6.0,9.0
+Setophaga ruticilla_American Redstart,0.5235232,7.0,10.0
+Setophaga castanea_Bay-breasted Warbler,0.36093363,7.0,10.0
+Setophaga tigrina_Cape May Warbler,0.13434845,7.0,10.0
+Setophaga castanea_Bay-breasted Warbler,0.3864292,8.0,11.0
+Setophaga ruticilla_American Redstart,0.3420435,8.0,11.0
+Setophaga tigrina_Cape May Warbler,0.16046678,9.0,12.0
+Setophaga ruticilla_American Redstart,0.4196665,12.0,15.0
+Setophaga castanea_Bay-breasted Warbler,0.1552048,12.0,15.0
+Setophaga tigrina_Cape May Warbler,0.117266744,12.0,15.0
+Setophaga ruticilla_American Redstart,0.31929696,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.11867245,13.0,16.0
+Setophaga ruticilla_American Redstart,0.34154308,14.0,17.0
+Scenopoeetes dentirostris_Tooth-billed Bowerbird,0.12070348,15.0,18.0
+Corvus brachyrhynchos_American Crow,0.15343642,16.0,19.0
+Corvus brachyrhynchos_American Crow,0.11222571,17.0,20.0
+Setophaga ruticilla_American Redstart,0.519297,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.11313298,18.0,21.0
+Corvus brachyrhynchos_American Crow,0.10070278,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.15346786,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.41994518,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.48569134,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.2465184,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.16855036,22.0,25.0
+Setophaga ruticilla_American Redstart,0.5834187,23.0,26.0
+Geothlypis formosa_Kentucky Warbler,0.17346644,23.0,26.0
+Corvus brachyrhynchos_American Crow,0.158214,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.113216415,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.112255245,23.0,26.0
+Setophaga ruticilla_American Redstart,0.23788907,24.0,27.0
+Setophaga ruticilla_American Redstart,0.54929954,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.14641081,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.14387119,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.14223963,25.0,28.0
+Setophaga ruticilla_American Redstart,0.33026385,30.0,33.0
+Setophaga castanea_Bay-breasted Warbler,0.20240027,30.0,33.0
+Setophaga tigrina_Cape May Warbler,0.12986134,30.0,33.0
+Setophaga ruticilla_American Redstart,0.22803241,31.0,34.0
+Setophaga castanea_Bay-breasted Warbler,0.13950863,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.59803164,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.77617705,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.818286,34.0,37.0
+Setophaga ruticilla_American Redstart,0.44887412,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.12673098,35.0,38.0
+Setophaga ruticilla_American Redstart,0.42661056,36.0,39.0
+Setophaga tigrina_Cape May Warbler,0.18988065,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.17683676,36.0,39.0
+Setophaga ruticilla_American Redstart,0.7260207,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.2929877,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.18499248,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.1835385,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.16915524,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.86988825,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.3519788,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.16905281,38.0,41.0
+Corvus brachyrhynchos_American Crow,0.32187414,39.0,42.0
+Vireo olivaceus_Red-eyed Vireo,0.17730409,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.10418353,40.0,43.0
+Setophaga ruticilla_American Redstart,0.1499989,41.0,44.0
+Setophaga ruticilla_American Redstart,0.24413249,42.0,45.0
+Empidonax virescens_Acadian Flycatcher,0.52442676,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.7690493,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.70919174,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.12112912,45.0,48.0

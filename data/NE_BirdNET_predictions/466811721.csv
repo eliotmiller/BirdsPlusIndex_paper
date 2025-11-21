@@ -1,0 +1,51 @@
+species,score,start_time,end_time
+Euphagus carolinus_Rusty Blackbird,0.10133832,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1765271,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.30239806,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.6028833,3.0,6.0
+Agelaius tricolor_Tricolored Blackbird,0.20271078,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.87200105,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.11830903,4.0,7.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10599551,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.6779915,8.0,11.0
+Icterus bullockii_Bullock's Oriole,0.3077797,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.59133595,9.0,12.0
+Icterus bullockii_Bullock's Oriole,0.3443156,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.6533865,10.0,13.0
+Icterus bullockii_Bullock's Oriole,0.11431961,10.0,13.0
+Dolichonyx oryzivorus_Bobolink,0.39638835,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.613994,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.12677054,21.0,24.0
+Lanius collurio_Red-backed Shrike,0.104034446,21.0,24.0
+Passerculus sandwichensis_Savannah Sparrow,0.14672382,22.0,25.0
+Icteria virens_Yellow-breasted Chat,0.39146003,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.36616945,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.66318893,24.0,27.0
+Icteria virens_Yellow-breasted Chat,0.12622468,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.5374132,25.0,28.0
+Passerculus sandwichensis_Savannah Sparrow,0.2086505,26.0,29.0
+Ammospiza maritima_Seaside Sparrow,0.13150707,26.0,29.0
+Acanthis flammea_Common Redpoll,0.25920555,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.19253491,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.56403387,29.0,32.0
+Agelaius tricolor_Tricolored Blackbird,0.18774365,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.5899739,30.0,33.0
+Geothlypis trichas_Common Yellowthroat,0.13704357,31.0,34.0
+Geothlypis trichas_Common Yellowthroat,0.13203366,33.0,36.0
+Spatula discors_Blue-winged Teal,0.18002309,35.0,38.0
+Botaurus lentiginosus_American Bittern,0.15373535,35.0,38.0
+Passerculus sandwichensis_Savannah Sparrow,0.4388797,38.0,41.0
+Passerculus sandwichensis_Savannah Sparrow,0.17926148,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.1724052,40.0,43.0
+Ammospiza maritima_Seaside Sparrow,0.102864236,48.0,51.0
+Pterophylla camellifolia_Common True Katydid,0.17641382,51.0,54.0
+Passerculus sandwichensis_Savannah Sparrow,0.19665314,54.0,57.0
+Passerculus sandwichensis_Savannah Sparrow,0.38995293,55.0,58.0
+Passerculus sandwichensis_Savannah Sparrow,0.4051392,56.0,59.0
+Passerculus sandwichensis_Savannah Sparrow,0.25222194,57.0,60.0
+Passerculus sandwichensis_Savannah Sparrow,0.12185,70.0,73.0
+Passerculus sandwichensis_Savannah Sparrow,0.17631373,71.0,74.0
+Passerculus sandwichensis_Savannah Sparrow,0.10574146,72.0,75.0
+Pterophylla camellifolia_Common True Katydid,0.19071011,76.0,79.0
+Ammospiza maritima_Seaside Sparrow,0.13164282,80.0,83.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.111883335,85.0,88.0

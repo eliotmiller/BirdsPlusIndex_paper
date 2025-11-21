@@ -1,0 +1,783 @@
+species,score,start_time,end_time
+Setophaga cerulea_Cerulean Warbler,0.87492794,0.0,3.0
+Setophaga coronata_Yellow-rumped Warbler,0.18172415,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.95938116,1.0,4.0
+Setophaga pinus_Pine Warbler,0.17298055,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.15723662,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.13206245,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.24429433,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.21401295,6.0,9.0
+Contopus virens_Eastern Wood-Pewee,0.21132699,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.1324649,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.13247322,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.17995256,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15284078,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.94955456,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.9209938,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.9083153,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.5292065,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.99254555,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.9137961,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.9472393,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.89999896,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.936269,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14519346,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.9690581,27.0,30.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.15805578,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.9594712,28.0,31.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1022195,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.93186265,29.0,32.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14988886,29.0,32.0
+Bombycilla cedrorum_Cedar Waxwing,0.49567163,30.0,33.0
+Bombycilla cedrorum_Cedar Waxwing,0.5814156,31.0,34.0
+Bombycilla cedrorum_Cedar Waxwing,0.7957096,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.7187898,33.0,36.0
+Bombycilla cedrorum_Cedar Waxwing,0.25678176,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.9684559,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.97428334,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.93658656,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2020938,37.0,40.0
+Setophaga dominica_Yellow-throated Warbler,0.14302263,37.0,40.0
+Bombycilla cedrorum_Cedar Waxwing,0.2635974,38.0,41.0
+Bombycilla cedrorum_Cedar Waxwing,0.6768921,39.0,42.0
+Contopus virens_Eastern Wood-Pewee,0.11240499,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.64694124,43.0,46.0
+Geothlypis philadelphia_Mourning Warbler,0.50471455,43.0,46.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14396423,43.0,46.0
+Setophaga magnolia_Magnolia Warbler,0.10440124,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.9906212,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.98810065,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.9667818,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.18483928,47.0,50.0
+Geothlypis philadelphia_Mourning Warbler,0.107231535,47.0,50.0
+Bombycilla cedrorum_Cedar Waxwing,0.9847584,48.0,51.0
+Bombycilla cedrorum_Cedar Waxwing,0.93134815,49.0,52.0
+Bombycilla cedrorum_Cedar Waxwing,0.29064924,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.13127299,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.9567012,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.9949615,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.9907224,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.97147816,55.0,58.0
+Bombycilla cedrorum_Cedar Waxwing,0.36211938,56.0,59.0
+Bombycilla cedrorum_Cedar Waxwing,0.17765734,57.0,60.0
+Bombycilla cedrorum_Cedar Waxwing,0.5483976,58.0,61.0
+Bombycilla cedrorum_Cedar Waxwing,0.8509508,59.0,62.0
+Bombycilla cedrorum_Cedar Waxwing,0.96881247,60.0,63.0
+Bombycilla cedrorum_Cedar Waxwing,0.1788232,61.0,64.0
+Bombycilla cedrorum_Cedar Waxwing,0.737084,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.68388146,63.0,66.0
+Geothlypis philadelphia_Mourning Warbler,0.2686176,63.0,66.0
+Setophaga cerulea_Cerulean Warbler,0.8465761,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.5277224,65.0,68.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.26266214,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.8796104,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.48675832,67.0,70.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.4620507,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.9740205,72.0,75.0
+Setophaga cerulea_Cerulean Warbler,0.9573221,73.0,76.0
+Setophaga cerulea_Cerulean Warbler,0.98126936,74.0,77.0
+Setophaga cerulea_Cerulean Warbler,0.7996195,75.0,78.0
+Geothlypis philadelphia_Mourning Warbler,0.13244157,75.0,78.0
+Bombycilla cedrorum_Cedar Waxwing,0.8510111,76.0,79.0
+Bombycilla cedrorum_Cedar Waxwing,0.81186384,77.0,80.0
+Bombycilla cedrorum_Cedar Waxwing,0.75340843,78.0,81.0
+Bombycilla cedrorum_Cedar Waxwing,0.45482072,80.0,83.0
+Setophaga cerulea_Cerulean Warbler,0.9813122,82.0,85.0
+Setophaga cerulea_Cerulean Warbler,0.97703594,83.0,86.0
+Setophaga cerulea_Cerulean Warbler,0.90469354,84.0,87.0
+Bombycilla cedrorum_Cedar Waxwing,0.54406387,85.0,88.0
+Bombycilla cedrorum_Cedar Waxwing,0.77461785,86.0,89.0
+Bombycilla cedrorum_Cedar Waxwing,0.60967505,87.0,90.0
+Bombycilla cedrorum_Cedar Waxwing,0.8313167,88.0,91.0
+Bombycilla cedrorum_Cedar Waxwing,0.8480347,89.0,92.0
+Bombycilla cedrorum_Cedar Waxwing,0.5303949,90.0,93.0
+Setophaga cerulea_Cerulean Warbler,0.96588403,91.0,94.0
+Setophaga cerulea_Cerulean Warbler,0.9810203,92.0,95.0
+Setophaga cerulea_Cerulean Warbler,0.90587294,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.9501327,94.0,97.0
+Bombycilla cedrorum_Cedar Waxwing,0.15209433,97.0,100.0
+Setophaga cerulea_Cerulean Warbler,0.94093937,98.0,101.0
+Setophaga cerulea_Cerulean Warbler,0.9487289,99.0,102.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13657716,99.0,102.0
+Setophaga cerulea_Cerulean Warbler,0.72782725,100.0,103.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1862365,100.0,103.0
+Setophaga cerulea_Cerulean Warbler,0.97553605,101.0,104.0
+Bombycilla cedrorum_Cedar Waxwing,0.9858285,102.0,105.0
+Bombycilla cedrorum_Cedar Waxwing,0.81063604,103.0,106.0
+Bombycilla cedrorum_Cedar Waxwing,0.93650055,104.0,107.0
+Setophaga cerulea_Cerulean Warbler,0.1320694,105.0,108.0
+Setophaga cerulea_Cerulean Warbler,0.26916867,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18000418,106.0,109.0
+Setophaga cerulea_Cerulean Warbler,0.41481534,107.0,110.0
+Setophaga magnolia_Magnolia Warbler,0.113000214,107.0,110.0
+Setophaga cerulea_Cerulean Warbler,0.9787411,108.0,111.0
+Setophaga cerulea_Cerulean Warbler,0.96682394,109.0,112.0
+Setophaga cerulea_Cerulean Warbler,0.9213435,110.0,113.0
+Setophaga castanea_Bay-breasted Warbler,0.1289354,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.10954791,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.11474519,114.0,117.0
+Empidonax virescens_Acadian Flycatcher,0.11890845,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.9560735,116.0,119.0
+Setophaga cerulea_Cerulean Warbler,0.96925294,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.8372123,118.0,121.0
+Setophaga cerulea_Cerulean Warbler,0.89960337,119.0,122.0
+Empidonax virescens_Acadian Flycatcher,0.14165725,120.0,123.0
+Setophaga cerulea_Cerulean Warbler,0.12763873,120.0,123.0
+Setophaga castanea_Bay-breasted Warbler,0.113249,120.0,123.0
+Setophaga cerulea_Cerulean Warbler,0.13809644,121.0,124.0
+Setophaga cerulea_Cerulean Warbler,0.10282087,122.0,125.0
+Setophaga cerulea_Cerulean Warbler,0.78167206,123.0,126.0
+Setophaga cerulea_Cerulean Warbler,0.9867626,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.9831319,125.0,128.0
+Setophaga cerulea_Cerulean Warbler,0.98740226,126.0,129.0
+Protonotaria citrea_Prothonotary Warbler,0.12507917,130.0,133.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10621681,130.0,133.0
+Setophaga cerulea_Cerulean Warbler,0.10303055,130.0,133.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10480882,131.0,134.0
+Setophaga cerulea_Cerulean Warbler,0.9773697,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.9736506,133.0,136.0
+Setophaga cerulea_Cerulean Warbler,0.6169403,134.0,137.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.18328479,134.0,137.0
+Setophaga cerulea_Cerulean Warbler,0.93362576,135.0,138.0
+Setophaga cerulea_Cerulean Warbler,0.13576473,136.0,139.0
+Geothlypis philadelphia_Mourning Warbler,0.104649074,136.0,139.0
+Setophaga cerulea_Cerulean Warbler,0.12263631,137.0,140.0
+Setophaga cerulea_Cerulean Warbler,0.10677638,138.0,141.0
+Setophaga citrina_Hooded Warbler,0.23090091,139.0,142.0
+Geothlypis formosa_Kentucky Warbler,0.19522443,139.0,142.0
+Geothlypis philadelphia_Mourning Warbler,0.10407014,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13179559,140.0,143.0
+Setophaga cerulea_Cerulean Warbler,0.10429872,140.0,143.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106409155,141.0,144.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14206724,143.0,146.0
+Setophaga cerulea_Cerulean Warbler,0.9951774,145.0,148.0
+Setophaga cerulea_Cerulean Warbler,0.9987619,146.0,149.0
+Setophaga cerulea_Cerulean Warbler,0.9981629,147.0,150.0
+Setophaga cerulea_Cerulean Warbler,0.94924647,148.0,151.0
+Setophaga cerulea_Cerulean Warbler,0.1638221,149.0,152.0
+Setophaga fusca_Blackburnian Warbler,0.1202171,149.0,152.0
+Bombycilla cedrorum_Cedar Waxwing,0.12202297,150.0,153.0
+Setophaga cerulea_Cerulean Warbler,0.15058044,151.0,154.0
+Setophaga cerulea_Cerulean Warbler,0.9554863,154.0,157.0
+Setophaga cerulea_Cerulean Warbler,0.883235,155.0,158.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.18523608,155.0,158.0
+Setophaga cerulea_Cerulean Warbler,0.96596044,156.0,159.0
+Setophaga cerulea_Cerulean Warbler,0.9397831,157.0,160.0
+Bombycilla cedrorum_Cedar Waxwing,0.61034346,158.0,161.0
+Bombycilla cedrorum_Cedar Waxwing,0.96033645,159.0,162.0
+Bombycilla cedrorum_Cedar Waxwing,0.6638517,160.0,163.0
+Setophaga cerulea_Cerulean Warbler,0.8375941,161.0,164.0
+Geothlypis philadelphia_Mourning Warbler,0.1517682,161.0,164.0
+Setophaga cerulea_Cerulean Warbler,0.99028337,162.0,165.0
+Setophaga cerulea_Cerulean Warbler,0.9901786,163.0,166.0
+Setophaga cerulea_Cerulean Warbler,0.9701229,164.0,167.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11753523,165.0,168.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12654893,166.0,169.0
+Bombycilla cedrorum_Cedar Waxwing,0.120542854,166.0,169.0
+Setophaga cerulea_Cerulean Warbler,0.11306494,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10799529,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15166518,167.0,170.0
+Setophaga cerulea_Cerulean Warbler,0.10313823,167.0,170.0
+Bombycilla cedrorum_Cedar Waxwing,0.14960474,168.0,171.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2657133,169.0,172.0
+Setophaga cerulea_Cerulean Warbler,0.8361945,170.0,173.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17857163,170.0,173.0
+Setophaga cerulea_Cerulean Warbler,0.9873279,171.0,174.0
+Setophaga cerulea_Cerulean Warbler,0.98800534,172.0,175.0
+Setophaga cerulea_Cerulean Warbler,0.96915674,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16005526,174.0,177.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103457816,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18540439,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11820431,178.0,181.0
+Setophaga cerulea_Cerulean Warbler,0.64883626,179.0,182.0
+Geothlypis philadelphia_Mourning Warbler,0.2538673,179.0,182.0
+Setophaga cerulea_Cerulean Warbler,0.92452323,180.0,183.0
+Setophaga cerulea_Cerulean Warbler,0.91001034,181.0,184.0
+Setophaga cerulea_Cerulean Warbler,0.3319402,182.0,185.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.19289012,182.0,185.0
+Setophaga coronata_Yellow-rumped Warbler,0.10168367,182.0,185.0
+Setophaga cerulea_Cerulean Warbler,0.95346534,183.0,186.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.20965406,183.0,186.0
+Setophaga cerulea_Cerulean Warbler,0.96070623,184.0,187.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.11678104,184.0,187.0
+Setophaga cerulea_Cerulean Warbler,0.8875446,185.0,188.0
+Setophaga cerulea_Cerulean Warbler,0.9138819,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11231476,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12870272,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17417827,190.0,193.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14159274,191.0,194.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16628951,192.0,195.0
+Setophaga cerulea_Cerulean Warbler,0.7377694,195.0,198.0
+Geothlypis philadelphia_Mourning Warbler,0.49809575,195.0,198.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1855845,195.0,198.0
+Setophaga cerulea_Cerulean Warbler,0.95680195,196.0,199.0
+Setophaga cerulea_Cerulean Warbler,0.8569703,197.0,200.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.20798807,197.0,200.0
+Setophaga cerulea_Cerulean Warbler,0.9395165,198.0,201.0
+Setophaga castanea_Bay-breasted Warbler,0.10982603,200.0,203.0
+Bombycilla cedrorum_Cedar Waxwing,0.11617512,203.0,206.0
+Setophaga castanea_Bay-breasted Warbler,0.103152215,206.0,209.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10887771,207.0,210.0
+Setophaga castanea_Bay-breasted Warbler,0.12851916,208.0,211.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34814852,210.0,213.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14585787,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11856043,212.0,215.0
+Setophaga cerulea_Cerulean Warbler,0.15098785,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14539655,213.0,216.0
+Setophaga fusca_Blackburnian Warbler,0.12922253,213.0,216.0
+Setophaga castanea_Bay-breasted Warbler,0.1192477,213.0,216.0
+Setophaga castanea_Bay-breasted Warbler,0.15078637,214.0,217.0
+Setophaga fusca_Blackburnian Warbler,0.12757297,214.0,217.0
+Setophaga cerulea_Cerulean Warbler,0.12628537,214.0,217.0
+Setophaga castanea_Bay-breasted Warbler,0.18543749,215.0,218.0
+Setophaga ruticilla_American Redstart,0.18336268,216.0,219.0
+Setophaga castanea_Bay-breasted Warbler,0.12854493,216.0,219.0
+Setophaga magnolia_Magnolia Warbler,0.12812461,216.0,219.0
+Setophaga fusca_Blackburnian Warbler,0.10967032,216.0,219.0
+Setophaga cerulea_Cerulean Warbler,0.83239526,217.0,220.0
+Geothlypis philadelphia_Mourning Warbler,0.54268616,217.0,220.0
+Setophaga cerulea_Cerulean Warbler,0.8722172,218.0,221.0
+Setophaga cerulea_Cerulean Warbler,0.7606392,219.0,222.0
+Setophaga coronata_Yellow-rumped Warbler,0.10983273,219.0,222.0
+Setophaga cerulea_Cerulean Warbler,0.88284737,220.0,223.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.7819351,221.0,224.0
+Setophaga cerulea_Cerulean Warbler,0.1258317,221.0,224.0
+Setophaga castanea_Bay-breasted Warbler,0.10163245,222.0,225.0
+Bombycilla cedrorum_Cedar Waxwing,0.8058138,225.0,228.0
+Bombycilla cedrorum_Cedar Waxwing,0.6419283,226.0,229.0
+Setophaga fusca_Blackburnian Warbler,0.128711,226.0,229.0
+Bombycilla cedrorum_Cedar Waxwing,0.8509907,227.0,230.0
+Bombycilla cedrorum_Cedar Waxwing,0.71599454,228.0,231.0
+Bombycilla cedrorum_Cedar Waxwing,0.67253155,229.0,232.0
+Bombycilla cedrorum_Cedar Waxwing,0.11465373,230.0,233.0
+Certhia americana_Brown Creeper,0.10239283,231.0,234.0
+Setophaga cerulea_Cerulean Warbler,0.7595267,232.0,235.0
+Setophaga cerulea_Cerulean Warbler,0.96256965,233.0,236.0
+Setophaga cerulea_Cerulean Warbler,0.80465674,234.0,237.0
+Setophaga coronata_Yellow-rumped Warbler,0.106913775,234.0,237.0
+Setophaga cerulea_Cerulean Warbler,0.97003305,235.0,238.0
+Setophaga cerulea_Cerulean Warbler,0.11136518,237.0,240.0
+Setophaga castanea_Bay-breasted Warbler,0.10200215,242.0,245.0
+Setophaga cerulea_Cerulean Warbler,0.104720466,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10020331,249.0,252.0
+Setophaga cerulea_Cerulean Warbler,0.98384595,250.0,253.0
+Setophaga cerulea_Cerulean Warbler,0.94214875,251.0,254.0
+Setophaga cerulea_Cerulean Warbler,0.9564319,252.0,255.0
+Setophaga cerulea_Cerulean Warbler,0.88830936,253.0,256.0
+Contopus virens_Eastern Wood-Pewee,0.14786758,254.0,257.0
+Vireo philadelphicus_Philadelphia Vireo,0.11669126,254.0,257.0
+Contopus virens_Eastern Wood-Pewee,0.10021622,255.0,258.0
+Buteo platypterus_Broad-winged Hawk,0.11557021,259.0,262.0
+Setophaga cerulea_Cerulean Warbler,0.18255521,260.0,263.0
+Vireo philadelphicus_Philadelphia Vireo,0.13998178,260.0,263.0
+Setophaga cerulea_Cerulean Warbler,0.8477023,261.0,264.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.17477947,261.0,264.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5708444,262.0,265.0
+Setophaga cerulea_Cerulean Warbler,0.29035863,262.0,265.0
+Setophaga cerulea_Cerulean Warbler,0.88328975,263.0,266.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13884023,263.0,266.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5445327,264.0,267.0
+Setophaga cerulea_Cerulean Warbler,0.3414912,264.0,267.0
+Setophaga coronata_Yellow-rumped Warbler,0.18689199,264.0,267.0
+Buteo platypterus_Broad-winged Hawk,0.11482639,265.0,268.0
+Bombycilla cedrorum_Cedar Waxwing,0.40149695,267.0,270.0
+Bombycilla cedrorum_Cedar Waxwing,0.11663636,268.0,271.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.116157465,269.0,272.0
+Bombycilla cedrorum_Cedar Waxwing,0.112827025,269.0,272.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.14343652,270.0,273.0
+Setophaga cerulea_Cerulean Warbler,0.77913624,273.0,276.0
+Setophaga cerulea_Cerulean Warbler,0.91665775,274.0,277.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.34060824,274.0,277.0
+Setophaga cerulea_Cerulean Warbler,0.79867953,275.0,278.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.37818468,275.0,278.0
+Setophaga coronata_Yellow-rumped Warbler,0.20192218,275.0,278.0
+Setophaga cerulea_Cerulean Warbler,0.8366068,276.0,279.0
+Buteo platypterus_Broad-winged Hawk,0.1788123,279.0,282.0
+Vireo philadelphicus_Philadelphia Vireo,0.16532357,279.0,282.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1015518,279.0,282.0
+Vireo philadelphicus_Philadelphia Vireo,0.14764473,280.0,283.0
+Setophaga cerulea_Cerulean Warbler,0.58674544,283.0,286.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.26155603,283.0,286.0
+Setophaga cerulea_Cerulean Warbler,0.736313,284.0,287.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.38440108,284.0,287.0
+Setophaga cerulea_Cerulean Warbler,0.58828276,285.0,288.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5585364,285.0,288.0
+Setophaga cerulea_Cerulean Warbler,0.8214643,286.0,289.0
+Setophaga coronata_Yellow-rumped Warbler,0.18727688,286.0,289.0
+Buteo platypterus_Broad-winged Hawk,0.10961386,287.0,290.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19997443,288.0,291.0
+Buteo platypterus_Broad-winged Hawk,0.19145319,288.0,291.0
+Setophaga fusca_Blackburnian Warbler,0.12372876,288.0,291.0
+Vireo philadelphicus_Philadelphia Vireo,0.108607985,289.0,292.0
+Bombycilla cedrorum_Cedar Waxwing,0.18896472,290.0,293.0
+Setophaga cerulea_Cerulean Warbler,0.21046762,291.0,294.0
+Vireo philadelphicus_Philadelphia Vireo,0.10173816,291.0,294.0
+Setophaga cerulea_Cerulean Warbler,0.9132577,292.0,295.0
+Setophaga cerulea_Cerulean Warbler,0.82006097,293.0,296.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14777407,293.0,296.0
+Setophaga cerulea_Cerulean Warbler,0.80308914,294.0,297.0
+Junco phaeonotus_Yellow-eyed Junco,0.14587158,295.0,298.0
+Vireo philadelphicus_Philadelphia Vireo,0.16935422,296.0,299.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11954494,297.0,300.0
+Bombycilla cedrorum_Cedar Waxwing,0.18782926,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1054511,298.0,301.0
+Bombycilla cedrorum_Cedar Waxwing,0.17367506,299.0,302.0
+Bombycilla cedrorum_Cedar Waxwing,0.19975322,300.0,303.0
+Vireo olivaceus_Red-eyed Vireo,0.10345486,306.0,309.0
+Setophaga cerulea_Cerulean Warbler,0.55426073,307.0,310.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1862202,307.0,310.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6801969,308.0,311.0
+Setophaga cerulea_Cerulean Warbler,0.20453495,308.0,311.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.89585,309.0,312.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.8873722,310.0,313.0
+Setophaga coronata_Yellow-rumped Warbler,0.21440755,310.0,313.0
+Bombycilla cedrorum_Cedar Waxwing,0.5314157,311.0,314.0
+Bombycilla cedrorum_Cedar Waxwing,0.5288387,312.0,315.0
+Bombycilla cedrorum_Cedar Waxwing,0.13071285,313.0,316.0
+Setophaga cerulea_Cerulean Warbler,0.9071121,314.0,317.0
+Setophaga cerulea_Cerulean Warbler,0.9491128,315.0,318.0
+Setophaga cerulea_Cerulean Warbler,0.92483103,316.0,319.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.16060363,316.0,319.0
+Setophaga cerulea_Cerulean Warbler,0.95559615,317.0,320.0
+Setophaga fusca_Blackburnian Warbler,0.12165945,319.0,322.0
+Bombycilla cedrorum_Cedar Waxwing,0.1656955,320.0,323.0
+Buteo platypterus_Broad-winged Hawk,0.17278633,321.0,324.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14294273,321.0,324.0
+Bombycilla cedrorum_Cedar Waxwing,0.13609816,322.0,325.0
+Buteo platypterus_Broad-winged Hawk,0.102972865,322.0,325.0
+Bombycilla cedrorum_Cedar Waxwing,0.59493387,324.0,327.0
+Setophaga cerulea_Cerulean Warbler,0.8889324,325.0,328.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.109480985,325.0,328.0
+Setophaga cerulea_Cerulean Warbler,0.8509056,326.0,329.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.7648796,326.0,329.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.7955209,327.0,330.0
+Setophaga cerulea_Cerulean Warbler,0.6494453,327.0,330.0
+Setophaga cerulea_Cerulean Warbler,0.20058759,328.0,331.0
+Bombycilla cedrorum_Cedar Waxwing,0.31579792,329.0,332.0
+Bombycilla cedrorum_Cedar Waxwing,0.5809132,330.0,333.0
+Bombycilla cedrorum_Cedar Waxwing,0.7971279,331.0,334.0
+Bombycilla cedrorum_Cedar Waxwing,0.7783537,332.0,335.0
+Setophaga cerulea_Cerulean Warbler,0.76004285,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15265603,333.0,336.0
+Geothlypis philadelphia_Mourning Warbler,0.1134299,333.0,336.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5655292,334.0,337.0
+Setophaga cerulea_Cerulean Warbler,0.49151438,334.0,337.0
+Setophaga cerulea_Cerulean Warbler,0.5194231,335.0,338.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.20361687,335.0,338.0
+Setophaga ruticilla_American Redstart,0.10876601,338.0,341.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12400021,339.0,342.0
+Pachyramphus major_Gray-collared Becard,0.11423346,342.0,345.0
+Setophaga cerulea_Cerulean Warbler,0.5531438,345.0,348.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12623638,345.0,348.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.86858267,346.0,349.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.84828514,347.0,350.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5797205,348.0,351.0
+Setophaga coronata_Yellow-rumped Warbler,0.20657651,348.0,351.0
+Setophaga cerulea_Cerulean Warbler,0.2011254,348.0,351.0
+Setophaga cerulea_Cerulean Warbler,0.14432296,351.0,354.0
+Setophaga cerulea_Cerulean Warbler,0.16280721,352.0,355.0
+Setophaga ruticilla_American Redstart,0.13256615,352.0,355.0
+Setophaga cerulea_Cerulean Warbler,0.7810772,353.0,356.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6719274,354.0,357.0
+Setophaga cerulea_Cerulean Warbler,0.19417472,354.0,357.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5543399,355.0,358.0
+Setophaga cerulea_Cerulean Warbler,0.10429357,355.0,358.0
+Setophaga cerulea_Cerulean Warbler,0.73058456,356.0,359.0
+Setophaga ruticilla_American Redstart,0.118880935,358.0,361.0
+Setophaga cerulea_Cerulean Warbler,0.160368,359.0,362.0
+Setophaga ruticilla_American Redstart,0.13850102,359.0,362.0
+Setophaga cerulea_Cerulean Warbler,0.9568252,361.0,364.0
+Setophaga cerulea_Cerulean Warbler,0.5687978,362.0,365.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.18344586,362.0,365.0
+Setophaga cerulea_Cerulean Warbler,0.5268207,363.0,366.0
+Setophaga cerulea_Cerulean Warbler,0.94082505,364.0,367.0
+Setophaga fusca_Blackburnian Warbler,0.11167505,366.0,369.0
+Setophaga castanea_Bay-breasted Warbler,0.16555499,367.0,370.0
+Setophaga fusca_Blackburnian Warbler,0.13463905,367.0,370.0
+Setophaga cerulea_Cerulean Warbler,0.267498,369.0,372.0
+Geothlypis philadelphia_Mourning Warbler,0.13130498,369.0,372.0
+Setophaga cerulea_Cerulean Warbler,0.80359143,370.0,373.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.11898346,370.0,373.0
+Setophaga cerulea_Cerulean Warbler,0.51111674,371.0,374.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1821819,371.0,374.0
+Setophaga cerulea_Cerulean Warbler,0.42267933,372.0,375.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.36343837,372.0,375.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.7178881,373.0,376.0
+Bombycilla cedrorum_Cedar Waxwing,0.34244075,375.0,378.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10643042,375.0,378.0
+Bombycilla cedrorum_Cedar Waxwing,0.40322247,376.0,379.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18437667,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11406577,378.0,381.0
+Setophaga cerulea_Cerulean Warbler,0.9631268,380.0,383.0
+Setophaga cerulea_Cerulean Warbler,0.910857,381.0,384.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.3171118,381.0,384.0
+Setophaga cerulea_Cerulean Warbler,0.8680077,382.0,385.0
+Setophaga cerulea_Cerulean Warbler,0.40812778,383.0,386.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.19252647,383.0,386.0
+Bombycilla cedrorum_Cedar Waxwing,0.3423835,384.0,387.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13173532,384.0,387.0
+Setophaga ruticilla_American Redstart,0.1333591,386.0,389.0
+Setophaga ruticilla_American Redstart,0.124158055,387.0,390.0
+Setophaga cerulea_Cerulean Warbler,0.8481161,388.0,391.0
+Geothlypis philadelphia_Mourning Warbler,0.22833765,388.0,391.0
+Setophaga cerulea_Cerulean Warbler,0.8179342,389.0,392.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.23325865,389.0,392.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6204703,390.0,393.0
+Setophaga cerulea_Cerulean Warbler,0.35384718,390.0,393.0
+Setophaga cerulea_Cerulean Warbler,0.9315127,391.0,394.0
+Bombycilla cedrorum_Cedar Waxwing,0.5950299,392.0,395.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16823627,392.0,395.0
+Bombycilla cedrorum_Cedar Waxwing,0.18663414,393.0,396.0
+Bombycilla cedrorum_Cedar Waxwing,0.35105953,395.0,398.0
+Bombycilla cedrorum_Cedar Waxwing,0.1844914,396.0,399.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101489894,396.0,399.0
+Bombycilla cedrorum_Cedar Waxwing,0.22569375,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12796976,397.0,400.0
+Bombycilla cedrorum_Cedar Waxwing,0.40149868,398.0,401.0
+Bombycilla cedrorum_Cedar Waxwing,0.7999699,399.0,402.0
+Setophaga cerulea_Cerulean Warbler,0.169159,400.0,403.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11599714,400.0,403.0
+Setophaga cerulea_Cerulean Warbler,0.97665787,401.0,404.0
+Setophaga cerulea_Cerulean Warbler,0.8464153,402.0,405.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12459008,402.0,405.0
+Setophaga cerulea_Cerulean Warbler,0.89243245,403.0,406.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14870201,403.0,406.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5792519,404.0,407.0
+Setophaga cerulea_Cerulean Warbler,0.2103718,404.0,407.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10340483,404.0,407.0
+Setophaga ruticilla_American Redstart,0.12520854,406.0,409.0
+Bombycilla cedrorum_Cedar Waxwing,0.80852574,407.0,410.0
+Bombycilla cedrorum_Cedar Waxwing,0.76999646,408.0,411.0
+Setophaga cerulea_Cerulean Warbler,0.925668,409.0,412.0
+Setophaga cerulea_Cerulean Warbler,0.8157904,410.0,413.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.15646453,410.0,413.0
+Setophaga cerulea_Cerulean Warbler,0.80256474,411.0,414.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1694914,411.0,414.0
+Setophaga cerulea_Cerulean Warbler,0.916808,412.0,415.0
+Setophaga magnolia_Magnolia Warbler,0.11550894,413.0,416.0
+Setophaga castanea_Bay-breasted Warbler,0.17765771,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14126115,414.0,417.0
+Setophaga fusca_Blackburnian Warbler,0.11911914,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11780186,415.0,418.0
+Bombycilla cedrorum_Cedar Waxwing,0.31061998,416.0,419.0
+Bombycilla cedrorum_Cedar Waxwing,0.17517996,417.0,420.0
+Bombycilla cedrorum_Cedar Waxwing,0.15355638,418.0,421.0
+Setophaga cerulea_Cerulean Warbler,0.1450648,419.0,422.0
+Setophaga ruticilla_American Redstart,0.14355771,419.0,422.0
+Setophaga cerulea_Cerulean Warbler,0.9606312,420.0,423.0
+Setophaga cerulea_Cerulean Warbler,0.9783306,421.0,424.0
+Setophaga cerulea_Cerulean Warbler,0.9741664,422.0,425.0
+Setophaga cerulea_Cerulean Warbler,0.9730662,423.0,426.0
+Bombycilla cedrorum_Cedar Waxwing,0.84132826,424.0,427.0
+Bombycilla cedrorum_Cedar Waxwing,0.37874827,425.0,428.0
+Bombycilla cedrorum_Cedar Waxwing,0.22097589,427.0,430.0
+Setophaga cerulea_Cerulean Warbler,0.8940026,431.0,434.0
+Setophaga cerulea_Cerulean Warbler,0.9153141,432.0,435.0
+Setophaga cerulea_Cerulean Warbler,0.893493,433.0,436.0
+Setophaga cerulea_Cerulean Warbler,0.9629634,434.0,437.0
+Bombycilla cedrorum_Cedar Waxwing,0.1363033,435.0,438.0
+Bombycilla cedrorum_Cedar Waxwing,0.1112927,436.0,439.0
+Bombycilla cedrorum_Cedar Waxwing,0.13232188,437.0,440.0
+Contopus virens_Eastern Wood-Pewee,0.12557825,438.0,441.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110950194,438.0,441.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103709884,439.0,442.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13509005,440.0,443.0
+Contopus virens_Eastern Wood-Pewee,0.12293361,440.0,443.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10296467,441.0,444.0
+Setophaga cerulea_Cerulean Warbler,0.95368713,442.0,445.0
+Setophaga cerulea_Cerulean Warbler,0.9596071,443.0,446.0
+Setophaga cerulea_Cerulean Warbler,0.9274744,444.0,447.0
+Setophaga cerulea_Cerulean Warbler,0.9224147,445.0,448.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10597552,447.0,450.0
+Setophaga cerulea_Cerulean Warbler,0.9077244,454.0,457.0
+Setophaga cerulea_Cerulean Warbler,0.825279,455.0,458.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.2536161,455.0,458.0
+Setophaga cerulea_Cerulean Warbler,0.74786747,456.0,459.0
+Setophaga cerulea_Cerulean Warbler,0.8600708,457.0,460.0
+Contopus virens_Eastern Wood-Pewee,0.17084451,458.0,461.0
+Contopus virens_Eastern Wood-Pewee,0.15510455,459.0,462.0
+Contopus virens_Eastern Wood-Pewee,0.2669875,460.0,463.0
+Setophaga cerulea_Cerulean Warbler,0.9693433,466.0,469.0
+Setophaga cerulea_Cerulean Warbler,0.98595506,467.0,470.0
+Setophaga cerulea_Cerulean Warbler,0.9722102,468.0,471.0
+Setophaga cerulea_Cerulean Warbler,0.92135584,469.0,472.0
+Setophaga citrina_Hooded Warbler,0.19435371,470.0,473.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1373042,470.0,473.0
+Buteo platypterus_Broad-winged Hawk,0.15103674,471.0,474.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10548756,471.0,474.0
+Contopus virens_Eastern Wood-Pewee,0.13852675,474.0,477.0
+Vermivora cyanoptera_Blue-winged Warbler,0.177916,475.0,478.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10940021,475.0,478.0
+Setophaga ruticilla_American Redstart,0.1495118,476.0,479.0
+Setophaga cerulea_Cerulean Warbler,0.10085434,476.0,479.0
+Setophaga cerulea_Cerulean Warbler,0.9747353,477.0,480.0
+Geothlypis philadelphia_Mourning Warbler,0.41572455,477.0,480.0
+Setophaga cerulea_Cerulean Warbler,0.99062574,478.0,481.0
+Setophaga cerulea_Cerulean Warbler,0.93043023,479.0,482.0
+Setophaga cerulea_Cerulean Warbler,0.9201415,480.0,483.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18720919,482.0,485.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16870217,483.0,486.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18930718,484.0,487.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17226088,488.0,491.0
+Setophaga cerulea_Cerulean Warbler,0.10308113,488.0,491.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101410866,489.0,492.0
+Setophaga cerulea_Cerulean Warbler,0.9606762,490.0,493.0
+Setophaga cerulea_Cerulean Warbler,0.8705675,491.0,494.0
+Setophaga cerulea_Cerulean Warbler,0.97582793,492.0,495.0
+Setophaga cerulea_Cerulean Warbler,0.91880137,493.0,496.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16226475,495.0,498.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12829131,496.0,499.0
+Setophaga fusca_Blackburnian Warbler,0.10434146,496.0,499.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13752575,497.0,500.0
+Setophaga ruticilla_American Redstart,0.13271563,499.0,502.0
+Setophaga ruticilla_American Redstart,0.30449665,500.0,503.0
+Setophaga cerulea_Cerulean Warbler,0.13117266,500.0,503.0
+Setophaga castanea_Bay-breasted Warbler,0.10949459,500.0,503.0
+Setophaga ruticilla_American Redstart,0.20958674,501.0,504.0
+Setophaga cerulea_Cerulean Warbler,0.15598579,501.0,504.0
+Setophaga cerulea_Cerulean Warbler,0.8577327,502.0,505.0
+Setophaga cerulea_Cerulean Warbler,0.9567748,503.0,506.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.39283434,504.0,507.0
+Setophaga cerulea_Cerulean Warbler,0.37272698,504.0,507.0
+Setophaga cerulea_Cerulean Warbler,0.93599916,505.0,508.0
+Setophaga citrina_Hooded Warbler,0.20389539,506.0,509.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10701054,506.0,509.0
+Catharus fuscescens_Veery,0.12964852,507.0,510.0
+Setophaga citrina_Hooded Warbler,0.10288848,507.0,510.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1015291,507.0,510.0
+Setophaga ruticilla_American Redstart,0.2525264,509.0,512.0
+Setophaga ruticilla_American Redstart,0.25117508,510.0,513.0
+Setophaga ruticilla_American Redstart,0.17674531,511.0,514.0
+Setophaga cerulea_Cerulean Warbler,0.5491458,512.0,515.0
+Setophaga cerulea_Cerulean Warbler,0.7918057,513.0,516.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.18738423,513.0,516.0
+Setophaga cerulea_Cerulean Warbler,0.51939225,514.0,517.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.264841,514.0,517.0
+Setophaga cerulea_Cerulean Warbler,0.9175572,515.0,518.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14843296,517.0,520.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13494317,517.0,520.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21158801,518.0,521.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10596184,518.0,521.0
+Setophaga ruticilla_American Redstart,0.11915977,519.0,522.0
+Setophaga ruticilla_American Redstart,0.14596479,520.0,523.0
+Setophaga castanea_Bay-breasted Warbler,0.13311253,520.0,523.0
+Setophaga cerulea_Cerulean Warbler,0.12118337,520.0,523.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10634669,520.0,523.0
+Setophaga cerulea_Cerulean Warbler,0.14645179,521.0,524.0
+Setophaga cerulea_Cerulean Warbler,0.47617266,523.0,526.0
+Setophaga cerulea_Cerulean Warbler,0.942461,524.0,527.0
+Setophaga cerulea_Cerulean Warbler,0.6853046,525.0,528.0
+Setophaga cerulea_Cerulean Warbler,0.80370045,526.0,529.0
+Setophaga cerulea_Cerulean Warbler,0.31865638,527.0,530.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1684777,527.0,530.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22347637,530.0,533.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24352047,531.0,534.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15086237,532.0,535.0
+Setophaga cerulea_Cerulean Warbler,0.67592937,533.0,536.0
+Setophaga cerulea_Cerulean Warbler,0.42875436,534.0,537.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.20040035,534.0,537.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.32055882,535.0,538.0
+Setophaga cerulea_Cerulean Warbler,0.22683331,535.0,538.0
+Setophaga cerulea_Cerulean Warbler,0.91979694,536.0,539.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1961756,538.0,541.0
+Setophaga americana_Northern Parula,0.105472,538.0,541.0
+Setophaga ruticilla_American Redstart,0.112605534,539.0,542.0
+Setophaga ruticilla_American Redstart,0.2414256,540.0,543.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15644613,542.0,545.0
+Setophaga cerulea_Cerulean Warbler,0.97946095,543.0,546.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.61995125,544.0,547.0
+Setophaga cerulea_Cerulean Warbler,0.3778022,544.0,547.0
+Setophaga cerulea_Cerulean Warbler,0.6682789,545.0,548.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13716176,545.0,548.0
+Setophaga cerulea_Cerulean Warbler,0.40731686,546.0,549.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.39523938,546.0,549.0
+Setophaga dominica_Yellow-throated Warbler,0.17790365,546.0,549.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25459504,547.0,550.0
+Setophaga citrina_Hooded Warbler,0.2231907,547.0,550.0
+Bombycilla cedrorum_Cedar Waxwing,0.19453421,547.0,550.0
+Bombycilla cedrorum_Cedar Waxwing,0.7830809,548.0,551.0
+Bombycilla cedrorum_Cedar Waxwing,0.5623843,549.0,552.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2099232,549.0,552.0
+Setophaga citrina_Hooded Warbler,0.1359078,549.0,552.0
+Bombycilla cedrorum_Cedar Waxwing,0.4752836,550.0,553.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11612008,550.0,553.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24696207,551.0,554.0
+Setophaga cerulea_Cerulean Warbler,0.1582947,551.0,554.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17295694,552.0,555.0
+Bombycilla cedrorum_Cedar Waxwing,0.16142896,552.0,555.0
+Bombycilla cedrorum_Cedar Waxwing,0.4966905,553.0,556.0
+Bombycilla cedrorum_Cedar Waxwing,0.6106456,554.0,557.0
+Bombycilla cedrorum_Cedar Waxwing,0.64858407,555.0,558.0
+Bombycilla cedrorum_Cedar Waxwing,0.598018,556.0,559.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1431406,556.0,559.0
+Setophaga fusca_Blackburnian Warbler,0.12549663,556.0,559.0
+Bombycilla cedrorum_Cedar Waxwing,0.37115335,557.0,560.0
+Bombycilla cedrorum_Cedar Waxwing,0.25416437,558.0,561.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.7698337,559.0,562.0
+Setophaga cerulea_Cerulean Warbler,0.31482947,559.0,562.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6739102,560.0,563.0
+Setophaga cerulea_Cerulean Warbler,0.3479167,560.0,563.0
+Setophaga cerulea_Cerulean Warbler,0.6705884,561.0,564.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6300959,561.0,564.0
+Setophaga cerulea_Cerulean Warbler,0.51461333,562.0,565.0
+Setophaga americana_Northern Parula,0.21124768,562.0,565.0
+Setophaga magnolia_Magnolia Warbler,0.15886904,562.0,565.0
+Setophaga dominica_Yellow-throated Warbler,0.14760011,562.0,565.0
+Bombycilla cedrorum_Cedar Waxwing,0.4605579,563.0,566.0
+Bombycilla cedrorum_Cedar Waxwing,0.3135067,566.0,569.0
+Bombycilla cedrorum_Cedar Waxwing,0.43659973,567.0,570.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.103698716,567.0,570.0
+Setophaga cerulea_Cerulean Warbler,0.5591014,568.0,571.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.12934868,568.0,571.0
+Geothlypis philadelphia_Mourning Warbler,0.10006271,568.0,571.0
+Setophaga cerulea_Cerulean Warbler,0.77370816,569.0,572.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.22109006,569.0,572.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.47604477,570.0,573.0
+Setophaga cerulea_Cerulean Warbler,0.27496982,570.0,573.0
+Setophaga cerulea_Cerulean Warbler,0.5906306,571.0,574.0
+Setophaga fusca_Blackburnian Warbler,0.118060336,572.0,575.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1461605,573.0,576.0
+Setophaga cerulea_Cerulean Warbler,0.93552464,576.0,579.0
+Setophaga cerulea_Cerulean Warbler,0.9383004,577.0,580.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.27971068,577.0,580.0
+Setophaga cerulea_Cerulean Warbler,0.8058255,578.0,581.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.420086,578.0,581.0
+Setophaga cerulea_Cerulean Warbler,0.92946804,579.0,582.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5102604,579.0,582.0
+Bombycilla cedrorum_Cedar Waxwing,0.55392647,580.0,583.0
+Bombycilla cedrorum_Cedar Waxwing,0.84495604,581.0,584.0
+Bombycilla cedrorum_Cedar Waxwing,0.91245437,582.0,585.0
+Bombycilla cedrorum_Cedar Waxwing,0.46685046,583.0,586.0
+Setophaga cerulea_Cerulean Warbler,0.5763001,584.0,587.0
+Setophaga cerulea_Cerulean Warbler,0.8861282,585.0,588.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1760732,585.0,588.0
+Setophaga cerulea_Cerulean Warbler,0.4824707,586.0,589.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.2267891,586.0,589.0
+Setophaga cerulea_Cerulean Warbler,0.86616313,587.0,590.0
+Bombycilla cedrorum_Cedar Waxwing,0.7278731,588.0,591.0
+Vireo flavifrons_Yellow-throated Vireo,0.4434842,588.0,591.0
+Vireo flavifrons_Yellow-throated Vireo,0.7881559,589.0,592.0
+Bombycilla cedrorum_Cedar Waxwing,0.5789738,589.0,592.0
+Vireo flavifrons_Yellow-throated Vireo,0.4728163,590.0,593.0
+Bombycilla cedrorum_Cedar Waxwing,0.39509514,590.0,593.0
+Vireo flavifrons_Yellow-throated Vireo,0.93806785,591.0,594.0
+Setophaga cerulea_Cerulean Warbler,0.9812742,592.0,595.0
+Setophaga cerulea_Cerulean Warbler,0.9088762,593.0,596.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.24024457,593.0,596.0
+Setophaga cerulea_Cerulean Warbler,0.8262159,594.0,597.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.21145044,594.0,597.0
+Setophaga cerulea_Cerulean Warbler,0.92340237,595.0,598.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10245403,595.0,598.0
+Vireo flavifrons_Yellow-throated Vireo,0.428558,596.0,599.0
+Vireo flavifrons_Yellow-throated Vireo,0.80830383,597.0,600.0
+Vireo flavifrons_Yellow-throated Vireo,0.9361151,598.0,601.0
+Vireo flavifrons_Yellow-throated Vireo,0.25523648,599.0,602.0
+Vireo philadelphicus_Philadelphia Vireo,0.2514083,599.0,602.0
+Vireo flavifrons_Yellow-throated Vireo,0.86920536,600.0,603.0
+Vireo flavifrons_Yellow-throated Vireo,0.8235256,601.0,604.0
+Vireo flavifrons_Yellow-throated Vireo,0.87749267,602.0,605.0
+Setophaga cerulea_Cerulean Warbler,0.905326,603.0,606.0
+Setophaga cerulea_Cerulean Warbler,0.70873755,604.0,607.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.26600787,604.0,607.0
+Setophaga cerulea_Cerulean Warbler,0.80723006,605.0,608.0
+Setophaga cerulea_Cerulean Warbler,0.9087138,606.0,609.0
+Setophaga coronata_Yellow-rumped Warbler,0.15960683,606.0,609.0
+Vireo flavifrons_Yellow-throated Vireo,0.114055865,607.0,610.0
+Vireo flavifrons_Yellow-throated Vireo,0.15873231,608.0,611.0
+Setophaga cerulea_Cerulean Warbler,0.13665219,608.0,611.0
+Vireo flavifrons_Yellow-throated Vireo,0.2522228,609.0,612.0
+Vireo solitarius_Blue-headed Vireo,0.15070844,610.0,613.0
+Setophaga cerulea_Cerulean Warbler,0.1436716,610.0,613.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13288471,610.0,613.0
+Setophaga cerulea_Cerulean Warbler,0.94443953,611.0,614.0
+Setophaga cerulea_Cerulean Warbler,0.819336,612.0,615.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10343723,612.0,615.0
+Setophaga cerulea_Cerulean Warbler,0.8048327,613.0,616.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.14002128,613.0,616.0
+Setophaga cerulea_Cerulean Warbler,0.39389244,614.0,617.0
+Setophaga dominica_Yellow-throated Warbler,0.33574006,614.0,617.0
+Vireo flavifrons_Yellow-throated Vireo,0.85513383,615.0,618.0
+Setophaga cerulea_Cerulean Warbler,0.116643,615.0,618.0
+Vireo flavifrons_Yellow-throated Vireo,0.41430262,616.0,619.0
+Vireo olivaceus_Red-eyed Vireo,0.1139104,616.0,619.0
+Bombycilla cedrorum_Cedar Waxwing,0.16218652,617.0,620.0
+Vireo philadelphicus_Philadelphia Vireo,0.15888059,618.0,621.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15180145,618.0,621.0
+Setophaga cerulea_Cerulean Warbler,0.8842634,620.0,623.0
+Geothlypis philadelphia_Mourning Warbler,0.12444768,620.0,623.0
+Setophaga cerulea_Cerulean Warbler,0.962204,621.0,624.0
+Setophaga cerulea_Cerulean Warbler,0.91666895,622.0,625.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10242501,622.0,625.0
+Setophaga cerulea_Cerulean Warbler,0.92403126,623.0,626.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18840773,624.0,627.0
+Geothlypis philadelphia_Mourning Warbler,0.18099706,624.0,627.0
+Setophaga cerulea_Cerulean Warbler,0.11040035,624.0,627.0
+Vireo olivaceus_Red-eyed Vireo,0.4026066,625.0,628.0
+Vireo philadelphicus_Philadelphia Vireo,0.25159115,625.0,628.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15883441,626.0,629.0
+Vireo olivaceus_Red-eyed Vireo,0.12015276,626.0,629.0
+Vireo olivaceus_Red-eyed Vireo,0.23823887,627.0,630.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18624619,627.0,630.0
+Bombycilla cedrorum_Cedar Waxwing,0.29698458,628.0,631.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1030145,628.0,631.0
+Bombycilla cedrorum_Cedar Waxwing,0.5751513,629.0,632.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10320903,629.0,632.0
+Bombycilla cedrorum_Cedar Waxwing,0.5319535,630.0,633.0
+Vireo olivaceus_Red-eyed Vireo,0.15927075,631.0,634.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17062609,632.0,635.0
+Setophaga americana_Northern Parula,0.15718743,632.0,635.0
+Contopus virens_Eastern Wood-Pewee,0.1435055,632.0,635.0
+Setophaga fusca_Blackburnian Warbler,0.13961269,632.0,635.0
+Setophaga cerulea_Cerulean Warbler,0.106194995,632.0,635.0
+Vireo olivaceus_Red-eyed Vireo,0.271497,633.0,636.0
+Contopus virens_Eastern Wood-Pewee,0.12576678,633.0,636.0
+Vireo olivaceus_Red-eyed Vireo,0.18795636,634.0,637.0
+Contopus virens_Eastern Wood-Pewee,0.1053037,634.0,637.0
+Vireo olivaceus_Red-eyed Vireo,0.3587327,635.0,638.0
+Setophaga cerulea_Cerulean Warbler,0.9281573,636.0,639.0
+Setophaga cerulea_Cerulean Warbler,0.6661139,637.0,640.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.35746583,637.0,640.0
+Setophaga cerulea_Cerulean Warbler,0.7895663,638.0,641.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.11313528,638.0,641.0
+Setophaga cerulea_Cerulean Warbler,0.93589455,639.0,642.0
+Vireo olivaceus_Red-eyed Vireo,0.4439441,640.0,643.0
+Vireo olivaceus_Red-eyed Vireo,0.4329895,641.0,644.0
+Empidonax virescens_Acadian Flycatcher,0.15476482,641.0,644.0
+Vireo olivaceus_Red-eyed Vireo,0.6794148,642.0,645.0
+Vireo olivaceus_Red-eyed Vireo,0.591315,643.0,646.0
+Vireo olivaceus_Red-eyed Vireo,0.4580775,644.0,647.0
+Vireo olivaceus_Red-eyed Vireo,0.6332428,645.0,648.0
+Setophaga cerulea_Cerulean Warbler,0.8110593,646.0,649.0
+Setophaga cerulea_Cerulean Warbler,0.8682743,647.0,650.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.6178252,647.0,650.0
+Setophaga cerulea_Cerulean Warbler,0.62915397,648.0,651.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.5718509,648.0,651.0
+Setophaga cerulea_Cerulean Warbler,0.9535308,649.0,652.0
+Vireo olivaceus_Red-eyed Vireo,0.3512092,650.0,653.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15604106,650.0,653.0
+Vireo olivaceus_Red-eyed Vireo,0.18522255,651.0,654.0
+Vireo philadelphicus_Philadelphia Vireo,0.15391512,651.0,654.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11492268,651.0,654.0
+Vireo olivaceus_Red-eyed Vireo,0.14546546,652.0,655.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10651139,652.0,655.0
+Contopus virens_Eastern Wood-Pewee,0.41040826,653.0,656.0
+Setophaga cerulea_Cerulean Warbler,0.912861,654.0,657.0
+Geothlypis philadelphia_Mourning Warbler,0.13407281,654.0,657.0
+Setophaga cerulea_Cerulean Warbler,0.9547664,655.0,658.0
+Setophaga cerulea_Cerulean Warbler,0.93631333,656.0,659.0
+Setophaga cerulea_Cerulean Warbler,0.9526758,657.0,660.0
+Pachysylvia decurtata_Lesser Greenlet,0.11273791,658.0,661.0
+Vireo olivaceus_Red-eyed Vireo,0.60447425,659.0,662.0
+Vireo philadelphicus_Philadelphia Vireo,0.14720616,659.0,662.0
+Vireo olivaceus_Red-eyed Vireo,0.7159483,660.0,663.0
+Vireo philadelphicus_Philadelphia Vireo,0.15494575,660.0,663.0
+Vireo olivaceus_Red-eyed Vireo,0.7118685,661.0,664.0
+Vireo philadelphicus_Philadelphia Vireo,0.27398393,661.0,664.0
+Vireo olivaceus_Red-eyed Vireo,0.33427787,662.0,665.0
+Setophaga cerulea_Cerulean Warbler,0.36527517,663.0,666.0
+Setophaga magnolia_Magnolia Warbler,0.14122787,663.0,666.0
+Geothlypis philadelphia_Mourning Warbler,0.13268113,663.0,666.0
+Setophaga cerulea_Cerulean Warbler,0.9133482,664.0,667.0
+Setophaga cerulea_Cerulean Warbler,0.93147516,665.0,668.0
+Setophaga cerulea_Cerulean Warbler,0.62228453,666.0,668.28
+Geothlypis tolmiei_MacGillivray's Warbler,0.113013536,666.0,668.28

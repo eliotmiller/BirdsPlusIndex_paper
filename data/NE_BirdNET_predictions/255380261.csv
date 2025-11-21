@@ -1,0 +1,127 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.9484004,0.0,3.0
+Megascops asio_Eastern Screech-Owl,0.37522358,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.12238039,1.0,4.0
+Megascops asio_Eastern Screech-Owl,0.14250486,2.0,5.0
+Strix varia_Barred Owl,0.13082482,2.0,5.0
+Strix varia_Barred Owl,0.9485158,3.0,6.0
+Strix varia_Barred Owl,0.9580744,4.0,7.0
+Strix varia_Barred Owl,0.543498,5.0,8.0
+Strix varia_Barred Owl,0.9483354,6.0,9.0
+Strix varia_Barred Owl,0.8740757,7.0,10.0
+Megascops asio_Eastern Screech-Owl,0.10163705,7.0,10.0
+Strix varia_Barred Owl,0.89912367,8.0,11.0
+Strix varia_Barred Owl,0.94165,9.0,12.0
+Megascops asio_Eastern Screech-Owl,0.21632981,9.0,12.0
+Strix varia_Barred Owl,0.89075845,10.0,13.0
+Cyanocitta cristata_Blue Jay,0.4219716,11.0,14.0
+Quiscalus quiscula_Common Grackle,0.1885802,11.0,14.0
+Engine_Engine,0.13983084,11.0,14.0
+Cyanocitta cristata_Blue Jay,0.23782611,12.0,15.0
+Engine_Engine,0.16889143,12.0,15.0
+Quiscalus quiscula_Common Grackle,0.109908976,12.0,15.0
+Megascops asio_Eastern Screech-Owl,0.10226288,12.0,15.0
+Cyanocitta cristata_Blue Jay,0.32408172,13.0,16.0
+Engine_Engine,0.13870211,13.0,16.0
+Strix varia_Barred Owl,0.5994897,14.0,17.0
+Strix varia_Barred Owl,0.9850559,15.0,18.0
+Strix varia_Barred Owl,0.991204,16.0,19.0
+Strix varia_Barred Owl,0.9820216,17.0,20.0
+Cyanocitta cristata_Blue Jay,0.13250968,18.0,21.0
+Strix varia_Barred Owl,0.84706247,20.0,23.0
+Strix varia_Barred Owl,0.94533587,21.0,24.0
+Strix varia_Barred Owl,0.95577526,22.0,25.0
+Megascops asio_Eastern Screech-Owl,0.16788337,22.0,25.0
+Megascops asio_Eastern Screech-Owl,0.21090436,24.0,27.0
+Cyanocitta cristata_Blue Jay,0.11364737,24.0,27.0
+Strix varia_Barred Owl,0.7458408,25.0,28.0
+Strix varia_Barred Owl,0.999049,26.0,29.0
+Strix occidentalis_Spotted Owl,0.19675519,26.0,29.0
+Strix varia_Barred Owl,0.99855536,27.0,30.0
+Strix occidentalis_Spotted Owl,0.2054121,27.0,30.0
+Strix varia_Barred Owl,0.9976083,28.0,31.0
+Megascops asio_Eastern Screech-Owl,0.2335458,28.0,31.0
+Strix varia_Barred Owl,0.9700557,29.0,32.0
+Megascops asio_Eastern Screech-Owl,0.14345337,29.0,32.0
+Setophaga americana_Northern Parula,0.10092283,29.0,32.0
+Strix varia_Barred Owl,0.5746562,30.0,33.0
+Megascops asio_Eastern Screech-Owl,0.11962895,30.0,33.0
+Megascops asio_Eastern Screech-Owl,0.3019426,31.0,34.0
+Megascops asio_Eastern Screech-Owl,0.26556936,32.0,35.0
+Engine_Engine,0.11149519,32.0,35.0
+Megascops asio_Eastern Screech-Owl,0.4953695,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.16021879,33.0,36.0
+Megascops asio_Eastern Screech-Owl,0.39888301,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.1534952,34.0,37.0
+Megascops asio_Eastern Screech-Owl,0.46294716,35.0,38.0
+Strix varia_Barred Owl,0.87257665,36.0,39.0
+Megascops asio_Eastern Screech-Owl,0.3246798,36.0,39.0
+Strix varia_Barred Owl,0.99903893,37.0,40.0
+Strix occidentalis_Spotted Owl,0.69617176,37.0,40.0
+Megascops asio_Eastern Screech-Owl,0.10437636,37.0,40.0
+Strix varia_Barred Owl,0.9996605,38.0,41.0
+Strix occidentalis_Spotted Owl,0.7950266,38.0,41.0
+Megascops asio_Eastern Screech-Owl,0.18689196,38.0,41.0
+Strix varia_Barred Owl,0.9942882,39.0,42.0
+Strix occidentalis_Spotted Owl,0.26811197,39.0,42.0
+Megascops asio_Eastern Screech-Owl,0.14006439,39.0,42.0
+Megascops asio_Eastern Screech-Owl,0.1913818,40.0,43.0
+Engine_Engine,0.1411648,40.0,43.0
+Engine_Engine,0.16434751,41.0,44.0
+Engine_Engine,0.14252095,42.0,45.0
+Strix varia_Barred Owl,0.5360204,43.0,46.0
+Strix varia_Barred Owl,0.9946721,44.0,47.0
+Strix occidentalis_Spotted Owl,0.12364175,44.0,47.0
+Strix varia_Barred Owl,0.99598545,45.0,48.0
+Strix occidentalis_Spotted Owl,0.3298816,45.0,48.0
+Strix varia_Barred Owl,0.9811716,46.0,49.0
+Strix occidentalis_Spotted Owl,0.14898284,46.0,49.0
+Megascops asio_Eastern Screech-Owl,0.13040206,46.0,49.0
+Rhynchocyclus brevirostris_Eye-ringed Flatbill,0.12353348,46.0,49.0
+Megascops asio_Eastern Screech-Owl,0.32255986,47.0,50.0
+Megascops asio_Eastern Screech-Owl,0.19353105,48.0,51.0
+Megascops asio_Eastern Screech-Owl,0.1999355,49.0,52.0
+Megascops asio_Eastern Screech-Owl,0.14035715,50.0,53.0
+Strix varia_Barred Owl,0.10255574,50.0,53.0
+Strix varia_Barred Owl,0.9938548,51.0,54.0
+Strix occidentalis_Spotted Owl,0.44205612,51.0,54.0
+Strix varia_Barred Owl,0.9965873,52.0,55.0
+Strix occidentalis_Spotted Owl,0.35367417,52.0,55.0
+Strix varia_Barred Owl,0.9743756,53.0,56.0
+Strix occidentalis_Spotted Owl,0.112850554,53.0,56.0
+Megascops asio_Eastern Screech-Owl,0.105037495,54.0,57.0
+Megascops asio_Eastern Screech-Owl,0.20850222,55.0,58.0
+Engine_Engine,0.1778986,55.0,58.0
+Megascops asio_Eastern Screech-Owl,0.22993317,56.0,59.0
+Engine_Engine,0.13827927,56.0,59.0
+Megascops asio_Eastern Screech-Owl,0.16182935,57.0,60.0
+Engine_Engine,0.14137885,57.0,60.0
+Megascops asio_Eastern Screech-Owl,0.238143,64.0,67.0
+Megascops asio_Eastern Screech-Owl,0.289306,65.0,68.0
+Strix varia_Barred Owl,0.7042897,66.0,69.0
+Megascops asio_Eastern Screech-Owl,0.22181116,66.0,69.0
+Strix varia_Barred Owl,0.9553737,67.0,70.0
+Megascops asio_Eastern Screech-Owl,0.26063627,67.0,70.0
+Strix occidentalis_Spotted Owl,0.10263,67.0,70.0
+Strix varia_Barred Owl,0.36501586,68.0,71.0
+Megascops asio_Eastern Screech-Owl,0.27568462,68.0,71.0
+Strix varia_Barred Owl,0.77466667,69.0,72.0
+Megascops asio_Eastern Screech-Owl,0.42979157,69.0,72.0
+Strix varia_Barred Owl,0.9464307,70.0,73.0
+Megascops asio_Eastern Screech-Owl,0.55838484,70.0,73.0
+Strix varia_Barred Owl,0.7597076,71.0,74.0
+Megascops asio_Eastern Screech-Owl,0.45215902,71.0,74.0
+Megascops asio_Eastern Screech-Owl,0.4275818,72.0,75.0
+Strix varia_Barred Owl,0.98890895,73.0,76.0
+Megascops asio_Eastern Screech-Owl,0.3470577,73.0,76.0
+Strix varia_Barred Owl,0.9574004,74.0,77.0
+Megascops asio_Eastern Screech-Owl,0.35696846,74.0,77.0
+Strix varia_Barred Owl,0.7646847,75.0,78.0
+Megascops asio_Eastern Screech-Owl,0.23297298,75.0,78.0
+Strix varia_Barred Owl,0.9362828,76.0,79.0
+Megascops asio_Eastern Screech-Owl,0.11765672,76.0,79.0
+Strix varia_Barred Owl,0.7861121,77.0,80.0
+Megascops asio_Eastern Screech-Owl,0.1417231,77.0,80.0
+Strix varia_Barred Owl,0.77807987,78.0,81.0
+Megascops asio_Eastern Screech-Owl,0.5617329,78.0,81.0
+Megascops asio_Eastern Screech-Owl,0.5799206,79.0,81.69600907029478

@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.12445842,2.0,5.0
+Empidonax alnorum_Alder Flycatcher,0.34764314,3.0,6.0
+Empidonax alnorum_Alder Flycatcher,0.36912635,4.0,7.0
+Empidonax alnorum_Alder Flycatcher,0.68116444,6.0,9.0
+Empidonax alnorum_Alder Flycatcher,0.5957672,7.0,10.0
+Empidonax alnorum_Alder Flycatcher,0.7948389,8.0,11.0
+Hirundo tahitica_Pacific Swallow,0.14056528,11.0,14.0
+Hirundo rustica_Barn Swallow,0.11945024,13.0,16.0
+Empidonax alnorum_Alder Flycatcher,0.96796644,16.0,19.0
+Empidonax alnorum_Alder Flycatcher,0.93492895,17.0,20.0
+Bombycilla cedrorum_Cedar Waxwing,0.103500284,17.0,20.0
+Empidonax alnorum_Alder Flycatcher,0.94857776,18.0,21.0
+Empidonax alnorum_Alder Flycatcher,0.29823738,19.0,22.0
+Empidonax alnorum_Alder Flycatcher,0.46448374,20.0,23.0
+Empidonax alnorum_Alder Flycatcher,0.24607274,21.0,24.0
+Empidonax alnorum_Alder Flycatcher,0.8075946,23.0,26.0
+Empidonax alnorum_Alder Flycatcher,0.36772355,24.0,27.0
+Tyrannus tyrannus_Eastern Kingbird,0.1278997,24.0,27.0
+Empidonax alnorum_Alder Flycatcher,0.8652242,25.0,28.0
+Tyrannus tyrannus_Eastern Kingbird,0.19527088,25.0,28.0
+Hirundo rustica_Barn Swallow,0.20846479,26.0,29.0
+Hirundo tahitica_Pacific Swallow,0.15755585,26.0,29.0
+Lanius schach_Long-tailed Shrike,0.19815668,28.0,31.0
+Empidonax alnorum_Alder Flycatcher,0.39298186,29.0,32.0
+Empidonax alnorum_Alder Flycatcher,0.9077015,30.0,33.0
+Empidonax alnorum_Alder Flycatcher,0.21180187,31.0,34.0
+Empidonax alnorum_Alder Flycatcher,0.4781216,32.0,35.0
+Empidonax alnorum_Alder Flycatcher,0.77235115,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.54235053,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.3080771,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.16984434,37.0,40.0
+Empidonax alnorum_Alder Flycatcher,0.9339393,38.0,41.0
+Empidonax alnorum_Alder Flycatcher,0.9940177,39.0,42.0
+Empidonax alnorum_Alder Flycatcher,0.28431156,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.11299684,49.0,52.0
+Lanius senator_Woodchat Shrike,0.5217799,58.0,61.0
+Lanius schach_Long-tailed Shrike,0.16148646,58.0,61.0
+Lanius collurio_Red-backed Shrike,0.11174617,58.0,61.0
+Lanius senator_Woodchat Shrike,0.40105563,59.0,62.0
+Leucosticte atrata_Black Rosy-Finch,0.18999752,59.0,62.0
+Lanius schach_Long-tailed Shrike,0.13912737,59.0,62.0
+Empidonax alnorum_Alder Flycatcher,0.25860712,60.0,63.0
+Empidonax alnorum_Alder Flycatcher,0.68533945,61.0,64.0
+Empidonax alnorum_Alder Flycatcher,0.99640393,62.0,65.0
+Dolichonyx oryzivorus_Bobolink,0.28694457,63.0,66.0
+Empidonax alnorum_Alder Flycatcher,0.38273355,65.0,68.0
+Empidonax alnorum_Alder Flycatcher,0.9948454,68.0,71.0
+Empidonax alnorum_Alder Flycatcher,0.5352728,69.0,72.0
+Empidonax alnorum_Alder Flycatcher,0.5977843,70.0,73.0
+Dolichonyx oryzivorus_Bobolink,0.2634602,71.0,74.0
+Empidonax alnorum_Alder Flycatcher,0.33893237,72.0,75.0
+Empidonax alnorum_Alder Flycatcher,0.9348834,73.0,76.0
+Empidonax alnorum_Alder Flycatcher,0.99715,74.0,77.0
+Empidonax alnorum_Alder Flycatcher,0.9950637,75.0,78.0
+Empidonax alnorum_Alder Flycatcher,0.99258524,76.0,79.0
+Zenaida macroura_Mourning Dove,0.101374134,77.0,80.0
+Lithobates clamitans_Green Frog,0.6281987,78.0,81.0
+Empidonax alnorum_Alder Flycatcher,0.94387203,80.0,83.0
+Empidonax alnorum_Alder Flycatcher,0.9886707,81.0,84.0
+Empidonax alnorum_Alder Flycatcher,0.92993975,82.0,85.0
+Dolichonyx oryzivorus_Bobolink,0.24922238,87.0,90.0
+Spiza americana_Dickcissel,0.35881382,88.0,91.0
+Tachycineta bicolor_Tree Swallow,0.103968196,88.0,91.0
+Curruca iberiae_Western Subalpine Warbler,0.17135365,91.0,94.0
+Spinus pinus_Pine Siskin,0.20324813,93.0,96.0
+Spinus pinus_Pine Siskin,0.75266176,94.0,97.0
+Spatula discors_Blue-winged Teal,0.34115514,95.0,98.0
+Tachycineta bicolor_Tree Swallow,0.10896544,95.0,98.0
+Empidonax alnorum_Alder Flycatcher,0.5546795,96.0,99.0
+Spatula discors_Blue-winged Teal,0.1308665,96.0,99.0
+Empidonax alnorum_Alder Flycatcher,0.6064061,97.0,99.24

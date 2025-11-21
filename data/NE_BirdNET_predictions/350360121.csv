@@ -1,0 +1,60 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.9922495,0.0,3.0
+Spiza americana_Dickcissel,0.9909532,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13293634,2.0,5.0
+Charadrius morinellus_Eurasian Dotterel,0.22146823,4.0,7.0
+Hieraaetus pennatus_Booted Eagle,0.15572564,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.37731734,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.19278455,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.17450514,7.0,10.0
+Carpodacus erythrinus_Common Rosefinch,0.1083684,10.0,13.0
+Spiza americana_Dickcissel,0.9734875,11.0,14.0
+Spiza americana_Dickcissel,0.9829411,12.0,15.0
+Spiza americana_Dickcissel,0.9827959,13.0,16.0
+Spiza americana_Dickcissel,0.3164104,14.0,17.0
+Ammospiza maritima_Seaside Sparrow,0.13146588,14.0,17.0
+Chordeiles minor_Common Nighthawk,0.12114378,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.6040983,15.0,18.0
+Centronyx henslowii_Henslow's Sparrow,0.121872686,15.0,18.0
+Spizella pallida_Clay-colored Sparrow,0.10312523,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.22151205,16.0,19.0
+Lanius collurio_Red-backed Shrike,0.13052773,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.8188575,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.69971544,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.4146471,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.25019276,25.0,28.0
+Centronyx henslowii_Henslow's Sparrow,0.12901305,25.0,28.0
+Spiza americana_Dickcissel,0.983615,27.0,30.0
+Spiza americana_Dickcissel,0.99432486,28.0,31.0
+Spiza americana_Dickcissel,0.98312205,29.0,32.0
+Spiza americana_Dickcissel,0.98386973,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.25485775,30.0,33.0
+Sturnella magna_Eastern Meadowlark,0.3357763,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.16534762,31.0,34.0
+Centronyx henslowii_Henslow's Sparrow,0.11531783,31.0,34.0
+Sturnella magna_Eastern Meadowlark,0.60129994,32.0,35.0
+Centronyx henslowii_Henslow's Sparrow,0.3618174,32.0,35.0
+Charadrius morinellus_Eurasian Dotterel,0.20467639,33.0,36.0
+Charadrius morinellus_Eurasian Dotterel,0.5496775,35.0,38.0
+Spiza americana_Dickcissel,0.675361,36.0,39.0
+Passerina versicolor_Varied Bunting,0.10199558,36.0,39.0
+Spiza americana_Dickcissel,0.9176849,37.0,40.0
+Spiza americana_Dickcissel,0.97966844,38.0,41.0
+Spiza americana_Dickcissel,0.95194405,39.0,42.0
+Spinus spinus_Eurasian Siskin,0.21457577,41.0,44.0
+Spiza americana_Dickcissel,0.97704756,44.0,47.0
+Spiza americana_Dickcissel,0.9814749,45.0,48.0
+Spiza americana_Dickcissel,0.9884093,46.0,49.0
+Spiza americana_Dickcissel,0.99341714,47.0,50.0
+Anthus campestris_Tawny Pipit,0.1354691,50.0,53.0
+Sturnella magna_Eastern Meadowlark,0.10520343,50.0,53.0
+Spiza americana_Dickcissel,0.99079436,51.0,54.0
+Spiza americana_Dickcissel,0.9889193,52.0,55.0
+Spiza americana_Dickcissel,0.9832237,53.0,56.0
+Spiza americana_Dickcissel,0.85577476,54.0,57.0
+Spiza americana_Dickcissel,0.9521836,56.0,59.0
+Spiza americana_Dickcissel,0.9613883,57.0,60.0
+Spiza americana_Dickcissel,0.9701828,58.0,61.0
+Spiza americana_Dickcissel,0.990906,59.0,62.0
+Spiza americana_Dickcissel,0.91629285,61.0,64.0
+Spiza americana_Dickcissel,0.96706456,62.0,64.92

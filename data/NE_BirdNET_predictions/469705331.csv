@@ -1,0 +1,230 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.99765515,0.0,3.0
+Spiza americana_Dickcissel,0.99377584,1.0,4.0
+Engine_Engine,0.71949536,2.0,5.0
+Engine_Engine,0.7914565,3.0,6.0
+Engine_Engine,0.5551494,4.0,7.0
+Engine_Engine,0.44932228,5.0,8.0
+Spiza americana_Dickcissel,0.98806274,6.0,9.0
+Emberiza calandra_Corn Bunting,0.46107447,6.0,9.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.2741342,6.0,9.0
+Eremophila alpestris_Horned Lark,0.23841222,6.0,9.0
+Spiza americana_Dickcissel,0.99757797,7.0,10.0
+Spiza americana_Dickcissel,0.999059,8.0,11.0
+Spiza americana_Dickcissel,0.99546766,9.0,12.0
+Engine_Engine,0.48636886,10.0,13.0
+Engine_Engine,0.72001666,11.0,14.0
+Spiza americana_Dickcissel,0.99981326,12.0,15.0
+Spiza americana_Dickcissel,0.9995079,13.0,16.0
+Spiza americana_Dickcissel,0.9974644,14.0,17.0
+Spiza americana_Dickcissel,0.96042967,15.0,18.0
+Engine_Engine,0.8451872,16.0,19.0
+Engine_Engine,0.6921692,17.0,20.0
+Engine_Engine,0.60828966,18.0,21.0
+Spiza americana_Dickcissel,0.97776115,19.0,22.0
+Eremophila alpestris_Horned Lark,0.4397635,19.0,22.0
+Emberiza calandra_Corn Bunting,0.3162695,19.0,22.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.18456851,19.0,22.0
+Spiza americana_Dickcissel,0.99571425,20.0,23.0
+Spiza americana_Dickcissel,0.9975358,21.0,24.0
+Spiza americana_Dickcissel,0.9946154,22.0,25.0
+Engine_Engine,0.254388,23.0,26.0
+Engine_Engine,0.19714488,24.0,27.0
+Peucaea aestivalis_Bachman's Sparrow,0.4765086,25.0,28.0
+Spiza americana_Dickcissel,0.1800714,26.0,29.0
+Peucaea aestivalis_Bachman's Sparrow,0.10735545,26.0,29.0
+Spiza americana_Dickcissel,0.5967315,27.0,30.0
+Spiza americana_Dickcissel,0.9948474,28.0,31.0
+Spiza americana_Dickcissel,0.99894184,29.0,32.0
+Spiza americana_Dickcissel,0.9958625,30.0,33.0
+Engine_Engine,0.34754202,31.0,34.0
+Certhia americana_Brown Creeper,0.108712286,32.0,35.0
+Spizelloides arborea_American Tree Sparrow,0.16310456,33.0,36.0
+Spizelloides arborea_American Tree Sparrow,0.27804214,34.0,37.0
+Turdus philomelos_Song Thrush,0.17872189,34.0,37.0
+Engine_Engine,0.17079291,34.0,37.0
+Passerculus sandwichensis_Savannah Sparrow,0.1164447,34.0,37.0
+Spiza americana_Dickcissel,0.46649218,35.0,38.0
+Spiza americana_Dickcissel,0.9965322,36.0,39.0
+Spiza americana_Dickcissel,0.99817884,37.0,40.0
+Spiza americana_Dickcissel,0.99630487,38.0,41.0
+Spiza americana_Dickcissel,0.76687646,39.0,42.0
+Engine_Engine,0.9311556,40.0,43.0
+Spiza americana_Dickcissel,0.9887395,41.0,44.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.63766384,41.0,44.0
+Spiza americana_Dickcissel,0.96913433,42.0,45.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.784402,42.0,45.0
+Spiza americana_Dickcissel,0.9216014,43.0,46.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.38545242,43.0,46.0
+Spiza americana_Dickcissel,0.7767223,44.0,47.0
+Pipilo chlorurus_Green-tailed Towhee,0.12678932,44.0,47.0
+Chondestes grammacus_Lark Sparrow,0.12614004,44.0,47.0
+Engine_Engine,0.15728186,45.0,48.0
+Spizelloides arborea_American Tree Sparrow,0.14748842,46.0,49.0
+Turdus philomelos_Song Thrush,0.14349687,46.0,49.0
+Spiza americana_Dickcissel,0.95279163,47.0,50.0
+Spiza americana_Dickcissel,0.9278162,48.0,51.0
+Spiza americana_Dickcissel,0.73383975,49.0,52.0
+Engine_Engine,0.1204738,51.0,54.0
+Passerculus sandwichensis_Savannah Sparrow,0.49545476,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1642963,52.0,55.0
+Centronyx bairdii_Baird's Sparrow,0.10497678,52.0,55.0
+Spizelloides arborea_American Tree Sparrow,0.5436619,53.0,56.0
+Passerculus sandwichensis_Savannah Sparrow,0.11314503,53.0,56.0
+Turdus philomelos_Song Thrush,0.48024958,54.0,57.0
+Baeolophus atricristatus_Black-crested Titmouse,0.15336412,54.0,57.0
+Spizelloides arborea_American Tree Sparrow,0.11398247,54.0,57.0
+Certhia americana_Brown Creeper,0.10226423,54.0,57.0
+Spiza americana_Dickcissel,0.9015581,55.0,58.0
+Haemorhous mexicanus_House Finch,0.13271256,55.0,58.0
+Eremophila alpestris_Horned Lark,0.109281935,55.0,58.0
+Megalurus palustris_Striated Grassbird,0.10685761,55.0,58.0
+Spiza americana_Dickcissel,0.9970054,56.0,59.0
+Spiza americana_Dickcissel,0.9953549,57.0,60.0
+Spiza americana_Dickcissel,0.99156624,58.0,61.0
+Spizelloides arborea_American Tree Sparrow,0.6296504,59.0,62.0
+Spizelloides arborea_American Tree Sparrow,0.37423247,60.0,63.0
+Peucaea aestivalis_Bachman's Sparrow,0.3157166,60.0,63.0
+Spizelloides arborea_American Tree Sparrow,0.77380055,61.0,64.0
+Passerculus sandwichensis_Savannah Sparrow,0.10635385,61.0,64.0
+Engine_Engine,0.7047384,62.0,65.0
+Turdus philomelos_Song Thrush,0.24306825,63.0,66.0
+Passerculus sandwichensis_Savannah Sparrow,0.22674713,64.0,67.0
+Spiza americana_Dickcissel,0.99463487,65.0,68.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.23433039,65.0,68.0
+Pipilo chlorurus_Green-tailed Towhee,0.13287793,65.0,68.0
+Spiza americana_Dickcissel,0.99469745,66.0,69.0
+Spiza americana_Dickcissel,0.99662006,67.0,70.0
+Spiza americana_Dickcissel,0.9955853,68.0,71.0
+Spiza americana_Dickcissel,0.53909934,69.0,72.0
+Spiza americana_Dickcissel,0.871505,70.0,73.0
+Sturnella magna_Eastern Meadowlark,0.16781329,70.0,73.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1185425,70.0,73.0
+Spiza americana_Dickcissel,0.1428254,71.0,74.0
+Turdus philomelos_Song Thrush,0.31785282,72.0,75.0
+Spizelloides arborea_American Tree Sparrow,0.17325151,73.0,76.0
+Spiza americana_Dickcissel,0.9895691,77.0,80.0
+Spiza americana_Dickcissel,0.99675757,78.0,81.0
+Spiza americana_Dickcissel,0.9976599,79.0,82.0
+Spiza americana_Dickcissel,0.97483474,80.0,83.0
+Engine_Engine,0.10290428,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16008961,82.0,85.0
+Spiza americana_Dickcissel,0.6796585,83.0,86.0
+Spiza americana_Dickcissel,0.793665,84.0,87.0
+Sturnella magna_Eastern Meadowlark,0.1410957,84.0,87.0
+Spiza americana_Dickcissel,0.88501227,85.0,88.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21636128,85.0,88.0
+Spiza americana_Dickcissel,0.75630933,86.0,89.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2809182,86.0,89.0
+Sturnella magna_Eastern Meadowlark,0.19978124,86.0,89.0
+Spiza americana_Dickcissel,0.8855298,87.0,90.0
+Spiza americana_Dickcissel,0.790215,88.0,91.0
+Spiza americana_Dickcissel,0.7585718,89.0,92.0
+Spiza americana_Dickcissel,0.8692185,90.0,93.0
+Spiza americana_Dickcissel,0.9136317,91.0,94.0
+Passerina ciris_Painted Bunting,0.5055201,91.0,94.0
+Spiza americana_Dickcissel,0.9542735,92.0,95.0
+Spiza americana_Dickcissel,0.9292655,93.0,96.0
+Empidonax wrightii_Gray Flycatcher,0.19098939,93.0,96.0
+Spiza americana_Dickcissel,0.9585805,94.0,97.0
+Agelaius phoeniceus_Red-winged Blackbird,0.24049869,94.0,97.0
+Sturnella magna_Eastern Meadowlark,0.124798745,94.0,97.0
+Passerina ciris_Painted Bunting,0.118614376,94.0,97.0
+Spiza americana_Dickcissel,0.8182004,95.0,98.0
+Passerina ciris_Painted Bunting,0.3929767,95.0,98.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3048144,95.0,98.0
+Sturnella magna_Eastern Meadowlark,0.11366421,95.0,98.0
+Spiza americana_Dickcissel,0.8742017,96.0,99.0
+Synallaxis hypochondriaca_Great Spinetail,0.22625406,97.0,100.0
+Charadrius bicinctus_Double-banded Plover,0.16129544,97.0,100.0
+Spiza americana_Dickcissel,0.15654482,97.0,100.0
+Geositta rufipennis_Rufous-banded Miner,0.14464678,97.0,100.0
+Spiza americana_Dickcissel,0.65517175,98.0,101.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19095509,98.0,101.0
+Spiza americana_Dickcissel,0.8813913,99.0,102.0
+Charadrius bicinctus_Double-banded Plover,0.26142046,99.0,102.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16077842,99.0,102.0
+Passerina caerulea_Blue Grosbeak,0.1032341,99.0,102.0
+Spiza americana_Dickcissel,0.91117454,100.0,103.0
+Charadrius bicinctus_Double-banded Plover,0.25058767,100.0,103.0
+Spiza americana_Dickcissel,0.8056997,101.0,104.0
+Charadrius bicinctus_Double-banded Plover,0.39753136,101.0,104.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2808357,101.0,104.0
+Geositta rufipennis_Rufous-banded Miner,0.23462118,101.0,104.0
+Spiza americana_Dickcissel,0.960453,102.0,105.0
+Agelaius phoeniceus_Red-winged Blackbird,0.36563075,102.0,105.0
+Passerina ciris_Painted Bunting,0.17041184,102.0,105.0
+Spiza americana_Dickcissel,0.93171287,103.0,106.0
+Agelaius phoeniceus_Red-winged Blackbird,0.35026786,103.0,106.0
+Sturnella magna_Eastern Meadowlark,0.26414993,103.0,106.0
+Passerina ciris_Painted Bunting,0.1796519,103.0,106.0
+Spiza americana_Dickcissel,0.9380172,104.0,107.0
+Agelaius phoeniceus_Red-winged Blackbird,0.29937777,104.0,107.0
+Sturnella magna_Eastern Meadowlark,0.10016107,104.0,107.0
+Spiza americana_Dickcissel,0.8793884,105.0,108.0
+Sturnella magna_Eastern Meadowlark,0.42324802,105.0,108.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18004063,105.0,108.0
+Spiza americana_Dickcissel,0.928464,106.0,109.0
+Spiza americana_Dickcissel,0.8147039,107.0,110.0
+Geositta rufipennis_Rufous-banded Miner,0.21123593,107.0,110.0
+Charadrius bicinctus_Double-banded Plover,0.17899616,107.0,110.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10477981,107.0,110.0
+Spiza americana_Dickcissel,0.92452353,108.0,111.0
+Agelaius phoeniceus_Red-winged Blackbird,0.34798804,108.0,111.0
+Spiza americana_Dickcissel,0.91110206,109.0,112.0
+Passerina ciris_Painted Bunting,0.2084443,109.0,112.0
+Spiza americana_Dickcissel,0.95724994,110.0,113.0
+Agelaius phoeniceus_Red-winged Blackbird,0.32895383,110.0,113.0
+Sturnella magna_Eastern Meadowlark,0.25590903,110.0,113.0
+Spiza americana_Dickcissel,0.7723675,111.0,114.0
+Spiza americana_Dickcissel,0.9296069,112.0,115.0
+Passerina ciris_Painted Bunting,0.25370008,112.0,115.0
+Empidonax traillii_Willow Flycatcher,0.54269147,113.0,116.0
+Spiza americana_Dickcissel,0.5209517,113.0,116.0
+Empidonax wrightii_Gray Flycatcher,0.31364202,113.0,116.0
+Empidonax minimus_Least Flycatcher,0.16520137,113.0,116.0
+Geositta rufipennis_Rufous-banded Miner,0.134597,113.0,116.0
+Spiza americana_Dickcissel,0.93561333,114.0,117.0
+Passerina ciris_Painted Bunting,0.28723955,114.0,117.0
+Spiza americana_Dickcissel,0.6946985,115.0,118.0
+Empidonax wrightii_Gray Flycatcher,0.1787905,115.0,118.0
+Geositta rufipennis_Rufous-banded Miner,0.103509404,115.0,118.0
+Spiza americana_Dickcissel,0.96411926,116.0,119.0
+Passerina ciris_Painted Bunting,0.5997291,116.0,119.0
+Sturnella magna_Eastern Meadowlark,0.12973008,116.0,119.0
+Spiza americana_Dickcissel,0.9164296,117.0,120.0
+Sturnella magna_Eastern Meadowlark,0.13200638,117.0,120.0
+Spiza americana_Dickcissel,0.83831364,118.0,121.0
+Sturnella magna_Eastern Meadowlark,0.27432683,118.0,121.0
+Spiza americana_Dickcissel,0.7957466,119.0,122.0
+Sturnella magna_Eastern Meadowlark,0.14678548,119.0,122.0
+Spiza americana_Dickcissel,0.8670637,120.0,123.0
+Passerina ciris_Painted Bunting,0.104672536,120.0,123.0
+Spiza americana_Dickcissel,0.957549,121.0,124.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11905782,121.0,124.0
+Spiza americana_Dickcissel,0.7542563,122.0,125.0
+Sturnella magna_Eastern Meadowlark,0.23554333,122.0,125.0
+Emberiza bruniceps_Red-headed Bunting,0.10558093,122.0,125.0
+Spiza americana_Dickcissel,0.9783084,123.0,126.0
+Passerina ciris_Painted Bunting,0.16391478,123.0,126.0
+Spiza americana_Dickcissel,0.9227011,124.0,127.0
+Sturnella magna_Eastern Meadowlark,0.29448,124.0,127.0
+Passerina ciris_Painted Bunting,0.21279024,124.0,127.0
+Spiza americana_Dickcissel,0.62724584,125.0,128.0
+Synallaxis hypochondriaca_Great Spinetail,0.40958735,125.0,128.0
+Engine_Engine,0.36383396,126.0,129.0
+Spiza americana_Dickcissel,0.8520274,127.0,130.0
+Spiza americana_Dickcissel,0.70815134,128.0,131.0
+Passerina ciris_Painted Bunting,0.16261889,128.0,131.0
+Spiza americana_Dickcissel,0.64243007,129.0,132.0
+Sturnella magna_Eastern Meadowlark,0.18347804,129.0,132.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15445234,129.0,132.0
+Spiza americana_Dickcissel,0.85274553,130.0,133.0
+Passerina ciris_Painted Bunting,0.22179012,130.0,133.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13205935,130.0,133.0
+Spiza americana_Dickcissel,0.67883384,131.0,134.0
+Sturnella magna_Eastern Meadowlark,0.29950193,131.0,134.0
+Spiza americana_Dickcissel,0.8926354,132.0,135.0
+Spiza americana_Dickcissel,0.7571607,133.0,135.38403628117914
+Agelaius phoeniceus_Red-winged Blackbird,0.22842513,133.0,135.38403628117914
+Passerina ciris_Painted Bunting,0.14331703,133.0,135.38403628117914

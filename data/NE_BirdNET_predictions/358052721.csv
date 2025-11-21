@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Melospiza lincolnii_Lincoln's Sparrow,0.3152882,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.18652405,0.0,3.0
+Passerella iliaca_Fox Sparrow,0.14765105,0.0,3.0
+Phylloscopus fuscatus_Dusky Warbler,0.10448734,0.0,3.0
+Melospiza lincolnii_Lincoln's Sparrow,0.48543072,1.0,4.0
+Phylloscopus fuscatus_Dusky Warbler,0.11209806,1.0,4.0
+Passerella iliaca_Fox Sparrow,0.25548786,2.0,5.0
+Phylloscopus fuscatus_Dusky Warbler,0.20081869,2.0,5.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11215022,2.0,5.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13971421,3.0,6.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.14557418,4.0,7.0
+Sylvia atricapilla_Eurasian Blackcap,0.110097386,4.0,7.0
+Phylloscopus fuscatus_Dusky Warbler,0.10694031,4.0,7.0
+Phylloscopus fuscatus_Dusky Warbler,0.17526019,5.0,8.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1462879,5.0,8.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.10594627,11.0,14.0
+Passerella iliaca_Fox Sparrow,0.115758866,13.0,16.0
+Melospiza lincolnii_Lincoln's Sparrow,0.23908508,14.0,17.0
+Melospiza lincolnii_Lincoln's Sparrow,0.16623649,15.0,18.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10847541,16.0,19.0
+Setophaga coronata_Yellow-rumped Warbler,0.7000305,17.0,20.0
+Melospiza lincolnii_Lincoln's Sparrow,0.36845484,18.0,21.0
+Phylloscopus fuscatus_Dusky Warbler,0.14384,18.0,21.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.10584409,18.0,21.0
+Phylloscopus fuscatus_Dusky Warbler,0.35804704,19.0,22.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.16723385,19.0,22.0
+Melospiza lincolnii_Lincoln's Sparrow,0.15031883,19.0,22.0
+Setophaga coronata_Yellow-rumped Warbler,0.122443445,20.0,23.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1087692,20.0,23.0
+Phylloscopus fuscatus_Dusky Warbler,0.38462028,21.0,24.0
+Phylloscopus fuscatus_Dusky Warbler,0.15178393,22.0,25.0
+Setophaga coronata_Yellow-rumped Warbler,0.34777158,23.0,26.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.15672208,23.0,26.0
+Setophaga coronata_Yellow-rumped Warbler,0.18683232,24.0,27.0
+Setophaga coronata_Yellow-rumped Warbler,0.32684955,25.0,28.0
+Empidonax fulvifrons_Buff-breasted Flycatcher,0.30114818,25.0,28.0
+Passerina ciris_Painted Bunting,0.27530527,25.0,28.0
+Phylloscopus fuscatus_Dusky Warbler,0.31738365,26.0,29.0
+Ficedula parva_Red-breasted Flycatcher,0.44336763,28.0,31.0
+Muscicapa striata_Spotted Flycatcher,0.10512519,28.0,31.0
+Ficedula parva_Red-breasted Flycatcher,0.109529324,29.0,32.0
+Setophaga coronata_Yellow-rumped Warbler,0.4631253,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.14239575,30.0,33.0

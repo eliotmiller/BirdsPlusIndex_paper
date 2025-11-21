@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5411145,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4405158,3.0,6.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22564754,4.0,7.0
+Mniotilta varia_Black-and-white Warbler,0.16863365,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.23481573,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13034318,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.11569923,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.1162255,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.10320113,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10042941,12.0,15.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.308232,13.0,16.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4957295,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10342593,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.106285006,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16819234,17.0,20.0
+Mniotilta varia_Black-and-white Warbler,0.120288886,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2505191,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3280294,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2128435,20.0,23.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5854054,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29122266,22.0,25.0
+Geothlypis philadelphia_Mourning Warbler,0.10284672,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.26886404,23.0,26.0
+Cardellina pusilla_Wilson's Warbler,0.1616152,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.1377209,23.0,26.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1882532,24.0,27.0
+Setophaga coronata_Yellow-rumped Warbler,0.1568364,24.0,27.0
+Geothlypis philadelphia_Mourning Warbler,0.10362625,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.37914887,25.0,28.0
+Geothlypis trichas_Common Yellowthroat,0.15997387,25.0,28.0
+Cardellina pusilla_Wilson's Warbler,0.111119986,25.0,28.0
+Setophaga coronata_Yellow-rumped Warbler,0.10201982,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.6809043,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.46541226,27.0,30.0
+Setophaga coronata_Yellow-rumped Warbler,0.1853791,27.0,30.0
+Dicaeum concolor_Nilgiri Flowerpecker,0.11571351,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.431006,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.19960871,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11417892,30.0,33.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18324555,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1801114,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.13390175,33.0,36.0
+Cardellina pusilla_Wilson's Warbler,0.108659744,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24609636,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.43918714,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.62745786,37.0,40.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.34058928,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.10916816,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.15481739,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14680734,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22604574,41.0,44.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15889482,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.11098538,44.0,47.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5882921,45.0,48.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7124985,46.0,49.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.65442634,47.0,50.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31892028,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.11969301,48.0,51.0
+Cardellina pusilla_Wilson's Warbler,0.11049414,48.0,51.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25152114,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13183485,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.30203652,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.13190342,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13071747,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31701958,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31018913,53.0,56.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.49864125,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.19474426,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12650305,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.13678505,56.0,59.0
+Cardellina pusilla_Wilson's Warbler,0.44582883,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16321054,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20572369,58.0,61.0
+Setophaga coronata_Yellow-rumped Warbler,0.19392948,58.0,61.0
+Passerina leclancherii_Orange-breasted Bunting,0.10833226,58.0,61.0
+Cardellina pusilla_Wilson's Warbler,0.20310526,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18246883,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.14131245,60.0,63.0
+Setophaga cerulea_Cerulean Warbler,0.10604327,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.19479358,63.0,66.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19385146,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.10113565,64.0,67.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19616236,65.0,68.0
+Geothlypis philadelphia_Mourning Warbler,0.1307308,65.0,68.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.40958983,66.0,69.0
+Geothlypis philadelphia_Mourning Warbler,0.2601973,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.17726414,66.0,69.0
