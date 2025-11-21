@@ -1,0 +1,496 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.9741388,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.6139482,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.3918612,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.99306494,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9937238,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.99240667,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.99180365,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.94207954,6.0,9.0
+Protonotaria citrea_Prothonotary Warbler,0.26575428,7.0,10.0
+Gracula indica_Southern Hill Myna,0.14006676,8.0,11.0
+Halcyon smyrnensis_White-throated Kingfisher,0.119086236,8.0,11.0
+Psilopogon viridis_White-cheeked Barbet,0.1640144,10.0,13.0
+Psilopogon viridis_White-cheeked Barbet,0.14812757,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.2941396,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.108469024,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.23236652,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.4793613,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.20400557,17.0,20.0
+Corvus brachyrhynchos_American Crow,0.1907069,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.2040599,18.0,21.0
+Corvus brachyrhynchos_American Crow,0.11009952,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.10221679,18.0,21.0
+Corvus brachyrhynchos_American Crow,0.50735253,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.1614449,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.121209405,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.10944517,19.0,22.0
+Corvus brachyrhynchos_American Crow,0.6644411,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.11745082,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.10129341,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.9304355,21.0,24.0
+Protonotaria citrea_Prothonotary Warbler,0.107593,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.91646874,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.1325098,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.8617817,23.0,26.0
+Protonotaria citrea_Prothonotary Warbler,0.12505125,23.0,26.0
+Protonotaria citrea_Prothonotary Warbler,0.11683064,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.10132013,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.100395165,24.0,27.0
+Zenaida macroura_Mourning Dove,0.6444703,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.10602128,25.0,28.0
+Zenaida macroura_Mourning Dove,0.42364746,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.11562005,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.20576634,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.15045226,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1316067,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.11624958,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.16019309,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.116262175,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.22643735,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.2535508,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.1727455,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.17280751,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.12674303,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.136273,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.167909,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.12015992,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.12917595,39.0,42.0
+Zenaida macroura_Mourning Dove,0.4417659,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.14848374,41.0,44.0
+Zenaida macroura_Mourning Dove,0.17288315,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.9938846,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.9913873,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.99441767,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.98859125,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.9846569,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.8722198,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.11230605,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.9378309,50.0,53.0
+Protonotaria citrea_Prothonotary Warbler,0.13914588,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.11787265,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.15466887,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.16909271,53.0,56.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.70802313,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.117201105,54.0,57.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.61346537,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.17126362,55.0,58.0
+Zenaida macroura_Mourning Dove,0.15241012,56.0,59.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10898829,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.104645565,56.0,59.0
+Zenaida macroura_Mourning Dove,0.624037,57.0,60.0
+Zenaida macroura_Mourning Dove,0.7807394,58.0,61.0
+Zenaida macroura_Mourning Dove,0.608707,59.0,62.0
+Zenaida macroura_Mourning Dove,0.27703163,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.11097082,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12068923,64.0,67.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.113362975,64.0,67.0
+Protonotaria citrea_Prothonotary Warbler,0.10214437,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.123410344,65.0,68.0
+Piranga olivacea_Scarlet Tanager,0.23172958,66.0,69.0
+Geothlypis formosa_Kentucky Warbler,0.14048767,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11014465,66.0,69.0
+Protonotaria citrea_Prothonotary Warbler,0.2746729,67.0,70.0
+Piranga olivacea_Scarlet Tanager,0.14400135,67.0,70.0
+Empidonax virescens_Acadian Flycatcher,0.8861913,68.0,71.0
+Protonotaria citrea_Prothonotary Warbler,0.16080345,68.0,71.0
+Empidonax virescens_Acadian Flycatcher,0.8946962,69.0,72.0
+Protonotaria citrea_Prothonotary Warbler,0.28593472,69.0,72.0
+Empidonax virescens_Acadian Flycatcher,0.86927885,70.0,73.0
+Protonotaria citrea_Prothonotary Warbler,0.122193,70.0,73.0
+Zenaida macroura_Mourning Dove,0.3650366,72.0,75.0
+Zenaida macroura_Mourning Dove,0.44692558,73.0,76.0
+Corvus brachyrhynchos_American Crow,0.38337457,74.0,77.0
+Zenaida macroura_Mourning Dove,0.116664596,74.0,77.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1031912,74.0,77.0
+Buteo lineatus_Red-shouldered Hawk,0.109248176,75.0,78.0
+Buteo lineatus_Red-shouldered Hawk,0.2178001,76.0,79.0
+Protonotaria citrea_Prothonotary Warbler,0.12248101,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.101349615,78.0,81.0
+Piranga olivacea_Scarlet Tanager,0.28354436,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10093181,79.0,82.0
+Protonotaria citrea_Prothonotary Warbler,0.13072087,80.0,83.0
+Protonotaria citrea_Prothonotary Warbler,0.10917015,82.0,85.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17896466,84.0,87.0
+Piranga olivacea_Scarlet Tanager,0.14148006,84.0,87.0
+Geothlypis formosa_Kentucky Warbler,0.11897682,84.0,87.0
+Geothlypis formosa_Kentucky Warbler,0.10153635,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.84418315,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.9856103,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.982917,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.9770899,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.9599363,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.96215874,92.0,95.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.20488895,94.0,97.0
+Empidonax virescens_Acadian Flycatcher,0.50185287,95.0,98.0
+Empidonax virescens_Acadian Flycatcher,0.59036744,96.0,99.0
+Empidonax virescens_Acadian Flycatcher,0.8237722,97.0,100.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21200643,98.0,101.0
+Empidonax virescens_Acadian Flycatcher,0.20416044,98.0,101.0
+Setophaga citrina_Hooded Warbler,0.16583157,98.0,101.0
+Geothlypis formosa_Kentucky Warbler,0.13641542,98.0,101.0
+Corvus brachyrhynchos_American Crow,0.3770525,99.0,102.0
+Geothlypis formosa_Kentucky Warbler,0.12813523,99.0,102.0
+Zenaida macroura_Mourning Dove,0.1499393,106.0,109.0
+Zenaida macroura_Mourning Dove,0.3656504,107.0,110.0
+Zenaida macroura_Mourning Dove,0.47069952,108.0,111.0
+Zenaida macroura_Mourning Dove,0.36145648,109.0,112.0
+Zenaida macroura_Mourning Dove,0.14348422,110.0,113.0
+Protonotaria citrea_Prothonotary Warbler,0.105576165,110.0,113.0
+Empidonax virescens_Acadian Flycatcher,0.5751586,111.0,114.0
+Empidonax virescens_Acadian Flycatcher,0.9232188,112.0,115.0
+Protonotaria citrea_Prothonotary Warbler,0.10378331,112.0,115.0
+Empidonax virescens_Acadian Flycatcher,0.9235599,113.0,116.0
+Protonotaria citrea_Prothonotary Warbler,0.10958725,115.0,118.0
+Corvus brachyrhynchos_American Crow,0.2541731,118.0,121.0
+Vireo olivaceus_Red-eyed Vireo,0.10752473,118.0,121.0
+Corvus brachyrhynchos_American Crow,0.45471194,119.0,122.0
+Vireo olivaceus_Red-eyed Vireo,0.42365733,119.0,122.0
+Seiurus aurocapilla_Ovenbird,0.9508124,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.99670523,121.0,124.0
+Seiurus aurocapilla_Ovenbird,0.99324423,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.988155,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.9783731,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.95340335,125.0,128.0
+Empidonax virescens_Acadian Flycatcher,0.13999502,126.0,129.0
+Setophaga cerulea_Cerulean Warbler,0.10263083,126.0,129.0
+Setophaga citrina_Hooded Warbler,0.10205742,126.0,129.0
+Empidonax virescens_Acadian Flycatcher,0.76116306,129.0,132.0
+Setophaga citrina_Hooded Warbler,0.11660303,129.0,132.0
+Empidonax virescens_Acadian Flycatcher,0.42270643,130.0,133.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.1346763,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.97048944,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.9926104,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.9798911,133.0,136.0
+Seiurus aurocapilla_Ovenbird,0.9645792,134.0,137.0
+Seiurus aurocapilla_Ovenbird,0.9691784,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.95958024,136.0,139.0
+Zenaida macroura_Mourning Dove,0.32826743,137.0,140.0
+Piranga olivacea_Scarlet Tanager,0.12470231,137.0,140.0
+Empidonax virescens_Acadian Flycatcher,0.10669443,137.0,140.0
+Zenaida macroura_Mourning Dove,0.3537243,138.0,141.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.6239016,139.0,142.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.32037836,140.0,143.0
+Piranga olivacea_Scarlet Tanager,0.16653836,140.0,143.0
+Empidonax virescens_Acadian Flycatcher,0.50892794,141.0,144.0
+Empidonax virescens_Acadian Flycatcher,0.8341492,142.0,145.0
+Setophaga citrina_Hooded Warbler,0.17160319,142.0,145.0
+Protonotaria citrea_Prothonotary Warbler,0.10924871,142.0,145.0
+Geothlypis formosa_Kentucky Warbler,0.10560805,142.0,145.0
+Geothlypis formosa_Kentucky Warbler,0.18864736,143.0,146.0
+Setophaga citrina_Hooded Warbler,0.18413045,143.0,146.0
+Empidonax virescens_Acadian Flycatcher,0.17847702,143.0,146.0
+Piranga olivacea_Scarlet Tanager,0.12078128,144.0,147.0
+Geothlypis formosa_Kentucky Warbler,0.118225686,144.0,147.0
+Piranga olivacea_Scarlet Tanager,0.14113106,145.0,148.0
+Piranga olivacea_Scarlet Tanager,0.22117807,147.0,150.0
+Protonotaria citrea_Prothonotary Warbler,0.11622519,147.0,150.0
+Piranga olivacea_Scarlet Tanager,0.22750361,148.0,151.0
+Empidonax virescens_Acadian Flycatcher,0.11081326,148.0,151.0
+Empidonax virescens_Acadian Flycatcher,0.33508104,149.0,152.0
+Zenaida macroura_Mourning Dove,0.20836914,149.0,152.0
+Piranga olivacea_Scarlet Tanager,0.2025252,149.0,152.0
+Zenaida macroura_Mourning Dove,0.31691343,150.0,153.0
+Empidonax virescens_Acadian Flycatcher,0.30969045,150.0,153.0
+Piranga olivacea_Scarlet Tanager,0.119498916,150.0,153.0
+Empidonax virescens_Acadian Flycatcher,0.17815532,151.0,154.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13059866,151.0,154.0
+Piranga olivacea_Scarlet Tanager,0.10667412,151.0,154.0
+Zenaida macroura_Mourning Dove,0.10495151,151.0,154.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14886089,152.0,155.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1396355,152.0,155.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.44562855,153.0,156.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.48268235,154.0,157.0
+Piranga olivacea_Scarlet Tanager,0.27170068,155.0,158.0
+Piranga olivacea_Scarlet Tanager,0.3224139,156.0,159.0
+Protonotaria citrea_Prothonotary Warbler,0.1385926,156.0,159.0
+Geothlypis formosa_Kentucky Warbler,0.19870818,157.0,160.0
+Protonotaria citrea_Prothonotary Warbler,0.18476845,157.0,160.0
+Empidonax virescens_Acadian Flycatcher,0.15209877,157.0,160.0
+Empidonax virescens_Acadian Flycatcher,0.21351798,158.0,161.0
+Setophaga citrina_Hooded Warbler,0.13952515,158.0,161.0
+Empidonax virescens_Acadian Flycatcher,0.2916616,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.14062239,159.0,162.0
+Setophaga citrina_Hooded Warbler,0.13724299,159.0,162.0
+Geothlypis formosa_Kentucky Warbler,0.10881424,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.18212846,161.0,164.0
+Piranga olivacea_Scarlet Tanager,0.20480116,162.0,165.0
+Vireo olivaceus_Red-eyed Vireo,0.109909,162.0,165.0
+Piranga olivacea_Scarlet Tanager,0.4479099,163.0,166.0
+Vireo olivaceus_Red-eyed Vireo,0.12564552,163.0,166.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.119045354,163.0,166.0
+Piranga olivacea_Scarlet Tanager,0.4687956,164.0,167.0
+Vireo olivaceus_Red-eyed Vireo,0.15864487,164.0,167.0
+Piranga olivacea_Scarlet Tanager,0.21732892,165.0,168.0
+Hylocichla mustelina_Wood Thrush,0.15365548,165.0,168.0
+Protonotaria citrea_Prothonotary Warbler,0.12307051,166.0,169.0
+Piranga olivacea_Scarlet Tanager,0.12095453,166.0,169.0
+Geothlypis formosa_Kentucky Warbler,0.106755845,166.0,169.0
+Protonotaria citrea_Prothonotary Warbler,0.13240176,167.0,170.0
+Protonotaria citrea_Prothonotary Warbler,0.10905272,169.0,172.0
+Protonotaria citrea_Prothonotary Warbler,0.22253825,171.0,174.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.14600271,171.0,174.0
+Protonotaria citrea_Prothonotary Warbler,0.22897492,172.0,175.0
+Piranga olivacea_Scarlet Tanager,0.18339725,172.0,175.0
+Piranga olivacea_Scarlet Tanager,0.27594918,173.0,176.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12394092,173.0,176.0
+Protonotaria citrea_Prothonotary Warbler,0.12307337,173.0,176.0
+Piranga olivacea_Scarlet Tanager,0.23941289,174.0,177.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16658582,174.0,177.0
+Piranga olivacea_Scarlet Tanager,0.2117343,175.0,178.0
+Geothlypis formosa_Kentucky Warbler,0.11428683,175.0,178.0
+Protonotaria citrea_Prothonotary Warbler,0.10238763,175.0,178.0
+Empidonax virescens_Acadian Flycatcher,0.61401707,176.0,179.0
+Empidonax virescens_Acadian Flycatcher,0.4538485,177.0,180.0
+Protonotaria citrea_Prothonotary Warbler,0.16507903,177.0,180.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10073623,177.0,180.0
+Empidonax virescens_Acadian Flycatcher,0.7855343,178.0,181.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.19396512,178.0,181.0
+Geothlypis formosa_Kentucky Warbler,0.13996404,178.0,181.0
+Protonotaria citrea_Prothonotary Warbler,0.12892698,178.0,181.0
+Piranga olivacea_Scarlet Tanager,0.42649943,179.0,182.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1530858,179.0,182.0
+Geothlypis formosa_Kentucky Warbler,0.1252715,179.0,182.0
+Piranga olivacea_Scarlet Tanager,0.5369704,180.0,183.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.32887226,180.0,183.0
+Piranga olivacea_Scarlet Tanager,0.24459122,181.0,184.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.17430724,181.0,184.0
+Piranga olivacea_Scarlet Tanager,0.46716744,182.0,185.0
+Geothlypis formosa_Kentucky Warbler,0.12236866,183.0,186.0
+Seiurus aurocapilla_Ovenbird,0.9873732,184.0,187.0
+Seiurus aurocapilla_Ovenbird,0.9958021,185.0,188.0
+Seiurus aurocapilla_Ovenbird,0.98366654,186.0,189.0
+Seiurus aurocapilla_Ovenbird,0.9877722,187.0,190.0
+Seiurus aurocapilla_Ovenbird,0.969992,188.0,191.0
+Seiurus aurocapilla_Ovenbird,0.9842073,189.0,192.0
+Piranga olivacea_Scarlet Tanager,0.36791855,190.0,193.0
+Piranga olivacea_Scarlet Tanager,0.35978872,191.0,194.0
+Zenaida macroura_Mourning Dove,0.14229295,192.0,195.0
+Vireo olivaceus_Red-eyed Vireo,0.15350613,195.0,198.0
+Empidonax virescens_Acadian Flycatcher,0.12832132,195.0,198.0
+Empidonax virescens_Acadian Flycatcher,0.4245416,196.0,199.0
+Setophaga pinus_Pine Warbler,0.120346315,196.0,199.0
+Empidonax virescens_Acadian Flycatcher,0.86209434,197.0,200.0
+Setophaga citrina_Hooded Warbler,0.21109194,197.0,200.0
+Protonotaria citrea_Prothonotary Warbler,0.14423676,197.0,200.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10628376,197.0,200.0
+Empidonax virescens_Acadian Flycatcher,0.7151859,198.0,201.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13045545,199.0,202.0
+Vireo olivaceus_Red-eyed Vireo,0.14502014,200.0,203.0
+Vireo olivaceus_Red-eyed Vireo,0.104616374,201.0,204.0
+Empidonax virescens_Acadian Flycatcher,0.40607718,202.0,205.0
+Vireo olivaceus_Red-eyed Vireo,0.1444004,202.0,205.0
+Empidonax virescens_Acadian Flycatcher,0.33837345,203.0,206.0
+Vireo olivaceus_Red-eyed Vireo,0.13943197,203.0,206.0
+Vireo olivaceus_Red-eyed Vireo,0.33564094,204.0,207.0
+Empidonax virescens_Acadian Flycatcher,0.21111336,204.0,207.0
+Empidonax virescens_Acadian Flycatcher,0.119927496,205.0,208.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1185835,205.0,208.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11742116,205.0,208.0
+Vireo olivaceus_Red-eyed Vireo,0.12325443,206.0,209.0
+Setophaga citrina_Hooded Warbler,0.11038239,206.0,209.0
+Empidonax virescens_Acadian Flycatcher,0.113788374,208.0,211.0
+Empidonax virescens_Acadian Flycatcher,0.29144526,209.0,212.0
+Vireo olivaceus_Red-eyed Vireo,0.11814575,210.0,213.0
+Vireo olivaceus_Red-eyed Vireo,0.20352045,211.0,214.0
+Empidonax virescens_Acadian Flycatcher,0.13798034,211.0,214.0
+Empidonax virescens_Acadian Flycatcher,0.19743162,212.0,215.0
+Vireo olivaceus_Red-eyed Vireo,0.10727252,212.0,215.0
+Vireo olivaceus_Red-eyed Vireo,0.441878,213.0,216.0
+Empidonax virescens_Acadian Flycatcher,0.21749358,213.0,216.0
+Empidonax virescens_Acadian Flycatcher,0.19862528,214.0,217.0
+Vireo olivaceus_Red-eyed Vireo,0.12734142,214.0,217.0
+Vireo olivaceus_Red-eyed Vireo,0.45259494,215.0,218.0
+Empidonax virescens_Acadian Flycatcher,0.27285823,215.0,218.0
+Empidonax virescens_Acadian Flycatcher,0.13154015,216.0,219.0
+Empidonax virescens_Acadian Flycatcher,0.2440649,217.0,220.0
+Vireo olivaceus_Red-eyed Vireo,0.23550376,217.0,220.0
+Vireo olivaceus_Red-eyed Vireo,0.11341705,218.0,221.0
+Setophaga citrina_Hooded Warbler,0.73177046,219.0,222.0
+Limnothlypis swainsonii_Swainson's Warbler,0.41810068,219.0,222.0
+Empidonax virescens_Acadian Flycatcher,0.25650674,219.0,222.0
+Empidonax virescens_Acadian Flycatcher,0.54562104,220.0,223.0
+Vireo olivaceus_Red-eyed Vireo,0.103012756,220.0,223.0
+Seiurus aurocapilla_Ovenbird,0.9152179,221.0,224.0
+Seiurus aurocapilla_Ovenbird,0.99687093,222.0,225.0
+Seiurus aurocapilla_Ovenbird,0.99377716,223.0,226.0
+Seiurus aurocapilla_Ovenbird,0.9876429,224.0,227.0
+Seiurus aurocapilla_Ovenbird,0.95947266,225.0,228.0
+Seiurus aurocapilla_Ovenbird,0.91623163,226.0,229.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.41066614,227.0,230.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.2288797,228.0,231.0
+Empidonax virescens_Acadian Flycatcher,0.1882208,237.0,240.0
+Setophaga cerulea_Cerulean Warbler,0.18228106,237.0,240.0
+Empidonax virescens_Acadian Flycatcher,0.17761244,238.0,241.0
+Empidonax virescens_Acadian Flycatcher,0.11824571,239.0,242.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.17774671,245.0,248.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.23075746,246.0,249.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.16633824,249.0,252.0
+Pterophylla camellifolia_Common True Katydid,0.126668,249.0,252.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.11371173,249.0,252.0
+Pterophylla camellifolia_Common True Katydid,0.115333855,250.0,253.0
+Empidonax virescens_Acadian Flycatcher,0.17079337,257.0,260.0
+Setophaga cerulea_Cerulean Warbler,0.23615196,258.0,261.0
+Setophaga dominica_Yellow-throated Warbler,0.108130954,261.0,264.0
+Setophaga dominica_Yellow-throated Warbler,0.50437915,262.0,265.0
+Vireo flavifrons_Yellow-throated Vireo,0.28704125,263.0,266.0
+Piranga olivacea_Scarlet Tanager,0.14179602,263.0,266.0
+Piranga olivacea_Scarlet Tanager,0.28806996,264.0,267.0
+Geothlypis formosa_Kentucky Warbler,0.12194507,264.0,267.0
+Seiurus aurocapilla_Ovenbird,0.922719,265.0,268.0
+Seiurus aurocapilla_Ovenbird,0.9865094,266.0,269.0
+Seiurus aurocapilla_Ovenbird,0.9893455,267.0,270.0
+Seiurus aurocapilla_Ovenbird,0.97655416,268.0,271.0
+Seiurus aurocapilla_Ovenbird,0.98291093,269.0,272.0
+Seiurus aurocapilla_Ovenbird,0.988794,270.0,273.0
+Protonotaria citrea_Prothonotary Warbler,0.23354807,271.0,274.0
+Geothlypis formosa_Kentucky Warbler,0.23097707,271.0,274.0
+Empidonax virescens_Acadian Flycatcher,0.15214734,271.0,274.0
+Limnothlypis swainsonii_Swainson's Warbler,0.115229055,271.0,274.0
+Setophaga citrina_Hooded Warbler,0.10428497,271.0,274.0
+Empidonax virescens_Acadian Flycatcher,0.15658817,272.0,275.0
+Protonotaria citrea_Prothonotary Warbler,0.11571301,272.0,275.0
+Empidonax virescens_Acadian Flycatcher,0.26810133,273.0,276.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1511599,273.0,276.0
+Protonotaria citrea_Prothonotary Warbler,0.11645335,273.0,276.0
+Empidonax virescens_Acadian Flycatcher,0.13031124,274.0,277.0
+Piranga olivacea_Scarlet Tanager,0.38175976,275.0,278.0
+Piranga olivacea_Scarlet Tanager,0.6041081,276.0,279.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14762428,276.0,279.0
+Empidonax virescens_Acadian Flycatcher,0.118323274,276.0,279.0
+Piranga olivacea_Scarlet Tanager,0.80534136,277.0,280.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116166145,277.0,280.0
+Piranga olivacea_Scarlet Tanager,0.116554804,281.0,284.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10123251,281.0,284.0
+Geothlypis formosa_Kentucky Warbler,0.18074518,282.0,285.0
+Vireo olivaceus_Red-eyed Vireo,0.11749625,282.0,285.0
+Piranga olivacea_Scarlet Tanager,0.18757077,283.0,286.0
+Piranga olivacea_Scarlet Tanager,0.7289582,284.0,287.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10904477,284.0,287.0
+Piranga olivacea_Scarlet Tanager,0.79827523,285.0,288.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10825902,285.0,288.0
+Piranga olivacea_Scarlet Tanager,0.7625361,286.0,289.0
+Protonotaria citrea_Prothonotary Warbler,0.13981415,286.0,289.0
+Vireo flavifrons_Yellow-throated Vireo,0.12099239,286.0,289.0
+Piranga olivacea_Scarlet Tanager,0.2885594,287.0,290.0
+Protonotaria citrea_Prothonotary Warbler,0.14559075,287.0,290.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116339944,287.0,290.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10214445,287.0,290.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17698006,288.0,291.0
+Protonotaria citrea_Prothonotary Warbler,0.16286592,288.0,291.0
+Myiarchus crinitus_Great Crested Flycatcher,0.119973585,288.0,291.0
+Piranga olivacea_Scarlet Tanager,0.11524058,288.0,291.0
+Empidonax virescens_Acadian Flycatcher,0.15555593,289.0,292.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12626263,289.0,292.0
+Empidonax virescens_Acadian Flycatcher,0.12311941,291.0,294.0
+Piranga olivacea_Scarlet Tanager,0.10188004,291.0,294.0
+Empidonax virescens_Acadian Flycatcher,0.16230954,292.0,295.0
+Piranga olivacea_Scarlet Tanager,0.13716565,292.0,295.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25846934,293.0,296.0
+Setophaga virens_Black-throated Green Warbler,0.16158326,293.0,296.0
+Empidonax virescens_Acadian Flycatcher,0.12624401,293.0,296.0
+Empidonax virescens_Acadian Flycatcher,0.16344449,294.0,297.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1309089,294.0,297.0
+Seiurus aurocapilla_Ovenbird,0.8760873,295.0,298.0
+Seiurus aurocapilla_Ovenbird,0.993828,296.0,299.0
+Seiurus aurocapilla_Ovenbird,0.99030495,297.0,300.0
+Seiurus aurocapilla_Ovenbird,0.98961395,298.0,301.0
+Seiurus aurocapilla_Ovenbird,0.9857837,299.0,302.0
+Seiurus aurocapilla_Ovenbird,0.9922557,300.0,303.0
+Piranga olivacea_Scarlet Tanager,0.12894142,302.0,305.0
+Vireo olivaceus_Red-eyed Vireo,0.123875745,302.0,305.0
+Vireo olivaceus_Red-eyed Vireo,0.15474562,303.0,306.0
+Vireo olivaceus_Red-eyed Vireo,0.22149941,305.0,308.0
+Vireo olivaceus_Red-eyed Vireo,0.21624516,306.0,309.0
+Empidonax virescens_Acadian Flycatcher,0.15054925,306.0,309.0
+Geothlypis formosa_Kentucky Warbler,0.11024553,306.0,309.0
+Piranga olivacea_Scarlet Tanager,0.22657217,307.0,310.0
+Vireo olivaceus_Red-eyed Vireo,0.1897522,307.0,310.0
+Piranga olivacea_Scarlet Tanager,0.16633894,308.0,311.0
+Piranga olivacea_Scarlet Tanager,0.45246378,309.0,312.0
+Piranga olivacea_Scarlet Tanager,0.1169314,311.0,314.0
+Setophaga cerulea_Cerulean Warbler,0.1560164,312.0,315.0
+Empidonax virescens_Acadian Flycatcher,0.12303724,312.0,315.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10862798,313.0,316.0
+Setophaga cerulea_Cerulean Warbler,0.10182042,313.0,316.0
+Piranga olivacea_Scarlet Tanager,0.16530526,314.0,317.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10442384,314.0,317.0
+Piranga olivacea_Scarlet Tanager,0.14924611,315.0,318.0
+Seiurus aurocapilla_Ovenbird,0.6913943,317.0,320.0
+Seiurus aurocapilla_Ovenbird,0.98781747,318.0,321.0
+Seiurus aurocapilla_Ovenbird,0.9958786,319.0,322.0
+Seiurus aurocapilla_Ovenbird,0.99024,320.0,323.0
+Seiurus aurocapilla_Ovenbird,0.98258084,321.0,324.0
+Seiurus aurocapilla_Ovenbird,0.9611489,322.0,325.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1928024,323.0,326.0
+Zenaida macroura_Mourning Dove,0.111538365,325.0,328.0
+Protonotaria citrea_Prothonotary Warbler,0.14523926,326.0,329.0
+Empidonax virescens_Acadian Flycatcher,0.13259844,326.0,329.0
+Piranga olivacea_Scarlet Tanager,0.13146786,327.0,330.0
+Empidonax virescens_Acadian Flycatcher,0.12894833,327.0,330.0
+Piranga olivacea_Scarlet Tanager,0.15387158,328.0,331.0
+Empidonax virescens_Acadian Flycatcher,0.12476857,328.0,331.0
+Geothlypis formosa_Kentucky Warbler,0.1059268,328.0,331.0
+Piranga olivacea_Scarlet Tanager,0.40352863,329.0,332.0
+Vireo flavifrons_Yellow-throated Vireo,0.16326714,329.0,332.0
+Empidonax virescens_Acadian Flycatcher,0.14001153,329.0,332.0
+Vireo flavifrons_Yellow-throated Vireo,0.14408569,330.0,333.0
+Piranga olivacea_Scarlet Tanager,0.13466628,330.0,333.0
+Vireo flavifrons_Yellow-throated Vireo,0.11730768,331.0,334.0
+Protonotaria citrea_Prothonotary Warbler,0.21978348,332.0,335.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.18225786,332.0,335.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.4347044,333.0,336.0
+Piranga olivacea_Scarlet Tanager,0.14534302,333.0,336.0
+Protonotaria citrea_Prothonotary Warbler,0.14243226,333.0,336.0
+Setophaga cerulea_Cerulean Warbler,0.11791984,333.0,336.0
+Geothlypis formosa_Kentucky Warbler,0.10524888,333.0,336.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.30883703,334.0,337.0
+Piranga olivacea_Scarlet Tanager,0.15285873,334.0,337.0
+Protonotaria citrea_Prothonotary Warbler,0.1409949,334.0,337.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16854203,335.0,338.0
+Geothlypis formosa_Kentucky Warbler,0.13050225,335.0,338.0
+Piranga olivacea_Scarlet Tanager,0.117731795,335.0,338.0
+Limnothlypis swainsonii_Swainson's Warbler,0.3897059,336.0,339.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.19332564,336.0,339.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.6663133,337.0,340.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7576003,338.0,341.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.65795577,339.0,342.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.47962722,340.0,343.0
+Piranga olivacea_Scarlet Tanager,0.11816577,340.0,343.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.40879413,341.0,344.0
+Piranga olivacea_Scarlet Tanager,0.15195578,341.0,344.0
+Piranga olivacea_Scarlet Tanager,0.20363316,342.0,345.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.13493414,342.0,345.0
+Geothlypis formosa_Kentucky Warbler,0.12303649,342.0,345.0
+Protonotaria citrea_Prothonotary Warbler,0.10743051,342.0,345.0
+Piranga olivacea_Scarlet Tanager,0.22907966,343.0,346.0
+Piranga olivacea_Scarlet Tanager,0.23358315,344.0,347.0
+Protonotaria citrea_Prothonotary Warbler,0.107951514,344.0,347.0
+Seiurus aurocapilla_Ovenbird,0.24086829,345.0,348.0
+Seiurus aurocapilla_Ovenbird,0.98112303,346.0,349.0
+Seiurus aurocapilla_Ovenbird,0.9799716,347.0,350.0
+Seiurus aurocapilla_Ovenbird,0.9807324,348.0,351.0
+Seiurus aurocapilla_Ovenbird,0.9743861,349.0,352.0
+Seiurus aurocapilla_Ovenbird,0.9301412,350.0,353.0
+Seiurus aurocapilla_Ovenbird,0.92092264,351.0,354.0
+Protonotaria citrea_Prothonotary Warbler,0.1759128,352.0,355.0
+Setophaga virens_Black-throated Green Warbler,0.14676934,353.0,356.0
+Protonotaria citrea_Prothonotary Warbler,0.13213995,353.0,356.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10749871,353.0,356.0
+Buteo platypterus_Broad-winged Hawk,0.10594928,353.0,356.0
+Setophaga cerulea_Cerulean Warbler,0.10439087,353.0,356.0
+Empidonax virescens_Acadian Flycatcher,0.2752177,354.0,357.0
+Protonotaria citrea_Prothonotary Warbler,0.12761427,354.0,357.0
+Empidonax virescens_Acadian Flycatcher,0.4319587,355.0,358.0
+Setophaga citrina_Hooded Warbler,0.10578092,355.0,358.0
+Empidonax virescens_Acadian Flycatcher,0.7525376,356.0,359.0
+Brachyramphus marmoratus_Marbled Murrelet,0.12057368,360.0,363.0
+Sayornis saya_Say's Phoebe,0.112701915,360.0,363.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.10313207,362.0,365.0
+Empidonax virescens_Acadian Flycatcher,0.27179885,369.0,372.0
+Protonotaria citrea_Prothonotary Warbler,0.2032839,369.0,372.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10627753,369.0,372.0
+Atlanticus testaceus_Protean Shieldback,0.21594553,383.0,386.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.14156887,383.0,386.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.11897717,389.0,392.0
+Geothlypis formosa_Kentucky Warbler,0.25666195,392.0,395.0

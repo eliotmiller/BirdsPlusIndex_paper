@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2400269,0.0,3.0
+Setophaga ruticilla_American Redstart,0.22400229,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.6571632,1.0,4.0
+Setophaga castanea_Bay-breasted Warbler,0.6226976,1.0,4.0
+Setophaga castanea_Bay-breasted Warbler,0.94552636,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.5086375,2.0,5.0
+Setophaga castanea_Bay-breasted Warbler,0.96517444,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.1299703,3.0,6.0
+Setophaga castanea_Bay-breasted Warbler,0.9430289,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.24843904,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.49070162,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.12781431,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.32711247,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.11545844,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.19183014,10.0,13.0
+Tamiasciurus hudsonicus_Red Squirrel,0.33302996,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.9416739,15.0,18.0
+Setophaga castanea_Bay-breasted Warbler,0.38475844,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.9953999,16.0,19.0
+Setophaga castanea_Bay-breasted Warbler,0.17470202,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.9943177,17.0,20.0
+Setophaga castanea_Bay-breasted Warbler,0.16849129,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.98719275,18.0,21.0
+Setophaga castanea_Bay-breasted Warbler,0.19796054,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.6387277,19.0,22.0
+Setophaga ruticilla_American Redstart,0.3546658,19.0,22.0
+Setophaga tigrina_Cape May Warbler,0.22669072,19.0,22.0
+Setophaga castanea_Bay-breasted Warbler,0.17078142,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.45086148,20.0,23.0
+Setophaga ruticilla_American Redstart,0.24519679,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2926087,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.1913213,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.5475552,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.13714406,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19684243,25.0,28.0
+Setophaga ruticilla_American Redstart,0.10209898,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.32394814,26.0,29.0
+Setophaga ruticilla_American Redstart,0.23827726,27.0,30.0
+Phylloscopus xanthoschistos_Gray-hooded Warbler,0.13384853,28.0,31.0
+Diglossa baritula_Cinnamon-bellied Flowerpiercer,0.111604445,28.0,31.0
+Poecile rufescens_Chestnut-backed Chickadee,0.1858976,29.0,32.0
+Poecile rufescens_Chestnut-backed Chickadee,0.26424283,30.0,33.0
+Chaetura vauxi_Vaux's Swift,0.11078107,32.0,35.0
+Chaetura vauxi_Vaux's Swift,0.11055573,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3559595,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.85871536,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.8271652,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.9930796,38.0,41.0
+Setophaga castanea_Bay-breasted Warbler,0.29312518,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.9820571,39.0,42.0
+Setophaga castanea_Bay-breasted Warbler,0.14308715,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.77262646,40.0,43.0
+Setophaga castanea_Bay-breasted Warbler,0.51716286,40.0,43.0
+Dryocopus pileatus_Pileated Woodpecker,0.15876028,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.12251758,46.0,49.0
+Setophaga ruticilla_American Redstart,0.12503958,47.0,50.0
+Setophaga ruticilla_American Redstart,0.2194724,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.26484394,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115745224,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.5515063,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11591629,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.96244586,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.9801666,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.9464761,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.929029,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.7540875,59.0,62.0
+Dryobates villosus_Hairy Woodpecker,0.12677574,60.0,63.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.17530188,62.0,65.0
+Melozone crissalis_California Towhee,0.15224802,63.0,66.0
+Phoenicurus auroreus_Daurian Redstart,0.10218616,63.0,66.0
+Melozone crissalis_California Towhee,0.20290725,66.0,69.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11409831,72.0,75.0
+Geothlypis trichas_Common Yellowthroat,0.1143054,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.13970512,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.9541727,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.9934729,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.9779528,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.97769254,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.9614353,81.0,84.0
+Tamias striatus_Eastern Chipmunk,0.21818787,83.0,86.0
