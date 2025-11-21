@@ -1,0 +1,468 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.96959454,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.9980597,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.9988777,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9243082,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.75445205,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.37010553,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.17703195,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.96914154,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.9956944,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.99839324,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.98677295,11.0,14.0
+Dryocopus pileatus_Pileated Woodpecker,0.7207108,12.0,15.0
+Dryocopus pileatus_Pileated Woodpecker,0.9300411,13.0,16.0
+Cyanocitta cristata_Blue Jay,0.17580567,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.1557585,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.73807436,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.99656963,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.999569,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.99605465,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.8981814,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.9987018,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.99898535,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.9980567,22.0,25.0
+Ficedula albicollis_Collared Flycatcher,0.19911422,23.0,26.0
+Cyanocitta cristata_Blue Jay,0.22699708,24.0,27.0
+Cyanocitta cristata_Blue Jay,0.47794536,25.0,28.0
+Cyanocitta cristata_Blue Jay,0.67689943,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.8767172,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.99695957,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.99265575,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.9887921,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.5575818,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.9947574,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.99870014,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.9984785,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14662682,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.49731335,37.0,40.0
+Contopus virens_Eastern Wood-Pewee,0.243226,39.0,42.0
+Cyanocitta cristata_Blue Jay,0.1670985,39.0,42.0
+Contopus virens_Eastern Wood-Pewee,0.7024893,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.94704,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.9972389,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.99873394,43.0,46.0
+Hylocichla mustelina_Wood Thrush,0.9611129,44.0,47.0
+Hylocichla mustelina_Wood Thrush,0.20903271,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12186758,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.47530088,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.14006674,47.0,50.0
+Protonotaria citrea_Prothonotary Warbler,0.4792291,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1270984,48.0,51.0
+Cyanocitta cristata_Blue Jay,0.19986427,49.0,52.0
+Cyanocitta cristata_Blue Jay,0.23278685,50.0,53.0
+Cyanocitta cristata_Blue Jay,0.24338679,51.0,54.0
+Cyanocitta cristata_Blue Jay,0.29586104,52.0,55.0
+Cyanocitta cristata_Blue Jay,0.21094583,53.0,56.0
+Cyanocitta cristata_Blue Jay,0.31831366,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1360293,55.0,58.0
+Contopus virens_Eastern Wood-Pewee,0.12059501,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12735973,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.11248561,57.0,60.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10092608,58.0,61.0
+Thryothorus ludovicianus_Carolina Wren,0.26205462,59.0,62.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15883431,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.12107292,59.0,62.0
+Thryothorus ludovicianus_Carolina Wren,0.19960727,60.0,63.0
+Limnothlypis swainsonii_Swainson's Warbler,0.108563095,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.11877771,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.90069485,62.0,65.0
+Hylocichla mustelina_Wood Thrush,0.9825049,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.98166144,64.0,67.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14702463,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.87377995,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.68231684,65.0,68.0
+Protonotaria citrea_Prothonotary Warbler,0.11863406,66.0,69.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11281617,67.0,70.0
+Hylocichla mustelina_Wood Thrush,0.9785034,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.99623233,70.0,73.0
+Hylocichla mustelina_Wood Thrush,0.9983681,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.9871963,72.0,75.0
+Geothlypis formosa_Kentucky Warbler,0.16266191,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11768321,73.0,76.0
+Dryocopus pileatus_Pileated Woodpecker,0.90001935,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.7300336,76.0,79.0
+Turdus merula_Eurasian Blackbird,0.12462253,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.99920183,77.0,80.0
+Hylocichla mustelina_Wood Thrush,0.9989133,78.0,81.0
+Hylocichla mustelina_Wood Thrush,0.97929895,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16322023,80.0,83.0
+Protonotaria citrea_Prothonotary Warbler,0.14221275,81.0,84.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12710346,81.0,84.0
+Geothlypis formosa_Kentucky Warbler,0.11881876,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11392979,81.0,84.0
+Protonotaria citrea_Prothonotary Warbler,0.12157775,82.0,85.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11035643,82.0,85.0
+Hylocichla mustelina_Wood Thrush,0.9910733,83.0,86.0
+Hylocichla mustelina_Wood Thrush,0.9992662,84.0,87.0
+Hylocichla mustelina_Wood Thrush,0.99933225,85.0,88.0
+Hylocichla mustelina_Wood Thrush,0.98151326,86.0,89.0
+Hylocichla mustelina_Wood Thrush,0.70031667,87.0,90.0
+Hylocichla mustelina_Wood Thrush,0.99810094,88.0,91.0
+Hylocichla mustelina_Wood Thrush,0.9986468,89.0,92.0
+Hylocichla mustelina_Wood Thrush,0.99723876,90.0,93.0
+Cyanocitta cristata_Blue Jay,0.1597373,91.0,94.0
+Cyanocitta cristata_Blue Jay,0.10413652,92.0,95.0
+Hylocichla mustelina_Wood Thrush,0.75125855,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.9973054,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.99732375,96.0,99.0
+Hylocichla mustelina_Wood Thrush,0.99186933,97.0,100.0
+Cyanocitta cristata_Blue Jay,0.12037812,99.0,102.0
+Hylocichla mustelina_Wood Thrush,0.99476373,100.0,103.0
+Hylocichla mustelina_Wood Thrush,0.9991241,101.0,104.0
+Hylocichla mustelina_Wood Thrush,0.9950681,102.0,105.0
+Hylocichla mustelina_Wood Thrush,0.8186426,103.0,106.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.21278855,104.0,107.0
+Hylocichla mustelina_Wood Thrush,0.13152733,104.0,107.0
+Hylocichla mustelina_Wood Thrush,0.9957279,105.0,108.0
+Hylocichla mustelina_Wood Thrush,0.99832505,106.0,109.0
+Hylocichla mustelina_Wood Thrush,0.9994266,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.22985838,108.0,111.0
+Hylocichla mustelina_Wood Thrush,0.106969774,108.0,111.0
+Hylocichla mustelina_Wood Thrush,0.99384177,109.0,112.0
+Hylocichla mustelina_Wood Thrush,0.99706906,110.0,113.0
+Hylocichla mustelina_Wood Thrush,0.98720455,111.0,114.0
+Hylocichla mustelina_Wood Thrush,0.9876189,112.0,115.0
+Protonotaria citrea_Prothonotary Warbler,0.15050985,113.0,116.0
+Hylocichla mustelina_Wood Thrush,0.16261053,114.0,117.0
+Contopus virens_Eastern Wood-Pewee,0.10877521,115.0,118.0
+Hylocichla mustelina_Wood Thrush,0.15456854,116.0,119.0
+Hylocichla mustelina_Wood Thrush,0.9904935,117.0,120.0
+Hylocichla mustelina_Wood Thrush,0.999086,118.0,121.0
+Hylocichla mustelina_Wood Thrush,0.9985209,119.0,122.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5194158,120.0,123.0
+Hylocichla mustelina_Wood Thrush,0.4596022,120.0,123.0
+Dryocopus pileatus_Pileated Woodpecker,0.9426594,121.0,124.0
+Dryocopus pileatus_Pileated Woodpecker,0.88576734,122.0,125.0
+Hylocichla mustelina_Wood Thrush,0.9958947,123.0,126.0
+Hylocichla mustelina_Wood Thrush,0.99743795,124.0,127.0
+Hylocichla mustelina_Wood Thrush,0.997358,125.0,128.0
+Hylocichla mustelina_Wood Thrush,0.8199825,126.0,129.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4608222,126.0,129.0
+Protonotaria citrea_Prothonotary Warbler,0.19219592,127.0,130.0
+Setophaga dominica_Yellow-throated Warbler,0.13123055,127.0,130.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14090584,128.0,131.0
+Protonotaria citrea_Prothonotary Warbler,0.13799527,128.0,131.0
+Empidonax virescens_Acadian Flycatcher,0.11216184,128.0,131.0
+Contopus virens_Eastern Wood-Pewee,0.10554033,128.0,131.0
+Hylocichla mustelina_Wood Thrush,0.23804049,129.0,132.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.23685922,129.0,132.0
+Melanotis caerulescens_Blue Mockingbird,0.2028974,129.0,132.0
+Hylocichla mustelina_Wood Thrush,0.9971878,130.0,133.0
+Hylocichla mustelina_Wood Thrush,0.99938023,131.0,134.0
+Hylocichla mustelina_Wood Thrush,0.99898654,132.0,135.0
+Hylocichla mustelina_Wood Thrush,0.27516356,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2744202,133.0,136.0
+Protonotaria citrea_Prothonotary Warbler,0.1623193,133.0,136.0
+Geothlypis formosa_Kentucky Warbler,0.13967426,133.0,136.0
+Setophaga ruticilla_American Redstart,0.12491966,133.0,136.0
+Hylocichla mustelina_Wood Thrush,0.6980285,134.0,137.0
+Hylocichla mustelina_Wood Thrush,0.8323019,135.0,138.0
+Hylocichla mustelina_Wood Thrush,0.9985305,136.0,139.0
+Hylocichla mustelina_Wood Thrush,0.9986809,137.0,140.0
+Hylocichla mustelina_Wood Thrush,0.55330634,138.0,141.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19234008,139.0,142.0
+Geothlypis formosa_Kentucky Warbler,0.17358066,139.0,142.0
+Protonotaria citrea_Prothonotary Warbler,0.16457985,139.0,142.0
+Setophaga citrina_Hooded Warbler,0.14333935,139.0,142.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11025315,139.0,142.0
+Empidonax virescens_Acadian Flycatcher,0.10072335,139.0,142.0
+Hylocichla mustelina_Wood Thrush,0.9903412,140.0,143.0
+Hylocichla mustelina_Wood Thrush,0.99873394,141.0,144.0
+Hylocichla mustelina_Wood Thrush,0.9993206,142.0,145.0
+Hylocichla mustelina_Wood Thrush,0.9786478,143.0,146.0
+Geothlypis formosa_Kentucky Warbler,0.113026954,144.0,147.0
+Protonotaria citrea_Prothonotary Warbler,0.103785366,144.0,147.0
+Piranga olivacea_Scarlet Tanager,0.10364807,144.0,147.0
+Geothlypis formosa_Kentucky Warbler,0.17921686,145.0,148.0
+Protonotaria citrea_Prothonotary Warbler,0.14192721,145.0,148.0
+Protonotaria citrea_Prothonotary Warbler,0.13530152,146.0,149.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13028876,146.0,149.0
+Geothlypis formosa_Kentucky Warbler,0.124693625,146.0,149.0
+Hylocichla mustelina_Wood Thrush,0.9939668,147.0,150.0
+Hylocichla mustelina_Wood Thrush,0.9958456,148.0,151.0
+Hylocichla mustelina_Wood Thrush,0.9949511,149.0,152.0
+Hylocichla mustelina_Wood Thrush,0.99290293,150.0,153.0
+Hylocichla mustelina_Wood Thrush,0.45882532,151.0,154.0
+Hylocichla mustelina_Wood Thrush,0.99769247,152.0,155.0
+Hylocichla mustelina_Wood Thrush,0.99811184,153.0,156.0
+Hylocichla mustelina_Wood Thrush,0.99460995,154.0,157.0
+Hylocichla mustelina_Wood Thrush,0.9273402,156.0,159.0
+Hylocichla mustelina_Wood Thrush,0.9993544,157.0,160.0
+Hylocichla mustelina_Wood Thrush,0.9996717,158.0,161.0
+Hylocichla mustelina_Wood Thrush,0.9966864,159.0,162.0
+Hylocichla mustelina_Wood Thrush,0.2924734,160.0,163.0
+Hylocichla mustelina_Wood Thrush,0.989571,161.0,164.0
+Hylocichla mustelina_Wood Thrush,0.99854726,162.0,165.0
+Hylocichla mustelina_Wood Thrush,0.999313,163.0,166.0
+Hylocichla mustelina_Wood Thrush,0.95088416,164.0,167.0
+Hylocichla mustelina_Wood Thrush,0.17917365,165.0,168.0
+Hylocichla mustelina_Wood Thrush,0.9988336,167.0,170.0
+Hylocichla mustelina_Wood Thrush,0.99823207,168.0,171.0
+Hylocichla mustelina_Wood Thrush,0.8042988,169.0,172.0
+Protonotaria citrea_Prothonotary Warbler,0.24589218,170.0,173.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16161224,170.0,173.0
+Geothlypis formosa_Kentucky Warbler,0.120257415,170.0,173.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16666842,172.0,175.0
+Geothlypis formosa_Kentucky Warbler,0.10424268,172.0,175.0
+Protonotaria citrea_Prothonotary Warbler,0.103501745,172.0,175.0
+Hylocichla mustelina_Wood Thrush,0.1121175,174.0,177.0
+Hylocichla mustelina_Wood Thrush,0.96778286,175.0,178.0
+Hylocichla mustelina_Wood Thrush,0.99777764,176.0,179.0
+Hylocichla mustelina_Wood Thrush,0.99718875,177.0,180.0
+Cyanocitta cristata_Blue Jay,0.20665745,179.0,182.0
+Hylocichla mustelina_Wood Thrush,0.5964883,180.0,183.0
+Hylocichla mustelina_Wood Thrush,0.9900941,181.0,184.0
+Hylocichla mustelina_Wood Thrush,0.99642867,182.0,185.0
+Hylocichla mustelina_Wood Thrush,0.9930391,183.0,186.0
+Dryocopus pileatus_Pileated Woodpecker,0.9512866,184.0,187.0
+Hylocichla mustelina_Wood Thrush,0.23979439,185.0,188.0
+Hylocichla mustelina_Wood Thrush,0.9768539,186.0,189.0
+Hylocichla mustelina_Wood Thrush,0.9993926,187.0,190.0
+Hylocichla mustelina_Wood Thrush,0.9980817,188.0,191.0
+Hylocichla mustelina_Wood Thrush,0.9749981,189.0,192.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.12467056,190.0,193.0
+Hylocichla mustelina_Wood Thrush,0.99539423,191.0,194.0
+Hylocichla mustelina_Wood Thrush,0.997471,192.0,195.0
+Hylocichla mustelina_Wood Thrush,0.99617356,193.0,196.0
+Turdus flavipes_Yellow-legged Thrush,0.13056122,194.0,197.0
+Hylocichla mustelina_Wood Thrush,0.97764575,195.0,198.0
+Hylocichla mustelina_Wood Thrush,0.99802655,196.0,199.0
+Hylocichla mustelina_Wood Thrush,0.9992248,197.0,200.0
+Hylocichla mustelina_Wood Thrush,0.9960925,198.0,201.0
+Hylocichla mustelina_Wood Thrush,0.52921915,200.0,203.0
+Cyanocitta cristata_Blue Jay,0.10665165,200.0,203.0
+Procnias tricarunculatus_Three-wattled Bellbird,0.10334663,200.0,203.0
+Hylocichla mustelina_Wood Thrush,0.99302435,201.0,204.0
+Hylocichla mustelina_Wood Thrush,0.9986512,202.0,205.0
+Hylocichla mustelina_Wood Thrush,0.99779296,203.0,206.0
+Contopus virens_Eastern Wood-Pewee,0.1738434,205.0,208.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15065955,205.0,208.0
+Contopus virens_Eastern Wood-Pewee,0.1506404,206.0,209.0
+Hylocichla mustelina_Wood Thrush,0.36923212,207.0,210.0
+Hylocichla mustelina_Wood Thrush,0.9803043,209.0,212.0
+Hylocichla mustelina_Wood Thrush,0.96576905,210.0,213.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1487127,210.0,213.0
+Pipilo erythrophthalmus_Eastern Towhee,0.49837044,211.0,214.0
+Hylocichla mustelina_Wood Thrush,0.13138926,211.0,214.0
+Cyanocitta cristata_Blue Jay,0.21042845,212.0,215.0
+Cyanocitta cristata_Blue Jay,0.23610091,213.0,216.0
+Hylocichla mustelina_Wood Thrush,0.73213434,214.0,217.0
+Hylocichla mustelina_Wood Thrush,0.9932869,215.0,218.0
+Hylocichla mustelina_Wood Thrush,0.9943901,216.0,219.0
+Hylocichla mustelina_Wood Thrush,0.95307267,217.0,220.0
+Hylocichla mustelina_Wood Thrush,0.21650364,218.0,221.0
+Hylocichla mustelina_Wood Thrush,0.12690473,220.0,223.0
+Hylocichla mustelina_Wood Thrush,0.99484056,221.0,224.0
+Hylocichla mustelina_Wood Thrush,0.9996221,222.0,225.0
+Hylocichla mustelina_Wood Thrush,0.99941754,223.0,226.0
+Hylocichla mustelina_Wood Thrush,0.93877816,224.0,227.0
+Contopus virens_Eastern Wood-Pewee,0.39423537,225.0,228.0
+Hylocichla mustelina_Wood Thrush,0.36792657,226.0,229.0
+Hylocichla mustelina_Wood Thrush,0.9983411,227.0,230.0
+Hylocichla mustelina_Wood Thrush,0.9997187,228.0,231.0
+Hylocichla mustelina_Wood Thrush,0.99614245,229.0,232.0
+Hylocichla mustelina_Wood Thrush,0.99545646,233.0,236.0
+Hylocichla mustelina_Wood Thrush,0.99592894,234.0,237.0
+Hylocichla mustelina_Wood Thrush,0.9932545,235.0,238.0
+Cyanocitta cristata_Blue Jay,0.10405923,236.0,239.0
+Cyanocitta cristata_Blue Jay,0.884983,237.0,240.0
+Cyanocitta cristata_Blue Jay,0.5261764,238.0,241.0
+Hylocichla mustelina_Wood Thrush,0.8492945,239.0,242.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13146059,239.0,242.0
+Hylocichla mustelina_Wood Thrush,0.99761,240.0,243.0
+Hylocichla mustelina_Wood Thrush,0.99624664,241.0,244.0
+Hylocichla mustelina_Wood Thrush,0.9926214,242.0,245.0
+Cyanocitta cristata_Blue Jay,0.1811039,243.0,246.0
+Cyanocitta cristata_Blue Jay,0.8199189,244.0,247.0
+Cyanocitta cristata_Blue Jay,0.8608424,245.0,248.0
+Cyanocitta cristata_Blue Jay,0.81921786,246.0,249.0
+Hylocichla mustelina_Wood Thrush,0.99171865,247.0,250.0
+Hylocichla mustelina_Wood Thrush,0.99935585,248.0,251.0
+Hylocichla mustelina_Wood Thrush,0.99897975,249.0,252.0
+Hylocichla mustelina_Wood Thrush,0.4877607,250.0,253.0
+Cyanocitta cristata_Blue Jay,0.73310757,252.0,255.0
+Hylocichla mustelina_Wood Thrush,0.9939731,253.0,256.0
+Hylocichla mustelina_Wood Thrush,0.9972258,254.0,257.0
+Hylocichla mustelina_Wood Thrush,0.9929073,255.0,258.0
+Hylocichla mustelina_Wood Thrush,0.98516613,256.0,259.0
+Protonotaria citrea_Prothonotary Warbler,0.251176,257.0,260.0
+Piranga olivacea_Scarlet Tanager,0.12950534,257.0,260.0
+Hylocichla mustelina_Wood Thrush,0.11761275,258.0,261.0
+Hylocichla mustelina_Wood Thrush,0.9948131,259.0,262.0
+Hylocichla mustelina_Wood Thrush,0.99860954,260.0,263.0
+Hylocichla mustelina_Wood Thrush,0.99777526,261.0,264.0
+Hylocichla mustelina_Wood Thrush,0.29716834,262.0,265.0
+Hylocichla mustelina_Wood Thrush,0.9913026,263.0,266.0
+Hylocichla mustelina_Wood Thrush,0.99955386,264.0,267.0
+Hylocichla mustelina_Wood Thrush,0.998747,265.0,268.0
+Hylocichla mustelina_Wood Thrush,0.96456957,266.0,269.0
+Cyanocitta cristata_Blue Jay,0.68435633,267.0,270.0
+Hylocichla mustelina_Wood Thrush,0.44131476,269.0,272.0
+Hylocichla mustelina_Wood Thrush,0.9746454,270.0,273.0
+Hylocichla mustelina_Wood Thrush,0.9927331,271.0,274.0
+Hylocichla mustelina_Wood Thrush,0.9669385,272.0,275.0
+Piranga olivacea_Scarlet Tanager,0.1501108,274.0,277.0
+Protonotaria citrea_Prothonotary Warbler,0.13091734,275.0,278.0
+Geothlypis formosa_Kentucky Warbler,0.117319226,275.0,278.0
+Piranga olivacea_Scarlet Tanager,0.13430911,276.0,279.0
+Piranga olivacea_Scarlet Tanager,0.12107879,277.0,280.0
+Hylocichla mustelina_Wood Thrush,0.9924792,281.0,284.0
+Hylocichla mustelina_Wood Thrush,0.9993749,282.0,285.0
+Hylocichla mustelina_Wood Thrush,0.9980464,283.0,286.0
+Geokichla sibirica_Siberian Thrush,0.14657512,284.0,287.0
+Cyanocitta cristata_Blue Jay,0.48331743,287.0,290.0
+Cyanocitta cristata_Blue Jay,0.69677156,288.0,291.0
+Cyanocitta cristata_Blue Jay,0.82120407,289.0,292.0
+Hylocichla mustelina_Wood Thrush,0.96580493,290.0,293.0
+Hylocichla mustelina_Wood Thrush,0.99775213,291.0,294.0
+Hylocichla mustelina_Wood Thrush,0.9960502,292.0,295.0
+Hylocichla mustelina_Wood Thrush,0.40941218,293.0,296.0
+Helmitheros vermivorum_Worm-eating Warbler,0.40063593,293.0,296.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.35124633,294.0,297.0
+Hylocichla mustelina_Wood Thrush,0.9948308,295.0,298.0
+Hylocichla mustelina_Wood Thrush,0.99899274,296.0,299.0
+Hylocichla mustelina_Wood Thrush,0.99864966,297.0,300.0
+Hylocichla mustelina_Wood Thrush,0.27135393,298.0,301.0
+Turdus subalaris_Blacksmith Thrush,0.14122471,298.0,301.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.25236174,299.0,302.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.20174095,300.0,303.0
+Cyanocitta cristata_Blue Jay,0.2674847,301.0,304.0
+Cyanocitta cristata_Blue Jay,0.24916275,302.0,305.0
+Hylocichla mustelina_Wood Thrush,0.99243873,303.0,306.0
+Hylocichla mustelina_Wood Thrush,0.9970674,304.0,307.0
+Hylocichla mustelina_Wood Thrush,0.9955929,305.0,308.0
+Hylocichla mustelina_Wood Thrush,0.990131,306.0,309.0
+Protonotaria citrea_Prothonotary Warbler,0.11163275,307.0,310.0
+Geothlypis formosa_Kentucky Warbler,0.10476318,307.0,310.0
+Piranga olivacea_Scarlet Tanager,0.1270247,308.0,311.0
+Hylocichla mustelina_Wood Thrush,0.9976041,310.0,313.0
+Hylocichla mustelina_Wood Thrush,0.9995683,311.0,314.0
+Hylocichla mustelina_Wood Thrush,0.99675614,312.0,315.0
+Hylocichla mustelina_Wood Thrush,0.13862573,313.0,316.0
+Contopus virens_Eastern Wood-Pewee,0.45882192,314.0,317.0
+Hylocichla mustelina_Wood Thrush,0.26572943,315.0,318.0
+Hylocichla mustelina_Wood Thrush,0.99618286,316.0,319.0
+Hylocichla mustelina_Wood Thrush,0.99983704,317.0,320.0
+Hylocichla mustelina_Wood Thrush,0.99919826,318.0,321.0
+Hylocichla mustelina_Wood Thrush,0.21862532,319.0,322.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17241445,320.0,323.0
+Hylocichla mustelina_Wood Thrush,0.16713384,322.0,325.0
+Hylocichla mustelina_Wood Thrush,0.25011075,323.0,326.0
+Hylocichla mustelina_Wood Thrush,0.99890184,324.0,327.0
+Hylocichla mustelina_Wood Thrush,0.99929786,325.0,328.0
+Hylocichla mustelina_Wood Thrush,0.9991715,326.0,329.0
+Hylocichla mustelina_Wood Thrush,0.35498902,327.0,330.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13432454,327.0,330.0
+Dryocopus pileatus_Pileated Woodpecker,0.8297092,328.0,331.0
+Cyanocitta cristata_Blue Jay,0.1327836,328.0,331.0
+Hylocichla mustelina_Wood Thrush,0.98344076,329.0,332.0
+Hylocichla mustelina_Wood Thrush,0.99798054,330.0,333.0
+Hylocichla mustelina_Wood Thrush,0.9979569,331.0,334.0
+Hylocichla mustelina_Wood Thrush,0.9193447,332.0,335.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21873511,332.0,335.0
+Hylocichla mustelina_Wood Thrush,0.99675,333.0,336.0
+Hylocichla mustelina_Wood Thrush,0.9875488,334.0,337.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17571805,334.0,337.0
+Hylocichla mustelina_Wood Thrush,0.9909217,335.0,338.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19989774,335.0,338.0
+Pipilo erythrophthalmus_Eastern Towhee,0.62391746,336.0,339.0
+Hylocichla mustelina_Wood Thrush,0.32844287,336.0,339.0
+Larvivora cyane_Siberian Blue Robin,0.12881671,336.0,339.0
+Hylocichla mustelina_Wood Thrush,0.98533154,337.0,340.0
+Hylocichla mustelina_Wood Thrush,0.9987984,338.0,341.0
+Hylocichla mustelina_Wood Thrush,0.99863476,339.0,342.0
+Hylocichla mustelina_Wood Thrush,0.983724,340.0,343.0
+Hylocichla mustelina_Wood Thrush,0.9029334,341.0,344.0
+Hylocichla mustelina_Wood Thrush,0.9958677,342.0,345.0
+Hylocichla mustelina_Wood Thrush,0.99889696,343.0,346.0
+Hylocichla mustelina_Wood Thrush,0.992762,344.0,347.0
+Hylocichla mustelina_Wood Thrush,0.47398803,345.0,348.0
+Hylocichla mustelina_Wood Thrush,0.40244505,346.0,349.0
+Hylocichla mustelina_Wood Thrush,0.9979735,347.0,350.0
+Hylocichla mustelina_Wood Thrush,0.9974337,348.0,351.0
+Hylocichla mustelina_Wood Thrush,0.9963406,351.0,354.0
+Hylocichla mustelina_Wood Thrush,0.9995627,352.0,355.0
+Hylocichla mustelina_Wood Thrush,0.99940336,353.0,356.0
+Hylocichla mustelina_Wood Thrush,0.7780128,354.0,357.0
+Contopus virens_Eastern Wood-Pewee,0.38038495,355.0,358.0
+Hylocichla mustelina_Wood Thrush,0.10488289,356.0,359.0
+Hylocichla mustelina_Wood Thrush,0.9887438,357.0,360.0
+Hylocichla mustelina_Wood Thrush,0.9865335,358.0,361.0
+Larvivora akahige_Japanese Robin,0.27208373,359.0,362.0
+Hylocichla mustelina_Wood Thrush,0.2239589,359.0,362.0
+Rhynchospiza stolzmanni_Tumbes Sparrow,0.11894443,361.0,364.0
+Hylocichla mustelina_Wood Thrush,0.67898244,363.0,366.0
+Cyanocitta cristata_Blue Jay,0.1577467,364.0,367.0
+Hylocichla mustelina_Wood Thrush,0.24328238,366.0,369.0
+Rhynchospiza stolzmanni_Tumbes Sparrow,0.10698597,367.0,370.0
+Hylocichla mustelina_Wood Thrush,0.107956424,369.0,372.0
+Hylocichla mustelina_Wood Thrush,0.16937259,370.0,373.0
+Cyanocitta cristata_Blue Jay,0.17007312,374.0,377.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11470561,374.0,377.0
+Cyanocitta cristata_Blue Jay,0.53924054,375.0,378.0
+Cyanocitta cristata_Blue Jay,0.14005189,376.0,379.0
+Cyanocitta cristata_Blue Jay,0.65323746,382.0,385.0
+Cyanocitta cristata_Blue Jay,0.15338275,383.0,386.0
+Cyanocitta cristata_Blue Jay,0.17322072,386.0,389.0
+Cyanocitta cristata_Blue Jay,0.15787058,390.0,393.0
+Cyanocitta cristata_Blue Jay,0.4434551,391.0,394.0
+Cyanocitta cristata_Blue Jay,0.47211415,392.0,395.0
+Cyanocitta cristata_Blue Jay,0.14135224,394.0,397.0
+Cyanocitta cristata_Blue Jay,0.26816952,395.0,398.0
+Cyanocitta cristata_Blue Jay,0.62545633,396.0,399.0
+Cyanocitta cristata_Blue Jay,0.3682717,397.0,400.0
+Acrocephalus paludicola_Aquatic Warbler,0.12657616,399.0,402.0
+Hylocichla mustelina_Wood Thrush,0.20617071,407.0,410.0
+Human non-vocal_Human non-vocal,0.16516306,408.0,411.0
+Human non-vocal_Human non-vocal,0.34238943,409.0,412.0
+Engine_Engine,0.15558708,409.0,412.0
+Pterophylla camellifolia_Common True Katydid,0.1325499,418.0,421.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10880804,420.0,423.0
+Gryllus fultoni_Southern Wood Cricket,0.21875553,426.0,429.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.11077102,426.0,429.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.17890391,431.0,434.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.26284203,432.0,435.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.13289121,432.0,435.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.119020976,432.0,435.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.11731392,432.0,435.0
+Pterophylla camellifolia_Common True Katydid,0.115266345,432.0,435.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.11900361,434.0,437.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.18289521,442.0,445.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.10669132,442.0,445.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.1370815,448.0,451.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.13692921,448.0,451.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.11529964,448.0,451.0
+Gryllus rubens_Southeastern Field Cricket,0.10943596,448.0,451.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.1289016,449.0,452.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.33712772,460.0,463.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.20744039,460.0,463.0
+Atlanticus testaceus_Protean Shieldback,0.14273518,460.0,463.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.31868717,461.0,464.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.22951075,461.0,464.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11925233,462.0,465.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.105605274,462.0,465.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.19508074,463.0,466.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.15082249,463.0,466.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.14689925,463.0,466.0
+Atlanticus testaceus_Protean Shieldback,0.109650224,463.0,466.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.10318888,463.0,466.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.10688383,464.0,467.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.17831598,465.0,468.0
+Gryllus rubens_Southeastern Field Cricket,0.17299594,465.0,468.0
+Pterophylla camellifolia_Common True Katydid,0.12671436,465.0,468.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.117289975,465.0,468.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.17450131,466.0,469.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.1595089,466.0,469.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.116027996,466.0,469.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.20706551,469.0,472.0
+Pterophylla camellifolia_Common True Katydid,0.120727606,469.0,472.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11684199,469.0,472.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.20228834,470.0,473.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14318447,470.0,473.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1224626,470.0,473.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.27652553,471.0,474.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10747054,471.0,474.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.1662967,472.0,475.0
+Scudderia furcata_Fork-tailed Bush Katydid,0.111848034,472.0,475.0
+Pterophylla camellifolia_Common True Katydid,0.102507405,473.0,476.0

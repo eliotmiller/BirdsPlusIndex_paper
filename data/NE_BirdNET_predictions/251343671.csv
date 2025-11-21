@@ -1,0 +1,96 @@
+species,score,start_time,end_time
+Catharus guttatus_Hermit Thrush,0.5134604,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.1043985,2.0,5.0
+Setophaga americana_Northern Parula,0.9812352,3.0,6.0
+Setophaga americana_Northern Parula,0.9936454,4.0,7.0
+Setophaga pitiayumi_Tropical Parula,0.17344134,4.0,7.0
+Setophaga americana_Northern Parula,0.98726815,5.0,8.0
+Setophaga pitiayumi_Tropical Parula,0.17468497,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.15957133,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.13392419,9.0,12.0
+Certhia americana_Brown Creeper,0.24134146,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.8463262,11.0,14.0
+Regulus satrapa_Golden-crowned Kinglet,0.6353302,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.1564221,12.0,15.0
+Regulus satrapa_Golden-crowned Kinglet,0.5531907,13.0,16.0
+Arremon brunneinucha_Chestnut-capped Brushfinch,0.49385354,14.0,17.0
+Lepidocolaptes leucogaster_White-striped Woodcreeper,0.22322823,15.0,18.0
+Trogon mexicanus_Mountain Trogon,0.11659291,15.0,18.0
+Catharus guttatus_Hermit Thrush,0.113036245,20.0,23.0
+Regulus satrapa_Golden-crowned Kinglet,0.51578856,27.0,30.0
+Certhia americana_Brown Creeper,0.28814358,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.9053523,28.0,31.0
+Regulus satrapa_Golden-crowned Kinglet,0.8207661,29.0,32.0
+Certhia americana_Brown Creeper,0.11731492,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.96065944,30.0,33.0
+Certhia americana_Brown Creeper,0.31207582,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.7111261,31.0,34.0
+Myadestes unicolor_Slate-colored Solitaire,0.23026489,32.0,35.0
+Setophaga americana_Northern Parula,0.7650634,36.0,39.0
+Setophaga pitiayumi_Tropical Parula,0.10686587,36.0,39.0
+Setophaga americana_Northern Parula,0.9946859,37.0,40.0
+Setophaga pitiayumi_Tropical Parula,0.27221417,37.0,40.0
+Setophaga americana_Northern Parula,0.9678592,38.0,41.0
+Setophaga pitiayumi_Tropical Parula,0.24884267,38.0,41.0
+Setophaga americana_Northern Parula,0.7321525,39.0,42.0
+Setophaga pitiayumi_Tropical Parula,0.5250641,39.0,42.0
+Vermivora cyanoptera_Blue-winged Warbler,0.14926197,39.0,42.0
+Pachyramphus major_Gray-collared Becard,0.119646914,40.0,43.0
+Certhia americana_Brown Creeper,0.10580201,40.0,43.0
+Pachyramphus major_Gray-collared Becard,0.115322776,41.0,44.0
+Pachyramphus major_Gray-collared Becard,0.17264332,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.36685142,46.0,49.0
+Setophaga americana_Northern Parula,0.9245815,47.0,50.0
+Setophaga pitiayumi_Tropical Parula,0.23973693,47.0,50.0
+Setophaga americana_Northern Parula,0.99740183,48.0,51.0
+Setophaga americana_Northern Parula,0.98402876,49.0,52.0
+Setophaga pitiayumi_Tropical Parula,0.105384886,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.49459848,50.0,53.0
+Setophaga ruticilla_American Redstart,0.17014557,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10933895,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.20150903,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1163346,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.103854574,55.0,58.0
+Regulus satrapa_Golden-crowned Kinglet,0.534041,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.13810791,58.0,61.0
+Regulus satrapa_Golden-crowned Kinglet,0.5034748,59.0,62.0
+Certhia americana_Brown Creeper,0.13977659,59.0,62.0
+Spizella passerina_Chipping Sparrow,0.1271772,60.0,63.0
+Setophaga americana_Northern Parula,0.94798785,61.0,64.0
+Setophaga pitiayumi_Tropical Parula,0.17113526,61.0,64.0
+Setophaga americana_Northern Parula,0.98916686,62.0,65.0
+Setophaga pitiayumi_Tropical Parula,0.12595189,62.0,65.0
+Setophaga americana_Northern Parula,0.9877771,63.0,66.0
+Setophaga pitiayumi_Tropical Parula,0.16531411,63.0,66.0
+Myioborus miniatus_Slate-throated Redstart,0.20335771,64.0,67.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11157249,64.0,67.0
+Setophaga ruticilla_American Redstart,0.10202369,64.0,67.0
+Catharus guttatus_Hermit Thrush,0.18997669,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.14511025,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.12106512,71.0,74.0
+Spizella passerina_Chipping Sparrow,0.54742503,72.0,75.0
+Spizella pallida_Clay-colored Sparrow,0.33980075,72.0,75.0
+Spizella breweri_Brewer's Sparrow,0.21535334,72.0,75.0
+Setophaga americana_Northern Parula,0.99429107,73.0,76.0
+Setophaga americana_Northern Parula,0.987661,74.0,77.0
+Setophaga americana_Northern Parula,0.9636602,75.0,78.0
+Catharus guttatus_Hermit Thrush,0.2305747,76.0,79.0
+Catharus guttatus_Hermit Thrush,0.1030922,77.0,80.0
+Catharus guttatus_Hermit Thrush,0.32402244,80.0,83.0
+Catharus guttatus_Hermit Thrush,0.2215164,81.0,84.0
+Colluricincla harmonica_Gray Shrikethrush,0.14976756,83.0,86.0
+Falcunculus frontatus_Crested Shrike-tit,0.109236404,83.0,86.0
+Setophaga virens_Black-throated Green Warbler,0.33942693,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.1359333,85.0,88.0
+Setophaga fusca_Blackburnian Warbler,0.21608041,86.0,89.0
+Setophaga virens_Black-throated Green Warbler,0.18284117,86.0,89.0
+Setophaga fusca_Blackburnian Warbler,0.19290905,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.13103119,88.0,91.0
+Certhia americana_Brown Creeper,0.10533909,88.0,91.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6726496,89.0,92.0
+Spizella passerina_Chipping Sparrow,0.15968783,89.0,92.0
+Setophaga americana_Northern Parula,0.99402493,90.0,93.0
+Setophaga americana_Northern Parula,0.99647576,91.0,94.0
+Setophaga americana_Northern Parula,0.9809902,92.0,95.0
+Setophaga pitiayumi_Tropical Parula,0.2345306,92.0,95.0
+Falcunculus frontatus_Crested Shrike-tit,0.23122202,95.0,97.36802721088435

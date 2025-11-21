@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Acanthis flammea_Common Redpoll,0.3021922,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.13009915,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.103957824,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.13204965,5.0,8.0
+Bombycilla cedrorum_Cedar Waxwing,0.19528103,6.0,9.0
+Bombycilla cedrorum_Cedar Waxwing,0.16319208,7.0,10.0
+Bombycilla cedrorum_Cedar Waxwing,0.25244606,8.0,11.0
+Certhia brachydactyla_Short-toed Treecreeper,0.13135187,15.0,18.0
+Cardinalis sinuatus_Pyrrhuloxia,0.21989532,16.0,19.0
+Cardinalis sinuatus_Pyrrhuloxia,0.82588464,17.0,20.0
+Cardinalis sinuatus_Pyrrhuloxia,0.19166362,18.0,21.0
+Poecile atricapillus_Black-capped Chickadee,0.1663063,19.0,22.0
+Bonasa umbellus_Ruffed Grouse,0.26426896,20.0,23.0
+Poecile atricapillus_Black-capped Chickadee,0.1778267,20.0,23.0
+Dryocopus pileatus_Pileated Woodpecker,0.112910815,20.0,23.0
+Cardinalis sinuatus_Pyrrhuloxia,0.3071974,22.0,25.0
+Cardinalis sinuatus_Pyrrhuloxia,0.6053079,23.0,26.0
+Cardinalis sinuatus_Pyrrhuloxia,0.3469214,24.0,27.0
+Todirostrum poliocephalum_Gray-headed Tody-Flycatcher,0.12529148,24.0,27.0
+Poecile atricapillus_Black-capped Chickadee,0.13717955,25.0,28.0
+Dumetella carolinensis_Gray Catbird,0.15154815,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.18031526,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.18576892,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.19631378,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.7357857,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.7936707,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.43422803,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.45940244,39.0,42.0
+Dumetella carolinensis_Gray Catbird,0.18465701,40.0,43.0
+Dumetella carolinensis_Gray Catbird,0.3042467,41.0,44.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.108966894,41.0,44.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.13748479,42.0,45.0
+Dumetella carolinensis_Gray Catbird,0.28078496,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.17097694,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.10236483,47.0,50.0
+Dryocopus pileatus_Pileated Woodpecker,0.15579008,53.0,56.0
+Coragyps atratus_Black Vulture,0.12463376,53.0,56.0
+Dumetella carolinensis_Gray Catbird,0.18169688,60.0,63.0
+Dumetella carolinensis_Gray Catbird,0.15284793,61.0,64.0
+Columba livia_Rock Pigeon,0.11729174,61.0,64.0
+Cyanocitta cristata_Blue Jay,0.2032501,62.0,65.0
+Cyanocitta cristata_Blue Jay,0.21037772,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.10977129,66.0,69.0
+Cyanocitta cristata_Blue Jay,0.12648955,67.0,70.0
+Cyanocitta cristata_Blue Jay,0.18254489,69.0,72.0
+Cyanocitta cristata_Blue Jay,0.29920998,72.0,75.0
+Cyanocitta cristata_Blue Jay,0.19134071,73.0,76.0
+Buteo platypterus_Broad-winged Hawk,0.20456827,75.0,78.0
+Buteo platypterus_Broad-winged Hawk,0.10934858,76.0,79.0
+Buteo platypterus_Broad-winged Hawk,0.22120881,77.0,80.0
+Buteo platypterus_Broad-winged Hawk,0.13150172,78.0,81.0
+Cyanocitta cristata_Blue Jay,0.30065584,79.0,82.0
+Cyanocitta cristata_Blue Jay,0.13321187,80.0,83.0
+Cyanocitta cristata_Blue Jay,0.13607498,81.0,84.0
+Buteo platypterus_Broad-winged Hawk,0.13120446,81.0,84.0
+Turdus migratorius_American Robin,0.101052985,82.0,85.0
+Buteo platypterus_Broad-winged Hawk,0.1437862,87.0,90.0
+Buteo platypterus_Broad-winged Hawk,0.10271882,88.0,91.0
+Buteo platypterus_Broad-winged Hawk,0.18182282,89.0,92.0
+Buteo platypterus_Broad-winged Hawk,0.18150349,90.0,93.0
+Buteo platypterus_Broad-winged Hawk,0.42518702,91.0,94.0
+Empidonax minimus_Least Flycatcher,0.12338182,92.0,95.0
+Empidonax minimus_Least Flycatcher,0.14827113,94.0,97.0
+Cyanocitta cristata_Blue Jay,0.15454149,95.0,98.0
+Cyanocitta cristata_Blue Jay,0.14772439,96.0,99.0
+Bombycilla cedrorum_Cedar Waxwing,0.13589412,96.0,99.0
+Coccothraustes coccothraustes_Hawfinch,0.13601151,99.0,102.0
+Coccothraustes coccothraustes_Hawfinch,0.17116591,100.0,103.0
+Coccothraustes coccothraustes_Hawfinch,0.30050647,105.0,108.0
+Coccothraustes coccothraustes_Hawfinch,0.21263209,106.0,109.0
+Muscicapa striata_Spotted Flycatcher,0.1443431,107.0,110.0
+Muscicapa striata_Spotted Flycatcher,0.16707721,110.0,113.0
+Melozone crissalis_California Towhee,0.15011197,110.0,113.0
+Coccothraustes coccothraustes_Hawfinch,0.108803645,110.0,113.0
+Muscicapa striata_Spotted Flycatcher,0.27694702,111.0,114.0
+Muscicapa striata_Spotted Flycatcher,0.17670846,112.0,115.0
+Coccothraustes coccothraustes_Hawfinch,0.14544351,112.0,115.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17220385,113.0,116.0
+Bombycilla cedrorum_Cedar Waxwing,0.15233676,118.0,121.0
+Cardinalis sinuatus_Pyrrhuloxia,0.32104513,136.0,139.0
+Engine_Engine,0.7748616,138.0,141.0
+Engine_Engine,0.45142055,139.0,141.07201814058956

@@ -1,0 +1,30 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.97875893,0.0,3.0
+Charadrius vociferus_Killdeer,0.85457855,1.0,4.0
+Charadrius vociferus_Killdeer,0.8342423,2.0,5.0
+Charadrius vociferus_Killdeer,0.49523246,3.0,6.0
+Charadrius vociferus_Killdeer,0.79487675,4.0,7.0
+Charadrius vociferus_Killdeer,0.401929,5.0,8.0
+Zenaida macroura_Mourning Dove,0.3494764,5.0,8.0
+Tringa flavipes_Lesser Yellowlegs,0.10857328,5.0,8.0
+Zenaida macroura_Mourning Dove,0.7616371,6.0,9.0
+Zenaida macroura_Mourning Dove,0.37725604,7.0,10.0
+Zenaida macroura_Mourning Dove,0.20182796,8.0,11.0
+Zenaida macroura_Mourning Dove,0.11380877,9.0,12.0
+Tachycineta bicolor_Tree Swallow,0.74524033,12.0,15.0
+Calidris minutilla_Least Sandpiper,0.10115412,12.0,15.0
+Tachycineta bicolor_Tree Swallow,0.9012922,13.0,16.0
+Tachycineta bicolor_Tree Swallow,0.7960929,14.0,17.0
+Icteria virens_Yellow-breasted Chat,0.4130788,15.0,18.0
+Toxostoma rufum_Brown Thrasher,0.12576395,15.0,18.0
+Ixobrychus exilis_Least Bittern,0.17461753,16.0,19.0
+Ixobrychus exilis_Least Bittern,0.1584592,17.0,20.0
+Ixobrychus exilis_Least Bittern,0.26554427,18.0,21.0
+Ixobrychus exilis_Least Bittern,0.16316986,19.0,22.0
+Poospiza nigrorufa_Black-and-rufous Warbling Finch,0.12008228,29.0,32.0
+Bucorvus leadbeateri_Southern Ground-Hornbill,0.16524816,31.0,34.0
+Strix nebulosa_Great Gray Owl,0.12086597,31.0,34.0
+Columba livia_Rock Pigeon,0.14353853,32.0,35.0
+Strix nebulosa_Great Gray Owl,0.13128442,33.0,36.0
+Columba livia_Rock Pigeon,0.13032377,33.0,36.0
+Bucorvus leadbeateri_Southern Ground-Hornbill,0.18914136,35.0,38.0

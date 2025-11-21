@@ -1,0 +1,98 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.9036371,0.0,3.0
+Falco columbarius_Merlin,0.20615207,0.0,3.0
+Pandion haliaetus_Osprey,0.9841096,1.0,4.0
+Pandion haliaetus_Osprey,0.99719477,2.0,5.0
+Buteogallus anthracinus_Common Black Hawk,0.1416384,2.0,5.0
+Pandion haliaetus_Osprey,0.99876815,3.0,6.0
+Buteogallus anthracinus_Common Black Hawk,0.10987364,3.0,6.0
+Pandion haliaetus_Osprey,0.9986766,4.0,7.0
+Pandion haliaetus_Osprey,0.9770757,5.0,8.0
+Pandion haliaetus_Osprey,0.6917771,6.0,9.0
+Buteogallus anthracinus_Common Black Hawk,0.28742352,6.0,9.0
+Buteogallus anthracinus_Common Black Hawk,0.28654698,7.0,10.0
+Pandion haliaetus_Osprey,0.21099849,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.19798924,8.0,11.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1515812,12.0,15.0
+Pandion haliaetus_Osprey,0.7354792,13.0,16.0
+Tringa melanoleuca_Greater Yellowlegs,0.38940364,13.0,16.0
+Buteogallus anthracinus_Common Black Hawk,0.10007997,13.0,16.0
+Pandion haliaetus_Osprey,0.9899188,14.0,17.0
+Pandion haliaetus_Osprey,0.9973278,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.17664617,15.0,18.0
+Pandion haliaetus_Osprey,0.9986553,16.0,19.0
+Elanoides forficatus_Swallow-tailed Kite,0.13312149,16.0,19.0
+Pandion haliaetus_Osprey,0.9860773,17.0,20.0
+Buteogallus anthracinus_Common Black Hawk,0.585872,17.0,20.0
+Pandion haliaetus_Osprey,0.7667616,18.0,21.0
+Buteogallus anthracinus_Common Black Hawk,0.28558645,18.0,21.0
+Pandion haliaetus_Osprey,0.98829275,19.0,22.0
+Pandion haliaetus_Osprey,0.9979488,20.0,23.0
+Pandion haliaetus_Osprey,0.9983766,21.0,24.0
+Pandion haliaetus_Osprey,0.9957896,22.0,25.0
+Pandion haliaetus_Osprey,0.9825948,23.0,26.0
+Pandion haliaetus_Osprey,0.9960551,24.0,27.0
+Pandion haliaetus_Osprey,0.9909514,25.0,28.0
+Pandion haliaetus_Osprey,0.9724922,26.0,29.0
+Icterus gularis_Altamira Oriole,0.125628,28.0,31.0
+Pandion haliaetus_Osprey,0.988246,29.0,32.0
+Buteogallus anthracinus_Common Black Hawk,0.5305258,29.0,32.0
+Pandion haliaetus_Osprey,0.9977748,30.0,33.0
+Elanoides forficatus_Swallow-tailed Kite,0.26426134,30.0,33.0
+Pandion haliaetus_Osprey,0.99909115,31.0,34.0
+Pandion haliaetus_Osprey,0.95994234,32.0,35.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11760729,46.0,49.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10645459,47.0,50.0
+Pandion haliaetus_Osprey,0.9974189,51.0,54.0
+Buteogallus anthracinus_Common Black Hawk,0.110221766,51.0,54.0
+Pandion haliaetus_Osprey,0.9993654,52.0,55.0
+Pandion haliaetus_Osprey,0.9999232,53.0,56.0
+Pandion haliaetus_Osprey,0.9999484,54.0,57.0
+Pandion haliaetus_Osprey,0.9934256,55.0,58.0
+Parabuteo unicinctus_Harris's Hawk,0.38546053,56.0,59.0
+Pandion haliaetus_Osprey,0.28972426,56.0,59.0
+Buteo jamaicensis_Red-tailed Hawk,0.25316978,56.0,59.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11517435,57.0,60.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.12140491,58.0,61.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.102878205,61.0,64.0
+Pandion haliaetus_Osprey,0.915823,65.0,68.0
+Tringa melanoleuca_Greater Yellowlegs,0.28927392,65.0,68.0
+Buteogallus anthracinus_Common Black Hawk,0.22607191,65.0,68.0
+Pandion haliaetus_Osprey,0.99548316,66.0,69.0
+Buteogallus anthracinus_Common Black Hawk,0.25365323,66.0,69.0
+Pandion haliaetus_Osprey,0.9997229,67.0,70.0
+Pandion haliaetus_Osprey,0.99908304,68.0,71.0
+Pandion haliaetus_Osprey,0.97951907,69.0,72.0
+Pandion haliaetus_Osprey,0.9427609,74.0,77.0
+Buteogallus anthracinus_Common Black Hawk,0.23677194,74.0,77.0
+Haliaeetus leucocephalus_Bald Eagle,0.10633987,74.0,77.0
+Pandion haliaetus_Osprey,0.99983525,75.0,78.0
+Buteogallus anthracinus_Common Black Hawk,0.21308835,75.0,78.0
+Pandion haliaetus_Osprey,0.9998696,76.0,79.0
+Pandion haliaetus_Osprey,0.99974626,77.0,80.0
+Pandion haliaetus_Osprey,0.9852012,78.0,81.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10587548,80.0,83.0
+Pandion haliaetus_Osprey,0.9979182,81.0,84.0
+Buteogallus anthracinus_Common Black Hawk,0.50149363,81.0,84.0
+Pandion haliaetus_Osprey,0.9998092,82.0,85.0
+Buteogallus anthracinus_Common Black Hawk,0.24984102,82.0,85.0
+Pandion haliaetus_Osprey,0.9999473,83.0,86.0
+Pandion haliaetus_Osprey,0.99970776,84.0,87.0
+Pandion haliaetus_Osprey,0.9309836,85.0,88.0
+Pteroglossus castanotis_Chestnut-eared Aracari,0.8363507,86.0,89.0
+Parabuteo unicinctus_Harris's Hawk,0.29544923,86.0,89.0
+Pandion haliaetus_Osprey,0.15945989,86.0,89.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13508667,90.0,93.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11425686,116.0,119.0
+Pandion haliaetus_Osprey,0.5719228,135.0,138.0
+Buteogallus anthracinus_Common Black Hawk,0.1098392,135.0,138.0
+Pandion haliaetus_Osprey,0.9993001,136.0,139.0
+Buteogallus anthracinus_Common Black Hawk,0.11092609,136.0,139.0
+Pandion haliaetus_Osprey,0.99997663,137.0,140.0
+Pandion haliaetus_Osprey,0.9999093,138.0,141.0
+Pandion haliaetus_Osprey,0.9989135,139.0,142.0
+Pandion haliaetus_Osprey,0.97378314,140.0,143.0
+Parabuteo unicinctus_Harris's Hawk,0.61227924,141.0,144.0
+Pandion haliaetus_Osprey,0.26660904,141.0,144.0
+Buteo jamaicensis_Red-tailed Hawk,0.110352516,141.0,144.0
+Strix varia_Barred Owl,0.14686283,152.0,155.0

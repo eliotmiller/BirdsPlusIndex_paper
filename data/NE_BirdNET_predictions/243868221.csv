@@ -1,0 +1,208 @@
+species,score,start_time,end_time
+Thryothorus ludovicianus_Carolina Wren,0.2971267,0.0,3.0
+Icterus spurius_Orchard Oriole,0.10445654,0.0,3.0
+Icterus parisorum_Scott's Oriole,0.13109814,1.0,4.0
+Sturnella neglecta_Western Meadowlark,0.33418792,3.0,6.0
+Spizelloides arborea_American Tree Sparrow,0.17822212,5.0,8.0
+Saltatricula atricollis_Black-throated Saltator,0.18235159,7.0,10.0
+Spizelloides arborea_American Tree Sparrow,0.2715566,12.0,15.0
+Spizelloides arborea_American Tree Sparrow,0.23610371,15.0,18.0
+Spizelloides arborea_American Tree Sparrow,0.80797696,16.0,19.0
+Tringa solitaria_Solitary Sandpiper,0.29190505,16.0,19.0
+Spizelloides arborea_American Tree Sparrow,0.11348746,17.0,20.0
+Icterus spurius_Orchard Oriole,0.2060242,18.0,21.0
+Haemorhous purpureus_Purple Finch,0.10528642,18.0,21.0
+Icterus spurius_Orchard Oriole,0.14503483,19.0,22.0
+Laticilla cinerascens_Swamp Grass Babbler,0.13784902,20.0,23.0
+Thryothorus ludovicianus_Carolina Wren,0.20552467,21.0,24.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.11737172,27.0,30.0
+Toxostoma rufum_Brown Thrasher,0.12513727,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.107308276,28.0,31.0
+Mimus polyglottos_Northern Mockingbird,0.10132469,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.20724566,29.0,32.0
+Mimus polyglottos_Northern Mockingbird,0.10692589,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.29260868,30.0,33.0
+Melanerpes lewis_Lewis's Woodpecker,0.36661044,32.0,35.0
+Dryobates villosus_Hairy Woodpecker,0.106408,32.0,35.0
+Tamiasciurus hudsonicus_Red Squirrel,0.21001588,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.19317669,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.21331756,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.13947615,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.21104635,38.0,41.0
+Toxostoma rufum_Brown Thrasher,0.10164112,38.0,41.0
+Toxostoma rufum_Brown Thrasher,0.63934785,39.0,42.0
+Dumetella carolinensis_Gray Catbird,0.17719486,39.0,42.0
+Sturnella neglecta_Western Meadowlark,0.10921637,41.0,44.0
+Toxostoma rufum_Brown Thrasher,0.11031194,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.13169566,46.0,49.0
+Thryothorus ludovicianus_Carolina Wren,0.26792407,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.1342967,47.0,50.0
+Icterus spurius_Orchard Oriole,0.3206026,48.0,51.0
+Tringa solitaria_Solitary Sandpiper,0.17915243,49.0,52.0
+Oreoscoptes montanus_Sage Thrasher,0.24695131,54.0,57.0
+Oreoscoptes montanus_Sage Thrasher,0.30175683,55.0,58.0
+Sturnella neglecta_Western Meadowlark,0.16463667,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.22520493,56.0,59.0
+Pinicola enucleator_Pine Grosbeak,0.16980593,58.0,61.0
+Melanerpes lewis_Lewis's Woodpecker,0.2552737,73.0,76.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18107574,73.0,76.0
+Dryobates villosus_Hairy Woodpecker,0.17626627,73.0,76.0
+Dryobates villosus_Hairy Woodpecker,0.25632977,74.0,77.0
+Dryobates villosus_Hairy Woodpecker,0.16374967,75.0,78.0
+Sylvia borin_Garden Warbler,0.142182,77.0,80.0
+Sylvia borin_Garden Warbler,0.5110778,79.0,82.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.477799,82.0,85.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.26877156,84.0,87.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.16926797,85.0,88.0
+Ara militaris_Military Macaw,0.13909274,85.0,88.0
+Ortalis wagleri_Rufous-bellied Chachalaca,0.13180842,85.0,88.0
+Carduelis carduelis_European Goldfinch,0.12882906,86.0,89.0
+Sturnella neglecta_Western Meadowlark,0.19590016,88.0,91.0
+Sturnella neglecta_Western Meadowlark,0.13513646,89.0,92.0
+Sturnella neglecta_Western Meadowlark,0.2064488,90.0,93.0
+Sitta pygmaea_Pygmy Nuthatch,0.25340465,92.0,95.0
+Haemorhous purpureus_Purple Finch,0.24261257,99.0,102.0
+Pinicola enucleator_Pine Grosbeak,0.23570174,99.0,102.0
+Turdus unicolor_Tickell's Thrush,0.12815353,99.0,102.0
+Emberiza rustica_Rustic Bunting,0.17855525,103.0,106.0
+Sturnella neglecta_Western Meadowlark,0.14427017,103.0,106.0
+Icterus spurius_Orchard Oriole,0.12075238,103.0,106.0
+Laticilla cinerascens_Swamp Grass Babbler,0.17382681,107.0,110.0
+Dumetella carolinensis_Gray Catbird,0.29146984,110.0,113.0
+Toxostoma rufum_Brown Thrasher,0.12278459,110.0,113.0
+Dumetella carolinensis_Gray Catbird,0.20832542,111.0,114.0
+Cossypha caffra_Cape Robin-Chat,0.15012322,111.0,114.0
+Spizelloides arborea_American Tree Sparrow,0.15523574,114.0,117.0
+Spizelloides arborea_American Tree Sparrow,0.122983485,115.0,118.0
+Pinicola enucleator_Pine Grosbeak,0.18039267,119.0,122.0
+Psephotus haematonotus_Red-rumped Parrot,0.23717284,120.0,123.0
+Toxostoma crissale_Crissal Thrasher,0.1337341,120.0,123.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.35685638,123.0,126.0
+Podilymbus podiceps_Pied-billed Grebe,0.12225768,123.0,126.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.11487158,124.0,127.0
+Pomatostomus superciliosus_White-browed Babbler,0.10520614,128.0,131.0
+Pinicola enucleator_Pine Grosbeak,0.42576277,129.0,132.0
+Pomatostomus superciliosus_White-browed Babbler,0.3746888,129.0,132.0
+Pomatostomus superciliosus_White-browed Babbler,0.15611008,130.0,133.0
+Dumetella carolinensis_Gray Catbird,0.20997751,131.0,134.0
+Dumetella carolinensis_Gray Catbird,0.11920578,132.0,135.0
+Cinclus cinclus_White-throated Dipper,0.16055821,144.0,147.0
+Sylvia borin_Garden Warbler,0.19308242,147.0,150.0
+Sylvia borin_Garden Warbler,0.29646778,152.0,155.0
+Sylvia borin_Garden Warbler,0.42584562,153.0,156.0
+Calliope calliope_Siberian Rubythroat,0.18564704,153.0,156.0
+Calliope calliope_Siberian Rubythroat,0.37114573,156.0,159.0
+Icterus spurius_Orchard Oriole,0.24567358,156.0,159.0
+Dumetella carolinensis_Gray Catbird,0.16032428,156.0,159.0
+Dolichonyx oryzivorus_Bobolink,0.13204639,156.0,159.0
+Thryothorus ludovicianus_Carolina Wren,0.1083279,156.0,159.0
+Icterus spurius_Orchard Oriole,0.23861876,157.0,160.0
+Calliope calliope_Siberian Rubythroat,0.16069874,157.0,160.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.2423206,160.0,163.0
+Sturnella neglecta_Western Meadowlark,0.5380474,162.0,165.0
+Dolichonyx oryzivorus_Bobolink,0.40374896,162.0,165.0
+Sturnella neglecta_Western Meadowlark,0.5385104,163.0,166.0
+Dolichonyx oryzivorus_Bobolink,0.20365638,163.0,166.0
+Dolichonyx oryzivorus_Bobolink,0.41677654,164.0,167.0
+Sturnella neglecta_Western Meadowlark,0.1771876,164.0,167.0
+Spizelloides arborea_American Tree Sparrow,0.12938164,166.0,169.0
+Spizelloides arborea_American Tree Sparrow,0.14519098,167.0,170.0
+Cinclus cinclus_White-throated Dipper,0.12769982,167.0,170.0
+Cinclus cinclus_White-throated Dipper,0.12850817,168.0,171.0
+Toxostoma curvirostre_Curve-billed Thrasher,0.25921297,170.0,173.0
+Toxostoma lecontei_LeConte's Thrasher,0.1137038,173.0,176.0
+Cardinalis sinuatus_Pyrrhuloxia,0.2757536,174.0,177.0
+Oreoscoptes montanus_Sage Thrasher,0.119606204,175.0,178.0
+Sturnella neglecta_Western Meadowlark,0.3211081,176.0,179.0
+Sturnella neglecta_Western Meadowlark,0.5641158,177.0,180.0
+Turdus migratorius_American Robin,0.20611459,183.0,186.0
+Tringa solitaria_Solitary Sandpiper,0.40454733,184.0,187.0
+Podilymbus podiceps_Pied-billed Grebe,0.25910896,184.0,187.0
+Spizelloides arborea_American Tree Sparrow,0.5563703,185.0,188.0
+Tringa solitaria_Solitary Sandpiper,0.13080722,185.0,188.0
+Spizelloides arborea_American Tree Sparrow,0.7030567,186.0,189.0
+Podilymbus podiceps_Pied-billed Grebe,0.16464873,186.0,189.0
+Spizelloides arborea_American Tree Sparrow,0.44633645,187.0,190.0
+Corthylio calendula_Ruby-crowned Kinglet,0.16702493,187.0,190.0
+Thryothorus ludovicianus_Carolina Wren,0.526093,189.0,192.0
+Mimus polyglottos_Northern Mockingbird,0.10690407,189.0,192.0
+Thryothorus ludovicianus_Carolina Wren,0.12631562,190.0,193.0
+Crotophaga sulcirostris_Groove-billed Ani,0.15707727,191.0,194.0
+Crotophaga sulcirostris_Groove-billed Ani,0.12409926,192.0,195.0
+Cardinalis sinuatus_Pyrrhuloxia,0.18752696,197.0,200.0
+Icterus parisorum_Scott's Oriole,0.14073361,197.0,200.0
+Saltatricula atricollis_Black-throated Saltator,0.33725867,202.0,205.0
+Saltatricula atricollis_Black-throated Saltator,0.53599304,203.0,206.0
+Toxostoma curvirostre_Curve-billed Thrasher,0.16112293,205.0,208.0
+Toxostoma lecontei_LeConte's Thrasher,0.12742367,205.0,208.0
+Toxostoma ocellatum_Ocellated Thrasher,0.1333885,206.0,209.0
+Toxostoma curvirostre_Curve-billed Thrasher,0.11862484,206.0,209.0
+Myadestes occidentalis_Brown-backed Solitaire,0.11678145,208.0,211.0
+Icterus spurius_Orchard Oriole,0.1787329,210.0,213.0
+Thryothorus ludovicianus_Carolina Wren,0.10283225,212.0,215.0
+Thryothorus ludovicianus_Carolina Wren,0.52466613,213.0,216.0
+Icterus spurius_Orchard Oriole,0.16655554,213.0,216.0
+Toxostoma redivivum_California Thrasher,0.11063596,214.0,217.0
+Icterus spurius_Orchard Oriole,0.16482043,215.0,218.0
+Acrocephalus australis_Australian Reed Warbler,0.14143188,216.0,219.0
+Melanotis caerulescens_Blue Mockingbird,0.12294229,219.0,222.0
+Melanotis caerulescens_Blue Mockingbird,0.11891502,220.0,223.0
+Dryobates villosus_Hairy Woodpecker,0.28313923,222.0,225.0
+Dryobates villosus_Hairy Woodpecker,0.48429784,223.0,226.0
+Haemorhous cassinii_Cassin's Finch,0.11887746,228.0,231.0
+Tamiasciurus hudsonicus_Red Squirrel,0.37962157,234.0,237.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10583497,235.0,238.0
+Spizelloides arborea_American Tree Sparrow,0.17196795,237.0,240.0
+Forpus modestus_Dusky-billed Parrotlet,0.17819,238.0,241.0
+Spizelloides arborea_American Tree Sparrow,0.10648952,241.0,244.0
+Dumetella carolinensis_Gray Catbird,0.11243392,243.0,246.0
+Dumetella carolinensis_Gray Catbird,0.26071078,244.0,247.0
+Toxostoma rufum_Brown Thrasher,0.2573833,244.0,247.0
+Haemorhous purpureus_Purple Finch,0.4931447,248.0,251.0
+Haemorhous purpureus_Purple Finch,0.58972794,249.0,252.0
+Haemorhous purpureus_Purple Finch,0.28151333,250.0,253.0
+Acrocephalus australis_Australian Reed Warbler,0.17120005,251.0,254.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.123272486,252.0,255.0
+Acrocephalus australis_Australian Reed Warbler,0.28628072,254.0,257.0
+Melanotis caerulescens_Blue Mockingbird,0.11581907,261.0,264.0
+Poecile rufescens_Chestnut-backed Chickadee,0.103783615,261.0,264.0
+Oenanthe leucura_Black Wheatear,0.5904438,266.0,269.0
+Haemorhous purpureus_Purple Finch,0.55268556,267.0,270.0
+Haemorhous purpureus_Purple Finch,0.13232169,268.0,271.0
+Thryothorus ludovicianus_Carolina Wren,0.79381335,276.0,279.0
+Sphenoeacus afer_Cape Grassbird,0.10159795,277.0,280.0
+Dryobates villosus_Hairy Woodpecker,0.14543624,282.0,285.0
+Spizelloides arborea_American Tree Sparrow,0.12529585,284.0,287.0
+Dryobates villosus_Hairy Woodpecker,0.17260143,287.0,290.0
+Spizelloides arborea_American Tree Sparrow,0.107050724,288.0,291.0
+Spizelloides arborea_American Tree Sparrow,0.3801972,290.0,293.0
+Oreoscoptes montanus_Sage Thrasher,0.13157961,293.0,296.0
+Oreoscoptes montanus_Sage Thrasher,0.36051205,294.0,297.0
+Dryobates pubescens_Downy Woodpecker,0.20107737,297.0,300.0
+Sturnella neglecta_Western Meadowlark,0.20523311,301.0,304.0
+Sturnella neglecta_Western Meadowlark,0.4278689,307.0,310.0
+Dryobates pubescens_Downy Woodpecker,0.14292437,308.0,311.0
+Dryobates pubescens_Downy Woodpecker,0.13890265,309.0,312.0
+Dumetella carolinensis_Gray Catbird,0.11773968,311.0,314.0
+Vireo griseus_White-eyed Vireo,0.104177475,315.0,318.0
+Machaeropterus deliciosus_Club-winged Manakin,0.15131932,319.0,322.0
+Calliope calliope_Siberian Rubythroat,0.22279151,320.0,323.0
+Sylvia atricapilla_Eurasian Blackcap,0.10632408,320.0,323.0
+Calliope calliope_Siberian Rubythroat,0.18512583,321.0,324.0
+Sylvia atricapilla_Eurasian Blackcap,0.112016566,321.0,324.0
+Calliope calliope_Siberian Rubythroat,0.2465254,322.0,325.0
+Tamiasciurus hudsonicus_Red Squirrel,0.3426398,331.0,334.0
+Melanerpes lewis_Lewis's Woodpecker,0.33139402,331.0,334.0
+Dryobates villosus_Hairy Woodpecker,0.25876954,331.0,334.0
+Tamiasciurus hudsonicus_Red Squirrel,0.37317768,332.0,335.0
+Melanerpes lewis_Lewis's Woodpecker,0.31733647,332.0,335.0
+Dryobates villosus_Hairy Woodpecker,0.22978282,332.0,335.0
+Melanerpes lewis_Lewis's Woodpecker,0.21838646,333.0,336.0
+Tamiasciurus hudsonicus_Red Squirrel,0.21249989,333.0,336.0
+Trochalopteron lineatum_Streaked Laughingthrush,0.11014149,333.0,336.0
+Dryobates villosus_Hairy Woodpecker,0.10891688,333.0,336.0
+Agapornis roseicollis_Rosy-faced Lovebird,0.28537726,336.0,339.0
+Dryobates villosus_Hairy Woodpecker,0.12923084,346.0,349.0
+Tringa solitaria_Solitary Sandpiper,0.14790185,349.0,352.0
+Tringa solitaria_Solitary Sandpiper,0.316872,350.0,353.0
+Tringa solitaria_Solitary Sandpiper,0.11073007,351.0,354.0

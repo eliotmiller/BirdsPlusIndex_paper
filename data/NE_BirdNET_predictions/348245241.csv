@@ -1,0 +1,150 @@
+species,score,start_time,end_time
+Oriolus oriolus_Eurasian Golden Oriole,0.13877407,0.0,3.0
+Cryptopezus nattereri_Speckle-breasted Antpitta,0.12625225,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.9652263,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.90960515,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.8531832,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.12413861,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.10204599,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.31309095,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.45566773,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.7806977,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.18792239,10.0,13.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.111311935,10.0,13.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.49125975,11.0,14.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.21268667,11.0,14.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.14702548,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.115015365,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.8286112,12.0,15.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.15218303,12.0,15.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.1263996,12.0,15.0
+Catharus guttatus_Hermit Thrush,0.89646006,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.28927445,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.14908235,15.0,18.0
+Columba palumbus_Common Wood-Pigeon,0.21319206,16.0,19.0
+Columba palumbus_Common Wood-Pigeon,0.3467688,17.0,20.0
+Catharus fuscescens_Veery,0.14676602,18.0,21.0
+Catharus fuscescens_Veery,0.6190133,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.35599393,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.32091412,20.0,23.0
+Catharus fuscescens_Veery,0.11034032,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.11937264,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.6107114,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.143059,22.0,25.0
+Catharus guttatus_Hermit Thrush,0.58366555,23.0,26.0
+Catharus fuscescens_Veery,0.1314888,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.9359902,24.0,27.0
+Vireo philadelphicus_Philadelphia Vireo,0.16192959,24.0,27.0
+Vireo philadelphicus_Philadelphia Vireo,0.21465507,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.19039944,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.68831956,26.0,29.0
+Vireo philadelphicus_Philadelphia Vireo,0.5179509,26.0,29.0
+Vireo philadelphicus_Philadelphia Vireo,0.59611166,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.27718177,27.0,30.0
+Catharus fuscescens_Veery,0.11549219,29.0,32.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.13237542,31.0,34.0
+Catharus fuscescens_Veery,0.12584217,31.0,34.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.115938105,31.0,34.0
+Catharus fuscescens_Veery,0.14418426,32.0,35.0
+Catharus guttatus_Hermit Thrush,0.2548835,35.0,38.0
+Catharus guttatus_Hermit Thrush,0.71269405,36.0,39.0
+Catharus guttatus_Hermit Thrush,0.9218748,37.0,40.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.29706416,38.0,41.0
+Catharus guttatus_Hermit Thrush,0.27474478,38.0,41.0
+Piranga ludoviciana_Western Tanager,0.22128023,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.8262311,41.0,44.0
+Piranga ludoviciana_Western Tanager,0.13293295,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.9248511,42.0,45.0
+Piranga ludoviciana_Western Tanager,0.254925,42.0,45.0
+Catharus guttatus_Hermit Thrush,0.79500365,43.0,46.0
+Catharus ustulatus_Swainson's Thrush,0.21833634,43.0,46.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.33276013,44.0,47.0
+Catharus ustulatus_Swainson's Thrush,0.10063253,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.66232276,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.2369673,46.0,49.0
+Myadestes unicolor_Slate-colored Solitaire,0.3520725,47.0,50.0
+Catharus guttatus_Hermit Thrush,0.20876145,47.0,50.0
+Catharus fuscescens_Veery,0.58059615,48.0,51.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.112148285,48.0,51.0
+Catharus fuscescens_Veery,0.61904895,49.0,52.0
+Catharus fuscescens_Veery,0.22969715,50.0,53.0
+Catharus guttatus_Hermit Thrush,0.4534071,52.0,55.0
+Catharus guttatus_Hermit Thrush,0.39149606,53.0,56.0
+Catharus fuscescens_Veery,0.10128282,53.0,56.0
+Catharus guttatus_Hermit Thrush,0.21630855,54.0,57.0
+Catharus ustulatus_Swainson's Thrush,0.16192454,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.28770024,56.0,59.0
+Vireo philadelphicus_Philadelphia Vireo,0.13891508,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.34861186,57.0,60.0
+Vireo philadelphicus_Philadelphia Vireo,0.15640213,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.79807895,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.9443792,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.5710578,60.0,63.0
+Vireo olivaceus_Red-eyed Vireo,0.45513362,61.0,64.0
+Vireo philadelphicus_Philadelphia Vireo,0.11283123,61.0,64.0
+Catharus guttatus_Hermit Thrush,0.26408172,62.0,65.0
+Vireo olivaceus_Red-eyed Vireo,0.20690252,62.0,65.0
+Vireo philadelphicus_Philadelphia Vireo,0.10174623,62.0,65.0
+Vireo olivaceus_Red-eyed Vireo,0.19147593,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.15804027,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.44883612,64.0,67.0
+Catharus fuscescens_Veery,0.1786116,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.15125807,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.1097254,66.0,69.0
+Catharus guttatus_Hermit Thrush,0.11338195,67.0,70.0
+Vireo olivaceus_Red-eyed Vireo,0.21893774,68.0,71.0
+Vireo philadelphicus_Philadelphia Vireo,0.102582596,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.17773832,69.0,72.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.31835794,70.0,73.0
+Vireo olivaceus_Red-eyed Vireo,0.1904959,70.0,73.0
+Catharus guttatus_Hermit Thrush,0.7883593,71.0,74.0
+Catharus guttatus_Hermit Thrush,0.80184275,72.0,75.0
+Catharus guttatus_Hermit Thrush,0.6303602,73.0,76.0
+Vireo olivaceus_Red-eyed Vireo,0.5269935,74.0,77.0
+Vireo olivaceus_Red-eyed Vireo,0.355374,75.0,78.0
+Vireo olivaceus_Red-eyed Vireo,0.28590736,76.0,79.0
+Catharus guttatus_Hermit Thrush,0.10275745,76.0,79.0
+Catharus guttatus_Hermit Thrush,0.5465142,77.0,80.0
+Catharus guttatus_Hermit Thrush,0.91371846,78.0,81.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.16952458,78.0,81.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.14117694,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.14062196,78.0,81.0
+Catharus guttatus_Hermit Thrush,0.6783159,79.0,82.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.22457579,79.0,82.0
+Catharus guttatus_Hermit Thrush,0.22029102,80.0,83.0
+Catharus guttatus_Hermit Thrush,0.90159243,81.0,84.0
+Catharus guttatus_Hermit Thrush,0.96830857,82.0,85.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.69723904,83.0,86.0
+Catharus guttatus_Hermit Thrush,0.36982965,83.0,86.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.46640798,84.0,87.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.41968724,84.0,87.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.4182413,84.0,87.0
+Catharus ustulatus_Swainson's Thrush,0.21356052,84.0,87.0
+Catharus guttatus_Hermit Thrush,0.20731884,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.10933751,87.0,90.0
+Catharus guttatus_Hermit Thrush,0.9093841,90.0,93.0
+Catharus guttatus_Hermit Thrush,0.93831116,91.0,94.0
+Catharus guttatus_Hermit Thrush,0.6897272,92.0,95.0
+Vireo olivaceus_Red-eyed Vireo,0.14072178,92.0,95.0
+Vireo olivaceus_Red-eyed Vireo,0.16011506,93.0,96.0
+Vireo olivaceus_Red-eyed Vireo,0.18979298,94.0,97.0
+Vireo philadelphicus_Philadelphia Vireo,0.11658167,94.0,97.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.38604087,95.0,98.0
+Myadestes ralloides_Andean Solitaire,0.17236958,95.0,98.0
+Myiomela leucura_White-tailed Robin,0.103182025,95.0,98.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.24503416,96.0,99.0
+Catharus guttatus_Hermit Thrush,0.2183475,96.0,99.0
+Catharus frantzii_Ruddy-capped Nightingale-Thrush,0.14948304,96.0,99.0
+Myiomela leucura_White-tailed Robin,0.101807535,96.0,99.0
+Catharus guttatus_Hermit Thrush,0.3021232,97.0,100.0
+Tamiasciurus hudsonicus_Red Squirrel,0.14054383,97.0,100.0
+Vireo olivaceus_Red-eyed Vireo,0.6291636,99.0,102.0
+Vireo philadelphicus_Philadelphia Vireo,0.10415534,99.0,102.0
+Vireo olivaceus_Red-eyed Vireo,0.38104537,100.0,103.0
+Vireo olivaceus_Red-eyed Vireo,0.23737215,101.0,104.0
+Geothlypis philadelphia_Mourning Warbler,0.13977796,102.0,105.0
+Vireo philadelphicus_Philadelphia Vireo,0.13727355,102.0,105.0
+Setophaga fusca_Blackburnian Warbler,0.11027998,102.0,105.0
+Catharus guttatus_Hermit Thrush,0.7077404,104.0,107.0
+Vireo cassinii_Cassin's Vireo,0.17420654,104.0,107.0
+Catharus guttatus_Hermit Thrush,0.45570472,105.0,107.61600907029478

@@ -1,0 +1,35 @@
+species,score,start_time,end_time
+Engine_Engine,0.10249178,1.0,4.0
+Engine_Engine,0.123872556,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.85932624,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.7433912,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.73867726,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.106720135,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.37881795,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.14565447,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.9631048,7.0,10.0
+Vireo flavifrons_Yellow-throated Vireo,0.9816711,8.0,11.0
+Vireo philadelphicus_Philadelphia Vireo,0.20613003,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.13763888,9.0,12.0
+Vireo philadelphicus_Philadelphia Vireo,0.2519435,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.114668675,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.11625243,11.0,14.0
+Vireo philadelphicus_Philadelphia Vireo,0.104424156,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.15858111,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.14117181,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.11086937,17.0,20.0
+Vireo flavifrons_Yellow-throated Vireo,0.59768736,18.0,21.0
+Vireo flavifrons_Yellow-throated Vireo,0.55062294,19.0,22.0
+Turdus ignobilis_Black-billed Thrush,0.13733518,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.57414544,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.13354485,21.0,24.0
+Vireo flavifrons_Yellow-throated Vireo,0.42661095,22.0,25.0
+Vireo flavifrons_Yellow-throated Vireo,0.31937754,23.0,26.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16682789,23.0,26.0
+Vireo flavifrons_Yellow-throated Vireo,0.19325235,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.15466614,25.0,28.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.1640694,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.111899205,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.11659122,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.114723854,31.0,34.0
+Turdus falcklandii_Austral Thrush,0.10892967,34.0,36.93600907029479

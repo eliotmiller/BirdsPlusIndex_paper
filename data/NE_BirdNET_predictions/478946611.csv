@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.47183004,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.40669242,3.0,6.0
+Accipiter fasciatus_Brown Goshawk,0.3919092,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.38328242,4.0,7.0
+Pandion haliaetus_Osprey,0.10635636,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.59619576,5.0,8.0
+Pandion haliaetus_Osprey,0.23799153,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.723659,6.0,9.0
+Pandion haliaetus_Osprey,0.6620304,6.0,9.0
+Hieraaetus pennatus_Booted Eagle,0.11535223,6.0,9.0
+Pardalotus punctatus_Spotted Pardalote,0.14340866,7.0,10.0
+Pandion haliaetus_Osprey,0.12960978,7.0,10.0
+Peucaea aestivalis_Bachman's Sparrow,0.1394496,14.0,17.0
+Pandion haliaetus_Osprey,0.60371286,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.14302495,15.0,18.0
+Pandion haliaetus_Osprey,0.7007986,16.0,19.0
+Haliaeetus leucocephalus_Bald Eagle,0.14640307,16.0,19.0
+Haliaeetus leucocephalus_Bald Eagle,0.45644584,17.0,20.0
+Pandion haliaetus_Osprey,0.42538995,17.0,20.0
+Pandion haliaetus_Osprey,0.6572209,18.0,21.0
+Haliaeetus leucocephalus_Bald Eagle,0.19311298,18.0,21.0
+Corvus ossifragus_Fish Crow,0.12149106,19.0,22.0
+Haliaeetus leucocephalus_Bald Eagle,0.58772045,28.0,31.0
+Haliaeetus leucocephalus_Bald Eagle,0.20650618,29.0,32.0
+Accipiter fasciatus_Brown Goshawk,0.1536511,29.0,32.0
+Haliastur sphenurus_Whistling Kite,0.1068218,29.0,32.0
+Haliaeetus leucocephalus_Bald Eagle,0.44398752,30.0,33.0
+Pandion haliaetus_Osprey,0.37139294,30.0,33.0
+Accipiter fasciatus_Brown Goshawk,0.35489988,30.0,33.0
+Haliastur sphenurus_Whistling Kite,0.14051965,30.0,33.0
+Haliaeetus leucocephalus_Bald Eagle,0.5756073,31.0,34.0
+Accipiter fasciatus_Brown Goshawk,0.19869724,31.0,34.0
+Spizella pusilla_Field Sparrow,0.12663151,43.0,46.0
+Spizella pusilla_Field Sparrow,0.19019991,44.0,47.0
+Spizella pusilla_Field Sparrow,0.14190798,45.0,48.0
+Accipiter fasciatus_Brown Goshawk,0.48264936,53.0,56.0
+Accipiter fasciatus_Brown Goshawk,0.7563528,54.0,57.0
+Elanoides forficatus_Swallow-tailed Kite,0.12601992,54.0,57.0
+Elanoides forficatus_Swallow-tailed Kite,0.6767023,55.0,58.0
+Accipiter fasciatus_Brown Goshawk,0.59723604,55.0,58.0
+Accipiter cirrocephalus_Collared Sparrowhawk,0.19089045,55.0,58.0
+Accipiter superciliosus_Tiny Hawk,0.1549446,55.0,58.0
+Elanoides forficatus_Swallow-tailed Kite,0.6365244,56.0,59.0
+Accipiter fasciatus_Brown Goshawk,0.2585792,56.0,59.0
+Accipiter fasciatus_Brown Goshawk,0.21416914,57.0,60.0
+Accipiter cirrocephalus_Collared Sparrowhawk,0.13011087,57.0,60.0
+Accipiter fasciatus_Brown Goshawk,0.2587771,63.0,66.0
+Buteogallus anthracinus_Common Black Hawk,0.2358392,63.0,66.0
+Elanoides forficatus_Swallow-tailed Kite,0.18864241,63.0,66.0
+Pandion haliaetus_Osprey,0.16007204,63.0,66.0
+Pandion haliaetus_Osprey,0.38060462,64.0,67.0
+Accipiter fasciatus_Brown Goshawk,0.14170046,64.0,67.0
+Buteogallus anthracinus_Common Black Hawk,0.11899864,64.0,67.0
+Elanoides forficatus_Swallow-tailed Kite,0.3962719,65.0,68.0
+Pandion haliaetus_Osprey,0.13899466,65.0,68.0
+Accipiter superciliosus_Tiny Hawk,0.108108334,65.0,68.0
+Pandion haliaetus_Osprey,0.3415131,66.0,69.0
+Accipiter fasciatus_Brown Goshawk,0.17025055,66.0,69.0
+Pandion haliaetus_Osprey,0.52885824,67.0,70.0
+Pandion haliaetus_Osprey,0.1793927,68.0,71.0
+Accipiter fasciatus_Brown Goshawk,0.11722018,68.0,71.0
+Pandion haliaetus_Osprey,0.3076164,69.0,72.0
+Haliaeetus leucocephalus_Bald Eagle,0.1451315,69.0,72.0
+Accipiter fasciatus_Brown Goshawk,0.11671651,69.0,72.0
+Haliaeetus leucocephalus_Bald Eagle,0.33767888,70.0,73.0
+Grus grus_Common Crane,0.2092411,71.0,74.0
+Megascops asio_Eastern Screech-Owl,0.10393105,71.0,74.0
+Pardalotus punctatus_Spotted Pardalote,0.40321195,78.0,81.0
+Melospiza melodia_Song Sparrow,0.24258731,79.0,82.0
+Geopelia placida_Peaceful Dove,0.41339582,85.0,88.0
+Melospiza melodia_Song Sparrow,0.14380282,89.0,92.0
+Melospiza melodia_Song Sparrow,0.10110962,90.0,93.0

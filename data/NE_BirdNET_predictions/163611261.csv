@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Chordeiles minor_Common Nighthawk,0.26290742,1.0,4.0
+Chordeiles minor_Common Nighthawk,0.8206051,3.0,6.0
+Melospiza melodia_Song Sparrow,0.49634936,4.0,7.0
+Melospiza melodia_Song Sparrow,0.98295397,5.0,8.0
+Melospiza melodia_Song Sparrow,0.99181247,6.0,9.0
+Melospiza melodia_Song Sparrow,0.8626441,7.0,10.0
+Passerculus sandwichensis_Savannah Sparrow,0.21079497,8.0,11.0
+Melospiza melodia_Song Sparrow,0.15957718,8.0,11.0
+Pooecetes gramineus_Vesper Sparrow,0.10412536,9.0,12.0
+Chordeiles minor_Common Nighthawk,0.7579998,10.0,13.0
+Charadrius wilsonia_Wilson's Plover,0.3029006,10.0,13.0
+Sturnus vulgaris_European Starling,0.2490806,10.0,13.0
+Chordeiles minor_Common Nighthawk,0.16062085,11.0,14.0
+Sturnus vulgaris_European Starling,0.11714912,11.0,14.0
+Chordeiles minor_Common Nighthawk,0.15482748,12.0,15.0
+Sturnus vulgaris_European Starling,0.11932852,12.0,15.0
+Chordeiles minor_Common Nighthawk,0.12334244,13.0,16.0
+Chordeiles minor_Common Nighthawk,0.42197245,14.0,17.0
+Charadrius wilsonia_Wilson's Plover,0.32248783,14.0,17.0
+Charadrius wilsonia_Wilson's Plover,0.4487868,15.0,18.0
+Chordeiles minor_Common Nighthawk,0.42037818,15.0,18.0
+Charadrius wilsonia_Wilson's Plover,0.15666163,16.0,19.0
+Sturnus vulgaris_European Starling,0.10349329,16.0,19.0
+Sturnus vulgaris_European Starling,0.512117,17.0,20.0
+Charadrius wilsonia_Wilson's Plover,0.17380852,17.0,20.0
+Sturnus vulgaris_European Starling,0.27209803,18.0,21.0
+Melospiza melodia_Song Sparrow,0.55489284,19.0,22.0
+Melospiza melodia_Song Sparrow,0.98726976,20.0,23.0
+Melospiza melodia_Song Sparrow,0.9852696,21.0,24.0
+Melospiza melodia_Song Sparrow,0.83913404,22.0,25.0
+Passerculus sandwichensis_Savannah Sparrow,0.15064476,22.0,25.0
+Passerculus sandwichensis_Savannah Sparrow,0.16890916,23.0,26.0
+Engine_Engine,0.12355006,28.0,31.0
+Engine_Engine,0.19802304,29.0,32.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12079389,32.0,35.0
+Melospiza melodia_Song Sparrow,0.28449506,36.0,39.0
+Melospiza melodia_Song Sparrow,0.97930896,37.0,40.0
+Melospiza melodia_Song Sparrow,0.9842153,38.0,41.0
+Melospiza melodia_Song Sparrow,0.8875204,39.0,42.0
+Passerculus sandwichensis_Savannah Sparrow,0.10537311,39.0,42.0
+Passerculus sandwichensis_Savannah Sparrow,0.4833425,40.0,43.0
+Melospiza melodia_Song Sparrow,0.123563215,40.0,43.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1414244,42.0,45.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22681639,43.0,46.0
+Centronyx henslowii_Henslow's Sparrow,0.14444818,43.0,46.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12028542,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.13315967,45.0,48.0
+Apus melba_Alpine Swift,0.18326451,47.0,50.0
+Apus melba_Alpine Swift,0.19290617,49.0,52.0
+Chlidonias hybrida_Whiskered Tern,0.1023555,49.0,52.0
+Chlidonias hybrida_Whiskered Tern,0.45531693,50.0,53.0
+Melospiza melodia_Song Sparrow,0.96824026,52.0,55.0
+Melospiza melodia_Song Sparrow,0.99261403,53.0,56.0
+Melospiza melodia_Song Sparrow,0.94002664,54.0,57.0
+Melospiza melodia_Song Sparrow,0.72739846,55.0,58.0
+Melospiza melodia_Song Sparrow,0.10586993,56.0,59.0
+Pandion haliaetus_Osprey,0.11461038,61.0,64.0
+Icterus galbula_Baltimore Oriole,0.13814864,62.0,65.0
+Anthus peruvianus_Peruvian Pipit,0.107856244,65.0,68.0
+Anthus peruvianus_Peruvian Pipit,0.2621248,66.0,69.0
+Melospiza melodia_Song Sparrow,0.9116001,67.0,70.0
+Melospiza melodia_Song Sparrow,0.9743814,68.0,71.0
+Melospiza melodia_Song Sparrow,0.95461667,69.0,72.0
+Melospiza melodia_Song Sparrow,0.6775507,70.0,73.0
+Passerculus sandwichensis_Savannah Sparrow,0.10730745,70.0,73.0
+Spizella breweri_Brewer's Sparrow,0.15196894,71.0,74.0
+Centronyx henslowii_Henslow's Sparrow,0.15200147,72.0,75.0
+Dolichonyx oryzivorus_Bobolink,0.17663604,73.0,76.0
+Dolichonyx oryzivorus_Bobolink,0.16777238,75.0,78.0
+Centronyx henslowii_Henslow's Sparrow,0.14884654,75.0,78.0
+Bucephala albeola_Bufflehead,0.21894701,82.0,85.0
+Bucephala albeola_Bufflehead,0.16025165,83.0,86.0
+Bucephala albeola_Bufflehead,0.16262192,84.0,87.0
+Bucephala albeola_Bufflehead,0.31599906,85.0,88.0
+Eudocimus albus_White Ibis,0.11425272,86.0,89.0
+Bucephala albeola_Bufflehead,0.1424568,87.0,90.0

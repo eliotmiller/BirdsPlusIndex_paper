@@ -1,0 +1,398 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.9945374,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.9918053,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.27254602,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105423845,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.40360582,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.19474155,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.89518046,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.99597317,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.98619324,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.43892434,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.43569082,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.1386701,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.1480494,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.9799125,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.991907,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.98851305,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.38307714,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.14640184,15.0,18.0
+Setophaga pinus_Pine Warbler,0.13869894,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.30033186,16.0,19.0
+Setophaga pinus_Pine Warbler,0.34107447,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12728249,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.12487228,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12001092,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.11894081,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.11506888,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.94792217,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.9841046,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.9854997,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.5960107,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.20967622,22.0,25.0
+Limnothlypis swainsonii_Swainson's Warbler,0.110260755,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2906414,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.16740124,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15615724,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.13466635,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.12803607,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1552514,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.15221453,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.9747352,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.97947675,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.9560537,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.19611746,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104423665,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29911834,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.2573079,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.109707035,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.31030017,31.0,34.0
+Setophaga pinus_Pine Warbler,0.11820948,31.0,34.0
+Setophaga pinus_Pine Warbler,0.46312055,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15932776,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10029093,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3077295,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.9181574,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.11250553,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.99409086,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.99336195,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.9928531,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1372665,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.13531736,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.10025129,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18209326,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13320453,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.119248755,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.103335105,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21452136,42.0,45.0
+Protonotaria citrea_Prothonotary Warbler,0.10126325,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.9533936,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.99070686,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.97477007,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.52544594,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.33974454,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.15922184,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.24255188,48.0,51.0
+Protonotaria citrea_Prothonotary Warbler,0.10853841,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12786007,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106456175,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.97223896,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.942119,51.0,54.0
+Setophaga citrina_Hooded Warbler,0.96984607,52.0,55.0
+Setophaga citrina_Hooded Warbler,0.4887364,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16945492,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.16357124,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2129539,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.17899963,55.0,58.0
+Setophaga citrina_Hooded Warbler,0.75050867,56.0,59.0
+Vireo hypochryseus_Golden Vireo,0.10896195,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.98978686,57.0,60.0
+Setophaga citrina_Hooded Warbler,0.9950689,58.0,61.0
+Setophaga citrina_Hooded Warbler,0.99482864,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.13213113,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12880512,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104943655,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23996307,61.0,64.0
+Setophaga cerulea_Cerulean Warbler,0.21887207,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1156522,61.0,64.0
+Empidonax virescens_Acadian Flycatcher,0.11507512,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20382491,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.1897933,62.0,65.0
+Empidonax virescens_Acadian Flycatcher,0.105203174,62.0,65.0
+Setophaga citrina_Hooded Warbler,0.98023844,63.0,66.0
+Setophaga citrina_Hooded Warbler,0.99384093,64.0,67.0
+Setophaga citrina_Hooded Warbler,0.989668,65.0,68.0
+Setophaga citrina_Hooded Warbler,0.75770086,66.0,69.0
+Limnothlypis swainsonii_Swainson's Warbler,0.30858618,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.24726495,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18156281,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14081448,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.12129096,67.0,70.0
+Empidonax virescens_Acadian Flycatcher,0.113634154,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.432268,68.0,71.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14014816,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.3025071,69.0,72.0
+Setophaga citrina_Hooded Warbler,0.25811893,70.0,73.0
+Setophaga citrina_Hooded Warbler,0.94557637,71.0,74.0
+Setophaga citrina_Hooded Warbler,0.9863679,72.0,75.0
+Setophaga citrina_Hooded Warbler,0.9933123,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12334578,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1081198,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.62368727,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.1913451,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11078817,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.24459721,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13927788,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13916716,76.0,79.0
+Setophaga fusca_Blackburnian Warbler,0.11138733,76.0,79.0
+Empidonax virescens_Acadian Flycatcher,0.10732139,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.7877337,77.0,80.0
+Setophaga citrina_Hooded Warbler,0.9881328,78.0,81.0
+Setophaga citrina_Hooded Warbler,0.9851385,79.0,82.0
+Setophaga citrina_Hooded Warbler,0.9814509,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14006251,81.0,84.0
+Setophaga virens_Black-throated Green Warbler,0.13099253,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.128818,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17569152,82.0,85.0
+Setophaga cerulea_Cerulean Warbler,0.14534904,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.10628063,82.0,85.0
+Empidonax virescens_Acadian Flycatcher,0.10011685,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103685014,83.0,86.0
+Setophaga cerulea_Cerulean Warbler,0.10344722,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10170804,83.0,86.0
+Setophaga citrina_Hooded Warbler,0.98620856,84.0,87.0
+Setophaga citrina_Hooded Warbler,0.98402554,85.0,88.0
+Setophaga citrina_Hooded Warbler,0.9855538,86.0,89.0
+Geothlypis formosa_Kentucky Warbler,0.36761484,87.0,90.0
+Setophaga citrina_Hooded Warbler,0.28656805,87.0,90.0
+Limnothlypis swainsonii_Swainson's Warbler,0.128709,87.0,90.0
+Setophaga cerulea_Cerulean Warbler,0.21047936,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.258644,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.36468077,90.0,93.0
+Setophaga citrina_Hooded Warbler,0.83398896,91.0,94.0
+Setophaga citrina_Hooded Warbler,0.98027545,92.0,95.0
+Setophaga citrina_Hooded Warbler,0.9931211,93.0,96.0
+Setophaga citrina_Hooded Warbler,0.96145254,94.0,97.0
+Setophaga cerulea_Cerulean Warbler,0.17281207,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105243064,95.0,98.0
+Setophaga cerulea_Cerulean Warbler,0.19428706,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16202831,96.0,99.0
+Empidonax virescens_Acadian Flycatcher,0.10607828,96.0,99.0
+Setophaga cerulea_Cerulean Warbler,0.20763487,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18405308,97.0,100.0
+Empidonax virescens_Acadian Flycatcher,0.11741055,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103825934,97.0,100.0
+Setophaga citrina_Hooded Warbler,0.9322807,98.0,101.0
+Setophaga citrina_Hooded Warbler,0.98206466,99.0,102.0
+Setophaga citrina_Hooded Warbler,0.9814433,100.0,103.0
+Setophaga citrina_Hooded Warbler,0.7388417,101.0,104.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25316358,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20335163,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12199718,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.10360568,102.0,105.0
+Setophaga cerulea_Cerulean Warbler,0.21140999,103.0,106.0
+Empidonax virescens_Acadian Flycatcher,0.18342921,103.0,106.0
+Setophaga citrina_Hooded Warbler,0.15209292,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15056026,103.0,106.0
+Limnothlypis swainsonii_Swainson's Warbler,0.118827805,103.0,106.0
+Geothlypis formosa_Kentucky Warbler,0.10054401,103.0,106.0
+Setophaga citrina_Hooded Warbler,0.12586302,104.0,107.0
+Setophaga citrina_Hooded Warbler,0.9767194,105.0,108.0
+Setophaga citrina_Hooded Warbler,0.9877214,106.0,109.0
+Setophaga citrina_Hooded Warbler,0.98543525,107.0,110.0
+Geothlypis formosa_Kentucky Warbler,0.24083816,108.0,111.0
+Setophaga citrina_Hooded Warbler,0.21993975,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.29512504,109.0,112.0
+Setophaga fusca_Blackburnian Warbler,0.11729977,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.20497076,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.28108874,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14056225,111.0,114.0
+Seiurus aurocapilla_Ovenbird,0.2593283,112.0,115.0
+Setophaga cerulea_Cerulean Warbler,0.15372616,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111073695,112.0,115.0
+Helmitheros vermivorum_Worm-eating Warbler,0.101531036,112.0,115.0
+Setophaga citrina_Hooded Warbler,0.75770885,113.0,116.0
+Setophaga citrina_Hooded Warbler,0.9943988,114.0,117.0
+Setophaga citrina_Hooded Warbler,0.9894846,115.0,118.0
+Setophaga citrina_Hooded Warbler,0.9918996,116.0,119.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16133028,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.1442401,117.0,120.0
+Setophaga citrina_Hooded Warbler,0.12848,117.0,120.0
+Empidonax virescens_Acadian Flycatcher,0.12011298,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11699804,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10806728,118.0,121.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14594707,119.0,122.0
+Setophaga cerulea_Cerulean Warbler,0.11517702,119.0,122.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1312295,120.0,123.0
+Setophaga citrina_Hooded Warbler,0.8087797,121.0,124.0
+Setophaga citrina_Hooded Warbler,0.972815,122.0,125.0
+Setophaga citrina_Hooded Warbler,0.99007285,123.0,126.0
+Setophaga citrina_Hooded Warbler,0.98989433,124.0,127.0
+Setophaga cerulea_Cerulean Warbler,0.20728159,127.0,130.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1053187,127.0,130.0
+Empidonax virescens_Acadian Flycatcher,0.10090726,127.0,130.0
+Setophaga cerulea_Cerulean Warbler,0.16188267,128.0,131.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12166685,128.0,131.0
+Setophaga citrina_Hooded Warbler,0.51242965,129.0,132.0
+Setophaga citrina_Hooded Warbler,0.99171233,130.0,133.0
+Setophaga citrina_Hooded Warbler,0.981639,131.0,134.0
+Setophaga citrina_Hooded Warbler,0.93887085,132.0,135.0
+Setophaga cerulea_Cerulean Warbler,0.25962153,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121670336,133.0,136.0
+Setophaga cerulea_Cerulean Warbler,0.25025207,134.0,137.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14424942,134.0,137.0
+Protonotaria citrea_Prothonotary Warbler,0.120089255,134.0,137.0
+Empidonax virescens_Acadian Flycatcher,0.11002612,134.0,137.0
+Setophaga cerulea_Cerulean Warbler,0.23064575,135.0,138.0
+Protonotaria citrea_Prothonotary Warbler,0.1214104,135.0,138.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10703773,135.0,138.0
+Setophaga citrina_Hooded Warbler,0.9284843,136.0,139.0
+Setophaga citrina_Hooded Warbler,0.9811384,137.0,140.0
+Setophaga citrina_Hooded Warbler,0.9741125,138.0,141.0
+Setophaga citrina_Hooded Warbler,0.5768638,139.0,142.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13330746,139.0,142.0
+Setophaga cerulea_Cerulean Warbler,0.2878222,140.0,143.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19671597,140.0,143.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4876923,141.0,144.0
+Setophaga cerulea_Cerulean Warbler,0.2658988,141.0,144.0
+Protonotaria citrea_Prothonotary Warbler,0.11234428,141.0,144.0
+Setophaga cerulea_Cerulean Warbler,0.32225516,142.0,145.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29916683,142.0,145.0
+Protonotaria citrea_Prothonotary Warbler,0.10116001,142.0,145.0
+Hylophilus thoracicus_Lemon-chested Greenlet,0.33764365,143.0,146.0
+Setophaga citrina_Hooded Warbler,0.17713793,143.0,146.0
+Setophaga citrina_Hooded Warbler,0.9949557,144.0,147.0
+Setophaga citrina_Hooded Warbler,0.9914806,145.0,148.0
+Setophaga citrina_Hooded Warbler,0.94051147,146.0,149.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28116044,147.0,150.0
+Setophaga cerulea_Cerulean Warbler,0.15622033,147.0,150.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26502433,148.0,151.0
+Setophaga cerulea_Cerulean Warbler,0.14304647,148.0,151.0
+Setophaga citrina_Hooded Warbler,0.91061044,149.0,152.0
+Setophaga citrina_Hooded Warbler,0.9743746,150.0,153.0
+Setophaga citrina_Hooded Warbler,0.9932862,151.0,154.0
+Setophaga citrina_Hooded Warbler,0.9924569,152.0,155.0
+Geothlypis formosa_Kentucky Warbler,0.11643408,153.0,156.0
+Setophaga cerulea_Cerulean Warbler,0.111138456,153.0,156.0
+Setophaga cerulea_Cerulean Warbler,0.21152283,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15294173,154.0,157.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2812343,155.0,158.0
+Setophaga cerulea_Cerulean Warbler,0.16601734,155.0,158.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28295118,156.0,159.0
+Protonotaria citrea_Prothonotary Warbler,0.20502673,156.0,159.0
+Setophaga cerulea_Cerulean Warbler,0.18374214,156.0,159.0
+Geothlypis formosa_Kentucky Warbler,0.13642587,156.0,159.0
+Setophaga citrina_Hooded Warbler,0.45902005,157.0,160.0
+Setophaga citrina_Hooded Warbler,0.9905862,158.0,161.0
+Setophaga citrina_Hooded Warbler,0.9920888,159.0,162.0
+Setophaga citrina_Hooded Warbler,0.987899,160.0,163.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41382816,161.0,164.0
+Setophaga cerulea_Cerulean Warbler,0.1710316,161.0,164.0
+Protonotaria citrea_Prothonotary Warbler,0.110812835,161.0,164.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4233687,162.0,165.0
+Setophaga cerulea_Cerulean Warbler,0.12216205,162.0,165.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3344422,163.0,166.0
+Protonotaria citrea_Prothonotary Warbler,0.14316286,163.0,166.0
+Setophaga cerulea_Cerulean Warbler,0.103030354,163.0,166.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20024763,164.0,167.0
+Piranga olivacea_Scarlet Tanager,0.25206205,165.0,168.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1223586,165.0,168.0
+Protonotaria citrea_Prothonotary Warbler,0.12136223,165.0,168.0
+Empidonax virescens_Acadian Flycatcher,0.12038414,165.0,168.0
+Setophaga virens_Black-throated Green Warbler,0.11054919,165.0,168.0
+Setophaga cerulea_Cerulean Warbler,0.104688175,165.0,168.0
+Piranga olivacea_Scarlet Tanager,0.16964756,166.0,169.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12136816,166.0,169.0
+Protonotaria citrea_Prothonotary Warbler,0.11294043,166.0,169.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17731178,167.0,170.0
+Empidonax virescens_Acadian Flycatcher,0.123998195,167.0,170.0
+Setophaga cerulea_Cerulean Warbler,0.12198191,167.0,170.0
+Protonotaria citrea_Prothonotary Warbler,0.11203841,167.0,170.0
+Helmitheros vermivorum_Worm-eating Warbler,0.767676,168.0,171.0
+Setophaga cerulea_Cerulean Warbler,0.12810723,168.0,171.0
+Helmitheros vermivorum_Worm-eating Warbler,0.49228296,169.0,172.0
+Setophaga cerulea_Cerulean Warbler,0.19736305,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14311156,169.0,172.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31421298,170.0,173.0
+Setophaga cerulea_Cerulean Warbler,0.16626208,170.0,173.0
+Setophaga citrina_Hooded Warbler,0.9812713,171.0,174.0
+Setophaga citrina_Hooded Warbler,0.99316484,172.0,175.0
+Setophaga citrina_Hooded Warbler,0.99363285,173.0,176.0
+Setophaga citrina_Hooded Warbler,0.35743776,174.0,177.0
+Geothlypis formosa_Kentucky Warbler,0.3493026,174.0,177.0
+Empidonax virescens_Acadian Flycatcher,0.11405921,174.0,177.0
+Empidonax virescens_Acadian Flycatcher,0.14980592,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13761187,175.0,178.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12980945,175.0,178.0
+Setophaga cerulea_Cerulean Warbler,0.11288968,175.0,178.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14689058,176.0,179.0
+Empidonax virescens_Acadian Flycatcher,0.13722102,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13565014,176.0,179.0
+Setophaga citrina_Hooded Warbler,0.13346502,176.0,179.0
+Helmitheros vermivorum_Worm-eating Warbler,0.48550513,177.0,180.0
+Setophaga citrina_Hooded Warbler,0.6867466,178.0,181.0
+Setophaga citrina_Hooded Warbler,0.99035597,179.0,182.0
+Setophaga citrina_Hooded Warbler,0.9913538,180.0,183.0
+Setophaga citrina_Hooded Warbler,0.98974216,181.0,184.0
+Seiurus aurocapilla_Ovenbird,0.1307025,182.0,185.0
+Setophaga cerulea_Cerulean Warbler,0.1224011,182.0,185.0
+Seiurus aurocapilla_Ovenbird,0.15226732,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13890678,183.0,186.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12826183,183.0,186.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14975514,184.0,187.0
+Empidonax virescens_Acadian Flycatcher,0.10930997,184.0,187.0
+Setophaga cerulea_Cerulean Warbler,0.10403549,184.0,187.0
+Setophaga citrina_Hooded Warbler,0.48846406,185.0,188.0
+Setophaga citrina_Hooded Warbler,0.9809818,186.0,189.0
+Setophaga citrina_Hooded Warbler,0.99218553,187.0,190.0
+Setophaga citrina_Hooded Warbler,0.9933102,188.0,191.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33476195,189.0,192.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3197199,190.0,193.0
+Setophaga cerulea_Cerulean Warbler,0.22268812,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.119432256,190.0,193.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11726235,190.0,193.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17233972,191.0,194.0
+Setophaga cerulea_Cerulean Warbler,0.14604351,191.0,194.0
+Empidonax virescens_Acadian Flycatcher,0.119782664,191.0,194.0
+Setophaga cerulea_Cerulean Warbler,0.1808992,192.0,195.0
+Piranga olivacea_Scarlet Tanager,0.12944278,192.0,195.0
+Hylophilus thoracicus_Lemon-chested Greenlet,0.32618967,193.0,196.0
+Setophaga citrina_Hooded Warbler,0.30028978,193.0,196.0
+Setophaga citrina_Hooded Warbler,0.9912896,194.0,197.0
+Setophaga citrina_Hooded Warbler,0.98728055,195.0,198.0
+Setophaga citrina_Hooded Warbler,0.9848262,196.0,199.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17803527,197.0,200.0
+Setophaga cerulea_Cerulean Warbler,0.12744312,197.0,200.0
+Setophaga virens_Black-throated Green Warbler,0.11456014,197.0,200.0
+Empidonax virescens_Acadian Flycatcher,0.104679435,197.0,200.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12902406,198.0,201.0
+Setophaga cerulea_Cerulean Warbler,0.11443641,198.0,201.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1279103,199.0,202.0
+Setophaga citrina_Hooded Warbler,0.98371834,200.0,203.0
+Setophaga citrina_Hooded Warbler,0.9911913,201.0,204.0
+Setophaga citrina_Hooded Warbler,0.9949538,202.0,205.0
+Setophaga citrina_Hooded Warbler,0.77122355,203.0,206.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18280232,203.0,206.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25950465,204.0,207.0
+Setophaga cerulea_Cerulean Warbler,0.10983436,204.0,207.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20947991,205.0,208.0
+Helmitheros vermivorum_Worm-eating Warbler,0.51352125,206.0,209.0
+Setophaga citrina_Hooded Warbler,0.6936665,207.0,210.0
+Vireo hypochryseus_Golden Vireo,0.19515745,207.0,210.0
+Setophaga citrina_Hooded Warbler,0.9918791,208.0,211.0
+Setophaga citrina_Hooded Warbler,0.99216366,209.0,212.0
+Setophaga citrina_Hooded Warbler,0.99201196,210.0,213.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10254774,211.0,214.0
+Setophaga cerulea_Cerulean Warbler,0.109252065,212.0,215.0
+Seiurus aurocapilla_Ovenbird,0.21452454,213.0,216.0
+Setophaga citrina_Hooded Warbler,0.5118275,215.0,218.0
+Setophaga citrina_Hooded Warbler,0.68618935,216.0,219.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15107667,216.0,219.0
+Setophaga cerulea_Cerulean Warbler,0.10744932,216.0,219.0
+Setophaga citrina_Hooded Warbler,0.6779262,217.0,220.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25036243,217.0,220.0
+Geothlypis formosa_Kentucky Warbler,0.23785019,217.0,220.0
+Setophaga cerulea_Cerulean Warbler,0.11181149,220.0,223.0
+Helmitheros vermivorum_Worm-eating Warbler,0.178325,221.0,224.0
+Setophaga cerulea_Cerulean Warbler,0.10065621,221.0,224.0
+Setophaga citrina_Hooded Warbler,0.6064608,222.0,225.0
+Setophaga citrina_Hooded Warbler,0.7068951,223.0,226.0
+Setophaga citrina_Hooded Warbler,0.90647644,224.0,227.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10403387,224.0,227.0
+Geothlypis formosa_Kentucky Warbler,0.101031505,224.0,227.0
+Geothlypis formosa_Kentucky Warbler,0.59874314,225.0,228.0
+Setophaga citrina_Hooded Warbler,0.1307457,225.0,228.0
+Limnothlypis swainsonii_Swainson's Warbler,0.104665786,225.0,228.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29157898,226.0,229.0
+Setophaga cerulea_Cerulean Warbler,0.260354,226.0,229.0
+Setophaga ruticilla_American Redstart,0.12020864,226.0,229.0
+Empidonax virescens_Acadian Flycatcher,0.1027754,226.0,229.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23745927,227.0,230.0
+Setophaga cerulea_Cerulean Warbler,0.20829788,227.0,230.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19731118,228.0,231.0
+Setophaga citrina_Hooded Warbler,0.19913214,229.0,232.0
+Setophaga citrina_Hooded Warbler,0.553542,230.0,233.0
+Setophaga citrina_Hooded Warbler,0.5469645,231.0,234.0
+Setophaga citrina_Hooded Warbler,0.4737348,232.0,234.02403628117915
+Limnothlypis swainsonii_Swainson's Warbler,0.4581887,232.0,234.02403628117915
+Empidonax virescens_Acadian Flycatcher,0.10477965,232.0,234.02403628117915

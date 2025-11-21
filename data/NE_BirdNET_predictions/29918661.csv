@@ -1,0 +1,57 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.5960985,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.24912818,0.0,3.0
+Geothlypis semiflava_Olive-crowned Yellowthroat,0.12521799,2.0,5.0
+Ixobrychus exilis_Least Bittern,0.12267295,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.10572329,3.0,6.0
+Icterus spurius_Orchard Oriole,0.10398432,3.0,6.0
+Catharus fuscescens_Veery,0.5837186,4.0,7.0
+Butorides virescens_Green Heron,0.3782127,5.0,8.0
+Catharus fuscescens_Veery,0.29857722,5.0,8.0
+Icteria virens_Yellow-breasted Chat,0.19669837,5.0,8.0
+Colinus virginianus_Northern Bobwhite,0.12382568,5.0,8.0
+Icteria virens_Yellow-breasted Chat,0.4053702,6.0,9.0
+Icteria virens_Yellow-breasted Chat,0.42787266,7.0,10.0
+Icteria virens_Yellow-breasted Chat,0.49320993,8.0,11.0
+Colinus virginianus_Northern Bobwhite,0.16063191,8.0,11.0
+Colinus virginianus_Northern Bobwhite,0.3485581,9.0,12.0
+Ixobrychus exilis_Least Bittern,0.14768645,9.0,12.0
+Colinus virginianus_Northern Bobwhite,0.11811885,10.0,13.0
+Icterus spurius_Orchard Oriole,0.18089154,11.0,14.0
+Empidonax alnorum_Alder Flycatcher,0.14922594,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.20888948,12.0,15.0
+Icteria virens_Yellow-breasted Chat,0.18441337,12.0,15.0
+Icteria virens_Yellow-breasted Chat,0.6960691,13.0,16.0
+Passerina caerulea_Blue Grosbeak,0.15764344,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.86374664,14.0,17.0
+Icteria virens_Yellow-breasted Chat,0.53713095,15.0,18.0
+Icteria virens_Yellow-breasted Chat,0.5606229,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.16740234,16.0,19.0
+Colinus virginianus_Northern Bobwhite,0.11125526,17.0,20.0
+Protonotaria citrea_Prothonotary Warbler,0.103063144,17.0,20.0
+Catharus fuscescens_Veery,0.90122193,18.0,21.0
+Butorides virescens_Green Heron,0.17136835,18.0,21.0
+Catharus fuscescens_Veery,0.84130245,19.0,22.0
+Butorides virescens_Green Heron,0.11516367,19.0,22.0
+Icteria virens_Yellow-breasted Chat,0.23995401,20.0,23.0
+Vireo griseus_White-eyed Vireo,0.12404248,20.0,23.0
+Icteria virens_Yellow-breasted Chat,0.8174836,21.0,24.0
+Colinus virginianus_Northern Bobwhite,0.142691,21.0,24.0
+Icteria virens_Yellow-breasted Chat,0.94205195,22.0,25.0
+Icteria virens_Yellow-breasted Chat,0.4593304,23.0,26.0
+Icterus spurius_Orchard Oriole,0.13677393,23.0,26.0
+Vireo gilvus_Warbling Vireo,0.1991433,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.13163827,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.11107276,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.13803227,25.0,28.0
+Colinus virginianus_Northern Bobwhite,0.11485293,25.0,28.0
+Catharus fuscescens_Veery,0.8415131,26.0,29.0
+Icteria virens_Yellow-breasted Chat,0.11651668,26.0,29.0
+Catharus fuscescens_Veery,0.8540291,27.0,30.0
+Catharus fuscescens_Veery,0.43013442,28.0,31.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.32690516,28.0,31.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9968135,29.0,32.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.99738234,30.0,33.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.17845882,30.0,33.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8609203,31.0,33.07201814058957
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.13311759,31.0,33.07201814058957
