@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.88797927,0.0,3.0
+Passerculus sandwichensis_Savannah Sparrow,0.29191798,1.0,4.0
+Ammodramus savannarum_Grasshopper Sparrow,0.23175053,1.0,4.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7596991,2.0,5.0
+Ammodramus savannarum_Grasshopper Sparrow,0.978156,3.0,6.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9933222,4.0,7.0
+Ammodramus savannarum_Grasshopper Sparrow,0.99532974,5.0,8.0
+Ammodramus savannarum_Grasshopper Sparrow,0.977987,6.0,9.0
+Spiza americana_Dickcissel,0.6308776,6.0,9.0
+Spiza americana_Dickcissel,0.9880432,7.0,10.0
+Spiza americana_Dickcissel,0.8477709,8.0,11.0
+Spizella pallida_Clay-colored Sparrow,0.10930715,8.0,11.0
+Spinus psaltria_Lesser Goldfinch,0.20155013,9.0,12.0
+Spiza americana_Dickcissel,0.11596354,9.0,12.0
+Passerculus sandwichensis_Savannah Sparrow,0.52755666,10.0,13.0
+Spizella pallida_Clay-colored Sparrow,0.34975174,10.0,13.0
+Ammospiza nelsoni_Nelson's Sparrow,0.19037141,10.0,13.0
+Passerculus sandwichensis_Savannah Sparrow,0.6799872,11.0,14.0
+Spizella pallida_Clay-colored Sparrow,0.3474093,11.0,14.0
+Spizella pallida_Clay-colored Sparrow,0.23352925,12.0,15.0
+Spiza americana_Dickcissel,0.22617342,12.0,15.0
+Passerculus sandwichensis_Savannah Sparrow,0.22356844,12.0,15.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12464822,12.0,15.0
+Passerculus sandwichensis_Savannah Sparrow,0.32596168,13.0,16.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13726264,13.0,16.0
+Spiza americana_Dickcissel,0.93963623,14.0,17.0
+Passerculus sandwichensis_Savannah Sparrow,0.20483217,14.0,17.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19540122,14.0,17.0
+Spiza americana_Dickcissel,0.99362093,15.0,18.0
+Spiza americana_Dickcissel,0.9943685,16.0,19.0
+Spiza americana_Dickcissel,0.9833838,17.0,20.0
+Spiza americana_Dickcissel,0.59783405,18.0,21.0
+Spiza americana_Dickcissel,0.79972905,19.0,22.0
+Spiza americana_Dickcissel,0.4151681,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27771765,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27283478,21.0,24.0
+Passerculus sandwichensis_Savannah Sparrow,0.23106152,21.0,24.0
+Spizella pallida_Clay-colored Sparrow,0.1774489,21.0,24.0
+Ammodramus savannarum_Grasshopper Sparrow,0.70257974,22.0,25.0
+Spiza americana_Dickcissel,0.26613194,22.0,25.0
+Passerculus sandwichensis_Savannah Sparrow,0.15233009,22.0,25.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9728012,23.0,26.0
+Spiza americana_Dickcissel,0.29977074,23.0,26.0
+Ammodramus savannarum_Grasshopper Sparrow,0.95533204,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.99599445,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.98113716,26.0,29.0
+Spiza americana_Dickcissel,0.63673145,28.0,31.0
+Ammodramus savannarum_Grasshopper Sparrow,0.29342225,28.0,31.0
+Pooecetes gramineus_Vesper Sparrow,0.14582609,28.0,31.0
+Passerculus sandwichensis_Savannah Sparrow,0.10356222,28.0,31.0
+Spiza americana_Dickcissel,0.83409363,29.0,32.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11688735,29.0,32.0
+Spiza americana_Dickcissel,0.71603113,30.0,33.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10156754,30.0,33.0
+Spinus psaltria_Lesser Goldfinch,0.5455404,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1864154,31.0,34.0
+Spinus psaltria_Lesser Goldfinch,0.42813224,32.0,35.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2209487,32.0,35.0
+Agelaius phoeniceus_Red-winged Blackbird,0.33725315,33.0,36.0
+Spinus psaltria_Lesser Goldfinch,0.20014553,33.0,36.0
+Spinus psaltria_Lesser Goldfinch,0.28874752,34.0,37.0
+Spinus psaltria_Lesser Goldfinch,0.17092536,35.0,38.0
+Passerculus sandwichensis_Savannah Sparrow,0.2161172,36.0,39.0
+Charadrius vociferus_Killdeer,0.11232263,36.0,39.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.1777736,37.0,40.0
+Passerculus sandwichensis_Savannah Sparrow,0.13978052,37.0,40.0
+Passerculus sandwichensis_Savannah Sparrow,0.18784928,38.0,41.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.17233911,38.0,41.0
+Zonotrichia querula_Harris's Sparrow,0.17064768,38.0,41.0
+Spiza americana_Dickcissel,0.13469997,38.0,41.0
+Sturnella magna_Eastern Meadowlark,0.11151266,38.0,41.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10045154,38.0,41.0
+Spiza americana_Dickcissel,0.9063952,39.0,42.0
+Spiza americana_Dickcissel,0.8345762,40.0,43.0
+Spiza americana_Dickcissel,0.89682895,41.0,44.0
+Spizella breweri_Brewer's Sparrow,0.12344908,41.0,44.0
+Spiza americana_Dickcissel,0.98089176,43.0,46.0
+Spiza americana_Dickcissel,0.9962274,44.0,47.0
+Spiza americana_Dickcissel,0.9920769,45.0,48.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1951758,46.0,49.0
+Spiza americana_Dickcissel,0.5258709,47.0,50.0
+Centronyx henslowii_Henslow's Sparrow,0.18811564,47.0,50.0
+Spiza americana_Dickcissel,0.7721552,48.0,51.0
+Spiza americana_Dickcissel,0.47032323,49.0,52.0
+Passerculus sandwichensis_Savannah Sparrow,0.19209862,49.0,52.0
+Ammodramus savannarum_Grasshopper Sparrow,0.81535107,50.0,53.0
+Passerculus sandwichensis_Savannah Sparrow,0.15072025,50.0,53.0
+Ammodramus savannarum_Grasshopper Sparrow,0.95296395,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.987293,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.98529655,53.0,56.0
+Spiza americana_Dickcissel,0.11825529,53.0,56.0
+Spiza americana_Dickcissel,0.93436414,54.0,56.68802721088436

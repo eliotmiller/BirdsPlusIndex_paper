@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Zonotrichia leucophrys_White-crowned Sparrow,0.10275269,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.58230233,2.0,5.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.1258211,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.69589776,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.88416487,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.8750808,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.24789315,6.0,9.0
+Certhia americana_Brown Creeper,0.1123786,6.0,9.0
+Buteo platypterus_Broad-winged Hawk,0.24607332,7.0,10.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.32539806,8.0,11.0
+Turdus migratorius_American Robin,0.19240746,10.0,13.0
+Salpinctes obsoletus_Rock Wren,0.123711914,10.0,13.0
+Turdus migratorius_American Robin,0.25786775,12.0,15.0
+Salpinctes obsoletus_Rock Wren,0.14774953,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.124415316,12.0,15.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.11100995,12.0,15.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.22042441,13.0,16.0
+Salpinctes obsoletus_Rock Wren,0.12869303,13.0,16.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.6467435,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.14289245,14.0,17.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.34683338,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.20406842,15.0,18.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.67194325,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.101661995,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.4007414,17.0,20.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.23323898,17.0,20.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.6758652,18.0,21.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.3128446,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.10166598,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.9165893,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.9194036,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.5464809,22.0,25.0
+Poecile atricapillus_Black-capped Chickadee,0.1691408,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.49552724,23.0,26.0
+Poecile atricapillus_Black-capped Chickadee,0.2664198,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.19281118,23.0,26.0
+Poecile atricapillus_Black-capped Chickadee,0.61895216,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.2427244,24.0,27.0
+Salpinctes obsoletus_Rock Wren,0.10170283,25.0,28.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.26761854,26.0,29.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18762034,28.0,31.0
+Anthus rubescens_American Pipit,0.24586572,29.0,32.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14957817,29.0,32.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.121079534,29.0,32.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.2525264,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.11179497,30.0,33.0
+Poecile atricapillus_Black-capped Chickadee,0.10798632,30.0,33.0
+Poecile atricapillus_Black-capped Chickadee,0.30914178,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.12250405,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.6331137,32.0,35.0
+Poecile atricapillus_Black-capped Chickadee,0.3811094,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.3331576,34.0,37.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13486001,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.3910089,35.0,38.0
+Poecile atricapillus_Black-capped Chickadee,0.2801467,36.0,39.0
+Poecile atricapillus_Black-capped Chickadee,0.14107525,37.0,40.0
+Poecile carolinensis_Carolina Chickadee,0.19181332,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.12045642,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.112514056,38.0,41.0
+Peucaea aestivalis_Bachman's Sparrow,0.12340968,39.0,42.0
+Parkesia motacilla_Louisiana Waterthrush,0.11592942,39.0,42.0
+Salpinctes obsoletus_Rock Wren,0.22146872,41.0,44.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.52317756,43.0,46.0
+Strix varia_Barred Owl,0.3580276,44.0,47.0
+Salpinctes obsoletus_Rock Wren,0.22460388,44.0,47.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.18140039,44.0,47.0
+Zenaida macroura_Mourning Dove,0.17259094,45.0,48.0
+Zenaida macroura_Mourning Dove,0.42543983,47.0,50.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13259459,49.0,52.0
+Salpinctes obsoletus_Rock Wren,0.10108628,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.29289916,51.0,54.0
+Troglodytes hiemalis_Winter Wren,0.5494746,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.36478952,53.0,56.0
+Troglodytes hiemalis_Winter Wren,0.6299338,54.0,56.47201814058957

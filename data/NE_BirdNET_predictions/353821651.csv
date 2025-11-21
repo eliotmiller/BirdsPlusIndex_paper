@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Poecile atricapillus_Black-capped Chickadee,0.6273599,0.0,3.0
+Poecile carolinensis_Carolina Chickadee,0.41464588,0.0,3.0
+Poecile atricapillus_Black-capped Chickadee,0.5010938,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.4638176,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.3910977,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.31562483,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.11652267,3.0,6.0
+Poecile hudsonicus_Boreal Chickadee,0.16737536,6.0,9.0
+Poecile carolinensis_Carolina Chickadee,0.10514091,8.0,11.0
+Poecile carolinensis_Carolina Chickadee,0.54848695,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.7394809,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.51610976,11.0,14.0
+Poecile carolinensis_Carolina Chickadee,0.13014683,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.93625146,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.76497716,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.9475238,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.93536043,15.0,18.0
+Turdus nigriceps_Andean Slaty Thrush,0.15082678,23.0,26.0
+Poecile carolinensis_Carolina Chickadee,0.17135526,26.0,29.0
+Poecile carolinensis_Carolina Chickadee,0.33612978,28.0,31.0
+Poecile carolinensis_Carolina Chickadee,0.1494097,29.0,32.0
+Poecile carolinensis_Carolina Chickadee,0.1918498,30.0,33.0
+Troglodytes rufociliatus_Rufous-browed Wren,0.20120797,31.0,34.0
+Euphonia hirundinacea_Yellow-throated Euphonia,0.114244364,34.0,37.0
+Arremon brunneinucha_Chestnut-capped Brushfinch,0.110558294,36.0,39.0
+Poecile atricapillus_Black-capped Chickadee,0.15996276,39.0,42.0
+Poecile carolinensis_Carolina Chickadee,0.14332753,39.0,42.0
+Poecile carolinensis_Carolina Chickadee,0.49081388,42.0,45.0
+Poecile atricapillus_Black-capped Chickadee,0.16447975,42.0,45.0
+Baeolophus bicolor_Tufted Titmouse,0.12876691,42.0,45.0
+Poecile carolinensis_Carolina Chickadee,0.81773,43.0,46.0
+Poecile carolinensis_Carolina Chickadee,0.47672114,44.0,47.0
+Poecile carolinensis_Carolina Chickadee,0.30148593,47.0,50.0
+Troglodytes rufociliatus_Rufous-browed Wren,0.16096099,50.0,53.0
+Contopus virens_Eastern Wood-Pewee,0.18400094,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.11605829,52.0,55.0
+Poecile carolinensis_Carolina Chickadee,0.1574916,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.13137637,53.0,56.0
+Corvus corax_Common Raven,0.7778654,54.0,57.0
+Corvus corax_Common Raven,0.31640986,55.0,58.0
+Corvus corax_Common Raven,0.41850466,56.0,59.0
+Corvus corax_Common Raven,0.2112283,57.0,60.0
+Atlapetes tibialis_Yellow-thighed Brushfinch,0.13976294,58.0,61.0
+Corvus corax_Common Raven,0.3776389,60.0,63.0
+Corvus corax_Common Raven,0.69591004,61.0,64.0
+Corvus corax_Common Raven,0.75447166,62.0,65.0
+Corvus corax_Common Raven,0.7597249,63.0,66.0
+Poecile carolinensis_Carolina Chickadee,0.19971679,63.0,66.0
+Poecile carolinensis_Carolina Chickadee,0.17542699,64.0,67.0
+Poecile carolinensis_Carolina Chickadee,0.8763484,65.0,68.0
+Poecile carolinensis_Carolina Chickadee,0.24761514,67.0,70.0
+Poecile carolinensis_Carolina Chickadee,0.4501901,68.0,71.0
+Poecile rufescens_Chestnut-backed Chickadee,0.14901964,68.0,71.0
+Corvus corax_Common Raven,0.5789516,69.0,72.0
+Corvus corax_Common Raven,0.76667076,70.0,73.0
+Corvus corax_Common Raven,0.9488371,71.0,74.0
+Corvus jamaicensis_Jamaican Crow,0.17288761,71.0,74.0
+Corvus corax_Common Raven,0.8016503,72.0,75.0
+Corvus jamaicensis_Jamaican Crow,0.3210269,72.0,75.0
+Zeledonia coronata_Wrenthrush,0.25684842,75.0,78.0
+Poecile carolinensis_Carolina Chickadee,0.1992037,76.0,79.0
+Poecile carolinensis_Carolina Chickadee,0.25884387,77.0,80.0
+Corvus corax_Common Raven,0.64236915,78.0,81.0
+Corvus corax_Common Raven,0.69839925,79.0,82.0
+Corvus corax_Common Raven,0.7918707,80.0,83.0
+Corvus corax_Common Raven,0.7601676,81.0,84.0
+Poecile carolinensis_Carolina Chickadee,0.5816046,85.0,88.0
+Poecile carolinensis_Carolina Chickadee,0.3435558,86.0,89.0
+Corvus corax_Common Raven,0.31449175,86.0,89.0
+Corvus corax_Common Raven,0.32186842,87.0,90.0
+Poecile carolinensis_Carolina Chickadee,0.123129845,87.0,90.0
+Corvus corax_Common Raven,0.21070255,88.0,91.0
+Poecile carolinensis_Carolina Chickadee,0.18019015,88.0,91.0
+Corvus corax_Common Raven,0.85455555,89.0,92.0
+Corvus jamaicensis_Jamaican Crow,0.11740035,89.0,92.0
+Poecile carolinensis_Carolina Chickadee,0.512458,90.0,93.0
+Baeolophus bicolor_Tufted Titmouse,0.22973414,90.0,93.0
+Poecile carolinensis_Carolina Chickadee,0.4913319,91.0,94.0
+Corvus corax_Common Raven,0.57281643,92.0,95.0
+Corvus corax_Common Raven,0.83618575,93.0,96.0
+Corvus corax_Common Raven,0.8848358,94.0,97.0
+Corvus corax_Common Raven,0.8900109,95.0,97.44

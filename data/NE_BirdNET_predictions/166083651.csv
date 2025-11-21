@@ -1,0 +1,112 @@
+species,score,start_time,end_time
+Cistothorus stellaris_Sedge Wren,0.7146918,0.0,3.0
+Cistothorus platensis_Grass Wren,0.5709008,0.0,3.0
+Spiza americana_Dickcissel,0.14428836,0.0,3.0
+Cistothorus stellaris_Sedge Wren,0.7720268,1.0,4.0
+Cistothorus platensis_Grass Wren,0.6390117,1.0,4.0
+Centronyx henslowii_Henslow's Sparrow,0.3883176,2.0,5.0
+Sicalis luteola_Grassland Yellow-Finch,0.1830558,2.0,5.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.13159145,2.0,5.0
+Cistothorus stellaris_Sedge Wren,0.41524234,3.0,6.0
+Cistothorus platensis_Grass Wren,0.3831516,3.0,6.0
+Cistothorus stellaris_Sedge Wren,0.110436976,4.0,7.0
+Cistothorus stellaris_Sedge Wren,0.3223423,5.0,8.0
+Cistothorus platensis_Grass Wren,0.18427098,5.0,8.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.14290355,5.0,8.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27605787,7.0,10.0
+Centronyx henslowii_Henslow's Sparrow,0.12967582,7.0,10.0
+Spiza americana_Dickcissel,0.28237802,9.0,12.0
+Centronyx henslowii_Henslow's Sparrow,0.16584957,9.0,12.0
+Centronyx henslowii_Henslow's Sparrow,0.16262057,10.0,13.0
+Spiza americana_Dickcissel,0.11634,10.0,13.0
+Anthus rubescens_American Pipit,0.106518276,10.0,13.0
+Centronyx henslowii_Henslow's Sparrow,0.34920827,11.0,14.0
+Spiza americana_Dickcissel,0.3151778,11.0,14.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.7073767,12.0,15.0
+Cistothorus platensis_Grass Wren,0.13270466,12.0,15.0
+Cistothorus platensis_Grass Wren,0.32164648,13.0,16.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.31524128,13.0,16.0
+Cistothorus stellaris_Sedge Wren,0.27025807,13.0,16.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.2384378,14.0,17.0
+Centronyx henslowii_Henslow's Sparrow,0.13937165,15.0,18.0
+Anthus rubescens_American Pipit,0.11751147,15.0,18.0
+Spiza americana_Dickcissel,0.30654386,16.0,19.0
+Spiza americana_Dickcissel,0.21617049,17.0,20.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.15550809,17.0,20.0
+Emberiza cia_Rock Bunting,0.1165029,17.0,20.0
+Emberiza cia_Rock Bunting,0.19487831,19.0,22.0
+Emberiza stewarti_White-capped Bunting,0.14397071,19.0,22.0
+Anthus rubescens_American Pipit,0.10672348,19.0,22.0
+Junco phaeonotus_Yellow-eyed Junco,0.47541252,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.40861648,20.0,23.0
+Melospiza georgiana_Swamp Sparrow,0.39232785,20.0,23.0
+Spinus tristis_American Goldfinch,0.14149216,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.93329275,21.0,24.0
+Melospiza georgiana_Swamp Sparrow,0.23338912,21.0,24.0
+Melospiza georgiana_Swamp Sparrow,0.71757525,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.65464604,22.0,25.0
+Melospiza georgiana_Swamp Sparrow,0.46857595,23.0,26.0
+Peucaea aestivalis_Bachman's Sparrow,0.15942734,24.0,27.0
+Poecile palustris_Marsh Tit,0.14731385,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.13297726,24.0,27.0
+Junco phaeonotus_Yellow-eyed Junco,0.109203584,24.0,27.0
+Cistothorus stellaris_Sedge Wren,0.34667367,25.0,28.0
+Cistothorus platensis_Grass Wren,0.2381013,25.0,28.0
+Spiza americana_Dickcissel,0.20441702,25.0,28.0
+Emberiza cia_Rock Bunting,0.13008402,29.0,32.0
+Emberiza godlewskii_Godlewski's Bunting,0.10419656,29.0,32.0
+Saxicola rubicola_European Stonechat,0.22856694,31.0,34.0
+Cistothorus platensis_Grass Wren,0.11822566,31.0,34.0
+Cistothorus stellaris_Sedge Wren,0.10889236,31.0,34.0
+Cistothorus platensis_Grass Wren,0.2867877,32.0,35.0
+Cistothorus stellaris_Sedge Wren,0.17504139,32.0,35.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.37463397,33.0,36.0
+Cistothorus platensis_Grass Wren,0.37258753,33.0,36.0
+Cistothorus stellaris_Sedge Wren,0.2069256,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.20004049,34.0,37.0
+Spiza americana_Dickcissel,0.12732774,34.0,37.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.11904906,34.0,37.0
+Cyanocitta cristata_Blue Jay,0.10360973,36.0,39.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.68284833,37.0,40.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.13998576,38.0,41.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.10482139,39.0,42.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.3053417,40.0,43.0
+Spiza americana_Dickcissel,0.20305833,40.0,43.0
+Centronyx henslowii_Henslow's Sparrow,0.12032133,40.0,43.0
+Cistothorus stellaris_Sedge Wren,0.2680092,42.0,45.0
+Cistothorus platensis_Grass Wren,0.19187486,42.0,45.0
+Cistothorus platensis_Grass Wren,0.29100472,43.0,46.0
+Cistothorus stellaris_Sedge Wren,0.10446044,43.0,46.0
+Cistothorus platensis_Grass Wren,0.27150735,44.0,47.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.103384525,44.0,47.0
+Cyanocitta cristata_Blue Jay,0.11158955,45.0,48.0
+Geothlypis trichas_Common Yellowthroat,0.17080963,46.0,49.0
+Cardellina canadensis_Canada Warbler,0.13371016,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.29043728,47.0,50.0
+Cistothorus stellaris_Sedge Wren,0.26005274,48.0,51.0
+Cistothorus platensis_Grass Wren,0.14895329,48.0,51.0
+Cistothorus platensis_Grass Wren,0.45564756,49.0,52.0
+Cistothorus stellaris_Sedge Wren,0.42485294,49.0,52.0
+Spiza americana_Dickcissel,0.16480322,49.0,52.0
+Cistothorus stellaris_Sedge Wren,0.13618867,50.0,53.0
+Cistothorus platensis_Grass Wren,0.12875237,50.0,53.0
+Emberiza cia_Rock Bunting,0.11268606,50.0,53.0
+Spiza americana_Dickcissel,0.4310051,51.0,54.0
+Regulus satrapa_Golden-crowned Kinglet,0.23376729,52.0,55.0
+Emberiza cia_Rock Bunting,0.28777203,54.0,57.0
+Emberiza cia_Rock Bunting,0.23595762,55.0,58.0
+Geothlypis trichas_Common Yellowthroat,0.15550278,58.0,61.0
+Geothlypis trichas_Common Yellowthroat,0.21186328,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.21385391,60.0,63.0
+Cistothorus stellaris_Sedge Wren,0.38405293,61.0,64.0
+Cistothorus platensis_Grass Wren,0.34858444,61.0,64.0
+Saxicola rubicola_European Stonechat,0.1295127,61.0,64.0
+Cistothorus platensis_Grass Wren,0.25756583,62.0,65.0
+Cistothorus stellaris_Sedge Wren,0.16909662,62.0,65.0
+Saxicola rubicola_European Stonechat,0.1602195,62.0,65.0
+Cistothorus stellaris_Sedge Wren,0.32309338,63.0,66.0
+Cistothorus platensis_Grass Wren,0.30511704,63.0,66.0
+Geothlypis trichas_Common Yellowthroat,0.23234189,64.0,67.0
+Cistothorus stellaris_Sedge Wren,0.14141119,64.0,67.0
+Regulus satrapa_Golden-crowned Kinglet,0.16987543,65.0,68.0
+Cistothorus stellaris_Sedge Wren,0.14526539,68.0,70.75201814058957

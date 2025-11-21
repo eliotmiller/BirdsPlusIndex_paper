@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.14914243,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.12333313,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12014439,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.10098559,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.37322652,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.43886876,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.11105159,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.5083693,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.16594759,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.16018836,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12999582,6.0,9.0
+Buteo platypterus_Broad-winged Hawk,0.11595228,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11244872,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11557348,8.0,11.0
+Buteo platypterus_Broad-winged Hawk,0.16968033,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1317826,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.102968566,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.13663848,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.12581803,11.0,14.0
+Buteo platypterus_Broad-winged Hawk,0.118334934,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.12440008,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.110803224,12.0,15.0
+Setophaga ruticilla_American Redstart,0.28391156,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.117785685,13.0,16.0
+Setophaga ruticilla_American Redstart,0.16343735,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15626137,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.13750066,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.15712327,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.11432521,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.21478723,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1680045,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120572984,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20275345,22.0,25.0
+Buteo platypterus_Broad-winged Hawk,0.1837038,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.10281052,22.0,25.0
+Buteo platypterus_Broad-winged Hawk,0.15723261,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12487582,23.0,26.0
+Setophaga ruticilla_American Redstart,0.19480117,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.13419601,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.43197548,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.5262583,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.51457053,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.13016605,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.120776236,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14039285,29.0,32.0
+Buteo platypterus_Broad-winged Hawk,0.13790102,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.1564216,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113130614,30.0,33.0
+Buteo platypterus_Broad-winged Hawk,0.14491497,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119483896,31.0,34.0
+Buteo platypterus_Broad-winged Hawk,0.13096274,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102851026,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20307879,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.1203983,34.0,37.0
+Buteo platypterus_Broad-winged Hawk,0.11912122,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.10619459,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.12116184,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.19774918,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.10176615,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.13099287,40.0,43.0
+Setophaga ruticilla_American Redstart,0.1152673,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10740038,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.10139657,41.0,44.0
+Buteo platypterus_Broad-winged Hawk,0.11123154,43.0,46.0
+Buteo platypterus_Broad-winged Hawk,0.13007645,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1274203,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.19700956,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.10029332,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.1214902,48.0,50.49600907029478
+Buteo platypterus_Broad-winged Hawk,0.112566225,48.0,50.49600907029478
+Setophaga caerulescens_Black-throated Blue Warbler,0.10144201,48.0,50.49600907029478

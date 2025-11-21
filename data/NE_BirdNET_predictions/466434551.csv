@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Melospiza georgiana_Swamp Sparrow,0.93820834,0.0,3.0
+Cistothorus stellaris_Sedge Wren,0.10537683,0.0,3.0
+Melospiza georgiana_Swamp Sparrow,0.91387266,1.0,4.0
+Melospiza georgiana_Swamp Sparrow,0.8419086,2.0,5.0
+Melospiza georgiana_Swamp Sparrow,0.8684246,3.0,6.0
+Melospiza georgiana_Swamp Sparrow,0.8977917,4.0,7.0
+Melospiza georgiana_Swamp Sparrow,0.93049175,5.0,8.0
+Melospiza georgiana_Swamp Sparrow,0.8572256,6.0,9.0
+Melospiza georgiana_Swamp Sparrow,0.75960726,7.0,10.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13968469,9.0,12.0
+Anthus rubescens_American Pipit,0.11920185,9.0,12.0
+Anthus rubescens_American Pipit,0.31107125,10.0,13.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.13064222,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.20113449,14.0,17.0
+Melospiza georgiana_Swamp Sparrow,0.53076303,19.0,22.0
+Melospiza georgiana_Swamp Sparrow,0.3592599,20.0,23.0
+Spizella passerina_Chipping Sparrow,0.23290965,20.0,23.0
+Melospiza georgiana_Swamp Sparrow,0.5831492,21.0,24.0
+Spinus pinus_Pine Siskin,0.1128993,28.0,31.0
+Melospiza georgiana_Swamp Sparrow,0.12286513,29.0,32.0
+Melospiza georgiana_Swamp Sparrow,0.100154795,30.0,33.0
+Melospiza georgiana_Swamp Sparrow,0.18107857,31.0,34.0
+Melospiza georgiana_Swamp Sparrow,0.35614076,32.0,35.0
+Icterus spurius_Orchard Oriole,0.102590255,32.0,35.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.28979743,34.0,37.0
+Melospiza georgiana_Swamp Sparrow,0.18910663,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1298903,34.0,37.0
+Melospiza georgiana_Swamp Sparrow,0.266197,35.0,38.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11942877,35.0,38.0
+Agelaius phoeniceus_Red-winged Blackbird,0.42262957,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17087743,37.0,40.0
+Spinus pinus_Pine Siskin,0.17327194,39.0,42.0
+Riparia riparia_Bank Swallow,0.32224426,40.0,43.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1193109,40.0,43.0
+Riparia riparia_Bank Swallow,0.5094324,41.0,44.0
+Delichon urbicum_Common House-Martin,0.3975079,41.0,44.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14355275,41.0,44.0
+Riparia riparia_Bank Swallow,0.18493627,42.0,45.0
+Melospiza georgiana_Swamp Sparrow,0.15109853,46.0,49.0
+Melospiza georgiana_Swamp Sparrow,0.28116292,47.0,50.0
+Chaetura pelagica_Chimney Swift,0.19089699,47.0,50.0
+Melospiza georgiana_Swamp Sparrow,0.1396525,48.0,51.0
+Melospiza georgiana_Swamp Sparrow,0.7618454,49.0,52.0
+Melospiza georgiana_Swamp Sparrow,0.7839411,50.0,53.0
+Cistothorus stellaris_Sedge Wren,0.109554335,50.0,53.0
+Melospiza georgiana_Swamp Sparrow,0.89405245,51.0,54.0
+Melospiza georgiana_Swamp Sparrow,0.44662258,52.0,55.0
+Melospiza georgiana_Swamp Sparrow,0.1402815,56.0,59.0
+Anthreptes orientalis_Eastern Violet-backed Sunbird,0.27744696,59.0,62.0
+Melospiza georgiana_Swamp Sparrow,0.2940681,63.0,66.0
+Melospiza georgiana_Swamp Sparrow,0.47995734,64.0,67.0
+Hirundo rustica_Barn Swallow,0.15540303,65.0,68.0
+Hirundo rustica_Barn Swallow,0.43293378,67.0,70.0
+Hirundo rustica_Barn Swallow,0.5703701,68.0,71.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.24193469,69.0,72.0
+Megalurus palustris_Striated Grassbird,0.19538371,69.0,72.0
+Hirundo rustica_Barn Swallow,0.16076192,69.0,72.0
+Euphonia affinis_Scrub Euphonia,0.13842508,69.0,72.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.18200503,70.0,73.0
+Delichon urbicum_Common House-Martin,0.21456422,71.0,74.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.1106762,71.0,74.0
+Sinosuthora webbiana_Vinous-throated Parrotbill,0.123500146,72.0,75.0
+Carduelis carduelis_European Goldfinch,0.122927055,72.0,75.0
+Delichon urbicum_Common House-Martin,0.122228794,72.0,75.0
+Engine_Engine,0.13277833,75.0,78.0
+Engine_Engine,0.10047782,76.0,79.0
+Engine_Engine,0.249252,82.0,85.0
+Engine_Engine,0.54826856,83.0,86.0
+Engine_Engine,0.23830867,84.0,87.0
+Engine_Engine,0.6596693,85.0,88.0
+Power tools_Power tools,0.14649262,85.0,88.0
+Engine_Engine,0.2900647,86.0,89.0
+Engine_Engine,0.61912245,87.0,90.0
+Engine_Engine,0.6037246,88.0,91.0
+Engine_Engine,0.3587252,89.0,92.0
+Engine_Engine,0.19905345,90.0,93.0
+Engine_Engine,0.21297127,91.0,94.0
+Nannopterum auritum_Double-crested Cormorant,0.1812525,93.0,96.0
+Engine_Engine,0.10055051,94.0,97.0
+Engine_Engine,0.1974791,95.0,97.00802721088435
