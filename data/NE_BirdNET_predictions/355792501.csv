@@ -1,0 +1,19 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.3401327,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.2213746,0.0,3.0
+Fulica atra_Eurasian Coot,0.19982268,0.0,3.0
+Gallinula galeata_Common Gallinule,0.15719515,0.0,3.0
+Grus grus_Common Crane,0.10091931,0.0,3.0
+Engine_Engine,0.79178387,1.0,4.0
+Engine_Engine,0.36394134,2.0,5.0
+Engine_Engine,0.26221374,3.0,6.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.10370078,4.0,7.0
+Chroicocephalus ridibundus_Black-headed Gull,0.103007354,4.0,7.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.16746457,5.0,8.0
+Corvus corax_Common Raven,0.14115529,5.0,8.0
+Engine_Engine,0.42764822,7.0,10.0
+Engine_Engine,0.2418365,8.0,11.0
+Haemorhous mexicanus_House Finch,0.49353322,9.0,12.0
+Haemorhous mexicanus_House Finch,0.3788888,10.0,13.0
+Haemorhous mexicanus_House Finch,0.3383856,11.0,14.0
+Engine_Engine,0.102424674,11.0,14.0

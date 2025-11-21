@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.22934733,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18029411,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.3931805,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.96115243,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.9735675,3.0,6.0
+Geothlypis trichas_Common Yellowthroat,0.9369931,4.0,7.0
+Cardellina rubrifrons_Red-faced Warbler,0.16749962,4.0,7.0
+Toxostoma rufum_Brown Thrasher,0.12641323,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.104653254,6.0,9.0
+Toxostoma rufum_Brown Thrasher,0.29591498,7.0,10.0
+Melanotis caerulescens_Blue Mockingbird,0.16721155,7.0,10.0
+Toxostoma longirostre_Long-billed Thrasher,0.10180758,7.0,10.0
+Melanotis caerulescens_Blue Mockingbird,0.76319414,8.0,11.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.12397845,8.0,11.0
+Dumetella carolinensis_Gray Catbird,0.10636225,8.0,11.0
+Melanotis caerulescens_Blue Mockingbird,0.7958541,9.0,12.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.3101305,9.0,12.0
+Conopophaga melanogaster_Black-bellied Gnateater,0.18791637,9.0,12.0
+Geothlypis trichas_Common Yellowthroat,0.43713203,10.0,13.0
+Cardellina rubrifrons_Red-faced Warbler,0.40109894,10.0,13.0
+Geothlypis trichas_Common Yellowthroat,0.983384,11.0,14.0
+Geothlypis trichas_Common Yellowthroat,0.9808053,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.9360819,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.23761167,15.0,18.0
+Catharus ustulatus_Swainson's Thrush,0.20087293,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.5059946,16.0,19.0
+Toxostoma rufum_Brown Thrasher,0.10953495,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.28200987,17.0,20.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13327534,17.0,20.0
+Geothlypis trichas_Common Yellowthroat,0.92055255,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.9874001,19.0,22.0
+Geothlypis trichas_Common Yellowthroat,0.973362,20.0,23.0
+Geothlypis trichas_Common Yellowthroat,0.7636053,21.0,24.0
+Parus cinereus_Cinereous Tit,0.41971657,21.0,24.0
+Melanotis caerulescens_Blue Mockingbird,0.17033023,22.0,25.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.16410114,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11626092,22.0,25.0
+Melanotis caerulescens_Blue Mockingbird,0.10492358,23.0,26.0
+Icteria virens_Yellow-breasted Chat,0.12456835,25.0,28.0
+Cardellina rubrifrons_Red-faced Warbler,0.65185636,26.0,29.0
+Parus cinereus_Cinereous Tit,0.11599115,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.91999096,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.9758857,28.0,31.0
+Geothlypis rostrata_Bahama Yellowthroat,0.10749524,28.0,31.0
+Geothlypis trichas_Common Yellowthroat,0.94676566,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.13037813,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.13604663,33.0,36.0
+Oriolus oriolus_Eurasian Golden Oriole,0.3789842,34.0,37.0
+Toxostoma rufum_Brown Thrasher,0.31467447,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.13157138,34.0,37.0
+Oriolus oriolus_Eurasian Golden Oriole,0.27288765,35.0,38.0
+Parus cinereus_Cinereous Tit,0.37042928,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.9505672,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.9821078,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.9775929,39.0,42.0
+Geothlypis trichas_Common Yellowthroat,0.33786207,40.0,43.0
+Geothlypis trichas_Common Yellowthroat,0.2801479,47.0,50.0
+Geothlypis trichas_Common Yellowthroat,0.22020178,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.2745147,49.0,52.0
+Gallinula galeata_Common Gallinule,0.11043418,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.12299925,57.0,60.0
+Geothlypis trichas_Common Yellowthroat,0.4500921,58.0,61.0
+Geothlypis trichas_Common Yellowthroat,0.37444755,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.15408273,69.0,72.0
+Geothlypis trichas_Common Yellowthroat,0.16430432,71.0,74.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.14563467,77.0,80.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19539393,78.0,81.0
+Amblycorypha alexanderi_Clicker Round-winged Katydid,0.15404859,78.0,81.0
+Geothlypis trichas_Common Yellowthroat,0.35327655,80.0,83.0
+Geothlypis trichas_Common Yellowthroat,0.58216625,81.0,84.0
+Geothlypis trichas_Common Yellowthroat,0.2915985,82.0,84.48

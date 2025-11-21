@@ -1,0 +1,401 @@
+species,score,start_time,end_time
+Cistothorus palustris_Marsh Wren,0.33151633,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.17663549,0.0,3.0
+Tachybaptus ruficollis_Little Grebe,0.112795636,0.0,3.0
+Tachybaptus ruficollis_Little Grebe,0.49020416,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.14588715,1.0,4.0
+Cistothorus palustris_Marsh Wren,0.14566404,2.0,5.0
+Cistothorus palustris_Marsh Wren,0.48252544,4.0,7.0
+Cistothorus palustris_Marsh Wren,0.37421787,5.0,8.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.25034818,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.6087093,6.0,9.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.23156396,6.0,9.0
+Cistothorus palustris_Marsh Wren,0.23446882,7.0,10.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.11857056,7.0,10.0
+Botaurus lentiginosus_American Bittern,0.104090214,7.0,10.0
+Cistothorus palustris_Marsh Wren,0.20601466,8.0,11.0
+Cistothorus palustris_Marsh Wren,0.55114394,9.0,12.0
+Ixobrychus exilis_Least Bittern,0.11290205,9.0,12.0
+Cistothorus palustris_Marsh Wren,0.29402918,10.0,13.0
+Cistothorus palustris_Marsh Wren,0.21802717,11.0,14.0
+Ixobrychus exilis_Least Bittern,0.11294958,11.0,14.0
+Melospiza georgiana_Swamp Sparrow,0.11128541,11.0,14.0
+Podilymbus podiceps_Pied-billed Grebe,0.13176155,12.0,15.0
+Gallinula galeata_Common Gallinule,0.11839543,12.0,15.0
+Cistothorus palustris_Marsh Wren,0.22701104,13.0,16.0
+Gallinula galeata_Common Gallinule,0.10857318,13.0,16.0
+Podilymbus podiceps_Pied-billed Grebe,0.10311166,13.0,16.0
+Podilymbus podiceps_Pied-billed Grebe,0.21246307,14.0,17.0
+Cistothorus palustris_Marsh Wren,0.15870254,14.0,17.0
+Cistothorus palustris_Marsh Wren,0.21970063,15.0,18.0
+Ixobrychus exilis_Least Bittern,0.13671902,15.0,18.0
+Cistothorus palustris_Marsh Wren,0.50495166,17.0,20.0
+Cistothorus palustris_Marsh Wren,0.64453477,18.0,21.0
+Cistothorus palustris_Marsh Wren,0.24890594,19.0,22.0
+Cistothorus palustris_Marsh Wren,0.32431126,21.0,24.0
+Cistothorus palustris_Marsh Wren,0.57461,23.0,26.0
+Ixobrychus exilis_Least Bittern,0.11236037,23.0,26.0
+Branta bernicla_Brant,0.19047141,24.0,27.0
+Branta bernicla_Brant,0.15872349,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.52653253,29.0,32.0
+Cistothorus palustris_Marsh Wren,0.8814774,30.0,33.0
+Cistothorus palustris_Marsh Wren,0.84346706,31.0,34.0
+Coturnicops noveboracensis_Yellow Rail,0.10424122,31.0,34.0
+Cistothorus palustris_Marsh Wren,0.50408804,32.0,35.0
+Cistothorus palustris_Marsh Wren,0.58016473,33.0,36.0
+Cistothorus palustris_Marsh Wren,0.7787351,34.0,37.0
+Cistothorus palustris_Marsh Wren,0.9184317,35.0,38.0
+Cistothorus palustris_Marsh Wren,0.6099216,36.0,39.0
+Cistothorus palustris_Marsh Wren,0.502799,37.0,40.0
+Cistothorus palustris_Marsh Wren,0.6131826,38.0,41.0
+Cistothorus palustris_Marsh Wren,0.629263,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.10112017,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.32967466,40.0,43.0
+Melospiza georgiana_Swamp Sparrow,0.21043266,40.0,43.0
+Cistothorus palustris_Marsh Wren,0.555848,41.0,44.0
+Ixobrychus exilis_Least Bittern,0.11788257,41.0,44.0
+Cistothorus palustris_Marsh Wren,0.44539848,42.0,45.0
+Cistothorus palustris_Marsh Wren,0.38759086,43.0,46.0
+Cistothorus palustris_Marsh Wren,0.37899843,44.0,47.0
+Butorides virescens_Green Heron,0.1129241,44.0,47.0
+Melospiza georgiana_Swamp Sparrow,0.24345194,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.42511874,47.0,50.0
+Cistothorus palustris_Marsh Wren,0.1997287,48.0,51.0
+Cistothorus palustris_Marsh Wren,0.23156416,49.0,52.0
+Ixobrychus exilis_Least Bittern,0.1468959,49.0,52.0
+Cistothorus palustris_Marsh Wren,0.17893025,50.0,53.0
+Cistothorus palustris_Marsh Wren,0.16112605,51.0,54.0
+Ixobrychus exilis_Least Bittern,0.106047474,51.0,54.0
+Cistothorus palustris_Marsh Wren,0.17167553,52.0,55.0
+Cistothorus palustris_Marsh Wren,0.18549746,54.0,57.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.2556593,55.0,58.0
+Cistothorus palustris_Marsh Wren,0.3006131,56.0,59.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.21394983,56.0,59.0
+Cistothorus palustris_Marsh Wren,0.6545984,57.0,60.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.5181756,57.0,60.0
+Cistothorus palustris_Marsh Wren,0.65738994,58.0,61.0
+Cistothorus palustris_Marsh Wren,0.4799077,60.0,63.0
+Ixobrychus exilis_Least Bittern,0.12745295,60.0,63.0
+Chloris sinica_Oriental Greenfinch,0.102040246,61.0,64.0
+Curruca curruca_Lesser Whitethroat,0.118989736,63.0,66.0
+Curruca curruca_Lesser Whitethroat,0.28881985,64.0,67.0
+Apus melba_Alpine Swift,0.14600079,69.0,72.0
+Prinia inornata_Plain Prinia,0.1314254,72.0,75.0
+Chloris chloris_European Greenfinch,0.19248684,73.0,76.0
+Cistothorus palustris_Marsh Wren,0.30886558,75.0,78.0
+Cistothorus palustris_Marsh Wren,0.67744267,76.0,79.0
+Cistothorus palustris_Marsh Wren,0.12140309,77.0,80.0
+Cistothorus palustris_Marsh Wren,0.5350954,79.0,82.0
+Cistothorus palustris_Marsh Wren,0.50814694,80.0,83.0
+Cistothorus palustris_Marsh Wren,0.8599702,81.0,84.0
+Cistothorus palustris_Marsh Wren,0.6126555,82.0,85.0
+Junco hyemalis_Dark-eyed Junco,0.13754383,84.0,87.0
+Amphispiza bilineata_Black-throated Sparrow,0.2175779,85.0,88.0
+Cistothorus palustris_Marsh Wren,0.11137103,85.0,88.0
+Cistothorus palustris_Marsh Wren,0.26803935,86.0,89.0
+Cistothorus palustris_Marsh Wren,0.10683458,87.0,90.0
+Cistothorus palustris_Marsh Wren,0.11717575,89.0,92.0
+Cistothorus palustris_Marsh Wren,0.8281801,91.0,94.0
+Cistothorus palustris_Marsh Wren,0.3356185,92.0,95.0
+Ixobrychus exilis_Least Bittern,0.14966941,92.0,95.0
+Cistothorus palustris_Marsh Wren,0.89437294,93.0,96.0
+Ixobrychus exilis_Least Bittern,0.20914866,93.0,96.0
+Cistothorus palustris_Marsh Wren,0.9626689,94.0,97.0
+Ixobrychus exilis_Least Bittern,0.19279192,94.0,97.0
+Cistothorus palustris_Marsh Wren,0.7091801,95.0,98.0
+Cistothorus palustris_Marsh Wren,0.9278041,96.0,99.0
+Cistothorus palustris_Marsh Wren,0.60501826,97.0,100.0
+Cistothorus palustris_Marsh Wren,0.41866943,98.0,101.0
+Cistothorus palustris_Marsh Wren,0.67094576,99.0,102.0
+Porzana carolina_Sora,0.103306584,99.0,102.0
+Cistothorus palustris_Marsh Wren,0.81868225,100.0,103.0
+Spatula clypeata_Northern Shoveler,0.1597628,100.0,103.0
+Porzana carolina_Sora,0.103261575,100.0,103.0
+Cistothorus palustris_Marsh Wren,0.65001225,101.0,104.0
+Cistothorus palustris_Marsh Wren,0.11300735,102.0,105.0
+Cistothorus palustris_Marsh Wren,0.5159697,104.0,107.0
+Cistothorus palustris_Marsh Wren,0.33069727,105.0,108.0
+Fulica americana_American Coot,0.30201712,105.0,108.0
+Cistothorus palustris_Marsh Wren,0.9471569,106.0,109.0
+Cistothorus palustris_Marsh Wren,0.79053,107.0,110.0
+Cistothorus palustris_Marsh Wren,0.6860641,108.0,111.0
+Cistothorus palustris_Marsh Wren,0.6845761,109.0,112.0
+Cistothorus palustris_Marsh Wren,0.30096677,110.0,113.0
+Cistothorus palustris_Marsh Wren,0.6477513,111.0,114.0
+Cistothorus palustris_Marsh Wren,0.8986514,112.0,115.0
+Cistothorus palustris_Marsh Wren,0.6375001,113.0,116.0
+Cistothorus palustris_Marsh Wren,0.20085065,114.0,117.0
+Cistothorus palustris_Marsh Wren,0.19410054,117.0,120.0
+Cistothorus palustris_Marsh Wren,0.4656873,118.0,121.0
+Ixobrychus exilis_Least Bittern,0.141623,121.0,124.0
+Amphispiza bilineata_Black-throated Sparrow,0.76021165,129.0,132.0
+Ixobrychus exilis_Least Bittern,0.10007589,131.0,134.0
+Melospiza georgiana_Swamp Sparrow,0.18051326,132.0,135.0
+Ixobrychus exilis_Least Bittern,0.19894703,134.0,137.0
+Spatula clypeata_Northern Shoveler,0.15439884,136.0,139.0
+Emberiza cirlus_Cirl Bunting,0.11235279,141.0,144.0
+Chloris chloris_European Greenfinch,0.111543946,141.0,144.0
+Cistothorus palustris_Marsh Wren,0.6426201,147.0,150.0
+Cistothorus palustris_Marsh Wren,0.8288086,148.0,151.0
+Cistothorus palustris_Marsh Wren,0.38163078,149.0,152.0
+Cistothorus palustris_Marsh Wren,0.14844422,153.0,156.0
+Cistothorus palustris_Marsh Wren,0.16857459,154.0,157.0
+Emberiza cirlus_Cirl Bunting,0.28797382,155.0,158.0
+Spizella pusilla_Field Sparrow,0.120382,156.0,159.0
+Cistothorus palustris_Marsh Wren,0.15385531,159.0,162.0
+Engine_Engine,0.12003107,159.0,162.0
+Engine_Engine,0.11273603,160.0,163.0
+Cistothorus palustris_Marsh Wren,0.30492547,161.0,164.0
+Cistothorus palustris_Marsh Wren,0.7301738,162.0,165.0
+Cistothorus palustris_Marsh Wren,0.17618522,163.0,166.0
+Ixobrychus exilis_Least Bittern,0.17213333,163.0,166.0
+Cistothorus stellaris_Sedge Wren,0.1205344,163.0,166.0
+Cistothorus palustris_Marsh Wren,0.5449744,164.0,167.0
+Cistothorus palustris_Marsh Wren,0.94031286,165.0,168.0
+Ixobrychus exilis_Least Bittern,0.1061224,165.0,168.0
+Cistothorus palustris_Marsh Wren,0.90633214,166.0,169.0
+Cistothorus palustris_Marsh Wren,0.9398062,167.0,170.0
+Cistothorus palustris_Marsh Wren,0.9342739,168.0,171.0
+Cistothorus palustris_Marsh Wren,0.8340413,169.0,172.0
+Cistothorus palustris_Marsh Wren,0.6258454,170.0,173.0
+Ixobrychus exilis_Least Bittern,0.121981174,170.0,173.0
+Cistothorus palustris_Marsh Wren,0.5331931,172.0,175.0
+Cistothorus palustris_Marsh Wren,0.42722625,173.0,176.0
+Cistothorus palustris_Marsh Wren,0.4910205,174.0,177.0
+Cistothorus palustris_Marsh Wren,0.45683387,176.0,179.0
+Cistothorus palustris_Marsh Wren,0.6583354,177.0,180.0
+Cistothorus palustris_Marsh Wren,0.64792037,178.0,181.0
+Cistothorus palustris_Marsh Wren,0.93190414,180.0,183.0
+Cistothorus palustris_Marsh Wren,0.9270452,181.0,184.0
+Cistothorus palustris_Marsh Wren,0.71502614,182.0,185.0
+Cistothorus palustris_Marsh Wren,0.44434214,183.0,186.0
+Mareca strepera_Gadwall,0.10153075,183.0,186.0
+Cistothorus palustris_Marsh Wren,0.2630394,185.0,188.0
+Cistothorus palustris_Marsh Wren,0.7762248,186.0,189.0
+Cistothorus palustris_Marsh Wren,0.7055006,187.0,190.0
+Cistothorus palustris_Marsh Wren,0.8874044,189.0,192.0
+Cistothorus palustris_Marsh Wren,0.7419472,190.0,193.0
+Cistothorus palustris_Marsh Wren,0.8736751,191.0,194.0
+Spizella pusilla_Field Sparrow,0.14197907,197.0,200.0
+Laterallus jamaicensis_Black Rail,0.11744866,198.0,201.0
+Laterallus jamaicensis_Black Rail,0.15160753,199.0,202.0
+Cistothorus palustris_Marsh Wren,0.10250709,199.0,202.0
+Cistothorus palustris_Marsh Wren,0.43184778,200.0,203.0
+Callipepla gambelii_Gambel's Quail,0.12721469,201.0,204.0
+Cistothorus palustris_Marsh Wren,0.9923333,202.0,205.0
+Cistothorus palustris_Marsh Wren,0.9321207,203.0,206.0
+Cistothorus palustris_Marsh Wren,0.7398029,204.0,207.0
+Cistothorus palustris_Marsh Wren,0.81719,206.0,209.0
+Cistothorus palustris_Marsh Wren,0.8206362,207.0,210.0
+Cistothorus palustris_Marsh Wren,0.57886547,208.0,211.0
+Ixobrychus exilis_Least Bittern,0.1482331,208.0,211.0
+Cistothorus palustris_Marsh Wren,0.9521807,211.0,214.0
+Ixobrychus exilis_Least Bittern,0.11007534,211.0,214.0
+Cistothorus palustris_Marsh Wren,0.93526137,212.0,215.0
+Cistothorus palustris_Marsh Wren,0.3863162,213.0,216.0
+Spizella pusilla_Field Sparrow,0.146971,214.0,217.0
+Cistothorus palustris_Marsh Wren,0.11157497,215.0,218.0
+Cistothorus palustris_Marsh Wren,0.7986324,216.0,219.0
+Cistothorus palustris_Marsh Wren,0.9127755,217.0,220.0
+Cistothorus palustris_Marsh Wren,0.6885983,218.0,221.0
+Anas crecca_Green-winged Teal,0.175661,219.0,222.0
+Cistothorus palustris_Marsh Wren,0.62162906,221.0,224.0
+Cistothorus palustris_Marsh Wren,0.51558065,222.0,225.0
+Ixobrychus exilis_Least Bittern,0.20394109,222.0,225.0
+Cistothorus palustris_Marsh Wren,0.5080143,223.0,226.0
+Ixobrychus exilis_Least Bittern,0.153668,223.0,226.0
+Cistothorus palustris_Marsh Wren,0.6094588,224.0,227.0
+Antigone canadensis_Sandhill Crane,0.17608324,228.0,231.0
+Luscinia svecica_Bluethroat,0.14114812,229.0,232.0
+Antigone canadensis_Sandhill Crane,0.23244147,230.0,233.0
+Cistothorus palustris_Marsh Wren,0.16806902,231.0,234.0
+Gallinula galeata_Common Gallinule,0.12112968,231.0,234.0
+Cistothorus palustris_Marsh Wren,0.38863122,232.0,235.0
+Streptopelia chinensis_Spotted Dove,0.19757587,233.0,236.0
+Strix aluco_Tawny Owl,0.11429154,233.0,236.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12227259,234.0,237.0
+Spatula clypeata_Northern Shoveler,0.10134054,234.0,237.0
+Melospiza georgiana_Swamp Sparrow,0.11570504,235.0,238.0
+Cistothorus palustris_Marsh Wren,0.5146288,237.0,240.0
+Cistothorus palustris_Marsh Wren,0.73310494,238.0,241.0
+Cistothorus palustris_Marsh Wren,0.3694972,239.0,242.0
+Lophodytes cucullatus_Hooded Merganser,0.19805828,241.0,244.0
+Mergus merganser_Common Merganser,0.19052632,241.0,244.0
+Melospiza georgiana_Swamp Sparrow,0.11334205,242.0,245.0
+Cistothorus palustris_Marsh Wren,0.620127,243.0,246.0
+Botaurus lentiginosus_American Bittern,0.16657098,243.0,246.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1075402,243.0,246.0
+Cistothorus palustris_Marsh Wren,0.6439534,244.0,247.0
+Cistothorus palustris_Marsh Wren,0.5974349,245.0,248.0
+Cistothorus palustris_Marsh Wren,0.4193413,246.0,249.0
+Apus melba_Alpine Swift,0.13674404,248.0,251.0
+Spizella pusilla_Field Sparrow,0.14796339,251.0,254.0
+Cistothorus palustris_Marsh Wren,0.7438612,252.0,255.0
+Cistothorus palustris_Marsh Wren,0.8542964,253.0,256.0
+Cistothorus palustris_Marsh Wren,0.62869245,254.0,257.0
+Cistothorus palustris_Marsh Wren,0.18842907,255.0,258.0
+Spatula clypeata_Northern Shoveler,0.52662283,258.0,261.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.13665114,265.0,268.0
+Icterus bullockii_Bullock's Oriole,0.10313934,265.0,268.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.10845756,266.0,269.0
+Icterus bullockii_Bullock's Oriole,0.5002785,267.0,270.0
+Icterus bullockii_Bullock's Oriole,0.19893514,268.0,271.0
+Cistothorus palustris_Marsh Wren,0.21909419,270.0,273.0
+Ammospiza nelsoni_Nelson's Sparrow,0.12731743,271.0,274.0
+Cistothorus palustris_Marsh Wren,0.119299985,271.0,274.0
+Loxia leucoptera_White-winged Crossbill,0.20572375,274.0,277.0
+Loxia leucoptera_White-winged Crossbill,0.40102163,275.0,278.0
+Dolichonyx oryzivorus_Bobolink,0.1099179,275.0,278.0
+Chordeiles gundlachii_Antillean Nighthawk,0.17542759,277.0,280.0
+Loxia leucoptera_White-winged Crossbill,0.16115268,277.0,280.0
+Circus hudsonius_Northern Harrier,0.12645254,278.0,281.0
+Chordeiles gundlachii_Antillean Nighthawk,0.11112317,278.0,281.0
+Antigone canadensis_Sandhill Crane,0.16616227,283.0,286.0
+Euphagus carolinus_Rusty Blackbird,0.15912506,285.0,288.0
+Antigone canadensis_Sandhill Crane,0.20237415,286.0,289.0
+Antigone canadensis_Sandhill Crane,0.19271544,287.0,290.0
+Acanthis flammea_Common Redpoll,0.538335,291.0,294.0
+Acanthis cabaret_Lesser Redpoll,0.11588683,291.0,294.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10585097,292.0,295.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12965125,293.0,296.0
+Spatula clypeata_Northern Shoveler,0.12625846,293.0,296.0
+Spatula clypeata_Northern Shoveler,0.13355887,294.0,297.0
+Acanthis flammea_Common Redpoll,0.144673,295.0,298.0
+Engine_Engine,0.14727412,297.0,300.0
+Antigone canadensis_Sandhill Crane,0.2900024,298.0,301.0
+Antigone canadensis_Sandhill Crane,0.6814717,300.0,303.0
+Spizella pusilla_Field Sparrow,0.1198137,300.0,303.0
+Pooecetes gramineus_Vesper Sparrow,0.27183378,301.0,304.0
+Spizella pusilla_Field Sparrow,0.26517612,301.0,304.0
+Engine_Engine,0.13415952,306.0,309.0
+Emberiza cirlus_Cirl Bunting,0.18020147,309.0,312.0
+Spizella pusilla_Field Sparrow,0.1209488,309.0,312.0
+Spizella pusilla_Field Sparrow,0.18593115,310.0,313.0
+Hirundo rustica_Barn Swallow,0.11390208,312.0,315.0
+Hirundo rustica_Barn Swallow,0.85351586,315.0,318.0
+Hirundo rustica_Barn Swallow,0.90604424,316.0,319.0
+Hirundo rustica_Barn Swallow,0.4817265,317.0,320.0
+Empidonax traillii_Willow Flycatcher,0.12408778,318.0,321.0
+Curruca curruca_Lesser Whitethroat,0.13550156,323.0,326.0
+Apus melba_Alpine Swift,0.112779185,323.0,326.0
+Apus melba_Alpine Swift,0.14983752,324.0,327.0
+Engine_Engine,0.13738027,325.0,328.0
+Engine_Engine,0.44572458,326.0,329.0
+Chloris chloris_European Greenfinch,0.18905377,327.0,330.0
+Engine_Engine,0.11081156,327.0,330.0
+Chloris chloris_European Greenfinch,0.83698463,328.0,331.0
+Spatula clypeata_Northern Shoveler,0.470091,330.0,333.0
+Spatula clypeata_Northern Shoveler,0.18897463,331.0,334.0
+Spatula clypeata_Northern Shoveler,0.101278834,332.0,335.0
+Pooecetes gramineus_Vesper Sparrow,0.10426386,333.0,336.0
+Chloris chloris_European Greenfinch,0.33332333,334.0,337.0
+Acanthis flammea_Common Redpoll,0.1893222,335.0,338.0
+Chloris chloris_European Greenfinch,0.1266906,335.0,338.0
+Engine_Engine,0.20134492,341.0,344.0
+Agelaioides badius_Grayish Baywing,0.3468255,345.0,348.0
+Spinus spinus_Eurasian Siskin,0.28167608,345.0,348.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.48966038,347.0,350.0
+Euphagus carolinus_Rusty Blackbird,0.24842924,347.0,350.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.30237156,348.0,351.0
+Engine_Engine,0.12890814,350.0,353.0
+Engine_Engine,0.10198519,351.0,354.0
+Engine_Engine,0.26824996,352.0,355.0
+Engine_Engine,0.13256572,353.0,356.0
+Engine_Engine,0.19045503,355.0,358.0
+Cistothorus palustris_Marsh Wren,0.44712135,358.0,361.0
+Cistothorus palustris_Marsh Wren,0.56704557,359.0,362.0
+Cistothorus palustris_Marsh Wren,0.1018698,360.0,363.0
+Spatula clypeata_Northern Shoveler,0.24404038,363.0,366.0
+Chrysomus icterocephalus_Yellow-hooded Blackbird,0.28565925,364.0,367.0
+Spatula clypeata_Northern Shoveler,0.10554474,364.0,367.0
+Ixobrychus exilis_Least Bittern,0.10123272,366.0,369.0
+Gallinago delicata_Wilson's Snipe,0.14891599,368.0,371.0
+Somateria mollissima_Common Eider,0.14128,373.0,376.0
+Somateria mollissima_Common Eider,0.16500996,374.0,377.0
+Mergus serrator_Red-breasted Merganser,0.10878556,375.0,378.0
+Mergus serrator_Red-breasted Merganser,0.1543537,376.0,379.0
+Spatula clypeata_Northern Shoveler,0.14969255,376.0,379.0
+Somateria mollissima_Common Eider,0.20482028,377.0,380.0
+Cygnus olor_Mute Swan,0.122416064,378.0,381.0
+Somateria mollissima_Common Eider,0.12185049,378.0,381.0
+Fulica americana_American Coot,0.112861395,383.0,386.0
+Agelaioides badius_Grayish Baywing,0.1969723,388.0,391.0
+Mergus serrator_Red-breasted Merganser,0.100988366,391.0,394.0
+Mergus serrator_Red-breasted Merganser,0.10851491,392.0,395.0
+Mergus serrator_Red-breasted Merganser,0.11190762,393.0,396.0
+Cistothorus palustris_Marsh Wren,0.5102445,396.0,399.0
+Cistothorus palustris_Marsh Wren,0.5231161,397.0,400.0
+Cistothorus palustris_Marsh Wren,0.49749562,398.0,401.0
+Corthylio calendula_Ruby-crowned Kinglet,0.22542757,398.0,401.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.1486589,399.0,402.0
+Myiarchus cinerascens_Ash-throated Flycatcher,0.2612453,400.0,403.0
+Engine_Engine,0.15595545,405.0,408.0
+Engine_Engine,0.17625841,406.0,409.0
+Engine_Engine,0.2544166,407.0,410.0
+Engine_Engine,0.31166312,408.0,411.0
+Engine_Engine,0.47643846,409.0,412.0
+Engine_Engine,0.5588222,410.0,413.0
+Engine_Engine,0.43266279,411.0,414.0
+Engine_Engine,0.3800165,412.0,415.0
+Engine_Engine,0.1460884,413.0,416.0
+Dryocopus pileatus_Pileated Woodpecker,0.12384356,414.0,417.0
+Pooecetes gramineus_Vesper Sparrow,0.35794368,416.0,419.0
+Engine_Engine,0.11852835,417.0,420.0
+Engine_Engine,0.2914073,418.0,421.0
+Haemorhous mexicanus_House Finch,0.2343427,418.0,421.0
+Engine_Engine,0.5746188,419.0,422.0
+Engine_Engine,0.73105353,420.0,423.0
+Engine_Engine,0.47707933,421.0,424.0
+Engine_Engine,0.6384745,422.0,425.0
+Engine_Engine,0.30851442,423.0,426.0
+Engine_Engine,0.3979186,424.0,427.0
+Gallinula galeata_Common Gallinule,0.40963387,425.0,428.0
+Fulica americana_American Coot,0.141299,425.0,428.0
+Gallinula galeata_Common Gallinule,0.10928732,426.0,429.0
+Fulica americana_American Coot,0.106676325,426.0,429.0
+Gallinula galeata_Common Gallinule,0.24736013,427.0,430.0
+Fulica americana_American Coot,0.13971056,427.0,430.0
+Engine_Engine,0.51092875,428.0,431.0
+Engine_Engine,0.30788058,429.0,432.0
+Engine_Engine,0.5495825,430.0,433.0
+Engine_Engine,0.5478955,431.0,434.0
+Engine_Engine,0.37837514,432.0,435.0
+Rynchops niger_Black Skimmer,0.5143469,433.0,436.0
+Rynchops niger_Black Skimmer,0.27130803,434.0,437.0
+Engine_Engine,0.1643111,434.0,437.0
+Larus heermanni_Heermann's Gull,0.10608945,434.0,437.0
+Rynchops niger_Black Skimmer,0.2840621,435.0,438.0
+Onychoprion anaethetus_Bridled Tern,0.10384939,435.0,438.0
+Engine_Engine,0.5233126,436.0,439.0
+Fratercula arctica_Atlantic Puffin,0.12007923,436.0,439.0
+Engine_Engine,0.11741139,437.0,440.0
+Aythya valisineria_Canvasback,0.13314433,438.0,441.0
+Engine_Engine,0.1312798,440.0,443.0
+Aythya valisineria_Canvasback,0.12799361,443.0,446.0
+Engine_Engine,0.19455205,447.0,450.0
+Engine_Engine,0.30253652,448.0,451.0
+Engine_Engine,0.5860659,449.0,452.0
+Engine_Engine,0.19904156,450.0,453.0
+Engine_Engine,0.17243586,451.0,454.0
+Cygnus olor_Mute Swan,0.11262854,453.0,456.0
+Aythya americana_Redhead,0.100942366,453.0,456.0
+Aythya americana_Redhead,0.13705026,454.0,457.0
+Aythya valisineria_Canvasback,0.12446217,454.0,457.0
+Aythya valisineria_Canvasback,0.10840522,457.0,460.0
+Cygnus olor_Mute Swan,0.18006638,458.0,461.0
+Mergus merganser_Common Merganser,0.11166356,458.0,461.0
+Aythya valisineria_Canvasback,0.106919676,458.0,461.0
+Cygnus olor_Mute Swan,0.15944159,459.0,462.0
+Aythya valisineria_Canvasback,0.14825352,459.0,462.0
+Cygnus olor_Mute Swan,0.17784475,460.0,463.0
+Aythya valisineria_Canvasback,0.1748051,460.0,463.0
+Cygnus olor_Mute Swan,0.16908322,461.0,464.0
+Cygnus olor_Mute Swan,0.14724232,462.0,465.0
+Leucophaeus scoresbii_Dolphin Gull,0.12022835,463.0,466.0
+Aythya valisineria_Canvasback,0.14259276,465.0,468.0
+Cygnus olor_Mute Swan,0.10463782,465.0,468.0
+Mergus merganser_Common Merganser,0.23489563,467.0,470.0
+Cygnus olor_Mute Swan,0.1778336,467.0,470.0
+Aythya valisineria_Canvasback,0.11558446,467.0,470.0
+Cygnus olor_Mute Swan,0.13648634,468.0,471.0
+Aythya valisineria_Canvasback,0.10917021,468.0,471.0

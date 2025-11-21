@@ -1,0 +1,13 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.91764873,0.0,3.0
+Colinus virginianus_Northern Bobwhite,0.83323354,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.28062424,2.0,5.0
+Colinus cristatus_Crested Bobwhite,0.111588605,2.0,5.0
+Colinus virginianus_Northern Bobwhite,0.3469254,3.0,6.0
+Oriolus xanthornus_Black-hooded Oriole,0.27638027,3.0,6.0
+Oporornis agilis_Connecticut Warbler,0.11001131,5.0,8.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.13703811,7.0,10.0
+Otus spilocephalus_Mountain Scops-Owl,0.8719014,11.0,14.0
+Colinus virginianus_Northern Bobwhite,0.5887784,11.0,14.0
+Colinus virginianus_Northern Bobwhite,0.79633343,12.0,15.0
+Pitta sordida_Hooded Pitta,0.10299328,13.0,15.84

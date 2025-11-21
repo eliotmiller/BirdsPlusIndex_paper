@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Engine_Engine,0.14400254,1.0,4.0
+Engine_Engine,0.10127312,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.83493245,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.95301133,9.0,12.0
+Myadestes townsendi_Townsend's Solitaire,0.12336667,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.93389934,10.0,13.0
+Myadestes townsendi_Townsend's Solitaire,0.83699197,11.0,14.0
+Peucedramus taeniatus_Olive Warbler,0.13397558,11.0,14.0
+Poecile rufescens_Chestnut-backed Chickadee,0.1594254,12.0,15.0
+Aegithalos caudatus_Long-tailed Tit,0.13425262,12.0,15.0
+Erithacus rubecula_European Robin,0.16992608,14.0,17.0
+Erithacus rubecula_European Robin,0.1546804,15.0,18.0
+Erithacus rubecula_European Robin,0.11853119,16.0,19.0
+Erithacus rubecula_European Robin,0.14939478,19.0,22.0
+Erithacus rubecula_European Robin,0.1284188,20.0,23.0
+Erithacus rubecula_European Robin,0.30574334,21.0,24.0
+Erithacus rubecula_European Robin,0.1110197,23.0,26.0
+Erithacus rubecula_European Robin,0.11896005,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.90573084,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.9599212,28.0,31.0
+Piranga rubra_Summer Tanager,0.12889239,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.88531065,29.0,32.0
+Piranga rubra_Summer Tanager,0.20734768,29.0,32.0
+Aegithalos caudatus_Long-tailed Tit,0.14396662,37.0,40.0
+Calypte anna_Anna's Hummingbird,0.12740052,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.10440162,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.49678752,41.0,44.0
+Piranga rubra_Summer Tanager,0.20447081,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.86538553,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.69795674,43.0,46.0
+Cossypha semirufa_Rüppell's Robin-Chat,0.21672468,43.0,46.0
+Garrulax canorus_Chinese Hwamei,0.11168993,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.3667366,44.0,47.0
+Turdus falcklandii_Austral Thrush,0.26630315,44.0,47.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.21028668,44.0,47.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.5858598,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.6596732,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.9240941,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.9364239,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.92832065,59.0,62.0
+Scolopax rusticola_Eurasian Woodcock,0.1068864,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.73610514,70.0,73.0
+Icterus spurius_Orchard Oriole,0.18563473,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.70344687,71.0,74.0
+Turdus iliacus_Redwing,0.3454277,71.0,74.0
+Icterus spurius_Orchard Oriole,0.12580995,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.6370823,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.77151763,73.0,76.0
+Turdus chiguanco_Chiguanco Thrush,0.116393864,85.0,88.0
+Turdus falcklandii_Austral Thrush,0.10071737,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.9168992,86.0,89.0
+Piranga olivacea_Scarlet Tanager,0.6785468,87.0,90.0
+Piranga olivacea_Scarlet Tanager,0.7899051,88.0,91.0
+Piranga rubra_Summer Tanager,0.10234748,88.0,91.0
+Muscicapa striata_Spotted Flycatcher,0.16640612,98.0,101.0
+Muscicapa striata_Spotted Flycatcher,0.44614592,99.0,102.0
+Erithacus rubecula_European Robin,0.21260549,99.0,102.0
+Coccothraustes coccothraustes_Hawfinch,0.10507249,99.0,102.0
+Muscicapa striata_Spotted Flycatcher,0.5548036,100.0,103.0
+Erithacus rubecula_European Robin,0.38668513,100.0,103.0
+Muscicapa striata_Spotted Flycatcher,0.41444534,101.0,104.0
+Piranga olivacea_Scarlet Tanager,0.7252561,102.0,105.0
+Turdus falcklandii_Austral Thrush,0.1492875,102.0,105.0
+Eophona personata_Japanese Grosbeak,0.10422038,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.9759612,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.97046304,104.0,107.0
+Piranga olivacea_Scarlet Tanager,0.94745165,105.0,108.0
+Turdus iliacus_Redwing,0.15203665,112.0,115.0
+Turdus iliacus_Redwing,0.2924377,114.0,117.0
+Turdus iliacus_Redwing,0.19237398,116.0,119.0
+Erithacus rubecula_European Robin,0.13716088,116.0,119.0
+Cyclarhis nigrirostris_Black-billed Peppershrike,0.14782465,118.0,121.0
+Turdus serranus_Glossy-black Thrush,0.122396864,118.0,121.0
+Piranga olivacea_Scarlet Tanager,0.89438987,119.0,122.0
+Piranga olivacea_Scarlet Tanager,0.9704939,120.0,123.0
+Piranga olivacea_Scarlet Tanager,0.95446527,121.0,123.67201814058957

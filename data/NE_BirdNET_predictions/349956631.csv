@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.2899744,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.15701339,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11109138,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.14457181,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.15304835,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.11309007,2.0,5.0
+Cardellina canadensis_Canada Warbler,0.2821857,3.0,6.0
+Zonotrichia albicollis_White-throated Sparrow,0.14440039,3.0,6.0
+Buteo platypterus_Broad-winged Hawk,0.14392935,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.13588724,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.121136226,3.0,6.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24826077,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15094115,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19725691,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.105689846,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.3308938,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.16768023,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.11063385,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.30849048,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.20787407,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.16488443,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.65137583,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.1435092,13.0,16.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.39234883,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.16973665,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.44607732,15.0,18.0
+Buteo platypterus_Broad-winged Hawk,0.8837787,16.0,19.0
+Buteo platypterus_Broad-winged Hawk,0.13324732,17.0,20.0
+Molothrus ater_Brown-headed Cowbird,0.10790392,17.0,20.0
+Buteo platypterus_Broad-winged Hawk,0.307775,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.22294995,18.0,21.0
+Molothrus ater_Brown-headed Cowbird,0.10547949,18.0,21.0
+Buteo platypterus_Broad-winged Hawk,0.16352308,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.22324574,20.0,23.0
+Geothlypis philadelphia_Mourning Warbler,0.12413376,20.0,23.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.39356104,21.0,24.0
+Geothlypis philadelphia_Mourning Warbler,0.13277987,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31926468,22.0,25.0
+Geothlypis philadelphia_Mourning Warbler,0.12729044,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.19520952,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.57195467,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.16760917,24.0,27.0
+Cardellina canadensis_Canada Warbler,0.7537892,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.44453928,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.27896503,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.18686925,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.32835627,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.2684829,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.106878065,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25100887,28.0,31.0
+Geothlypis philadelphia_Mourning Warbler,0.21475446,28.0,31.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2329086,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101959154,29.0,32.0
+Buteo platypterus_Broad-winged Hawk,0.13231549,30.0,33.0
+Ficedula albicollis_Collared Flycatcher,0.83684236,31.0,34.0
+Buteo platypterus_Broad-winged Hawk,0.31210184,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.14452189,32.0,35.0
+Cardellina canadensis_Canada Warbler,0.17504594,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.10083041,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.23956437,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.112327896,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10817074,34.0,37.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17436394,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.120517336,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.11939284,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10538432,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1636589,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19796039,37.0,39.21600907029478
+Seiurus aurocapilla_Ovenbird,0.14164373,37.0,39.21600907029478
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1166045,37.0,39.21600907029478
+Setophaga citrina_Hooded Warbler,0.112315275,37.0,39.21600907029478
+Setophaga caerulescens_Black-throated Blue Warbler,0.10155688,37.0,39.21600907029478

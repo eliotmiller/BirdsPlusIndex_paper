@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.75057703,0.0,3.0
+Porzana spiloptera_Dot-winged Crake,0.15463118,0.0,3.0
+Sturnella magna_Eastern Meadowlark,0.1089267,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.22344914,1.0,4.0
+Sturnella neglecta_Western Meadowlark,0.19889642,1.0,4.0
+Sturnella magna_Eastern Meadowlark,0.18243481,2.0,5.0
+Centronyx henslowii_Henslow's Sparrow,0.11185904,2.0,5.0
+Passerculus sandwichensis_Savannah Sparrow,0.38911864,4.0,7.0
+Passerculus sandwichensis_Savannah Sparrow,0.8559999,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.1856267,5.0,8.0
+Coccothraustes vespertinus_Evening Grosbeak,0.66383374,6.0,9.0
+Passerculus sandwichensis_Savannah Sparrow,0.28074154,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.23784243,6.0,9.0
+Passerculus sandwichensis_Savannah Sparrow,0.56442016,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.45554927,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.4491743,8.0,11.0
+Spiza americana_Dickcissel,0.18677598,8.0,11.0
+Passerculus sandwichensis_Savannah Sparrow,0.17150354,8.0,11.0
+Centronyx henslowii_Henslow's Sparrow,0.16764298,8.0,11.0
+Sturnella magna_Eastern Meadowlark,0.88877034,10.0,13.0
+Centronyx henslowii_Henslow's Sparrow,0.16071647,10.0,13.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10112189,10.0,13.0
+Dolichonyx oryzivorus_Bobolink,0.9534872,11.0,14.0
+Centronyx henslowii_Henslow's Sparrow,0.13046265,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.93941957,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.82990754,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.99357325,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.9875963,15.0,18.0
+Agelaius tricolor_Tricolored Blackbird,0.11491526,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.99538815,16.0,19.0
+Agelaius tricolor_Tricolored Blackbird,0.26165503,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10951566,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.9266235,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.6855415,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.97301584,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.9982046,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.9965199,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.97759354,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.7314251,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.15712456,24.0,27.0
+Coccothraustes vespertinus_Evening Grosbeak,0.10276613,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.21743019,25.0,28.0
+Sturnella magna_Eastern Meadowlark,0.10007686,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.49473733,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.6348601,27.0,30.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.22256693,27.0,30.0
+Centronyx henslowii_Henslow's Sparrow,0.20624293,27.0,30.0
+Zonotrichia querula_Harris's Sparrow,0.14607306,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.5619542,28.0,31.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.11418433,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.30798778,29.0,32.0
+Centronyx henslowii_Henslow's Sparrow,0.20370501,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.33369422,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.8330572,31.0,34.0
+Passerculus sandwichensis_Savannah Sparrow,0.4827397,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.3095029,32.0,35.0
+Passerculus sandwichensis_Savannah Sparrow,0.67506963,33.0,36.0
+Coccothraustes vespertinus_Evening Grosbeak,0.50906783,34.0,37.0
+Passerculus sandwichensis_Savannah Sparrow,0.24497849,34.0,37.0
+Coccothraustes vespertinus_Evening Grosbeak,0.94747776,35.0,38.0
+Passerculus sandwichensis_Savannah Sparrow,0.33689612,35.0,38.0
+Coccothraustes vespertinus_Evening Grosbeak,0.6342274,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.24354374,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.9499479,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.98635256,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.9818449,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.8609871,40.0,43.0
+Sturnella magna_Eastern Meadowlark,0.24994595,41.0,44.0
+Coccothraustes vespertinus_Evening Grosbeak,0.14040166,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.10127744,41.0,44.0
+Coccothraustes vespertinus_Evening Grosbeak,0.91515845,42.0,45.0
+Coccothraustes vespertinus_Evening Grosbeak,0.5709921,43.0,46.0
+Sturnella magna_Eastern Meadowlark,0.14672643,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.109105885,44.0,47.0
+Sturnella magna_Eastern Meadowlark,0.35987526,45.0,48.0
+Centronyx henslowii_Henslow's Sparrow,0.18987882,45.0,48.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17266005,45.0,48.0
+Sturnella magna_Eastern Meadowlark,0.19256961,46.0,49.0
+Centronyx henslowii_Henslow's Sparrow,0.18050444,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.1714515,47.0,50.0
+Centronyx henslowii_Henslow's Sparrow,0.13142043,47.0,50.0
+Empidonax traillii_Willow Flycatcher,0.121789,47.0,50.0
+Centronyx henslowii_Henslow's Sparrow,0.18759094,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.15809698,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.21013555,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.36868763,51.0,54.0
+Sturnella neglecta_Western Meadowlark,0.15379553,51.0,54.0
+Sturnella magna_Eastern Meadowlark,0.1535229,51.0,54.0
+Spizella pallida_Clay-colored Sparrow,0.108817175,51.0,54.0
+Sturnella magna_Eastern Meadowlark,0.12395302,53.0,56.0
+Passerculus sandwichensis_Savannah Sparrow,0.42128497,54.0,57.0
+Passerculus sandwichensis_Savannah Sparrow,0.96548116,55.0,58.0
+Passerculus sandwichensis_Savannah Sparrow,0.94944364,56.0,59.0
+Passerculus sandwichensis_Savannah Sparrow,0.78672355,57.0,59.04

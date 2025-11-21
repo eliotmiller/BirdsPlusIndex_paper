@@ -1,0 +1,16 @@
+species,score,start_time,end_time
+Haliaeetus leucocephalus_Bald Eagle,0.9932811,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.93649936,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.6457181,2.0,5.0
+Haliaeetus leucocephalus_Bald Eagle,0.7860794,3.0,6.0
+Pandion haliaetus_Osprey,0.13226815,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.93413895,4.0,7.0
+Recurvirostra americana_American Avocet,0.19423461,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.95783293,5.0,8.0
+Recurvirostra americana_American Avocet,0.24418044,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.98353195,6.0,9.0
+Aechmophorus occidentalis_Western Grebe,0.11561887,10.0,13.0
+Aechmophorus occidentalis_Western Grebe,0.16532095,11.0,14.0
+Haliaeetus leucocephalus_Bald Eagle,0.2584325,12.0,15.0
+Aechmophorus occidentalis_Western Grebe,0.21162383,12.0,15.0
+Bubulcus ibis_Cattle Egret,0.12514585,15.0,18.0

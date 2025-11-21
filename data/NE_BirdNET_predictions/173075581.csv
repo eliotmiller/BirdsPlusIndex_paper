@@ -1,0 +1,156 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.12654106,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.8895775,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.95056576,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.9154025,3.0,6.0
+Catharus guttatus_Hermit Thrush,0.2033999,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14521219,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.88749284,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.9623605,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.9451644,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.76552063,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23160462,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.19314767,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.11290084,9.0,12.0
+Buteo platypterus_Broad-winged Hawk,0.10571436,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.14445643,11.0,14.0
+Myiomela leucura_White-tailed Robin,0.16013259,15.0,18.0
+Myadestes unicolor_Slate-colored Solitaire,0.22638206,18.0,21.0
+Catharus guttatus_Hermit Thrush,0.11769411,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.1056957,22.0,25.0
+Catharus guttatus_Hermit Thrush,0.19768621,23.0,26.0
+Catharus occidentalis_Russet Nightingale-Thrush,0.10525757,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.47692862,25.0,28.0
+Catharus guttatus_Hermit Thrush,0.52201074,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.123824224,27.0,30.0
+Certhia americana_Brown Creeper,0.103947476,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.12065491,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.20111264,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.123816945,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.20844512,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.144834,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11527371,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.24657275,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.1225466,35.0,38.0
+Catharus guttatus_Hermit Thrush,0.17941417,36.0,39.0
+Catharus guttatus_Hermit Thrush,0.22842315,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11503694,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20110036,38.0,41.0
+Buteo platypterus_Broad-winged Hawk,0.14389966,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.13049553,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.1240105,38.0,41.0
+Catharus guttatus_Hermit Thrush,0.12343382,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.5912931,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.12624449,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.53376734,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.38695043,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.12206847,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13316253,43.0,46.0
+Buteo platypterus_Broad-winged Hawk,0.103666455,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116349794,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.21247353,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10036649,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.3311905,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.10291869,46.0,49.0
+Catharus guttatus_Hermit Thrush,0.2510855,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11314688,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23120654,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.40557733,49.0,52.0
+Catharus guttatus_Hermit Thrush,0.27206147,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24982977,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.12706016,49.0,52.0
+Buteo platypterus_Broad-winged Hawk,0.11935729,49.0,52.0
+Catharus guttatus_Hermit Thrush,0.52405316,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.121132575,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.11030043,50.0,53.0
+Catharus guttatus_Hermit Thrush,0.45825323,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.12329394,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.10741258,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.103703104,51.0,54.0
+Catharus guttatus_Hermit Thrush,0.20054641,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.1595565,52.0,55.0
+Catharus guttatus_Hermit Thrush,0.46393526,53.0,56.0
+Catharus guttatus_Hermit Thrush,0.7326868,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.4303917,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.22404127,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.6611069,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.82508135,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.91255826,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.70105976,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12359277,61.0,64.0
+Catharus guttatus_Hermit Thrush,0.3452489,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.20643938,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.13229029,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.62226915,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.18739295,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.11835903,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.34771818,64.0,67.0
+Buteo platypterus_Broad-winged Hawk,0.31084046,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.13498364,64.0,67.0
+Catharus guttatus_Hermit Thrush,0.23534477,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.674699,66.0,69.0
+Larvivora komadori_Ryukyu Robin,0.11503867,66.0,69.0
+Catharus guttatus_Hermit Thrush,0.86565804,67.0,70.0
+Myadestes unicolor_Slate-colored Solitaire,0.30745164,68.0,71.0
+Catharus guttatus_Hermit Thrush,0.29122266,68.0,71.0
+Catharus guttatus_Hermit Thrush,0.2600788,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13369882,69.0,72.0
+Setophaga magnolia_Magnolia Warbler,0.12906365,70.0,73.0
+Catharus guttatus_Hermit Thrush,0.10256324,70.0,73.0
+Catharus guttatus_Hermit Thrush,0.6363216,71.0,74.0
+Catharus guttatus_Hermit Thrush,0.779419,72.0,75.0
+Catharus guttatus_Hermit Thrush,0.4675524,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.13479145,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15800017,74.0,77.0
+Catharus guttatus_Hermit Thrush,0.9248521,75.0,78.0
+Catharus guttatus_Hermit Thrush,0.97813284,76.0,79.0
+Catharus guttatus_Hermit Thrush,0.9778269,77.0,80.0
+Catharus guttatus_Hermit Thrush,0.5457905,78.0,81.0
+Catharus guttatus_Hermit Thrush,0.8731541,79.0,82.0
+Catharus guttatus_Hermit Thrush,0.92922497,80.0,83.0
+Catharus guttatus_Hermit Thrush,0.9247343,81.0,84.0
+Catharus guttatus_Hermit Thrush,0.72229743,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.131501,83.0,86.0
+Setophaga virens_Black-throated Green Warbler,0.11337692,83.0,86.0
+Catharus guttatus_Hermit Thrush,0.57797384,85.0,88.0
+Catharus guttatus_Hermit Thrush,0.56229174,86.0,89.0
+Catharus guttatus_Hermit Thrush,0.5313679,87.0,90.0
+Buteo platypterus_Broad-winged Hawk,0.15047485,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14549121,88.0,91.0
+Setophaga fusca_Blackburnian Warbler,0.10190855,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15593672,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.112976424,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.10411711,89.0,92.0
+Catharus guttatus_Hermit Thrush,0.2068999,90.0,93.0
+Catharus guttatus_Hermit Thrush,0.8743591,91.0,94.0
+Catharus guttatus_Hermit Thrush,0.9439208,92.0,95.0
+Catharus guttatus_Hermit Thrush,0.9740117,93.0,96.0
+Catharus guttatus_Hermit Thrush,0.10781106,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.39144418,95.0,98.0
+Myadestes unicolor_Slate-colored Solitaire,0.10157891,95.0,98.0
+Catharus guttatus_Hermit Thrush,0.44894993,96.0,99.0
+Myadestes unicolor_Slate-colored Solitaire,0.2563874,96.0,99.0
+Larvivora komadori_Ryukyu Robin,0.11411798,96.0,99.0
+Myadestes unicolor_Slate-colored Solitaire,0.3030093,97.0,100.0
+Catharus guttatus_Hermit Thrush,0.1862236,97.0,100.0
+Larvivora komadori_Ryukyu Robin,0.1780229,97.0,100.0
+Catharus guttatus_Hermit Thrush,0.9207922,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17868187,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14490889,100.0,103.0
+Buteo platypterus_Broad-winged Hawk,0.11587062,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.34789512,101.0,104.0
+Catharus guttatus_Hermit Thrush,0.186038,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14410277,101.0,104.0
+Catharus guttatus_Hermit Thrush,0.61535364,102.0,105.0
+Catharus guttatus_Hermit Thrush,0.4841402,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.17765805,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.5106278,104.0,107.0
+Setophaga virens_Black-throated Green Warbler,0.34013417,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.17259462,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13782696,117.0,120.0
+Setophaga fusca_Blackburnian Warbler,0.115579516,117.0,120.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10402847,117.0,120.0
+Setophaga virens_Black-throated Green Warbler,0.18012233,118.0,120.93600907029479
+Buteo platypterus_Broad-winged Hawk,0.14201316,118.0,120.93600907029479
+Setophaga caerulescens_Black-throated Blue Warbler,0.12725195,118.0,120.93600907029479
+Setophaga fusca_Blackburnian Warbler,0.12645935,118.0,120.93600907029479

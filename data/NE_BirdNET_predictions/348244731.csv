@@ -1,0 +1,86 @@
+species,score,start_time,end_time
+Toxostoma rufum_Brown Thrasher,0.9739256,0.0,3.0
+Sylvia atricapilla_Eurasian Blackcap,0.4542775,0.0,3.0
+Toxostoma rufum_Brown Thrasher,0.93246335,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.14020008,1.0,4.0
+Toxostoma rufum_Brown Thrasher,0.977042,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.2076248,2.0,5.0
+Toxostoma rufum_Brown Thrasher,0.9054991,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.25210518,3.0,6.0
+Toxostoma rufum_Brown Thrasher,0.64571595,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.31595457,4.0,7.0
+Toxostoma rufum_Brown Thrasher,0.93286866,5.0,8.0
+Toxostoma rufum_Brown Thrasher,0.942047,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.22368038,6.0,9.0
+Toxostoma rufum_Brown Thrasher,0.8404501,7.0,10.0
+Toxostoma rufum_Brown Thrasher,0.76025385,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.17661773,8.0,11.0
+Toxostoma rufum_Brown Thrasher,0.98425287,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.33311576,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.970522,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.24026978,10.0,13.0
+Toxostoma rufum_Brown Thrasher,0.33829325,11.0,14.0
+Toxostoma rufum_Brown Thrasher,0.98457843,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.15487465,12.0,15.0
+Toxostoma rufum_Brown Thrasher,0.99357045,13.0,16.0
+Toxostoma longirostre_Long-billed Thrasher,0.44351536,13.0,16.0
+Toxostoma rufum_Brown Thrasher,0.9933617,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.12197219,14.0,17.0
+Toxostoma rufum_Brown Thrasher,0.9881787,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.14030358,15.0,18.0
+Toxostoma rufum_Brown Thrasher,0.98919,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.27924258,16.0,19.0
+Toxostoma rufum_Brown Thrasher,0.9352935,17.0,20.0
+Toxostoma longirostre_Long-billed Thrasher,0.1804599,17.0,20.0
+Toxostoma rufum_Brown Thrasher,0.9822776,18.0,21.0
+Toxostoma longirostre_Long-billed Thrasher,0.22181846,18.0,21.0
+Toxostoma rufum_Brown Thrasher,0.98671454,19.0,22.0
+Toxostoma longirostre_Long-billed Thrasher,0.28780025,19.0,22.0
+Toxostoma rufum_Brown Thrasher,0.97691524,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.13201118,20.0,23.0
+Toxostoma rufum_Brown Thrasher,0.9916224,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.11358144,21.0,24.0
+Toxostoma rufum_Brown Thrasher,0.98253226,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.29223463,22.0,25.0
+Toxostoma rufum_Brown Thrasher,0.95438206,23.0,26.0
+Toxostoma rufum_Brown Thrasher,0.9198325,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.10100792,24.0,27.0
+Toxostoma rufum_Brown Thrasher,0.8773401,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.1730717,25.0,28.0
+Toxostoma rufum_Brown Thrasher,0.59676784,26.0,29.0
+Coccothraustes coccothraustes_Hawfinch,0.18775383,26.0,29.0
+Sylvia atricapilla_Eurasian Blackcap,0.15617774,26.0,29.0
+Toxostoma rufum_Brown Thrasher,0.6572371,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.14222215,27.0,30.0
+Toxostoma rufum_Brown Thrasher,0.895193,28.0,31.0
+Sylvia atricapilla_Eurasian Blackcap,0.11948868,28.0,31.0
+Toxostoma rufum_Brown Thrasher,0.9776088,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.26517254,29.0,32.0
+Toxostoma rufum_Brown Thrasher,0.9877198,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.17548974,30.0,33.0
+Sylvia atricapilla_Eurasian Blackcap,0.14638627,30.0,33.0
+Toxostoma rufum_Brown Thrasher,0.48783207,31.0,34.0
+Coccothraustes coccothraustes_Hawfinch,0.46897525,31.0,34.0
+Cissopis leverianus_Magpie Tanager,0.2149809,32.0,35.0
+Coccothraustes coccothraustes_Hawfinch,0.11281638,32.0,35.0
+Coccothraustes coccothraustes_Hawfinch,0.24486396,33.0,36.0
+Sylvia atricapilla_Eurasian Blackcap,0.10342795,33.0,36.0
+Toxostoma rufum_Brown Thrasher,0.10248538,33.0,36.0
+Toxostoma rufum_Brown Thrasher,0.9055127,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.11693758,34.0,37.0
+Sylvia atricapilla_Eurasian Blackcap,0.112640776,34.0,37.0
+Toxostoma rufum_Brown Thrasher,0.7197083,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.2809859,35.0,38.0
+Toxostoma rufum_Brown Thrasher,0.96538734,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.8560397,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12144445,36.0,39.0
+Toxostoma rufum_Brown Thrasher,0.9666501,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.19897293,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.9788165,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.20837386,38.0,41.0
+Sylvia atricapilla_Eurasian Blackcap,0.14790207,38.0,41.0
+Toxostoma rufum_Brown Thrasher,0.9240228,39.0,42.0
+Toxostoma rufum_Brown Thrasher,0.9217241,40.0,43.0
+Acrocephalus dumetorum_Blyth's Reed Warbler,0.3339257,40.0,43.0
+Sylvia atricapilla_Eurasian Blackcap,0.23316927,40.0,43.0
+Toxostoma rufum_Brown Thrasher,0.9601295,41.0,43.848027210884354
