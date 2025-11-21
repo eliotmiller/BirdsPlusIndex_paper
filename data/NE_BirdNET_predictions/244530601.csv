@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.11550056,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.5662486,3.0,6.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10493382,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.36507574,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.21369226,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.119705774,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.15733226,11.0,14.0
+Ixoreus naevius_Varied Thrush,0.10266484,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.24084726,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.10370509,14.0,17.0
+Catharus fuscater_Slaty-backed Nightingale-Thrush,0.14404023,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.30949003,16.0,19.0
+Setophaga occidentalis_Hermit Warbler,0.10316724,23.0,26.0
+Dromococcyx pavoninus_Pavonine Cuckoo,0.27323627,25.0,28.0
+Zoothera aurea_White's Thrush,0.17265958,25.0,28.0
+Cyphorhinus thoracicus_Chestnut-breasted Wren,0.17067763,25.0,28.0
+Catharus guttatus_Hermit Thrush,0.413523,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.5292132,27.0,30.0
+Catharus guttatus_Hermit Thrush,0.35820028,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.75908285,30.0,33.0
+Troglodytes hiemalis_Winter Wren,0.9620662,31.0,34.0
+Troglodytes hiemalis_Winter Wren,0.93751454,32.0,35.0
+Troglodytes hiemalis_Winter Wren,0.9611086,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.7882353,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.6465382,35.0,38.0
+Troglodytes hiemalis_Winter Wren,0.31761548,37.0,40.0
+Troglodytes hiemalis_Winter Wren,0.46180522,39.0,42.0
+Brachypteryx leucophris_Lesser Shortwing,0.2275792,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.38077185,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.26493612,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.32840738,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.1751741,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.10928416,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.56334764,42.0,45.0
+Vireo philadelphicus_Philadelphia Vireo,0.104121536,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.79191834,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.12452644,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.37921625,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14383897,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.10328733,46.0,49.0
+Troglodytes hiemalis_Winter Wren,0.57356566,48.0,51.0
+Troglodytes hiemalis_Winter Wren,0.8401275,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.9556499,50.0,53.0
+Troglodytes hiemalis_Winter Wren,0.827031,51.0,54.0
+Troglodytes hiemalis_Winter Wren,0.29703185,52.0,55.0
+Catharus guttatus_Hermit Thrush,0.17295751,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.16833039,53.0,56.0
+Certhia americana_Brown Creeper,0.10314503,53.0,56.0
+Vireo solitarius_Blue-headed Vireo,0.17827721,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.17760786,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.16809933,54.0,57.0
+Vireo solitarius_Blue-headed Vireo,0.41288534,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.18855941,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.1262761,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.26120734,57.0,60.0
+Certhia americana_Brown Creeper,0.16932902,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.278897,58.0,61.0
+Certhia americana_Brown Creeper,0.124782585,58.0,61.0
+Vireo solitarius_Blue-headed Vireo,0.72814906,60.0,63.0
+Catharus guttatus_Hermit Thrush,0.4634546,61.0,64.0
+Vireo solitarius_Blue-headed Vireo,0.19773173,61.0,64.0
+Catharus guttatus_Hermit Thrush,0.43974495,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.3383618,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.16584559,64.0,67.0
+Regulus ignicapilla_Common Firecrest,0.11863715,68.0,71.0
+Catharus guttatus_Hermit Thrush,0.13596146,69.0,72.0
+Catharus guttatus_Hermit Thrush,0.842359,70.0,73.0
+Catharus guttatus_Hermit Thrush,0.9025326,71.0,74.0
+Vireo solitarius_Blue-headed Vireo,0.256363,72.0,75.0
+Vireo solitarius_Blue-headed Vireo,0.21324292,73.0,76.0
+Vireo solitarius_Blue-headed Vireo,0.22352664,74.0,77.0
+Vireo solitarius_Blue-headed Vireo,0.2534629,76.0,79.0

@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Phoenicurus ochruros_Black Redstart,0.4022335,0.0,3.0
+Emberiza hortulana_Ortolan Bunting,0.1217498,0.0,3.0
+Larvivora cyane_Siberian Blue Robin,0.12812695,1.0,4.0
+Ficedula parva_Red-breasted Flycatcher,0.1550828,2.0,5.0
+Emberiza hortulana_Ortolan Bunting,0.4154592,3.0,6.0
+Emberiza cirlus_Cirl Bunting,0.44636676,4.0,7.0
+Emberiza hortulana_Ortolan Bunting,0.31531778,4.0,7.0
+Emberiza hortulana_Ortolan Bunting,0.43189484,5.0,8.0
+Emberiza cirlus_Cirl Bunting,0.33234194,5.0,8.0
+Phoenicurus ochruros_Black Redstart,0.2891694,6.0,9.0
+Setophaga occidentalis_Hermit Warbler,0.19336428,7.0,10.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14103565,7.0,10.0
+Emberiza hortulana_Ortolan Bunting,0.79028416,8.0,11.0
+Emberiza hortulana_Ortolan Bunting,0.31981954,9.0,12.0
+Emberiza hortulana_Ortolan Bunting,0.121829666,10.0,13.0
+Emberiza citrinella_Yellowhammer,0.110614754,10.0,13.0
+Emberiza cirlus_Cirl Bunting,0.10452713,10.0,13.0
+Emberiza hortulana_Ortolan Bunting,0.23359725,11.0,14.0
+Junco phaeonotus_Yellow-eyed Junco,0.17265049,11.0,14.0
+Salpinctes obsoletus_Rock Wren,0.13557976,12.0,15.0
+Emberiza cirlus_Cirl Bunting,0.12835269,12.0,15.0
+Emberiza hortulana_Ortolan Bunting,0.119513735,12.0,15.0
+Emberiza cirlus_Cirl Bunting,0.2698722,13.0,16.0
+Emberiza hortulana_Ortolan Bunting,0.23390198,13.0,16.0
+Salpinctes obsoletus_Rock Wren,0.20047534,13.0,16.0
+Junco phaeonotus_Yellow-eyed Junco,0.19935375,14.0,17.0
+Emberiza hortulana_Ortolan Bunting,0.17530645,15.0,18.0
+Emberiza cirlus_Cirl Bunting,0.4420585,16.0,19.0
+Emberiza cirlus_Cirl Bunting,0.35625917,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.26817903,18.0,21.0
+Junco phaeonotus_Yellow-eyed Junco,0.115243405,18.0,21.0
+Junco phaeonotus_Yellow-eyed Junco,0.4744049,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.27642164,20.0,23.0
+Junco phaeonotus_Yellow-eyed Junco,0.13441381,20.0,23.0
+Junco phaeonotus_Yellow-eyed Junco,0.20416611,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.17589425,21.0,24.0
+Emberiza cirlus_Cirl Bunting,0.15937652,21.0,24.0
+Junco phaeonotus_Yellow-eyed Junco,0.17834693,22.0,25.0
+Emberiza cirlus_Cirl Bunting,0.16582417,22.0,25.0
+Junco phaeonotus_Yellow-eyed Junco,0.31592453,24.0,27.0
+Phoenicurus phoenicurus_Common Redstart,0.15078518,24.0,27.0
+Emberiza cirlus_Cirl Bunting,0.40945125,25.0,28.0
+Emberiza cirlus_Cirl Bunting,0.5236151,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.13259238,26.0,29.0
+Junco phaeonotus_Yellow-eyed Junco,0.39315477,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.18616341,27.0,30.0
+Emberiza cirlus_Cirl Bunting,0.34093314,31.0,34.0
+Emberiza hortulana_Ortolan Bunting,0.1514847,31.0,34.0
+Emberiza cirlus_Cirl Bunting,0.3902651,32.0,35.0
+Emberiza hortulana_Ortolan Bunting,0.20990773,32.0,35.0
+Emberiza citrinella_Yellowhammer,0.19365662,32.0,35.0
+Junco phaeonotus_Yellow-eyed Junco,0.25989375,35.0,38.0
+Setophaga coronata_Yellow-rumped Warbler,0.16429512,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.121412076,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.24758314,36.0,39.0
+Emberiza hortulana_Ortolan Bunting,0.19661404,37.0,40.0
+Emberiza cirlus_Cirl Bunting,0.120322146,37.0,40.0
+Setophaga coronata_Yellow-rumped Warbler,0.27555713,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.18519862,40.0,43.0
+Setophaga occidentalis_Hermit Warbler,0.11252873,40.0,43.0
+Setophaga pinus_Pine Warbler,0.10686822,40.0,43.0
+Junco phaeonotus_Yellow-eyed Junco,0.11610353,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.10342456,41.0,44.0
+Emberiza citrinella_Yellowhammer,0.22176822,43.0,46.0
+Emberiza cirlus_Cirl Bunting,0.14369887,43.0,46.0
+Emberiza citrinella_Yellowhammer,0.10397266,48.0,51.0
+Emberiza hortulana_Ortolan Bunting,0.10032323,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.10662376,49.0,52.0
+Bombycilla cedrorum_Cedar Waxwing,0.1748093,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.19437206,54.0,57.0
+Bombycilla cedrorum_Cedar Waxwing,0.17910847,55.0,57.98403628117914

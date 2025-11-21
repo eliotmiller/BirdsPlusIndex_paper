@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9736573,0.0,3.0
+Catharus fuscescens_Veery,0.93610394,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.102222495,1.0,4.0
+Catharus fuscescens_Veery,0.9511743,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.95772666,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.75752676,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.86559623,5.0,8.0
+Catharus fuscescens_Veery,0.6884692,6.0,9.0
+Catharus fuscescens_Veery,0.45081866,7.0,10.0
+Setophaga ruticilla_American Redstart,0.3807917,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.17686355,7.0,10.0
+Catharus fuscescens_Veery,0.97572994,8.0,11.0
+Catharus fuscescens_Veery,0.97126186,9.0,12.0
+Catharus fuscescens_Veery,0.9733137,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.3284801,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.15804398,11.0,14.0
+Catharus fuscescens_Veery,0.9519004,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.10173028,12.0,15.0
+Catharus fuscescens_Veery,0.9513852,13.0,16.0
+Catharus fuscescens_Veery,0.9453131,14.0,17.0
+Setophaga ruticilla_American Redstart,0.87902725,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.73656577,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.3490801,15.0,18.0
+Setophaga ruticilla_American Redstart,0.979596,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.23207498,16.0,19.0
+Setophaga ruticilla_American Redstart,0.9809513,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.22172278,17.0,20.0
+Setophaga ruticilla_American Redstart,0.47704992,18.0,21.0
+Turdus migratorius_American Robin,0.25641546,21.0,24.0
+Setophaga ruticilla_American Redstart,0.25807902,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.11748869,22.0,25.0
+Setophaga ruticilla_American Redstart,0.5845379,23.0,26.0
+Setophaga ruticilla_American Redstart,0.98999035,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.2696703,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.24001437,24.0,27.0
+Geothlypis formosa_Kentucky Warbler,0.12609065,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.8498073,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.85832536,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.9215163,27.0,30.0
+Setophaga ruticilla_American Redstart,0.13538796,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.10195587,30.0,33.0
+Setophaga ruticilla_American Redstart,0.14428401,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.10218272,31.0,34.0
+Setophaga ruticilla_American Redstart,0.49065167,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.14107287,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.10736134,32.0,35.0
+Protonotaria citrea_Prothonotary Warbler,0.27158138,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26100716,33.0,36.0
+Setophaga ruticilla_American Redstart,0.1487963,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.12904608,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22080933,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.113579676,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.11281879,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30025163,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.12620398,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.11700864,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.1109285,35.0,38.0
+Geothlypis formosa_Kentucky Warbler,0.10387708,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.17154486,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.15954201,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13082437,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.8218835,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.8718149,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.7562604,39.0,42.0
+Setophaga ruticilla_American Redstart,0.4876279,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.20132564,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.1342974,40.0,43.0
+Setophaga ruticilla_American Redstart,0.20020592,41.0,43.87201814058957
+Geothlypis formosa_Kentucky Warbler,0.112937376,41.0,43.87201814058957
+Setophaga cerulea_Cerulean Warbler,0.108365424,41.0,43.87201814058957

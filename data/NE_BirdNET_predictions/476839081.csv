@@ -1,0 +1,36 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.10425967,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.2941516,17.0,20.0
+Passerina cyanea_Indigo Bunting,0.38033727,21.0,24.0
+Passerina cyanea_Indigo Bunting,0.27082232,23.0,26.0
+Passerina caerulea_Blue Grosbeak,0.18071717,23.0,26.0
+Passerina caerulea_Blue Grosbeak,0.10852997,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.18763812,25.0,28.0
+Passerina caerulea_Blue Grosbeak,0.17694156,25.0,28.0
+Passerina caerulea_Blue Grosbeak,0.12806727,26.0,29.0
+Passerina versicolor_Varied Bunting,0.3227626,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.16897818,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.17817599,33.0,36.0
+Passerina caerulea_Blue Grosbeak,0.12299065,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.1179218,36.0,39.0
+Empidonax minimus_Least Flycatcher,0.15345107,37.0,40.0
+Passerina caerulea_Blue Grosbeak,0.13724697,38.0,41.0
+Passerina caerulea_Blue Grosbeak,0.17114863,39.0,42.0
+Passerina versicolor_Varied Bunting,0.16714053,39.0,42.0
+Passerina caerulea_Blue Grosbeak,0.312496,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.26298383,40.0,43.0
+Passerina versicolor_Varied Bunting,0.13643703,40.0,43.0
+Passerina caerulea_Blue Grosbeak,0.16901597,41.0,44.0
+Passerina caerulea_Blue Grosbeak,0.12784997,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.108516596,42.0,45.0
+Buteo jamaicensis_Red-tailed Hawk,0.11488542,65.0,68.0
+Rallus elegans_King Rail,0.10363044,66.0,69.0
+Rallus elegans_King Rail,0.12597996,67.0,70.0
+Quiscalus major_Boat-tailed Grackle,0.1009314,67.0,70.0
+Rallus elegans_King Rail,0.15278418,68.0,71.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12350407,69.0,72.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16640478,73.0,76.0
+Lithobates catesbeianus_American Bullfrog,0.18618265,79.0,82.0
+Dolichonyx oryzivorus_Bobolink,0.12065224,79.0,82.0
+Dolichonyx oryzivorus_Bobolink,0.14830281,80.0,83.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12443959,82.0,85.0

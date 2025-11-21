@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.52770513,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20877114,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.10119604,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10154678,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.15772396,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15527761,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.14614673,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17407024,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.12691306,5.0,8.0
+Setophaga citrina_Hooded Warbler,0.23324257,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.24107811,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12948826,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.38773593,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15708008,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.4668237,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16623679,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20997441,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.29874066,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.14812493,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.29509705,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.43418977,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.4560121,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13281235,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.17136674,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15312353,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.1127909,16.0,19.0
+Buteo platypterus_Broad-winged Hawk,0.102830596,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24628848,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.21823083,19.0,22.0
+Tarsiger cyanurus_Red-flanked Bluetail,0.15839942,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.27212116,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13100144,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.29154092,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.12792891,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.12191227,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.22427279,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.15385549,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.12191192,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102802835,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.13585065,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.10308171,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.101692766,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11336075,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.1037934,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.6162711,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.57750964,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.4948244,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.5287794,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28388083,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19557789,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20034872,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.9686319,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.67080075,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.6491262,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.17460318,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.105762325,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12113564,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1852562,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.10540077,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14351583,41.0,44.0
+Tarsiger cyanurus_Red-flanked Bluetail,0.7797102,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.56497014,42.0,45.0
+Tarsiger cyanurus_Red-flanked Bluetail,0.3792228,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.37623847,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.54865825,44.0,47.0
+Tarsiger cyanurus_Red-flanked Bluetail,0.22958297,44.0,47.0
+Geothlypis formosa_Kentucky Warbler,0.12412159,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.11879544,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.116512455,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.109557964,46.0,49.0
+Tamias striatus_Eastern Chipmunk,0.10155182,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.18397866,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.17654246,49.0,52.0
+Tamias striatus_Eastern Chipmunk,0.13989884,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.10612694,50.0,53.0
+Tamias striatus_Eastern Chipmunk,0.4464427,51.0,54.0
+Tamias striatus_Eastern Chipmunk,0.28137186,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.11238956,52.0,55.0
+Tamias striatus_Eastern Chipmunk,0.11194447,55.0,58.0
+Tamias striatus_Eastern Chipmunk,0.16087191,56.0,59.0
+Tamias striatus_Eastern Chipmunk,0.16492043,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.22701041,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10599025,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.12027289,59.0,62.0
+Tamias striatus_Eastern Chipmunk,0.30072558,60.0,63.0
+Tamias striatus_Eastern Chipmunk,0.19097824,61.0,63.768027210884355
+Setophaga cerulea_Cerulean Warbler,0.109143004,61.0,63.768027210884355

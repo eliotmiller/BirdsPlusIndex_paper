@@ -1,0 +1,97 @@
+species,score,start_time,end_time
+Toxostoma rufum_Brown Thrasher,0.49577287,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.2050783,0.0,3.0
+Toxostoma rufum_Brown Thrasher,0.6721453,1.0,4.0
+Dumetella carolinensis_Gray Catbird,0.45403022,1.0,4.0
+Toxostoma rufum_Brown Thrasher,0.14620642,2.0,5.0
+Empidonax minimus_Least Flycatcher,0.14138888,2.0,5.0
+Empidonax minimus_Least Flycatcher,0.9063254,3.0,6.0
+Empidonax minimus_Least Flycatcher,0.82593006,4.0,7.0
+Empidonax minimus_Least Flycatcher,0.9845947,5.0,8.0
+Empidonax minimus_Least Flycatcher,0.8734292,6.0,9.0
+Toxostoma rufum_Brown Thrasher,0.41271755,8.0,11.0
+Toxostoma rufum_Brown Thrasher,0.81391853,9.0,12.0
+Dumetella carolinensis_Gray Catbird,0.5424102,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.78486145,10.0,13.0
+Dumetella carolinensis_Gray Catbird,0.2410101,10.0,13.0
+Empidonax minimus_Least Flycatcher,0.21653466,11.0,14.0
+Toxostoma rufum_Brown Thrasher,0.20991693,11.0,14.0
+Dumetella carolinensis_Gray Catbird,0.1695317,11.0,14.0
+Melanoptila glabrirostris_Black Catbird,0.10101754,12.0,15.0
+Empidonax minimus_Least Flycatcher,0.70260423,14.0,17.0
+Empidonax minimus_Least Flycatcher,0.9794806,15.0,18.0
+Empidonax minimus_Least Flycatcher,0.94623095,16.0,19.0
+Empidonax minimus_Least Flycatcher,0.8817313,17.0,20.0
+Empidonax minimus_Least Flycatcher,0.32333595,18.0,21.0
+Vireo griseus_White-eyed Vireo,0.12548013,18.0,21.0
+Calidris alpina_Dunlin,0.12463827,19.0,22.0
+Calidris alpina_Dunlin,0.34661475,20.0,23.0
+Cyanistes teneriffae_African Blue Tit,0.3278175,23.0,26.0
+Toxostoma rufum_Brown Thrasher,0.45260322,24.0,27.0
+Turdus philomelos_Song Thrush,0.110349976,24.0,27.0
+Toxostoma rufum_Brown Thrasher,0.7110731,25.0,28.0
+Toxostoma rufum_Brown Thrasher,0.12701154,26.0,29.0
+Melanotis caerulescens_Blue Mockingbird,0.114223614,26.0,29.0
+Empidonax minimus_Least Flycatcher,0.60782325,27.0,30.0
+Empidonax minimus_Least Flycatcher,0.983205,28.0,31.0
+Empidonax minimus_Least Flycatcher,0.9512408,29.0,32.0
+Empidonax minimus_Least Flycatcher,0.94870543,30.0,33.0
+Empidonax minimus_Least Flycatcher,0.97842777,31.0,34.0
+Empidonax minimus_Least Flycatcher,0.98039263,32.0,35.0
+Empidonax minimus_Least Flycatcher,0.95541936,33.0,36.0
+Myiotheretes striaticollis_Streak-throated Bush-Tyrant,0.15931337,36.0,39.0
+Calidris alpina_Dunlin,0.22686082,37.0,40.0
+Toxostoma rufum_Brown Thrasher,0.15644069,39.0,42.0
+Toxostoma rufum_Brown Thrasher,0.74693865,40.0,43.0
+Calliope calliope_Siberian Rubythroat,0.39651343,40.0,43.0
+Toxostoma rufum_Brown Thrasher,0.88542104,41.0,44.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.33613378,42.0,45.0
+Empidonax minimus_Least Flycatcher,0.13893439,44.0,47.0
+Regulus ignicapilla_Common Firecrest,0.13437563,48.0,51.0
+Regulus ignicapilla_Common Firecrest,0.102411434,49.0,52.0
+Empidonax minimus_Least Flycatcher,0.28306296,54.0,57.0
+Vireo philadelphicus_Philadelphia Vireo,0.28288108,54.0,57.0
+Empidonax minimus_Least Flycatcher,0.21175548,55.0,58.0
+Vireo philadelphicus_Philadelphia Vireo,0.14458635,56.0,59.0
+Vireo solitarius_Blue-headed Vireo,0.10148765,56.0,59.0
+Otus rutilus_Madagascar Scops-Owl,0.16467167,59.0,62.0
+Numenius phaeopus_Whimbrel,0.119533576,66.0,69.0
+Toxostoma rufum_Brown Thrasher,0.117102675,71.0,74.0
+Toxostoma rufum_Brown Thrasher,0.29822892,72.0,75.0
+Melanotis caerulescens_Blue Mockingbird,0.29002675,72.0,75.0
+Cantorchilus longirostris_Long-billed Wren,0.25578764,74.0,77.0
+Empidonax minimus_Least Flycatcher,0.58716106,75.0,78.0
+Empidonax minimus_Least Flycatcher,0.8543465,76.0,79.0
+Carduelis carduelis_European Goldfinch,0.41651148,77.0,80.0
+Lophophanes cristatus_Crested Tit,0.12075135,79.0,82.0
+Coccothraustes coccothraustes_Hawfinch,0.3004865,80.0,83.0
+Turdus iliacus_Redwing,0.14252503,80.0,83.0
+Bombycilla cedrorum_Cedar Waxwing,0.20207608,81.0,84.0
+Regulus ignicapilla_Common Firecrest,0.10786232,81.0,84.0
+Bombycilla cedrorum_Cedar Waxwing,0.1297086,82.0,85.0
+Bombycilla cedrorum_Cedar Waxwing,0.37763742,83.0,86.0
+Empidonax minimus_Least Flycatcher,0.6989295,84.0,87.0
+Empidonax hammondii_Hammond's Flycatcher,0.17833193,84.0,87.0
+Empidonax minimus_Least Flycatcher,0.7644021,85.0,88.0
+Empidonax minimus_Least Flycatcher,0.8223675,86.0,89.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.6232544,87.0,90.0
+Empidonax minimus_Least Flycatcher,0.4120824,89.0,92.0
+Empidonax minimus_Least Flycatcher,0.43304816,90.0,93.0
+Icterus galbula_Baltimore Oriole,0.14790183,90.0,93.0
+Empidonax minimus_Least Flycatcher,0.9763074,91.0,94.0
+Empidonax minimus_Least Flycatcher,0.88911945,92.0,95.0
+Cantorchilus longirostris_Long-billed Wren,0.23205353,95.0,98.0
+Toxostoma rufum_Brown Thrasher,0.12036636,96.0,99.0
+Cantorchilus longirostris_Long-billed Wren,0.12026529,96.0,99.0
+Toxostoma longirostre_Long-billed Thrasher,0.2730984,97.0,100.0
+Toxostoma rufum_Brown Thrasher,0.23920988,97.0,100.0
+Toxostoma rufum_Brown Thrasher,0.22496301,99.0,102.0
+Sylvia borin_Garden Warbler,0.1113078,99.0,102.0
+Turdus philomelos_Song Thrush,0.10467119,99.0,102.0
+Toxostoma rufum_Brown Thrasher,0.38224137,100.0,103.0
+Toxostoma rufum_Brown Thrasher,0.37567368,101.0,104.0
+Catharus fuscescens_Veery,0.7085881,102.0,105.0
+Catharus fuscescens_Veery,0.9195516,103.0,106.0
+Empidonax minimus_Least Flycatcher,0.15639293,103.0,106.0
+Empidonax minimus_Least Flycatcher,0.12192444,104.0,107.0
+Sappho sparganurus_Red-tailed Comet,0.29997784,106.0,109.0

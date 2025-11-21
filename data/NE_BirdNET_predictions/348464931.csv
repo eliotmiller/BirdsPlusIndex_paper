@@ -1,0 +1,106 @@
+species,score,start_time,end_time
+Rallus limicola_Virginia Rail,0.93267494,0.0,3.0
+Rallus crepitans_Clapper Rail,0.2259995,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21515872,0.0,3.0
+Phasianus colchicus_Ring-necked Pheasant,0.15605402,0.0,3.0
+Porzana carolina_Sora,0.12335033,0.0,3.0
+Toxostoma redivivum_California Thrasher,0.34265617,1.0,4.0
+Rallus limicola_Virginia Rail,0.3270694,1.0,4.0
+Icterus bullockii_Bullock's Oriole,0.2752409,1.0,4.0
+Toxostoma redivivum_California Thrasher,0.57269996,2.0,5.0
+Curaeus curaeus_Austral Blackbird,0.35019785,3.0,6.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.2644164,3.0,6.0
+Rallus limicola_Virginia Rail,0.22736685,3.0,6.0
+Rallus limicola_Virginia Rail,0.7895695,4.0,7.0
+Agelaius tricolor_Tricolored Blackbird,0.33589402,4.0,7.0
+Rallus limicola_Virginia Rail,0.6365257,5.0,8.0
+Rallus limicola_Virginia Rail,0.82935613,6.0,9.0
+Rallus crepitans_Clapper Rail,0.2909959,6.0,9.0
+Rallus limicola_Virginia Rail,0.882473,7.0,10.0
+Lanius schach_Long-tailed Shrike,0.17015707,7.0,10.0
+Rallus limicola_Virginia Rail,0.8742398,8.0,11.0
+Chlidonias niger_Black Tern,0.14081521,8.0,11.0
+Rallus limicola_Virginia Rail,0.44351748,9.0,12.0
+Porzana carolina_Sora,0.24262725,9.0,12.0
+Curaeus curaeus_Austral Blackbird,0.1467564,9.0,12.0
+Chlidonias niger_Black Tern,0.11461851,9.0,12.0
+Porzana carolina_Sora,0.8910788,10.0,13.0
+Furnarius rufus_Rufous Hornero,0.28951365,10.0,13.0
+Rallus limicola_Virginia Rail,0.24294123,10.0,13.0
+Rallus limicola_Virginia Rail,0.5124053,11.0,14.0
+Porzana carolina_Sora,0.2997129,11.0,14.0
+Chlidonias niger_Black Tern,0.10493592,11.0,14.0
+Rallus limicola_Virginia Rail,0.39564076,12.0,15.0
+Rallus crepitans_Clapper Rail,0.124713145,12.0,15.0
+Rallus crepitans_Clapper Rail,0.15176164,13.0,16.0
+Rallus obsoletus_Ridgway's Rail,0.101125464,13.0,16.0
+Rallus obsoletus_Ridgway's Rail,0.6899372,14.0,17.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.26626074,14.0,17.0
+Rallus crepitans_Clapper Rail,0.23820856,14.0,17.0
+Rallus limicola_Virginia Rail,0.554313,16.0,19.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.14821312,16.0,19.0
+Rallus limicola_Virginia Rail,0.99001944,17.0,20.0
+Icterus bullockii_Bullock's Oriole,0.10584241,17.0,20.0
+Rallus limicola_Virginia Rail,0.9936439,18.0,21.0
+Rallus limicola_Virginia Rail,0.9963407,19.0,22.0
+Rallus limicola_Virginia Rail,0.99853253,20.0,23.0
+Rallus limicola_Virginia Rail,0.9965443,21.0,24.0
+Rallus limicola_Virginia Rail,0.97974956,22.0,25.0
+Spinus pinus_Pine Siskin,0.101745315,22.0,25.0
+Rallus limicola_Virginia Rail,0.9977537,23.0,26.0
+Rallus limicola_Virginia Rail,0.9950411,24.0,27.0
+Rallus limicola_Virginia Rail,0.9986425,25.0,28.0
+Rallus limicola_Virginia Rail,0.13007821,26.0,29.0
+Rallus limicola_Virginia Rail,0.30332544,28.0,31.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.21687965,28.0,31.0
+Rallus limicola_Virginia Rail,0.9911696,29.0,32.0
+Rallus limicola_Virginia Rail,0.9996915,30.0,33.0
+Rallus limicola_Virginia Rail,0.99873275,31.0,34.0
+Rallus limicola_Virginia Rail,0.9978841,32.0,35.0
+Rallus limicola_Virginia Rail,0.8799623,33.0,36.0
+Synallaxis spixi_Spix's Spinetail,0.15791965,33.0,36.0
+Pseudoleistes virescens_Brown-and-yellow Marshbird,0.10199679,33.0,36.0
+Rallus limicola_Virginia Rail,0.9762927,34.0,37.0
+Dendrocopos syriacus_Syrian Woodpecker,0.13208671,34.0,37.0
+Rallus limicola_Virginia Rail,0.99316216,35.0,38.0
+Dendrocopos syriacus_Syrian Woodpecker,0.33398262,35.0,38.0
+Rallus limicola_Virginia Rail,0.8565018,36.0,39.0
+Rallus limicola_Virginia Rail,0.628107,37.0,40.0
+Rallus limicola_Virginia Rail,0.9109156,38.0,41.0
+Icterus bullockii_Bullock's Oriole,0.7320479,39.0,42.0
+Rallus limicola_Virginia Rail,0.55484366,39.0,42.0
+Icterus bullockii_Bullock's Oriole,0.55240077,40.0,43.0
+Rallus limicola_Virginia Rail,0.51762104,40.0,43.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.34739313,40.0,43.0
+Rallus limicola_Virginia Rail,0.9937202,41.0,44.0
+Rallus limicola_Virginia Rail,0.9696389,42.0,45.0
+Icterus bullockii_Bullock's Oriole,0.16914389,42.0,45.0
+Rallus limicola_Virginia Rail,0.9949071,43.0,46.0
+Rallus limicola_Virginia Rail,0.9822328,44.0,47.0
+Quiscalus mexicanus_Great-tailed Grackle,0.10788618,44.0,47.0
+Rallus limicola_Virginia Rail,0.9922679,45.0,48.0
+Pseudoleistes virescens_Brown-and-yellow Marshbird,0.11850893,45.0,48.0
+Rallus limicola_Virginia Rail,0.9854864,46.0,49.0
+Pardirallus maculatus_Spotted Rail,0.11723827,46.0,49.0
+Rallus limicola_Virginia Rail,0.9991518,47.0,50.0
+Rallus limicola_Virginia Rail,0.99784684,48.0,51.0
+Rallus limicola_Virginia Rail,0.9855935,49.0,52.0
+Rallus limicola_Virginia Rail,0.99752253,50.0,53.0
+Rallus limicola_Virginia Rail,0.99832827,51.0,54.0
+Spinus pinus_Pine Siskin,0.31376404,51.0,54.0
+Icterus bullockii_Bullock's Oriole,0.14814086,51.0,54.0
+Rallus limicola_Virginia Rail,0.981912,52.0,55.0
+Spinus pinus_Pine Siskin,0.14197324,52.0,55.0
+Rallus limicola_Virginia Rail,0.89088,53.0,56.0
+Rallus limicola_Virginia Rail,0.9943883,54.0,57.0
+Rallus limicola_Virginia Rail,0.9971295,55.0,58.0
+Rallus limicola_Virginia Rail,0.9453031,56.0,59.0
+Schistochlamys ruficapillus_Cinnamon Tanager,0.19841492,57.0,60.0
+Rallus limicola_Virginia Rail,0.14511733,57.0,60.0
+Rallus limicola_Virginia Rail,0.42425403,58.0,61.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.2707277,58.0,61.0
+Spinus pinus_Pine Siskin,0.10118375,58.0,61.0
+Rallus limicola_Virginia Rail,0.97557575,59.0,62.0
+Rallus limicola_Virginia Rail,0.99782145,60.0,63.0
+Rallus limicola_Virginia Rail,0.9916338,61.0,64.0
+Rallus limicola_Virginia Rail,0.98682135,62.0,65.0

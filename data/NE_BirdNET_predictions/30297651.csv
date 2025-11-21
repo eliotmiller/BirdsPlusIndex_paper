@@ -1,0 +1,198 @@
+species,score,start_time,end_time
+Poecile rufescens_Chestnut-backed Chickadee,0.28565374,0.0,3.0
+Regulus satrapa_Golden-crowned Kinglet,0.19865197,0.0,3.0
+Poecile rufescens_Chestnut-backed Chickadee,0.24078411,2.0,5.0
+Baeolophus wollweberi_Bridled Titmouse,0.13384794,6.0,9.0
+Baeolophus ridgwayi_Juniper Titmouse,0.11320724,6.0,9.0
+Baeolophus wollweberi_Bridled Titmouse,0.35521203,7.0,10.0
+Baeolophus wollweberi_Bridled Titmouse,0.41016904,8.0,11.0
+Poecile rufescens_Chestnut-backed Chickadee,0.11345544,11.0,14.0
+Phaethornis griseogularis_Gray-chinned Hermit,0.10995973,11.0,14.0
+Baeolophus ridgwayi_Juniper Titmouse,0.11519289,12.0,15.0
+Suiriri suiriri_Suiriri Flycatcher,0.19314514,13.0,16.0
+Suiriri suiriri_Suiriri Flycatcher,0.43261763,14.0,17.0
+Suiriri suiriri_Suiriri Flycatcher,0.30123603,15.0,18.0
+Baeolophus wollweberi_Bridled Titmouse,0.28136623,25.0,28.0
+Icterus galbula_Baltimore Oriole,0.10474156,25.0,28.0
+Baeolophus ridgwayi_Juniper Titmouse,0.15718782,26.0,29.0
+Baeolophus wollweberi_Bridled Titmouse,0.22366047,27.0,30.0
+Hippolais polyglotta_Melodious Warbler,0.23169903,28.0,31.0
+Hippolais polyglotta_Melodious Warbler,0.25702035,29.0,32.0
+Baeolophus wollweberi_Bridled Titmouse,0.49586028,30.0,33.0
+Baeolophus wollweberi_Bridled Titmouse,0.28835618,31.0,34.0
+Baeolophus wollweberi_Bridled Titmouse,0.7111127,32.0,35.0
+Baeolophus wollweberi_Bridled Titmouse,0.7510865,33.0,36.0
+Troglodytes aedon_House Wren,0.11657133,33.0,36.0
+Baeolophus wollweberi_Bridled Titmouse,0.8356,34.0,37.0
+Baeolophus wollweberi_Bridled Titmouse,0.78710634,35.0,38.0
+Baeolophus wollweberi_Bridled Titmouse,0.92633957,36.0,39.0
+Baeolophus wollweberi_Bridled Titmouse,0.93424654,37.0,40.0
+Baeolophus wollweberi_Bridled Titmouse,0.95828956,38.0,41.0
+Hippolais polyglotta_Melodious Warbler,0.115954466,38.0,41.0
+Troglodytes aedon_House Wren,0.10850139,40.0,43.0
+Baeolophus wollweberi_Bridled Titmouse,0.2225068,41.0,44.0
+Baeolophus wollweberi_Bridled Titmouse,0.5377133,42.0,45.0
+Baeolophus wollweberi_Bridled Titmouse,0.4344413,43.0,46.0
+Troglodytes aedon_House Wren,0.17885208,43.0,46.0
+Baeolophus wollweberi_Bridled Titmouse,0.44346628,44.0,47.0
+Troglodytes aedon_House Wren,0.19182569,44.0,47.0
+Baeolophus wollweberi_Bridled Titmouse,0.7343566,45.0,48.0
+Baeolophus wollweberi_Bridled Titmouse,0.21777242,46.0,49.0
+Baeolophus wollweberi_Bridled Titmouse,0.12589294,47.0,50.0
+Baeolophus wollweberi_Bridled Titmouse,0.7338158,48.0,51.0
+Baeolophus wollweberi_Bridled Titmouse,0.8629059,49.0,52.0
+Baeolophus wollweberi_Bridled Titmouse,0.7049609,50.0,53.0
+Baeolophus wollweberi_Bridled Titmouse,0.14357775,51.0,54.0
+Troglodytes aedon_House Wren,0.100176215,51.0,54.0
+Baeolophus wollweberi_Bridled Titmouse,0.63036644,53.0,56.0
+Baeolophus wollweberi_Bridled Titmouse,0.4921435,54.0,57.0
+Baeolophus wollweberi_Bridled Titmouse,0.6698336,55.0,58.0
+Engine_Engine,0.1530647,56.0,59.0
+Baeolophus wollweberi_Bridled Titmouse,0.44027624,57.0,60.0
+Baeolophus wollweberi_Bridled Titmouse,0.5524308,58.0,61.0
+Baeolophus wollweberi_Bridled Titmouse,0.6636777,59.0,62.0
+Baeolophus wollweberi_Bridled Titmouse,0.5669273,60.0,63.0
+Baeolophus wollweberi_Bridled Titmouse,0.33882052,61.0,64.0
+Baeolophus wollweberi_Bridled Titmouse,0.31838894,62.0,65.0
+Indicator variegatus_Scaly-throated Honeyguide,0.108039424,62.0,65.0
+Troglodytes aedon_House Wren,0.24506523,63.0,66.0
+Troglodytes aedon_House Wren,0.15238647,64.0,67.0
+Baeolophus wollweberi_Bridled Titmouse,0.10262911,64.0,67.0
+Troglodytes aedon_House Wren,0.13217464,65.0,68.0
+Baeolophus wollweberi_Bridled Titmouse,0.102282174,65.0,68.0
+Troglodytes aedon_House Wren,0.2804284,66.0,69.0
+Baeolophus wollweberi_Bridled Titmouse,0.12066462,67.0,70.0
+Troglodytes aedon_House Wren,0.11095934,67.0,70.0
+Poecile rufescens_Chestnut-backed Chickadee,0.19320458,69.0,72.0
+Troglodytes aedon_House Wren,0.16581197,70.0,73.0
+Troglodytes aedon_House Wren,0.22962834,71.0,74.0
+Troglodytes aedon_House Wren,0.1362181,72.0,75.0
+Baeolophus wollweberi_Bridled Titmouse,0.34917146,73.0,76.0
+Troglodytes aedon_House Wren,0.10049988,73.0,76.0
+Baeolophus wollweberi_Bridled Titmouse,0.18955715,74.0,77.0
+Troglodytes aedon_House Wren,0.12563477,74.0,77.0
+Baeolophus wollweberi_Bridled Titmouse,0.39473388,75.0,78.0
+Baeolophus wollweberi_Bridled Titmouse,0.5064798,76.0,79.0
+Troglodytes aedon_House Wren,0.15717436,76.0,79.0
+Baeolophus wollweberi_Bridled Titmouse,0.7762486,77.0,80.0
+Troglodytes aedon_House Wren,0.36204067,77.0,80.0
+Baeolophus wollweberi_Bridled Titmouse,0.5707819,78.0,81.0
+Troglodytes aedon_House Wren,0.39129505,78.0,81.0
+Baeolophus wollweberi_Bridled Titmouse,0.48208037,79.0,82.0
+Troglodytes aedon_House Wren,0.14981312,79.0,82.0
+Baeolophus wollweberi_Bridled Titmouse,0.6076153,80.0,83.0
+Troglodytes aedon_House Wren,0.17513831,80.0,83.0
+Troglodytes aedon_House Wren,0.4595584,81.0,84.0
+Baeolophus wollweberi_Bridled Titmouse,0.42696035,81.0,84.0
+Baeolophus wollweberi_Bridled Titmouse,0.59155023,82.0,85.0
+Troglodytes aedon_House Wren,0.123423435,82.0,85.0
+Baeolophus wollweberi_Bridled Titmouse,0.5456114,83.0,86.0
+Troglodytes aedon_House Wren,0.39881834,83.0,86.0
+Anas superciliosa_Pacific Black Duck,0.10086011,108.0,111.0
+Stipiturus malachurus_Southern Emuwren,0.3196502,109.0,112.0
+Malurus cyaneus_Superb Fairywren,0.21499564,109.0,112.0
+Baeolophus wollweberi_Bridled Titmouse,0.2956008,110.0,113.0
+Troglodytes aedon_House Wren,0.169894,110.0,113.0
+Troglodytes aedon_House Wren,0.16182223,111.0,114.0
+Poecile rufescens_Chestnut-backed Chickadee,0.14514707,113.0,116.0
+Baeolophus wollweberi_Bridled Titmouse,0.10201095,116.0,119.0
+Megaceryle torquata_Ringed Kingfisher,0.11794289,118.0,121.0
+Icterus bullockii_Bullock's Oriole,0.1333895,119.0,122.0
+Megaceryle torquata_Ringed Kingfisher,0.55156964,120.0,123.0
+Megaceryle torquata_Ringed Kingfisher,0.11575036,122.0,125.0
+Passer griseus_Northern Gray-headed Sparrow,0.1954038,123.0,126.0
+Curaeus curaeus_Austral Blackbird,0.120700285,123.0,126.0
+Oreopsar bolivianus_Bolivian Blackbird,0.15061706,125.0,128.0
+Malurus cyaneus_Superb Fairywren,0.13261555,129.0,132.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.11304773,130.0,133.0
+Megaceryle torquata_Ringed Kingfisher,0.11889682,131.0,134.0
+Megaceryle torquata_Ringed Kingfisher,0.17301248,133.0,136.0
+Stilpnia cayana_Burnished-buff Tanager,0.17646444,134.0,137.0
+Stilpnia vitriolina_Scrub Tanager,0.12413676,134.0,137.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.17598851,136.0,139.0
+Lafresnaya lafresnayi_Mountain Velvetbreast,0.22124648,140.0,143.0
+Megaceryle torquata_Ringed Kingfisher,0.10620527,143.0,146.0
+Stipiturus malachurus_Southern Emuwren,0.21268885,147.0,150.0
+Poecile rufescens_Chestnut-backed Chickadee,0.21600123,150.0,153.0
+Chlorophonia cyanocephala_Golden-rumped Euphonia,0.18551303,152.0,155.0
+Megaceryle alcyon_Belted Kingfisher,0.1754632,155.0,158.0
+Emberiza godlewskii_Godlewski's Bunting,0.105567545,156.0,159.0
+Megaceryle alcyon_Belted Kingfisher,0.14127193,161.0,164.0
+Regulus regulus_Goldcrest,0.2531542,166.0,169.0
+Hippolais polyglotta_Melodious Warbler,0.5141941,171.0,174.0
+Icterus galbula_Baltimore Oriole,0.2105493,171.0,174.0
+Passer griseus_Northern Gray-headed Sparrow,0.15711375,171.0,174.0
+Passer griseus_Northern Gray-headed Sparrow,0.30890548,172.0,175.0
+Passer griseus_Northern Gray-headed Sparrow,0.13711545,173.0,176.0
+Curaeus curaeus_Austral Blackbird,0.104747005,174.0,177.0
+Passer griseus_Northern Gray-headed Sparrow,0.102781445,174.0,177.0
+Regulus satrapa_Golden-crowned Kinglet,0.19049926,175.0,178.0
+Poecile rufescens_Chestnut-backed Chickadee,0.12821819,175.0,178.0
+Regulus satrapa_Golden-crowned Kinglet,0.18849052,176.0,179.0
+Malurus cyaneus_Superb Fairywren,0.17201705,176.0,179.0
+Stipiturus malachurus_Southern Emuwren,0.14569552,176.0,179.0
+Passer griseus_Northern Gray-headed Sparrow,0.106392905,177.0,180.0
+Passer griseus_Northern Gray-headed Sparrow,0.20180388,178.0,181.0
+Passer griseus_Northern Gray-headed Sparrow,0.22002025,179.0,182.0
+Phaenicophilus palmarum_Black-crowned Palm-Tanager,0.115722276,181.0,184.0
+Lafresnaya lafresnayi_Mountain Velvetbreast,0.10961948,181.0,184.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.1512249,182.0,185.0
+Megaceryle torquata_Ringed Kingfisher,0.18785404,183.0,186.0
+Megaceryle torquata_Ringed Kingfisher,0.1529116,185.0,188.0
+Megaceryle alcyon_Belted Kingfisher,0.13921776,185.0,188.0
+Passerculus sandwichensis_Savannah Sparrow,0.25517848,186.0,189.0
+Stipiturus malachurus_Southern Emuwren,0.16070053,186.0,189.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.120151065,193.0,196.0
+Megaceryle torquata_Ringed Kingfisher,0.37637445,194.0,197.0
+Megaceryle torquata_Ringed Kingfisher,0.5124316,195.0,198.0
+Megaceryle torquata_Ringed Kingfisher,0.4860948,196.0,199.0
+Megaceryle alcyon_Belted Kingfisher,0.39580986,196.0,199.0
+Megaceryle alcyon_Belted Kingfisher,0.70570165,197.0,200.0
+Megaceryle torquata_Ringed Kingfisher,0.41092747,197.0,200.0
+Scytalopus magellanicus_Magellanic Tapaculo,0.13511491,216.0,219.0
+Scytalopus magellanicus_Magellanic Tapaculo,0.10914775,218.0,221.0
+Regulus satrapa_Golden-crowned Kinglet,0.1217808,221.0,224.0
+Poecile rufescens_Chestnut-backed Chickadee,0.112206616,221.0,224.0
+Regulus satrapa_Golden-crowned Kinglet,0.47350815,222.0,225.0
+Poecile rufescens_Chestnut-backed Chickadee,0.31160536,222.0,225.0
+Regulus satrapa_Golden-crowned Kinglet,0.48913878,223.0,226.0
+Poecile rufescens_Chestnut-backed Chickadee,0.16621076,223.0,226.0
+Curaeus curaeus_Austral Blackbird,0.13910289,224.0,227.0
+Coccothraustes coccothraustes_Hawfinch,0.18018922,232.0,235.0
+Stilpnia vitriolina_Scrub Tanager,0.6504749,233.0,236.0
+Coccothraustes coccothraustes_Hawfinch,0.58024544,233.0,236.0
+Lafresnaya lafresnayi_Mountain Velvetbreast,0.119541176,233.0,236.0
+Coccothraustes coccothraustes_Hawfinch,0.31936377,234.0,237.0
+Stilpnia vitriolina_Scrub Tanager,0.2561383,234.0,237.0
+Poecile rufescens_Chestnut-backed Chickadee,0.12951402,234.0,237.0
+Oreopsar bolivianus_Bolivian Blackbird,0.13590851,235.0,238.0
+Passer griseus_Northern Gray-headed Sparrow,0.12718877,237.0,240.0
+Oreopsar bolivianus_Bolivian Blackbird,0.2658485,238.0,241.0
+Stilpnia vitriolina_Scrub Tanager,0.4453536,239.0,242.0
+Coccothraustes coccothraustes_Hawfinch,0.14642549,239.0,242.0
+Oreopsar bolivianus_Bolivian Blackbird,0.30893376,240.0,243.0
+Aimophila rufescens_Rusty Sparrow,0.13822252,242.0,245.0
+Coccothraustes coccothraustes_Hawfinch,0.19311838,243.0,246.0
+Poecile palustris_Marsh Tit,0.11188503,243.0,246.0
+Troglodytes aedon_House Wren,0.64034307,245.0,248.0
+Troglodytes aedon_House Wren,0.79160213,246.0,249.0
+Troglodytes aedon_House Wren,0.6733133,247.0,250.0
+Poecile rufescens_Chestnut-backed Chickadee,0.52254474,249.0,252.0
+Lafresnaya lafresnayi_Mountain Velvetbreast,0.24702333,249.0,252.0
+Stilpnia vitriolina_Scrub Tanager,0.22313061,249.0,252.0
+Stilpnia vitriolina_Scrub Tanager,0.5611276,250.0,253.0
+Coccothraustes coccothraustes_Hawfinch,0.13125297,250.0,253.0
+Poecile rufescens_Chestnut-backed Chickadee,0.106546566,250.0,253.0
+Coccothraustes coccothraustes_Hawfinch,0.10215027,251.0,254.0
+Stilpnia vitriolina_Scrub Tanager,0.35586387,252.0,255.0
+Stilpnia vitriolina_Scrub Tanager,0.3728888,253.0,256.0
+Curruca undata_Dartford Warbler,0.93466425,254.0,257.0
+Troglodytes aedon_House Wren,0.8659305,255.0,258.0
+Troglodytes aedon_House Wren,0.6155328,256.0,259.0
+Troglodytes aedon_House Wren,0.6220621,257.0,260.0
+Regulus satrapa_Golden-crowned Kinglet,0.21577373,258.0,261.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10647127,259.0,262.0
+Poecile rufescens_Chestnut-backed Chickadee,0.25510198,260.0,263.0
+Regulus satrapa_Golden-crowned Kinglet,0.12182409,260.0,263.0
+Lafresnaya lafresnayi_Mountain Velvetbreast,0.11098094,263.0,266.0
+Mellisuga helenae_Bee Hummingbird,0.16278535,265.0,268.0

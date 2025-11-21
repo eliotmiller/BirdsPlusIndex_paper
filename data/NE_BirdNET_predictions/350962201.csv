@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Certhia americana_Brown Creeper,0.97844416,0.0,3.0
+Setophaga graciae_Grace's Warbler,0.24612683,2.0,5.0
+Certhia americana_Brown Creeper,0.6303634,7.0,10.0
+Certhia familiaris_Eurasian Treecreeper,0.44034106,7.0,10.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.21549791,7.0,10.0
+Certhia americana_Brown Creeper,0.8669737,8.0,11.0
+Certhia americana_Brown Creeper,0.9703883,9.0,12.0
+Certhia americana_Brown Creeper,0.97279173,10.0,13.0
+Certhia americana_Brown Creeper,0.90141195,11.0,14.0
+Setophaga occidentalis_Hermit Warbler,0.8458021,11.0,14.0
+Setophaga townsendi_Townsend's Warbler,0.51949114,11.0,14.0
+Phylloscopus trivirgatus_Mountain Leaf Warbler,0.23329544,11.0,14.0
+Niltava macgrigoriae_Small Niltava,0.45736828,20.0,23.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.33852518,20.0,23.0
+Certhia americana_Brown Creeper,0.31783098,20.0,23.0
+Ficedula dumetoria_Rufous-chested Flycatcher,0.1211835,20.0,23.0
+Certhia americana_Brown Creeper,0.94829947,21.0,24.0
+Certhia americana_Brown Creeper,0.968164,22.0,25.0
+Certhia americana_Brown Creeper,0.9698297,23.0,26.0
+Setophaga occidentalis_Hermit Warbler,0.1498463,23.0,26.0
+Certhia americana_Brown Creeper,0.6984579,32.0,35.0
+Certhia americana_Brown Creeper,0.98633564,33.0,36.0
+Certhia americana_Brown Creeper,0.98284745,34.0,37.0
+Certhia americana_Brown Creeper,0.9885041,35.0,38.0
+Setophaga occidentalis_Hermit Warbler,0.3053564,35.0,38.0
+Bombycilla cedrorum_Cedar Waxwing,0.80475914,42.0,45.0
+Certhia familiaris_Eurasian Treecreeper,0.3424946,42.0,45.0
+Certhia americana_Brown Creeper,0.7934271,43.0,46.0
+Certhia americana_Brown Creeper,0.9363296,44.0,47.0
+Certhia americana_Brown Creeper,0.8782708,45.0,48.0
+Anthipes solitaris_Rufous-browed Flycatcher,0.1089484,45.0,48.0
+Pnoepyga formosana_Taiwan Cupwing,0.42457464,46.0,49.0
+Certhia familiaris_Eurasian Treecreeper,0.68081725,53.0,56.0
+Certhia americana_Brown Creeper,0.21850085,53.0,56.0
+Certhia americana_Brown Creeper,0.86012435,54.0,57.0
+Certhia americana_Brown Creeper,0.9716817,55.0,58.0
+Certhia americana_Brown Creeper,0.9640519,56.0,59.0
+Setophaga occidentalis_Hermit Warbler,0.39441612,57.0,60.0
+Setophaga townsendi_Townsend's Warbler,0.35553446,57.0,60.0
+Certhia americana_Brown Creeper,0.28357753,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.14141342,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11813828,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.11836489,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.22469513,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.105154485,60.0,63.0
+Certhia americana_Brown Creeper,0.7956277,63.0,66.0
+Certhia americana_Brown Creeper,0.88877344,64.0,67.0
+Certhia americana_Brown Creeper,0.9463612,65.0,68.0
+Phylloscopus borealoides_Sakhalin Leaf Warbler,0.18336423,65.0,68.0
+Certhia americana_Brown Creeper,0.89484423,66.0,69.0
+Setophaga occidentalis_Hermit Warbler,0.36682087,66.0,69.0
+Ficedula dumetoria_Rufous-chested Flycatcher,0.47378966,77.0,80.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.45061514,77.0,80.0
+Certhia americana_Brown Creeper,0.34058097,77.0,80.0
+Niltava macgrigoriae_Small Niltava,0.15566981,77.0,80.0
+Certhia americana_Brown Creeper,0.5030398,78.0,81.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.12610503,78.0,81.0
+Certhia americana_Brown Creeper,0.771838,79.0,82.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.3983433,80.0,83.0
+Certhia americana_Brown Creeper,0.24669117,80.0,83.0
+Setophaga virens_Black-throated Green Warbler,0.11749834,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14572702,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.12299267,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21323243,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15934499,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17954744,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12842932,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11245486,85.0,88.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.5287646,90.0,93.0
+Ficedula dumetoria_Rufous-chested Flycatcher,0.28187433,90.0,93.0
+Certhia americana_Brown Creeper,0.5337592,91.0,93.96
