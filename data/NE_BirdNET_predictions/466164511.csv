@@ -1,0 +1,178 @@
+species,score,start_time,end_time
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.736304,0.0,3.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.23374626,1.0,4.0
+Tarsiger indicus_White-browed Bush-Robin,0.111315146,1.0,4.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.12361149,2.0,5.0
+Cardellina pusilla_Wilson's Warbler,0.3972076,3.0,6.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.15746358,3.0,6.0
+Setophaga townsendi_Townsend's Warbler,0.1383951,3.0,6.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.13199577,4.0,7.0
+Cardellina canadensis_Canada Warbler,0.10646024,4.0,7.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1686721,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.688998,6.0,9.0
+Setophaga townsendi_Townsend's Warbler,0.5094054,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.24015994,7.0,10.0
+Setophaga townsendi_Townsend's Warbler,0.45292366,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.3987764,8.0,11.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.21670954,8.0,11.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.3345425,9.0,12.0
+Passerella iliaca_Fox Sparrow,0.12170207,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.119247645,9.0,12.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.27922308,12.0,15.0
+Cardellina pusilla_Wilson's Warbler,0.17730007,13.0,16.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14162391,14.0,17.0
+Cardellina pusilla_Wilson's Warbler,0.37984356,15.0,18.0
+Troglodytes pacificus_Pacific Wren,0.22163042,15.0,18.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.116691284,15.0,18.0
+Troglodytes pacificus_Pacific Wren,0.12103466,16.0,19.0
+Passerella iliaca_Fox Sparrow,0.110595666,16.0,19.0
+Setophaga palmarum_Palm Warbler,0.10285658,16.0,19.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.8618649,17.0,20.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9244507,18.0,21.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.7367853,19.0,22.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.38579154,20.0,23.0
+Setophaga townsendi_Townsend's Warbler,0.10416465,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.22419219,21.0,24.0
+Setophaga townsendi_Townsend's Warbler,0.1968328,21.0,24.0
+Cardellina pusilla_Wilson's Warbler,0.1554716,21.0,24.0
+Cardellina canadensis_Canada Warbler,0.11497347,21.0,24.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1127508,21.0,24.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.43454042,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.17848134,22.0,25.0
+Setophaga townsendi_Townsend's Warbler,0.1570463,22.0,25.0
+Setophaga occidentalis_Hermit Warbler,0.11564973,22.0,25.0
+Setophaga occidentalis_Hermit Warbler,0.5247013,23.0,26.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.4430718,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.4122548,23.0,26.0
+Setophaga townsendi_Townsend's Warbler,0.29736945,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.10171769,23.0,26.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.5078398,24.0,27.0
+Cardellina pusilla_Wilson's Warbler,0.1439686,24.0,27.0
+Setophaga townsendi_Townsend's Warbler,0.10881641,24.0,27.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.31205612,25.0,28.0
+Setophaga townsendi_Townsend's Warbler,0.13408531,25.0,28.0
+Cardellina pusilla_Wilson's Warbler,0.7373945,26.0,29.0
+Troglodytes pacificus_Pacific Wren,0.24722607,26.0,29.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13010119,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.104025334,27.0,30.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.102929264,27.0,30.0
+Cardellina pusilla_Wilson's Warbler,0.36622912,28.0,31.0
+Troglodytes pacificus_Pacific Wren,0.15525247,28.0,31.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10476123,28.0,31.0
+Troglodytes pacificus_Pacific Wren,0.8036334,29.0,32.0
+Cardellina pusilla_Wilson's Warbler,0.17593898,29.0,32.0
+Cardellina canadensis_Canada Warbler,0.5945243,30.0,33.0
+Cardellina pusilla_Wilson's Warbler,0.3448438,30.0,33.0
+Troglodytes pacificus_Pacific Wren,0.11673048,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.30487764,31.0,34.0
+Passerella iliaca_Fox Sparrow,0.15470316,31.0,34.0
+Cardellina pusilla_Wilson's Warbler,0.115721166,31.0,34.0
+Cardellina canadensis_Canada Warbler,0.5743693,32.0,35.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1325071,32.0,35.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.2984189,33.0,36.0
+Cardellina pusilla_Wilson's Warbler,0.15653524,33.0,36.0
+Cardellina pusilla_Wilson's Warbler,0.17902194,34.0,37.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.15653253,34.0,37.0
+Cardellina canadensis_Canada Warbler,0.11505645,34.0,37.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.44262922,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.2530934,35.0,38.0
+Cardellina rubrifrons_Red-faced Warbler,0.25297052,35.0,38.0
+Setophaga townsendi_Townsend's Warbler,0.10986672,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.9286753,36.0,39.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.26375175,36.0,39.0
+Setophaga palmarum_Palm Warbler,0.1069495,36.0,39.0
+Cardellina canadensis_Canada Warbler,0.4270359,37.0,40.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.2832091,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.2398561,37.0,40.0
+Setophaga townsendi_Townsend's Warbler,0.14115092,37.0,40.0
+Cardellina pusilla_Wilson's Warbler,0.17345095,38.0,41.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.104913644,38.0,41.0
+Cardellina canadensis_Canada Warbler,0.3124675,39.0,42.0
+Cardellina pusilla_Wilson's Warbler,0.16526085,39.0,42.0
+Troglodytes pacificus_Pacific Wren,0.14348933,39.0,42.0
+Passerella iliaca_Fox Sparrow,0.13056222,39.0,42.0
+Cardellina pusilla_Wilson's Warbler,0.209407,40.0,43.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.16232294,40.0,43.0
+Cardellina pusilla_Wilson's Warbler,0.36181277,41.0,44.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.35336894,42.0,45.0
+Cardellina pusilla_Wilson's Warbler,0.14068219,42.0,45.0
+Passerina leclancherii_Orange-breasted Bunting,0.17530783,43.0,46.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.11389281,43.0,46.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.11256183,43.0,46.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.28091204,44.0,47.0
+Cardellina rubrifrons_Red-faced Warbler,0.10934624,44.0,47.0
+Setophaga townsendi_Townsend's Warbler,0.10137554,44.0,47.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.82408625,46.0,49.0
+Schoeniophylax phryganophilus_Chotoy Spinetail,0.11399292,46.0,49.0
+Nicator gularis_Eastern Nicator,0.10536396,46.0,49.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.8705083,47.0,50.0
+Scytalopus latrans_Blackish Tapaculo,0.13817143,48.0,51.0
+Cardellina canadensis_Canada Warbler,0.33627185,55.0,58.0
+Passerina leclancherii_Orange-breasted Bunting,0.1252446,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.36760545,58.0,61.0
+Cardellina pusilla_Wilson's Warbler,0.19843972,58.0,61.0
+Troglodytes pacificus_Pacific Wren,0.17474455,58.0,61.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.3561265,59.0,62.0
+Cardellina canadensis_Canada Warbler,0.10954622,59.0,62.0
+Cardellina pusilla_Wilson's Warbler,0.24487871,60.0,63.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.18490075,60.0,63.0
+Cardellina canadensis_Canada Warbler,0.28130984,61.0,64.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.25608504,62.0,65.0
+Cardellina rubrifrons_Red-faced Warbler,0.169283,62.0,65.0
+Passerina leclancherii_Orange-breasted Bunting,0.13064328,62.0,65.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.17959005,63.0,66.0
+Cardellina pusilla_Wilson's Warbler,0.14085037,63.0,66.0
+Cardellina canadensis_Canada Warbler,0.52269286,64.0,67.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.16925055,66.0,69.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13167012,66.0,69.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.1707483,67.0,70.0
+Cardellina pusilla_Wilson's Warbler,0.12605454,67.0,70.0
+Cardellina pusilla_Wilson's Warbler,0.224467,68.0,71.0
+Passerella iliaca_Fox Sparrow,0.18295269,68.0,71.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14521377,68.0,71.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.5687136,69.0,72.0
+Schoeniophylax phryganophilus_Chotoy Spinetail,0.1031131,69.0,72.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.8536163,70.0,73.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.79921556,71.0,74.0
+Cardellina canadensis_Canada Warbler,0.23684467,73.0,76.0
+Setophaga townsendi_Townsend's Warbler,0.17441961,73.0,76.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.12569995,73.0,76.0
+Setophaga townsendi_Townsend's Warbler,0.17416078,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.17060435,74.0,77.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.13437393,74.0,77.0
+Cardellina canadensis_Canada Warbler,0.10312732,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.4815194,75.0,78.0
+Cardellina canadensis_Canada Warbler,0.2652122,75.0,78.0
+Setophaga townsendi_Townsend's Warbler,0.13416943,75.0,78.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.4688843,77.0,80.0
+Cardellina canadensis_Canada Warbler,0.16400123,77.0,80.0
+Geothlypis philadelphia_Mourning Warbler,0.10971648,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.10548059,78.0,81.0
+Geothlypis philadelphia_Mourning Warbler,0.12056191,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.15608874,80.0,83.0
+Cardellina canadensis_Canada Warbler,0.2723082,82.0,85.0
+Troglodytes pacificus_Pacific Wren,0.1890154,82.0,85.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22094212,83.0,86.0
+Cardellina pusilla_Wilson's Warbler,0.20683102,83.0,86.0
+Setophaga townsendi_Townsend's Warbler,0.10515799,83.0,86.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22485307,84.0,87.0
+Cardellina pusilla_Wilson's Warbler,0.16432832,84.0,87.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.63366824,86.0,89.0
+Gampsorhynchus torquatus_Collared Babbler,0.1630304,86.0,89.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.6866167,87.0,90.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.25191367,88.0,91.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.12838642,89.0,92.0
+Setophaga townsendi_Townsend's Warbler,0.5337202,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.30133244,90.0,93.0
+Setophaga occidentalis_Hermit Warbler,0.24762061,90.0,93.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.22811279,90.0,93.0
+Setophaga palmarum_Palm Warbler,0.119409375,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.65995294,91.0,94.0
+Setophaga townsendi_Townsend's Warbler,0.50134575,91.0,94.0
+Setophaga occidentalis_Hermit Warbler,0.4395534,91.0,94.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.2577147,93.0,96.0
+Cardellina canadensis_Canada Warbler,0.12850952,93.0,96.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.31277475,94.0,97.0
+Cardellina pusilla_Wilson's Warbler,0.1261337,94.0,97.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.23804261,95.0,97.68
+Setophaga townsendi_Townsend's Warbler,0.118204765,95.0,97.68

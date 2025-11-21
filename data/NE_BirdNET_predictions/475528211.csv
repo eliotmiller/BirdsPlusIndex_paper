@@ -1,0 +1,35 @@
+species,score,start_time,end_time
+Accipiter cooperii_Cooper's Hawk,0.10162816,0.0,3.0
+Strix varia_Barred Owl,0.1005393,0.0,3.0
+Eudynamys orientalis_Pacific Koel,0.17550981,2.0,5.0
+Eudynamys orientalis_Pacific Koel,0.19432603,3.0,6.0
+Eudynamys orientalis_Pacific Koel,0.114490874,4.0,7.0
+Eudynamys orientalis_Pacific Koel,0.8098337,10.0,13.0
+Eudynamys orientalis_Pacific Koel,0.38311458,12.0,15.0
+Cracticus nigrogularis_Pied Butcherbird,0.1657751,12.0,15.0
+Strix varia_Barred Owl,0.38694245,13.0,16.0
+Human non-vocal_Human non-vocal,0.11882819,13.0,16.0
+Strix varia_Barred Owl,0.9180152,14.0,17.0
+Ninox novaeseelandiae_Morepork,0.117715605,14.0,17.0
+Strix varia_Barred Owl,0.98261434,15.0,18.0
+Ninox novaeseelandiae_Morepork,0.13182649,15.0,18.0
+Eudynamys orientalis_Pacific Koel,0.19238594,16.0,19.0
+Scythrops novaehollandiae_Channel-billed Cuckoo,0.14968836,16.0,19.0
+Ninox novaeseelandiae_Morepork,0.101544805,16.0,19.0
+Eudynamys orientalis_Pacific Koel,0.6844927,17.0,20.0
+Eudynamys scolopaceus_Asian Koel,0.534246,17.0,20.0
+Eudynamys orientalis_Pacific Koel,0.4906635,18.0,21.0
+Tyto alba_Barn Owl,0.16877872,19.0,22.0
+Ardea alba_Great Egret,0.43789312,25.0,28.0
+Pomatorhinus musicus_Taiwan Scimitar-Babbler,0.1312068,26.0,29.0
+Strix varia_Barred Owl,0.12215459,27.0,30.0
+Strix varia_Barred Owl,0.9748071,28.0,31.0
+Strix aluco_Tawny Owl,0.19282418,28.0,31.0
+Human non-vocal_Human non-vocal,0.12150663,28.0,31.0
+Strix varia_Barred Owl,0.731406,29.0,32.0
+Strix varia_Barred Owl,0.31078714,30.0,33.0
+Coragyps atratus_Black Vulture,0.15881675,33.0,36.0
+Coragyps atratus_Black Vulture,0.10113994,34.0,37.0
+Strix varia_Barred Owl,0.66099125,39.0,42.0
+Strix varia_Barred Owl,0.92205983,40.0,43.0
+Strix varia_Barred Owl,0.9788285,41.0,43.87201814058957

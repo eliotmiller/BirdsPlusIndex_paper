@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.98470116,0.0,3.0
+Catharus fuscescens_Veery,0.98971444,1.0,4.0
+Catharus fuscescens_Veery,0.943767,2.0,5.0
+Catharus fuscescens_Veery,0.91416407,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.19561101,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.113070965,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11251528,4.0,7.0
+Catharus fuscescens_Veery,0.94724685,5.0,8.0
+Catharus fuscescens_Veery,0.9961702,6.0,9.0
+Catharus fuscescens_Veery,0.99711275,7.0,10.0
+Catharus fuscescens_Veery,0.9888298,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.1850283,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10946155,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.15844084,10.0,13.0
+Catharus fuscescens_Veery,0.9538734,11.0,14.0
+Catharus fuscescens_Veery,0.99616015,12.0,15.0
+Catharus fuscescens_Veery,0.9963051,13.0,16.0
+Catharus fuscescens_Veery,0.97950566,14.0,17.0
+Catharus fuscescens_Veery,0.9561937,15.0,18.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.8016398,16.0,19.0
+Myadestes unicolor_Slate-colored Solitaire,0.15992346,16.0,19.0
+Catharus fuscescens_Veery,0.969681,17.0,20.0
+Catharus minimus_Gray-cheeked Thrush,0.1620888,17.0,20.0
+Catharus fuscescens_Veery,0.9875658,18.0,21.0
+Catharus fuscescens_Veery,0.9855069,19.0,22.0
+Catharus fuscescens_Veery,0.94596696,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.1233631,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108718894,22.0,25.0
+Catharus fuscescens_Veery,0.8406449,23.0,26.0
+Catharus minimus_Gray-cheeked Thrush,0.10214723,23.0,26.0
+Catharus fuscescens_Veery,0.9316215,24.0,27.0
+Catharus fuscescens_Veery,0.912713,25.0,28.0
+Catharus fuscescens_Veery,0.7811968,26.0,29.0
+Catharus fuscescens_Veery,0.94837487,27.0,30.0
+Catharus fuscescens_Veery,0.9897413,28.0,31.0
+Catharus fuscescens_Veery,0.9977876,29.0,32.0
+Catharus fuscescens_Veery,0.9838628,30.0,33.0
+Catharus fuscescens_Veery,0.23167585,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.1336577,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.33908495,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1297772,32.0,35.0
+Catharus fuscescens_Veery,0.47276053,33.0,36.0
+Catharus fuscescens_Veery,0.9701582,34.0,37.0
+Catharus fuscescens_Veery,0.9979176,35.0,38.0
+Catharus fuscescens_Veery,0.9955102,36.0,39.0
+Catharus fuscescens_Veery,0.9905067,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.62637,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14003475,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.15245342,39.0,42.0
+Catharus fuscescens_Veery,0.13841791,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13580719,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.110232055,39.0,42.0
+Catharus fuscescens_Veery,0.8598017,40.0,43.0
+Catharus minimus_Gray-cheeked Thrush,0.120563574,40.0,43.0
+Catharus fuscescens_Veery,0.98954165,41.0,44.0
+Catharus fuscescens_Veery,0.98898005,42.0,45.0
+Catharus fuscescens_Veery,0.9924184,43.0,46.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10561361,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10390031,44.0,47.0
+Catharus fuscescens_Veery,0.67695576,45.0,48.0
+Catharus fuscescens_Veery,0.985515,46.0,49.0
+Catharus fuscescens_Veery,0.95134884,47.0,50.0
+Catharus fuscescens_Veery,0.91743666,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.290983,50.0,53.0
+Hylocichla mustelina_Wood Thrush,0.23205505,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18335065,51.0,54.0
+Catharus fuscescens_Veery,0.93528724,52.0,55.0
+Catharus fuscescens_Veery,0.9929207,53.0,56.0
+Catharus fuscescens_Veery,0.99925166,54.0,57.0
+Catharus fuscescens_Veery,0.9864889,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16866909,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1099062,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14509474,57.0,60.0
+Catharus fuscescens_Veery,0.95768106,58.0,61.0
+Catharus fuscescens_Veery,0.9948309,59.0,62.0
+Catharus fuscescens_Veery,0.9899127,60.0,63.0
+Catharus fuscescens_Veery,0.9679043,61.0,63.384036281179135

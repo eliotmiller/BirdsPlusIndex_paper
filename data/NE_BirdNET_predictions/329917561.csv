@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Haemorhous mexicanus_House Finch,0.9444411,0.0,3.0
+Passerina caerulea_Blue Grosbeak,0.56057215,0.0,3.0
+Haemorhous purpureus_Purple Finch,0.43007836,1.0,4.0
+Baeolophus bicolor_Tufted Titmouse,0.22020742,2.0,5.0
+Thryothorus ludovicianus_Carolina Wren,0.15404569,3.0,6.0
+Thryothorus ludovicianus_Carolina Wren,0.57154423,4.0,7.0
+Haemorhous mexicanus_House Finch,0.3268498,5.0,8.0
+Thryothorus ludovicianus_Carolina Wren,0.2667829,5.0,8.0
+Haemorhous mexicanus_House Finch,0.7208861,6.0,9.0
+Haemorhous mexicanus_House Finch,0.11146152,7.0,10.0
+Haemorhous mexicanus_House Finch,0.17208448,9.0,12.0
+Haemorhous mexicanus_House Finch,0.12628162,10.0,13.0
+Haemorhous mexicanus_House Finch,0.58723545,11.0,14.0
+Haemorhous mexicanus_House Finch,0.65197694,12.0,15.0
+Haemorhous mexicanus_House Finch,0.9259108,13.0,16.0
+Haemorhous mexicanus_House Finch,0.39622936,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.107096374,16.0,19.0
+Thryothorus ludovicianus_Carolina Wren,0.21582639,17.0,20.0
+Engine_Engine,0.28851128,18.0,21.0
+Engine_Engine,0.66061383,19.0,22.0
+Engine_Engine,0.40307376,20.0,23.0
+Engine_Engine,0.18163572,21.0,24.0
+Gerygone olivacea_White-throated Gerygone,0.13631678,21.0,24.0
+Thryothorus ludovicianus_Carolina Wren,0.4594932,25.0,28.0
+Thryothorus ludovicianus_Carolina Wren,0.5655121,26.0,29.0
+Engine_Engine,0.15242502,26.0,29.0
+Engine_Engine,0.2648817,27.0,30.0
+Engine_Engine,0.17488709,29.0,32.0
+Engine_Engine,0.2956143,30.0,33.0
+Engine_Engine,0.4136427,31.0,34.0
+Catherpes mexicanus_Canyon Wren,0.1256701,31.0,34.0
+Haemorhous mexicanus_House Finch,0.26857343,32.0,35.0
+Haemorhous mexicanus_House Finch,0.7900445,33.0,36.0
+Haemorhous mexicanus_House Finch,0.53257436,34.0,37.0
+Haemorhous mexicanus_House Finch,0.87945247,36.0,39.0
+Haemorhous mexicanus_House Finch,0.7983325,37.0,40.0
+Haemorhous mexicanus_House Finch,0.98038864,38.0,41.0
+Haemorhous mexicanus_House Finch,0.67059124,39.0,42.0
+Haemorhous mexicanus_House Finch,0.79075396,40.0,43.0
+Tyrannus tyrannus_Eastern Kingbird,0.3113606,41.0,44.0
+Engine_Engine,0.17104192,41.0,44.0
+Baeolophus bicolor_Tufted Titmouse,0.345786,47.0,50.0
+Passer domesticus_House Sparrow,0.14108895,48.0,51.0
+Passer domesticus_House Sparrow,0.43879458,49.0,52.0
+Passer domesticus_House Sparrow,0.27586123,50.0,53.0
+Baeolophus bicolor_Tufted Titmouse,0.22304063,51.0,54.0
+Passer domesticus_House Sparrow,0.106822126,51.0,54.0
+Passer domesticus_House Sparrow,0.17448403,52.0,55.0
+Passer domesticus_House Sparrow,0.16522847,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.16634673,54.0,57.0
+Passer domesticus_House Sparrow,0.12175168,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.10279065,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.4699728,56.0,59.0
+Poecile carolinensis_Carolina Chickadee,0.106725454,56.0,59.0
+Certhia americana_Brown Creeper,0.124515094,57.0,60.0
+Certhia americana_Brown Creeper,0.15738878,59.0,62.0
+Vireo flavifrons_Yellow-throated Vireo,0.19734672,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.10459447,60.0,63.0
+Poecile carolinensis_Carolina Chickadee,0.10968276,61.0,64.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1762716,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12486071,62.0,65.0
+Protonotaria citrea_Prothonotary Warbler,0.10895352,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.10292037,62.0,65.0
+Progne subis_Purple Martin,0.24013624,63.0,66.0
+Setophaga citrina_Hooded Warbler,0.22850919,65.0,68.0
+Haemorhous mexicanus_House Finch,0.51299995,67.0,70.0
+Haemorhous mexicanus_House Finch,0.54155236,68.0,71.0
+Haemorhous mexicanus_House Finch,0.28867105,69.0,72.0
+Haemorhous mexicanus_House Finch,0.3102839,70.0,73.0
+Protonotaria citrea_Prothonotary Warbler,0.19003245,72.0,75.0
+Protonotaria citrea_Prothonotary Warbler,0.14062695,73.0,76.0
+Protonotaria citrea_Prothonotary Warbler,0.14236276,76.0,79.0
+Oporornis agilis_Connecticut Warbler,0.37036783,82.0,85.0
+Haemorhous mexicanus_House Finch,0.58264995,83.0,86.0
+Haemorhous mexicanus_House Finch,0.9322445,84.0,87.0
+Geothlypis formosa_Kentucky Warbler,0.13990206,86.0,89.0
+Thryothorus ludovicianus_Carolina Wren,0.100464046,87.0,90.0
+Thryothorus ludovicianus_Carolina Wren,0.37651715,88.0,91.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20814931,90.0,93.0
+Setophaga dominica_Yellow-throated Warbler,0.11514998,90.0,93.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26724356,91.0,94.0
+Geothlypis formosa_Kentucky Warbler,0.10078837,91.0,94.0
+Setophaga citrina_Hooded Warbler,0.8073887,93.0,96.0
+Haemorhous mexicanus_House Finch,0.16963358,94.0,97.0
+Haemorhous purpureus_Purple Finch,0.36283097,95.0,98.0
+Passerina caerulea_Blue Grosbeak,0.17959383,95.0,98.0
+Geothlypis formosa_Kentucky Warbler,0.16549836,95.0,98.0
+Haemorhous purpureus_Purple Finch,0.55145735,96.0,99.0
+Passerina caerulea_Blue Grosbeak,0.121861495,96.0,99.0
+Haemorhous mexicanus_House Finch,0.1093227,96.0,99.0
+Haemorhous purpureus_Purple Finch,0.46621576,97.0,100.0
+Vireo flavifrons_Yellow-throated Vireo,0.115151905,98.0,101.0
+Setophaga dominica_Yellow-throated Warbler,0.17682141,100.0,103.0
+Baeolophus bicolor_Tufted Titmouse,0.1078971,101.0,104.0

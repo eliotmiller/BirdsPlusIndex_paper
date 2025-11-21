@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.18270268,0.0,3.0
+Ictinia mississippiensis_Mississippi Kite,0.11936357,1.0,4.0
+Archilochus colubris_Ruby-throated Hummingbird,0.11235645,1.0,4.0
+Ictinia mississippiensis_Mississippi Kite,0.14815015,2.0,5.0
+Coragyps atratus_Black Vulture,0.14167082,2.0,5.0
+Ictinia mississippiensis_Mississippi Kite,0.2525617,3.0,6.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1056369,5.0,8.0
+Piranga rubra_Summer Tanager,0.102123566,6.0,9.0
+Coragyps atratus_Black Vulture,0.103956915,8.0,11.0
+Archilochus colubris_Ruby-throated Hummingbird,0.101430036,8.0,11.0
+Coragyps atratus_Black Vulture,0.28842664,9.0,12.0
+Archilochus colubris_Ruby-throated Hummingbird,0.11721643,9.0,12.0
+Coragyps atratus_Black Vulture,0.11258491,10.0,13.0
+Coragyps atratus_Black Vulture,0.21884699,11.0,14.0
+Platalea ajaja_Roseate Spoonbill,0.12821424,11.0,14.0
+Coragyps atratus_Black Vulture,0.14792836,12.0,15.0
+Coragyps atratus_Black Vulture,0.20978692,13.0,16.0
+Coragyps atratus_Black Vulture,0.16398641,14.0,17.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14201467,14.0,17.0
+Coragyps atratus_Black Vulture,0.25867656,15.0,18.0
+Archilochus colubris_Ruby-throated Hummingbird,0.19518949,15.0,18.0
+Coragyps atratus_Black Vulture,0.51891214,16.0,19.0
+Coragyps atratus_Black Vulture,0.2534257,17.0,20.0
+Coragyps atratus_Black Vulture,0.18332009,18.0,21.0
+Coragyps atratus_Black Vulture,0.1961342,19.0,22.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14013886,20.0,23.0
+Ictinia mississippiensis_Mississippi Kite,0.10281086,20.0,23.0
+Archilochus colubris_Ruby-throated Hummingbird,0.18145658,21.0,24.0
+Copsychus mindanensis_Philippine Magpie-Robin,0.17063646,22.0,25.0
+Ictinia mississippiensis_Mississippi Kite,0.44337252,23.0,26.0
+Ictinia mississippiensis_Mississippi Kite,0.60180354,37.0,40.0
+Spinus tristis_American Goldfinch,0.116608,37.0,40.0
+Ictinia mississippiensis_Mississippi Kite,0.2403447,38.0,41.0
+Ardea alba_Great Egret,0.6311216,44.0,47.0
+Ardea herodias_Great Blue Heron,0.20337707,44.0,47.0
+Ardea alba_Great Egret,0.9267372,45.0,48.0
+Ardea herodias_Great Blue Heron,0.54778343,45.0,48.0
+Ardea alba_Great Egret,0.978217,46.0,49.0
+Ardea herodias_Great Blue Heron,0.48569098,46.0,49.0
+Ardea alba_Great Egret,0.9927592,47.0,50.0
+Ardea herodias_Great Blue Heron,0.2511683,47.0,50.0
+Ardea alba_Great Egret,0.9625296,48.0,51.0
+Ardea herodias_Great Blue Heron,0.1929518,48.0,51.0
+Ardea alba_Great Egret,0.9534226,49.0,52.0
+Ardea alba_Great Egret,0.6713425,50.0,53.0
+Ardea herodias_Great Blue Heron,0.10957546,50.0,53.0
+Ardea herodias_Great Blue Heron,0.12348147,51.0,54.0
+Ardea alba_Great Egret,0.108915836,51.0,54.0
+Ardea alba_Great Egret,0.20086366,52.0,55.0
+Megascops asio_Eastern Screech-Owl,0.14265014,52.0,55.0
+Ardea alba_Great Egret,0.15767376,53.0,56.0
+Ardea alba_Great Egret,0.29065698,54.0,57.0
+Ardea alba_Great Egret,0.128598,55.0,58.0
+Ardea alba_Great Egret,0.24191004,56.0,58.87201814058957

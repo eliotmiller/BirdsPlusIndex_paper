@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Spizella pusilla_Field Sparrow,0.32452127,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.22119318,0.0,3.0
+Spizella pusilla_Field Sparrow,0.35302573,1.0,4.0
+Peucaea aestivalis_Bachman's Sparrow,0.100596555,1.0,4.0
+Spizella pusilla_Field Sparrow,0.28275755,2.0,5.0
+Passerina caerulea_Blue Grosbeak,0.24138068,7.0,10.0
+Colinus virginianus_Northern Bobwhite,0.2067615,7.0,10.0
+Passerina ciris_Painted Bunting,0.14714293,7.0,10.0
+Icterus spurius_Orchard Oriole,0.12069778,7.0,10.0
+Colinus virginianus_Northern Bobwhite,0.16101865,8.0,11.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14973058,8.0,11.0
+Spizella pusilla_Field Sparrow,0.76522756,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20073119,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.36537755,10.0,13.0
+Spizella pusilla_Field Sparrow,0.27784717,10.0,13.0
+Spizella pusilla_Field Sparrow,0.4255018,11.0,14.0
+Molothrus ater_Brown-headed Cowbird,0.13688636,12.0,15.0
+Icterus spurius_Orchard Oriole,0.10501169,13.0,16.0
+Ixobrychus exilis_Least Bittern,0.21258208,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.11862954,14.0,17.0
+Colinus virginianus_Northern Bobwhite,0.108954325,14.0,17.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1221089,17.0,20.0
+Ammodramus savannarum_Grasshopper Sparrow,0.105019726,19.0,22.0
+Tringa melanoleuca_Greater Yellowlegs,0.101017736,19.0,22.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15475655,20.0,23.0
+Colinus virginianus_Northern Bobwhite,0.12811184,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.10359053,25.0,28.0
+Colinus virginianus_Northern Bobwhite,0.102758564,26.0,29.0
+Colinus virginianus_Northern Bobwhite,0.13119826,27.0,30.0
+Botaurus lentiginosus_American Bittern,0.36499596,28.0,31.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12655249,30.0,33.0
+Colinus virginianus_Northern Bobwhite,0.10316998,30.0,33.0
+Ammospiza maritima_Seaside Sparrow,0.10393727,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.440199,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3219007,33.0,36.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30653888,34.0,37.0
+Sialia sialis_Eastern Bluebird,0.20926334,34.0,37.0
+Colinus virginianus_Northern Bobwhite,0.10113502,36.0,39.0
+Spizella pusilla_Field Sparrow,0.3608261,38.0,41.0
+Spizella pusilla_Field Sparrow,0.1089197,39.0,42.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15505356,40.0,43.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4836633,41.0,44.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21270144,42.0,45.0
+Icterus spurius_Orchard Oriole,0.25796196,47.0,50.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18980177,47.0,50.0
+Ammodramus savannarum_Grasshopper Sparrow,0.36154434,48.0,51.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6442612,49.0,52.0
+Ammodramus savannarum_Grasshopper Sparrow,0.48614398,50.0,53.0
+Colinus virginianus_Northern Bobwhite,0.150064,50.0,53.0
+Chondestes grammacus_Lark Sparrow,0.16398954,54.0,57.0
+Chondestes grammacus_Lark Sparrow,0.14113498,55.0,58.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13480975,55.0,58.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7919962,56.0,59.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8632516,57.0,60.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7937416,58.0,61.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19908924,67.0,70.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30916628,73.0,76.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6657651,74.0,77.0
+Ammodramus savannarum_Grasshopper Sparrow,0.63169914,75.0,78.0
+Gryllus rubens_Southeastern Field Cricket,0.19713049,77.0,80.0
+Gryllus rubens_Southeastern Field Cricket,0.1818479,79.0,82.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.16334826,79.0,82.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10240902,81.0,84.0
+Ammodramus savannarum_Grasshopper Sparrow,0.28799623,82.0,85.0
+Ammodramus savannarum_Grasshopper Sparrow,0.23996022,83.0,86.0
+Ammodramus savannarum_Grasshopper Sparrow,0.35448432,84.0,87.0
+Passerina cyanea_Indigo Bunting,0.17578265,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.27644435,86.0,89.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18066627,90.0,93.0
+Ammospiza maritima_Seaside Sparrow,0.14089383,90.0,93.0
+Ammodramus savannarum_Grasshopper Sparrow,0.46944246,91.0,94.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5252637,92.0,95.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4972945,93.0,96.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16680117,100.0,103.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16162314,101.0,104.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15635678,102.0,105.0
+Gryllus rubens_Southeastern Field Cricket,0.10313186,103.0,106.0
+Gryllus rubens_Southeastern Field Cricket,0.1693103,104.0,107.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.20988126,105.0,108.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.4050146,106.0,109.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.24472103,106.0,109.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.1580116,107.0,110.0

@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.40955737,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.27296373,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.24830009,1.0,4.0
+Setophaga townsendi_Townsend's Warbler,0.15313664,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.47033593,2.0,5.0
+Setophaga townsendi_Townsend's Warbler,0.16386174,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.66107845,3.0,6.0
+Setophaga townsendi_Townsend's Warbler,0.30018845,3.0,6.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10293744,3.0,6.0
+Setophaga townsendi_Townsend's Warbler,0.25661677,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.21997182,4.0,7.0
+Setophaga occidentalis_Hermit Warbler,0.14412284,4.0,7.0
+Poecile rufescens_Chestnut-backed Chickadee,0.25396422,7.0,10.0
+Regulus satrapa_Golden-crowned Kinglet,0.12741008,7.0,10.0
+Setophaga occidentalis_Hermit Warbler,0.21547495,13.0,16.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.13066693,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.11072723,15.0,18.0
+Poecile rufescens_Chestnut-backed Chickadee,0.5999423,17.0,20.0
+Poecile gambeli_Mountain Chickadee,0.22722924,18.0,21.0
+Poecile gambeli_Mountain Chickadee,0.24248159,19.0,22.0
+Poecile atricapillus_Black-capped Chickadee,0.1294946,19.0,22.0
+Regulus satrapa_Golden-crowned Kinglet,0.1032399,19.0,22.0
+Poecile gambeli_Mountain Chickadee,0.42219245,20.0,23.0
+Regulus satrapa_Golden-crowned Kinglet,0.35435507,20.0,23.0
+Sitta canadensis_Red-breasted Nuthatch,0.13503367,20.0,23.0
+Regulus satrapa_Golden-crowned Kinglet,0.22061726,21.0,24.0
+Leiothlypis ruficapilla_Nashville Warbler,0.115577914,23.0,26.0
+Tiaris olivaceus_Yellow-faced Grassquit,0.41096503,24.0,27.0
+Aegithalos concinnus_Black-throated Tit,0.11466084,24.0,27.0
+Epinecrophylla spodionota_Foothill Stipplethroat,0.11063196,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.19181122,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.86055666,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.85590637,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.2170644,29.0,32.0
+Psaltriparus minimus_Bushtit,0.43023092,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.33798638,30.0,33.0
+Aegithalos concinnus_Black-throated Tit,0.1534995,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.284449,31.0,34.0
+Psaltriparus minimus_Bushtit,0.22439854,31.0,34.0
+Regulus satrapa_Golden-crowned Kinglet,0.1538517,33.0,36.0
+Poecile rufescens_Chestnut-backed Chickadee,0.13006186,33.0,36.0
+Regulus satrapa_Golden-crowned Kinglet,0.27480862,35.0,38.0
+Regulus satrapa_Golden-crowned Kinglet,0.3461802,36.0,39.0
+Regulus satrapa_Golden-crowned Kinglet,0.33487162,37.0,40.0
+Aegithalos concinnus_Black-throated Tit,0.18345535,37.0,40.0
+Poecile rufescens_Chestnut-backed Chickadee,0.16401625,37.0,40.0
+Bombycilla garrulus_Bohemian Waxwing,0.27611288,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.94224864,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.96176606,40.0,43.0
+Setophaga townsendi_Townsend's Warbler,0.101521425,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.97626084,41.0,44.0
+Setophaga occidentalis_Hermit Warbler,0.3527681,42.0,45.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.2741086,42.0,45.0
+Setophaga townsendi_Townsend's Warbler,0.26159057,42.0,45.0
+Setophaga coronata_Yellow-rumped Warbler,0.20183192,43.0,46.0
+Setophaga occidentalis_Hermit Warbler,0.16919835,43.0,46.0
+Setophaga coronata_Yellow-rumped Warbler,0.11110052,44.0,47.0
+Aegithalos concinnus_Black-throated Tit,0.24872014,46.0,49.0
+Psaltriparus minimus_Bushtit,0.37909582,47.0,50.0
+Aegithalos concinnus_Black-throated Tit,0.16720816,47.0,50.0
+Regulus satrapa_Golden-crowned Kinglet,0.14477327,48.0,51.0
+Aegithalos concinnus_Black-throated Tit,0.12461756,48.0,51.0
+Regulus satrapa_Golden-crowned Kinglet,0.7172763,49.0,52.0
+Regulus satrapa_Golden-crowned Kinglet,0.36288,50.0,53.0
+Poecile rufescens_Chestnut-backed Chickadee,0.17598021,55.0,58.0

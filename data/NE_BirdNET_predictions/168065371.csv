@@ -1,0 +1,111 @@
+species,score,start_time,end_time
+Vireo griseus_White-eyed Vireo,0.9856054,0.0,3.0
+Vireo griseus_White-eyed Vireo,0.9303522,1.0,4.0
+Vireo griseus_White-eyed Vireo,0.74875206,2.0,5.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19690463,2.0,5.0
+Basileuterus rufifrons_Rufous-capped Warbler,0.10112247,4.0,7.0
+Vireo griseus_White-eyed Vireo,0.958482,7.0,10.0
+Vireo griseus_White-eyed Vireo,0.916901,8.0,11.0
+Limnothlypis swainsonii_Swainson's Warbler,0.103964224,8.0,11.0
+Vireo griseus_White-eyed Vireo,0.8419914,9.0,12.0
+Vireo griseus_White-eyed Vireo,0.66444397,10.0,13.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18704751,10.0,13.0
+Vireo griseus_White-eyed Vireo,0.7723662,14.0,17.0
+Vireo griseus_White-eyed Vireo,0.8680601,15.0,18.0
+Vireo griseus_White-eyed Vireo,0.90920836,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12753902,16.0,19.0
+Vireo griseus_White-eyed Vireo,0.87113386,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24021627,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11924201,18.0,21.0
+Setophaga ruticilla_American Redstart,0.109385945,18.0,21.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.26160696,19.0,22.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.19840936,20.0,23.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.38335633,21.0,24.0
+Serinus canaria_Island Canary,0.16239817,21.0,24.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.35263267,22.0,25.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.40447298,23.0,26.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.32207775,24.0,27.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.35673147,25.0,28.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.39504126,26.0,29.0
+Vireo griseus_White-eyed Vireo,0.92405933,27.0,30.0
+Vireo griseus_White-eyed Vireo,0.8965303,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15777604,28.0,31.0
+Vireo griseus_White-eyed Vireo,0.8591179,29.0,32.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22655474,30.0,33.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.40301928,31.0,34.0
+Engine_Engine,0.103457436,31.0,34.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.56874156,32.0,35.0
+Engine_Engine,0.102670796,32.0,35.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.45272732,33.0,36.0
+Engine_Engine,0.12119219,33.0,36.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.45693076,34.0,37.0
+Serinus canaria_Island Canary,0.14718859,34.0,37.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.5395901,35.0,38.0
+Sitta carolinensis_White-breasted Nuthatch,0.40060666,36.0,39.0
+Vireo griseus_White-eyed Vireo,0.7996526,37.0,40.0
+Vireo griseus_White-eyed Vireo,0.8467326,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.120370105,38.0,41.0
+Vireo griseus_White-eyed Vireo,0.65114295,39.0,42.0
+Limnothlypis swainsonii_Swainson's Warbler,0.134396,39.0,42.0
+Setophaga ruticilla_American Redstart,0.10303476,40.0,43.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.15576683,41.0,44.0
+Vireo griseus_White-eyed Vireo,0.9357351,42.0,45.0
+Vireo griseus_White-eyed Vireo,0.91432714,43.0,46.0
+Vireo griseus_White-eyed Vireo,0.59512633,44.0,47.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1365973,44.0,47.0
+Vireo griseus_White-eyed Vireo,0.42437926,45.0,48.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22138838,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.11189453,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12546135,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13275002,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.10761617,51.0,54.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10071972,51.0,54.0
+Dryobates pubescens_Downy Woodpecker,0.6666626,58.0,61.0
+Vireo griseus_White-eyed Vireo,0.76735365,59.0,62.0
+Vireo griseus_White-eyed Vireo,0.8931748,60.0,63.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12893055,60.0,63.0
+Vireo griseus_White-eyed Vireo,0.5788112,61.0,64.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18157212,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21870065,62.0,65.0
+Spinus tristis_American Goldfinch,0.20000194,63.0,66.0
+Spinus tristis_American Goldfinch,0.49833247,64.0,67.0
+Vireo griseus_White-eyed Vireo,0.82559425,65.0,68.0
+Vireo griseus_White-eyed Vireo,0.767663,66.0,69.0
+Vireo griseus_White-eyed Vireo,0.852255,67.0,70.0
+Vireo griseus_White-eyed Vireo,0.18901218,68.0,71.0
+Spinus tristis_American Goldfinch,0.121940315,69.0,72.0
+Vireo griseus_White-eyed Vireo,0.83321345,71.0,74.0
+Vireo griseus_White-eyed Vireo,0.8228469,72.0,75.0
+Vireo griseus_White-eyed Vireo,0.8228888,73.0,76.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1350264,73.0,76.0
+Vireo griseus_White-eyed Vireo,0.2888951,74.0,77.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1146009,74.0,77.0
+Vireo griseus_White-eyed Vireo,0.81051344,76.0,79.0
+Vireo griseus_White-eyed Vireo,0.85569644,77.0,80.0
+Vireo griseus_White-eyed Vireo,0.7574637,78.0,81.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13003021,78.0,81.0
+Vireo griseus_White-eyed Vireo,0.2929309,79.0,82.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25338578,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1558144,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13621205,80.0,83.0
+Vireo griseus_White-eyed Vireo,0.94384116,81.0,84.0
+Vireo griseus_White-eyed Vireo,0.66526604,82.0,85.0
+Vireo griseus_White-eyed Vireo,0.82361794,83.0,86.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1385305,83.0,86.0
+Vireo griseus_White-eyed Vireo,0.89877313,84.0,87.0
+Vireo griseus_White-eyed Vireo,0.8032934,86.0,89.0
+Vireo griseus_White-eyed Vireo,0.91023785,87.0,90.0
+Vireo griseus_White-eyed Vireo,0.8821518,88.0,91.0
+Vireo griseus_White-eyed Vireo,0.21403378,89.0,92.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18200469,89.0,92.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10957351,89.0,92.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124504276,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12373419,93.0,96.0
+Piranga olivacea_Scarlet Tanager,0.10095223,94.0,97.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11900015,96.0,99.0
+Protonotaria citrea_Prothonotary Warbler,0.14169449,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117465235,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23974076,98.0,101.0
+Protonotaria citrea_Prothonotary Warbler,0.13051274,99.0,102.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11071542,99.0,102.0
+Geothlypis formosa_Kentucky Warbler,0.11298366,100.0,102.12

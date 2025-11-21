@@ -1,0 +1,259 @@
+species,score,start_time,end_time
+Coccyzus americanus_Yellow-billed Cuckoo,0.80595404,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.3880993,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.8628604,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.7995405,3.0,6.0
+Catharus guttatus_Hermit Thrush,0.33161217,4.0,7.0
+Bonasa umbellus_Ruffed Grouse,0.17341119,4.0,7.0
+Canachites canadensis_Spruce Grouse,0.11611942,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.37986034,5.0,8.0
+Bonasa umbellus_Ruffed Grouse,0.16732523,5.0,8.0
+Canachites canadensis_Spruce Grouse,0.1295184,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.69336295,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1885708,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.41045082,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.11528392,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.634207,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.4022019,8.0,11.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7739833,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.53551966,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.63367295,10.0,13.0
+Bonasa umbellus_Ruffed Grouse,0.3341863,10.0,13.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.17809086,10.0,13.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5091564,11.0,14.0
+Bonasa umbellus_Ruffed Grouse,0.20566183,12.0,15.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1628864,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.19585064,13.0,16.0
+Bonasa umbellus_Ruffed Grouse,0.12537985,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.6271321,14.0,17.0
+Lithobates clamitans_Green Frog,0.19082056,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.17716016,15.0,18.0
+Bonasa umbellus_Ruffed Grouse,0.1562391,15.0,18.0
+Lithobates clamitans_Green Frog,0.13621403,16.0,19.0
+Bonasa umbellus_Ruffed Grouse,0.10735102,16.0,19.0
+Bonasa umbellus_Ruffed Grouse,0.33411232,17.0,20.0
+Bonasa umbellus_Ruffed Grouse,0.33810005,18.0,21.0
+Canachites canadensis_Spruce Grouse,0.1458708,18.0,21.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.47524902,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.20157996,21.0,24.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.85381496,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.15700172,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8757914,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.21947302,23.0,26.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98313427,24.0,27.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.104586564,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.10407052,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.95000404,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.37977073,25.0,28.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.89124554,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.58165836,26.0,29.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.90378433,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.17503452,27.0,30.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8218579,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.4107765,28.0,31.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2033963,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.16939883,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.71559083,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.9679431,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.85240984,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.60304195,34.0,37.0
+Lithobates clamitans_Green Frog,0.21712062,34.0,37.0
+Bonasa umbellus_Ruffed Grouse,0.36505628,35.0,38.0
+Lithobates clamitans_Green Frog,0.30941293,35.0,38.0
+Canachites canadensis_Spruce Grouse,0.12052387,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.48711646,36.0,39.0
+Lithobates clamitans_Green Frog,0.29729792,36.0,39.0
+Bonasa umbellus_Ruffed Grouse,0.25696948,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.2299106,37.0,40.0
+Bonasa umbellus_Ruffed Grouse,0.13331212,37.0,40.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.77796316,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.104832396,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.93721557,39.0,42.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.46851638,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.841901,40.0,43.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.61874247,40.0,43.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9926593,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.86314636,41.0,44.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9641845,42.0,45.0
+Catharus guttatus_Hermit Thrush,0.49118334,42.0,45.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.79006034,43.0,46.0
+Catharus guttatus_Hermit Thrush,0.64827096,43.0,46.0
+Catharus guttatus_Hermit Thrush,0.9079374,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.36310518,45.0,48.0
+Spizella pallida_Clay-colored Sparrow,0.28637505,47.0,50.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.14236672,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.43154,48.0,51.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.15242325,48.0,51.0
+Spizella pallida_Clay-colored Sparrow,0.112561755,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.61939275,49.0,52.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.37908342,49.0,52.0
+Spizella pallida_Clay-colored Sparrow,0.12697335,49.0,52.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9466272,50.0,53.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98547703,51.0,54.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.20315273,51.0,54.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9735998,52.0,55.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.14189622,52.0,55.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9944028,53.0,56.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9935104,54.0,57.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9944864,55.0,58.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9772529,56.0,59.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.73525584,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.9625076,58.0,61.0
+Passerina cyanea_Indigo Bunting,0.55440664,59.0,62.0
+Peucaea aestivalis_Bachman's Sparrow,0.19550872,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.10709141,59.0,62.0
+Passerina cyanea_Indigo Bunting,0.67560405,60.0,63.0
+Peucaea aestivalis_Bachman's Sparrow,0.31146488,60.0,63.0
+Passerina cyanea_Indigo Bunting,0.4082712,61.0,64.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7348417,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.8074461,63.0,66.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.71671844,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.8871874,64.0,67.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.85743105,64.0,67.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5607597,65.0,68.0
+Passerina cyanea_Indigo Bunting,0.20995705,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.19663078,65.0,68.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.93043166,66.0,69.0
+Passerina cyanea_Indigo Bunting,0.24359503,66.0,69.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.83692884,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.41994584,67.0,70.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8201066,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.19298248,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.38023546,69.0,72.0
+Geothlypis philadelphia_Mourning Warbler,0.16916102,69.0,72.0
+Zenaida macroura_Mourning Dove,0.10544028,69.0,72.0
+Catharus guttatus_Hermit Thrush,0.6006124,71.0,74.0
+Catharus guttatus_Hermit Thrush,0.35931253,72.0,75.0
+Catharus guttatus_Hermit Thrush,0.5446827,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.2205119,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.43830755,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.50422204,76.0,79.0
+Piranga olivacea_Scarlet Tanager,0.121536404,76.0,79.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9733069,77.0,80.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98493934,78.0,81.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9583457,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.19343409,79.0,82.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.94875395,80.0,83.0
+Passerina cyanea_Indigo Bunting,0.24039786,80.0,83.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.91256195,81.0,84.0
+Passerina cyanea_Indigo Bunting,0.10863046,81.0,84.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.70383185,82.0,85.0
+Passerina cyanea_Indigo Bunting,0.19807658,82.0,85.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8304597,83.0,86.0
+Passerina cyanea_Indigo Bunting,0.530943,83.0,86.0
+Passerina cyanea_Indigo Bunting,0.38736036,84.0,87.0
+Catharus guttatus_Hermit Thrush,0.6669582,88.0,91.0
+Catharus guttatus_Hermit Thrush,0.22324349,89.0,92.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.62043566,91.0,94.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9675281,92.0,95.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9902174,93.0,96.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96755445,94.0,97.0
+Passerina cyanea_Indigo Bunting,0.23591237,94.0,97.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9843114,95.0,98.0
+Passerina cyanea_Indigo Bunting,0.13852872,95.0,98.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7376566,96.0,99.0
+Passerina cyanea_Indigo Bunting,0.5132469,96.0,99.0
+Passerina versicolor_Varied Bunting,0.23881587,96.0,99.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.61387855,97.0,100.0
+Passerina cyanea_Indigo Bunting,0.3137044,97.0,100.0
+Cissopis leverianus_Magpie Tanager,0.76098037,100.0,103.0
+Passerina cyanea_Indigo Bunting,0.52336967,101.0,104.0
+Passerina cyanea_Indigo Bunting,0.46975943,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.13936388,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.119625896,103.0,106.0
+Gun_Gun,0.10259556,104.0,107.0
+Passerina cyanea_Indigo Bunting,0.13143124,106.0,109.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7304177,107.0,110.0
+Passerina cyanea_Indigo Bunting,0.27598202,107.0,110.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9815586,108.0,111.0
+Passerina cyanea_Indigo Bunting,0.1411523,108.0,111.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98377854,109.0,112.0
+Passerina cyanea_Indigo Bunting,0.24239609,110.0,113.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.13379014,110.0,113.0
+Geothlypis philadelphia_Mourning Warbler,0.10884173,110.0,113.0
+Passerina cyanea_Indigo Bunting,0.25167385,112.0,115.0
+Cissopis leverianus_Magpie Tanager,0.1276822,112.0,115.0
+Geothlypis philadelphia_Mourning Warbler,0.17662911,113.0,116.0
+Passerina cyanea_Indigo Bunting,0.22081046,114.0,117.0
+Passerina cyanea_Indigo Bunting,0.2672541,115.0,118.0
+Cissopis leverianus_Magpie Tanager,0.14634599,115.0,118.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1922812,119.0,122.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.873531,120.0,123.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8081215,121.0,124.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98808753,122.0,125.0
+Passerina cyanea_Indigo Bunting,0.13758406,122.0,125.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96823746,123.0,126.0
+Passerina cyanea_Indigo Bunting,0.2602759,123.0,126.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.73708034,124.0,127.0
+Passerina cyanea_Indigo Bunting,0.11802908,124.0,127.0
+Passerina cyanea_Indigo Bunting,0.24848056,125.0,128.0
+Catharus guttatus_Hermit Thrush,0.21113305,126.0,129.0
+Catharus guttatus_Hermit Thrush,0.5886261,127.0,130.0
+Catharus guttatus_Hermit Thrush,0.1375027,128.0,131.0
+Passerina cyanea_Indigo Bunting,0.41137242,131.0,134.0
+Passerina cyanea_Indigo Bunting,0.13177404,132.0,135.0
+Passerina cyanea_Indigo Bunting,0.8825649,133.0,136.0
+Cissopis leverianus_Magpie Tanager,0.3388594,133.0,136.0
+Lagopus lagopus_Willow Ptarmigan,0.10174318,133.0,136.0
+Passerina cyanea_Indigo Bunting,0.3043751,134.0,137.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.13371193,134.0,137.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96653694,135.0,138.0
+Passerina cyanea_Indigo Bunting,0.5710017,135.0,138.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.97696984,136.0,139.0
+Passerina cyanea_Indigo Bunting,0.1192295,136.0,139.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8485388,137.0,140.0
+Catharus guttatus_Hermit Thrush,0.20605724,137.0,140.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.85016483,138.0,141.0
+Catharus guttatus_Hermit Thrush,0.14557861,138.0,141.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.94427985,139.0,142.0
+Passerina cyanea_Indigo Bunting,0.10171838,139.0,142.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.43975508,140.0,143.0
+Passerina cyanea_Indigo Bunting,0.38862658,140.0,143.0
+Passerina cyanea_Indigo Bunting,0.29510754,141.0,144.0
+Passerina cyanea_Indigo Bunting,0.2751653,142.0,145.0
+Passerina cyanea_Indigo Bunting,0.47701845,143.0,146.0
+Passerina cyanea_Indigo Bunting,0.6931142,144.0,147.0
+Passerina cyanea_Indigo Bunting,0.78102237,145.0,148.0
+Passerina cyanea_Indigo Bunting,0.4435309,146.0,149.0
+Passerina cyanea_Indigo Bunting,0.5184397,147.0,150.0
+Passerina cyanea_Indigo Bunting,0.57046306,148.0,151.0
+Passerina cyanea_Indigo Bunting,0.52291954,149.0,152.0
+Geothlypis philadelphia_Mourning Warbler,0.1299536,149.0,152.0
+Passerina cyanea_Indigo Bunting,0.22498462,150.0,153.0
+Passerina cyanea_Indigo Bunting,0.49998045,151.0,154.0
+Passerina cyanea_Indigo Bunting,0.46591136,152.0,155.0
+Passerina cyanea_Indigo Bunting,0.17384987,153.0,156.0
+Cissopis leverianus_Magpie Tanager,0.12089175,155.0,158.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16264533,159.0,162.0
+Passerina cyanea_Indigo Bunting,0.19075629,161.0,164.0
+Cissopis leverianus_Magpie Tanager,0.3062411,162.0,165.0
+Passerina cyanea_Indigo Bunting,0.11184683,165.0,168.0
+Cissopis leverianus_Magpie Tanager,0.10000347,165.0,168.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26656494,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31409675,170.0,173.0
+Cissopis leverianus_Magpie Tanager,0.14582944,176.0,179.0
+Cissopis leverianus_Magpie Tanager,0.20860966,177.0,180.0
+Passerina cyanea_Indigo Bunting,0.17327893,177.0,180.0
+Passerina cyanea_Indigo Bunting,0.23170546,178.0,181.0
+Passerina cyanea_Indigo Bunting,0.22655614,179.0,182.0
+Cissopis leverianus_Magpie Tanager,0.14915837,179.0,182.0
+Amaurospiza concolor_Blue Seedeater,0.10190999,179.0,182.0
+Passerina cyanea_Indigo Bunting,0.23954596,180.0,183.0
+Cissopis leverianus_Magpie Tanager,0.22382523,180.0,183.0
+Seiurus aurocapilla_Ovenbird,0.24639797,181.0,184.0
+Setophaga virens_Black-throated Green Warbler,0.735804,183.0,186.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.14866838,183.0,186.0
+Setophaga virens_Black-throated Green Warbler,0.8166252,184.0,187.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5021135,184.0,187.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.6536862,185.0,188.0
+Setophaga virens_Black-throated Green Warbler,0.14054053,185.0,188.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.99207157,186.0,189.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.13373192,186.0,189.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9596215,187.0,190.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.91435295,188.0,191.0
+Setophaga virens_Black-throated Green Warbler,0.6076033,188.0,191.0
+Setophaga virens_Black-throated Green Warbler,0.44818938,189.0,192.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.3646495,189.0,192.0
+Setophaga virens_Black-throated Green Warbler,0.9441132,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.111362234,191.0,194.0
+Gun_Gun,0.102278486,196.0,199.0

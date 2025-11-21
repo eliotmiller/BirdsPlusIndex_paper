@@ -1,0 +1,70 @@
+species,score,start_time,end_time
+Lithobates clamitans_Green Frog,0.23366435,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.16487023,0.0,3.0
+Lithobates clamitans_Green Frog,0.22760041,1.0,4.0
+Lithobates clamitans_Green Frog,0.27785447,2.0,5.0
+Lithobates clamitans_Green Frog,0.25851816,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.1106729,5.0,8.0
+Eunemobius carolinus_Carolina Ground Cricket,0.11259516,7.0,10.0
+Strix varia_Barred Owl,0.14114435,9.0,12.0
+Eunemobius carolinus_Carolina Ground Cricket,0.12913747,9.0,12.0
+Cyanocitta cristata_Blue Jay,0.10649985,9.0,12.0
+Strix varia_Barred Owl,0.19904502,10.0,13.0
+Cyanocitta cristata_Blue Jay,0.14207909,10.0,13.0
+Strix varia_Barred Owl,0.32150343,11.0,14.0
+Eunemobius carolinus_Carolina Ground Cricket,0.24455445,12.0,15.0
+Strix varia_Barred Owl,0.11387851,12.0,15.0
+Strix varia_Barred Owl,0.113808095,14.0,17.0
+Strix varia_Barred Owl,0.10376628,19.0,22.0
+Lithobates clamitans_Green Frog,0.124265455,20.0,23.0
+Eunemobius carolinus_Carolina Ground Cricket,0.15898067,21.0,24.0
+Lithobates clamitans_Green Frog,0.10604123,21.0,24.0
+Strix varia_Barred Owl,0.12741949,22.0,25.0
+Dryocopus pileatus_Pileated Woodpecker,0.10813813,22.0,25.0
+Ardea herodias_Great Blue Heron,0.17526905,24.0,27.0
+Eunemobius carolinus_Carolina Ground Cricket,0.11346287,24.0,27.0
+Ardea herodias_Great Blue Heron,0.39231184,25.0,28.0
+Lithobates clamitans_Green Frog,0.2036534,25.0,28.0
+Ardea herodias_Great Blue Heron,0.418909,26.0,29.0
+Coragyps atratus_Black Vulture,0.16783121,26.0,29.0
+Ardea herodias_Great Blue Heron,0.18348648,27.0,30.0
+Strix varia_Barred Owl,0.114059135,27.0,30.0
+Anas platyrhynchos_Mallard,0.102991015,27.0,30.0
+Eunemobius carolinus_Carolina Ground Cricket,0.26598606,28.0,31.0
+Strix varia_Barred Owl,0.107365616,29.0,32.0
+Lithobates clamitans_Green Frog,0.41926545,33.0,36.0
+Dryocopus pileatus_Pileated Woodpecker,0.19662842,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.110723615,33.0,36.0
+Coragyps atratus_Black Vulture,0.105269104,33.0,36.0
+Dryocopus pileatus_Pileated Woodpecker,0.11959487,34.0,37.0
+Lithobates clamitans_Green Frog,0.1271777,35.0,38.0
+Lithobates clamitans_Green Frog,0.37297302,37.0,40.0
+Lithobates clamitans_Green Frog,0.439276,38.0,41.0
+Lithobates clamitans_Green Frog,0.41184327,39.0,42.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.37337714,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.1526729,40.0,43.0
+Cyanocitta cristata_Blue Jay,0.11915818,43.0,46.0
+Lithobates clamitans_Green Frog,0.24634284,46.0,49.0
+Lithobates clamitans_Green Frog,0.69794965,47.0,50.0
+Dryocopus pileatus_Pileated Woodpecker,0.32169926,47.0,50.0
+Lithobates clamitans_Green Frog,0.8649018,48.0,51.0
+Dryocopus pileatus_Pileated Woodpecker,0.18625596,48.0,51.0
+Cyanocitta cristata_Blue Jay,0.12596624,49.0,52.0
+Cyanocitta cristata_Blue Jay,0.10588988,50.0,53.0
+Strix varia_Barred Owl,0.10907137,52.0,55.0
+Cyanocitta cristata_Blue Jay,0.24610294,53.0,56.0
+Lithobates clamitans_Green Frog,0.2634938,54.0,57.0
+Dryocopus pileatus_Pileated Woodpecker,0.16307278,54.0,57.0
+Dryocopus pileatus_Pileated Woodpecker,0.13937314,55.0,58.0
+Cyanocitta cristata_Blue Jay,0.10428905,55.0,58.0
+Butorides virescens_Green Heron,0.19806197,56.0,59.0
+Strix varia_Barred Owl,0.10920862,56.0,59.0
+Cyanocitta cristata_Blue Jay,0.1381934,57.0,60.0
+Strix varia_Barred Owl,0.30085853,58.0,61.0
+Cyanocitta cristata_Blue Jay,0.13153021,58.0,61.0
+Cyanocitta cristata_Blue Jay,0.2612274,59.0,62.0
+Strix varia_Barred Owl,0.1283754,59.0,62.0
+Cyanocitta cristata_Blue Jay,0.16950923,60.0,63.0
+Strix varia_Barred Owl,0.13440531,60.0,63.0
+Cyanocitta cristata_Blue Jay,0.2774218,61.0,64.0
+Cyanocitta cristata_Blue Jay,0.11921667,62.0,64.29600907029479

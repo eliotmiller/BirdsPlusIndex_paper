@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.9953402,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.96861935,1.0,4.0
+Contopus virens_Eastern Wood-Pewee,0.30099618,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.980703,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.22410305,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.62612444,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.1516493,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.3714161,5.0,8.0
+Emberiza citrinella_Yellowhammer,0.108675264,5.0,8.0
+Salpinctes obsoletus_Rock Wren,0.19853067,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.106568426,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.9883989,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.9932721,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.99399984,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.1558665,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.25051364,14.0,17.0
+Emberiza citrinella_Yellowhammer,0.1756889,14.0,17.0
+Emberiza citrinella_Yellowhammer,0.18507813,15.0,18.0
+Salpinctes obsoletus_Rock Wren,0.12876764,15.0,18.0
+Bubo virginianus_Great Horned Owl,0.23609893,17.0,20.0
+Bubo virginianus_Great Horned Owl,0.1829344,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.9588905,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.88899064,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.79197425,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.9947238,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.9957896,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.41765806,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.39400533,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.3485621,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.5781957,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.5907756,27.0,30.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.16066746,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.6638167,28.0,31.0
+Contopus virens_Eastern Wood-Pewee,0.81171644,29.0,32.0
+Bubo virginianus_Great Horned Owl,0.4894175,32.0,35.0
+Bubo virginianus_Great Horned Owl,0.40284154,33.0,36.0
+Engine_Engine,0.1000189,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.8435847,34.0,37.0
+Phoenicurus ochruros_Black Redstart,0.20014013,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.99886024,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.9953194,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.9839642,37.0,40.0
+Limnothlypis swainsonii_Swainson's Warbler,0.4184992,37.0,40.0
+Spizella pusilla_Field Sparrow,0.38918123,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.9838589,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.9976857,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.9266526,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.3389793,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.88076884,43.0,46.0
+Contopus virens_Eastern Wood-Pewee,0.9022188,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.12595938,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.2540857,45.0,48.0
+Ninox strenua_Powerful Owl,0.21058585,46.0,49.0
+Salpinctes obsoletus_Rock Wren,0.1088553,46.0,49.0
+Bubo virginianus_Great Horned Owl,0.32735637,47.0,50.0
+Bubo virginianus_Great Horned Owl,0.22963317,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.92448676,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.9828666,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.9777489,51.0,54.0
+Setophaga citrina_Hooded Warbler,0.6917627,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.34999987,52.0,55.0
+Phylloscopus soror_Alström's Warbler,0.12248486,52.0,55.0
+Contopus virens_Eastern Wood-Pewee,0.8837169,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.8869862,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.5010866,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.5610935,56.0,59.0
+Emberiza citrinella_Yellowhammer,0.5251155,57.0,60.0
+Ninox strenua_Powerful Owl,0.187276,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.18137543,57.0,60.0
+Emberiza citrinella_Yellowhammer,0.21772143,58.0,61.0
+Ninox strenua_Powerful Owl,0.13885446,58.0,61.0
+Tarsiger cyanurus_Red-flanked Bluetail,0.33964825,59.0,62.0
+Setophaga citrina_Hooded Warbler,0.9852305,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.97338516,61.0,64.0
+Setophaga citrina_Hooded Warbler,0.61458117,62.0,65.0
+Setophaga magnolia_Magnolia Warbler,0.1653747,62.0,65.0
+Contopus virens_Eastern Wood-Pewee,0.14950468,62.0,65.0
+Contopus virens_Eastern Wood-Pewee,0.9505476,63.0,66.0
+Contopus virens_Eastern Wood-Pewee,0.7498043,64.0,67.0
+Junco hyemalis_Dark-eyed Junco,0.2087122,65.0,68.0
+Junco hyemalis_Dark-eyed Junco,0.3690613,66.0,69.0
+Ninox strenua_Powerful Owl,0.21606696,66.0,69.0
+Salpinctes obsoletus_Rock Wren,0.10516457,66.0,69.0
+Bubo virginianus_Great Horned Owl,0.17372596,67.0,70.0
+Salpinctes obsoletus_Rock Wren,0.10410009,67.0,70.0
+Bubo virginianus_Great Horned Owl,0.16835845,68.0,71.0
+Setophaga citrina_Hooded Warbler,0.93980926,69.0,72.0
+Setophaga citrina_Hooded Warbler,0.97210455,70.0,73.0
+Setophaga citrina_Hooded Warbler,0.9738641,71.0,73.63201814058957

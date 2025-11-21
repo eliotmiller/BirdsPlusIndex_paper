@@ -1,0 +1,42 @@
+species,score,start_time,end_time
+Pipilo erythrophthalmus_Eastern Towhee,0.6721052,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26637313,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.13086776,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.16583328,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1096885,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1934898,3.0,6.0
+Sialia sialis_Eastern Bluebird,0.27954635,9.0,12.0
+Sialia sialis_Eastern Bluebird,0.1227146,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17201786,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18715611,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2758767,13.0,16.0
+Ferminia cerverai_Zapata Wren,0.10794639,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20132345,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15827549,17.0,20.0
+Quiscalus quiscula_Common Grackle,0.103001736,22.0,25.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20249742,23.0,26.0
+Plegadis chihi_White-faced Ibis,0.29572824,24.0,27.0
+Ardea herodias_Great Blue Heron,0.2574224,24.0,27.0
+Ardea herodias_Great Blue Heron,0.17509362,25.0,28.0
+Ardea herodias_Great Blue Heron,0.13483104,26.0,29.0
+Casuarius casuarius_Southern Cassowary,0.23429248,30.0,33.0
+Elaenia spectabilis_Large Elaenia,0.10113513,33.0,36.0
+Icterus chrysater_Yellow-backed Oriole,0.18534066,40.0,43.0
+Icterus graduacauda_Audubon's Oriole,0.12825872,40.0,43.0
+Icterus chrysater_Yellow-backed Oriole,0.12750082,41.0,44.0
+Human non-vocal_Human non-vocal,0.22847228,42.0,45.0
+Human vocal_Human vocal,0.101544715,42.0,45.0
+Casuarius casuarius_Southern Cassowary,0.11674349,43.0,46.0
+Human vocal_Human vocal,0.21112986,48.0,51.0
+Phaps chalcoptera_Common Bronzewing,0.66764057,59.0,62.0
+Zentrygon frenata_White-throated Quail-Dove,0.3888582,59.0,62.0
+Bubo virginianus_Great Horned Owl,0.2317271,60.0,63.0
+Bubo virginianus_Great Horned Owl,0.113669686,61.0,64.0
+Melospiza melodia_Song Sparrow,0.49888608,73.0,76.0
+Gun_Gun,0.16427484,86.0,89.0
+Spiza americana_Dickcissel,0.1335319,98.0,101.0
+Melospiza melodia_Song Sparrow,0.111682825,98.0,101.0
+Quiscalus quiscula_Common Grackle,0.14121628,99.0,102.0
+Botaurus lentiginosus_American Bittern,0.22396626,103.0,106.0
+Spiza americana_Dickcissel,0.11721572,108.0,111.0
+Gun_Gun,0.21815392,110.0,113.0

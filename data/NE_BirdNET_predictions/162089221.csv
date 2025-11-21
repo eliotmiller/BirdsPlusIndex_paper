@@ -1,0 +1,142 @@
+species,score,start_time,end_time
+Lanius ludovicianus_Loggerhead Shrike,0.786222,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.55906177,0.0,3.0
+Mirafra cheniana_Latakoo Lark,0.39145118,0.0,3.0
+Mirafra cheniana_Latakoo Lark,0.11817303,1.0,4.0
+Mimus polyglottos_Northern Mockingbird,0.944362,2.0,5.0
+Mimus polyglottos_Northern Mockingbird,0.9256304,3.0,6.0
+Mimus polyglottos_Northern Mockingbird,0.9002754,4.0,7.0
+Mimus polyglottos_Northern Mockingbird,0.6912137,5.0,8.0
+Mimus polyglottos_Northern Mockingbird,0.47478363,6.0,9.0
+Mimus polyglottos_Northern Mockingbird,0.8397157,7.0,10.0
+Mimus polyglottos_Northern Mockingbird,0.7460458,8.0,11.0
+Mimus polyglottos_Northern Mockingbird,0.45525193,9.0,12.0
+Mimus polyglottos_Northern Mockingbird,0.2604804,10.0,13.0
+Turdus obsoletus_Pale-vented Thrush,0.10440583,10.0,13.0
+Mimus polyglottos_Northern Mockingbird,0.32529166,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.6813296,12.0,15.0
+Sialia currucoides_Mountain Bluebird,0.12869291,12.0,15.0
+Mimus polyglottos_Northern Mockingbird,0.68755406,13.0,16.0
+Sialia currucoides_Mountain Bluebird,0.22875647,13.0,16.0
+Mimus gilvus_Tropical Mockingbird,0.14332084,13.0,16.0
+Mimus gilvus_Tropical Mockingbird,0.7150001,14.0,17.0
+Mimus polyglottos_Northern Mockingbird,0.6605486,14.0,17.0
+Sialia currucoides_Mountain Bluebird,0.21664807,14.0,17.0
+Mimus gilvus_Tropical Mockingbird,0.53108454,15.0,18.0
+Mimus polyglottos_Northern Mockingbird,0.50696397,15.0,18.0
+Mimus polyglottos_Northern Mockingbird,0.22665767,16.0,19.0
+Mimus gilvus_Tropical Mockingbird,0.12077513,16.0,19.0
+Turdus leucomelas_Pale-breasted Thrush,0.10741338,16.0,19.0
+Mimus polyglottos_Northern Mockingbird,0.3777,17.0,20.0
+Turdus leucomelas_Pale-breasted Thrush,0.10667944,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.3815573,18.0,21.0
+Engine_Engine,0.13547318,18.0,21.0
+Turdus amaurochalinus_Creamy-bellied Thrush,0.11392436,18.0,21.0
+Mimus polyglottos_Northern Mockingbird,0.86555827,19.0,22.0
+Progne subis_Purple Martin,0.11185825,19.0,22.0
+Mimus polyglottos_Northern Mockingbird,0.43260166,20.0,23.0
+Mimus gilvus_Tropical Mockingbird,0.15245989,20.0,23.0
+Progne subis_Purple Martin,0.13007283,20.0,23.0
+Siren_Siren,0.13589773,21.0,24.0
+Engine_Engine,0.12671755,21.0,24.0
+Psittacula alexandri_Red-breasted Parakeet,0.12657611,23.0,26.0
+Psittacula alexandri_Red-breasted Parakeet,0.3085695,24.0,27.0
+Sitta carolinensis_White-breasted Nuthatch,0.2075631,27.0,30.0
+Pnoepyga pusilla_Pygmy Cupwing,0.57584476,28.0,31.0
+Pnoepyga pusilla_Pygmy Cupwing,0.24081711,30.0,33.0
+Molothrus ater_Brown-headed Cowbird,0.104497,30.0,33.0
+Molothrus ater_Brown-headed Cowbird,0.38712975,31.0,34.0
+Tyrannus verticalis_Western Kingbird,0.3699946,31.0,34.0
+Pnoepyga pusilla_Pygmy Cupwing,0.13352662,31.0,34.0
+Tyrannus verticalis_Western Kingbird,0.53162754,32.0,35.0
+Mimus polyglottos_Northern Mockingbird,0.97198224,33.0,36.0
+Mimus gilvus_Tropical Mockingbird,0.26069263,33.0,36.0
+Mimus polyglottos_Northern Mockingbird,0.8888069,34.0,37.0
+Mimus gilvus_Tropical Mockingbird,0.20396763,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.63958347,35.0,38.0
+Mimus gilvus_Tropical Mockingbird,0.10881323,35.0,38.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.13369761,36.0,39.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5537167,37.0,40.0
+Icteria virens_Yellow-breasted Chat,0.11150674,37.0,40.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.25070268,38.0,41.0
+Antrostomus ridgwayi_Buff-collared Nightjar,0.12818742,39.0,42.0
+Mimus gilvus_Tropical Mockingbird,0.20129476,44.0,47.0
+Turdus merula_Eurasian Blackbird,0.2028345,47.0,50.0
+Mimus polyglottos_Northern Mockingbird,0.45036817,50.0,53.0
+Turdus ignobilis_Black-billed Thrush,0.14369413,51.0,54.0
+Paroaria coronata_Red-crested Cardinal,0.49315763,52.0,55.0
+Paroaria coronata_Red-crested Cardinal,0.53799075,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.487695,54.0,57.0
+Mimus polyglottos_Northern Mockingbird,0.1500887,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.3323725,55.0,58.0
+Mimus polyglottos_Northern Mockingbird,0.12397401,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.32845622,56.0,59.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10915207,56.0,59.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7259631,57.0,60.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.44719514,57.0,60.0
+Myiarchus crinitus_Great Crested Flycatcher,0.25826588,58.0,61.0
+Myiarchus crinitus_Great Crested Flycatcher,0.44899637,59.0,62.0
+Myiarchus crinitus_Great Crested Flycatcher,0.65616685,60.0,63.0
+Sayornis phoebe_Eastern Phoebe,0.30912638,61.0,64.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13672379,61.0,64.0
+Sayornis phoebe_Eastern Phoebe,0.8901038,62.0,65.0
+Sayornis phoebe_Eastern Phoebe,0.95273244,63.0,66.0
+Sayornis phoebe_Eastern Phoebe,0.82884747,64.0,67.0
+Sayornis phoebe_Eastern Phoebe,0.18121682,65.0,68.0
+Gracupica contra_Asian Pied Starling,0.11923781,65.0,68.0
+Gracupica contra_Asian Pied Starling,0.1456956,66.0,69.0
+Gracupica contra_Asian Pied Starling,0.33601737,67.0,70.0
+Sayornis phoebe_Eastern Phoebe,0.41404712,68.0,71.0
+Apus melba_Alpine Swift,0.18804441,69.0,72.0
+Myiopagis caniceps_Gray Elaenia,0.10587622,69.0,72.0
+Myiopagis caniceps_Gray Elaenia,0.15903042,70.0,73.0
+Apus melba_Alpine Swift,0.14161731,70.0,73.0
+Gracupica contra_Asian Pied Starling,0.59451747,71.0,74.0
+Gracupica nigricollis_Black-collared Starling,0.101635896,71.0,74.0
+Sayornis nigricans_Black Phoebe,0.14269386,72.0,75.0
+Gracupica contra_Asian Pied Starling,0.142052,72.0,75.0
+Lanius ludovicianus_Loggerhead Shrike,0.10950139,73.0,76.0
+Mimus polyglottos_Northern Mockingbird,0.1564365,74.0,77.0
+Mimus polyglottos_Northern Mockingbird,0.6724407,75.0,78.0
+Mimus polyglottos_Northern Mockingbird,0.8781139,76.0,79.0
+Thryothorus ludovicianus_Carolina Wren,0.1437169,76.0,79.0
+Mimus polyglottos_Northern Mockingbird,0.91272825,77.0,80.0
+Mimus polyglottos_Northern Mockingbird,0.34393772,78.0,81.0
+Mimus polyglottos_Northern Mockingbird,0.1817888,79.0,82.0
+Mimus polyglottos_Northern Mockingbird,0.20248187,83.0,86.0
+Baeolophus bicolor_Tufted Titmouse,0.11800429,83.0,86.0
+Baeolophus bicolor_Tufted Titmouse,0.256847,84.0,87.0
+Mimus polyglottos_Northern Mockingbird,0.19482107,86.0,89.0
+Baeolophus bicolor_Tufted Titmouse,0.16324726,86.0,89.0
+Mimus polyglottos_Northern Mockingbird,0.24735047,87.0,90.0
+Engine_Engine,0.23439911,89.0,92.0
+Thryothorus ludovicianus_Carolina Wren,0.11620863,89.0,92.0
+Engine_Engine,0.5102547,90.0,93.0
+Engine_Engine,0.8360076,91.0,94.0
+Power tools_Power tools,0.4283455,91.0,94.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.41245225,93.0,96.0
+Mimus polyglottos_Northern Mockingbird,0.19995345,94.0,97.0
+Orthotomus derbianus_Gray-backed Tailorbird,0.54785895,95.0,98.0
+Mimus polyglottos_Northern Mockingbird,0.1882933,95.0,98.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.14193037,95.0,98.0
+Mimus gilvus_Tropical Mockingbird,0.10628404,95.0,98.0
+Orthotomus derbianus_Gray-backed Tailorbird,0.32068974,96.0,99.0
+Orthotomus derbianus_Gray-backed Tailorbird,0.5762156,97.0,100.0
+Mimus gilvus_Tropical Mockingbird,0.16271292,98.0,101.0
+Mimus polyglottos_Northern Mockingbird,0.13649637,98.0,101.0
+Mimus polyglottos_Northern Mockingbird,0.36903754,99.0,102.0
+Mimus gilvus_Tropical Mockingbird,0.10674671,99.0,102.0
+Mimus polyglottos_Northern Mockingbird,0.3615962,100.0,103.0
+Mimus gilvus_Tropical Mockingbird,0.1267467,100.0,103.0
+Mimus polyglottos_Northern Mockingbird,0.10963212,101.0,104.0
+Mimus polyglottos_Northern Mockingbird,0.19021116,105.0,108.0
+Icterus parisorum_Scott's Oriole,0.17648633,106.0,109.0
+Toxostoma lecontei_LeConte's Thrasher,0.10346096,106.0,109.0
+Tolmomyias flaviventris_Yellow-breasted Flycatcher,0.4973436,107.0,110.0
+Engine_Engine,0.15006945,107.0,110.0
+Tolmomyias flaviventris_Yellow-breasted Flycatcher,0.114626355,108.0,111.0
+Certhia himalayana_Bar-tailed Treecreeper,0.12425036,109.0,112.0
+Stilpnia preciosa_Chestnut-backed Tanager,0.247709,110.0,113.0
+Bombycilla cedrorum_Cedar Waxwing,0.17507386,110.0,113.0
+Stilpnia peruviana_Black-backed Tanager,0.101313815,110.0,113.0
+Bombycilla cedrorum_Cedar Waxwing,0.19948466,111.0,114.0

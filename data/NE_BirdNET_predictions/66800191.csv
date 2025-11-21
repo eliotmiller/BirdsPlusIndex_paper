@@ -1,0 +1,100 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.9871013,2.0,5.0
+Pandion haliaetus_Osprey,0.9801824,3.0,6.0
+Elanoides forficatus_Swallow-tailed Kite,0.18766321,3.0,6.0
+Pandion haliaetus_Osprey,0.99706995,4.0,7.0
+Pandion haliaetus_Osprey,0.9563968,5.0,8.0
+Pandion haliaetus_Osprey,0.9975036,6.0,9.0
+Pandion haliaetus_Osprey,0.9925397,7.0,10.0
+Pandion haliaetus_Osprey,0.8994793,8.0,11.0
+Picus canus_Gray-headed Woodpecker,0.103234254,8.0,11.0
+Pandion haliaetus_Osprey,0.84133,9.0,12.0
+Numenius phaeopus_Whimbrel,0.26971844,10.0,13.0
+Engine_Engine,0.15267824,10.0,13.0
+Elanoides forficatus_Swallow-tailed Kite,0.5569347,11.0,14.0
+Pandion haliaetus_Osprey,0.36344093,11.0,14.0
+Buteogallus anthracinus_Common Black Hawk,0.12007131,11.0,14.0
+Pandion haliaetus_Osprey,0.8223234,12.0,15.0
+Elanoides forficatus_Swallow-tailed Kite,0.110756606,12.0,15.0
+Pandion haliaetus_Osprey,0.8016536,13.0,16.0
+Elanoides forficatus_Swallow-tailed Kite,0.5391393,13.0,16.0
+Buteogallus anthracinus_Common Black Hawk,0.16251741,13.0,16.0
+Pandion haliaetus_Osprey,0.8233175,14.0,17.0
+Elanoides forficatus_Swallow-tailed Kite,0.14267161,14.0,17.0
+Pandion haliaetus_Osprey,0.24110179,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.23189428,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.22684303,16.0,19.0
+Elanoides forficatus_Swallow-tailed Kite,0.3955891,17.0,20.0
+Elanoides forficatus_Swallow-tailed Kite,0.29643998,18.0,21.0
+Elanoides forficatus_Swallow-tailed Kite,0.436384,19.0,22.0
+Elanoides forficatus_Swallow-tailed Kite,0.53043723,20.0,23.0
+Vanellus vanellus_Northern Lapwing,0.18563716,20.0,23.0
+Vanellus vanellus_Northern Lapwing,0.6930072,21.0,24.0
+Engine_Engine,0.13518547,24.0,27.0
+Engine_Engine,0.18486595,25.0,28.0
+Engine_Engine,0.16646333,26.0,29.0
+Engine_Engine,0.12498233,27.0,30.0
+Engine_Engine,0.52834284,28.0,31.0
+Pandion haliaetus_Osprey,0.49192506,29.0,32.0
+Pandion haliaetus_Osprey,0.9465279,30.0,33.0
+Elanoides forficatus_Swallow-tailed Kite,0.124065995,30.0,33.0
+Pandion haliaetus_Osprey,0.51040834,31.0,34.0
+Elanoides forficatus_Swallow-tailed Kite,0.26954374,31.0,34.0
+Elanoides forficatus_Swallow-tailed Kite,0.71740097,32.0,35.0
+Elanoides forficatus_Swallow-tailed Kite,0.8532217,33.0,36.0
+Elanoides forficatus_Swallow-tailed Kite,0.9590501,34.0,37.0
+Pandion haliaetus_Osprey,0.11322544,34.0,37.0
+Elanoides forficatus_Swallow-tailed Kite,0.7977093,35.0,38.0
+Parabuteo unicinctus_Harris's Hawk,0.13000618,35.0,38.0
+Haliaeetus leucocephalus_Bald Eagle,0.114799716,35.0,38.0
+Parabuteo unicinctus_Harris's Hawk,0.67491287,36.0,39.0
+Elanoides forficatus_Swallow-tailed Kite,0.35539222,36.0,39.0
+Engine_Engine,0.45093903,37.0,40.0
+Engine_Engine,0.74036336,38.0,41.0
+Elanoides forficatus_Swallow-tailed Kite,0.46665615,39.0,42.0
+Engine_Engine,0.11611214,39.0,42.0
+Elanoides forficatus_Swallow-tailed Kite,0.7221014,40.0,43.0
+Pandion haliaetus_Osprey,0.18275936,40.0,43.0
+Podilymbus podiceps_Pied-billed Grebe,0.10390279,40.0,43.0
+Elanoides forficatus_Swallow-tailed Kite,0.23701105,41.0,44.0
+Elanoides forficatus_Swallow-tailed Kite,0.12884793,42.0,45.0
+Elanoides forficatus_Swallow-tailed Kite,0.1273214,44.0,47.0
+Metopidius indicus_Bronze-winged Jacana,0.11048236,44.0,47.0
+Metopidius indicus_Bronze-winged Jacana,0.13432167,45.0,48.0
+Apus melba_Alpine Swift,0.14548874,48.0,51.0
+Apus melba_Alpine Swift,0.10674032,49.0,52.0
+Apus melba_Alpine Swift,0.20431137,50.0,53.0
+Apus melba_Alpine Swift,0.3662985,52.0,55.0
+Apus melba_Alpine Swift,0.2887253,54.0,57.0
+Engine_Engine,0.20897426,54.0,57.0
+Apus melba_Alpine Swift,0.33231822,55.0,58.0
+Engine_Engine,0.19842704,55.0,58.0
+Engine_Engine,0.26559776,56.0,59.0
+Apus melba_Alpine Swift,0.17667142,56.0,59.0
+Apus melba_Alpine Swift,0.38217592,57.0,60.0
+Engine_Engine,0.22709069,57.0,60.0
+Apus melba_Alpine Swift,0.28566468,58.0,61.0
+Apus melba_Alpine Swift,0.18871169,59.0,62.0
+Engine_Engine,0.12164274,59.0,62.0
+Apus melba_Alpine Swift,0.12062097,60.0,63.0
+Pandion haliaetus_Osprey,0.6110373,61.0,64.0
+Elanoides forficatus_Swallow-tailed Kite,0.19302808,61.0,64.0
+Pandion haliaetus_Osprey,0.526631,62.0,65.0
+Pandion haliaetus_Osprey,0.115654476,63.0,66.0
+Spinus tristis_American Goldfinch,0.21435036,65.0,68.0
+Spinus tristis_American Goldfinch,0.43767136,66.0,69.0
+Chamaea fasciata_Wrentit,0.11099955,71.0,74.0
+Apus melba_Alpine Swift,0.4031247,72.0,75.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.12734766,72.0,75.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.47409487,73.0,76.0
+Apus melba_Alpine Swift,0.31055394,73.0,76.0
+Apus melba_Alpine Swift,0.30621633,75.0,78.0
+Apus melba_Alpine Swift,0.4332348,76.0,79.0
+Petronia petronia_Rock Sparrow,0.59460074,77.0,80.0
+Apus melba_Alpine Swift,0.3714674,77.0,80.0
+Petronia petronia_Rock Sparrow,0.5022689,78.0,81.0
+Apus melba_Alpine Swift,0.24880187,79.0,82.0
+Elanoides forficatus_Swallow-tailed Kite,0.5403701,80.0,83.0
+Elanoides forficatus_Swallow-tailed Kite,0.595028,81.0,84.0
+Elanoides forficatus_Swallow-tailed Kite,0.16651136,82.0,85.0
+Elanoides forficatus_Swallow-tailed Kite,0.57862335,83.0,86.0

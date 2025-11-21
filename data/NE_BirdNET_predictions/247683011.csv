@@ -1,0 +1,102 @@
+species,score,start_time,end_time
+Setophaga magnolia_Magnolia Warbler,0.9893869,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13343045,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.9765379,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.120510325,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.12520617,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.7806531,8.0,11.0
+Geothlypis philadelphia_Mourning Warbler,0.1914367,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.9714325,9.0,12.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20979466,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.98251027,10.0,13.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.41561142,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.97745615,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.26974368,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.2023516,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15240827,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.14761056,12.0,15.0
+Certhia americana_Brown Creeper,0.13849223,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.18979126,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.69311565,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.52129966,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.35978806,19.0,22.0
+Setophaga castanea_Bay-breasted Warbler,0.24958019,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.8076966,20.0,23.0
+Geothlypis philadelphia_Mourning Warbler,0.368173,20.0,23.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20771646,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.98955417,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.9862031,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.104167864,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.97200507,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.32883567,23.0,26.0
+Bonasa umbellus_Ruffed Grouse,0.15078448,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.12886778,24.0,27.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12092513,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11706968,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10570197,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13125132,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10116049,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15646845,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.11674162,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.1078154,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.10366853,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.3989776,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.5603947,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.9780456,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23750634,31.0,34.0
+Setophaga magnolia_Magnolia Warbler,0.9638852,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15040869,32.0,35.0
+Setophaga magnolia_Magnolia Warbler,0.97700423,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18892975,33.0,36.0
+Setophaga magnolia_Magnolia Warbler,0.95184076,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19943888,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.16043389,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.45025587,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.43848988,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.13988557,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.9236366,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25620976,40.0,43.0
+Geothlypis philadelphia_Mourning Warbler,0.113196686,40.0,43.0
+Setophaga magnolia_Magnolia Warbler,0.9814191,41.0,44.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13864343,41.0,44.0
+Setophaga magnolia_Magnolia Warbler,0.9864564,42.0,45.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2146689,42.0,45.0
+Setophaga magnolia_Magnolia Warbler,0.94506687,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.18855114,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.11245615,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10455069,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.90799487,50.0,53.0
+Geothlypis philadelphia_Mourning Warbler,0.25977895,50.0,53.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2217365,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.96748984,51.0,54.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3063077,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.9658155,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13501546,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.65865546,53.0,56.0
+Setophaga citrina_Hooded Warbler,0.17288594,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.10594108,53.0,56.0
+Regulus satrapa_Golden-crowned Kinglet,0.13111305,54.0,57.0
+Setophaga magnolia_Magnolia Warbler,0.8110935,57.0,60.0
+Geothlypis philadelphia_Mourning Warbler,0.57616395,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17016478,57.0,60.0
+Setophaga magnolia_Magnolia Warbler,0.98786575,58.0,61.0
+Setophaga magnolia_Magnolia Warbler,0.99314636,59.0,62.0
+Setophaga magnolia_Magnolia Warbler,0.9714256,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.23866628,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.2177329,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.20654765,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111572206,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.11321069,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.1414504,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.3983024,74.0,77.0
+Setophaga fusca_Blackburnian Warbler,0.18183042,75.0,78.0
+Setophaga fusca_Blackburnian Warbler,0.18175583,76.0,79.0
+Bonasa umbellus_Ruffed Grouse,0.21079235,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.16329713,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10436495,78.0,81.0
+Setophaga magnolia_Magnolia Warbler,0.16358978,79.0,82.0
+Setophaga magnolia_Magnolia Warbler,0.94740605,80.0,83.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.107042424,80.0,83.0
+Setophaga magnolia_Magnolia Warbler,0.9744674,81.0,84.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20258012,81.0,84.0
+Setophaga magnolia_Magnolia Warbler,0.9867127,82.0,85.0

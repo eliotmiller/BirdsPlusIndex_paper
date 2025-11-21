@@ -1,0 +1,285 @@
+species,score,start_time,end_time
+Protonotaria citrea_Prothonotary Warbler,0.6954024,0.0,3.0
+Spizella passerina_Chipping Sparrow,0.31707245,0.0,3.0
+Sericornis humilis_Tasmanian Scrubwren,0.28465113,0.0,3.0
+Leiothlypis celata_Orange-crowned Warbler,0.16003947,0.0,3.0
+Protonotaria citrea_Prothonotary Warbler,0.64722806,1.0,4.0
+Sericornis humilis_Tasmanian Scrubwren,0.10759261,1.0,4.0
+Protonotaria citrea_Prothonotary Warbler,0.74692637,2.0,5.0
+Sericornis humilis_Tasmanian Scrubwren,0.13387688,2.0,5.0
+Spizella passerina_Chipping Sparrow,0.13125265,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.51066065,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.16289887,3.0,6.0
+Mellisuga minima_Vervain Hummingbird,0.1314189,3.0,6.0
+Sericornis humilis_Tasmanian Scrubwren,0.49226528,4.0,7.0
+Protonotaria citrea_Prothonotary Warbler,0.44277114,4.0,7.0
+Protonotaria citrea_Prothonotary Warbler,0.3406661,5.0,8.0
+Protonotaria citrea_Prothonotary Warbler,0.78771657,6.0,9.0
+Sericornis humilis_Tasmanian Scrubwren,0.15567923,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.14237057,6.0,9.0
+Protonotaria citrea_Prothonotary Warbler,0.5431345,7.0,10.0
+Spizella passerina_Chipping Sparrow,0.13023968,7.0,10.0
+Protonotaria citrea_Prothonotary Warbler,0.6842841,8.0,11.0
+Mellisuga minima_Vervain Hummingbird,0.17589442,8.0,11.0
+Protonotaria citrea_Prothonotary Warbler,0.4918508,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.14316688,9.0,12.0
+Vermivora cyanoptera_Blue-winged Warbler,0.14083524,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.12067938,9.0,12.0
+Malurus splendens_Splendid Fairywren,0.10731189,9.0,12.0
+Protonotaria citrea_Prothonotary Warbler,0.55459267,10.0,13.0
+Spizella passerina_Chipping Sparrow,0.15704252,10.0,13.0
+Junco phaeonotus_Yellow-eyed Junco,0.13876726,10.0,13.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12923367,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.1240495,10.0,13.0
+Protonotaria citrea_Prothonotary Warbler,0.77018493,11.0,14.0
+Spizella passerina_Chipping Sparrow,0.25867903,11.0,14.0
+Protonotaria citrea_Prothonotary Warbler,0.3529421,12.0,15.0
+Malurus splendens_Splendid Fairywren,0.25875953,12.0,15.0
+Sericornis humilis_Tasmanian Scrubwren,0.24295606,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.13331655,12.0,15.0
+Sericornis frontalis_White-browed Scrubwren,0.10532209,12.0,15.0
+Junco phaeonotus_Yellow-eyed Junco,0.10133989,12.0,15.0
+Protonotaria citrea_Prothonotary Warbler,0.4992198,13.0,16.0
+Sericornis frontalis_White-browed Scrubwren,0.21050632,13.0,16.0
+Sericornis humilis_Tasmanian Scrubwren,0.105625816,13.0,16.0
+Chlorospingus flavopectus_Common Chlorospingus,0.10131241,13.0,16.0
+Protonotaria citrea_Prothonotary Warbler,0.25805575,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.53003174,15.0,18.0
+Protonotaria citrea_Prothonotary Warbler,0.5097546,16.0,19.0
+Protonotaria citrea_Prothonotary Warbler,0.4317454,17.0,20.0
+Mellisuga minima_Vervain Hummingbird,0.524672,18.0,21.0
+Sericornis humilis_Tasmanian Scrubwren,0.28443342,19.0,22.0
+Sericornis frontalis_White-browed Scrubwren,0.2505588,19.0,22.0
+Sericornis frontalis_White-browed Scrubwren,0.6487414,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.2788107,20.0,23.0
+Sericornis humilis_Tasmanian Scrubwren,0.1384937,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.29175746,21.0,24.0
+Protonotaria citrea_Prothonotary Warbler,0.28878593,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.31889838,23.0,26.0
+Protonotaria citrea_Prothonotary Warbler,0.26101625,24.0,27.0
+Mellisuga minima_Vervain Hummingbird,0.1208985,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.1045217,25.0,28.0
+Mellisuga minima_Vervain Hummingbird,0.11171974,26.0,29.0
+Protonotaria citrea_Prothonotary Warbler,0.44386312,27.0,30.0
+Protonotaria citrea_Prothonotary Warbler,0.7248654,28.0,31.0
+Spizella passerina_Chipping Sparrow,0.113054745,28.0,31.0
+Protonotaria citrea_Prothonotary Warbler,0.53705114,29.0,32.0
+Junco phaeonotus_Yellow-eyed Junco,0.1605824,29.0,32.0
+Protonotaria citrea_Prothonotary Warbler,0.5589525,30.0,33.0
+Junco phaeonotus_Yellow-eyed Junco,0.34274274,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.22142014,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.14029765,30.0,33.0
+Protonotaria citrea_Prothonotary Warbler,0.3051926,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.12701721,31.0,34.0
+Mellisuga minima_Vervain Hummingbird,0.103977546,31.0,34.0
+Protonotaria citrea_Prothonotary Warbler,0.5770937,32.0,35.0
+Protonotaria citrea_Prothonotary Warbler,0.3052995,33.0,36.0
+Mellisuga minima_Vervain Hummingbird,0.12914063,33.0,36.0
+Protonotaria citrea_Prothonotary Warbler,0.50633776,34.0,37.0
+Protonotaria citrea_Prothonotary Warbler,0.40686685,35.0,38.0
+Junco phaeonotus_Yellow-eyed Junco,0.21737637,35.0,38.0
+Chlorospingus flavopectus_Common Chlorospingus,0.11440122,35.0,38.0
+Chlorospingus flavopectus_Common Chlorospingus,0.24822985,36.0,39.0
+Foudia madagascariensis_Red Fody,0.5883618,37.0,40.0
+Sericornis frontalis_White-browed Scrubwren,0.116672955,37.0,40.0
+Sericornis frontalis_White-browed Scrubwren,0.1951846,38.0,41.0
+Chlorospingus flavopectus_Common Chlorospingus,0.17677075,38.0,41.0
+Sericornis humilis_Tasmanian Scrubwren,0.27901542,39.0,42.0
+Foudia madagascariensis_Red Fody,0.16306524,39.0,42.0
+Sericornis frontalis_White-browed Scrubwren,0.14662023,39.0,42.0
+Sericornis humilis_Tasmanian Scrubwren,0.45183697,40.0,43.0
+Protonotaria citrea_Prothonotary Warbler,0.22151186,41.0,44.0
+Spizella passerina_Chipping Sparrow,0.19632767,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.16474324,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.29424185,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.21636389,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.21083891,44.0,47.0
+Spizella passerina_Chipping Sparrow,0.13517132,44.0,47.0
+Sericornis humilis_Tasmanian Scrubwren,0.10565977,44.0,47.0
+Sericornis humilis_Tasmanian Scrubwren,0.28655195,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.13771953,45.0,48.0
+Sericornis humilis_Tasmanian Scrubwren,0.30427602,46.0,49.0
+Protonotaria citrea_Prothonotary Warbler,0.104042,46.0,49.0
+Coereba flaveola_Bananaquit,0.18337788,48.0,51.0
+Mellisuga minima_Vervain Hummingbird,0.31744343,49.0,52.0
+Coereba flaveola_Bananaquit,0.26060793,49.0,52.0
+Mellisuga minima_Vervain Hummingbird,0.46964508,50.0,53.0
+Coereba flaveola_Bananaquit,0.1577642,50.0,53.0
+Coereba flaveola_Bananaquit,0.20890383,51.0,54.0
+Mellisuga minima_Vervain Hummingbird,0.14836082,51.0,54.0
+Protonotaria citrea_Prothonotary Warbler,0.13620219,51.0,54.0
+Coereba flaveola_Bananaquit,0.33945617,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.11559653,52.0,55.0
+Coereba flaveola_Bananaquit,0.1574804,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.15414205,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.35046405,54.0,57.0
+Protonotaria citrea_Prothonotary Warbler,0.13196741,55.0,58.0
+Mellisuga minima_Vervain Hummingbird,0.13673095,56.0,59.0
+Coereba flaveola_Bananaquit,0.19020471,57.0,60.0
+Mellisuga minima_Vervain Hummingbird,0.14971793,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.13672547,57.0,60.0
+Coereba flaveola_Bananaquit,0.35125846,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.10193303,58.0,61.0
+Coereba flaveola_Bananaquit,0.40140375,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.22729324,59.0,62.0
+Mellisuga minima_Vervain Hummingbird,0.4738762,61.0,64.0
+Coereba flaveola_Bananaquit,0.22432974,62.0,65.0
+Mellisuga minima_Vervain Hummingbird,0.22286533,62.0,65.0
+Mellisuga minima_Vervain Hummingbird,0.1647442,63.0,66.0
+Coereba flaveola_Bananaquit,0.1552383,63.0,66.0
+Mellisuga minima_Vervain Hummingbird,0.38093224,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.1164685,64.0,67.0
+Protonotaria citrea_Prothonotary Warbler,0.13304715,65.0,68.0
+Protonotaria citrea_Prothonotary Warbler,0.30381635,66.0,69.0
+Vermivora cyanoptera_Blue-winged Warbler,0.24289873,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.13336976,66.0,69.0
+Mellisuga minima_Vervain Hummingbird,0.36151442,67.0,70.0
+Protonotaria citrea_Prothonotary Warbler,0.1139386,67.0,70.0
+Mellisuga minima_Vervain Hummingbird,0.23178788,68.0,71.0
+Mellisuga minima_Vervain Hummingbird,0.42122912,69.0,72.0
+Mellisuga minima_Vervain Hummingbird,0.23049293,70.0,73.0
+Coereba flaveola_Bananaquit,0.17031136,70.0,73.0
+Colibri coruscans_Sparkling Violetear,0.1347898,70.0,73.0
+Mellisuga minima_Vervain Hummingbird,0.61769503,71.0,74.0
+Coereba flaveola_Bananaquit,0.30752826,71.0,74.0
+Mellisuga minima_Vervain Hummingbird,0.7735642,72.0,75.0
+Coereba flaveola_Bananaquit,0.20406196,72.0,75.0
+Mellisuga minima_Vervain Hummingbird,0.25993338,73.0,76.0
+Coereba flaveola_Bananaquit,0.25898927,73.0,76.0
+Coereba flaveola_Bananaquit,0.1926511,74.0,77.0
+Mellisuga minima_Vervain Hummingbird,0.15857336,74.0,77.0
+Mellisuga minima_Vervain Hummingbird,0.37454066,75.0,78.0
+Coereba flaveola_Bananaquit,0.2329283,75.0,78.0
+Coereba flaveola_Bananaquit,0.1292893,76.0,79.0
+Coereba flaveola_Bananaquit,0.29352444,77.0,80.0
+Coereba flaveola_Bananaquit,0.18416436,78.0,81.0
+Coereba flaveola_Bananaquit,0.13897838,79.0,82.0
+Coereba flaveola_Bananaquit,0.16716407,80.0,83.0
+Mellisuga minima_Vervain Hummingbird,0.101051405,80.0,83.0
+Coereba flaveola_Bananaquit,0.16081527,81.0,84.0
+Protonotaria citrea_Prothonotary Warbler,0.15237047,81.0,84.0
+Coereba flaveola_Bananaquit,0.118113115,82.0,85.0
+Colibri coruscans_Sparkling Violetear,0.11807959,82.0,85.0
+Coereba flaveola_Bananaquit,0.31040147,83.0,86.0
+Mellisuga minima_Vervain Hummingbird,0.23199451,83.0,86.0
+Colibri coruscans_Sparkling Violetear,0.14331086,83.0,86.0
+Mellisuga minima_Vervain Hummingbird,0.20491529,84.0,87.0
+Coereba flaveola_Bananaquit,0.15975487,84.0,87.0
+Coereba flaveola_Bananaquit,0.2677901,85.0,88.0
+Mellisuga minima_Vervain Hummingbird,0.14709447,85.0,88.0
+Coereba flaveola_Bananaquit,0.1255286,86.0,89.0
+Coereba flaveola_Bananaquit,0.30274156,87.0,90.0
+Coereba flaveola_Bananaquit,0.26870775,88.0,91.0
+Protonotaria citrea_Prothonotary Warbler,0.112653345,88.0,91.0
+Protonotaria citrea_Prothonotary Warbler,0.18314089,89.0,92.0
+Coereba flaveola_Bananaquit,0.171758,89.0,92.0
+Mellisuga minima_Vervain Hummingbird,0.12014147,89.0,92.0
+Mellisuga minima_Vervain Hummingbird,0.30873907,90.0,93.0
+Protonotaria citrea_Prothonotary Warbler,0.27994844,90.0,93.0
+Coereba flaveola_Bananaquit,0.24997097,90.0,93.0
+Coereba flaveola_Bananaquit,0.5302279,91.0,94.0
+Mellisuga minima_Vervain Hummingbird,0.18618934,91.0,94.0
+Mellisuga minima_Vervain Hummingbird,0.4024839,92.0,95.0
+Coereba flaveola_Bananaquit,0.39778525,92.0,95.0
+Mellisuga minima_Vervain Hummingbird,0.360227,93.0,96.0
+Coereba flaveola_Bananaquit,0.34267873,93.0,96.0
+Coereba flaveola_Bananaquit,0.20924763,94.0,97.0
+Coereba flaveola_Bananaquit,0.43557093,95.0,98.0
+Coereba flaveola_Bananaquit,0.20486978,96.0,99.0
+Coereba flaveola_Bananaquit,0.4714265,97.0,100.0
+Colibri coruscans_Sparkling Violetear,0.13465524,97.0,100.0
+Mellisuga minima_Vervain Hummingbird,0.12089559,97.0,100.0
+Mellisuga minima_Vervain Hummingbird,0.11980438,98.0,101.0
+Protonotaria citrea_Prothonotary Warbler,0.15275535,99.0,102.0
+Coereba flaveola_Bananaquit,0.34901908,101.0,104.0
+Mellisuga minima_Vervain Hummingbird,0.15632832,101.0,104.0
+Mellisuga minima_Vervain Hummingbird,0.32983238,102.0,105.0
+Colibri coruscans_Sparkling Violetear,0.2945121,102.0,105.0
+Coereba flaveola_Bananaquit,0.107229255,102.0,105.0
+Coereba flaveola_Bananaquit,0.30082878,103.0,106.0
+Coereba flaveola_Bananaquit,0.30335197,104.0,107.0
+Colibri coruscans_Sparkling Violetear,0.10669771,104.0,107.0
+Colibri coruscans_Sparkling Violetear,0.27389422,105.0,108.0
+Coereba flaveola_Bananaquit,0.23714183,105.0,108.0
+Colibri coruscans_Sparkling Violetear,0.46025214,106.0,109.0
+Mellisuga minima_Vervain Hummingbird,0.18200865,106.0,109.0
+Coereba flaveola_Bananaquit,0.1442875,106.0,109.0
+Colibri coruscans_Sparkling Violetear,0.38453108,107.0,110.0
+Mellisuga minima_Vervain Hummingbird,0.11348704,107.0,110.0
+Coereba flaveola_Bananaquit,0.10554118,107.0,110.0
+Colibri coruscans_Sparkling Violetear,0.20234308,108.0,111.0
+Coereba flaveola_Bananaquit,0.14109488,108.0,111.0
+Colibri coruscans_Sparkling Violetear,0.22105911,109.0,112.0
+Coereba flaveola_Bananaquit,0.32202947,110.0,113.0
+Colibri coruscans_Sparkling Violetear,0.14338136,110.0,113.0
+Colibri coruscans_Sparkling Violetear,0.13969573,111.0,114.0
+Colibri coruscans_Sparkling Violetear,0.1452137,112.0,115.0
+Coereba flaveola_Bananaquit,0.12422414,113.0,116.0
+Coereba flaveola_Bananaquit,0.24445596,114.0,117.0
+Protonotaria citrea_Prothonotary Warbler,0.10512402,114.0,117.0
+Colibri coruscans_Sparkling Violetear,0.26885492,115.0,118.0
+Coereba flaveola_Bananaquit,0.18098485,115.0,118.0
+Coereba flaveola_Bananaquit,0.21297896,116.0,119.0
+Colibri coruscans_Sparkling Violetear,0.18764138,116.0,119.0
+Colibri coruscans_Sparkling Violetear,0.22085015,117.0,120.0
+Coereba flaveola_Bananaquit,0.21268539,117.0,120.0
+Protonotaria citrea_Prothonotary Warbler,0.11845285,117.0,120.0
+Coereba flaveola_Bananaquit,0.373851,118.0,121.0
+Coereba flaveola_Bananaquit,0.34400174,119.0,122.0
+Mellisuga minima_Vervain Hummingbird,0.17955197,119.0,122.0
+Mellisuga minima_Vervain Hummingbird,0.2358677,120.0,123.0
+Colibri coruscans_Sparkling Violetear,0.20697047,121.0,124.0
+Mellisuga minima_Vervain Hummingbird,0.17614712,121.0,124.0
+Coereba flaveola_Bananaquit,0.1414372,121.0,124.0
+Coereba flaveola_Bananaquit,0.37143564,122.0,125.0
+Coereba flaveola_Bananaquit,0.31113914,123.0,126.0
+Mellisuga minima_Vervain Hummingbird,0.15240571,123.0,126.0
+Colibri coruscans_Sparkling Violetear,0.12727888,123.0,126.0
+Coereba flaveola_Bananaquit,0.18217258,124.0,127.0
+Colibri coruscans_Sparkling Violetear,0.15247491,124.0,127.0
+Mellisuga minima_Vervain Hummingbird,0.37613487,125.0,128.0
+Coereba flaveola_Bananaquit,0.19877476,125.0,128.0
+Coereba flaveola_Bananaquit,0.14254718,126.0,129.0
+Mellisuga minima_Vervain Hummingbird,0.10022091,126.0,129.0
+Coereba flaveola_Bananaquit,0.35912248,127.0,130.0
+Colibri coruscans_Sparkling Violetear,0.16345821,127.0,130.0
+Mellisuga minima_Vervain Hummingbird,0.12673901,127.0,130.0
+Coereba flaveola_Bananaquit,0.33307418,128.0,131.0
+Setophaga fusca_Blackburnian Warbler,0.15781024,128.0,131.0
+Coereba flaveola_Bananaquit,0.36306167,129.0,132.0
+Coereba flaveola_Bananaquit,0.4543768,130.0,133.0
+Coereba flaveola_Bananaquit,0.2037058,131.0,134.0
+Melanospiza bicolor_Black-faced Grassquit,0.12400195,131.0,134.0
+Mellisuga minima_Vervain Hummingbird,0.27657235,132.0,135.0
+Coereba flaveola_Bananaquit,0.18386632,132.0,135.0
+Colibri coruscans_Sparkling Violetear,0.16231506,132.0,135.0
+Coereba flaveola_Bananaquit,0.28986397,133.0,136.0
+Colibri coruscans_Sparkling Violetear,0.1313944,133.0,136.0
+Coereba flaveola_Bananaquit,0.28384808,134.0,137.0
+Coereba flaveola_Bananaquit,0.3019523,135.0,138.0
+Coereba flaveola_Bananaquit,0.4972499,136.0,139.0
+Mellisuga minima_Vervain Hummingbird,0.181285,136.0,139.0
+Colibri coruscans_Sparkling Violetear,0.123426706,136.0,139.0
+Coereba flaveola_Bananaquit,0.16936135,137.0,140.0
+Colibri coruscans_Sparkling Violetear,0.12795672,137.0,140.0
+Coereba flaveola_Bananaquit,0.3565712,138.0,141.0
+Coereba flaveola_Bananaquit,0.19861297,139.0,142.0
+Mellisuga minima_Vervain Hummingbird,0.10243955,139.0,142.0
+Sericornis frontalis_White-browed Scrubwren,0.21486588,140.0,143.0
+Mellisuga minima_Vervain Hummingbird,0.20071091,140.0,143.0
+Sericornis humilis_Tasmanian Scrubwren,0.110533364,140.0,143.0
+Sericornis frontalis_White-browed Scrubwren,0.20303863,141.0,144.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.107232116,141.0,144.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.111533955,142.0,145.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.13898225,147.0,150.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.11420466,148.0,151.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.1514718,150.0,153.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.16417538,154.0,157.0
+Chlorestes candida_White-bellied Emerald,0.15339546,155.0,158.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.1565914,156.0,159.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.15996075,157.0,160.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.21967517,159.0,162.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.46122688,163.0,166.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.37146774,164.0,167.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.1468135,165.0,168.0
+Anabacerthia amaurotis_White-browed Foliage-gleaner,0.17524345,166.0,169.0

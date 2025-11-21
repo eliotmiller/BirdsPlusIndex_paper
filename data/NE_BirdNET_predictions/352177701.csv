@@ -1,0 +1,216 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.18106033,1.0,4.0
+Dryobates pubescens_Downy Woodpecker,0.11178589,1.0,4.0
+Dryobates pubescens_Downy Woodpecker,0.15690237,2.0,5.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.14637206,2.0,5.0
+Dryobates pubescens_Downy Woodpecker,0.19270377,4.0,7.0
+Dryobates pubescens_Downy Woodpecker,0.30755275,5.0,8.0
+Dryobates pubescens_Downy Woodpecker,0.42522174,6.0,9.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17187795,6.0,9.0
+Dryobates pubescens_Downy Woodpecker,0.4501611,7.0,10.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.12549205,7.0,10.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13615468,8.0,11.0
+Dryobates pubescens_Downy Woodpecker,0.23031008,9.0,12.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1014331,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.14420596,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25761133,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.1802701,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.11257596,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.10339078,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15644807,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.1357536,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.15248482,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11287483,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.10765203,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.24939802,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11384835,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10361744,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.28581172,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10439186,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.21610673,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1122231,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1080488,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.40859666,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.1283057,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.10379406,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.12755175,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2166471,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.13520299,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.11158197,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.10981501,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.2511955,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13957928,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.12047995,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.105031446,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.16773443,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.13708863,23.0,26.0
+Geothlypis formosa_Kentucky Warbler,0.1215946,23.0,26.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.2706159,24.0,27.0
+Dryobates pubescens_Downy Woodpecker,0.26936042,24.0,27.0
+Dryocopus pileatus_Pileated Woodpecker,0.12971695,24.0,27.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.420338,25.0,28.0
+Dryobates pubescens_Downy Woodpecker,0.29795507,25.0,28.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17129979,25.0,28.0
+Dryobates minor_Lesser Spotted Woodpecker,0.117426746,25.0,28.0
+Dryobates pubescens_Downy Woodpecker,0.68391854,26.0,29.0
+Dryobates pubescens_Downy Woodpecker,0.71677357,27.0,30.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.4155253,27.0,30.0
+Dryobates minor_Lesser Spotted Woodpecker,0.20561942,27.0,30.0
+Dryobates pubescens_Downy Woodpecker,0.8710888,28.0,31.0
+Dryobates pubescens_Downy Woodpecker,0.5064416,29.0,32.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.16727969,29.0,32.0
+Dryobates pubescens_Downy Woodpecker,0.8491398,30.0,33.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.20392215,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.33037546,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10099416,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.3178669,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.20796722,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.21164177,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.13098116,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16978317,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11984986,35.0,38.0
+Contopus virens_Eastern Wood-Pewee,0.119015306,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.108517654,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13239191,36.0,39.0
+Poecile atricapillus_Black-capped Chickadee,0.5016559,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.10958143,37.0,40.0
+Poecile atricapillus_Black-capped Chickadee,0.27541685,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.3646278,39.0,42.0
+Poecile atricapillus_Black-capped Chickadee,0.1139232,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.101921156,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.2548337,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11733529,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10912603,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.15637769,43.0,46.0
+Contopus virens_Eastern Wood-Pewee,0.121521726,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12027031,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10990478,48.0,51.0
+Contopus virens_Eastern Wood-Pewee,0.12895869,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.111968294,49.0,52.0
+Hylocichla mustelina_Wood Thrush,0.111660436,49.0,52.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.44156593,50.0,53.0
+Dryobates pubescens_Downy Woodpecker,0.58737254,51.0,54.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13656226,51.0,54.0
+Dryobates pubescens_Downy Woodpecker,0.6883308,52.0,55.0
+Picoides arcticus_Black-backed Woodpecker,0.21650636,52.0,55.0
+Dryobates pubescens_Downy Woodpecker,0.780242,53.0,56.0
+Dryobates pubescens_Downy Woodpecker,0.22028366,54.0,57.0
+Dryobates pubescens_Downy Woodpecker,0.1684861,55.0,58.0
+Poecile atricapillus_Black-capped Chickadee,0.50311995,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.20397443,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.15023042,57.0,60.0
+Vireo olivaceus_Red-eyed Vireo,0.12736145,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.1908491,58.0,61.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116812706,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.121461764,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11168242,62.0,65.0
+Piranga olivacea_Scarlet Tanager,0.17767788,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1753715,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.29280216,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22103256,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11522274,64.0,67.0
+Piranga olivacea_Scarlet Tanager,0.1550203,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13019137,65.0,68.0
+Dryobates pubescens_Downy Woodpecker,0.30458105,66.0,69.0
+Dryocopus pileatus_Pileated Woodpecker,0.26993746,66.0,69.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.11969863,66.0,69.0
+Dryocopus pileatus_Pileated Woodpecker,0.36612257,67.0,70.0
+Dryobates pubescens_Downy Woodpecker,0.16587855,67.0,70.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10754221,67.0,70.0
+Dryobates pubescens_Downy Woodpecker,0.19411807,68.0,71.0
+Dryobates pubescens_Downy Woodpecker,0.4056212,69.0,72.0
+Dendrocopos major_Great Spotted Woodpecker,0.109599955,69.0,72.0
+Dryobates pubescens_Downy Woodpecker,0.2828518,70.0,73.0
+Dryocopus pileatus_Pileated Woodpecker,0.12419313,70.0,73.0
+Dryobates pubescens_Downy Woodpecker,0.2683048,71.0,74.0
+Dryocopus pileatus_Pileated Woodpecker,0.26110202,71.0,74.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17349058,71.0,74.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14838828,71.0,74.0
+Piranga olivacea_Scarlet Tanager,0.23985834,72.0,75.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18031436,72.0,75.0
+Contopus virens_Eastern Wood-Pewee,0.13557184,72.0,75.0
+Vireo olivaceus_Red-eyed Vireo,0.12403441,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12062493,72.0,75.0
+Dryocopus pileatus_Pileated Woodpecker,0.31583944,73.0,76.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.17340514,74.0,77.0
+Dryocopus pileatus_Pileated Woodpecker,0.15184237,75.0,78.0
+Picoides dorsalis_American Three-toed Woodpecker,0.12296586,75.0,78.0
+Dryobates pubescens_Downy Woodpecker,0.1108028,75.0,78.0
+Dryocopus pileatus_Pileated Woodpecker,0.4209312,76.0,79.0
+Dryobates pubescens_Downy Woodpecker,0.26927653,76.0,79.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.10142249,76.0,79.0
+Dryocopus pileatus_Pileated Woodpecker,0.59965926,77.0,80.0
+Dryobates pubescens_Downy Woodpecker,0.35412288,77.0,80.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.22354747,77.0,80.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.1722946,77.0,80.0
+Dryocopus pileatus_Pileated Woodpecker,0.34863076,78.0,81.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.14194658,78.0,81.0
+Dryobates pubescens_Downy Woodpecker,0.119600765,78.0,81.0
+Dendrocopos major_Great Spotted Woodpecker,0.12048208,81.0,84.0
+Dryocopus pileatus_Pileated Woodpecker,0.5642611,82.0,85.0
+Dryobates pubescens_Downy Woodpecker,0.20940858,83.0,86.0
+Dryocopus pileatus_Pileated Woodpecker,0.119513765,83.0,86.0
+Dryocopus pileatus_Pileated Woodpecker,0.82341963,84.0,87.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.18636365,84.0,87.0
+Dryobates pubescens_Downy Woodpecker,0.17875963,84.0,87.0
+Dryocopus pileatus_Pileated Woodpecker,0.72290474,85.0,88.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14588384,85.0,88.0
+Dryobates pubescens_Downy Woodpecker,0.11195732,85.0,88.0
+Dryocopus pileatus_Pileated Woodpecker,0.61338526,86.0,89.0
+Dryobates pubescens_Downy Woodpecker,0.1544174,86.0,89.0
+Dryocopus pileatus_Pileated Woodpecker,0.12887685,87.0,90.0
+Dryocopus pileatus_Pileated Woodpecker,0.14066546,88.0,91.0
+Dryocopus pileatus_Pileated Woodpecker,0.2162894,89.0,92.0
+Dryocopus pileatus_Pileated Woodpecker,0.26215565,90.0,93.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14800245,90.0,93.0
+Dryocopus pileatus_Pileated Woodpecker,0.24524961,91.0,94.0
+Dryocopus pileatus_Pileated Woodpecker,0.31977576,92.0,95.0
+Dryocopus pileatus_Pileated Woodpecker,0.8985635,93.0,96.0
+Contopus virens_Eastern Wood-Pewee,0.13922785,94.0,97.0
+Setophaga fusca_Blackburnian Warbler,0.14944227,95.0,98.0
+Hylocichla mustelina_Wood Thrush,0.12015162,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108767495,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.114496365,101.0,104.0
+Piranga olivacea_Scarlet Tanager,0.18130346,102.0,105.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13074751,102.0,105.0
+Piranga olivacea_Scarlet Tanager,0.20253149,104.0,107.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11750479,104.0,107.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13914622,105.0,108.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2722733,106.0,109.0
+Empidonax virescens_Acadian Flycatcher,0.12952466,106.0,109.0
+Vireo olivaceus_Red-eyed Vireo,0.109594025,106.0,109.0
+Contopus virens_Eastern Wood-Pewee,0.10601082,106.0,109.0
+Hylocichla mustelina_Wood Thrush,0.17088623,107.0,110.0
+Vireo olivaceus_Red-eyed Vireo,0.123871125,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10648077,107.0,110.0
+Vireo olivaceus_Red-eyed Vireo,0.12508044,108.0,111.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13352051,110.0,113.0
+Vireo olivaceus_Red-eyed Vireo,0.11091751,110.0,113.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17145899,111.0,114.0
+Contopus virens_Eastern Wood-Pewee,0.12671387,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10445526,113.0,116.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1077915,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11621035,115.0,118.0
+Piranga olivacea_Scarlet Tanager,0.108867586,115.0,118.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13321058,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10080041,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120732106,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.117475,117.0,120.0
+Dryobates pubescens_Downy Woodpecker,0.6030196,118.0,121.0
+Dryobates pubescens_Downy Woodpecker,0.7181436,119.0,122.0
+Dryobates pubescens_Downy Woodpecker,0.66154325,120.0,123.0
+Dryobates pubescens_Downy Woodpecker,0.8907521,121.0,124.0
+Empidonax virescens_Acadian Flycatcher,0.24298702,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12705144,123.0,126.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14989014,124.0,127.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11772253,124.0,127.0
+Contopus virens_Eastern Wood-Pewee,0.107772745,124.0,127.0
+Piranga olivacea_Scarlet Tanager,0.105587624,124.0,127.0
+Hylocichla mustelina_Wood Thrush,0.42638543,125.0,128.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1253634,125.0,128.0
+Piranga olivacea_Scarlet Tanager,0.1080185,125.0,128.0
+Piranga olivacea_Scarlet Tanager,0.21100055,126.0,129.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19973692,126.0,129.0
+Setophaga fusca_Blackburnian Warbler,0.10296311,126.0,129.0
+Piranga olivacea_Scarlet Tanager,0.15023714,127.0,129.02403628117915
+Helmitheros vermivorum_Worm-eating Warbler,0.13623126,127.0,129.02403628117915
