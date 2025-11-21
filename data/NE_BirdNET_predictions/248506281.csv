@@ -1,0 +1,128 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.69737923,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.30181465,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.40466076,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.1275753,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.1903465,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.1428145,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.109507956,3.0,6.0
+Molothrus ater_Brown-headed Cowbird,0.23124677,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.21366447,4.0,7.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10695237,4.0,7.0
+Molothrus ater_Brown-headed Cowbird,0.41221848,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.35876504,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.27353483,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.11964162,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.5805632,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.1402664,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.28491926,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.15134221,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.14048652,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.38068923,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.25665355,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.19157968,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.18499164,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.12547417,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.23748223,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.19995761,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.16696146,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.12189195,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.12032731,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.40272304,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.2910485,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.16064508,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.14237697,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.13174409,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.17218788,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.15519583,12.0,15.0
+Contopus virens_Eastern Wood-Pewee,0.1420477,12.0,15.0
+Poecile atricapillus_Black-capped Chickadee,0.40160465,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.20215645,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.123072095,15.0,18.0
+Poecile atricapillus_Black-capped Chickadee,0.30158082,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.29718772,16.0,19.0
+Cyanocitta cristata_Blue Jay,0.15010077,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.11468608,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.28786853,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.12345787,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.11380363,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.17184399,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.25892338,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.1792147,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.48441428,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.16929856,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13150838,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.21028511,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.1588268,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.13141076,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.106771015,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.46511668,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14971735,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.1493068,22.0,25.0
+Poecile atricapillus_Black-capped Chickadee,0.74127084,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26383585,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.22505294,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.1759244,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.17362821,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.11381851,23.0,26.0
+Poecile atricapillus_Black-capped Chickadee,0.43988994,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.31831723,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.2097451,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.14005247,24.0,27.0
+Cardinalis cardinalis_Northern Cardinal,0.138212,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.10995332,24.0,27.0
+Geothlypis formosa_Kentucky Warbler,0.10263663,24.0,27.0
+Poecile atricapillus_Black-capped Chickadee,0.6915611,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.47881097,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.35769597,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1922497,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.12505132,25.0,28.0
+Cardinalis cardinalis_Northern Cardinal,0.122157864,25.0,28.0
+Poecile atricapillus_Black-capped Chickadee,0.37572184,26.0,29.0
+Pipilo erythrophthalmus_Eastern Towhee,0.32526648,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.19263169,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.17420512,26.0,29.0
+Molothrus ater_Brown-headed Cowbird,0.15548553,26.0,29.0
+Cardinalis cardinalis_Northern Cardinal,0.147354,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.10960689,26.0,29.0
+Molothrus ater_Brown-headed Cowbird,0.75178474,27.0,30.0
+Poecile atricapillus_Black-capped Chickadee,0.39490277,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3711397,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.23303486,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.11831778,27.0,30.0
+Molothrus ater_Brown-headed Cowbird,0.5084681,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.42924324,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.33847985,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.27421594,28.0,31.0
+Poecile atricapillus_Black-capped Chickadee,0.22188032,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.19542283,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.39017913,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.35085788,29.0,32.0
+Poecile atricapillus_Black-capped Chickadee,0.20812553,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20798329,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.14736201,29.0,32.0
+Cardinalis cardinalis_Northern Cardinal,0.139359,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2641284,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.23843496,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.17247899,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.13841842,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.10026858,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.14308703,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1267533,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.31265843,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.20789154,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.14053372,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.13401993,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.12254318,33.0,36.0
+Poecile atricapillus_Black-capped Chickadee,0.853561,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.32014006,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.25618884,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.25149328,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18024923,34.0,37.0
+Cardinalis cardinalis_Northern Cardinal,0.14897501,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.87332857,35.0,37.82403628117914
+Poecile atricapillus_Black-capped Chickadee,0.83418596,35.0,37.82403628117914
+Hylocichla mustelina_Wood Thrush,0.5233935,35.0,37.82403628117914
+Setophaga virens_Black-throated Green Warbler,0.36454704,35.0,37.82403628117914
+Cardinalis cardinalis_Northern Cardinal,0.1762844,35.0,37.82403628117914
+Vireo olivaceus_Red-eyed Vireo,0.17135058,35.0,37.82403628117914

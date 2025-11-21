@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Hirundo rustica_Barn Swallow,0.18931636,0.0,3.0
+Anthus pratensis_Meadow Pipit,0.11505358,0.0,3.0
+Spizelloides arborea_American Tree Sparrow,0.21031363,2.0,5.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.27189755,4.0,7.0
+Spinus spinus_Eurasian Siskin,0.11918446,4.0,7.0
+Anthus pratensis_Meadow Pipit,0.31616893,8.0,11.0
+Anthus pratensis_Meadow Pipit,0.42888355,9.0,12.0
+Anthus spinoletta_Water Pipit,0.15859608,9.0,12.0
+Anthus pratensis_Meadow Pipit,0.23358695,10.0,13.0
+Anthus pratensis_Meadow Pipit,0.2609228,11.0,14.0
+Forpus passerinus_Green-rumped Parrotlet,0.23758517,11.0,14.0
+Anthus pratensis_Meadow Pipit,0.2865314,12.0,15.0
+Forpus passerinus_Green-rumped Parrotlet,0.12161059,12.0,15.0
+Forpus passerinus_Green-rumped Parrotlet,0.10715013,14.0,17.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.34825248,20.0,23.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.35344657,28.0,31.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.14444768,28.0,31.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.11662801,29.0,32.0
+Anthus pratensis_Meadow Pipit,0.32063854,31.0,34.0
+Anthus pratensis_Meadow Pipit,0.11216216,32.0,35.0
+Pseudopodoces humilis_Ground Tit,0.16293252,37.0,40.0
+Galerida cristata_Crested Lark,0.15111473,37.0,40.0
+Spinus spinus_Eurasian Siskin,0.10210899,37.0,40.0
+Contopus cinereus_Tropical Pewee,0.20529772,38.0,41.0
+Anthus pratensis_Meadow Pipit,0.1502598,41.0,44.0
+Anthus pratensis_Meadow Pipit,0.3205181,42.0,45.0
+Anthus pratensis_Meadow Pipit,0.14709748,43.0,46.0
+Alauda gulgula_Oriental Skylark,0.10082944,43.0,46.0
+Anthus pratensis_Meadow Pipit,0.4609952,44.0,47.0
+Contopus cinereus_Tropical Pewee,0.2693481,46.0,49.0
+Spinus spinus_Eurasian Siskin,0.19749561,57.0,60.0
+Spinus spinus_Eurasian Siskin,0.5745005,58.0,61.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.2376457,58.0,61.0
+Pseudopodoces humilis_Ground Tit,0.13653664,60.0,63.0
+Spinus spinus_Eurasian Siskin,0.3770845,63.0,66.0
+Serinus canaria_Island Canary,0.26172715,63.0,66.0
+Spizelloides arborea_American Tree Sparrow,0.19582966,70.0,73.0
+Spinus spinus_Eurasian Siskin,0.11231808,72.0,75.0
+Spinus spinus_Eurasian Siskin,0.6261773,73.0,76.0
+Anthus pratensis_Meadow Pipit,0.1758627,77.0,80.0
+Sayornis nigricans_Black Phoebe,0.107508026,78.0,81.0
+Spizelloides arborea_American Tree Sparrow,0.118891455,81.0,84.0
+Spinus spinus_Eurasian Siskin,0.13812084,91.0,94.0
+Contopus cinereus_Tropical Pewee,0.30223796,100.0,103.0
+Contopus cinereus_Tropical Pewee,0.15943801,101.0,104.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.12215417,101.0,104.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.3346734,107.0,110.0
+Oenanthe fusca_Brown Rock Chat,0.24518722,107.0,110.0
+Spinus spinus_Eurasian Siskin,0.10959691,107.0,110.0
+Contopus cinereus_Tropical Pewee,0.10534151,107.0,110.0
+Oenanthe fusca_Brown Rock Chat,0.118348315,108.0,111.0
+Hirundo rustica_Barn Swallow,0.119453475,110.0,113.0
+Anthus pratensis_Meadow Pipit,0.1100644,110.0,113.0
+Hirundo rustica_Barn Swallow,0.29804644,111.0,114.0
+Polioptila dumicola_Masked Gnatcatcher,0.24931885,112.0,115.0
+Polioptila dumicola_Masked Gnatcatcher,0.29511055,113.0,116.0
+Anthus pratensis_Meadow Pipit,0.20749213,115.0,118.0
+Hirundo rustica_Barn Swallow,0.10637619,115.0,118.0
+Contopus cinereus_Tropical Pewee,0.16393633,119.0,122.0
+Phylloscopus sindianus_Mountain Chiffchaff,0.13655393,119.0,122.0
+Spinus spinus_Eurasian Siskin,0.13118,119.0,122.0
+Zosterops luteus_Australian Yellow White-eye,0.12247579,120.0,123.0
+Zosterops luteus_Australian Yellow White-eye,0.5105617,121.0,124.0
+Spinus spinus_Eurasian Siskin,0.16102931,121.0,124.0
+Zosterops luteus_Australian Yellow White-eye,0.2606652,122.0,125.0
+Spinus spinus_Eurasian Siskin,0.40989846,123.0,126.0
+Zosterops luteus_Australian Yellow White-eye,0.24363522,123.0,126.0
+Spinus spinus_Eurasian Siskin,0.44290984,126.0,129.0
+Spinus spinus_Eurasian Siskin,0.7940702,127.0,130.0
+Spinus spinus_Eurasian Siskin,0.46568266,128.0,131.0
+Spinus spinus_Eurasian Siskin,0.61418045,129.0,132.0
+Spinus spinus_Eurasian Siskin,0.74551463,130.0,133.0
+Spinus spinus_Eurasian Siskin,0.71497357,131.0,134.0
+Zosterops luteus_Australian Yellow White-eye,0.13257775,132.0,135.0
+Anthus pratensis_Meadow Pipit,0.25674027,137.0,140.0
+Anthus pratensis_Meadow Pipit,0.16064383,138.0,140.47201814058957

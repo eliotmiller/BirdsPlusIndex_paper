@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.8696919,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.87910557,1.0,4.0
+Cyanocitta cristata_Blue Jay,0.931567,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.7838797,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.7388961,4.0,7.0
+Myiarchus crinitus_Great Crested Flycatcher,0.38823715,5.0,8.0
+Cyanocitta cristata_Blue Jay,0.79641515,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.7907491,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.97265935,8.0,11.0
+Cyanocitta cristata_Blue Jay,0.8289816,9.0,12.0
+Cyanocitta cristata_Blue Jay,0.21915363,10.0,13.0
+Cyanocitta cristata_Blue Jay,0.81650007,13.0,16.0
+Cyanocitta cristata_Blue Jay,0.714845,14.0,17.0
+Cyanocitta cristata_Blue Jay,0.87892187,15.0,18.0
+Phylloscopus sibilatrix_Wood Warbler,0.304971,16.0,19.0
+Ficedula parva_Red-breasted Flycatcher,0.2881458,16.0,19.0
+Ficedula albicollis_Collared Flycatcher,0.25208825,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.36540702,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.1789717,21.0,24.0
+Myiarchus crinitus_Great Crested Flycatcher,0.20513052,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.12025463,22.0,25.0
+Myiarchus crinitus_Great Crested Flycatcher,0.24434328,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.11178016,24.0,27.0
+Cyanocitta cristata_Blue Jay,0.34946874,25.0,28.0
+Cyanocitta cristata_Blue Jay,0.25671083,26.0,29.0
+Cyanocitta cristata_Blue Jay,0.40005112,27.0,30.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1523025,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11906939,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17285232,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2020547,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.12250796,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12001073,36.0,39.0
+Myiarchus crinitus_Great Crested Flycatcher,0.21104914,38.0,41.0
+Myiarchus crinitus_Great Crested Flycatcher,0.21141092,39.0,42.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.113931686,41.0,44.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.103522636,42.0,45.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.11449901,43.0,46.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2671777,47.0,50.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.2988585,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.12667035,49.0,52.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.102324195,49.0,52.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.19793989,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15322514,50.0,53.0
+Protonotaria citrea_Prothonotary Warbler,0.11043772,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14912844,51.0,54.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.106393464,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13241813,56.0,59.0
+Setophaga cerulea_Cerulean Warbler,0.11099604,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10597471,56.0,59.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10370223,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.14156343,57.0,60.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.11633255,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12818326,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.17932181,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112792075,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11763378,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.105445504,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14644694,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.12105078,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.10010076,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.10154096,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13044843,66.0,69.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17370291,71.0,74.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1645703,72.0,74.76

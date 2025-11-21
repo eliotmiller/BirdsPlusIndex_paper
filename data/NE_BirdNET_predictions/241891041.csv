@@ -1,0 +1,68 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.95955014,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.99013865,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.98443305,3.0,6.0
+Geothlypis trichas_Common Yellowthroat,0.65230405,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.34511578,5.0,8.0
+Setophaga ruticilla_American Redstart,0.1556289,5.0,8.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13470359,5.0,8.0
+Leiothlypis ruficapilla_Nashville Warbler,0.18162982,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15925346,6.0,9.0
+Catharus fuscescens_Veery,0.2146272,9.0,12.0
+Catharus fuscescens_Veery,0.7793057,10.0,13.0
+Catharus fuscescens_Veery,0.21058543,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.35548863,12.0,15.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24912758,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.4890127,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.89481694,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.86008126,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.12893826,16.0,19.0
+Catharus fuscescens_Veery,0.8135011,17.0,20.0
+Catharus fuscescens_Veery,0.88591725,18.0,21.0
+Catharus fuscescens_Veery,0.18195297,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24396019,21.0,24.0
+Setophaga ruticilla_American Redstart,0.18861902,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.30170023,22.0,25.0
+Setophaga ruticilla_American Redstart,0.19773047,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.32166913,23.0,26.0
+Passerina ciris_Painted Bunting,0.10497162,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.8948379,24.0,27.0
+Geothlypis trichas_Common Yellowthroat,0.96762186,25.0,28.0
+Geothlypis trichas_Common Yellowthroat,0.9207569,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.40196764,27.0,30.0
+Catharus fuscescens_Veery,0.118512705,29.0,32.0
+Catharus fuscescens_Veery,0.5289017,30.0,33.0
+Catharus fuscescens_Veery,0.28117234,31.0,34.0
+Setophaga ruticilla_American Redstart,0.119508885,31.0,34.0
+Leiothlypis ruficapilla_Nashville Warbler,0.10583932,32.0,35.0
+Bombycilla cedrorum_Cedar Waxwing,0.12284181,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13591635,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.12433114,36.0,39.0
+Passerina amoena_Lazuli Bunting,0.10859324,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.8597268,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.88271207,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.64015085,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.39596266,40.0,43.0
+Pucrasia macrolopha_Koklass Pheasant,0.1471233,43.0,46.0
+Phylloscopus magnirostris_Large-billed Leaf Warbler,0.1027895,43.0,46.0
+Pucrasia macrolopha_Koklass Pheasant,0.120116435,44.0,47.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1642336,49.0,52.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13509533,49.0,52.0
+Cardellina rubrifrons_Red-faced Warbler,0.44731146,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.28284565,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.87689215,54.0,57.0
+Geothlypis trichas_Common Yellowthroat,0.9252084,55.0,58.0
+Geothlypis trichas_Common Yellowthroat,0.794106,56.0,59.0
+Geothlypis philadelphia_Mourning Warbler,0.12033745,57.0,60.0
+Setophaga ruticilla_American Redstart,0.105085604,58.0,61.0
+Catharus fuscescens_Veery,0.21180885,61.0,64.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13427925,61.0,64.0
+Catharus fuscescens_Veery,0.6214982,62.0,65.0
+Catharus fuscescens_Veery,0.53904843,63.0,66.0
+Catharus fuscescens_Veery,0.11334582,64.0,67.0
+Setophaga petechia_Yellow Warbler,0.48612124,65.0,68.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.28913423,66.0,69.0
+Setophaga petechia_Yellow Warbler,0.27799273,66.0,69.0
+Geothlypis trichas_Common Yellowthroat,0.62592626,67.0,70.0
+Geothlypis trichas_Common Yellowthroat,0.8932016,68.0,71.0
+Geothlypis trichas_Common Yellowthroat,0.88199884,69.0,72.0

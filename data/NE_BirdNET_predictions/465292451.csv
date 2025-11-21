@@ -1,0 +1,310 @@
+species,score,start_time,end_time
+Passerina cyanea_Indigo Bunting,0.93702024,1.0,4.0
+Passerina amoena_Lazuli Bunting,0.36098602,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.98902404,2.0,5.0
+Passerina cyanea_Indigo Bunting,0.9860955,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.9028295,4.0,7.0
+Spiza americana_Dickcissel,0.117973745,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19960193,10.0,13.0
+Spiza americana_Dickcissel,0.18941319,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14540698,11.0,14.0
+Spiza americana_Dickcissel,0.10295831,11.0,14.0
+Passerina cyanea_Indigo Bunting,0.8383698,12.0,15.0
+Passerina amoena_Lazuli Bunting,0.25366604,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.9906583,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.9896198,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.9393321,15.0,18.0
+Passerina amoena_Lazuli Bunting,0.15019314,15.0,18.0
+Spizella pallida_Clay-colored Sparrow,0.18616644,16.0,19.0
+Spizella pallida_Clay-colored Sparrow,0.101502135,17.0,20.0
+Peucaea cassinii_Cassin's Sparrow,0.15499327,18.0,21.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12945761,18.0,21.0
+Chondestes grammacus_Lark Sparrow,0.12309322,18.0,21.0
+Spizella pallida_Clay-colored Sparrow,0.104114614,18.0,21.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16910735,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.11785622,19.0,22.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22602013,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.1262376,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31934366,21.0,24.0
+Spizella pallida_Clay-colored Sparrow,0.16806093,21.0,24.0
+Centronyx henslowii_Henslow's Sparrow,0.10422101,21.0,24.0
+Ammodramus savannarum_Grasshopper Sparrow,0.26809898,22.0,25.0
+Spizella pallida_Clay-colored Sparrow,0.14238755,22.0,25.0
+Sialia sialis_Eastern Bluebird,0.2851651,23.0,26.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1203314,23.0,26.0
+Sialia sialis_Eastern Bluebird,0.11564557,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.9753103,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.99092484,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.9770824,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.55760366,28.0,31.0
+Passerina ciris_Painted Bunting,0.19238478,28.0,31.0
+Spizella pallida_Clay-colored Sparrow,0.10935267,29.0,32.0
+Sialia sialis_Eastern Bluebird,0.31389475,30.0,33.0
+Centronyx henslowii_Henslow's Sparrow,0.17555353,30.0,33.0
+Spizella pallida_Clay-colored Sparrow,0.1180151,30.0,33.0
+Spiza americana_Dickcissel,0.111045875,30.0,33.0
+Sialia sialis_Eastern Bluebird,0.55245805,31.0,34.0
+Spizella pallida_Clay-colored Sparrow,0.108482756,31.0,34.0
+Centronyx henslowii_Henslow's Sparrow,0.1450764,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18634991,33.0,36.0
+Spizella pallida_Clay-colored Sparrow,0.15171571,33.0,36.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22652203,34.0,37.0
+Spizella pallida_Clay-colored Sparrow,0.1479641,34.0,37.0
+Centronyx henslowii_Henslow's Sparrow,0.11713056,34.0,37.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18619432,35.0,38.0
+Spizella pallida_Clay-colored Sparrow,0.13567933,35.0,38.0
+Spizella pallida_Clay-colored Sparrow,0.10409255,36.0,39.0
+Passerina amoena_Lazuli Bunting,0.49460748,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.3884205,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.9925383,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.99321544,39.0,42.0
+Passerina cyanea_Indigo Bunting,0.9915488,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.46367434,41.0,44.0
+Passerina ciris_Painted Bunting,0.2132807,41.0,44.0
+Passerina amoena_Lazuli Bunting,0.17393422,41.0,44.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11802004,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.8920618,46.0,49.0
+Passerina cyanea_Indigo Bunting,0.9746773,47.0,50.0
+Passerina cyanea_Indigo Bunting,0.99463487,48.0,51.0
+Passerina cyanea_Indigo Bunting,0.9566623,49.0,52.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1409573,50.0,53.0
+Spizella pallida_Clay-colored Sparrow,0.10078537,50.0,53.0
+Spizella pallida_Clay-colored Sparrow,0.10571252,51.0,54.0
+Spizella pallida_Clay-colored Sparrow,0.10911706,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20634025,53.0,56.0
+Spizella pallida_Clay-colored Sparrow,0.1527719,53.0,56.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25409856,54.0,57.0
+Centronyx henslowii_Henslow's Sparrow,0.14255463,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.12329423,54.0,57.0
+Spizella pallida_Clay-colored Sparrow,0.11534982,54.0,57.0
+Passerina cyanea_Indigo Bunting,0.8537017,55.0,58.0
+Passerina amoena_Lazuli Bunting,0.26236835,55.0,58.0
+Passerina cyanea_Indigo Bunting,0.97684574,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.98844343,57.0,60.0
+Passerina cyanea_Indigo Bunting,0.9734219,58.0,61.0
+Spizella pallida_Clay-colored Sparrow,0.12304194,65.0,68.0
+Spizella pallida_Clay-colored Sparrow,0.15439029,66.0,69.0
+Passerina cyanea_Indigo Bunting,0.92430675,67.0,70.0
+Passerina amoena_Lazuli Bunting,0.24488331,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.9914408,68.0,71.0
+Passerina amoena_Lazuli Bunting,0.13112435,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.9896165,69.0,72.0
+Passerina cyanea_Indigo Bunting,0.9638426,70.0,73.0
+Passerina amoena_Lazuli Bunting,0.21401012,70.0,73.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12108514,74.0,77.0
+Spizella pallida_Clay-colored Sparrow,0.10087391,74.0,77.0
+Passerina amoena_Lazuli Bunting,0.76164937,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.47484532,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.97231376,78.0,81.0
+Passerina cyanea_Indigo Bunting,0.9787314,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.9743025,80.0,83.0
+Spiza americana_Dickcissel,0.16746761,82.0,85.0
+Dolichonyx oryzivorus_Bobolink,0.11011224,82.0,85.0
+Peucaea cassinii_Cassin's Sparrow,0.21440493,83.0,86.0
+Spiza americana_Dickcissel,0.1134479,84.0,87.0
+Peucaea cassinii_Cassin's Sparrow,0.13448592,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.9601897,86.0,89.0
+Passerina amoena_Lazuli Bunting,0.14037935,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.9910783,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.98528606,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.9671304,89.0,92.0
+Icteria virens_Yellow-breasted Chat,0.10910012,91.0,94.0
+Passerina cyanea_Indigo Bunting,0.8736496,93.0,96.0
+Passerina amoena_Lazuli Bunting,0.7365834,93.0,96.0
+Passerina cyanea_Indigo Bunting,0.98926264,94.0,97.0
+Passerina amoena_Lazuli Bunting,0.17685403,94.0,97.0
+Passerina cyanea_Indigo Bunting,0.98110974,95.0,98.0
+Passerina cyanea_Indigo Bunting,0.98118067,96.0,99.0
+Dolichonyx oryzivorus_Bobolink,0.27705523,97.0,100.0
+Ammodramus savannarum_Grasshopper Sparrow,0.115033835,100.0,103.0
+Passerina cyanea_Indigo Bunting,0.9730225,102.0,105.0
+Passerina cyanea_Indigo Bunting,0.9837481,103.0,106.0
+Passerina cyanea_Indigo Bunting,0.9763609,104.0,107.0
+Passerina cyanea_Indigo Bunting,0.2009398,105.0,108.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14319822,106.0,109.0
+Passerina caerulea_Blue Grosbeak,0.10857403,106.0,109.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16358505,111.0,114.0
+Passerina ciris_Painted Bunting,0.1375482,112.0,115.0
+Passerina cyanea_Indigo Bunting,0.98046726,113.0,116.0
+Passerina cyanea_Indigo Bunting,0.99512404,114.0,117.0
+Passerina cyanea_Indigo Bunting,0.98281235,115.0,118.0
+Passerina cyanea_Indigo Bunting,0.5223445,116.0,119.0
+Passerina amoena_Lazuli Bunting,0.35124004,116.0,119.0
+Leiothlypis virginiae_Virginia's Warbler,0.14518984,116.0,119.0
+Passerina caerulea_Blue Grosbeak,0.12782486,117.0,120.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15594025,120.0,123.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17819871,121.0,124.0
+Buteo swainsoni_Swainson's Hawk,0.1396443,121.0,124.0
+Bartramia longicauda_Upland Sandpiper,0.111197256,121.0,124.0
+Spizella pallida_Clay-colored Sparrow,0.10317183,121.0,124.0
+Tringa solitaria_Solitary Sandpiper,0.1904457,122.0,125.0
+Passerina cyanea_Indigo Bunting,0.9696447,123.0,126.0
+Passerina cyanea_Indigo Bunting,0.99409866,124.0,127.0
+Passerina cyanea_Indigo Bunting,0.9888333,125.0,128.0
+Passerina cyanea_Indigo Bunting,0.50310147,126.0,129.0
+Passerina amoena_Lazuli Bunting,0.32241112,126.0,129.0
+Passerina caerulea_Blue Grosbeak,0.17610477,127.0,130.0
+Ammodramus savannarum_Grasshopper Sparrow,0.103963494,129.0,132.0
+Spiza americana_Dickcissel,0.1388189,130.0,133.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11788876,130.0,133.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12613009,131.0,134.0
+Dolichonyx oryzivorus_Bobolink,0.1118841,131.0,134.0
+Passerina cyanea_Indigo Bunting,0.98936707,134.0,137.0
+Passerina cyanea_Indigo Bunting,0.989567,135.0,138.0
+Passerina cyanea_Indigo Bunting,0.9854897,136.0,139.0
+Passerina cyanea_Indigo Bunting,0.4306264,137.0,140.0
+Spiza americana_Dickcissel,0.23528515,137.0,140.0
+Passerina amoena_Lazuli Bunting,0.13064367,137.0,140.0
+Passerina caerulea_Blue Grosbeak,0.33028376,139.0,142.0
+Icterus spurius_Orchard Oriole,0.108799785,139.0,142.0
+Passerina caerulea_Blue Grosbeak,0.75495195,140.0,143.0
+Spiza americana_Dickcissel,0.15827844,141.0,144.0
+Ammodramus savannarum_Grasshopper Sparrow,0.251513,142.0,145.0
+Bartramia longicauda_Upland Sandpiper,0.15771525,142.0,145.0
+Peucaea cassinii_Cassin's Sparrow,0.10257241,142.0,145.0
+Chondestes grammacus_Lark Sparrow,0.11676707,143.0,146.0
+Passerina cyanea_Indigo Bunting,0.96100646,144.0,147.0
+Passerina amoena_Lazuli Bunting,0.35851553,144.0,147.0
+Passerina cyanea_Indigo Bunting,0.99499846,145.0,148.0
+Passerina cyanea_Indigo Bunting,0.9835947,146.0,149.0
+Passerina cyanea_Indigo Bunting,0.97446805,147.0,150.0
+Passerina amoena_Lazuli Bunting,0.40307856,147.0,150.0
+Dolichonyx oryzivorus_Bobolink,0.3214506,148.0,151.0
+Sturnella magna_Eastern Meadowlark,0.14128202,149.0,152.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13458398,149.0,152.0
+Dolichonyx oryzivorus_Bobolink,0.10737541,149.0,152.0
+Ammodramus savannarum_Grasshopper Sparrow,0.26984894,150.0,153.0
+Dolichonyx oryzivorus_Bobolink,0.12276812,150.0,153.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15325218,151.0,154.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22210836,152.0,155.0
+Dolichonyx oryzivorus_Bobolink,0.1051438,152.0,155.0
+Passerina cyanea_Indigo Bunting,0.21629895,153.0,156.0
+Passerina cyanea_Indigo Bunting,0.9840344,154.0,157.0
+Passerina cyanea_Indigo Bunting,0.9899025,155.0,158.0
+Passerina cyanea_Indigo Bunting,0.9761085,156.0,159.0
+Dolichonyx oryzivorus_Bobolink,0.21554628,158.0,161.0
+Chondestes grammacus_Lark Sparrow,0.11157079,160.0,163.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15698871,161.0,164.0
+Peucaea cassinii_Cassin's Sparrow,0.10952408,161.0,164.0
+Dolichonyx oryzivorus_Bobolink,0.108112164,161.0,164.0
+Passerina cyanea_Indigo Bunting,0.7728738,163.0,166.0
+Passerina amoena_Lazuli Bunting,0.42915794,163.0,166.0
+Passerina cyanea_Indigo Bunting,0.9839191,164.0,167.0
+Passerina cyanea_Indigo Bunting,0.98913586,165.0,168.0
+Passerina amoena_Lazuli Bunting,0.10932112,165.0,168.0
+Passerina cyanea_Indigo Bunting,0.9897686,166.0,169.0
+Passerina amoena_Lazuli Bunting,0.15475824,166.0,169.0
+Geothlypis trichas_Common Yellowthroat,0.22449684,168.0,171.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14117402,169.0,172.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11225351,169.0,172.0
+Centronyx henslowii_Henslow's Sparrow,0.103232086,169.0,172.0
+Spizella pallida_Clay-colored Sparrow,0.1005461,169.0,172.0
+Geothlypis trichas_Common Yellowthroat,0.1385628,170.0,173.0
+Centronyx henslowii_Henslow's Sparrow,0.11175363,170.0,173.0
+Passerina ciris_Painted Bunting,0.10526841,171.0,174.0
+Ammospiza maritima_Seaside Sparrow,0.11508861,172.0,175.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1676934,173.0,176.0
+Passerina cyanea_Indigo Bunting,0.9220583,174.0,177.0
+Passerina cyanea_Indigo Bunting,0.9896577,175.0,178.0
+Passerina cyanea_Indigo Bunting,0.99262106,176.0,179.0
+Passerina cyanea_Indigo Bunting,0.9727817,177.0,180.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21353438,179.0,182.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5836296,181.0,184.0
+Ammodramus savannarum_Grasshopper Sparrow,0.404698,182.0,185.0
+Ammodramus savannarum_Grasshopper Sparrow,0.54542863,183.0,186.0
+Passerina cyanea_Indigo Bunting,0.9749458,184.0,187.0
+Passerina cyanea_Indigo Bunting,0.98665315,185.0,188.0
+Passerina cyanea_Indigo Bunting,0.97650516,186.0,189.0
+Passerina cyanea_Indigo Bunting,0.9819509,187.0,190.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4427421,188.0,191.0
+Colinus virginianus_Northern Bobwhite,0.16978645,189.0,192.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21047874,192.0,195.0
+Passerina cyanea_Indigo Bunting,0.6560747,193.0,196.0
+Passerina amoena_Lazuli Bunting,0.20465836,193.0,196.0
+Passerina cyanea_Indigo Bunting,0.9876325,194.0,197.0
+Passerina cyanea_Indigo Bunting,0.99304855,195.0,198.0
+Passerina cyanea_Indigo Bunting,0.9880505,196.0,199.0
+Passerina cyanea_Indigo Bunting,0.20232055,197.0,200.0
+Passerina versicolor_Varied Bunting,0.10450886,197.0,200.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11455533,199.0,202.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16736323,200.0,203.0
+Dolichonyx oryzivorus_Bobolink,0.107246965,200.0,203.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12069352,201.0,204.0
+Gallinula galeata_Common Gallinule,0.11067006,202.0,205.0
+Passerina cyanea_Indigo Bunting,0.6211369,203.0,206.0
+Passerina cyanea_Indigo Bunting,0.9952625,204.0,207.0
+Passerina cyanea_Indigo Bunting,0.9948843,205.0,208.0
+Passerina cyanea_Indigo Bunting,0.958888,206.0,209.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19826712,209.0,212.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3650607,210.0,213.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22432125,211.0,214.0
+Centronyx henslowii_Henslow's Sparrow,0.12924126,211.0,214.0
+Dolichonyx oryzivorus_Bobolink,0.10033733,213.0,216.0
+Chondestes grammacus_Lark Sparrow,0.10796405,214.0,217.0
+Passerina cyanea_Indigo Bunting,0.31059214,215.0,218.0
+Passerina cyanea_Indigo Bunting,0.9906633,216.0,219.0
+Passerina cyanea_Indigo Bunting,0.99596196,217.0,220.0
+Passerina cyanea_Indigo Bunting,0.9834319,218.0,221.0
+Passerina cyanea_Indigo Bunting,0.46514773,219.0,222.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12981188,220.0,223.0
+Chondestes grammacus_Lark Sparrow,0.12669523,220.0,223.0
+Passerina caerulea_Blue Grosbeak,0.10352478,220.0,223.0
+Chondestes grammacus_Lark Sparrow,0.100572325,221.0,224.0
+Pooecetes gramineus_Vesper Sparrow,0.1701453,222.0,225.0
+Icterus spurius_Orchard Oriole,0.10669322,223.0,226.0
+Dolichonyx oryzivorus_Bobolink,0.28532648,224.0,227.0
+Dolichonyx oryzivorus_Bobolink,0.1159073,225.0,228.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27272335,226.0,229.0
+Spiza americana_Dickcissel,0.1170314,226.0,229.0
+Centronyx henslowii_Henslow's Sparrow,0.11046971,226.0,229.0
+Eremophila alpestris_Horned Lark,0.22253266,227.0,230.0
+Calcarius ornatus_Chestnut-collared Longspur,0.18728884,227.0,230.0
+Passerina cyanea_Indigo Bunting,0.94162315,228.0,231.0
+Passerina cyanea_Indigo Bunting,0.99338526,229.0,232.0
+Passerina amoena_Lazuli Bunting,0.24296717,229.0,232.0
+Passerina cyanea_Indigo Bunting,0.98841363,230.0,233.0
+Passerina cyanea_Indigo Bunting,0.9508104,231.0,234.0
+Icteria virens_Yellow-breasted Chat,0.12415882,233.0,236.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15944774,236.0,239.0
+Passerina caerulea_Blue Grosbeak,0.13765201,236.0,239.0
+Zenaida macroura_Mourning Dove,0.10627527,236.0,239.0
+Passerina caerulea_Blue Grosbeak,0.1846055,237.0,240.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11900208,237.0,240.0
+Zenaida macroura_Mourning Dove,0.11308591,238.0,241.0
+Passerina cyanea_Indigo Bunting,0.9472536,239.0,242.0
+Passerina amoena_Lazuli Bunting,0.15497683,239.0,242.0
+Passerina cyanea_Indigo Bunting,0.985713,240.0,243.0
+Passerina cyanea_Indigo Bunting,0.996897,241.0,244.0
+Passerina cyanea_Indigo Bunting,0.98391163,242.0,245.0
+Colinus virginianus_Northern Bobwhite,0.11867518,243.0,246.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11113951,243.0,246.0
+Dolichonyx oryzivorus_Bobolink,0.102123596,250.0,253.0
+Passerina cyanea_Indigo Bunting,0.74563843,252.0,255.0
+Passerina cyanea_Indigo Bunting,0.9857817,253.0,256.0
+Passerina cyanea_Indigo Bunting,0.9773119,254.0,257.0
+Passerina cyanea_Indigo Bunting,0.9785438,255.0,258.0
+Passerina versicolor_Varied Bunting,0.32719427,256.0,259.0
+Passerina cyanea_Indigo Bunting,0.13517016,256.0,259.0
+Peucaea cassinii_Cassin's Sparrow,0.197513,260.0,263.0
+Peucaea cassinii_Cassin's Sparrow,0.40018633,261.0,264.0
+Peucaea cassinii_Cassin's Sparrow,0.170551,262.0,265.0
+Passerina cyanea_Indigo Bunting,0.22692169,264.0,267.0
+Passerina cyanea_Indigo Bunting,0.14810781,265.0,268.0
+Passerina cyanea_Indigo Bunting,0.17217828,266.0,269.0
+Chondestes grammacus_Lark Sparrow,0.10889342,268.0,271.0
+Gryllus fultoni_Southern Wood Cricket,0.13020316,271.0,274.0
+Gryllus fultoni_Southern Wood Cricket,0.12872864,272.0,275.0
+Gryllus fultoni_Southern Wood Cricket,0.23734565,273.0,276.0
+Passerina cyanea_Indigo Bunting,0.6861261,274.0,277.0
+Gryllus fultoni_Southern Wood Cricket,0.16217186,274.0,277.0
+Passerina cyanea_Indigo Bunting,0.4331117,275.0,278.0
+Gryllus fultoni_Southern Wood Cricket,0.122612074,275.0,278.0
+Passerina cyanea_Indigo Bunting,0.31180906,276.0,279.0
+Gryllus fultoni_Southern Wood Cricket,0.28227726,276.0,279.0
+Gryllus rubens_Southeastern Field Cricket,0.102958396,276.0,279.0
+Passerina cyanea_Indigo Bunting,0.10147898,284.0,287.0
+Passerina cyanea_Indigo Bunting,0.1437626,285.0,288.0
+Gryllus fultoni_Southern Wood Cricket,0.10559355,285.0,288.0
+Passerina cyanea_Indigo Bunting,0.3426616,286.0,289.0
+Gryllus fultoni_Southern Wood Cricket,0.11200926,289.0,292.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13262302,290.0,292.9680272108844

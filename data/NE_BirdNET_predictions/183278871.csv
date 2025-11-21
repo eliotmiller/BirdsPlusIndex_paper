@@ -1,0 +1,70 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.24955252,0.0,3.0
+Sialia sialis_Eastern Bluebird,0.99295735,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.99875474,2.0,5.0
+Sialia sialis_Eastern Bluebird,0.9986908,3.0,6.0
+Sialia sialis_Eastern Bluebird,0.9995771,4.0,7.0
+Ammospiza nelsoni_Nelson's Sparrow,0.18695801,5.0,8.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.19196115,6.0,9.0
+Cistothorus stellaris_Sedge Wren,0.1545688,6.0,9.0
+Cistothorus platensis_Grass Wren,0.15413788,6.0,9.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.47308692,7.0,10.0
+Cistothorus platensis_Grass Wren,0.17369957,7.0,10.0
+Cistothorus stellaris_Sedge Wren,0.169508,7.0,10.0
+Sialia sialis_Eastern Bluebird,0.60007805,9.0,12.0
+Sialia sialis_Eastern Bluebird,0.9877236,10.0,13.0
+Sialia sialis_Eastern Bluebird,0.9928377,11.0,14.0
+Sialia sialis_Eastern Bluebird,0.9974178,12.0,15.0
+Toxostoma redivivum_California Thrasher,0.17247821,13.0,16.0
+Empidonax alnorum_Alder Flycatcher,0.18537559,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.11597452,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.15855931,15.0,18.0
+Empidonax alnorum_Alder Flycatcher,0.14867283,15.0,18.0
+Sialia sialis_Eastern Bluebird,0.98014885,17.0,20.0
+Sialia sialis_Eastern Bluebird,0.99591845,18.0,21.0
+Sialia sialis_Eastern Bluebird,0.99714226,19.0,22.0
+Sialia sialis_Eastern Bluebird,0.9918426,20.0,23.0
+Spatula discors_Blue-winged Teal,0.42912227,21.0,24.0
+Sialia sialis_Eastern Bluebird,0.14176762,23.0,26.0
+Sialia sialis_Eastern Bluebird,0.998575,24.0,27.0
+Sialia sialis_Eastern Bluebird,0.99975425,25.0,28.0
+Sialia sialis_Eastern Bluebird,0.9972818,26.0,29.0
+Sialia sialis_Eastern Bluebird,0.7428239,27.0,30.0
+Melospiza georgiana_Swamp Sparrow,0.19531642,27.0,30.0
+Melospiza georgiana_Swamp Sparrow,0.81939375,28.0,31.0
+Melospiza georgiana_Swamp Sparrow,0.77537405,29.0,32.0
+Sialia sialis_Eastern Bluebird,0.9893083,30.0,33.0
+Sialia sialis_Eastern Bluebird,0.99788815,31.0,34.0
+Sialia sialis_Eastern Bluebird,0.9987306,32.0,35.0
+Sialia sialis_Eastern Bluebird,0.99335116,33.0,36.0
+Melospiza georgiana_Swamp Sparrow,0.7164517,37.0,40.0
+Sialia sialis_Eastern Bluebird,0.84032273,38.0,41.0
+Turdus migratorius_American Robin,0.20332114,38.0,41.0
+Sialia sialis_Eastern Bluebird,0.999169,39.0,42.0
+Sialia sialis_Eastern Bluebird,0.99922657,40.0,43.0
+Sialia sialis_Eastern Bluebird,0.99769753,41.0,44.0
+Sialia sialis_Eastern Bluebird,0.9862091,43.0,46.0
+Sialia sialis_Eastern Bluebird,0.99655885,44.0,47.0
+Sialia sialis_Eastern Bluebird,0.9911355,45.0,48.0
+Sialia currucoides_Mountain Bluebird,0.76033616,46.0,49.0
+Melospiza georgiana_Swamp Sparrow,0.21223798,49.0,52.0
+Sialia sialis_Eastern Bluebird,0.92263067,50.0,53.0
+Turdus migratorius_American Robin,0.22035697,50.0,53.0
+Sialia sialis_Eastern Bluebird,0.9990577,51.0,54.0
+Sialia sialis_Eastern Bluebird,0.9975291,52.0,55.0
+Sialia sialis_Eastern Bluebird,0.98855865,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.10044944,54.0,57.0
+Sialia sialis_Eastern Bluebird,0.9925875,55.0,58.0
+Sialia sialis_Eastern Bluebird,0.9969541,56.0,59.0
+Sialia sialis_Eastern Bluebird,0.99927133,57.0,60.0
+Sialia sialis_Eastern Bluebird,0.9966672,58.0,61.0
+Elanus leucurus_White-tailed Kite,0.103429295,62.0,65.0
+Dolichonyx oryzivorus_Bobolink,0.16017434,63.0,66.0
+Spizella pallida_Clay-colored Sparrow,0.13175386,63.0,66.0
+Spizella pallida_Clay-colored Sparrow,0.17092794,64.0,67.0
+Dolichonyx oryzivorus_Bobolink,0.12833124,65.0,68.0
+Cynanthus latirostris_Broad-billed Hummingbird,0.20271422,67.0,70.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12602538,67.0,70.0
+Tyrannus verticalis_Western Kingbird,0.17680378,68.0,71.0
+Recurvirostra americana_American Avocet,0.12592119,70.0,73.0
+Recurvirostra americana_American Avocet,0.29470426,71.0,74.0

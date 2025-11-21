@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.673362,0.0,3.0
+Spiza americana_Dickcissel,0.2986264,1.0,4.0
+Spiza americana_Dickcissel,0.31187,2.0,5.0
+Ammospiza maritima_Seaside Sparrow,0.5639053,3.0,6.0
+Ixobrychus exilis_Least Bittern,0.11151252,6.0,9.0
+Centronyx henslowii_Henslow's Sparrow,0.8190753,7.0,10.0
+Ammospiza maritima_Seaside Sparrow,0.23280188,8.0,11.0
+Spiza americana_Dickcissel,0.11459778,8.0,11.0
+Ammospiza maritima_Seaside Sparrow,0.5146282,9.0,12.0
+Spiza americana_Dickcissel,0.11100284,9.0,12.0
+Ammospiza maritima_Seaside Sparrow,0.5373412,10.0,13.0
+Dolichonyx oryzivorus_Bobolink,0.14309919,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.108045906,12.0,15.0
+Spiza americana_Dickcissel,0.10999056,13.0,16.0
+Spiza americana_Dickcissel,0.641306,14.0,17.0
+Spiza americana_Dickcissel,0.4494026,15.0,18.0
+Empidonax wrightii_Gray Flycatcher,0.31852198,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.47219625,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.31593248,19.0,22.0
+Ammospiza maritima_Seaside Sparrow,0.1013357,19.0,22.0
+Ammospiza maritima_Seaside Sparrow,0.28739262,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.12565885,20.0,23.0
+Ammospiza maritima_Seaside Sparrow,0.32242462,21.0,24.0
+Spiza americana_Dickcissel,0.14145784,21.0,24.0
+Spiza americana_Dickcissel,0.2088482,25.0,28.0
+Ammospiza maritima_Seaside Sparrow,0.10974968,25.0,28.0
+Spiza americana_Dickcissel,0.4253293,26.0,29.0
+Ammospiza maritima_Seaside Sparrow,0.14480877,26.0,29.0
+Spiza americana_Dickcissel,0.34637585,27.0,30.0
+Ammospiza maritima_Seaside Sparrow,0.11251717,27.0,30.0
+Ammospiza maritima_Seaside Sparrow,0.55246896,28.0,31.0
+Anthus spragueii_Sprague's Pipit,0.19462532,35.0,38.0
+Spiza americana_Dickcissel,0.5475773,36.0,39.0
+Spiza americana_Dickcissel,0.2905875,37.0,40.0
+Spiza americana_Dickcissel,0.29203185,38.0,41.0
+Pipilo chlorurus_Green-tailed Towhee,0.20791577,38.0,41.0
+Cistothorus platensis_Grass Wren,0.15504678,38.0,41.0
+Spiza americana_Dickcissel,0.50028443,40.0,43.0
+Spiza americana_Dickcissel,0.5833541,41.0,44.0
+Ammospiza maritima_Seaside Sparrow,0.1512292,41.0,44.0
+Cistothorus platensis_Grass Wren,0.11677171,41.0,44.0
+Ammospiza maritima_Seaside Sparrow,0.14843486,42.0,45.0
+Spiza americana_Dickcissel,0.14798242,42.0,45.0
+Ammospiza maritima_Seaside Sparrow,0.13408075,43.0,46.0
+Loxioides bailleui_Palila,0.27147242,49.0,52.0
+Embernagra platensis_Great Pampa-Finch,0.667729,51.0,54.0
+Spiza americana_Dickcissel,0.7937097,52.0,55.0
+Spiza americana_Dickcissel,0.8155301,53.0,56.0
+Xenopsaris albinucha_White-naped Xenopsaris,0.26510707,58.0,61.0
+Actitis macularius_Spotted Sandpiper,0.18486317,60.0,63.0
+Spiza americana_Dickcissel,0.40513834,61.0,64.0
+Spiza americana_Dickcissel,0.6060628,62.0,65.0
+Actitis macularius_Spotted Sandpiper,0.105850704,64.0,67.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.10584549,64.0,67.0
+Xenopsaris albinucha_White-naped Xenopsaris,0.16815971,65.0,68.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.2466301,67.0,70.0
+Actitis macularius_Spotted Sandpiper,0.11138904,67.0,70.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.25020862,69.0,72.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.1988319,71.0,74.0
+Ammospiza maritima_Seaside Sparrow,0.11573093,74.0,77.0
+Ammospiza maritima_Seaside Sparrow,0.269307,75.0,78.0
+Anthus spinoletta_Water Pipit,0.10258988,77.0,80.0
+Anthus furcatus_Short-billed Pipit,0.16994907,78.0,81.0
+Anthus hellmayri_Hellmayr's Pipit,0.21696936,80.0,83.0
+Anthus furcatus_Short-billed Pipit,0.10103356,80.0,83.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.1594633,82.0,85.0
+Centronyx bairdii_Baird's Sparrow,0.11565277,83.0,86.0
+Actitis macularius_Spotted Sandpiper,0.20424809,90.0,93.0
+Calcarius lapponicus_Lapland Longspur,0.14661305,93.0,96.0
+Dolichonyx oryzivorus_Bobolink,0.11494209,93.0,96.0
+Dolichonyx oryzivorus_Bobolink,0.2758565,95.0,98.0
+Alauda arvensis_Eurasian Skylark,0.16932406,95.0,98.0
+Dolichonyx oryzivorus_Bobolink,0.7189584,96.0,99.0
+Dolichonyx oryzivorus_Bobolink,0.640815,97.0,100.0
+Dolichonyx oryzivorus_Bobolink,0.10124923,98.0,101.0
+Panurus biarmicus_Bearded Reedling,0.123082615,100.0,103.0
+Ammospiza maritima_Seaside Sparrow,0.1608583,102.0,104.25600907029478

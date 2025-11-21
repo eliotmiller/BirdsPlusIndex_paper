@@ -1,0 +1,17 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.19773006,0.0,3.0
+Cistothorus palustris_Marsh Wren,0.1453543,0.0,3.0
+Cistothorus palustris_Marsh Wren,0.16061513,1.0,4.0
+Gallinula galeata_Common Gallinule,0.9926313,3.0,6.0
+Gallinula galeata_Common Gallinule,0.9895058,4.0,7.0
+Gallinula galeata_Common Gallinule,0.9117976,5.0,8.0
+Gallinula galeata_Common Gallinule,0.7944066,6.0,9.0
+Gallinula galeata_Common Gallinule,0.325978,7.0,10.0
+Fulica americana_American Coot,0.102666564,7.0,10.0
+Nannopterum auritum_Double-crested Cormorant,0.56407744,8.0,11.0
+Bucephala albeola_Bufflehead,0.39669773,8.0,11.0
+Mergus merganser_Common Merganser,0.31054872,8.0,11.0
+Bucephala albeola_Bufflehead,0.17360522,9.0,12.0
+Nannopterum auritum_Double-crested Cormorant,0.15596533,9.0,12.0
+Nannopterum auritum_Double-crested Cormorant,0.21334974,10.0,12.048027210884353
+Mergus merganser_Common Merganser,0.10901469,10.0,12.048027210884353

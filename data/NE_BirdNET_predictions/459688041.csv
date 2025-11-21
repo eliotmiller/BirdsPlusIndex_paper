@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.93655133,0.0,3.0
+Strix varia_Barred Owl,0.16750248,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.7745256,1.0,4.0
+Bubo virginianus_Great Horned Owl,0.9388126,2.0,5.0
+Strix varia_Barred Owl,0.11717608,2.0,5.0
+Bubo virginianus_Great Horned Owl,0.8485025,3.0,6.0
+Bubo virginianus_Great Horned Owl,0.12631014,4.0,7.0
+Protonotaria citrea_Prothonotary Warbler,0.2594088,5.0,8.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1284908,5.0,8.0
+Protonotaria citrea_Prothonotary Warbler,0.27293608,6.0,9.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10014274,6.0,9.0
+Protonotaria citrea_Prothonotary Warbler,0.17680624,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.120561436,8.0,11.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11881916,8.0,11.0
+Bubo virginianus_Great Horned Owl,0.9885323,9.0,12.0
+Strix varia_Barred Owl,0.1167681,9.0,12.0
+Bubo virginianus_Great Horned Owl,0.87944216,10.0,13.0
+Bubo virginianus_Great Horned Owl,0.21259294,11.0,14.0
+Protonotaria citrea_Prothonotary Warbler,0.21517624,12.0,15.0
+Bubo virginianus_Great Horned Owl,0.1499492,13.0,16.0
+Bubo virginianus_Great Horned Owl,0.4919168,14.0,17.0
+Rupicola peruvianus_Andean Cock-of-the-rock,0.13485834,14.0,17.0
+Bubo virginianus_Great Horned Owl,0.5895093,15.0,18.0
+Rupicola peruvianus_Andean Cock-of-the-rock,0.24306464,15.0,18.0
+Bubo virginianus_Great Horned Owl,0.2222714,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25373685,17.0,20.0
+Protonotaria citrea_Prothonotary Warbler,0.17850998,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.13594368,17.0,20.0
+Bubo virginianus_Great Horned Owl,0.78505844,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.7758032,19.0,22.0
+Bubo virginianus_Great Horned Owl,0.85381347,20.0,23.0
+Bubo virginianus_Great Horned Owl,0.8541138,21.0,24.0
+Rupicola peruvianus_Andean Cock-of-the-rock,0.15182376,21.0,24.0
+Bubo virginianus_Great Horned Owl,0.702143,23.0,26.0
+Bubo virginianus_Great Horned Owl,0.896562,24.0,27.0
+Strix varia_Barred Owl,0.20072712,24.0,27.0
+Bubo virginianus_Great Horned Owl,0.8469366,25.0,28.0
+Bubo virginianus_Great Horned Owl,0.7965824,27.0,30.0
+Bubo virginianus_Great Horned Owl,0.961709,28.0,31.0
+Strix varia_Barred Owl,0.13540457,28.0,31.0
+Bubo virginianus_Great Horned Owl,0.87687224,29.0,32.0
+Limnothlypis swainsonii_Swainson's Warbler,0.27443427,30.0,33.0
+Protonotaria citrea_Prothonotary Warbler,0.2114142,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24752101,31.0,34.0
+Protonotaria citrea_Prothonotary Warbler,0.23305874,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.19350147,31.0,34.0
+Limnothlypis swainsonii_Swainson's Warbler,0.31103143,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.15452147,32.0,35.0
+Protonotaria citrea_Prothonotary Warbler,0.10302436,32.0,35.0
+Bubo virginianus_Great Horned Owl,0.54049736,33.0,36.0
+Rupicola peruvianus_Andean Cock-of-the-rock,0.13785079,33.0,36.0
+Bubo virginianus_Great Horned Owl,0.6074519,34.0,37.0
+Bubo virginianus_Great Horned Owl,0.13122696,35.0,38.0
+Myiagra alecto_Shining Flycatcher,0.16028938,37.0,40.0
+Myiagra alecto_Shining Flycatcher,0.10637875,38.0,41.0
+Myiagra alecto_Shining Flycatcher,0.6521486,39.0,42.0
+Bubo virginianus_Great Horned Owl,0.11136594,39.0,42.0
+Myiagra alecto_Shining Flycatcher,0.2157107,40.0,43.0
+Myiagra alecto_Shining Flycatcher,0.20086113,41.0,44.0
+Bubo virginianus_Great Horned Owl,0.35410628,43.0,46.0
+Myiagra alecto_Shining Flycatcher,0.16865382,43.0,46.0
+Bubo virginianus_Great Horned Owl,0.28465527,44.0,47.0
+Myiagra alecto_Shining Flycatcher,0.25355455,44.0,47.0
+Myiagra alecto_Shining Flycatcher,0.64760584,45.0,48.0
+Bubo virginianus_Great Horned Owl,0.28597674,45.0,48.0
+Bubo virginianus_Great Horned Owl,0.48477334,47.0,50.0
+Myiagra alecto_Shining Flycatcher,0.12372561,47.0,50.0
+Bubo virginianus_Great Horned Owl,0.20301747,49.0,52.0
+Vireo flavifrons_Yellow-throated Vireo,0.10445647,49.0,52.0
+Bubo virginianus_Great Horned Owl,0.50381887,50.0,53.0
+Bubo virginianus_Great Horned Owl,0.7891983,51.0,54.0
