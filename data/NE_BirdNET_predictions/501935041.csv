@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.9947996,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.9452416,1.0,4.0
+Contopus virens_Eastern Wood-Pewee,0.21698533,2.0,5.0
+Contopus sordidulus_Western Wood-Pewee,0.12782185,2.0,5.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.53199345,3.0,6.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.11316695,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.9774914,4.0,7.0
+Contopus virens_Eastern Wood-Pewee,0.99110585,5.0,8.0
+Contopus virens_Eastern Wood-Pewee,0.97656155,6.0,9.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.7507479,7.0,10.0
+Contopus sordidulus_Western Wood-Pewee,0.17311129,7.0,10.0
+Myiarchus stolidus_Stolid Flycatcher,0.10588177,7.0,10.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.6100865,8.0,11.0
+Myiarchus stolidus_Stolid Flycatcher,0.19105566,8.0,11.0
+Stachyris strialata_Spot-necked Babbler,0.1550795,8.0,11.0
+Contopus sordidulus_Western Wood-Pewee,0.16693754,9.0,12.0
+Contopus sordidulus_Western Wood-Pewee,0.67272556,10.0,13.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.10245957,10.0,13.0
+Contopus sordidulus_Western Wood-Pewee,0.38921443,11.0,14.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.13049676,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.30829722,13.0,16.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.10409302,13.0,16.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.20296541,14.0,17.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.6562505,15.0,18.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.22695208,16.0,19.0
+Contopus sordidulus_Western Wood-Pewee,0.3433367,17.0,20.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.16851816,17.0,20.0
+Contopus sordidulus_Western Wood-Pewee,0.73214036,18.0,21.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.2735392,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.14784795,18.0,21.0
+Contopus sordidulus_Western Wood-Pewee,0.32761288,19.0,22.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.17325892,19.0,22.0
+Myiozetetes cayanensis_Rusty-margined Flycatcher,0.1087225,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.982311,20.0,23.0
+Contopus virens_Eastern Wood-Pewee,0.99686414,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.9751516,22.0,25.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.5310586,24.0,27.0
+Stachyris strialata_Spot-necked Babbler,0.113395415,24.0,27.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.42496604,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.87634915,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.898044,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.9336075,28.0,31.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.2791962,29.0,32.0
+Contopus sordidulus_Western Wood-Pewee,0.14374036,29.0,32.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.109416336,30.0,33.0
+Stachyris strialata_Spot-necked Babbler,0.102363914,30.0,33.0
+Contopus sordidulus_Western Wood-Pewee,0.102491245,31.0,34.0
+Petroica macrocephala_Tomtit,0.31544462,33.0,36.0
+Contopus sordidulus_Western Wood-Pewee,0.12854132,33.0,36.0
+Myiarchus stolidus_Stolid Flycatcher,0.20081738,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.17414364,34.0,37.0
+Stachyris strialata_Spot-necked Babbler,0.1718911,34.0,37.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.10103144,34.0,37.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.51657975,35.0,38.0
+Myiozetetes cayanensis_Rusty-margined Flycatcher,0.10810063,35.0,38.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.17925064,36.0,39.0
+Catharus bicknelli_Bicknell's Thrush,0.19394767,37.0,40.0
+Phylloscopus intermedius_White-spectacled Warbler,0.15761153,37.0,40.0
+Myiarchus stolidus_Stolid Flycatcher,0.81686944,39.0,42.0
+Stachyris strialata_Spot-necked Babbler,0.14886191,39.0,42.0
+Myiarchus antillarum_Puerto Rican Flycatcher,0.24001311,40.0,43.0
+Myiarchus stolidus_Stolid Flycatcher,0.114870995,40.0,43.0
+Myiozetetes cayanensis_Rusty-margined Flycatcher,0.33718443,41.0,44.0
+Contopus sordidulus_Western Wood-Pewee,0.12347743,42.0,45.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.15992531,43.0,46.0
+Phylloscopus intermedius_White-spectacled Warbler,0.22186089,45.0,47.92802721088435

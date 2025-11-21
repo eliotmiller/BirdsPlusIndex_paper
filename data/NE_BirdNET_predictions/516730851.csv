@@ -1,0 +1,33 @@
+species,score,start_time,end_time
+Cinclus mexicanus_American Dipper,0.25380462,2.0,5.0
+Regulus regulus_Goldcrest,0.8216884,5.0,8.0
+Regulus ignicapilla_Common Firecrest,0.10759563,5.0,8.0
+Regulus regulus_Goldcrest,0.2964381,6.0,9.0
+Erithacus rubecula_European Robin,0.11383625,6.0,9.0
+Regulus regulus_Goldcrest,0.3929686,7.0,10.0
+Erithacus rubecula_European Robin,0.23414063,7.0,10.0
+Erithacus rubecula_European Robin,0.48665205,8.0,11.0
+Parus major_Great Tit,0.4332454,8.0,11.0
+Engine_Engine,0.18372825,8.0,11.0
+Regulus regulus_Goldcrest,0.18223368,8.0,11.0
+Erithacus rubecula_European Robin,0.71531445,9.0,12.0
+Parus major_Great Tit,0.31568128,9.0,12.0
+Regulus regulus_Goldcrest,0.2714631,9.0,12.0
+Erithacus rubecula_European Robin,0.6731029,10.0,13.0
+Engine_Engine,0.43628892,10.0,13.0
+Regulus regulus_Goldcrest,0.3631704,10.0,13.0
+Turdus philomelos_Song Thrush,0.10580828,10.0,13.0
+Regulus regulus_Goldcrest,0.28908285,11.0,14.0
+Erithacus rubecula_European Robin,0.2664278,11.0,14.0
+Engine_Engine,0.20548633,11.0,14.0
+Engine_Engine,0.41419137,12.0,15.0
+Engine_Engine,0.5045852,13.0,16.0
+Engine_Engine,0.3642475,14.0,17.0
+Melospiza melodia_Song Sparrow,0.2212596,15.0,18.0
+Melospiza melodia_Song Sparrow,0.22346678,16.0,19.0
+Zonotrichia albicollis_White-throated Sparrow,0.15258436,16.0,19.0
+Zonotrichia albicollis_White-throated Sparrow,0.13230348,17.0,20.0
+Cyanistes caeruleus_Eurasian Blue Tit,0.122315064,18.0,21.0
+Passer domesticus_House Sparrow,0.17783102,19.0,22.0
+Engine_Engine,0.14846829,22.0,25.0
+Engine_Engine,0.11019297,23.0,25.27201814058957

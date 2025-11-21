@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Sylvia atricapilla_Eurasian Blackcap,0.7717089,0.0,3.0
+Thryothorus ludovicianus_Carolina Wren,0.59838045,0.0,3.0
+Sylvia atricapilla_Eurasian Blackcap,0.3180355,1.0,4.0
+Icteria virens_Yellow-breasted Chat,0.25710893,2.0,5.0
+Icteria virens_Yellow-breasted Chat,0.56782335,3.0,6.0
+Anas platyrhynchos_Mallard,0.34932733,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.19914363,4.0,7.0
+Ardea herodias_Great Blue Heron,0.15341614,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.92564034,5.0,8.0
+Icteria virens_Yellow-breasted Chat,0.96815765,6.0,9.0
+Icteria virens_Yellow-breasted Chat,0.8676276,7.0,10.0
+Numenius phaeopus_Whimbrel,0.2638061,7.0,10.0
+Icteria virens_Yellow-breasted Chat,0.7045279,8.0,11.0
+Icteria virens_Yellow-breasted Chat,0.17287247,9.0,12.0
+Icteria virens_Yellow-breasted Chat,0.3267298,10.0,13.0
+Icteria virens_Yellow-breasted Chat,0.37192786,11.0,14.0
+Thryothorus ludovicianus_Carolina Wren,0.29467916,13.0,16.0
+Thryothorus ludovicianus_Carolina Wren,0.57546157,14.0,17.0
+Dryocopus pileatus_Pileated Woodpecker,0.16385315,15.0,18.0
+Icteria virens_Yellow-breasted Chat,0.20633754,17.0,20.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.13686222,17.0,20.0
+Tyrannus vociferans_Cassin's Kingbird,0.11814081,17.0,20.0
+Icteria virens_Yellow-breasted Chat,0.5137864,18.0,21.0
+Anas platyrhynchos_Mallard,0.14055897,20.0,23.0
+Icteria virens_Yellow-breasted Chat,0.12575474,22.0,25.0
+Icteria virens_Yellow-breasted Chat,0.113109626,23.0,26.0
+Sylvia atricapilla_Eurasian Blackcap,0.34855106,26.0,29.0
+Icteria virens_Yellow-breasted Chat,0.4110778,27.0,30.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.17913768,27.0,30.0
+Turdus assimilis_White-throated Thrush,0.13147703,27.0,30.0
+Icteria virens_Yellow-breasted Chat,0.27321142,28.0,31.0
+Icteria virens_Yellow-breasted Chat,0.7447039,29.0,32.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.14243028,29.0,32.0
+Rallus limicola_Virginia Rail,0.25665686,32.0,35.0
+Icteria virens_Yellow-breasted Chat,0.20617846,32.0,35.0
+Rallus limicola_Virginia Rail,0.6421132,33.0,36.0
+Rallus limicola_Virginia Rail,0.30188414,34.0,37.0
+Rallus limicola_Virginia Rail,0.63894325,35.0,38.0
+Icteria virens_Yellow-breasted Chat,0.19592966,35.0,38.0
+Icteria virens_Yellow-breasted Chat,0.8421421,36.0,39.0
+Numenius phaeopus_Whimbrel,0.16693804,36.0,39.0
+Numenius phaeopus_Whimbrel,0.52248365,37.0,40.0
+Icteria virens_Yellow-breasted Chat,0.5071614,37.0,40.0
+Dryocopus pileatus_Pileated Woodpecker,0.11620451,37.0,40.0
+Icteria virens_Yellow-breasted Chat,0.8155627,38.0,41.0
+Numenius phaeopus_Whimbrel,0.30976212,38.0,41.0
+Dryocopus pileatus_Pileated Woodpecker,0.2909739,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.10445524,38.0,41.0
+Cacomantis pallidus_Pallid Cuckoo,0.40759945,39.0,42.0
+Icteria virens_Yellow-breasted Chat,0.19926511,39.0,42.0
+Cacomantis pallidus_Pallid Cuckoo,0.3302528,40.0,43.0
+Icteria virens_Yellow-breasted Chat,0.1915701,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.1392068,47.0,50.0
+Anas crecca_Green-winged Teal,0.1392308,48.0,51.0
+Anas platyrhynchos_Mallard,0.14894482,50.0,53.0
+Icteria virens_Yellow-breasted Chat,0.25312942,51.0,54.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.20114996,51.0,54.0
+Icteria virens_Yellow-breasted Chat,0.35785615,52.0,55.0
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.20633104,52.0,55.0
+Icteria virens_Yellow-breasted Chat,0.6055805,53.0,56.0
+Dryocopus pileatus_Pileated Woodpecker,0.24806486,56.0,59.0
+Icteria virens_Yellow-breasted Chat,0.48979017,57.0,60.0
+Icteria virens_Yellow-breasted Chat,0.3041461,58.0,61.0
+Icteria virens_Yellow-breasted Chat,0.16753669,59.0,62.0
+Icteria virens_Yellow-breasted Chat,0.48125845,60.0,63.0
+Rallus limicola_Virginia Rail,0.27371848,60.0,63.0
+Acrocephalus arundinaceus_Great Reed Warbler,0.20252985,60.0,63.0
+Ixobrychus exilis_Least Bittern,0.10245876,60.0,63.0
+Rallus limicola_Virginia Rail,0.57314384,61.0,64.0
+Rallus elegans_King Rail,0.26401883,61.0,64.0
+Icteria virens_Yellow-breasted Chat,0.14344092,61.0,64.0
+Rallus crepitans_Clapper Rail,0.1211498,61.0,64.0
+Rallus limicola_Virginia Rail,0.35889572,62.0,65.0
+Rallus elegans_King Rail,0.17031994,62.0,65.0
+Rallus crepitans_Clapper Rail,0.109425135,62.0,65.0
+Rallus limicola_Virginia Rail,0.6162087,63.0,66.0
+Icteria virens_Yellow-breasted Chat,0.37992477,64.0,67.0
+Mareca strepera_Gadwall,0.130669,64.0,67.0
+Icteria virens_Yellow-breasted Chat,0.24215876,71.0,74.0
+Icteria virens_Yellow-breasted Chat,0.37374654,72.0,75.0
+Icteria virens_Yellow-breasted Chat,0.2957733,73.0,76.0
+Icteria virens_Yellow-breasted Chat,0.9647766,74.0,77.0
+Icteria virens_Yellow-breasted Chat,0.67222595,75.0,78.0
+Zenaida macroura_Mourning Dove,0.101478264,75.0,78.0
+Dryocopus pileatus_Pileated Woodpecker,0.2749395,76.0,79.0
+Cacomantis pallidus_Pallid Cuckoo,0.16619396,76.0,79.0
+Icteria virens_Yellow-breasted Chat,0.102545045,76.0,79.0
+Dryocopus pileatus_Pileated Woodpecker,0.7589212,77.0,79.72802721088435
+Cacomantis pallidus_Pallid Cuckoo,0.1263264,77.0,79.72802721088435

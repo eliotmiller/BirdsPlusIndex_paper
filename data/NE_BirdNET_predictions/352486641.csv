@@ -1,0 +1,158 @@
+species,score,start_time,end_time
+Sphyrapicus thyroideus_Williamson's Sapsucker,0.10875584,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10644713,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.19056532,7.0,10.0
+Setophaga ruticilla_American Redstart,0.10586122,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.23705378,8.0,11.0
+Setophaga ruticilla_American Redstart,0.19815092,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.12908626,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.22893505,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12939723,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.118381664,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.10110162,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.48279303,10.0,13.0
+Setophaga ruticilla_American Redstart,0.12943341,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.1237084,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.5262899,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.153797,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.14364602,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.2331375,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.1629935,12.0,15.0
+Setophaga ruticilla_American Redstart,0.154348,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12184157,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.109983005,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.18124552,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14382797,14.0,17.0
+Setophaga magnolia_Magnolia Warbler,0.1242671,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.11391236,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.10508634,14.0,17.0
+Setophaga magnolia_Magnolia Warbler,0.105927736,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.23991385,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.21316724,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.3443327,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.21722394,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.16114366,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.122356184,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14823987,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12860827,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.17825437,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.106514595,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.20263298,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17575473,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.1460149,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.11694183,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.21320978,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.15449147,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.11037919,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.3280312,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.2641544,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118451804,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.118574,28.0,31.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.26032507,30.0,33.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.18362795,30.0,33.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10449653,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.467532,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.26476276,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.19317879,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.19116801,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15226497,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.2924061,36.0,39.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1629872,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.14803301,36.0,39.0
+Setophaga ruticilla_American Redstart,0.12115289,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.12016424,36.0,39.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.28921732,37.0,40.0
+Perisoreus canadensis_Canada Jay,0.16442107,37.0,40.0
+Perisoreus canadensis_Canada Jay,0.26816195,39.0,42.0
+Trogon elegans_Elegant Trogon,0.12237561,41.0,44.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.32901385,44.0,47.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.1043621,44.0,47.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17656624,45.0,48.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12234716,46.0,49.0
+Platycercus eximius_Eastern Rosella,0.15081932,47.0,50.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10337852,47.0,50.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6717137,48.0,51.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.37758118,48.0,51.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.84345466,49.0,52.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.699556,49.0,52.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.101810046,49.0,52.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8161771,50.0,53.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.67506814,50.0,53.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19344579,50.0,53.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.83222216,51.0,54.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.57672745,51.0,54.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.12099693,51.0,54.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.77190286,52.0,55.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.45841834,52.0,55.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.12414543,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9244577,53.0,56.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.74647975,53.0,56.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.50498086,53.0,56.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.942404,54.0,57.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.43677977,54.0,57.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.33173737,54.0,57.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.86333036,55.0,58.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.4972663,55.0,58.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.32272986,55.0,58.0
+Sphyrapicus thyroideus_Williamson's Sapsucker,0.11170772,55.0,58.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6717931,56.0,59.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.21657231,56.0,59.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.21211445,56.0,59.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8349698,57.0,60.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.21285005,57.0,60.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.110696204,57.0,60.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.2708958,58.0,61.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.2291085,58.0,61.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.5539291,59.0,62.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.34841818,59.0,62.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.2711322,59.0,62.0
+Sphyrapicus thyroideus_Williamson's Sapsucker,0.18541624,59.0,62.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6687212,60.0,63.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.36364192,60.0,63.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.3363634,60.0,63.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.7232061,61.0,64.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.87496215,62.0,65.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.36904278,62.0,65.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.23212264,62.0,65.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.7920091,63.0,66.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.30624405,63.0,66.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19977506,63.0,66.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.7138633,64.0,67.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.44617265,64.0,67.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.38585085,64.0,67.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.6599119,65.0,68.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.13058558,65.0,68.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.10078057,65.0,68.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.31453884,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10229013,66.0,69.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.23387508,68.0,71.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.14301556,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.13297118,68.0,71.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.4407049,69.0,72.0
+Piranga olivacea_Scarlet Tanager,0.10785489,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.28412583,71.0,74.0
+Setophaga ruticilla_American Redstart,0.10998328,71.0,74.0
+Vireo olivaceus_Red-eyed Vireo,0.10035045,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.17750657,72.0,75.0
+Setophaga ruticilla_American Redstart,0.10492835,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.1003021,72.0,75.0
+Setophaga magnolia_Magnolia Warbler,0.24438366,73.0,76.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.23781575,74.0,77.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.29287767,75.0,78.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5651327,76.0,79.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.1756402,76.0,79.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.11514536,76.0,79.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.7095633,77.0,80.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.24232486,77.0,80.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5826286,78.0,81.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.2682429,78.0,81.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5611234,79.0,82.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.22008005,79.0,82.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.479023,80.0,83.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.22473428,80.0,83.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.85938233,81.0,84.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16270955,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.26889616,83.0,86.0
+Vireo olivaceus_Red-eyed Vireo,0.17549253,83.0,86.0
+Hylocichla mustelina_Wood Thrush,0.103042535,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.12363848,84.0,86.47201814058957

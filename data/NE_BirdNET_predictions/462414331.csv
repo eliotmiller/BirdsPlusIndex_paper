@@ -1,0 +1,103 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.9773383,0.0,3.0
+Setophaga castanea_Bay-breasted Warbler,0.21618669,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.96466756,1.0,4.0
+Setophaga castanea_Bay-breasted Warbler,0.28300354,1.0,4.0
+Setophaga tigrina_Cape May Warbler,0.113514215,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.77639824,2.0,5.0
+Setophaga castanea_Bay-breasted Warbler,0.18009785,2.0,5.0
+Setophaga tigrina_Cape May Warbler,0.16059071,2.0,5.0
+Setophaga tigrina_Cape May Warbler,0.47314847,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.37000042,3.0,6.0
+Setophaga castanea_Bay-breasted Warbler,0.788305,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.66757846,8.0,11.0
+Setophaga tigrina_Cape May Warbler,0.38204265,8.0,11.0
+Regulus satrapa_Golden-crowned Kinglet,0.29045293,8.0,11.0
+Setophaga castanea_Bay-breasted Warbler,0.81444174,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.2352507,9.0,12.0
+Setophaga tigrina_Cape May Warbler,0.15205674,9.0,12.0
+Setophaga castanea_Bay-breasted Warbler,0.49216506,10.0,13.0
+Setophaga tigrina_Cape May Warbler,0.2551797,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.23976423,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.36729586,11.0,14.0
+Setophaga castanea_Bay-breasted Warbler,0.2431966,11.0,14.0
+Setophaga tigrina_Cape May Warbler,0.10701235,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.7829065,12.0,15.0
+Setophaga castanea_Bay-breasted Warbler,0.73672366,12.0,15.0
+Setophaga tigrina_Cape May Warbler,0.3912576,12.0,15.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2541054,13.0,16.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10738088,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122712515,21.0,24.0
+Setophaga castanea_Bay-breasted Warbler,0.883427,22.0,25.0
+Setophaga castanea_Bay-breasted Warbler,0.9104867,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.11422316,23.0,26.0
+Setophaga castanea_Bay-breasted Warbler,0.7093912,24.0,27.0
+Setophaga tigrina_Cape May Warbler,0.119174294,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.49516037,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.119499356,25.0,28.0
+Bombycilla cedrorum_Cedar Waxwing,0.18578574,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.99293387,31.0,34.0
+Setophaga castanea_Bay-breasted Warbler,0.39224273,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.98923934,32.0,35.0
+Setophaga castanea_Bay-breasted Warbler,0.61335236,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.9833973,33.0,36.0
+Setophaga castanea_Bay-breasted Warbler,0.604283,33.0,36.0
+Setophaga tigrina_Cape May Warbler,0.61803234,34.0,37.0
+Motacilla cinerea_Gray Wagtail,0.15140772,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.14078589,34.0,37.0
+Setophaga castanea_Bay-breasted Warbler,0.11043578,34.0,37.0
+Myioborus miniatus_Slate-throated Redstart,0.1021295,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4023016,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24461852,37.0,40.0
+Bombycilla cedrorum_Cedar Waxwing,0.24964607,38.0,41.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2087049,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.24686927,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.12000595,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.33537126,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.104653195,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.21639137,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16694136,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.12417354,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.19959012,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1845726,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.64800864,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121173374,44.0,47.0
+Regulus satrapa_Golden-crowned Kinglet,0.30797747,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.8908184,46.0,49.0
+Setophaga castanea_Bay-breasted Warbler,0.42138147,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.84642524,47.0,50.0
+Setophaga fusca_Blackburnian Warbler,0.96136,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.3886657,49.0,52.0
+Setophaga tigrina_Cape May Warbler,0.1815969,49.0,52.0
+Setophaga pitiayumi_Tropical Parula,0.16365018,49.0,52.0
+Regulus satrapa_Golden-crowned Kinglet,0.35195503,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.12427918,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11838539,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.16229251,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13115548,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.14807835,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12148598,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17545755,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.16011092,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.12147874,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.34129718,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13678151,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.10687117,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.11631738,57.0,60.0
+Regulus satrapa_Golden-crowned Kinglet,0.40219852,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.1686286,58.0,61.0
+Certhia americana_Brown Creeper,0.12301738,58.0,61.0
+Poecile rufescens_Chestnut-backed Chickadee,0.11983003,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.9367653,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.8126079,60.0,63.0
+Setophaga castanea_Bay-breasted Warbler,0.10659406,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.9243606,61.0,64.0
+Setophaga castanea_Bay-breasted Warbler,0.12865353,61.0,64.0
+Setophaga fusca_Blackburnian Warbler,0.6011145,62.0,65.0
+Setophaga tigrina_Cape May Warbler,0.10340343,62.0,65.0
+Regulus satrapa_Golden-crowned Kinglet,0.15015799,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.1374637,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.2595964,64.0,67.0
+Tamias striatus_Eastern Chipmunk,0.100006975,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.15894897,72.0,75.0
+Tamias striatus_Eastern Chipmunk,0.11399974,73.0,76.0

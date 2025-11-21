@@ -1,0 +1,12 @@
+species,score,start_time,end_time
+Human non-vocal_Human non-vocal,0.23962396,7.0,10.0
+Human non-vocal_Human non-vocal,0.22604594,8.0,11.0
+Engine_Engine,0.19459201,8.0,11.0
+Engine_Engine,0.35162503,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.124148205,14.0,17.0
+Vireo philadelphicus_Philadelphia Vireo,0.11894026,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.11346482,14.0,17.0
+Mniotilta varia_Black-and-white Warbler,0.2235205,15.0,18.0
+Sittiparus varius_Varied Tit,0.21544275,22.0,25.0
+Sittiparus varius_Varied Tit,0.111698195,23.0,26.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.12236043,25.0,27.696009070294785

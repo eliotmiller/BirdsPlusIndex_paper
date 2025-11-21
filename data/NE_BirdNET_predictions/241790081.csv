@@ -1,0 +1,76 @@
+species,score,start_time,end_time
+Spizella pallida_Clay-colored Sparrow,0.9968143,0.0,3.0
+Spizella pallida_Clay-colored Sparrow,0.9523671,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.90663403,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.21800953,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.38383287,4.0,7.0
+Ammospiza nelsoni_Nelson's Sparrow,0.15827762,4.0,7.0
+Spizella pallida_Clay-colored Sparrow,0.12512724,4.0,7.0
+Spizella pallida_Clay-colored Sparrow,0.33912912,5.0,8.0
+Spizella pallida_Clay-colored Sparrow,0.42218184,6.0,9.0
+Spizella pallida_Clay-colored Sparrow,0.29568088,9.0,12.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.15600418,9.0,12.0
+Locustella davidi_Baikal Bush Warbler,0.10147239,9.0,12.0
+Spizella pallida_Clay-colored Sparrow,0.8920363,10.0,13.0
+Locustella davidi_Baikal Bush Warbler,0.10058019,10.0,13.0
+Spizella pallida_Clay-colored Sparrow,0.9392337,11.0,14.0
+Spizella pallida_Clay-colored Sparrow,0.9808251,12.0,15.0
+Apus melba_Alpine Swift,0.1391384,13.0,16.0
+Spizella pusilla_Field Sparrow,0.10316601,13.0,16.0
+Apus melba_Alpine Swift,0.11723677,14.0,17.0
+Centronyx henslowii_Henslow's Sparrow,0.12339798,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.11597219,15.0,18.0
+Spizella pallida_Clay-colored Sparrow,0.10451314,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.14019734,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.187192,17.0,20.0
+Centronyx henslowii_Henslow's Sparrow,0.1023508,17.0,20.0
+Spizella pallida_Clay-colored Sparrow,0.22163615,18.0,21.0
+Spizella pallida_Clay-colored Sparrow,0.7284168,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.8945502,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.8650213,21.0,24.0
+Spizella pallida_Clay-colored Sparrow,0.21053916,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.10959921,23.0,26.0
+Spizella pallida_Clay-colored Sparrow,0.10557344,23.0,26.0
+Spizella pallida_Clay-colored Sparrow,0.1239888,24.0,27.0
+Spizella pallida_Clay-colored Sparrow,0.94551486,25.0,28.0
+Spizella pallida_Clay-colored Sparrow,0.9903812,26.0,29.0
+Spizella pallida_Clay-colored Sparrow,0.99522156,27.0,30.0
+Spizella pallida_Clay-colored Sparrow,0.950856,28.0,31.0
+Callipepla squamata_Scaled Quail,0.20645949,30.0,33.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.12943581,30.0,33.0
+Theristicus caudatus_Buff-necked Ibis,0.11874838,31.0,34.0
+Spizella pallida_Clay-colored Sparrow,0.96511805,34.0,37.0
+Spizella pallida_Clay-colored Sparrow,0.93333906,35.0,38.0
+Tachornis squamata_Fork-tailed Palm-Swift,0.16714107,35.0,38.0
+Spizella pallida_Clay-colored Sparrow,0.9368799,36.0,39.0
+Spizella pallida_Clay-colored Sparrow,0.53123504,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.23071791,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.18100132,39.0,42.0
+Ammospiza leconteii_LeConte's Sparrow,0.12718557,39.0,42.0
+Spizella pallida_Clay-colored Sparrow,0.9380698,40.0,43.0
+Spizella pallida_Clay-colored Sparrow,0.9873333,41.0,44.0
+Spizella pallida_Clay-colored Sparrow,0.88919735,42.0,45.0
+Spizella pallida_Clay-colored Sparrow,0.8996528,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.12728286,45.0,48.0
+Spizella pallida_Clay-colored Sparrow,0.7827534,47.0,50.0
+Spizella pallida_Clay-colored Sparrow,0.96135545,48.0,51.0
+Spizella pallida_Clay-colored Sparrow,0.9812588,49.0,52.0
+Spizella pallida_Clay-colored Sparrow,0.9918926,50.0,53.0
+Spizella pallida_Clay-colored Sparrow,0.9604838,53.0,56.0
+Spizella pallida_Clay-colored Sparrow,0.9722581,54.0,57.0
+Spizella pallida_Clay-colored Sparrow,0.9757263,55.0,58.0
+Spizella pallida_Clay-colored Sparrow,0.76483893,56.0,59.0
+Melospiza melodia_Song Sparrow,0.11738949,58.0,61.0
+Spizella pallida_Clay-colored Sparrow,0.9315104,61.0,64.0
+Spizella pallida_Clay-colored Sparrow,0.964098,62.0,65.0
+Spizella pallida_Clay-colored Sparrow,0.8860558,63.0,66.0
+Spizella pallida_Clay-colored Sparrow,0.9208064,64.0,67.0
+Spizella pallida_Clay-colored Sparrow,0.33273277,70.0,73.0
+Spizella pallida_Clay-colored Sparrow,0.5076114,71.0,74.0
+Spizella pallida_Clay-colored Sparrow,0.45252284,72.0,75.0
+Spizella pallida_Clay-colored Sparrow,0.79050326,73.0,76.0
+Locustella davidi_Baikal Bush Warbler,0.19245197,73.0,76.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1410238,76.0,79.0
+Spizella pallida_Clay-colored Sparrow,0.94631815,77.0,80.0
+Spizella pallida_Clay-colored Sparrow,0.92530555,78.0,81.0
+Spizella pallida_Clay-colored Sparrow,0.9443554,79.0,81.28802721088435

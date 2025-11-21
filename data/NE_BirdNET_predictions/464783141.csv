@@ -1,0 +1,37 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.1041908,0.0,3.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.104365684,1.0,4.0
+Icterus bullockii_Bullock's Oriole,0.15067087,2.0,5.0
+Curaeus curaeus_Austral Blackbird,0.1293216,2.0,5.0
+Prosthemadera novaeseelandiae_Tui,0.10952642,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.9928416,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.99813926,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.99803585,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.9885211,11.0,14.0
+Dumetella carolinensis_Gray Catbird,0.5708453,12.0,15.0
+Toxostoma longirostre_Long-billed Thrasher,0.25734106,12.0,15.0
+Dumetella carolinensis_Gray Catbird,0.8014479,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.8179822,14.0,17.0
+Icterus spurius_Orchard Oriole,0.15764207,14.0,17.0
+Dumetella carolinensis_Gray Catbird,0.8754729,15.0,18.0
+Icterus spurius_Orchard Oriole,0.12930685,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.9672532,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.79622054,17.0,20.0
+Dumetella carolinensis_Gray Catbird,0.5317348,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.29574153,19.0,22.0
+Icterus bullockii_Bullock's Oriole,0.11108641,19.0,22.0
+Icterus bullockii_Bullock's Oriole,0.18550287,20.0,23.0
+Icterus spurius_Orchard Oriole,0.15607981,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.1905698,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14649804,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10086327,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.13000074,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.9967583,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.9973437,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.99872464,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.99569535,32.0,35.0
+Vireo philadelphicus_Philadelphia Vireo,0.6276263,33.0,35.25600907029479
+Geothlypis formosa_Kentucky Warbler,0.29815936,33.0,35.25600907029479
+Geothlypis philadelphia_Mourning Warbler,0.18814296,33.0,35.25600907029479
+Vireo olivaceus_Red-eyed Vireo,0.1830385,33.0,35.25600907029479
+Vireo chivi_Chivi Vireo,0.11412195,33.0,35.25600907029479

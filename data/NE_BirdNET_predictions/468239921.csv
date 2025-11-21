@@ -1,0 +1,112 @@
+species,score,start_time,end_time
+Engine_Engine,0.12185,1.0,4.0
+Buteo jamaicensis_Red-tailed Hawk,0.5560395,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.51628584,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.39059344,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.21213998,6.0,9.0
+Falco peregrinus_Peregrine Falcon,0.18857883,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.7280006,7.0,10.0
+Falco peregrinus_Peregrine Falcon,0.16301064,7.0,10.0
+Parabuteo unicinctus_Harris's Hawk,0.15235336,7.0,10.0
+Pandion haliaetus_Osprey,0.14477335,7.0,10.0
+Buteo jamaicensis_Red-tailed Hawk,0.74250954,9.0,12.0
+Pandion haliaetus_Osprey,0.25695702,9.0,12.0
+Haliaeetus leucocephalus_Bald Eagle,0.22047198,9.0,12.0
+Buteo jamaicensis_Red-tailed Hawk,0.88732386,10.0,13.0
+Haliaeetus leucocephalus_Bald Eagle,0.11844209,10.0,13.0
+Buteo jamaicensis_Red-tailed Hawk,0.7085836,11.0,14.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.113049656,11.0,14.0
+Buteo jamaicensis_Red-tailed Hawk,0.7610653,12.0,15.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.50906724,12.0,15.0
+Buteo jamaicensis_Red-tailed Hawk,0.81329256,13.0,16.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.10408184,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.91547817,14.0,17.0
+Buteo jamaicensis_Red-tailed Hawk,0.9360239,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.82458085,16.0,19.0
+Turdus falcklandii_Austral Thrush,0.15279572,27.0,30.0
+Emberiza spodocephala_Black-faced Bunting,0.11317839,34.0,37.0
+Myiarchus tuberculifer_Dusky-capped Flycatcher,0.34016067,39.0,42.0
+Myiotheretes striaticollis_Streak-throated Bush-Tyrant,0.2362484,39.0,42.0
+Contopus pertinax_Greater Pewee,0.14593016,39.0,42.0
+Buteo jamaicensis_Red-tailed Hawk,0.25065842,40.0,43.0
+Buteo jamaicensis_Red-tailed Hawk,0.39261025,41.0,44.0
+Galbula pastazae_Coppery-chested Jacamar,0.34440902,41.0,44.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.20435378,41.0,44.0
+Buteo jamaicensis_Red-tailed Hawk,0.40824395,42.0,45.0
+Galbula pastazae_Coppery-chested Jacamar,0.27486366,42.0,45.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.13612708,42.0,45.0
+Buteo jamaicensis_Red-tailed Hawk,0.65684223,43.0,46.0
+Galbula pastazae_Coppery-chested Jacamar,0.1774624,43.0,46.0
+Buteo jamaicensis_Red-tailed Hawk,0.3735193,44.0,47.0
+Parabuteo unicinctus_Harris's Hawk,0.17651708,44.0,47.0
+Buteo jamaicensis_Red-tailed Hawk,0.42896712,45.0,48.0
+Spizaetus isidori_Black-and-chestnut Eagle,0.114495635,45.0,48.0
+Buteo jamaicensis_Red-tailed Hawk,0.5667473,46.0,49.0
+Buteo jamaicensis_Red-tailed Hawk,0.7362625,47.0,50.0
+Buteo jamaicensis_Red-tailed Hawk,0.67029905,48.0,51.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.12653026,48.0,51.0
+Buteo jamaicensis_Red-tailed Hawk,0.3218381,49.0,52.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.13800977,49.0,52.0
+Batrachostomus septimus_Philippine Frogmouth,0.10410158,62.0,65.0
+Ocyceros birostris_Indian Gray Hornbill,0.16054592,64.0,67.0
+Thlypopsis pyrrhocoma_Chestnut-headed Tanager,0.11387866,73.0,76.0
+Melozone leucotis_White-eared Ground-Sparrow,0.112479046,79.0,82.0
+Atlapetes albinucha_White-naped Brushfinch,0.107954204,79.0,82.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.19566149,88.0,91.0
+Thlypopsis pyrrhocoma_Chestnut-headed Tanager,0.16537917,88.0,91.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.29568192,90.0,93.0
+Spizella passerina_Chipping Sparrow,0.14931087,90.0,93.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.41408604,91.0,94.0
+Melozone kieneri_Rusty-crowned Ground-Sparrow,0.12822194,91.0,94.0
+Turdus falcklandii_Austral Thrush,0.11621495,92.0,95.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.100663185,92.0,95.0
+Buteo platypterus_Broad-winged Hawk,0.48652145,94.0,97.0
+Buteo brachyurus_Short-tailed Hawk,0.14692721,95.0,98.0
+Hydroprogne caspia_Caspian Tern,0.11069873,95.0,98.0
+Buteo platypterus_Broad-winged Hawk,0.31484884,96.0,99.0
+Colorhamphus parvirostris_Patagonian Tyrant,0.10735449,96.0,99.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.14660293,97.0,100.0
+Buteo platypterus_Broad-winged Hawk,0.10533131,103.0,106.0
+Myadestes occidentalis_Brown-backed Solitaire,0.3061852,106.0,109.0
+Buteo platypterus_Broad-winged Hawk,0.19206963,107.0,110.0
+Spizella passerina_Chipping Sparrow,0.15530859,109.0,112.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.14876157,109.0,112.0
+Spizella passerina_Chipping Sparrow,0.23382668,110.0,113.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.10791281,110.0,113.0
+Spizella passerina_Chipping Sparrow,0.27740896,111.0,114.0
+Spizella passerina_Chipping Sparrow,0.10299218,112.0,115.0
+Spizaetus tyrannus_Black Hawk-Eagle,0.2569169,113.0,116.0
+Spizaetus tyrannus_Black Hawk-Eagle,0.20818497,114.0,117.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.14308372,117.0,120.0
+Turdus falcklandii_Austral Thrush,0.1372931,117.0,120.0
+Spizella passerina_Chipping Sparrow,0.10906338,119.0,122.0
+Spizella passerina_Chipping Sparrow,0.16171347,120.0,123.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.12181212,121.0,124.0
+Spizella passerina_Chipping Sparrow,0.118038565,121.0,124.0
+Thlypopsis pyrrhocoma_Chestnut-headed Tanager,0.15526845,122.0,125.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.11078112,122.0,125.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.13046503,123.0,126.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.19872269,139.0,142.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.13346818,143.0,146.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.22450462,144.0,147.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.14077975,145.0,148.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.116365366,146.0,149.0
+Melozone cabanisi_Cabanis's Ground-Sparrow,0.26183695,148.0,151.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.19974399,148.0,151.0
+Emberiza spodocephala_Black-faced Bunting,0.11510809,151.0,154.0
+Spizaetus tyrannus_Black Hawk-Eagle,0.20284131,153.0,156.0
+Buteo jamaicensis_Red-tailed Hawk,0.16772075,154.0,157.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.1475909,154.0,157.0
+Spizaetus ornatus_Ornate Hawk-Eagle,0.30047935,155.0,158.0
+Buteo jamaicensis_Red-tailed Hawk,0.16340053,156.0,159.0
+Burhinus oedicnemus_Eurasian Thick-knee,0.13942188,156.0,159.0
+Melozone leucotis_White-eared Ground-Sparrow,0.103099495,159.0,162.0
+Thlypopsis pyrrhocoma_Chestnut-headed Tanager,0.124575675,160.0,163.0
+Buteo jamaicensis_Red-tailed Hawk,0.116035506,163.0,166.0
+Buteo jamaicensis_Red-tailed Hawk,0.62343633,164.0,167.0
+Galbula pastazae_Coppery-chested Jacamar,0.11547376,164.0,167.0
+Parabuteo unicinctus_Harris's Hawk,0.10007446,164.0,167.0
+Buteo jamaicensis_Red-tailed Hawk,0.6587046,165.0,168.0
+Parabuteo unicinctus_Harris's Hawk,0.42934662,165.0,168.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.17008172,167.0,170.0
+Phylloscopus borealoides_Sakhalin Leaf Warbler,0.10838399,169.0,172.0

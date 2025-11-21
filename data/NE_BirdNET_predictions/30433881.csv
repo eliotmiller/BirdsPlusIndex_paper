@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Geothlypis formosa_Kentucky Warbler,0.109736726,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.10581681,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.14310022,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.2679981,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.13071999,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.2705417,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.23725204,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14567503,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.108559065,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.100724734,5.0,8.0
+Catharus fuscescens_Veery,0.22636884,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1452087,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20942137,7.0,10.0
+Catharus fuscescens_Veery,0.13016567,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19754532,8.0,11.0
+Catharus fuscescens_Veery,0.11769864,8.0,11.0
+Catharus fuscescens_Veery,0.37996083,9.0,12.0
+Catharus fuscescens_Veery,0.41236007,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.10434285,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.24042645,11.0,14.0
+Catharus fuscescens_Veery,0.15352607,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.17460255,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.37954357,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.11562795,13.0,16.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11473911,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.30470392,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.23551528,14.0,17.0
+Setophaga ruticilla_American Redstart,0.20307522,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17331241,14.0,17.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14167616,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.110648945,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.107634164,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10168444,15.0,18.0
+Catharus fuscescens_Veery,0.3077767,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13814762,17.0,20.0
+Catharus fuscescens_Veery,0.13609721,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.16416064,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.7502463,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.2470724,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10139491,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.4668123,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35955244,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.19005984,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.10054546,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.32681555,21.0,24.0
+Setophaga ruticilla_American Redstart,0.20024069,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.151766,21.0,24.0
+Catharus fuscescens_Veery,0.14464447,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.12136361,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.23675713,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.56067085,23.0,26.0
+Catharus fuscescens_Veery,0.3095655,23.0,26.0
+Catharus fuscescens_Veery,0.16005221,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.39427197,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.2212815,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13572437,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.17671123,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.13715766,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109239176,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.57122976,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15246993,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.12010734,27.0,30.0
+Empidonax virescens_Acadian Flycatcher,0.11059274,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.5120715,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.10155044,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.6044493,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.13899015,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.13359557,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.54004157,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.16342366,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.12274214,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10676951,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.7098437,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.16716358,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.29834673,32.0,34.82403628117914
+Helmitheros vermivorum_Worm-eating Warbler,0.10308741,32.0,34.82403628117914

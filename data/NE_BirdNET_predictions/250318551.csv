@@ -1,0 +1,112 @@
+species,score,start_time,end_time
+Setophaga magnolia_Magnolia Warbler,0.9981445,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.9984308,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.9735725,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.2796264,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.26026982,4.0,7.0
+Cyanocitta cristata_Blue Jay,0.17551315,5.0,8.0
+Setophaga magnolia_Magnolia Warbler,0.9763905,6.0,9.0
+Setophaga magnolia_Magnolia Warbler,0.9977754,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.9980324,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.98476243,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.116139896,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.10777142,10.0,13.0
+Accipiter striatus_Sharp-shinned Hawk,0.14105305,12.0,15.0
+Cyanocitta cristata_Blue Jay,0.101543024,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.9934947,14.0,17.0
+Setophaga magnolia_Magnolia Warbler,0.9980889,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.9962824,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.72597396,17.0,20.0
+Cardellina canadensis_Canada Warbler,0.32657436,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.17006597,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12981951,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.17705719,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.116320185,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.9917385,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.99865615,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.9982414,24.0,27.0
+Setophaga magnolia_Magnolia Warbler,0.23361252,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.15689784,25.0,28.0
+Setophaga coronata_Yellow-rumped Warbler,0.1458166,25.0,28.0
+Leiothlypis ruficapilla_Nashville Warbler,0.12740594,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.43734774,26.0,29.0
+Setophaga tigrina_Cape May Warbler,0.14164476,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.4062209,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.5536995,28.0,31.0
+Setophaga castanea_Bay-breasted Warbler,0.13758412,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.904659,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.9968555,30.0,33.0
+Setophaga magnolia_Magnolia Warbler,0.9975319,31.0,34.0
+Setophaga magnolia_Magnolia Warbler,0.99093175,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.91821736,33.0,36.0
+Setophaga castanea_Bay-breasted Warbler,0.25584304,33.0,36.0
+Setophaga castanea_Bay-breasted Warbler,0.30266932,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.20710304,34.0,37.0
+Setophaga tigrina_Cape May Warbler,0.15451166,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.99174553,37.0,40.0
+Setophaga magnolia_Magnolia Warbler,0.9983606,38.0,41.0
+Setophaga magnolia_Magnolia Warbler,0.9972748,39.0,42.0
+Setophaga magnolia_Magnolia Warbler,0.7134295,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.21668881,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.93561476,41.0,44.0
+Setophaga castanea_Bay-breasted Warbler,0.4714942,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.8275926,42.0,45.0
+Setophaga castanea_Bay-breasted Warbler,0.56747276,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.9188668,43.0,46.0
+Setophaga castanea_Bay-breasted Warbler,0.3033478,43.0,46.0
+Setophaga tigrina_Cape May Warbler,0.19553025,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12820347,44.0,47.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1137721,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.9516299,45.0,48.0
+Setophaga magnolia_Magnolia Warbler,0.9968278,46.0,49.0
+Setophaga magnolia_Magnolia Warbler,0.9971891,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.9823459,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12833558,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2631896,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13713057,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.12624495,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.99251443,53.0,56.0
+Setophaga magnolia_Magnolia Warbler,0.9965017,54.0,57.0
+Setophaga magnolia_Magnolia Warbler,0.9932288,55.0,58.0
+Setophaga magnolia_Magnolia Warbler,0.27952766,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17490076,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.17323184,57.0,60.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13341916,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.6832206,58.0,61.0
+Setophaga castanea_Bay-breasted Warbler,0.11058328,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.5371894,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10992855,59.0,62.0
+Setophaga tigrina_Cape May Warbler,0.105953775,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.6896284,60.0,63.0
+Setophaga ruticilla_American Redstart,0.13488641,60.0,63.0
+Setophaga magnolia_Magnolia Warbler,0.97972065,61.0,64.0
+Setophaga magnolia_Magnolia Warbler,0.99667466,62.0,65.0
+Setophaga magnolia_Magnolia Warbler,0.99429154,63.0,66.0
+Setophaga magnolia_Magnolia Warbler,0.99564123,70.0,73.0
+Setophaga magnolia_Magnolia Warbler,0.9985514,71.0,74.0
+Setophaga magnolia_Magnolia Warbler,0.9896717,72.0,75.0
+Setophaga magnolia_Magnolia Warbler,0.19216113,73.0,76.0
+Cardellina canadensis_Canada Warbler,0.13825272,73.0,76.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13642095,74.0,77.0
+Setophaga cerulea_Cerulean Warbler,0.47022432,75.0,78.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.26293966,75.0,78.0
+Setophaga ruticilla_American Redstart,0.13993792,75.0,78.0
+Vermivora chrysoptera_Golden-winged Warbler,0.111725345,75.0,78.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17169082,76.0,79.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11833054,77.0,80.0
+Perisoreus canadensis_Canada Jay,0.15777822,79.0,82.0
+Setophaga magnolia_Magnolia Warbler,0.9893873,81.0,84.0
+Setophaga magnolia_Magnolia Warbler,0.99656194,82.0,85.0
+Setophaga magnolia_Magnolia Warbler,0.98567176,83.0,86.0
+Setophaga magnolia_Magnolia Warbler,0.18542969,84.0,87.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15742715,85.0,88.0
+Oreortyx pictus_Mountain Quail,0.13313846,86.0,89.0
+Aythya collaris_Ring-necked Duck,0.10228643,86.0,89.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14984216,89.0,92.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12472096,90.0,93.0
+Contopus cooperi_Olive-sided Flycatcher,0.109225504,92.0,95.0
+Setophaga magnolia_Magnolia Warbler,0.99163884,99.0,102.0
+Setophaga magnolia_Magnolia Warbler,0.99492514,100.0,103.0
+Setophaga magnolia_Magnolia Warbler,0.9875338,101.0,104.0
+Setophaga magnolia_Magnolia Warbler,0.3230087,102.0,105.0
+Cardellina canadensis_Canada Warbler,0.14572744,102.0,105.0

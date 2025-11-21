@@ -1,0 +1,111 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.27226877,0.0,3.0
+Setophaga americana_Northern Parula,0.4055045,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.23101935,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20617047,1.0,4.0
+Setophaga americana_Northern Parula,0.9745813,2.0,5.0
+Setophaga americana_Northern Parula,0.9873334,3.0,6.0
+Setophaga americana_Northern Parula,0.95266396,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.76290715,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.8182574,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.666125,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.93793976,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8724108,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.23043033,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9278447,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.19588673,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.62747407,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41628718,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24708293,14.0,17.0
+Setophaga americana_Northern Parula,0.23054194,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.17791168,14.0,17.0
+Setophaga americana_Northern Parula,0.6611477,15.0,18.0
+Setophaga americana_Northern Parula,0.9825873,16.0,19.0
+Setophaga americana_Northern Parula,0.9576889,17.0,20.0
+Setophaga magnolia_Magnolia Warbler,0.7271451,18.0,21.0
+Setophaga ruticilla_American Redstart,0.23871034,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18243957,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.10301386,19.0,22.0
+Buteo platypterus_Broad-winged Hawk,0.41577026,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.41436455,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.8018336,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.89877915,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.88601995,23.0,26.0
+Troglodytes hiemalis_Winter Wren,0.9117714,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.5226627,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9416758,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.12152234,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.94598764,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9556556,28.0,31.0
+Setophaga americana_Northern Parula,0.6559337,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.116640665,29.0,32.0
+Setophaga americana_Northern Parula,0.9611576,30.0,33.0
+Setophaga americana_Northern Parula,0.9880625,31.0,34.0
+Setophaga americana_Northern Parula,0.93821937,32.0,35.0
+Setophaga magnolia_Magnolia Warbler,0.17914984,33.0,36.0
+Setophaga ruticilla_American Redstart,0.1751621,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.16285902,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.29972175,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.10501177,36.0,39.0
+Certhia americana_Brown Creeper,0.10697344,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.100513615,37.0,40.0
+Troglodytes hiemalis_Winter Wren,0.15407313,38.0,41.0
+Buteo platypterus_Broad-winged Hawk,0.14104128,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.102300964,38.0,41.0
+Troglodytes hiemalis_Winter Wren,0.7770236,39.0,42.0
+Troglodytes hiemalis_Winter Wren,0.485848,40.0,43.0
+Troglodytes hiemalis_Winter Wren,0.32799676,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16519871,41.0,44.0
+Setophaga americana_Northern Parula,0.4940167,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.22177741,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21384698,42.0,45.0
+Setophaga americana_Northern Parula,0.9900157,43.0,46.0
+Setophaga americana_Northern Parula,0.95166636,44.0,47.0
+Setophaga americana_Northern Parula,0.9446359,45.0,48.0
+Bombycilla cedrorum_Cedar Waxwing,0.14363298,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.1511252,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.11614427,48.0,51.0
+Setophaga magnolia_Magnolia Warbler,0.16839854,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.14913572,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.1418165,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.126754,50.0,53.0
+Buteo platypterus_Broad-winged Hawk,0.21154955,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.14770883,51.0,54.0
+Bombycilla cedrorum_Cedar Waxwing,0.165995,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.61679673,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7817026,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.12062379,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.88266665,56.0,59.0
+Setophaga cerulea_Cerulean Warbler,0.11826657,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7543261,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.26840714,57.0,60.0
+Setophaga americana_Northern Parula,0.16127113,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.14941642,57.0,60.0
+Setophaga americana_Northern Parula,0.5478043,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2979788,58.0,61.0
+Setophaga americana_Northern Parula,0.9648963,59.0,62.0
+Setophaga pitiayumi_Tropical Parula,0.3769379,59.0,62.0
+Setophaga americana_Northern Parula,0.96146876,60.0,63.0
+Setophaga americana_Northern Parula,0.9509953,61.0,64.0
+Setophaga ruticilla_American Redstart,0.2016943,61.0,64.0
+Setophaga magnolia_Magnolia Warbler,0.14813834,61.0,64.0
+Troglodytes hiemalis_Winter Wren,0.19736756,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39059803,71.0,74.0
+Setophaga americana_Northern Parula,0.61564296,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.14534691,72.0,75.0
+Setophaga americana_Northern Parula,0.9905466,73.0,76.0
+Setophaga americana_Northern Parula,0.96951026,74.0,77.0
+Setophaga americana_Northern Parula,0.9412208,75.0,78.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10705856,78.0,81.0
+Setophaga americana_Northern Parula,0.17007183,80.0,83.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10298058,80.0,83.0
+Setophaga americana_Northern Parula,0.21302412,81.0,84.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18750602,83.0,86.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20098451,84.0,87.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17815225,85.0,88.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19214326,86.0,89.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10062516,87.0,90.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11210906,88.0,91.0
+Tamiasciurus hudsonicus_Red Squirrel,0.31634364,89.0,92.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18588334,90.0,93.0
+Setophaga americana_Northern Parula,0.2743906,92.0,94.87201814058957

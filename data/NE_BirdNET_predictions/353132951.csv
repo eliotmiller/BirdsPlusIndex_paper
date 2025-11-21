@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.5140268,0.0,3.0
+Odontophorus columbianus_Venezuelan Wood-Quail,0.27874765,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.36864161,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.28851458,2.0,5.0
+Catharus fuscescens_Veery,0.15838812,2.0,5.0
+Myiarchus crinitus_Great Crested Flycatcher,0.5469987,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15032119,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.8738515,4.0,7.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2617487,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1367919,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.8461008,5.0,8.0
+Catharus fuscescens_Veery,0.3087932,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13635257,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.7268752,6.0,9.0
+Catharus fuscescens_Veery,0.23928241,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.5929945,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.7846708,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.7876414,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11287755,9.0,12.0
+Turdus falcklandii_Austral Thrush,0.111732796,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.86981463,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.72647333,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1005084,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.46461135,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.5432681,13.0,16.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2085301,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14624792,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.20824441,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1913569,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.13180088,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105883315,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.54052514,15.0,18.0
+Catharus fuscescens_Veery,0.16280884,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.14811464,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12479984,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10665209,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.6232599,16.0,19.0
+Catharus fuscescens_Veery,0.16563347,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.5411872,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.110091075,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.23163332,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.13182637,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105722345,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.31999072,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.115843154,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.11316995,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.76372147,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.75886625,21.0,24.0
+Catharus fuscescens_Veery,0.13073812,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.68723893,22.0,25.0
+Catharus fuscescens_Veery,0.20685147,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.7512023,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.92809016,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.91276,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10937884,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.65731454,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11176847,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.22719635,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.49425334,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.41983286,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.35297912,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.38071892,33.0,36.0
+Catharus fuscescens_Veery,0.21452992,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14398421,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.6319751,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13938488,34.0,37.0
+Catharus fuscescens_Veery,0.1381128,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.12570894,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.3623036,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.47269467,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12668028,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.2772982,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.24008636,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20275593,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10229711,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.23709401,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1727318,40.0,43.0
+Empidonax virescens_Acadian Flycatcher,0.101013556,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.14835723,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.15907376,42.0,44.61600907029479
+Pteruthius aeralatus_Blyth's Shrike-Babbler,0.14536041,42.0,44.61600907029479
