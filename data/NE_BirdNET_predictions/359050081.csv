@@ -1,0 +1,74 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.22065696,0.0,3.0
+Sialia sialis_Eastern Bluebird,0.19796741,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14996824,0.0,3.0
+Icterus spurius_Orchard Oriole,0.110176526,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.10821102,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.13636562,2.0,5.0
+Sialia sialis_Eastern Bluebird,0.122178935,2.0,5.0
+Melospiza melodia_Song Sparrow,0.8326733,3.0,6.0
+Melospiza melodia_Song Sparrow,0.90803915,4.0,7.0
+Melospiza melodia_Song Sparrow,0.938897,5.0,8.0
+Melospiza melodia_Song Sparrow,0.90748924,6.0,9.0
+Thryomanes bewickii_Bewick's Wren,0.27725023,6.0,9.0
+Melospiza melodia_Song Sparrow,0.60300505,7.0,10.0
+Thryomanes bewickii_Bewick's Wren,0.22585824,7.0,10.0
+Thryomanes bewickii_Bewick's Wren,0.15829854,8.0,11.0
+Tyrannus verticalis_Western Kingbird,0.16973327,14.0,17.0
+Spiza americana_Dickcissel,0.15392527,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.1322516,15.0,18.0
+Spiza americana_Dickcissel,0.110222936,16.0,19.0
+Amphispiza bilineata_Black-throated Sparrow,0.35997766,20.0,23.0
+Melospiza melodia_Song Sparrow,0.85918385,21.0,24.0
+Melospiza melodia_Song Sparrow,0.94073254,22.0,25.0
+Melospiza melodia_Song Sparrow,0.3301953,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.17863584,24.0,27.0
+Melospiza melodia_Song Sparrow,0.1221014,24.0,27.0
+Podilymbus podiceps_Pied-billed Grebe,0.13722181,29.0,32.0
+Selasphorus platycercus_Broad-tailed Hummingbird,0.12177768,40.0,43.0
+Tyrannus verticalis_Western Kingbird,0.19242752,43.0,46.0
+Melospiza melodia_Song Sparrow,0.9478472,49.0,52.0
+Melospiza melodia_Song Sparrow,0.9416238,50.0,53.0
+Melospiza melodia_Song Sparrow,0.9837323,51.0,54.0
+Melospiza melodia_Song Sparrow,0.59520984,52.0,55.0
+Melospiza melodia_Song Sparrow,0.62351257,53.0,56.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.18190145,56.0,59.0
+Selasphorus platycercus_Broad-tailed Hummingbird,0.26432207,62.0,65.0
+Melospiza melodia_Song Sparrow,0.12606551,62.0,65.0
+Melospiza melodia_Song Sparrow,0.12262943,63.0,66.0
+Melospiza melodia_Song Sparrow,0.15989931,64.0,67.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.21310017,69.0,72.0
+Tyrannus verticalis_Western Kingbird,0.1540676,70.0,73.0
+Icterus bullockii_Bullock's Oriole,0.15017283,71.0,74.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.10623472,71.0,74.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.12797141,72.0,75.0
+Sialia sialis_Eastern Bluebird,0.14888495,75.0,78.0
+Melospiza melodia_Song Sparrow,0.9360756,76.0,79.0
+Melospiza melodia_Song Sparrow,0.9613667,77.0,80.0
+Melospiza melodia_Song Sparrow,0.9163509,78.0,81.0
+Melospiza melodia_Song Sparrow,0.515162,79.0,82.0
+Molothrus ater_Brown-headed Cowbird,0.44099793,80.0,83.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.13427424,92.0,95.0
+Anas poecilorhyncha_Indian Spot-billed Duck,0.26175964,93.0,96.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.13877468,95.0,98.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.58294564,96.0,99.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.23401515,97.0,100.0
+Spizella breweri_Brewer's Sparrow,0.12185236,98.0,101.0
+Melospiza melodia_Song Sparrow,0.1486556,99.0,102.0
+Melospiza melodia_Song Sparrow,0.14358869,100.0,103.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15752074,103.0,106.0
+Melospiza melodia_Song Sparrow,0.22920385,105.0,108.0
+Melospiza melodia_Song Sparrow,0.1250743,106.0,109.0
+Melospiza melodia_Song Sparrow,0.30798614,108.0,111.0
+Amphispiza bilineata_Black-throated Sparrow,0.19904363,108.0,111.0
+Melospiza melodia_Song Sparrow,0.9498158,109.0,112.0
+Melospiza melodia_Song Sparrow,0.9560009,110.0,113.0
+Melospiza melodia_Song Sparrow,0.9277969,111.0,114.0
+Melospiza melodia_Song Sparrow,0.64826673,112.0,115.0
+Spizella passerina_Chipping Sparrow,0.3945226,113.0,116.0
+Melospiza melodia_Song Sparrow,0.1606239,113.0,116.0
+Melospiza georgiana_Swamp Sparrow,0.1906484,116.0,119.0
+Melospiza georgiana_Swamp Sparrow,0.11182914,117.0,120.0
+Melospiza georgiana_Swamp Sparrow,0.21817076,119.0,122.0
+Pterodroma phaeopygia_Galapagos Petrel,0.29812714,125.0,128.0
+Ammospiza caudacuta_Saltmarsh Sparrow,0.14691705,125.0,128.0

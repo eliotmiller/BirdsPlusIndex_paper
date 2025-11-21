@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.23621096,0.0,3.0
+Passerculus sandwichensis_Savannah Sparrow,0.15800467,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14996657,0.0,3.0
+Melospiza melodia_Song Sparrow,0.59927595,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.1233555,1.0,4.0
+Melospiza melodia_Song Sparrow,0.87278193,2.0,5.0
+Melospiza melodia_Song Sparrow,0.83802086,3.0,6.0
+Melospiza melodia_Song Sparrow,0.6024479,4.0,7.0
+Passerculus sandwichensis_Savannah Sparrow,0.2155551,5.0,8.0
+Centronyx henslowii_Henslow's Sparrow,0.14781585,5.0,8.0
+Empidonax traillii_Willow Flycatcher,0.10057157,8.0,11.0
+Empidonax traillii_Willow Flycatcher,0.1441839,9.0,12.0
+Ixobrychus exilis_Least Bittern,0.12801257,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.589023,12.0,15.0
+Melospiza melodia_Song Sparrow,0.43057275,12.0,15.0
+Melospiza melodia_Song Sparrow,0.6422186,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.10138751,13.0,16.0
+Melospiza melodia_Song Sparrow,0.57636845,14.0,17.0
+Melospiza melodia_Song Sparrow,0.44247964,15.0,18.0
+Spizella pallida_Clay-colored Sparrow,0.18606183,15.0,18.0
+Spizella pusilla_Field Sparrow,0.86744463,16.0,19.0
+Spizella pallida_Clay-colored Sparrow,0.15447362,16.0,19.0
+Empidonax traillii_Willow Flycatcher,0.16404788,17.0,20.0
+Geothlypis trichas_Common Yellowthroat,0.11121728,17.0,20.0
+Geothlypis trichas_Common Yellowthroat,0.12633441,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.12917821,19.0,22.0
+Ixobrychus exilis_Least Bittern,0.12605993,19.0,22.0
+Empidonax traillii_Willow Flycatcher,0.11161154,19.0,22.0
+Geothlypis trichas_Common Yellowthroat,0.20541556,20.0,23.0
+Melospiza melodia_Song Sparrow,0.31659096,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.19737251,22.0,25.0
+Melospiza melodia_Song Sparrow,0.83276725,23.0,26.0
+Melospiza melodia_Song Sparrow,0.62268066,24.0,27.0
+Melospiza melodia_Song Sparrow,0.3507468,25.0,28.0
+Ammospiza maritima_Seaside Sparrow,0.10556531,25.0,28.0
+Ammospiza maritima_Seaside Sparrow,0.13785939,26.0,29.0
+Ixobrychus exilis_Least Bittern,0.17336223,27.0,30.0
+Empidonax traillii_Willow Flycatcher,0.11733668,28.0,31.0
+Geothlypis trichas_Common Yellowthroat,0.10222968,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.610708,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.24927671,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.11142005,31.0,34.0
+Geothlypis trichas_Common Yellowthroat,0.4063352,32.0,35.0
+Ixobrychus exilis_Least Bittern,0.12387904,32.0,35.0
+Sturnella magna_Eastern Meadowlark,0.104547136,32.0,35.0
+Spizella pallida_Clay-colored Sparrow,0.14660889,33.0,36.0
+Ixobrychus exilis_Least Bittern,0.104443006,33.0,36.0
+Geothlypis trichas_Common Yellowthroat,0.14577594,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.13311437,34.0,37.0
+Spizella pallida_Clay-colored Sparrow,0.10555341,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.11984268,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.33029056,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.58159614,37.0,40.0
+Melospiza melodia_Song Sparrow,0.32589543,37.0,40.0
+Melospiza melodia_Song Sparrow,0.67930096,38.0,41.0
+Melospiza melodia_Song Sparrow,0.7910103,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.73538816,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.99730104,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.9982835,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.99302846,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.7226614,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.63768846,45.0,48.0
+Spiza americana_Dickcissel,0.15175349,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.54085255,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.9111825,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.8372201,48.0,51.0
+Melospiza melodia_Song Sparrow,0.74992895,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.16015181,49.0,52.0
+Melospiza melodia_Song Sparrow,0.7909844,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.12267186,50.0,53.0
+Melospiza melodia_Song Sparrow,0.4418872,51.0,54.0
+Dolichonyx oryzivorus_Bobolink,0.27501538,51.0,54.0
+Dolichonyx oryzivorus_Bobolink,0.5722307,52.0,55.0
+Dolichonyx oryzivorus_Bobolink,0.89986277,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.943313,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.97366524,55.0,58.0
+Dolichonyx oryzivorus_Bobolink,0.99264246,56.0,59.0
+Dolichonyx oryzivorus_Bobolink,0.99593973,57.0,60.0
+Dolichonyx oryzivorus_Bobolink,0.9612992,58.0,60.81600907029478

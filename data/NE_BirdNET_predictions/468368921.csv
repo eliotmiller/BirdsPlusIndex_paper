@@ -1,0 +1,74 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.40177226,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.31988856,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.16259003,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.15968898,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.16846131,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.11658134,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.10534398,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12729257,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.11909648,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.10649148,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.13691841,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.17685628,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.19152446,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.17998034,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.21004541,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.13948266,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.29596105,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.1521847,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.20238553,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.20523693,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.12146522,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.10001094,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.12213725,18.0,21.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.24015373,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.11227546,21.0,24.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.102418095,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12729286,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.10050715,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.100537956,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.12343463,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.10825594,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21497354,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.107827336,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20048039,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2474737,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.10130909,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.14908512,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13421267,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.10935529,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124836884,31.0,34.0
+Contopus virens_Eastern Wood-Pewee,0.11103918,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.116392955,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10619414,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.21463542,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.103990436,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.17001417,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.10528849,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.11138864,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.14780588,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.11249886,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1098902,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17299004,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.11725893,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.102488406,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.124956354,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.18093579,43.0,46.0
+Empidonax virescens_Acadian Flycatcher,0.13093333,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12709276,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14618605,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.10563884,50.0,53.0
+Vireo olivaceus_Red-eyed Vireo,0.13372903,58.0,61.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.19932663,59.0,62.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11569991,60.0,63.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.30324903,61.0,64.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.27378055,62.0,65.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13079967,64.0,67.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.32611343,65.0,68.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.49559996,66.0,69.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.28596482,67.0,70.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13404593,68.0,71.0
+Buteo platypterus_Broad-winged Hawk,0.11719416,68.0,71.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10560724,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.10302324,69.0,72.0

@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.99819285,0.0,3.0
+Catharus fuscescens_Veery,0.97765803,1.0,4.0
+Catharus fuscescens_Veery,0.61514044,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.26564306,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.8071971,3.0,6.0
+Cardinalis cardinalis_Northern Cardinal,0.17722197,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.14695698,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.12857838,3.0,6.0
+Picus viridis_Eurasian Green Woodpecker,0.11128928,4.0,7.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11120413,4.0,7.0
+Catharus fuscescens_Veery,0.69639105,5.0,8.0
+Catharus fuscescens_Veery,0.9740974,6.0,9.0
+Catharus fuscescens_Veery,0.9775798,7.0,10.0
+Catharus fuscescens_Veery,0.97017497,8.0,11.0
+Catharus fuscescens_Veery,0.40711442,9.0,12.0
+Catharus fuscescens_Veery,0.18312494,12.0,15.0
+Catharus fuscescens_Veery,0.9441341,13.0,16.0
+Catharus fuscescens_Veery,0.97155344,14.0,17.0
+Catharus minimus_Gray-cheeked Thrush,0.17386267,14.0,17.0
+Catharus fuscescens_Veery,0.9853844,15.0,18.0
+Catharus fuscescens_Veery,0.9855058,16.0,19.0
+Catharus fuscescens_Veery,0.775762,17.0,20.0
+Catharus fuscescens_Veery,0.91324717,18.0,21.0
+Catharus fuscescens_Veery,0.99315333,19.0,22.0
+Catharus fuscescens_Veery,0.9639435,20.0,23.0
+Catharus fuscescens_Veery,0.9496482,21.0,24.0
+Catharus fuscescens_Veery,0.49590376,23.0,26.0
+Catharus fuscescens_Veery,0.71002644,24.0,27.0
+Catharus fuscescens_Veery,0.9484409,25.0,28.0
+Catharus fuscescens_Veery,0.7284975,27.0,30.0
+Catharus fuscescens_Veery,0.97973126,28.0,31.0
+Catharus fuscescens_Veery,0.9835243,29.0,32.0
+Catharus fuscescens_Veery,0.9773023,30.0,33.0
+Catharus fuscescens_Veery,0.7583764,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.10755878,31.0,34.0
+Catharus fuscescens_Veery,0.7207585,32.0,35.0
+Catharus fuscescens_Veery,0.93181336,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.63003975,34.0,37.0
+Catharus fuscescens_Veery,0.60973144,34.0,37.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10550199,34.0,37.0
+Catharus fuscescens_Veery,0.9856353,35.0,38.0
+Catharus fuscescens_Veery,0.98915327,36.0,39.0
+Catharus fuscescens_Veery,0.9948881,37.0,40.0
+Catharus fuscescens_Veery,0.9921793,38.0,41.0
+Catharus fuscescens_Veery,0.3345884,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.15744272,39.0,42.0
+Catharus fuscescens_Veery,0.14636262,40.0,43.0
+Dumetella carolinensis_Gray Catbird,0.4607915,41.0,44.0
+Catharus fuscescens_Veery,0.73278755,43.0,46.0
+Catharus ustulatus_Swainson's Thrush,0.17088498,43.0,46.0
+Catharus fuscescens_Veery,0.99904305,44.0,47.0
+Catharus fuscescens_Veery,0.9951756,45.0,48.0
+Catharus fuscescens_Veery,0.9828488,46.0,49.0
+Catharus fuscescens_Veery,0.95343584,47.0,50.0
+Catharus guttatus_Hermit Thrush,0.14938322,48.0,51.0
+Catharus ustulatus_Swainson's Thrush,0.14631575,48.0,51.0
+Catharus fuscescens_Veery,0.59920645,49.0,52.0
+Catharus fuscescens_Veery,0.9916436,50.0,53.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13333914,50.0,53.0
+Catharus fuscescens_Veery,0.989711,51.0,54.0
+Catharus fuscescens_Veery,0.9903094,52.0,55.0
+Catharus fuscescens_Veery,0.8587746,53.0,56.0
+Catharus minimus_Gray-cheeked Thrush,0.40151274,53.0,56.0
+Catharus ustulatus_Swainson's Thrush,0.1525909,54.0,57.0
+Catharus fuscescens_Veery,0.1595048,55.0,58.0
+Catharus ustulatus_Swainson's Thrush,0.104346074,55.0,58.0
+Catharus ustulatus_Swainson's Thrush,0.24641584,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.12843233,56.0,59.0
+Catharus ustulatus_Swainson's Thrush,0.106938004,57.0,60.0
+Catharus fuscescens_Veery,0.33688268,62.0,65.0
+Catharus ustulatus_Swainson's Thrush,0.20448238,62.0,65.0
+Catharus bicknelli_Bicknell's Thrush,0.14109337,62.0,65.0
+Catharus fuscescens_Veery,0.8996955,63.0,66.0
+Catharus ustulatus_Swainson's Thrush,0.15306857,63.0,66.0
+Catharus fuscescens_Veery,0.99913317,64.0,67.0
+Catharus fuscescens_Veery,0.9963355,65.0,68.0
+Catharus fuscescens_Veery,0.9537616,66.0,69.0

@@ -1,0 +1,32 @@
+species,score,start_time,end_time
+Larus delawarensis_Ring-billed Gull,0.10328424,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.15294519,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.27441627,4.0,7.0
+Parabuteo unicinctus_Harris's Hawk,0.116447054,4.0,7.0
+Parabuteo unicinctus_Harris's Hawk,0.11006268,5.0,8.0
+Parabuteo unicinctus_Harris's Hawk,0.20297702,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.12469177,6.0,9.0
+Parabuteo unicinctus_Harris's Hawk,0.1284269,7.0,10.0
+Buteo jamaicensis_Red-tailed Hawk,0.11828204,7.0,10.0
+Engine_Engine,0.14190772,9.0,12.0
+Engine_Engine,0.100990646,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.20517816,14.0,17.0
+Sitta canadensis_Red-breasted Nuthatch,0.27968034,16.0,19.0
+Sitta carolinensis_White-breasted Nuthatch,0.14183968,16.0,19.0
+Engine_Engine,0.115793124,18.0,21.0
+Engine_Engine,0.10578228,19.0,22.0
+Pandion haliaetus_Osprey,0.54037404,21.0,24.0
+Buteo jamaicensis_Red-tailed Hawk,0.37715122,21.0,24.0
+Parabuteo unicinctus_Harris's Hawk,0.19810545,21.0,24.0
+Haliaeetus leucocephalus_Bald Eagle,0.14390662,21.0,24.0
+Pandion haliaetus_Osprey,0.27919957,22.0,25.0
+Haliaeetus leucocephalus_Bald Eagle,0.1771616,22.0,25.0
+Buteo jamaicensis_Red-tailed Hawk,0.14955121,22.0,25.0
+Buteo jamaicensis_Red-tailed Hawk,0.7032164,23.0,26.0
+Pandion haliaetus_Osprey,0.18180104,23.0,26.0
+Buteo swainsoni_Swainson's Hawk,0.117885396,23.0,26.0
+Buteo jamaicensis_Red-tailed Hawk,0.69695413,24.0,27.0
+Pandion haliaetus_Osprey,0.22634837,24.0,27.0
+Buteo swainsoni_Swainson's Hawk,0.19278434,24.0,27.0
+Pluvialis fulva_Pacific Golden-Plover,0.12240962,25.0,28.0
+Pandion haliaetus_Osprey,0.11645061,26.0,28.008027210884354

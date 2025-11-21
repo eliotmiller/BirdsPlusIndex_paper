@@ -1,0 +1,414 @@
+species,score,start_time,end_time
+Sialia sialis_Eastern Bluebird,0.8039616,0.0,3.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6278815,0.0,3.0
+Centronyx henslowii_Henslow's Sparrow,0.11052317,0.0,3.0
+Passerina caerulea_Blue Grosbeak,0.9865628,1.0,4.0
+Passerina caerulea_Blue Grosbeak,0.9989618,2.0,5.0
+Passerina caerulea_Blue Grosbeak,0.997747,3.0,6.0
+Passerina caerulea_Blue Grosbeak,0.9951426,4.0,7.0
+Passerina caerulea_Blue Grosbeak,0.96994656,5.0,8.0
+Passerina caerulea_Blue Grosbeak,0.61392874,6.0,9.0
+Haemorhous cassinii_Cassin's Finch,0.15680563,6.0,9.0
+Haemorhous purpureus_Purple Finch,0.14012256,6.0,9.0
+Ammodramus savannarum_Grasshopper Sparrow,0.67391115,7.0,10.0
+Spizella pusilla_Field Sparrow,0.1489425,7.0,10.0
+Ammodramus savannarum_Grasshopper Sparrow,0.69470215,8.0,11.0
+Spizella pusilla_Field Sparrow,0.7456323,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21294062,9.0,12.0
+Lullula arborea_Wood Lark,0.17260173,9.0,12.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20988159,10.0,13.0
+Passerina caerulea_Blue Grosbeak,0.65604913,11.0,14.0
+Geothlypis semiflava_Olive-crowned Yellowthroat,0.15373072,11.0,14.0
+Passerina caerulea_Blue Grosbeak,0.9992086,12.0,15.0
+Passerina caerulea_Blue Grosbeak,0.99947447,13.0,16.0
+Passerina caerulea_Blue Grosbeak,0.9987649,14.0,17.0
+Passerina caerulea_Blue Grosbeak,0.99189734,15.0,18.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.12816007,15.0,18.0
+Passerina caerulea_Blue Grosbeak,0.17249931,16.0,19.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16845097,16.0,19.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2114033,17.0,20.0
+Passerina caerulea_Blue Grosbeak,0.34757394,18.0,21.0
+Passerina caerulea_Blue Grosbeak,0.99437755,19.0,22.0
+Passerina caerulea_Blue Grosbeak,0.97753143,20.0,23.0
+Passerina caerulea_Blue Grosbeak,0.99028367,21.0,24.0
+Passerina caerulea_Blue Grosbeak,0.8966907,22.0,25.0
+Passerina caerulea_Blue Grosbeak,0.50787085,23.0,26.0
+Vireo bellii_Bell's Vireo,0.29933318,23.0,26.0
+Centronyx henslowii_Henslow's Sparrow,0.38458407,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.30128366,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.37817425,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.317279,26.0,29.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21572194,27.0,30.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12761468,28.0,31.0
+Dendrocygna viduata_White-faced Whistling-Duck,0.12062572,29.0,32.0
+Passerina caerulea_Blue Grosbeak,0.9964658,30.0,33.0
+Passerina caerulea_Blue Grosbeak,0.99770194,31.0,34.0
+Passerina caerulea_Blue Grosbeak,0.9983771,32.0,35.0
+Passerina caerulea_Blue Grosbeak,0.98987776,33.0,36.0
+Passerina caerulea_Blue Grosbeak,0.991666,34.0,37.0
+Passerina caerulea_Blue Grosbeak,0.4361037,35.0,38.0
+Sialia sialis_Eastern Bluebird,0.2921166,35.0,38.0
+Sialia sialis_Eastern Bluebird,0.9543662,36.0,39.0
+Sialia sialis_Eastern Bluebird,0.9862207,37.0,40.0
+Ammodramus savannarum_Grasshopper Sparrow,0.39432937,38.0,41.0
+Sialia sialis_Eastern Bluebird,0.3634124,38.0,41.0
+Centronyx henslowii_Henslow's Sparrow,0.10773875,38.0,41.0
+Sialia sialis_Eastern Bluebird,0.23868057,39.0,42.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15691368,39.0,42.0
+Sialia sialis_Eastern Bluebird,0.88882035,40.0,43.0
+Sialia sialis_Eastern Bluebird,0.84440637,41.0,44.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15957856,41.0,44.0
+Sialia sialis_Eastern Bluebird,0.77987766,42.0,45.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14221403,42.0,45.0
+Passerina caerulea_Blue Grosbeak,0.59406644,44.0,47.0
+Passerina caerulea_Blue Grosbeak,0.999305,45.0,48.0
+Passerina caerulea_Blue Grosbeak,0.9984793,46.0,49.0
+Passerina caerulea_Blue Grosbeak,0.9987863,47.0,50.0
+Passerina caerulea_Blue Grosbeak,0.99619764,48.0,51.0
+Passerina caerulea_Blue Grosbeak,0.942009,49.0,52.0
+Peucaea cassinii_Cassin's Sparrow,0.10029618,50.0,53.0
+Spizella pusilla_Field Sparrow,0.9343873,52.0,55.0
+Colinus virginianus_Northern Bobwhite,0.10861569,52.0,55.0
+Spizella pusilla_Field Sparrow,0.93249226,53.0,56.0
+Colinus virginianus_Northern Bobwhite,0.15451416,53.0,56.0
+Passerina caerulea_Blue Grosbeak,0.99366874,54.0,57.0
+Passerina caerulea_Blue Grosbeak,0.9987669,55.0,58.0
+Passerina caerulea_Blue Grosbeak,0.9988795,56.0,59.0
+Passerina caerulea_Blue Grosbeak,0.99492824,57.0,60.0
+Passerina caerulea_Blue Grosbeak,0.99286485,58.0,61.0
+Spizella pusilla_Field Sparrow,0.77238816,59.0,62.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27314153,60.0,63.0
+Centronyx bairdii_Baird's Sparrow,0.45673466,63.0,66.0
+Passerina caerulea_Blue Grosbeak,0.58494353,64.0,67.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21799949,64.0,67.0
+Passerina caerulea_Blue Grosbeak,0.99322295,65.0,68.0
+Passerina caerulea_Blue Grosbeak,0.99546,66.0,69.0
+Passerina caerulea_Blue Grosbeak,0.9947207,67.0,70.0
+Passerina caerulea_Blue Grosbeak,0.91655385,68.0,71.0
+Passerina caerulea_Blue Grosbeak,0.9552279,69.0,72.0
+Icterus spurius_Orchard Oriole,0.100008756,69.0,72.0
+Lullula arborea_Wood Lark,0.44617748,70.0,73.0
+Spizella pusilla_Field Sparrow,0.37216598,70.0,73.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11991081,70.0,73.0
+Ammodramus savannarum_Grasshopper Sparrow,0.7399817,71.0,74.0
+Spizella pusilla_Field Sparrow,0.3394506,71.0,74.0
+Ammodramus savannarum_Grasshopper Sparrow,0.5220245,72.0,75.0
+Passerina caerulea_Blue Grosbeak,0.96811956,73.0,76.0
+Passerina caerulea_Blue Grosbeak,0.9922552,74.0,77.0
+Passerina caerulea_Blue Grosbeak,0.99786323,75.0,78.0
+Passerina caerulea_Blue Grosbeak,0.9971207,76.0,79.0
+Passerina caerulea_Blue Grosbeak,0.8962366,77.0,80.0
+Passerina caerulea_Blue Grosbeak,0.9548844,78.0,81.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2902482,79.0,82.0
+Spizella pusilla_Field Sparrow,0.44599777,80.0,83.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15029293,80.0,83.0
+Passerina caerulea_Blue Grosbeak,0.99770856,81.0,84.0
+Passerina caerulea_Blue Grosbeak,0.99823284,82.0,85.0
+Passerina caerulea_Blue Grosbeak,0.99905616,83.0,86.0
+Passerina caerulea_Blue Grosbeak,0.98949194,84.0,87.0
+Passerina caerulea_Blue Grosbeak,0.9500878,85.0,88.0
+Sialia sialis_Eastern Bluebird,0.3074181,88.0,91.0
+Sialia sialis_Eastern Bluebird,0.49309295,89.0,92.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22598937,89.0,92.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25743484,90.0,93.0
+Sialia sialis_Eastern Bluebird,0.19104715,90.0,93.0
+Ammodramus savannarum_Grasshopper Sparrow,0.46463346,91.0,94.0
+Centronyx bairdii_Baird's Sparrow,0.10776011,91.0,94.0
+Passerina caerulea_Blue Grosbeak,0.970922,92.0,95.0
+Passerina caerulea_Blue Grosbeak,0.99887174,93.0,96.0
+Passerina caerulea_Blue Grosbeak,0.992661,94.0,97.0
+Passerina caerulea_Blue Grosbeak,0.9963231,95.0,98.0
+Passerina caerulea_Blue Grosbeak,0.86053944,96.0,99.0
+Passerina caerulea_Blue Grosbeak,0.7658577,97.0,100.0
+Spizella pusilla_Field Sparrow,0.14943908,98.0,101.0
+Spizella pusilla_Field Sparrow,0.103833295,99.0,102.0
+Spizella pusilla_Field Sparrow,0.23850548,100.0,103.0
+Spizella pusilla_Field Sparrow,0.5314062,101.0,104.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15524527,101.0,104.0
+Passerina caerulea_Blue Grosbeak,0.98103607,102.0,105.0
+Passerina caerulea_Blue Grosbeak,0.9985342,103.0,106.0
+Passerina caerulea_Blue Grosbeak,0.99891615,104.0,107.0
+Passerina caerulea_Blue Grosbeak,0.994189,105.0,108.0
+Passerina caerulea_Blue Grosbeak,0.97679263,106.0,109.0
+Passerina caerulea_Blue Grosbeak,0.38546768,107.0,110.0
+Sialia sialis_Eastern Bluebird,0.97948784,108.0,111.0
+Spizella pusilla_Field Sparrow,0.18660304,109.0,112.0
+Tringa semipalmata_Willet,0.13141182,109.0,112.0
+Spizella pusilla_Field Sparrow,0.274383,110.0,113.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19085158,110.0,113.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2763688,111.0,114.0
+Ammodramus savannarum_Grasshopper Sparrow,0.29590896,112.0,115.0
+Passerina caerulea_Blue Grosbeak,0.99565303,113.0,116.0
+Passerina caerulea_Blue Grosbeak,0.9997869,114.0,117.0
+Passerina caerulea_Blue Grosbeak,0.9991703,115.0,118.0
+Passerina caerulea_Blue Grosbeak,0.9902631,116.0,119.0
+Passerina caerulea_Blue Grosbeak,0.9818978,117.0,120.0
+Lullula arborea_Wood Lark,0.4686853,118.0,121.0
+Passerina caerulea_Blue Grosbeak,0.10160002,118.0,121.0
+Spizella pusilla_Field Sparrow,0.16766757,119.0,122.0
+Spizella pusilla_Field Sparrow,0.40012294,120.0,123.0
+Spizella pusilla_Field Sparrow,0.44494316,121.0,124.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21560755,121.0,124.0
+Passerina caerulea_Blue Grosbeak,0.17913552,122.0,125.0
+Passerina caerulea_Blue Grosbeak,0.999151,123.0,126.0
+Passerina caerulea_Blue Grosbeak,0.9901826,124.0,127.0
+Passerina caerulea_Blue Grosbeak,0.9851435,125.0,128.0
+Passerina caerulea_Blue Grosbeak,0.9892274,126.0,129.0
+Passerina caerulea_Blue Grosbeak,0.9819016,127.0,130.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17451595,128.0,131.0
+Passerina cyanea_Indigo Bunting,0.14745857,133.0,136.0
+Passerina cyanea_Indigo Bunting,0.21603416,134.0,137.0
+Passerina cyanea_Indigo Bunting,0.14707553,135.0,138.0
+Passerina cyanea_Indigo Bunting,0.38781315,136.0,139.0
+Passerina cyanea_Indigo Bunting,0.28117448,140.0,143.0
+Passerina cyanea_Indigo Bunting,0.39150557,141.0,144.0
+Passerina cyanea_Indigo Bunting,0.391509,142.0,145.0
+Passerina cyanea_Indigo Bunting,0.26193312,143.0,146.0
+Gryllus fultoni_Southern Wood Cricket,0.4410009,145.0,148.0
+Gryllus fultoni_Southern Wood Cricket,0.14977397,146.0,149.0
+Gryllus fultoni_Southern Wood Cricket,0.12035612,147.0,150.0
+Gryllus rubens_Southeastern Field Cricket,0.11504196,147.0,150.0
+Passerina cyanea_Indigo Bunting,0.10330517,149.0,152.0
+Passerina cyanea_Indigo Bunting,0.35183728,150.0,153.0
+Passerina cyanea_Indigo Bunting,0.3873223,151.0,154.0
+Passerina cyanea_Indigo Bunting,0.11815758,152.0,155.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12270838,155.0,158.0
+Ammodramus savannarum_Grasshopper Sparrow,0.106563725,156.0,159.0
+Gryllus fultoni_Southern Wood Cricket,0.18713173,159.0,162.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.11075172,160.0,163.0
+Gryllus fultoni_Southern Wood Cricket,0.19833557,161.0,164.0
+Gryllus fultoni_Southern Wood Cricket,0.42386186,162.0,165.0
+Gryllus fultoni_Southern Wood Cricket,0.22686413,163.0,166.0
+Gryllus rubens_Southeastern Field Cricket,0.18411343,163.0,166.0
+Gryllus fultoni_Southern Wood Cricket,0.22099273,164.0,167.0
+Gryllus rubens_Southeastern Field Cricket,0.13414991,164.0,167.0
+Gryllus fultoni_Southern Wood Cricket,0.13897675,165.0,168.0
+Passerina cyanea_Indigo Bunting,0.3089294,166.0,169.0
+Passerina cyanea_Indigo Bunting,0.2816312,167.0,170.0
+Passerina cyanea_Indigo Bunting,0.105386205,168.0,171.0
+Passerina cyanea_Indigo Bunting,0.15989162,169.0,172.0
+Gryllus fultoni_Southern Wood Cricket,0.14806388,171.0,174.0
+Gryllus fultoni_Southern Wood Cricket,0.4949042,172.0,175.0
+Gryllus rubens_Southeastern Field Cricket,0.18196397,172.0,175.0
+Gryllus fultoni_Southern Wood Cricket,0.16040143,173.0,176.0
+Gryllus rubens_Southeastern Field Cricket,0.47090656,174.0,177.0
+Gryllus fultoni_Southern Wood Cricket,0.19912188,174.0,177.0
+Passerina cyanea_Indigo Bunting,0.1566234,175.0,178.0
+Passerina cyanea_Indigo Bunting,0.14177354,176.0,179.0
+Passerina cyanea_Indigo Bunting,0.20814313,177.0,180.0
+Passerina ciris_Painted Bunting,0.10848054,178.0,181.0
+Passerina caerulea_Blue Grosbeak,0.9975159,180.0,183.0
+Passerina caerulea_Blue Grosbeak,0.9968779,181.0,184.0
+Passerina caerulea_Blue Grosbeak,0.9990897,182.0,185.0
+Passerina caerulea_Blue Grosbeak,0.9901924,183.0,186.0
+Passerina caerulea_Blue Grosbeak,0.9872481,184.0,187.0
+Passerina caerulea_Blue Grosbeak,0.67803717,185.0,188.0
+Gryllus fultoni_Southern Wood Cricket,0.2244152,186.0,189.0
+Passerina caerulea_Blue Grosbeak,0.97812325,187.0,190.0
+Icterus spurius_Orchard Oriole,0.4368437,187.0,190.0
+Passerina caerulea_Blue Grosbeak,0.99834454,188.0,191.0
+Passerina caerulea_Blue Grosbeak,0.99553156,189.0,192.0
+Passerina caerulea_Blue Grosbeak,0.9894154,190.0,193.0
+Passerina caerulea_Blue Grosbeak,0.9661065,191.0,194.0
+Passerina caerulea_Blue Grosbeak,0.9384295,192.0,195.0
+Gryllus fultoni_Southern Wood Cricket,0.23361947,194.0,197.0
+Gryllus fultoni_Southern Wood Cricket,0.2037002,195.0,198.0
+Passerina caerulea_Blue Grosbeak,0.997335,196.0,199.0
+Passerina caerulea_Blue Grosbeak,0.9962919,197.0,200.0
+Passerina caerulea_Blue Grosbeak,0.9863348,198.0,201.0
+Passerina caerulea_Blue Grosbeak,0.9967784,199.0,202.0
+Passerina caerulea_Blue Grosbeak,0.982137,200.0,203.0
+Passerina caerulea_Blue Grosbeak,0.99259186,201.0,204.0
+Gryllus fultoni_Southern Wood Cricket,0.26768893,202.0,205.0
+Gryllus fultoni_Southern Wood Cricket,0.21029486,203.0,206.0
+Passerina caerulea_Blue Grosbeak,0.99912506,205.0,208.0
+Passerina caerulea_Blue Grosbeak,0.9925566,206.0,209.0
+Passerina caerulea_Blue Grosbeak,0.9965341,207.0,210.0
+Passerina caerulea_Blue Grosbeak,0.996151,208.0,211.0
+Passerina caerulea_Blue Grosbeak,0.9805424,209.0,212.0
+Passerina caerulea_Blue Grosbeak,0.97802424,210.0,213.0
+Gryllus fultoni_Southern Wood Cricket,0.60823166,211.0,214.0
+Gryllus fultoni_Southern Wood Cricket,0.19501154,212.0,215.0
+Gryllus fultoni_Southern Wood Cricket,0.4214703,213.0,216.0
+Passerina caerulea_Blue Grosbeak,0.9942263,214.0,217.0
+Passerina caerulea_Blue Grosbeak,0.9966024,215.0,218.0
+Passerina caerulea_Blue Grosbeak,0.9947984,216.0,219.0
+Passerina caerulea_Blue Grosbeak,0.9851627,217.0,220.0
+Passerina caerulea_Blue Grosbeak,0.9834421,218.0,221.0
+Passerina caerulea_Blue Grosbeak,0.9647607,219.0,222.0
+Passerina caerulea_Blue Grosbeak,0.20634146,220.0,223.0
+Gryllus fultoni_Southern Wood Cricket,0.22363865,221.0,224.0
+Gryllus fultoni_Southern Wood Cricket,0.3222692,222.0,225.0
+Passerina caerulea_Blue Grosbeak,0.9972179,223.0,226.0
+Passerina caerulea_Blue Grosbeak,0.99674726,224.0,227.0
+Passerina caerulea_Blue Grosbeak,0.9947037,225.0,228.0
+Passerina caerulea_Blue Grosbeak,0.98468786,226.0,229.0
+Passerina caerulea_Blue Grosbeak,0.98273647,227.0,230.0
+Passerina caerulea_Blue Grosbeak,0.991962,228.0,231.0
+Gryllus fultoni_Southern Wood Cricket,0.22874,229.0,232.0
+Gryllus fultoni_Southern Wood Cricket,0.2928646,230.0,233.0
+Gryllus fultoni_Southern Wood Cricket,0.3641316,231.0,234.0
+Passerina caerulea_Blue Grosbeak,0.994179,232.0,235.0
+Passerina caerulea_Blue Grosbeak,0.99819237,233.0,236.0
+Passerina caerulea_Blue Grosbeak,0.99269825,234.0,237.0
+Passerina caerulea_Blue Grosbeak,0.9771444,235.0,238.0
+Passerina caerulea_Blue Grosbeak,0.95050406,236.0,239.0
+Passerina caerulea_Blue Grosbeak,0.9570966,237.0,240.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11043328,238.0,241.0
+Passerina caerulea_Blue Grosbeak,0.99188846,240.0,243.0
+Passerina caerulea_Blue Grosbeak,0.9987074,241.0,244.0
+Passerina caerulea_Blue Grosbeak,0.9982286,242.0,245.0
+Passerina caerulea_Blue Grosbeak,0.98709434,243.0,246.0
+Passerina caerulea_Blue Grosbeak,0.9802706,244.0,247.0
+Passerina caerulea_Blue Grosbeak,0.96418995,245.0,248.0
+Chondestes grammacus_Lark Sparrow,0.22439665,246.0,249.0
+Gryllus fultoni_Southern Wood Cricket,0.38181916,247.0,250.0
+Gryllus fultoni_Southern Wood Cricket,0.26989236,248.0,251.0
+Gryllus fultoni_Southern Wood Cricket,0.23274975,249.0,252.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10242947,249.0,252.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25320628,250.0,253.0
+Gryllus fultoni_Southern Wood Cricket,0.23148139,250.0,253.0
+Passerina caerulea_Blue Grosbeak,0.6770982,251.0,254.0
+Icterus spurius_Orchard Oriole,0.114543416,251.0,254.0
+Passerina caerulea_Blue Grosbeak,0.9980356,252.0,255.0
+Passerina caerulea_Blue Grosbeak,0.9864016,253.0,256.0
+Passerina caerulea_Blue Grosbeak,0.9942226,254.0,257.0
+Passerina caerulea_Blue Grosbeak,0.9984763,255.0,258.0
+Passerina caerulea_Blue Grosbeak,0.9816606,256.0,259.0
+Passerina caerulea_Blue Grosbeak,0.82577354,257.0,260.0
+Gryllus fultoni_Southern Wood Cricket,0.108198196,258.0,261.0
+Gryllus fultoni_Southern Wood Cricket,0.35356584,260.0,263.0
+Gryllus fultoni_Southern Wood Cricket,0.45346245,261.0,264.0
+Mirafra cantillans_Singing Bushlark,0.1458054,261.0,264.0
+Gryllus fultoni_Southern Wood Cricket,0.6334217,262.0,265.0
+Gryllus fultoni_Southern Wood Cricket,0.17546041,263.0,266.0
+Mirafra cantillans_Singing Bushlark,0.11487419,263.0,266.0
+Mirafra cantillans_Singing Bushlark,0.11794056,264.0,267.0
+Ammodramus savannarum_Grasshopper Sparrow,0.43733636,266.0,269.0
+Passerina caerulea_Blue Grosbeak,0.13102813,266.0,269.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18750173,267.0,270.0
+Ammodramus savannarum_Grasshopper Sparrow,0.32854044,268.0,271.0
+Gryllus fultoni_Southern Wood Cricket,0.21137385,269.0,272.0
+Gryllus fultoni_Southern Wood Cricket,0.37045702,270.0,273.0
+Gryllus fultoni_Southern Wood Cricket,0.20443258,271.0,274.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15301873,272.0,275.0
+Gryllus fultoni_Southern Wood Cricket,0.13750947,272.0,275.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19217989,273.0,276.0
+Centronyx henslowii_Henslow's Sparrow,0.12227536,273.0,276.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22449578,277.0,280.0
+Gryllus fultoni_Southern Wood Cricket,0.11898604,277.0,280.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22370048,278.0,281.0
+Ammodramus savannarum_Grasshopper Sparrow,0.4214007,279.0,282.0
+Ammodramus savannarum_Grasshopper Sparrow,0.26127204,280.0,283.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11567709,281.0,284.0
+Gryllus fultoni_Southern Wood Cricket,0.2081217,284.0,287.0
+Gryllus fultoni_Southern Wood Cricket,0.1018277,286.0,289.0
+Ammodramus savannarum_Grasshopper Sparrow,0.22452253,290.0,293.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19722712,291.0,294.0
+Gryllus fultoni_Southern Wood Cricket,0.1188976,291.0,294.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10646521,292.0,295.0
+Gryllus fultoni_Southern Wood Cricket,0.11947264,304.0,307.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10628225,306.0,309.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13857225,308.0,311.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3070534,309.0,312.0
+Passerina caerulea_Blue Grosbeak,0.6782621,310.0,313.0
+Passerina caerulea_Blue Grosbeak,0.9355017,311.0,314.0
+Passerina caerulea_Blue Grosbeak,0.9943878,312.0,315.0
+Passerina caerulea_Blue Grosbeak,0.99815243,313.0,316.0
+Passerina caerulea_Blue Grosbeak,0.9905822,314.0,317.0
+Passerina caerulea_Blue Grosbeak,0.97670764,315.0,318.0
+Passerina caerulea_Blue Grosbeak,0.9314201,316.0,319.0
+Passerina caerulea_Blue Grosbeak,0.7913327,317.0,320.0
+Ammodramus savannarum_Grasshopper Sparrow,0.51542354,318.0,321.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2701534,319.0,322.0
+Spiza americana_Dickcissel,0.10215836,319.0,322.0
+Passerina caerulea_Blue Grosbeak,0.9984162,320.0,323.0
+Passerina caerulea_Blue Grosbeak,0.99775535,321.0,324.0
+Passerina caerulea_Blue Grosbeak,0.99504375,322.0,325.0
+Passerina caerulea_Blue Grosbeak,0.96951205,323.0,326.0
+Passerina caerulea_Blue Grosbeak,0.6530366,324.0,327.0
+Passerina caerulea_Blue Grosbeak,0.95656204,325.0,328.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31493685,326.0,329.0
+Ammospiza maritima_Seaside Sparrow,0.140551,326.0,329.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21026103,327.0,330.0
+Ammospiza maritima_Seaside Sparrow,0.1147295,327.0,330.0
+Icterus spurius_Orchard Oriole,0.10164959,327.0,330.0
+Passerina caerulea_Blue Grosbeak,0.99595696,328.0,331.0
+Passerina caerulea_Blue Grosbeak,0.99622834,329.0,332.0
+Passerina caerulea_Blue Grosbeak,0.99854016,330.0,333.0
+Passerina caerulea_Blue Grosbeak,0.9890652,331.0,334.0
+Ammodramus savannarum_Grasshopper Sparrow,0.48872587,333.0,336.0
+Passerina cyanea_Indigo Bunting,0.23499128,333.0,336.0
+Passerina cyanea_Indigo Bunting,0.2029455,334.0,337.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11434015,334.0,337.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13698323,335.0,338.0
+Ammospiza maritima_Seaside Sparrow,0.13784875,336.0,339.0
+Ammodramus savannarum_Grasshopper Sparrow,0.112942815,345.0,348.0
+Passerina caerulea_Blue Grosbeak,0.99926895,346.0,349.0
+Passerina caerulea_Blue Grosbeak,0.998686,347.0,350.0
+Passerina caerulea_Blue Grosbeak,0.99826413,348.0,351.0
+Passerina caerulea_Blue Grosbeak,0.995752,349.0,352.0
+Passerina caerulea_Blue Grosbeak,0.9936094,350.0,353.0
+Passerina caerulea_Blue Grosbeak,0.9958554,351.0,354.0
+Passerina cyanea_Indigo Bunting,0.72801155,353.0,356.0
+Passerina caerulea_Blue Grosbeak,0.11500217,353.0,356.0
+Passerina caerulea_Blue Grosbeak,0.99880826,354.0,357.0
+Passerina caerulea_Blue Grosbeak,0.99005556,355.0,358.0
+Passerina caerulea_Blue Grosbeak,0.9924711,356.0,359.0
+Passerina caerulea_Blue Grosbeak,0.9934349,357.0,360.0
+Passerina caerulea_Blue Grosbeak,0.99348116,358.0,361.0
+Passerina caerulea_Blue Grosbeak,0.98492,359.0,362.0
+Spizella pallida_Clay-colored Sparrow,0.11451832,360.0,363.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11198526,360.0,363.0
+Peucaea cassinii_Cassin's Sparrow,0.21231765,361.0,364.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14193635,361.0,364.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21189858,362.0,365.0
+Spizella pallida_Clay-colored Sparrow,0.15921336,362.0,365.0
+Peucaea cassinii_Cassin's Sparrow,0.13286684,362.0,365.0
+Sturnella magna_Eastern Meadowlark,0.102339156,362.0,365.0
+Spizella pallida_Clay-colored Sparrow,0.16922101,363.0,366.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15719783,364.0,367.0
+Spizella pallida_Clay-colored Sparrow,0.104857504,364.0,367.0
+Passerina cyanea_Indigo Bunting,0.88026345,365.0,368.0
+Passerina amoena_Lazuli Bunting,0.73437417,365.0,368.0
+Passerina cyanea_Indigo Bunting,0.9807695,366.0,369.0
+Passerina cyanea_Indigo Bunting,0.93008155,367.0,370.0
+Passerina caerulea_Blue Grosbeak,0.91026205,368.0,371.0
+Passerina cyanea_Indigo Bunting,0.7822346,368.0,371.0
+Passerina caerulea_Blue Grosbeak,0.9986261,369.0,372.0
+Passerina caerulea_Blue Grosbeak,0.99722505,370.0,373.0
+Passerina caerulea_Blue Grosbeak,0.9944681,371.0,374.0
+Passerina caerulea_Blue Grosbeak,0.9774405,372.0,375.0
+Passerina caerulea_Blue Grosbeak,0.93545556,373.0,376.0
+Ammodramus savannarum_Grasshopper Sparrow,0.111009665,375.0,378.0
+Spizella pallida_Clay-colored Sparrow,0.10986047,375.0,378.0
+Passerina caerulea_Blue Grosbeak,0.26264033,376.0,379.0
+Icterus spurius_Orchard Oriole,0.21226457,376.0,379.0
+Passerina caerulea_Blue Grosbeak,0.998415,377.0,380.0
+Passerina caerulea_Blue Grosbeak,0.98635405,378.0,381.0
+Passerina caerulea_Blue Grosbeak,0.9949057,379.0,382.0
+Passerina cyanea_Indigo Bunting,0.38351217,379.0,382.0
+Passerina caerulea_Blue Grosbeak,0.9500337,380.0,383.0
+Passerina cyanea_Indigo Bunting,0.598939,380.0,383.0
+Passerina caerulea_Blue Grosbeak,0.97466856,381.0,384.0
+Passerina caerulea_Blue Grosbeak,0.18278801,382.0,385.0
+Passerina cyanea_Indigo Bunting,0.11359959,385.0,388.0
+Passerina cyanea_Indigo Bunting,0.15565634,386.0,389.0
+Vireo bellii_Bell's Vireo,0.10487359,390.0,393.0
+Passerina caerulea_Blue Grosbeak,0.16288312,392.0,395.0
+Passerina caerulea_Blue Grosbeak,0.23487283,393.0,396.0
+Passerina cyanea_Indigo Bunting,0.22025199,394.0,397.0
+Passerina cyanea_Indigo Bunting,0.13295099,395.0,398.0
+Passerina cyanea_Indigo Bunting,0.17994498,396.0,399.0
+Passerina cyanea_Indigo Bunting,0.14515832,397.0,400.0
+Passerina cyanea_Indigo Bunting,0.12791726,403.0,406.0
+Passerina cyanea_Indigo Bunting,0.10082431,404.0,407.0
+Passerina cyanea_Indigo Bunting,0.1131663,405.0,408.0
+Passerina cyanea_Indigo Bunting,0.1969051,406.0,409.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.24916464,407.0,410.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.24507909,408.0,411.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.18765427,408.0,411.0
+Gryllus fultoni_Southern Wood Cricket,0.18455403,408.0,411.0
+Passerina cyanea_Indigo Bunting,0.18633977,412.0,415.0
+Passerina cyanea_Indigo Bunting,0.14742996,413.0,416.0
+Gryllus rubens_Southeastern Field Cricket,0.11681895,418.0,421.0

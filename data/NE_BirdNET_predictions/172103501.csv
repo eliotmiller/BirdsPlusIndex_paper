@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Setophaga tigrina_Cape May Warbler,0.21924902,2.0,5.0
+Setophaga tigrina_Cape May Warbler,0.4861001,3.0,6.0
+Peucaea aestivalis_Bachman's Sparrow,0.16376269,3.0,6.0
+Setophaga tigrina_Cape May Warbler,0.21008681,4.0,7.0
+Setophaga tigrina_Cape May Warbler,0.15568571,5.0,8.0
+Peucaea aestivalis_Bachman's Sparrow,0.12401222,6.0,9.0
+Setophaga tigrina_Cape May Warbler,0.2812185,7.0,10.0
+Setophaga tigrina_Cape May Warbler,0.16479984,8.0,11.0
+Setophaga tigrina_Cape May Warbler,0.50207436,9.0,12.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.15478545,9.0,12.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.574472,10.0,13.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.15542088,11.0,14.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.23534709,12.0,15.0
+Crossleyia xanthophrys_Yellow-browed Oxylabes,0.19033346,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.16739781,12.0,15.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.22382258,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.18910462,13.0,16.0
+Setophaga tigrina_Cape May Warbler,0.11435807,13.0,16.0
+Setophaga tigrina_Cape May Warbler,0.100973055,14.0,17.0
+Emberiza spodocephala_Black-faced Bunting,0.24528696,15.0,18.0
+Setophaga tigrina_Cape May Warbler,0.12251268,15.0,18.0
+Turdus philomelos_Song Thrush,0.3212481,16.0,19.0
+Emberiza spodocephala_Black-faced Bunting,0.31206468,16.0,19.0
+Emberiza elegans_Yellow-throated Bunting,0.18279625,16.0,19.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.10934768,16.0,19.0
+Emberiza spodocephala_Black-faced Bunting,0.122553736,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.114301085,18.0,21.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.14169492,19.0,22.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.5844236,20.0,23.0
+Turdus philomelos_Song Thrush,0.10285084,20.0,23.0
+Turdus philomelos_Song Thrush,0.83289593,21.0,24.0
+Myioborus miniatus_Slate-throated Redstart,0.109641984,21.0,24.0
+Peucaea aestivalis_Bachman's Sparrow,0.3420257,22.0,25.0
+Setophaga tigrina_Cape May Warbler,0.22180854,22.0,25.0
+Turdus philomelos_Song Thrush,0.166179,22.0,25.0
+Setophaga tigrina_Cape May Warbler,0.5867898,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.30143175,24.0,27.0
+Emberiza spodocephala_Black-faced Bunting,0.1810227,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.10996109,24.0,27.0
+Peucaea aestivalis_Bachman's Sparrow,0.19011404,25.0,28.0
+Setophaga tigrina_Cape May Warbler,0.13338663,25.0,28.0
+Orchesticus abeillei_Brown Tanager,0.12066964,25.0,28.0
+Setophaga tigrina_Cape May Warbler,0.20645575,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.19413777,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.18641132,27.0,30.0
+Setophaga tigrina_Cape May Warbler,0.16780832,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.16225094,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14233619,28.0,31.0
+Setophaga tigrina_Cape May Warbler,0.12311267,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.119301856,28.0,31.0
+Setophaga tigrina_Cape May Warbler,0.28842363,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.12527697,29.0,32.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.15218599,30.0,33.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.39413697,31.0,34.0
+Foudia madagascariensis_Red Fody,0.10212261,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.12456027,32.0,35.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.11105232,32.0,35.0
+Turdus philomelos_Song Thrush,0.13042216,33.0,36.0
+Turdus philomelos_Song Thrush,0.1572316,34.0,37.0
+Setophaga tigrina_Cape May Warbler,0.12966725,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14015469,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.13241267,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14933404,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.59940076,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.33041304,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.47307566,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109982744,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.10408917,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3630037,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.12605254,51.0,54.0
+Contopus virens_Eastern Wood-Pewee,0.14746048,55.0,58.0
+Contopus virens_Eastern Wood-Pewee,0.15184209,57.0,60.0
+Vireo solitarius_Blue-headed Vireo,0.11888376,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.12348053,58.0,61.0

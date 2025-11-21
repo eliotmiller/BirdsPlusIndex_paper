@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Haliaeetus leucocephalus_Bald Eagle,0.68618786,0.0,3.0
+Haliaeetus leucocephalus_Bald Eagle,0.965989,1.0,4.0
+Recurvirostra americana_American Avocet,0.10181687,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.91553915,2.0,5.0
+Haliaeetus leucocephalus_Bald Eagle,0.97376865,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.9980692,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.999706,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.99711955,6.0,9.0
+Zenaida macroura_Mourning Dove,0.10378953,6.0,9.0
+Haliaeetus leucocephalus_Bald Eagle,0.7819911,7.0,10.0
+Theristicus caerulescens_Plumbeous Ibis,0.19657056,7.0,10.0
+Haliaeetus leucocephalus_Bald Eagle,0.5271392,8.0,11.0
+Haliaeetus leucocephalus_Bald Eagle,0.9580918,10.0,13.0
+Numenius phaeopus_Whimbrel,0.27185544,10.0,13.0
+Zenaida macroura_Mourning Dove,0.15604138,10.0,13.0
+Haliaeetus leucocephalus_Bald Eagle,0.9671303,11.0,14.0
+Theristicus caerulescens_Plumbeous Ibis,0.2573292,11.0,14.0
+Haliaeetus leucocephalus_Bald Eagle,0.9177768,12.0,15.0
+Theristicus caerulescens_Plumbeous Ibis,0.22267656,12.0,15.0
+Bombycilla cedrorum_Cedar Waxwing,0.13365187,14.0,17.0
+Bombycilla cedrorum_Cedar Waxwing,0.40328768,15.0,18.0
+Allonemobius allardi_Allard's Ground Cricket,0.18336159,15.0,18.0
+Bombycilla cedrorum_Cedar Waxwing,0.18832529,16.0,19.0
+Allonemobius allardi_Allard's Ground Cricket,0.17337978,16.0,19.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12095393,16.0,19.0
+Bombycilla cedrorum_Cedar Waxwing,0.52126426,17.0,20.0
+Allonemobius allardi_Allard's Ground Cricket,0.15816702,17.0,20.0
+Bombycilla cedrorum_Cedar Waxwing,0.30943894,18.0,21.0
+Allonemobius allardi_Allard's Ground Cricket,0.191407,18.0,21.0
+Allonemobius allardi_Allard's Ground Cricket,0.2099943,19.0,22.0
+Bombycilla cedrorum_Cedar Waxwing,0.11361332,19.0,22.0
+Allonemobius allardi_Allard's Ground Cricket,0.3002551,20.0,23.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12748003,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.11002492,20.0,23.0
+Branta canadensis_Canada Goose,0.10516919,22.0,25.0
+Pandion haliaetus_Osprey,0.1632696,23.0,26.0
+Branta canadensis_Canada Goose,0.1356323,24.0,27.0
+Larus delawarensis_Ring-billed Gull,0.105179705,24.0,27.0
+Pandion haliaetus_Osprey,0.101333074,24.0,27.0
+Larus delawarensis_Ring-billed Gull,0.25264063,25.0,28.0
+Branta canadensis_Canada Goose,0.17484586,25.0,28.0
+Egretta thula_Snowy Egret,0.13196217,25.0,28.0
+Larus delawarensis_Ring-billed Gull,0.4102101,26.0,29.0
+Egretta thula_Snowy Egret,0.30517063,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.16770364,27.0,30.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.11833728,34.0,37.0
+Bombycilla cedrorum_Cedar Waxwing,0.13522868,35.0,38.0
+Regulus satrapa_Golden-crowned Kinglet,0.30873206,36.0,39.0
+Bombycilla cedrorum_Cedar Waxwing,0.1091519,36.0,39.0
+Branta canadensis_Canada Goose,0.14496957,38.0,41.0
+Branta canadensis_Canada Goose,0.24137554,39.0,42.0
+Branta canadensis_Canada Goose,0.2684331,40.0,43.0
+Plegadis chihi_White-faced Ibis,0.19635215,43.0,46.0
+Branta canadensis_Canada Goose,0.1180215,44.0,47.0
+Haliaeetus leucocephalus_Bald Eagle,0.11626144,45.0,48.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14545366,47.0,50.0
+Branta canadensis_Canada Goose,0.24619572,48.0,51.0
+Branta canadensis_Canada Goose,0.3027937,49.0,52.0
+Branta canadensis_Canada Goose,0.34456414,50.0,53.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17130698,51.0,54.0
+Bombycilla cedrorum_Cedar Waxwing,0.1289974,52.0,55.0
+Larus delawarensis_Ring-billed Gull,0.82859355,53.0,56.0
+Buteo jamaicensis_Red-tailed Hawk,0.15287192,53.0,56.0
+Haliaeetus leucocephalus_Bald Eagle,0.1485731,53.0,56.0
+Larus delawarensis_Ring-billed Gull,0.5095383,54.0,57.0
+Buteo jamaicensis_Red-tailed Hawk,0.2926615,54.0,57.0
+Haliaeetus leucocephalus_Bald Eagle,0.1557295,54.0,57.0
+Larus delawarensis_Ring-billed Gull,0.66162986,55.0,58.0
+Haliaeetus leucocephalus_Bald Eagle,0.24625513,55.0,58.0
+Buteo jamaicensis_Red-tailed Hawk,0.17110427,55.0,58.0

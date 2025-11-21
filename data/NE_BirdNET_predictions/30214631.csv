@@ -1,0 +1,22 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.15303288,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.19593307,1.0,4.0
+Vireo philadelphicus_Philadelphia Vireo,0.17468853,1.0,4.0
+Vireo philadelphicus_Philadelphia Vireo,0.6081302,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.24166311,2.0,5.0
+Vireo philadelphicus_Philadelphia Vireo,0.76638097,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.21400681,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.8466296,4.0,7.0
+Pycnonotus barbatus_Common Bulbul,0.33344796,6.0,9.0
+Turdus abyssinicus_Abyssinian Thrush,0.2640741,7.0,10.0
+Turdus pallidus_Pale Thrush,0.1051758,7.0,10.0
+Momotus lessonii_Lesson's Motmot,0.17394035,8.0,11.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.29360992,9.0,12.0
+Turdus migratorius_American Robin,0.17378847,10.0,13.0
+Turdus migratorius_American Robin,0.22060223,11.0,14.0
+Empidonax virescens_Acadian Flycatcher,0.21122938,11.0,14.0
+Vireo philadelphicus_Philadelphia Vireo,0.118411906,13.0,16.0
+Turdus migratorius_American Robin,0.20861779,15.0,18.0
+Turdus migratorius_American Robin,0.13688417,16.0,19.0
+Turdus migratorius_American Robin,0.41016334,17.0,20.0
+Turdus migratorius_American Robin,0.50788397,18.0,20.95201814058957

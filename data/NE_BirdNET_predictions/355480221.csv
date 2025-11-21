@@ -1,0 +1,92 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.15507744,0.0,3.0
+Ficedula albicollis_Collared Flycatcher,0.16580085,1.0,4.0
+Turdus philomelos_Song Thrush,0.10079694,1.0,4.0
+Ficedula parva_Red-breasted Flycatcher,0.24024925,2.0,5.0
+Ficedula albicollis_Collared Flycatcher,0.21278986,2.0,5.0
+Ficedula parva_Red-breasted Flycatcher,0.5078694,3.0,6.0
+Ficedula albicollis_Collared Flycatcher,0.46877754,3.0,6.0
+Ficedula parva_Red-breasted Flycatcher,0.35853857,4.0,7.0
+Ficedula albicollis_Collared Flycatcher,0.24667554,4.0,7.0
+Catharus fuscescens_Veery,0.12211539,5.0,8.0
+Catharus fuscescens_Veery,0.93847275,6.0,9.0
+Setophaga ruticilla_American Redstart,0.85806286,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12287704,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.98474103,8.0,11.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9855623,9.0,12.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9926408,10.0,13.0
+Catharus fuscescens_Veery,0.63940555,12.0,15.0
+Catharus fuscescens_Veery,0.96987593,13.0,16.0
+Catharus fuscescens_Veery,0.98848045,14.0,17.0
+Catharus fuscescens_Veery,0.84571916,15.0,18.0
+Ficedula parva_Red-breasted Flycatcher,0.6487056,17.0,20.0
+Phylloscopus sibilatrix_Wood Warbler,0.1782887,17.0,20.0
+Catharus fuscescens_Veery,0.7417864,18.0,21.0
+Catharus fuscescens_Veery,0.9139955,19.0,22.0
+Catharus fuscescens_Veery,0.95199394,20.0,23.0
+Catharus fuscescens_Veery,0.88362545,21.0,24.0
+Ficedula parva_Red-breasted Flycatcher,0.32171223,24.0,27.0
+Setophaga ruticilla_American Redstart,0.78615344,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17509302,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9907973,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9892536,28.0,31.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.96893334,29.0,32.0
+Setophaga petechia_Yellow Warbler,0.11757216,29.0,32.0
+Catharus fuscescens_Veery,0.72315454,30.0,33.0
+Catharus fuscescens_Veery,0.9907453,31.0,34.0
+Catharus fuscescens_Veery,0.992234,32.0,35.0
+Catharus fuscescens_Veery,0.9814092,33.0,36.0
+Geothlypis philadelphia_Mourning Warbler,0.24568613,34.0,37.0
+Catharus fuscescens_Veery,0.9654705,35.0,38.0
+Catharus fuscescens_Veery,0.9817945,36.0,39.0
+Catharus fuscescens_Veery,0.98077846,37.0,40.0
+Catharus fuscescens_Veery,0.9616244,38.0,41.0
+Setophaga ruticilla_American Redstart,0.21146111,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14277929,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.83758175,40.0,43.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.20079562,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9943955,41.0,44.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99344975,42.0,45.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3360157,43.0,46.0
+Catharus fuscescens_Veery,0.8771511,44.0,47.0
+Catharus fuscescens_Veery,0.8060649,45.0,48.0
+Catharus fuscescens_Veery,0.16472994,46.0,49.0
+Ficedula albicollis_Collared Flycatcher,0.24904013,47.0,50.0
+Ficedula parva_Red-breasted Flycatcher,0.17559908,47.0,50.0
+Catharus fuscescens_Veery,0.9357305,49.0,52.0
+Catharus fuscescens_Veery,0.67508805,50.0,53.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4183713,51.0,54.0
+Catharus fuscescens_Veery,0.11429248,51.0,54.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.95399016,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99471563,53.0,56.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9315077,54.0,57.0
+Catharus fuscescens_Veery,0.97934395,55.0,58.0
+Catharus fuscescens_Veery,0.9915466,56.0,59.0
+Catharus fuscescens_Veery,0.9514026,57.0,60.0
+Catharus fuscescens_Veery,0.2053214,58.0,61.0
+Ficedula albicollis_Collared Flycatcher,0.61306125,59.0,62.0
+Ficedula parva_Red-breasted Flycatcher,0.18800986,60.0,63.0
+Ficedula albicollis_Collared Flycatcher,0.11124559,60.0,63.0
+Ficedula parva_Red-breasted Flycatcher,0.28196645,61.0,64.0
+Ficedula albicollis_Collared Flycatcher,0.10197704,61.0,64.0
+Ficedula albicollis_Collared Flycatcher,0.48179317,62.0,65.0
+Ficedula parva_Red-breasted Flycatcher,0.19121028,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13984933,64.0,67.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24585961,65.0,68.0
+Vermivora chrysoptera_Golden-winged Warbler,0.14678852,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4039147,66.0,69.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2899406,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.10390405,67.0,70.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7608595,68.0,71.0
+Vermivora chrysoptera_Golden-winged Warbler,0.114075296,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.49570808,69.0,72.0
+Setophaga petechia_Yellow Warbler,0.17352137,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4602243,70.0,73.0
+Columba oenas_Stock Dove,0.11099056,73.0,76.0
+Columba oenas_Stock Dove,0.12730207,74.0,77.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.67062753,82.0,85.0
+Geothlypis philadelphia_Mourning Warbler,0.17335239,82.0,85.0
+Setophaga petechia_Yellow Warbler,0.10841745,82.0,85.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.6704474,83.0,86.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5967878,84.0,87.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5905972,85.0,88.0
