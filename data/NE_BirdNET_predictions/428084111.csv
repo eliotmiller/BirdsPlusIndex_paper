@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.42209598,0.0,3.0
+Thryomanes bewickii_Bewick's Wren,0.114592485,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.729091,1.0,4.0
+Sialia sialis_Eastern Bluebird,0.102379374,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.7303079,2.0,5.0
+Thryomanes bewickii_Bewick's Wren,0.16808891,2.0,5.0
+Sialia sialis_Eastern Bluebird,0.12454272,2.0,5.0
+Thryomanes bewickii_Bewick's Wren,0.38192734,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.29437548,3.0,6.0
+Sialia sialis_Eastern Bluebird,0.18576588,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.8082188,4.0,7.0
+Thryomanes bewickii_Bewick's Wren,0.22601709,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.59810764,5.0,8.0
+Thryomanes bewickii_Bewick's Wren,0.33695987,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.8415455,6.0,9.0
+Sialia sialis_Eastern Bluebird,0.1848267,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.8784486,7.0,10.0
+Sialia sialis_Eastern Bluebird,0.13675354,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.6831546,8.0,11.0
+Sialia sialis_Eastern Bluebird,0.32683036,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.23429732,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.6078007,10.0,13.0
+Sialia sialis_Eastern Bluebird,0.1469409,10.0,13.0
+Icterus spurius_Orchard Oriole,0.13348892,10.0,13.0
+Sialia sialis_Eastern Bluebird,0.6525321,11.0,14.0
+Icterus spurius_Orchard Oriole,0.4321201,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.47491932,12.0,15.0
+Sialia sialis_Eastern Bluebird,0.16610166,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.665831,13.0,16.0
+Sialia sialis_Eastern Bluebird,0.15202716,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.91680306,14.0,17.0
+Sialia sialis_Eastern Bluebird,0.11617842,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.8189737,15.0,18.0
+Sialia sialis_Eastern Bluebird,0.19891442,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.49886715,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.5878559,17.0,20.0
+Thryomanes bewickii_Bewick's Wren,0.32859564,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.5024707,18.0,21.0
+Thryomanes bewickii_Bewick's Wren,0.25070238,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.8208763,19.0,22.0
+Sialia sialis_Eastern Bluebird,0.2080652,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.44792876,20.0,23.0
+Sialia sialis_Eastern Bluebird,0.29144606,20.0,23.0
+Thryomanes bewickii_Bewick's Wren,0.19414642,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.3239545,21.0,24.0
+Sialia sialis_Eastern Bluebird,0.2988472,21.0,24.0
+Thryomanes bewickii_Bewick's Wren,0.19358937,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.54003865,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.45625004,23.0,26.0
+Sialia sialis_Eastern Bluebird,0.14680074,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.7979687,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.825443,25.0,28.0
+Sialia sialis_Eastern Bluebird,0.27368045,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.32972074,26.0,29.0
+Sialia sialis_Eastern Bluebird,0.31526512,26.0,29.0
+Thryomanes bewickii_Bewick's Wren,0.1440311,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.2642338,27.0,30.0
+Thryomanes bewickii_Bewick's Wren,0.26109308,27.0,30.0
+Sialia sialis_Eastern Bluebird,0.15955503,27.0,30.0
+Thryomanes bewickii_Bewick's Wren,0.6077117,28.0,31.0
+Sialia sialis_Eastern Bluebird,0.3972181,28.0,31.0
+Thryomanes bewickii_Bewick's Wren,0.3597872,29.0,32.0
+Thryomanes bewickii_Bewick's Wren,0.27483547,30.0,33.0
+Icterus spurius_Orchard Oriole,0.11941237,31.0,33.74403628117914

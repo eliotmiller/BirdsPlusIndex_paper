@@ -1,0 +1,54 @@
+species,score,start_time,end_time
+Bombycilla garrulus_Bohemian Waxwing,0.27343884,3.0,6.0
+Spinus pinus_Pine Siskin,0.48701108,6.0,9.0
+Setophaga americana_Northern Parula,0.10312503,8.0,11.0
+Bombycilla garrulus_Bohemian Waxwing,0.3316295,11.0,14.0
+Serpophaga griseicapilla_Straneck's Tyrannulet,0.111583546,13.0,16.0
+Bombycilla garrulus_Bohemian Waxwing,0.18875596,14.0,17.0
+Bombycilla garrulus_Bohemian Waxwing,0.12594338,15.0,18.0
+Bombycilla garrulus_Bohemian Waxwing,0.22206327,16.0,19.0
+Bombycilla garrulus_Bohemian Waxwing,0.14492105,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.14419141,22.0,25.0
+Bombycilla garrulus_Bohemian Waxwing,0.14243479,22.0,25.0
+Ficedula parva_Red-breasted Flycatcher,0.11747655,24.0,27.0
+Drymophila ochropyga_Ochre-rumped Antbird,0.22253098,25.0,28.0
+Scolopax minor_American Woodcock,0.24637894,26.0,29.0
+Spinus pinus_Pine Siskin,0.11557789,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.89810884,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.91558987,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.9910816,30.0,33.0
+Passerina cyanea_Indigo Bunting,0.8815296,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.53653324,32.0,35.0
+Phylloscopus soror_Alström's Warbler,0.3563697,32.0,35.0
+Antigone canadensis_Sandhill Crane,0.15715851,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.1653732,45.0,48.0
+Ducula aenea_Green Imperial-Pigeon,0.13108534,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.40932825,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.4617375,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1300839,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.11972939,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.36616433,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.11266687,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.23707445,54.0,57.0
+Geothlypis philadelphia_Mourning Warbler,0.102720894,60.0,63.0
+Regulus satrapa_Golden-crowned Kinglet,0.13721046,68.0,71.0
+Certhia americana_Brown Creeper,0.1225014,68.0,71.0
+Regulus satrapa_Golden-crowned Kinglet,0.23190293,70.0,73.0
+Poecile atricapillus_Black-capped Chickadee,0.22063528,70.0,73.0
+Poecile carolinensis_Carolina Chickadee,0.16097023,70.0,73.0
+Piranga olivacea_Scarlet Tanager,0.31829324,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.4786817,76.0,79.0
+Regulus satrapa_Golden-crowned Kinglet,0.10874478,77.0,80.0
+Regulus regulus_Goldcrest,0.17477927,78.0,81.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16838838,83.0,86.0
+Zenaida macroura_Mourning Dove,0.107280046,83.0,86.0
+Zenaida macroura_Mourning Dove,0.7958921,84.0,87.0
+Zenaida asiatica_White-winged Dove,0.13995363,84.0,87.0
+Zenaida macroura_Mourning Dove,0.77906466,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.36897638,86.0,89.0
+Setophaga magnolia_Magnolia Warbler,0.13409601,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.9552033,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.9931706,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.9586664,89.0,92.0
+Passerina cyanea_Indigo Bunting,0.961532,90.0,93.0
+Human non-vocal_Human non-vocal,0.15718652,91.0,93.02403628117914

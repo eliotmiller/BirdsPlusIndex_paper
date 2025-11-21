@@ -1,0 +1,104 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.93787676,0.0,3.0
+Pandion haliaetus_Osprey,0.99737215,1.0,4.0
+Pandion haliaetus_Osprey,0.9992925,2.0,5.0
+Pandion haliaetus_Osprey,0.9975522,3.0,6.0
+Pandion haliaetus_Osprey,0.98850167,4.0,7.0
+Pandion haliaetus_Osprey,0.8908502,5.0,8.0
+Pandion haliaetus_Osprey,0.975576,6.0,9.0
+Icterus galbula_Baltimore Oriole,0.10813155,7.0,10.0
+Phyllopalpus pulchellus_Handsome Trig,0.17033419,9.0,12.0
+Eleutherodactylus planirostris_Greenhouse Frog,0.13468511,9.0,12.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.2730056,10.0,13.0
+Phyllopalpus pulchellus_Handsome Trig,0.27084738,10.0,13.0
+Pandion haliaetus_Osprey,0.9785903,12.0,15.0
+Theristicus caerulescens_Plumbeous Ibis,0.1451385,12.0,15.0
+Pandion haliaetus_Osprey,0.98189443,13.0,16.0
+Theristicus caerulescens_Plumbeous Ibis,0.121685766,13.0,16.0
+Pandion haliaetus_Osprey,0.9758093,14.0,17.0
+Pandion haliaetus_Osprey,0.89551395,15.0,18.0
+Pandion haliaetus_Osprey,0.4480891,16.0,19.0
+Icterus galbula_Baltimore Oriole,0.38504928,17.0,20.0
+Pandion haliaetus_Osprey,0.31334713,17.0,20.0
+Pandion haliaetus_Osprey,0.97377044,18.0,21.0
+Icterus galbula_Baltimore Oriole,0.12073778,18.0,21.0
+Pandion haliaetus_Osprey,0.9877983,19.0,22.0
+Pandion haliaetus_Osprey,0.8838203,20.0,23.0
+Buteo jamaicensis_Red-tailed Hawk,0.17370564,20.0,23.0
+Micronisus gabar_Gabar Goshawk,0.44066203,24.0,27.0
+Pandion haliaetus_Osprey,0.3614893,24.0,27.0
+Pandion haliaetus_Osprey,0.81699675,25.0,28.0
+Micronisus gabar_Gabar Goshawk,0.575595,25.0,28.0
+Pandion haliaetus_Osprey,0.81724787,26.0,29.0
+Micronisus gabar_Gabar Goshawk,0.622903,26.0,29.0
+Pandion haliaetus_Osprey,0.93124,27.0,30.0
+Micronisus gabar_Gabar Goshawk,0.17736283,27.0,30.0
+Pandion haliaetus_Osprey,0.7259871,28.0,31.0
+Pandion haliaetus_Osprey,0.95333993,29.0,32.0
+Pandion haliaetus_Osprey,0.7744943,30.0,33.0
+Pandion haliaetus_Osprey,0.83857024,31.0,34.0
+Pandion haliaetus_Osprey,0.79225683,32.0,35.0
+Micronisus gabar_Gabar Goshawk,0.19334608,32.0,35.0
+Pandion haliaetus_Osprey,0.1357021,33.0,36.0
+Pandion haliaetus_Osprey,0.6734898,34.0,37.0
+Pandion haliaetus_Osprey,0.1028103,35.0,38.0
+Pandion haliaetus_Osprey,0.1948071,36.0,39.0
+Pandion haliaetus_Osprey,0.32995877,37.0,40.0
+Pandion haliaetus_Osprey,0.2869652,38.0,41.0
+Pandion haliaetus_Osprey,0.33664945,39.0,42.0
+Micronisus gabar_Gabar Goshawk,0.1487841,39.0,42.0
+Pandion haliaetus_Osprey,0.7899607,40.0,43.0
+Micronisus gabar_Gabar Goshawk,0.1248055,40.0,43.0
+Pandion haliaetus_Osprey,0.6481559,41.0,44.0
+Pandion haliaetus_Osprey,0.7430498,42.0,45.0
+Micronisus gabar_Gabar Goshawk,0.15452515,44.0,47.0
+Phyllopalpus pulchellus_Handsome Trig,0.35073367,49.0,52.0
+Pandion haliaetus_Osprey,0.9064625,53.0,56.0
+Pandion haliaetus_Osprey,0.99462306,54.0,57.0
+Pandion haliaetus_Osprey,0.9973098,55.0,58.0
+Pandion haliaetus_Osprey,0.99394107,56.0,59.0
+Pandion haliaetus_Osprey,0.5047914,57.0,60.0
+Pandion haliaetus_Osprey,0.16692528,58.0,61.0
+Pandion haliaetus_Osprey,0.31156403,59.0,62.0
+Pandion haliaetus_Osprey,0.15828094,60.0,63.0
+Pandion haliaetus_Osprey,0.86856806,61.0,64.0
+Pandion haliaetus_Osprey,0.7685845,62.0,65.0
+Pandion haliaetus_Osprey,0.90972364,63.0,66.0
+Sialia sialis_Eastern Bluebird,0.2129679,64.0,67.0
+Pandion haliaetus_Osprey,0.9828188,66.0,69.0
+Pandion haliaetus_Osprey,0.9911184,67.0,70.0
+Pandion haliaetus_Osprey,0.98320997,68.0,71.0
+Pandion haliaetus_Osprey,0.8846022,69.0,72.0
+Micronisus gabar_Gabar Goshawk,0.3822597,69.0,72.0
+Pandion haliaetus_Osprey,0.37692076,70.0,73.0
+Micronisus gabar_Gabar Goshawk,0.14413714,70.0,73.0
+Pandion haliaetus_Osprey,0.6283125,71.0,74.0
+Micronisus gabar_Gabar Goshawk,0.4979055,71.0,74.0
+Pandion haliaetus_Osprey,0.9493696,72.0,75.0
+Micronisus gabar_Gabar Goshawk,0.13531297,72.0,75.0
+Pandion haliaetus_Osprey,0.92302537,73.0,76.0
+Pandion haliaetus_Osprey,0.9452878,74.0,77.0
+Pandion haliaetus_Osprey,0.95211035,75.0,78.0
+Pandion haliaetus_Osprey,0.97431743,76.0,79.0
+Pandion haliaetus_Osprey,0.9850926,77.0,80.0
+Pandion haliaetus_Osprey,0.88461065,78.0,81.0
+Pandion haliaetus_Osprey,0.9955219,81.0,84.0
+Pandion haliaetus_Osprey,0.99814236,82.0,85.0
+Pandion haliaetus_Osprey,0.9962919,83.0,86.0
+Pandion haliaetus_Osprey,0.9475138,84.0,87.0
+Pandion haliaetus_Osprey,0.70988154,85.0,88.0
+Pandion haliaetus_Osprey,0.622602,86.0,89.0
+Pandion haliaetus_Osprey,0.75242186,87.0,90.0
+Buteo jamaicensis_Red-tailed Hawk,0.48220468,87.0,90.0
+Eleutherodactylus planirostris_Greenhouse Frog,0.32588065,88.0,91.0
+Pandion haliaetus_Osprey,0.19425267,88.0,91.0
+Progne subis_Purple Martin,0.9001073,90.0,93.0
+Theristicus caerulescens_Plumbeous Ibis,0.24671052,91.0,94.0
+Progne subis_Purple Martin,0.112596214,91.0,94.0
+Theristicus caerulescens_Plumbeous Ibis,0.40537968,92.0,95.0
+Pandion haliaetus_Osprey,0.20721723,92.0,95.0
+Pandion haliaetus_Osprey,0.32784897,93.0,96.0
+Theristicus caerulescens_Plumbeous Ibis,0.26206067,93.0,96.0
+Xiphorhynchus guttatus_Buff-throated Woodcreeper,0.17588574,93.0,96.0
+Theristicus caerulescens_Plumbeous Ibis,0.29180223,94.0,96.07201814058956
+Pandion haliaetus_Osprey,0.10516527,94.0,96.07201814058956

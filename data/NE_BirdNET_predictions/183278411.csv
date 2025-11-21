@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.10849826,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.1438579,1.0,4.0
+Spinus tristis_American Goldfinch,0.30544043,4.0,7.0
+Bombycilla cedrorum_Cedar Waxwing,0.12448287,4.0,7.0
+Dumetella carolinensis_Gray Catbird,0.154107,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.19182967,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.14449523,6.0,9.0
+Spinus tristis_American Goldfinch,0.117575966,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.31333357,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.13711852,7.0,10.0
+Dumetella carolinensis_Gray Catbird,0.111695245,9.0,12.0
+Spinus tristis_American Goldfinch,0.25013095,11.0,14.0
+Spinus tristis_American Goldfinch,0.27285546,12.0,15.0
+Dumetella carolinensis_Gray Catbird,0.36814514,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.37385014,14.0,17.0
+Dumetella carolinensis_Gray Catbird,0.13770065,15.0,18.0
+Picus viridis_Eurasian Green Woodpecker,0.43678895,16.0,19.0
+Picus canus_Gray-headed Woodpecker,0.32584825,16.0,19.0
+Aphelocoma californica_California Scrub-Jay,0.10037047,20.0,23.0
+Aphelocoma californica_California Scrub-Jay,0.15624914,21.0,24.0
+Quiscalus major_Boat-tailed Grackle,0.2965646,27.0,30.0
+Tyto alba_Barn Owl,0.13726096,27.0,30.0
+Tyto alba_Barn Owl,0.18817276,28.0,31.0
+Quiscalus quiscula_Common Grackle,0.11703131,31.0,34.0
+Myiopsitta monachus_Monk Parakeet,0.28260726,35.0,38.0
+Vireo gilvus_Warbling Vireo,0.12665789,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.10897317,35.0,38.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.11380526,36.0,39.0
+Myiopsitta monachus_Monk Parakeet,0.10737019,36.0,39.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.19695055,37.0,40.0
+Sturnus vulgaris_European Starling,0.17084068,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.15278387,44.0,47.0
+Delichon urbicum_Common House-Martin,0.12470319,45.0,48.0
+Pandion haliaetus_Osprey,0.7134428,46.0,49.0
+Aphelocoma coerulescens_Florida Scrub-Jay,0.12554944,46.0,49.0
+Buteo jamaicensis_Red-tailed Hawk,0.15919533,47.0,50.0
+Dumetella carolinensis_Gray Catbird,0.15544115,56.0,59.0
+Vireo gilvus_Warbling Vireo,0.3380875,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.13995565,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.1381513,58.0,61.0
+Cynanthus latirostris_Broad-billed Hummingbird,0.106440425,62.0,65.0
+Pandion haliaetus_Osprey,0.9254882,66.0,69.0
+Pandion haliaetus_Osprey,0.7240389,67.0,70.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.11844023,67.0,70.0
+Pandion haliaetus_Osprey,0.6064762,68.0,71.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.11380891,68.0,71.0
+Pandion haliaetus_Osprey,0.22353575,69.0,72.0
+Empidonax traillii_Willow Flycatcher,0.10282378,71.0,74.0
+Empidonax traillii_Willow Flycatcher,0.27773228,74.0,77.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.1658447,74.0,77.0
+Spizella passerina_Chipping Sparrow,0.10031871,74.0,77.0
+Empidonax traillii_Willow Flycatcher,0.6667778,75.0,78.0
+Empidonax minimus_Least Flycatcher,0.11851351,75.0,78.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.119264014,87.0,90.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.32042283,92.0,95.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.17988725,94.0,97.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.20412171,95.0,98.0
+Pandion haliaetus_Osprey,0.31630185,96.0,99.0
+Pandion haliaetus_Osprey,0.34416565,97.0,100.0
+Pandion haliaetus_Osprey,0.29342344,98.0,101.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.19866286,98.0,101.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.11189802,112.0,115.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.12802167,115.0,118.0

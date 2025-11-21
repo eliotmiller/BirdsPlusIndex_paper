@@ -1,0 +1,99 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.73372114,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.6775601,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.4635678,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.12893316,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.33044586,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.15781817,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1270091,5.0,8.0
+Protonotaria citrea_Prothonotary Warbler,0.123018645,5.0,8.0
+Urotriorchis macrourus_Long-tailed Hawk,0.1137471,5.0,8.0
+Urotriorchis macrourus_Long-tailed Hawk,0.12966187,7.0,10.0
+Eunemobius carolinus_Carolina Ground Cricket,0.23975326,8.0,11.0
+Eunemobius carolinus_Carolina Ground Cricket,0.26139098,9.0,12.0
+Protonotaria citrea_Prothonotary Warbler,0.16923779,9.0,12.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13149445,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.105095096,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.10308488,9.0,12.0
+Limnothlypis swainsonii_Swainson's Warbler,0.25447804,10.0,13.0
+Protonotaria citrea_Prothonotary Warbler,0.2200076,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.20112935,10.0,13.0
+Eunemobius carolinus_Carolina Ground Cricket,0.17917001,10.0,13.0
+Eunemobius carolinus_Carolina Ground Cricket,0.12603545,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.111903034,11.0,14.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11179235,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.14110982,12.0,15.0
+Setophaga americana_Northern Parula,0.37628585,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24991217,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2920847,14.0,17.0
+Setophaga americana_Northern Parula,0.23766945,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.11101162,14.0,17.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11038106,14.0,17.0
+Setophaga americana_Northern Parula,0.17552793,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1385509,15.0,18.0
+Protonotaria citrea_Prothonotary Warbler,0.102612734,15.0,18.0
+Eunemobius carolinus_Carolina Ground Cricket,0.28426015,16.0,19.0
+Protonotaria citrea_Prothonotary Warbler,0.12621649,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.124037564,16.0,19.0
+Eunemobius carolinus_Carolina Ground Cricket,0.45621473,17.0,20.0
+Eunemobius carolinus_Carolina Ground Cricket,0.3696226,18.0,21.0
+Eunemobius carolinus_Carolina Ground Cricket,0.20614667,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.112003334,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24369428,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.16324432,20.0,23.0
+Eunemobius carolinus_Carolina Ground Cricket,0.14906432,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.12612377,20.0,23.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21411529,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.1754197,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.156465,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.119036905,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28278968,22.0,25.0
+Setophaga americana_Northern Parula,0.16908148,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.13057248,22.0,25.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1241605,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.47472224,23.0,26.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21281067,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.11007476,23.0,26.0
+Geothlypis formosa_Kentucky Warbler,0.10392616,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.54434514,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16315405,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1757162,25.0,28.0
+Eunemobius carolinus_Carolina Ground Cricket,0.13694532,26.0,29.0
+Eunemobius carolinus_Carolina Ground Cricket,0.3246552,27.0,30.0
+Setophaga americana_Northern Parula,0.3785549,30.0,33.0
+Protonotaria citrea_Prothonotary Warbler,0.17222217,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14039384,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10324525,30.0,33.0
+Setophaga americana_Northern Parula,0.15487626,31.0,34.0
+Protonotaria citrea_Prothonotary Warbler,0.1151623,31.0,34.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10746525,31.0,34.0
+Limnothlypis swainsonii_Swainson's Warbler,0.159406,32.0,35.0
+Setophaga americana_Northern Parula,0.1541136,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.14597806,32.0,35.0
+Protonotaria citrea_Prothonotary Warbler,0.13898201,32.0,35.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1651801,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.10983387,33.0,36.0
+Limnothlypis swainsonii_Swainson's Warbler,0.31432423,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.17326118,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.1312303,34.0,37.0
+Geothlypis formosa_Kentucky Warbler,0.100880936,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.16283108,35.0,38.0
+Geothlypis formosa_Kentucky Warbler,0.13045786,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11469611,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.17867643,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14700267,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.1355506,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12771834,37.0,40.0
+Protonotaria citrea_Prothonotary Warbler,0.11116989,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.12913513,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.12342987,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.107976265,38.0,41.0
+Protonotaria citrea_Prothonotary Warbler,0.1038004,38.0,41.0
+Eunemobius carolinus_Carolina Ground Cricket,0.10047737,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12509237,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27255875,40.0,43.0
+Setophaga americana_Northern Parula,0.20214203,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25347072,41.0,44.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18853217,41.0,44.0
+Setophaga americana_Northern Parula,0.13451003,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1758284,42.0,45.0

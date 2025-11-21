@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Tringa semipalmata_Willet,0.8611945,0.0,3.0
+Ammospiza maritima_Seaside Sparrow,0.14148356,0.0,3.0
+Tringa semipalmata_Willet,0.92389923,1.0,4.0
+Ammospiza maritima_Seaside Sparrow,0.27387482,1.0,4.0
+Tringa semipalmata_Willet,0.5254355,2.0,5.0
+Ammospiza maritima_Seaside Sparrow,0.22982407,2.0,5.0
+Haematopus palliatus_American Oystercatcher,0.10996739,2.0,5.0
+Tringa semipalmata_Willet,0.6427317,3.0,6.0
+Ammospiza maritima_Seaside Sparrow,0.30183822,3.0,6.0
+Tringa semipalmata_Willet,0.18313526,4.0,7.0
+Tringa semipalmata_Willet,0.116232395,5.0,8.0
+Tringa semipalmata_Willet,0.23845743,6.0,9.0
+Ammospiza maritima_Seaside Sparrow,0.11192404,6.0,9.0
+Ammospiza maritima_Seaside Sparrow,0.70305234,7.0,10.0
+Tringa semipalmata_Willet,0.38616556,7.0,10.0
+Tringa semipalmata_Willet,0.8523762,8.0,11.0
+Ammospiza maritima_Seaside Sparrow,0.18725803,8.0,11.0
+Tringa semipalmata_Willet,0.9598925,9.0,12.0
+Tringa semipalmata_Willet,0.99052763,10.0,13.0
+Ammospiza maritima_Seaside Sparrow,0.23552896,10.0,13.0
+Tringa semipalmata_Willet,0.9872285,11.0,14.0
+Ammospiza maritima_Seaside Sparrow,0.19775277,11.0,14.0
+Tringa semipalmata_Willet,0.95104676,12.0,15.0
+Ammospiza maritima_Seaside Sparrow,0.26947173,12.0,15.0
+Tringa semipalmata_Willet,0.94223624,13.0,16.0
+Ammospiza maritima_Seaside Sparrow,0.17841533,13.0,16.0
+Tringa semipalmata_Willet,0.94459593,14.0,17.0
+Ammospiza maritima_Seaside Sparrow,0.15579124,14.0,17.0
+Tringa semipalmata_Willet,0.94147617,15.0,18.0
+Ammospiza maritima_Seaside Sparrow,0.24514051,15.0,18.0
+Tringa semipalmata_Willet,0.8630352,16.0,19.0
+Ammospiza maritima_Seaside Sparrow,0.17163405,16.0,19.0
+Tringa semipalmata_Willet,0.96311784,17.0,20.0
+Ammospiza maritima_Seaside Sparrow,0.31205478,17.0,20.0
+Tringa semipalmata_Willet,0.22560002,18.0,21.0
+Ammospiza maritima_Seaside Sparrow,0.10428889,18.0,21.0
+Tringa semipalmata_Willet,0.19906937,19.0,22.0
+Ammospiza maritima_Seaside Sparrow,0.123331904,19.0,22.0
+Ammospiza maritima_Seaside Sparrow,0.16018388,20.0,23.0
+Ammospiza maritima_Seaside Sparrow,0.88806933,21.0,24.0
+Tringa semipalmata_Willet,0.54807997,21.0,24.0
+Sterna forsteri_Forster's Tern,0.13591272,21.0,24.0
+Tringa semipalmata_Willet,0.7732288,22.0,25.0
+Ammospiza maritima_Seaside Sparrow,0.41635695,22.0,25.0
+Tringa semipalmata_Willet,0.89632374,23.0,26.0
+Ammospiza maritima_Seaside Sparrow,0.6043812,23.0,26.0
+Tringa semipalmata_Willet,0.82762915,24.0,27.0
+Ammospiza maritima_Seaside Sparrow,0.40256277,24.0,27.0
+Tringa semipalmata_Willet,0.77700007,25.0,28.0
+Ammospiza maritima_Seaside Sparrow,0.4256811,25.0,28.0
+Tringa semipalmata_Willet,0.85459447,26.0,29.0
+Ammospiza maritima_Seaside Sparrow,0.40858755,26.0,29.0
+Tringa semipalmata_Willet,0.9042177,27.0,30.0
+Ammospiza maritima_Seaside Sparrow,0.45388135,27.0,30.0
+Tringa semipalmata_Willet,0.94209576,28.0,31.0
+Ammospiza maritima_Seaside Sparrow,0.3238121,28.0,31.0
+Tringa semipalmata_Willet,0.80281085,29.0,32.0
+Ammospiza maritima_Seaside Sparrow,0.47462374,29.0,32.0
+Tringa semipalmata_Willet,0.9153744,30.0,33.0
+Ammospiza maritima_Seaside Sparrow,0.4621071,30.0,33.0
+Tringa semipalmata_Willet,0.84716445,31.0,34.0
+Ammospiza maritima_Seaside Sparrow,0.13416491,31.0,34.0
+Tringa semipalmata_Willet,0.8434357,32.0,35.0
+Ammospiza maritima_Seaside Sparrow,0.13855764,32.0,35.0
+Tringa semipalmata_Willet,0.5042138,33.0,36.0
+Ammospiza maritima_Seaside Sparrow,0.15874103,33.0,36.0
+Tringa semipalmata_Willet,0.74292564,34.0,37.0
+Ammospiza maritima_Seaside Sparrow,0.35284412,34.0,37.0
+Tringa semipalmata_Willet,0.91077745,35.0,38.0
+Ammospiza maritima_Seaside Sparrow,0.44665062,35.0,38.0
+Tringa semipalmata_Willet,0.9294488,36.0,39.0
+Ammospiza maritima_Seaside Sparrow,0.32992133,36.0,39.0
+Ammospiza maritima_Seaside Sparrow,0.23241404,37.0,40.0
+Tringa semipalmata_Willet,0.16789745,37.0,40.0
+Leucophaeus atricilla_Laughing Gull,0.13022122,38.0,41.0
+Leucophaeus atricilla_Laughing Gull,0.13143967,39.0,42.0
+Tringa melanoleuca_Greater Yellowlegs,0.5358298,40.0,43.0

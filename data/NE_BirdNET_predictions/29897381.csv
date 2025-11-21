@@ -1,0 +1,502 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.9927194,0.0,3.0
+Spiza americana_Dickcissel,0.98414284,1.0,4.0
+Spiza americana_Dickcissel,0.9934744,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21250816,3.0,6.0
+Gallinula galeata_Common Gallinule,0.16833436,3.0,6.0
+Spiza americana_Dickcissel,0.9708402,4.0,7.0
+Spiza americana_Dickcissel,0.9913839,5.0,8.0
+Spiza americana_Dickcissel,0.9692584,6.0,9.0
+Spiza americana_Dickcissel,0.9570267,7.0,10.0
+Centronyx henslowii_Henslow's Sparrow,0.25794718,7.0,10.0
+Chlidonias niger_Black Tern,0.22911125,8.0,11.0
+Spiza americana_Dickcissel,0.994001,9.0,12.0
+Spiza americana_Dickcissel,0.99075764,10.0,13.0
+Spiza americana_Dickcissel,0.98218256,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.9428056,12.0,15.0
+Spiza americana_Dickcissel,0.9346849,13.0,16.0
+Centronyx henslowii_Henslow's Sparrow,0.20816952,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.20051178,13.0,16.0
+Spiza americana_Dickcissel,0.9817732,14.0,17.0
+Spiza americana_Dickcissel,0.97975093,15.0,18.0
+Spiza americana_Dickcissel,0.98973465,16.0,19.0
+Chlidonias niger_Black Tern,0.5271732,17.0,20.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20866656,17.0,20.0
+Spiza americana_Dickcissel,0.9860051,18.0,21.0
+Spiza americana_Dickcissel,0.98283744,19.0,22.0
+Spiza americana_Dickcissel,0.9853424,20.0,23.0
+Spiza americana_Dickcissel,0.28063214,21.0,24.0
+Ammospiza maritima_Seaside Sparrow,0.1546402,21.0,24.0
+Tachycineta bicolor_Tree Swallow,0.15323374,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.12583621,21.0,24.0
+Pooecetes gramineus_Vesper Sparrow,0.12401429,21.0,24.0
+Tachycineta bicolor_Tree Swallow,0.75567573,22.0,25.0
+Spiza americana_Dickcissel,0.62566924,22.0,25.0
+Spiza americana_Dickcissel,0.98799324,23.0,26.0
+Spiza americana_Dickcissel,0.9829243,24.0,27.0
+Spiza americana_Dickcissel,0.98555815,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.17725159,26.0,29.0
+Spiza americana_Dickcissel,0.97153354,27.0,30.0
+Spiza americana_Dickcissel,0.9836326,28.0,31.0
+Spiza americana_Dickcissel,0.99176157,29.0,32.0
+Spiza americana_Dickcissel,0.97769606,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15219559,31.0,34.0
+Tachycineta bicolor_Tree Swallow,0.11610024,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21727921,32.0,35.0
+Tachycineta bicolor_Tree Swallow,0.12334142,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.12238911,32.0,35.0
+Spiza americana_Dickcissel,0.92247677,33.0,36.0
+Centronyx henslowii_Henslow's Sparrow,0.1507822,33.0,36.0
+Spiza americana_Dickcissel,0.980734,34.0,37.0
+Spiza americana_Dickcissel,0.99055946,35.0,38.0
+Spiza americana_Dickcissel,0.9919761,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.10841005,37.0,40.0
+Spiza americana_Dickcissel,0.9137149,38.0,41.0
+Centronyx henslowii_Henslow's Sparrow,0.2532471,38.0,41.0
+Spiza americana_Dickcissel,0.81313825,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.10368125,39.0,42.0
+Spiza americana_Dickcissel,0.45629916,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11326483,40.0,43.0
+Spiza americana_Dickcissel,0.9710751,41.0,44.0
+Spiza americana_Dickcissel,0.96136713,42.0,45.0
+Spiza americana_Dickcissel,0.969262,43.0,46.0
+Spiza americana_Dickcissel,0.9695006,44.0,47.0
+Spiza americana_Dickcissel,0.99211264,46.0,49.0
+Spiza americana_Dickcissel,0.9829642,47.0,50.0
+Spiza americana_Dickcissel,0.993068,48.0,51.0
+Spiza americana_Dickcissel,0.98735344,49.0,52.0
+Ammospiza nelsoni_Nelson's Sparrow,0.237364,50.0,53.0
+Tachycineta bicolor_Tree Swallow,0.18505839,50.0,53.0
+Spiza americana_Dickcissel,0.97798365,51.0,54.0
+Spiza americana_Dickcissel,0.9607134,52.0,55.0
+Spiza americana_Dickcissel,0.98850435,53.0,56.0
+Spiza americana_Dickcissel,0.64508194,54.0,57.0
+Passerculus sandwichensis_Savannah Sparrow,0.10636901,54.0,57.0
+Spiza americana_Dickcissel,0.9884651,55.0,58.0
+Spiza americana_Dickcissel,0.9825187,56.0,59.0
+Spiza americana_Dickcissel,0.982906,57.0,60.0
+Spiza americana_Dickcissel,0.97385466,58.0,61.0
+Dolichonyx oryzivorus_Bobolink,0.12399078,59.0,62.0
+Spiza americana_Dickcissel,0.96109265,60.0,63.0
+Spiza americana_Dickcissel,0.9927422,61.0,64.0
+Spiza americana_Dickcissel,0.9858601,62.0,65.0
+Spiza americana_Dickcissel,0.77760196,63.0,66.0
+Ammospiza maritima_Seaside Sparrow,0.40000045,63.0,66.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1936241,63.0,66.0
+Sturnella magna_Eastern Meadowlark,0.1920604,63.0,66.0
+Eremophila alpestris_Horned Lark,0.16224562,64.0,67.0
+Tachycineta bicolor_Tree Swallow,0.14398628,64.0,67.0
+Spiza americana_Dickcissel,0.12921722,64.0,67.0
+Spiza americana_Dickcissel,0.97028977,65.0,68.0
+Spiza americana_Dickcissel,0.9924495,66.0,69.0
+Spiza americana_Dickcissel,0.9908131,67.0,70.0
+Spiza americana_Dickcissel,0.97125643,69.0,72.0
+Spiza americana_Dickcissel,0.9922011,70.0,73.0
+Spiza americana_Dickcissel,0.98822594,71.0,74.0
+Spiza americana_Dickcissel,0.98590547,72.0,75.0
+Emberiza melanocephala_Black-headed Bunting,0.37033343,73.0,76.0
+Spiza americana_Dickcissel,0.2837951,73.0,76.0
+Spiza americana_Dickcissel,0.99483055,74.0,77.0
+Spiza americana_Dickcissel,0.992074,75.0,78.0
+Spiza americana_Dickcissel,0.9883553,76.0,79.0
+Ammospiza maritima_Seaside Sparrow,0.68104607,77.0,80.0
+Tyrannus tyrannus_Eastern Kingbird,0.323674,78.0,81.0
+Ammospiza maritima_Seaside Sparrow,0.16986975,78.0,81.0
+Ixobrychus exilis_Least Bittern,0.15567991,78.0,81.0
+Spiza americana_Dickcissel,0.9903904,79.0,82.0
+Spiza americana_Dickcissel,0.99341726,80.0,83.0
+Spiza americana_Dickcissel,0.9751702,81.0,84.0
+Spiza americana_Dickcissel,0.976315,82.0,85.0
+Sturnella magna_Eastern Meadowlark,0.13442677,85.0,88.0
+Spiza americana_Dickcissel,0.13284408,85.0,88.0
+Spiza americana_Dickcissel,0.25310054,86.0,89.0
+Spiza americana_Dickcissel,0.8411274,87.0,90.0
+Sturnella magna_Eastern Meadowlark,0.30556592,87.0,90.0
+Spiza americana_Dickcissel,0.9904359,88.0,91.0
+Spiza americana_Dickcissel,0.9817277,89.0,92.0
+Spiza americana_Dickcissel,0.99141747,90.0,93.0
+Spiza americana_Dickcissel,0.99631566,91.0,94.0
+Spiza americana_Dickcissel,0.9757397,93.0,96.0
+Spiza americana_Dickcissel,0.9864507,94.0,97.0
+Spiza americana_Dickcissel,0.9850878,95.0,98.0
+Spiza americana_Dickcissel,0.36136445,96.0,99.0
+Icterus spurius_Orchard Oriole,0.13757,96.0,99.0
+Ammospiza maritima_Seaside Sparrow,0.1059327,96.0,99.0
+Spiza americana_Dickcissel,0.98090035,97.0,100.0
+Spiza americana_Dickcissel,0.98751277,98.0,101.0
+Spiza americana_Dickcissel,0.98253995,99.0,102.0
+Spiza americana_Dickcissel,0.99539834,100.0,103.0
+Spiza americana_Dickcissel,0.99000144,102.0,105.0
+Spiza americana_Dickcissel,0.9748687,103.0,106.0
+Spiza americana_Dickcissel,0.9849724,104.0,107.0
+Spiza americana_Dickcissel,0.9742482,105.0,108.0
+Eremophila alpestris_Horned Lark,0.16558962,107.0,110.0
+Tachycineta bicolor_Tree Swallow,0.13204119,107.0,110.0
+Spiza americana_Dickcissel,0.954337,108.0,111.0
+Spiza americana_Dickcissel,0.90561056,109.0,112.0
+Spiza americana_Dickcissel,0.9098367,110.0,113.0
+Spiza americana_Dickcissel,0.9966491,116.0,119.0
+Spiza americana_Dickcissel,0.9801751,117.0,120.0
+Spiza americana_Dickcissel,0.95177823,118.0,121.0
+Spiza americana_Dickcissel,0.94791466,119.0,122.0
+Emberiza melanocephala_Black-headed Bunting,0.3047371,120.0,123.0
+Progne tapera_Brown-chested Martin,0.13301362,120.0,123.0
+Eremophila alpestris_Horned Lark,0.12860195,120.0,123.0
+Spiza americana_Dickcissel,0.96427274,121.0,124.0
+Spiza americana_Dickcissel,0.9679404,122.0,125.0
+Spiza americana_Dickcissel,0.97835976,123.0,126.0
+Spiza americana_Dickcissel,0.991996,125.0,128.0
+Spiza americana_Dickcissel,0.9537544,126.0,129.0
+Spiza americana_Dickcissel,0.9824212,127.0,130.0
+Spiza americana_Dickcissel,0.9286198,128.0,131.0
+Spiza americana_Dickcissel,0.9873984,130.0,133.0
+Spiza americana_Dickcissel,0.97345924,131.0,134.0
+Spiza americana_Dickcissel,0.95394796,132.0,135.0
+Spiza americana_Dickcissel,0.9467394,133.0,136.0
+Spiza americana_Dickcissel,0.9508704,135.0,138.0
+Spiza americana_Dickcissel,0.9541388,136.0,139.0
+Spiza americana_Dickcissel,0.97194946,137.0,140.0
+Spiza americana_Dickcissel,0.9730926,138.0,141.0
+Emberiza melanocephala_Black-headed Bunting,0.14707059,139.0,142.0
+Spiza americana_Dickcissel,0.103150085,139.0,142.0
+Spiza americana_Dickcissel,0.95279765,140.0,143.0
+Spiza americana_Dickcissel,0.9728846,141.0,144.0
+Spiza americana_Dickcissel,0.9774994,142.0,145.0
+Spiza americana_Dickcissel,0.9818065,143.0,146.0
+Spiza americana_Dickcissel,0.9554391,144.0,147.0
+Emberiza melanocephala_Black-headed Bunting,0.27400124,144.0,147.0
+Spiza americana_Dickcissel,0.96801734,145.0,148.0
+Spiza americana_Dickcissel,0.9231951,146.0,149.0
+Spiza americana_Dickcissel,0.95270103,147.0,150.0
+Strix aluco_Tawny Owl,0.20033641,148.0,151.0
+Emberiza melanocephala_Black-headed Bunting,0.25954476,149.0,152.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.25144845,149.0,152.0
+Eremophila alpestris_Horned Lark,0.14001219,149.0,152.0
+Alaudala rufescens_Mediterranean Short-toed Lark,0.13096856,149.0,152.0
+Spiza americana_Dickcissel,0.97670865,150.0,153.0
+Spiza americana_Dickcissel,0.9819755,151.0,154.0
+Spiza americana_Dickcissel,0.9752366,152.0,155.0
+Spiza americana_Dickcissel,0.9889286,154.0,157.0
+Spiza americana_Dickcissel,0.88916194,155.0,158.0
+Spiza americana_Dickcissel,0.8720102,156.0,159.0
+Spiza americana_Dickcissel,0.852802,157.0,160.0
+Emberiza melanocephala_Black-headed Bunting,0.38366875,158.0,161.0
+Emberiza bruniceps_Red-headed Bunting,0.17878324,158.0,161.0
+Spiza americana_Dickcissel,0.96512145,159.0,162.0
+Spiza americana_Dickcissel,0.8463402,160.0,163.0
+Spiza americana_Dickcissel,0.6891512,161.0,164.0
+Anthus leucophrys_Plain-backed Pipit,0.17189656,161.0,164.0
+Spiza americana_Dickcissel,0.32032424,162.0,165.0
+Spiza americana_Dickcissel,0.92754084,163.0,166.0
+Spiza americana_Dickcissel,0.9678413,164.0,167.0
+Spiza americana_Dickcissel,0.90621233,165.0,168.0
+Emberiza melanocephala_Black-headed Bunting,0.17885259,167.0,170.0
+Emberiza melanocephala_Black-headed Bunting,0.19662005,168.0,171.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.114219636,168.0,171.0
+Tachycineta bicolor_Tree Swallow,0.47497717,169.0,172.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.12797177,169.0,172.0
+Emberiza melanocephala_Black-headed Bunting,0.1067503,169.0,172.0
+Spiza americana_Dickcissel,0.9863516,170.0,173.0
+Spiza americana_Dickcissel,0.9837752,171.0,174.0
+Spiza americana_Dickcissel,0.92956704,172.0,175.0
+Spiza americana_Dickcissel,0.93365157,173.0,176.0
+Spiza americana_Dickcissel,0.93241274,175.0,178.0
+Spiza americana_Dickcissel,0.90740055,176.0,179.0
+Spiza americana_Dickcissel,0.96274346,177.0,180.0
+Spiza americana_Dickcissel,0.32955208,178.0,181.0
+Emberiza melanocephala_Black-headed Bunting,0.48414868,179.0,182.0
+Spiza americana_Dickcissel,0.43899754,179.0,182.0
+Emberiza calandra_Corn Bunting,0.11101834,179.0,182.0
+Saxicola rubetra_Whinchat,0.105237916,179.0,182.0
+Spiza americana_Dickcissel,0.9413847,180.0,183.0
+Spiza americana_Dickcissel,0.97141886,181.0,184.0
+Spiza americana_Dickcissel,0.9610646,182.0,185.0
+Dolichonyx oryzivorus_Bobolink,0.2344294,183.0,186.0
+Spiza americana_Dickcissel,0.9836759,184.0,187.0
+Spiza americana_Dickcissel,0.98262215,185.0,188.0
+Spiza americana_Dickcissel,0.9775213,186.0,189.0
+Spiza americana_Dickcissel,0.9879864,187.0,190.0
+Eremophila alpestris_Horned Lark,0.34830955,188.0,191.0
+Spiza americana_Dickcissel,0.33996326,188.0,191.0
+Emberiza melanocephala_Black-headed Bunting,0.12822202,188.0,191.0
+Spiza americana_Dickcissel,0.96388805,189.0,192.0
+Spiza americana_Dickcissel,0.970347,190.0,193.0
+Spiza americana_Dickcissel,0.97824806,191.0,194.0
+Quiscalus quiscula_Common Grackle,0.65481406,193.0,196.0
+Quiscalus major_Boat-tailed Grackle,0.2260935,193.0,196.0
+Quiscalus mexicanus_Great-tailed Grackle,0.109685354,193.0,196.0
+Quiscalus quiscula_Common Grackle,0.18253046,194.0,197.0
+Calliope calliope_Siberian Rubythroat,0.16651686,194.0,197.0
+Spiza americana_Dickcissel,0.9860072,195.0,198.0
+Spiza americana_Dickcissel,0.98515,196.0,199.0
+Spiza americana_Dickcissel,0.97069114,197.0,200.0
+Spiza americana_Dickcissel,0.95117486,198.0,201.0
+Emberiza melanocephala_Black-headed Bunting,0.6228933,199.0,202.0
+Eremophila alpestris_Horned Lark,0.19329736,199.0,202.0
+Spiza americana_Dickcissel,0.15645726,199.0,202.0
+Spiza americana_Dickcissel,0.970979,200.0,203.0
+Spiza americana_Dickcissel,0.9836728,201.0,204.0
+Spiza americana_Dickcissel,0.97808504,202.0,205.0
+Progne chalybea_Gray-breasted Martin,0.11257606,203.0,206.0
+Emberiza melanocephala_Black-headed Bunting,0.5264991,204.0,207.0
+Spiza americana_Dickcissel,0.23535465,204.0,207.0
+Emberiza calandra_Corn Bunting,0.14244415,204.0,207.0
+Progne tapera_Brown-chested Martin,0.12202568,204.0,207.0
+Spiza americana_Dickcissel,0.9596854,205.0,208.0
+Spiza americana_Dickcissel,0.9701109,206.0,209.0
+Spiza americana_Dickcissel,0.97807306,207.0,210.0
+Spiza americana_Dickcissel,0.98398757,208.0,211.0
+Centronyx henslowii_Henslow's Sparrow,0.21144222,208.0,211.0
+Spiza americana_Dickcissel,0.90239626,209.0,212.0
+Emberiza melanocephala_Black-headed Bunting,0.40544954,209.0,212.0
+Tachycineta bicolor_Tree Swallow,0.21381232,209.0,212.0
+Sturnella magna_Eastern Meadowlark,0.1104741,209.0,212.0
+Eremophila alpestris_Horned Lark,0.101517245,209.0,212.0
+Spiza americana_Dickcissel,0.9700855,210.0,213.0
+Spiza americana_Dickcissel,0.983721,211.0,214.0
+Spiza americana_Dickcissel,0.9829779,212.0,215.0
+Spiza americana_Dickcissel,0.6647134,216.0,219.0
+Emberiza melanocephala_Black-headed Bunting,0.203237,216.0,219.0
+Spiza americana_Dickcissel,0.9791469,217.0,220.0
+Spiza americana_Dickcissel,0.97966284,218.0,221.0
+Spiza americana_Dickcissel,0.98172194,219.0,222.0
+Spiza americana_Dickcissel,0.9757352,220.0,223.0
+Panurus biarmicus_Bearded Reedling,0.12905422,221.0,224.0
+Emberiza melanocephala_Black-headed Bunting,0.2482258,222.0,225.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.18930383,222.0,225.0
+Eremophila alpestris_Horned Lark,0.10524221,222.0,225.0
+Spiza americana_Dickcissel,0.98704845,223.0,226.0
+Spiza americana_Dickcissel,0.9852743,224.0,227.0
+Spiza americana_Dickcissel,0.9762181,225.0,228.0
+Spiza americana_Dickcissel,0.9615179,226.0,229.0
+Emberiza melanocephala_Black-headed Bunting,0.15502712,227.0,230.0
+Spiza americana_Dickcissel,0.9813498,228.0,231.0
+Spiza americana_Dickcissel,0.97802395,229.0,232.0
+Spiza americana_Dickcissel,0.96418476,230.0,233.0
+Spiza americana_Dickcissel,0.96677464,231.0,234.0
+Spiza americana_Dickcissel,0.99023646,233.0,236.0
+Spiza americana_Dickcissel,0.96554905,234.0,237.0
+Spiza americana_Dickcissel,0.96661544,235.0,238.0
+Spiza americana_Dickcissel,0.9708298,236.0,239.0
+Spiza americana_Dickcissel,0.9765519,238.0,241.0
+Spiza americana_Dickcissel,0.95732605,239.0,242.0
+Spiza americana_Dickcissel,0.9733191,240.0,243.0
+Spiza americana_Dickcissel,0.9771194,241.0,244.0
+Dolichonyx oryzivorus_Bobolink,0.10739352,242.0,245.0
+Spiza americana_Dickcissel,0.2437001,243.0,246.0
+Emberiza melanocephala_Black-headed Bunting,0.22728354,243.0,246.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.12748256,243.0,246.0
+Spiza americana_Dickcissel,0.9758918,244.0,247.0
+Spiza americana_Dickcissel,0.985881,245.0,248.0
+Spiza americana_Dickcissel,0.9804176,246.0,249.0
+Chondestes grammacus_Lark Sparrow,0.2928842,247.0,250.0
+Tachycineta leucorrhoa_White-rumped Swallow,0.24761131,247.0,250.0
+Spiza americana_Dickcissel,0.13597786,247.0,250.0
+Spiza americana_Dickcissel,0.57892376,248.0,251.0
+Emberiza melanocephala_Black-headed Bunting,0.5226162,248.0,251.0
+Progne tapera_Brown-chested Martin,0.11697097,248.0,251.0
+Spiza americana_Dickcissel,0.9869948,249.0,252.0
+Spiza americana_Dickcissel,0.9737995,250.0,253.0
+Spiza americana_Dickcissel,0.9813999,251.0,254.0
+Spiza americana_Dickcissel,0.12987499,253.0,256.0
+Emberiza melanocephala_Black-headed Bunting,0.10708801,253.0,256.0
+Spiza americana_Dickcissel,0.9847222,254.0,257.0
+Spiza americana_Dickcissel,0.98795354,255.0,258.0
+Spiza americana_Dickcissel,0.98427224,256.0,259.0
+Spiza americana_Dickcissel,0.98997444,257.0,260.0
+Emberiza melanocephala_Black-headed Bunting,0.7470334,258.0,261.0
+Saxicola rubetra_Whinchat,0.19401331,258.0,261.0
+Emberiza calandra_Corn Bunting,0.1842806,258.0,261.0
+Spiza americana_Dickcissel,0.12652041,258.0,261.0
+Spiza americana_Dickcissel,0.9498123,259.0,262.0
+Spiza americana_Dickcissel,0.98763275,260.0,263.0
+Spiza americana_Dickcissel,0.98043734,261.0,264.0
+Spiza americana_Dickcissel,0.9924292,264.0,267.0
+Spiza americana_Dickcissel,0.97311234,265.0,268.0
+Spiza americana_Dickcissel,0.9828115,266.0,269.0
+Spiza americana_Dickcissel,0.9851778,267.0,270.0
+Dolichonyx oryzivorus_Bobolink,0.87823737,268.0,271.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1573104,268.0,271.0
+Spiza americana_Dickcissel,0.982395,269.0,272.0
+Spiza americana_Dickcissel,0.9691677,270.0,273.0
+Spiza americana_Dickcissel,0.96727026,271.0,274.0
+Spiza americana_Dickcissel,0.97505873,272.0,275.0
+Emberiza melanocephala_Black-headed Bunting,0.7507764,274.0,277.0
+Spiza americana_Dickcissel,0.6786062,274.0,277.0
+Eremophila alpestris_Horned Lark,0.32741153,274.0,277.0
+Spiza americana_Dickcissel,0.9776062,275.0,278.0
+Spiza americana_Dickcissel,0.97911,276.0,279.0
+Spiza americana_Dickcissel,0.9784241,277.0,280.0
+Emberiza melanocephala_Black-headed Bunting,0.54995483,280.0,283.0
+Spiza americana_Dickcissel,0.27097023,280.0,283.0
+Emberiza calandra_Corn Bunting,0.15438987,280.0,283.0
+Spiza americana_Dickcissel,0.9773082,281.0,284.0
+Spiza americana_Dickcissel,0.9804937,282.0,285.0
+Spiza americana_Dickcissel,0.98936,283.0,286.0
+Spiza americana_Dickcissel,0.9841039,284.0,287.0
+Centronyx henslowii_Henslow's Sparrow,0.12067952,284.0,287.0
+Icterus spurius_Orchard Oriole,0.105056144,286.0,289.0
+Empidonax traillii_Willow Flycatcher,0.2032052,287.0,290.0
+Emberiza melanocephala_Black-headed Bunting,0.66995955,288.0,291.0
+Spiza americana_Dickcissel,0.59064025,288.0,291.0
+Eremophila alpestris_Horned Lark,0.21648146,288.0,291.0
+Emberiza calandra_Corn Bunting,0.12788643,288.0,291.0
+Spiza americana_Dickcissel,0.98061633,289.0,292.0
+Spiza americana_Dickcissel,0.983593,290.0,293.0
+Spiza americana_Dickcissel,0.9931931,291.0,294.0
+Apus apus_Common Swift,0.11144894,292.0,295.0
+Spiza americana_Dickcissel,0.6890562,294.0,297.0
+Emberiza melanocephala_Black-headed Bunting,0.49498278,294.0,297.0
+Eremophila alpestris_Horned Lark,0.48577717,294.0,297.0
+Emberiza calandra_Corn Bunting,0.10145964,294.0,297.0
+Spiza americana_Dickcissel,0.9819344,295.0,298.0
+Spiza americana_Dickcissel,0.9827513,296.0,299.0
+Spiza americana_Dickcissel,0.98151934,297.0,300.0
+Tyrannus tyrannus_Eastern Kingbird,0.47451591,298.0,301.0
+Spiza americana_Dickcissel,0.9916095,299.0,302.0
+Spiza americana_Dickcissel,0.97990304,300.0,303.0
+Spiza americana_Dickcissel,0.9865226,301.0,304.0
+Spiza americana_Dickcissel,0.9651559,302.0,305.0
+Tachycineta bicolor_Tree Swallow,0.3198047,303.0,306.0
+Spiza americana_Dickcissel,0.14353333,303.0,306.0
+Spiza americana_Dickcissel,0.98745894,304.0,307.0
+Spiza americana_Dickcissel,0.97877777,305.0,308.0
+Spiza americana_Dickcissel,0.982872,306.0,309.0
+Spiza americana_Dickcissel,0.9868038,307.0,310.0
+Centronyx henslowii_Henslow's Sparrow,0.12316084,307.0,310.0
+Tachycineta bicolor_Tree Swallow,0.24245013,308.0,311.0
+Spiza americana_Dickcissel,0.197423,308.0,311.0
+Spiza americana_Dickcissel,0.9694318,309.0,312.0
+Spiza americana_Dickcissel,0.9518978,310.0,313.0
+Spiza americana_Dickcissel,0.9778439,311.0,314.0
+Chordeiles minor_Common Nighthawk,0.13413237,312.0,315.0
+Spiza americana_Dickcissel,0.96750546,316.0,319.0
+Spiza americana_Dickcissel,0.9772161,317.0,320.0
+Spiza americana_Dickcissel,0.9619414,318.0,321.0
+Spiza americana_Dickcissel,0.928161,319.0,322.0
+Centronyx henslowii_Henslow's Sparrow,0.104149,319.0,322.0
+Spiza americana_Dickcissel,0.20692518,321.0,324.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20408401,321.0,324.0
+Tachycineta bicolor_Tree Swallow,0.11272541,321.0,324.0
+Spiza americana_Dickcissel,0.9786733,322.0,325.0
+Spiza americana_Dickcissel,0.99121934,323.0,326.0
+Spiza americana_Dickcissel,0.9677471,324.0,327.0
+Spiza americana_Dickcissel,0.9652343,326.0,329.0
+Emberiza melanocephala_Black-headed Bunting,0.13757181,326.0,329.0
+Spiza americana_Dickcissel,0.9587739,327.0,330.0
+Spiza americana_Dickcissel,0.9792308,328.0,331.0
+Spiza americana_Dickcissel,0.96169114,329.0,332.0
+Spiza americana_Dickcissel,0.6367411,331.0,334.0
+Emberiza melanocephala_Black-headed Bunting,0.48597303,331.0,334.0
+Eremophila alpestris_Horned Lark,0.25151262,331.0,334.0
+Progne tapera_Brown-chested Martin,0.108747296,331.0,334.0
+Spiza americana_Dickcissel,0.97775465,332.0,335.0
+Spiza americana_Dickcissel,0.97378564,333.0,336.0
+Spiza americana_Dickcissel,0.97533095,334.0,337.0
+Spiza americana_Dickcissel,0.519623,337.0,340.0
+Emberiza melanocephala_Black-headed Bunting,0.43018335,337.0,340.0
+Progne tapera_Brown-chested Martin,0.22182766,337.0,340.0
+Eremophila alpestris_Horned Lark,0.17029051,337.0,340.0
+Spiza americana_Dickcissel,0.96595895,338.0,341.0
+Spiza americana_Dickcissel,0.98543173,339.0,342.0
+Spiza americana_Dickcissel,0.99128425,340.0,343.0
+Spiza americana_Dickcissel,0.99375916,343.0,346.0
+Spiza americana_Dickcissel,0.9934908,344.0,347.0
+Spiza americana_Dickcissel,0.9673266,345.0,348.0
+Spiza americana_Dickcissel,0.97791404,346.0,349.0
+Spiza americana_Dickcissel,0.89968836,347.0,350.0
+Tachycineta bicolor_Tree Swallow,0.35657004,347.0,350.0
+Eremophila alpestris_Horned Lark,0.12723818,347.0,350.0
+Sturnella magna_Eastern Meadowlark,0.111855626,347.0,350.0
+Spiza americana_Dickcissel,0.97368884,348.0,351.0
+Spiza americana_Dickcissel,0.98223096,349.0,352.0
+Spiza americana_Dickcissel,0.97840846,350.0,353.0
+Spiza americana_Dickcissel,0.9874849,352.0,355.0
+Spiza americana_Dickcissel,0.96881837,353.0,356.0
+Spiza americana_Dickcissel,0.95840025,354.0,357.0
+Spiza americana_Dickcissel,0.9657457,355.0,358.0
+Dolichonyx oryzivorus_Bobolink,0.109471105,356.0,359.0
+Eremophila alpestris_Horned Lark,0.20281354,357.0,360.0
+Spiza americana_Dickcissel,0.98280185,358.0,361.0
+Spiza americana_Dickcissel,0.9807575,359.0,362.0
+Spiza americana_Dickcissel,0.95747066,360.0,363.0
+Spiza americana_Dickcissel,0.982016,361.0,364.0
+Dolichonyx oryzivorus_Bobolink,0.96559584,362.0,365.0
+Spiza americana_Dickcissel,0.99472505,363.0,366.0
+Spiza americana_Dickcissel,0.9756084,364.0,367.0
+Spiza americana_Dickcissel,0.9626921,365.0,368.0
+Spiza americana_Dickcissel,0.96048915,366.0,369.0
+Spiza americana_Dickcissel,0.57518005,367.0,370.0
+Eremophila alpestris_Horned Lark,0.31795523,367.0,370.0
+Emberiza melanocephala_Black-headed Bunting,0.14072973,367.0,370.0
+Spiza americana_Dickcissel,0.9753895,368.0,371.0
+Spiza americana_Dickcissel,0.92575085,369.0,372.0
+Spiza americana_Dickcissel,0.97074956,370.0,373.0
+Dolichonyx oryzivorus_Bobolink,0.93473434,371.0,374.0
+Spiza americana_Dickcissel,0.118488654,371.0,374.0
+Spiza americana_Dickcissel,0.23249535,372.0,375.0
+Eremophila alpestris_Horned Lark,0.12500575,372.0,375.0
+Dolichonyx oryzivorus_Bobolink,0.11193407,372.0,375.0
+Spiza americana_Dickcissel,0.91110903,373.0,376.0
+Spiza americana_Dickcissel,0.9732376,374.0,377.0
+Spiza americana_Dickcissel,0.96264863,375.0,378.0
+Spiza americana_Dickcissel,0.98654,377.0,380.0
+Spiza americana_Dickcissel,0.9853758,378.0,381.0
+Spiza americana_Dickcissel,0.95577663,379.0,382.0
+Spiza americana_Dickcissel,0.9714661,380.0,383.0
+Curruca communis_Greater Whitethroat,0.11117171,381.0,384.0
+Curruca curruca_Lesser Whitethroat,0.11102095,381.0,384.0
+Dolichonyx oryzivorus_Bobolink,0.10970534,381.0,384.0
+Curruca communis_Greater Whitethroat,0.10858421,382.0,385.0
+Emberiza schoeniclus_Reed Bunting,0.10061372,382.0,385.0
+Spiza americana_Dickcissel,0.97192186,383.0,386.0
+Spiza americana_Dickcissel,0.94719875,384.0,387.0
+Spiza americana_Dickcissel,0.9547767,385.0,388.0
+Spiza americana_Dickcissel,0.921969,386.0,389.0
+Spiza americana_Dickcissel,0.1036848,388.0,391.0
+Emberiza melanocephala_Black-headed Bunting,0.100566804,388.0,391.0
+Spiza americana_Dickcissel,0.9712468,389.0,392.0
+Spiza americana_Dickcissel,0.93910646,390.0,393.0
+Spiza americana_Dickcissel,0.92297846,391.0,394.0
+Spiza americana_Dickcissel,0.951038,392.0,395.0
+Dolichonyx oryzivorus_Bobolink,0.330464,393.0,396.0
+Curruca communis_Greater Whitethroat,0.25730255,393.0,396.0
+Spiza americana_Dickcissel,0.81159246,394.0,397.0
+Spiza americana_Dickcissel,0.9533578,395.0,398.0
+Spiza americana_Dickcissel,0.95724064,396.0,399.0
+Spiza americana_Dickcissel,0.9699258,397.0,400.0
+Asthenes coryi_Ochre-browed Thistletail,0.15647613,402.0,405.0
+Calidris pygmaea_Spoon-billed Sandpiper,0.10086159,402.0,405.0
+Todus subulatus_Broad-billed Tody,0.14724928,403.0,406.0
+Asthenes coryi_Ochre-browed Thistletail,0.10132587,404.0,407.0
+Asthenes coryi_Ochre-browed Thistletail,0.12763673,407.0,410.0
+Asthenes coryi_Ochre-browed Thistletail,0.14779146,408.0,411.0
+Buteo ridgwayi_Ridgway's Hawk,0.10768829,408.0,411.0
+Calidris pygmaea_Spoon-billed Sandpiper,0.15827109,409.0,412.0
+Asthenes coryi_Ochre-browed Thistletail,0.10837494,409.0,412.0
+Asthenes coryi_Ochre-browed Thistletail,0.16497596,418.0,421.0
+Asthenes coryi_Ochre-browed Thistletail,0.11597976,419.0,422.0
+Asthenes coryi_Ochre-browed Thistletail,0.25777164,421.0,424.0
+Calidris pygmaea_Spoon-billed Sandpiper,0.19972393,422.0,425.0
+Asthenes coryi_Ochre-browed Thistletail,0.14935677,422.0,425.0
+Calidris pygmaea_Spoon-billed Sandpiper,0.16443239,423.0,426.0
+Asthenes coryi_Ochre-browed Thistletail,0.14691062,423.0,426.0
+Asthenes coryi_Ochre-browed Thistletail,0.12121946,424.0,427.0
+Asthenes coryi_Ochre-browed Thistletail,0.18744652,425.0,428.0
+Asthenes coryi_Ochre-browed Thistletail,0.32725444,426.0,429.0
+Asthenes coryi_Ochre-browed Thistletail,0.15821575,431.0,434.0
+Asthenes coryi_Ochre-browed Thistletail,0.17465684,440.0,443.0
+Asthenes coryi_Ochre-browed Thistletail,0.3973959,441.0,444.0
+Asthenes coryi_Ochre-browed Thistletail,0.37247884,442.0,445.0
+Asthenes coryi_Ochre-browed Thistletail,0.29896677,443.0,446.0
+Asthenes coryi_Ochre-browed Thistletail,0.22510442,444.0,447.0
+Asthenes coryi_Ochre-browed Thistletail,0.1379528,445.0,448.0
+Asthenes coryi_Ochre-browed Thistletail,0.10296148,446.0,449.0
+Asthenes coryi_Ochre-browed Thistletail,0.13568757,447.0,450.0
+Myioborus albifrons_White-fronted Redstart,0.102008395,447.0,450.0
+Asthenes coryi_Ochre-browed Thistletail,0.32179907,448.0,451.0
+Asthenes coryi_Ochre-browed Thistletail,0.25683394,449.0,452.0
+Asthenes coryi_Ochre-browed Thistletail,0.2647527,450.0,453.0
+Asthenes coryi_Ochre-browed Thistletail,0.1799979,451.0,454.0
+Asthenes coryi_Ochre-browed Thistletail,0.31301963,452.0,455.0
+Asthenes coryi_Ochre-browed Thistletail,0.32294095,453.0,455.30403628117915

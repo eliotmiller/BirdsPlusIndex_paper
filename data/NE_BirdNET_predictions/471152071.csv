@@ -1,0 +1,51 @@
+species,score,start_time,end_time
+Passer domesticus_House Sparrow,0.32864636,0.0,3.0
+Passer domesticus_House Sparrow,0.12251181,1.0,4.0
+Passer domesticus_House Sparrow,0.14850259,2.0,5.0
+Passer domesticus_House Sparrow,0.60409474,4.0,7.0
+Passer domesticus_House Sparrow,0.14919253,6.0,9.0
+Passer domesticus_House Sparrow,0.23642573,7.0,10.0
+Passer domesticus_House Sparrow,0.21391523,13.0,16.0
+Passer domesticus_House Sparrow,0.12329304,14.0,17.0
+Volatinia jacarina_Blue-black Grassquit,0.1076392,14.0,17.0
+Passer domesticus_House Sparrow,0.17194584,15.0,18.0
+Passer domesticus_House Sparrow,0.121970356,16.0,19.0
+Megascops asio_Eastern Screech-Owl,0.22951415,21.0,24.0
+Megascops asio_Eastern Screech-Owl,0.136094,22.0,25.0
+Aegolius acadicus_Northern Saw-whet Owl,0.22335386,24.0,27.0
+Aegolius acadicus_Northern Saw-whet Owl,0.2379633,25.0,28.0
+Gavia immer_Common Loon,0.10827522,26.0,29.0
+Engine_Engine,0.1489581,28.0,31.0
+Coccothraustes vespertinus_Evening Grosbeak,0.75227344,56.0,59.0
+Coccothraustes vespertinus_Evening Grosbeak,0.44516164,57.0,60.0
+Passerculus sandwichensis_Savannah Sparrow,0.11027745,58.0,61.0
+Regulus satrapa_Golden-crowned Kinglet,0.106710866,59.0,62.0
+Calypte costae_Costa's Hummingbird,0.1250624,63.0,66.0
+Calypte anna_Anna's Hummingbird,0.660207,64.0,67.0
+Psaltriparus minimus_Bushtit,0.12231358,65.0,68.0
+Calypte anna_Anna's Hummingbird,0.110923976,65.0,68.0
+Poecile atricapillus_Black-capped Chickadee,0.15336217,66.0,69.0
+Power tools_Power tools,0.122889206,74.0,77.0
+Calypte anna_Anna's Hummingbird,0.14207207,77.0,80.0
+Calypte costae_Costa's Hummingbird,0.3493082,78.0,81.0
+Psaltriparus minimus_Bushtit,0.21926907,79.0,82.0
+Regulus satrapa_Golden-crowned Kinglet,0.16827346,81.0,84.0
+Poecile rufescens_Chestnut-backed Chickadee,0.4182511,85.0,88.0
+Psaltriparus minimus_Bushtit,0.15303548,85.0,88.0
+Psaltriparus minimus_Bushtit,0.25671092,86.0,89.0
+Archilochus colubris_Ruby-throated Hummingbird,0.20036562,86.0,89.0
+Archilochus colubris_Ruby-throated Hummingbird,0.34682333,87.0,90.0
+Psaltriparus minimus_Bushtit,0.212653,87.0,90.0
+Archilochus colubris_Ruby-throated Hummingbird,0.40147918,88.0,91.0
+Archilochus colubris_Ruby-throated Hummingbird,0.5797734,89.0,92.0
+Archilochus colubris_Ruby-throated Hummingbird,0.40634975,90.0,93.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14449431,91.0,94.0
+Cardinalis cardinalis_Northern Cardinal,0.16821034,92.0,95.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14583094,92.0,95.0
+Archilochus colubris_Ruby-throated Hummingbird,0.16537318,93.0,96.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17820631,94.0,97.0
+Poecile carolinensis_Carolina Chickadee,0.16073912,94.0,97.0
+Poecile rufescens_Chestnut-backed Chickadee,0.34275258,95.0,98.0
+Regulus satrapa_Golden-crowned Kinglet,0.18620737,99.0,102.0
+Calypte anna_Anna's Hummingbird,0.11736274,100.0,103.0
+Regulus satrapa_Golden-crowned Kinglet,0.107884094,105.0,108.0

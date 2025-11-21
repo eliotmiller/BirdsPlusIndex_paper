@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.5018438,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.12188287,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22529256,2.0,5.0
+Setophaga dominica_Yellow-throated Warbler,0.1027221,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.13415916,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16958492,5.0,8.0
+Protonotaria citrea_Prothonotary Warbler,0.12892403,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12629402,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.85678273,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.9349599,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.98739505,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.98910415,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.93946934,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.9321969,12.0,15.0
+Protonotaria citrea_Prothonotary Warbler,0.12572022,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.114897154,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.10836448,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.21463375,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17369148,14.0,17.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10477668,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.14203215,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12325273,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.112139516,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13244154,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.10267109,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.100781344,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17808755,18.0,21.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14642721,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.10772381,18.0,21.0
+Protonotaria citrea_Prothonotary Warbler,0.16036691,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.13557309,19.0,22.0
+Protonotaria citrea_Prothonotary Warbler,0.16924028,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.15714853,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.22367626,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.13010384,21.0,24.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10688084,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.10189934,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.12779309,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.21297742,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.31429958,26.0,29.0
+Setophaga dominica_Yellow-throated Warbler,0.302536,26.0,29.0
+Parkesia motacilla_Louisiana Waterthrush,0.19076633,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.17085378,27.0,30.0
+Protonotaria citrea_Prothonotary Warbler,0.13716605,27.0,30.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40962145,28.0,31.0
+Protonotaria citrea_Prothonotary Warbler,0.11998792,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.6629864,29.0,32.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36807787,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.9759211,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.99052423,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.97713757,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.92169803,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.90951717,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.15409258,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.15734601,36.0,39.0
+Parkesia motacilla_Louisiana Waterthrush,0.16187124,37.0,40.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18710496,38.0,41.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37336302,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.100473166,39.0,42.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2998569,40.0,43.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2042518,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.11183873,41.0,44.0
+Catharus fuscescens_Veery,0.12509832,42.0,45.0
+Protonotaria citrea_Prothonotary Warbler,0.11687035,42.0,45.0
+Catharus fuscescens_Veery,0.13597009,43.0,46.0
+Cardellina canadensis_Canada Warbler,0.10476393,45.0,48.0
+Hylocichla mustelina_Wood Thrush,0.11604093,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.27302966,47.0,50.0
+Setophaga dominica_Yellow-throated Warbler,0.26460198,48.0,51.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17049812,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.13306183,48.0,51.0
+Parkesia motacilla_Louisiana Waterthrush,0.10469374,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.10683323,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10327764,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12153953,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.109141774,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.102937065,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.11349842,51.0,54.0
+Empidonax virescens_Acadian Flycatcher,0.11578717,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1242775,53.0,56.0
+Catharus fuscescens_Veery,0.19395424,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17597772,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.11751407,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112521216,55.0,58.0
+Hylocichla mustelina_Wood Thrush,0.2342807,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.12728779,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.11794833,57.0,60.0
+Geothlypis trichas_Common Yellowthroat,0.121576115,58.0,61.0
+Hylocichla mustelina_Wood Thrush,0.10804026,58.0,61.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12421649,60.0,63.0
+Parkesia motacilla_Louisiana Waterthrush,0.10564336,60.0,63.0
+Oporornis agilis_Connecticut Warbler,0.15244865,61.0,64.0
+Empidonax virescens_Acadian Flycatcher,0.12022728,61.0,64.0

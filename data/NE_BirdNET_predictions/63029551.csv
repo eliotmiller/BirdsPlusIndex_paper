@@ -1,0 +1,667 @@
+species,score,start_time,end_time
+Setophaga pinus_Pine Warbler,0.8822233,1.0,4.0
+Setophaga pinus_Pine Warbler,0.9536971,2.0,5.0
+Setophaga pinus_Pine Warbler,0.9621826,3.0,6.0
+Setophaga pinus_Pine Warbler,0.6254449,4.0,7.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.22954243,4.0,7.0
+Phylloscopus sibilatrix_Wood Warbler,0.11416838,4.0,7.0
+Spinus tristis_American Goldfinch,0.13085128,6.0,9.0
+Setophaga pinus_Pine Warbler,0.9421689,10.0,13.0
+Setophaga pinus_Pine Warbler,0.9669899,11.0,14.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.1146328,11.0,14.0
+Setophaga pinus_Pine Warbler,0.9880484,12.0,15.0
+Setophaga pinus_Pine Warbler,0.7053417,13.0,16.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.27252084,13.0,16.0
+Cardellina rubrifrons_Red-faced Warbler,0.13359948,16.0,19.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.14765078,18.0,21.0
+Empidonax oberholseri_Dusky Flycatcher,0.11671485,18.0,21.0
+Setophaga pinus_Pine Warbler,0.9698382,19.0,22.0
+Setophaga pinus_Pine Warbler,0.97235805,20.0,23.0
+Setophaga pinus_Pine Warbler,0.9704278,21.0,24.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.7435636,22.0,25.0
+Setophaga pinus_Pine Warbler,0.602292,22.0,25.0
+Bonasa umbellus_Ruffed Grouse,0.12095774,24.0,27.0
+Setophaga pinus_Pine Warbler,0.78485084,28.0,31.0
+Leiothlypis crissalis_Colima Warbler,0.19252314,28.0,31.0
+Setophaga pinus_Pine Warbler,0.9671816,29.0,32.0
+Setophaga pinus_Pine Warbler,0.97666264,30.0,33.0
+Setophaga pinus_Pine Warbler,0.93903416,31.0,34.0
+Setophaga pinus_Pine Warbler,0.692985,32.0,35.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.3086409,32.0,35.0
+Cuculus optatus_Oriental Cuckoo,0.10440896,34.0,37.0
+Stercorarius pomarinus_Pomarine Jaeger,0.16051777,35.0,38.0
+Setophaga pinus_Pine Warbler,0.842576,38.0,41.0
+Setophaga pinus_Pine Warbler,0.9579884,39.0,42.0
+Setophaga pinus_Pine Warbler,0.9691808,40.0,43.0
+Setophaga pinus_Pine Warbler,0.6451208,41.0,44.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.10609016,41.0,44.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.7253143,42.0,45.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.31343758,42.0,45.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.10747365,43.0,46.0
+Columba oenas_Stock Dove,0.119541995,45.0,48.0
+Columba oenas_Stock Dove,0.11195011,47.0,50.0
+Setophaga pinus_Pine Warbler,0.83447504,49.0,52.0
+Leiothlypis crissalis_Colima Warbler,0.11537579,49.0,52.0
+Setophaga pinus_Pine Warbler,0.9658005,50.0,53.0
+Setophaga pinus_Pine Warbler,0.9727051,51.0,54.0
+Setophaga pinus_Pine Warbler,0.8747918,52.0,55.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.11104597,52.0,55.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.6137422,53.0,56.0
+Setophaga pinus_Pine Warbler,0.5451037,53.0,56.0
+Setophaga pinus_Pine Warbler,0.4793567,56.0,59.0
+Leiothlypis crissalis_Colima Warbler,0.21793075,56.0,59.0
+Setophaga pinus_Pine Warbler,0.96226186,57.0,60.0
+Setophaga pinus_Pine Warbler,0.9856581,58.0,61.0
+Setophaga pinus_Pine Warbler,0.96666235,59.0,62.0
+Setophaga pinus_Pine Warbler,0.7474767,60.0,63.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.46086684,60.0,63.0
+Phoenicurus ochruros_Black Redstart,0.23252442,62.0,65.0
+Setophaga pinus_Pine Warbler,0.8302481,66.0,69.0
+Leiothlypis crissalis_Colima Warbler,0.38242736,66.0,69.0
+Setophaga pinus_Pine Warbler,0.97025496,67.0,70.0
+Setophaga pinus_Pine Warbler,0.9902464,68.0,71.0
+Setophaga pinus_Pine Warbler,0.98283374,69.0,72.0
+Setophaga pinus_Pine Warbler,0.7896574,70.0,73.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.65460616,70.0,73.0
+Leiothlypis crissalis_Colima Warbler,0.2383332,74.0,77.0
+Setophaga pinus_Pine Warbler,0.23169607,74.0,77.0
+Setophaga pinus_Pine Warbler,0.9753749,75.0,78.0
+Setophaga pinus_Pine Warbler,0.9827498,76.0,79.0
+Setophaga pinus_Pine Warbler,0.98393816,77.0,80.0
+Setophaga pinus_Pine Warbler,0.8304981,78.0,81.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.21728954,78.0,81.0
+Setophaga pinus_Pine Warbler,0.9415432,82.0,85.0
+Setophaga pinus_Pine Warbler,0.9753925,83.0,86.0
+Setophaga pinus_Pine Warbler,0.9833868,84.0,87.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.87882483,85.0,88.0
+Setophaga pinus_Pine Warbler,0.64109766,85.0,88.0
+Setophaga pinus_Pine Warbler,0.9016141,90.0,93.0
+Setophaga pinus_Pine Warbler,0.97203684,91.0,94.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.201472,91.0,94.0
+Setophaga pinus_Pine Warbler,0.94389623,92.0,95.0
+Setophaga pinus_Pine Warbler,0.8803684,93.0,96.0
+Geothlypis trichas_Common Yellowthroat,0.22042546,94.0,97.0
+Picus sharpei_Iberian Green Woodpecker,0.10369114,96.0,99.0
+Setophaga pinus_Pine Warbler,0.8743343,98.0,101.0
+Setophaga pinus_Pine Warbler,0.9448686,99.0,102.0
+Setophaga pinus_Pine Warbler,0.95504564,100.0,103.0
+Setophaga pinus_Pine Warbler,0.8410298,101.0,104.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5535038,101.0,104.0
+Setophaga pinus_Pine Warbler,0.7807328,106.0,109.0
+Setophaga pinus_Pine Warbler,0.96976095,107.0,110.0
+Setophaga pinus_Pine Warbler,0.97961056,108.0,111.0
+Setophaga pinus_Pine Warbler,0.9157847,109.0,112.0
+Tachycineta thalassina_Violet-green Swallow,0.24974526,110.0,113.0
+Spinus tristis_American Goldfinch,0.68003696,111.0,114.0
+Spinus tristis_American Goldfinch,0.63855094,112.0,115.0
+Setophaga pinus_Pine Warbler,0.6744082,113.0,116.0
+Setophaga pinus_Pine Warbler,0.9463853,114.0,117.0
+Setophaga pinus_Pine Warbler,0.9863194,115.0,118.0
+Setophaga pinus_Pine Warbler,0.91517866,116.0,119.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.80153847,117.0,120.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.31134415,117.0,120.0
+Spinus tristis_American Goldfinch,0.1694252,118.0,121.0
+Cardellina rubrifrons_Red-faced Warbler,0.11432159,120.0,123.0
+Geothlypis trichas_Common Yellowthroat,0.10253664,121.0,124.0
+Setophaga pinus_Pine Warbler,0.83697426,122.0,125.0
+Setophaga pinus_Pine Warbler,0.9651128,123.0,126.0
+Setophaga pinus_Pine Warbler,0.95455086,124.0,127.0
+Setophaga pinus_Pine Warbler,0.81331885,125.0,128.0
+Spinus tristis_American Goldfinch,0.35257375,126.0,129.0
+Spinus tristis_American Goldfinch,0.632274,127.0,130.0
+Spinus tristis_American Goldfinch,0.19182937,128.0,131.0
+Spinus tristis_American Goldfinch,0.20570257,129.0,132.0
+Setophaga pinus_Pine Warbler,0.94964993,131.0,134.0
+Setophaga pinus_Pine Warbler,0.98898214,132.0,135.0
+Setophaga pinus_Pine Warbler,0.97800213,133.0,136.0
+Setophaga pinus_Pine Warbler,0.90366524,134.0,137.0
+Geothlypis trichas_Common Yellowthroat,0.27891955,135.0,138.0
+Geothlypis trichas_Common Yellowthroat,0.21216951,136.0,139.0
+Geothlypis trichas_Common Yellowthroat,0.16576205,137.0,140.0
+Carpodacus erythrinus_Common Rosefinch,0.12977971,138.0,141.0
+Vireo solitarius_Blue-headed Vireo,0.1120026,138.0,141.0
+Amphispiza bilineata_Black-throated Sparrow,0.19538507,140.0,143.0
+Setophaga pinus_Pine Warbler,0.97534764,141.0,144.0
+Setophaga pinus_Pine Warbler,0.9927844,142.0,145.0
+Setophaga pinus_Pine Warbler,0.98358697,143.0,146.0
+Setophaga pinus_Pine Warbler,0.9631825,144.0,147.0
+Setophaga magnolia_Magnolia Warbler,0.13630813,147.0,150.0
+Setophaga pinus_Pine Warbler,0.731654,148.0,151.0
+Leiothlypis crissalis_Colima Warbler,0.61949366,148.0,151.0
+Setophaga pinus_Pine Warbler,0.9703667,149.0,152.0
+Setophaga pinus_Pine Warbler,0.98692083,150.0,153.0
+Setophaga pinus_Pine Warbler,0.98672706,151.0,154.0
+Setophaga pinus_Pine Warbler,0.92516786,152.0,155.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5892486,152.0,155.0
+Setophaga pinus_Pine Warbler,0.7287548,157.0,160.0
+Leiothlypis crissalis_Colima Warbler,0.5485848,157.0,160.0
+Setophaga pinus_Pine Warbler,0.97721463,158.0,161.0
+Setophaga pinus_Pine Warbler,0.9913959,159.0,162.0
+Setophaga pinus_Pine Warbler,0.9850735,160.0,163.0
+Setophaga pinus_Pine Warbler,0.8121565,161.0,164.0
+Cardellina rubrifrons_Red-faced Warbler,0.25393406,164.0,167.0
+Leiothlypis crissalis_Colima Warbler,0.5299458,166.0,169.0
+Setophaga pinus_Pine Warbler,0.39193112,166.0,169.0
+Setophaga pinus_Pine Warbler,0.97649765,167.0,170.0
+Setophaga pinus_Pine Warbler,0.9876615,168.0,171.0
+Setophaga pinus_Pine Warbler,0.98506397,169.0,172.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.9051186,170.0,173.0
+Setophaga pinus_Pine Warbler,0.81080806,170.0,173.0
+Setophaga pinus_Pine Warbler,0.7873194,174.0,177.0
+Leiothlypis crissalis_Colima Warbler,0.1251421,174.0,177.0
+Setophaga pinus_Pine Warbler,0.97386336,175.0,178.0
+Setophaga pinus_Pine Warbler,0.97284794,176.0,179.0
+Setophaga pinus_Pine Warbler,0.81191385,177.0,180.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5352744,177.0,180.0
+Setophaga pinus_Pine Warbler,0.8243702,183.0,186.0
+Setophaga palmarum_Palm Warbler,0.2339468,183.0,186.0
+Setophaga pinus_Pine Warbler,0.9782119,184.0,187.0
+Setophaga pinus_Pine Warbler,0.9850898,185.0,188.0
+Setophaga pinus_Pine Warbler,0.9477508,186.0,189.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.9369549,187.0,190.0
+Setophaga pinus_Pine Warbler,0.48663205,187.0,190.0
+Setophaga pinus_Pine Warbler,0.43866944,193.0,196.0
+Leiothlypis crissalis_Colima Warbler,0.24205294,193.0,196.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.1070855,193.0,196.0
+Setophaga pinus_Pine Warbler,0.8464555,194.0,197.0
+Setophaga pinus_Pine Warbler,0.8570927,195.0,198.0
+Setophaga pinus_Pine Warbler,0.88821745,196.0,199.0
+Setophaga pinus_Pine Warbler,0.68403935,197.0,200.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5728762,197.0,200.0
+Setophaga pinus_Pine Warbler,0.40158877,203.0,206.0
+Leiothlypis crissalis_Colima Warbler,0.10950958,203.0,206.0
+Setophaga pinus_Pine Warbler,0.8208262,204.0,207.0
+Setophaga pinus_Pine Warbler,0.85368496,205.0,208.0
+Setophaga pinus_Pine Warbler,0.68586564,206.0,209.0
+Passerina amoena_Lazuli Bunting,0.13903838,207.0,210.0
+Spinus tristis_American Goldfinch,0.12447714,208.0,211.0
+Trogon mexicanus_Mountain Trogon,0.117163025,209.0,212.0
+Setophaga pinus_Pine Warbler,0.8728088,212.0,215.0
+Setophaga pinus_Pine Warbler,0.94568896,213.0,216.0
+Setophaga pinus_Pine Warbler,0.921738,214.0,217.0
+Setophaga pinus_Pine Warbler,0.6485176,215.0,218.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.2607735,215.0,218.0
+Setophaga pinus_Pine Warbler,0.7727013,220.0,223.0
+Setophaga pinus_Pine Warbler,0.8428496,221.0,224.0
+Setophaga pinus_Pine Warbler,0.94441,222.0,225.0
+Setophaga pinus_Pine Warbler,0.92177874,223.0,226.0
+Cardellina rubrifrons_Red-faced Warbler,0.6692062,224.0,227.0
+Setophaga magnolia_Magnolia Warbler,0.18676437,224.0,227.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.102307275,224.0,227.0
+Setophaga pinus_Pine Warbler,0.29679596,229.0,232.0
+Emberiza cirlus_Cirl Bunting,0.24798138,229.0,232.0
+Setophaga pinus_Pine Warbler,0.9198396,230.0,233.0
+Setophaga pinus_Pine Warbler,0.93634844,231.0,234.0
+Setophaga pinus_Pine Warbler,0.8842998,232.0,235.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.24062249,233.0,236.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.16971625,233.0,236.0
+Columba oenas_Stock Dove,0.11155632,235.0,238.0
+Setophaga pinus_Pine Warbler,0.93577176,237.0,240.0
+Leiothlypis crissalis_Colima Warbler,0.19854203,237.0,240.0
+Setophaga pinus_Pine Warbler,0.96232617,238.0,241.0
+Setophaga pinus_Pine Warbler,0.97742015,239.0,242.0
+Setophaga pinus_Pine Warbler,0.59500486,240.0,243.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.13437954,240.0,243.0
+Setophaga pinus_Pine Warbler,0.9038034,247.0,250.0
+Setophaga pinus_Pine Warbler,0.95315105,248.0,251.0
+Setophaga pinus_Pine Warbler,0.96300817,249.0,252.0
+Setophaga pinus_Pine Warbler,0.8125908,250.0,253.0
+Scolopax rusticola_Eurasian Woodcock,0.113092214,254.0,257.0
+Setophaga pinus_Pine Warbler,0.9419912,256.0,259.0
+Setophaga pinus_Pine Warbler,0.9549328,257.0,260.0
+Setophaga pinus_Pine Warbler,0.97700447,258.0,261.0
+Setophaga pinus_Pine Warbler,0.8260949,259.0,262.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.21255188,259.0,262.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.8908978,260.0,263.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.17834607,260.0,263.0
+Setophaga pinus_Pine Warbler,0.106249824,260.0,263.0
+Setophaga pinus_Pine Warbler,0.7921903,262.0,265.0
+Setophaga pinus_Pine Warbler,0.9310553,263.0,266.0
+Setophaga pinus_Pine Warbler,0.9639892,264.0,267.0
+Setophaga pinus_Pine Warbler,0.8423949,265.0,268.0
+Phylloscopus sibilatrix_Wood Warbler,0.10510791,265.0,268.0
+Setophaga pinus_Pine Warbler,0.63729835,266.0,269.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.24567296,266.0,269.0
+Leiothlypis crissalis_Colima Warbler,0.5961093,268.0,271.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.2927012,268.0,271.0
+Setophaga pinus_Pine Warbler,0.81462234,269.0,272.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.16885935,269.0,272.0
+Setophaga pinus_Pine Warbler,0.88367814,270.0,273.0
+Setophaga pinus_Pine Warbler,0.9406092,271.0,274.0
+Setophaga pinus_Pine Warbler,0.63346833,272.0,275.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5492209,272.0,275.0
+Setophaga pinus_Pine Warbler,0.9300806,284.0,287.0
+Setophaga pinus_Pine Warbler,0.9724158,285.0,288.0
+Setophaga pinus_Pine Warbler,0.9554918,286.0,289.0
+Setophaga pinus_Pine Warbler,0.82255894,287.0,290.0
+Setophaga pinus_Pine Warbler,0.92002666,290.0,293.0
+Setophaga pinus_Pine Warbler,0.97107553,291.0,294.0
+Setophaga pinus_Pine Warbler,0.9815169,292.0,295.0
+Setophaga pinus_Pine Warbler,0.9651886,293.0,296.0
+Setophaga pinus_Pine Warbler,0.89641273,294.0,297.0
+Spinus tristis_American Goldfinch,0.6003739,295.0,298.0
+Spinus tristis_American Goldfinch,0.7326893,296.0,299.0
+Spinus tristis_American Goldfinch,0.6788567,297.0,300.0
+Spinus tristis_American Goldfinch,0.42120975,298.0,301.0
+Spinus tristis_American Goldfinch,0.4447158,299.0,302.0
+Spinus tristis_American Goldfinch,0.29842463,300.0,303.0
+Setophaga pinus_Pine Warbler,0.8676022,301.0,304.0
+Setophaga pinus_Pine Warbler,0.98083556,302.0,305.0
+Setophaga pinus_Pine Warbler,0.9817647,303.0,306.0
+Setophaga pinus_Pine Warbler,0.83954686,304.0,307.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.120615035,304.0,307.0
+Spinus tristis_American Goldfinch,0.149884,305.0,308.0
+Spinus tristis_American Goldfinch,0.520603,306.0,309.0
+Spinus tristis_American Goldfinch,0.45109144,307.0,310.0
+Spinus tristis_American Goldfinch,0.46503282,308.0,311.0
+Setophaga pinus_Pine Warbler,0.9498809,310.0,313.0
+Setophaga pinus_Pine Warbler,0.971095,311.0,314.0
+Setophaga pinus_Pine Warbler,0.9814294,312.0,315.0
+Setophaga pinus_Pine Warbler,0.75572294,313.0,316.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.6205001,313.0,316.0
+Spinus tristis_American Goldfinch,0.24057868,314.0,317.0
+Tachycineta thalassina_Violet-green Swallow,0.19391844,314.0,317.0
+Passer domesticus_House Sparrow,0.2229705,315.0,318.0
+Spinus tristis_American Goldfinch,0.20878656,315.0,318.0
+Spinus tristis_American Goldfinch,0.91608435,316.0,319.0
+Spinus tristis_American Goldfinch,0.9095914,317.0,320.0
+Setophaga pinus_Pine Warbler,0.9493367,318.0,321.0
+Setophaga pinus_Pine Warbler,0.9830352,319.0,322.0
+Setophaga pinus_Pine Warbler,0.9736057,320.0,323.0
+Setophaga pinus_Pine Warbler,0.9371965,321.0,324.0
+Spinus tristis_American Goldfinch,0.95953816,322.0,325.0
+Spinus tristis_American Goldfinch,0.93851316,323.0,326.0
+Spinus tristis_American Goldfinch,0.93487227,324.0,327.0
+Spinus tristis_American Goldfinch,0.88910896,325.0,328.0
+Setophaga pinus_Pine Warbler,0.9011647,326.0,329.0
+Leiothlypis crissalis_Colima Warbler,0.23795888,326.0,329.0
+Setophaga pinus_Pine Warbler,0.96968836,327.0,330.0
+Setophaga pinus_Pine Warbler,0.97509503,328.0,331.0
+Setophaga pinus_Pine Warbler,0.8987942,329.0,332.0
+Phylloscopus sibilatrix_Wood Warbler,0.17468207,329.0,332.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.10678282,329.0,332.0
+Setophaga pinus_Pine Warbler,0.6545886,330.0,333.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.64559823,330.0,333.0
+Acanthis flammea_Common Redpoll,0.10193925,333.0,336.0
+Spinus tristis_American Goldfinch,0.42431498,335.0,338.0
+Setophaga pinus_Pine Warbler,0.9294147,336.0,339.0
+Setophaga pinus_Pine Warbler,0.9794962,337.0,340.0
+Setophaga pinus_Pine Warbler,0.9810863,338.0,341.0
+Setophaga pinus_Pine Warbler,0.9663006,339.0,342.0
+Spinus tristis_American Goldfinch,0.17954549,340.0,343.0
+Spinus tristis_American Goldfinch,0.60810477,341.0,344.0
+Spinus tristis_American Goldfinch,0.13286611,342.0,345.0
+Setophaga pinus_Pine Warbler,0.9036385,345.0,348.0
+Setophaga pinus_Pine Warbler,0.98291427,346.0,349.0
+Setophaga pinus_Pine Warbler,0.9867865,347.0,350.0
+Setophaga pinus_Pine Warbler,0.9350562,348.0,351.0
+Phylloscopus sibilatrix_Wood Warbler,0.26792112,348.0,351.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.9113738,349.0,352.0
+Setophaga pinus_Pine Warbler,0.27231607,349.0,352.0
+Leiothlypis crissalis_Colima Warbler,0.41687885,354.0,357.0
+Setophaga pinus_Pine Warbler,0.28541595,354.0,357.0
+Setophaga pinus_Pine Warbler,0.94674385,355.0,358.0
+Setophaga pinus_Pine Warbler,0.9858779,356.0,359.0
+Setophaga pinus_Pine Warbler,0.98904735,357.0,360.0
+Setophaga pinus_Pine Warbler,0.90758806,358.0,361.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.37374195,358.0,361.0
+Leiothlypis crissalis_Colima Warbler,0.6077865,361.0,364.0
+Leiothlypis celata_Orange-crowned Warbler,0.14407566,361.0,364.0
+Setophaga pinus_Pine Warbler,0.12558728,361.0,364.0
+Setophaga pinus_Pine Warbler,0.9665932,362.0,365.0
+Setophaga pinus_Pine Warbler,0.98783934,363.0,366.0
+Setophaga pinus_Pine Warbler,0.9839241,364.0,367.0
+Setophaga pinus_Pine Warbler,0.9169561,365.0,368.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.47713044,365.0,368.0
+Setophaga pinus_Pine Warbler,0.9077512,370.0,373.0
+Leiothlypis crissalis_Colima Warbler,0.12734449,370.0,373.0
+Setophaga pinus_Pine Warbler,0.9752567,371.0,374.0
+Setophaga pinus_Pine Warbler,0.98628193,372.0,375.0
+Setophaga pinus_Pine Warbler,0.9578287,373.0,376.0
+Setophaga pinus_Pine Warbler,0.70969,374.0,377.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.6763332,374.0,377.0
+Myzomela erythrocephala_Red-headed Myzomela,0.17105962,375.0,378.0
+Myzomela erythrocephala_Red-headed Myzomela,0.11959244,376.0,379.0
+Setophaga pinus_Pine Warbler,0.93400854,380.0,383.0
+Leiothlypis crissalis_Colima Warbler,0.14375937,380.0,383.0
+Setophaga pinus_Pine Warbler,0.95159835,381.0,384.0
+Setophaga pinus_Pine Warbler,0.97963953,382.0,385.0
+Setophaga pinus_Pine Warbler,0.68857193,383.0,386.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.24403138,383.0,386.0
+Setophaga pinus_Pine Warbler,0.905353,389.0,392.0
+Setophaga pinus_Pine Warbler,0.9808445,390.0,393.0
+Setophaga pinus_Pine Warbler,0.9836119,391.0,394.0
+Setophaga pinus_Pine Warbler,0.94575155,392.0,395.0
+Spinus tristis_American Goldfinch,0.118519455,393.0,396.0
+Setophaga pinus_Pine Warbler,0.84524184,399.0,402.0
+Setophaga pinus_Pine Warbler,0.9314917,400.0,403.0
+Setophaga pinus_Pine Warbler,0.8809021,401.0,404.0
+Setophaga pinus_Pine Warbler,0.6735789,402.0,405.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.10234255,402.0,405.0
+Cryptillas victorini_Victorin's Warbler,0.13059321,403.0,406.0
+Setophaga pinus_Pine Warbler,0.92473596,411.0,414.0
+Setophaga pinus_Pine Warbler,0.9538543,412.0,415.0
+Spizella passerina_Chipping Sparrow,0.12336336,412.0,415.0
+Setophaga pinus_Pine Warbler,0.9582926,413.0,416.0
+Setophaga pinus_Pine Warbler,0.7742787,414.0,417.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.36280867,414.0,417.0
+Spinus tristis_American Goldfinch,0.28252187,416.0,419.0
+Spinus tristis_American Goldfinch,0.372067,417.0,420.0
+Setophaga pinus_Pine Warbler,0.63446397,418.0,421.0
+Setophaga pinus_Pine Warbler,0.8461795,419.0,422.0
+Setophaga pinus_Pine Warbler,0.8965857,420.0,423.0
+Setophaga pinus_Pine Warbler,0.7753054,421.0,424.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.58147174,421.0,424.0
+Spinus tristis_American Goldfinch,0.38898718,422.0,425.0
+Acanthis flammea_Common Redpoll,0.18104556,422.0,425.0
+Spinus tristis_American Goldfinch,0.6259256,424.0,427.0
+Spinus tristis_American Goldfinch,0.8360072,425.0,428.0
+Spinus tristis_American Goldfinch,0.7829178,426.0,429.0
+Setophaga pinus_Pine Warbler,0.732371,427.0,430.0
+Setophaga pinus_Pine Warbler,0.9577859,428.0,431.0
+Setophaga pinus_Pine Warbler,0.9834004,429.0,432.0
+Setophaga pinus_Pine Warbler,0.81087685,430.0,433.0
+Spinus tristis_American Goldfinch,0.15724067,431.0,434.0
+Spinus tristis_American Goldfinch,0.90335023,432.0,435.0
+Spinus tristis_American Goldfinch,0.6844071,433.0,436.0
+Spinus tristis_American Goldfinch,0.8772197,434.0,437.0
+Spinus tristis_American Goldfinch,0.8119917,435.0,438.0
+Setophaga pinus_Pine Warbler,0.76706123,436.0,439.0
+Setophaga pinus_Pine Warbler,0.749253,437.0,440.0
+Setophaga pinus_Pine Warbler,0.575804,438.0,441.0
+Acanthis flammea_Common Redpoll,0.13268508,438.0,441.0
+Setophaga pinus_Pine Warbler,0.6044534,439.0,442.0
+Spinus tristis_American Goldfinch,0.15991911,439.0,442.0
+Spinus tristis_American Goldfinch,0.71519476,440.0,443.0
+Acanthis flammea_Common Redpoll,0.2734369,440.0,443.0
+Spinus tristis_American Goldfinch,0.865755,441.0,444.0
+Acanthis flammea_Common Redpoll,0.4283581,442.0,445.0
+Spinus tristis_American Goldfinch,0.11426468,442.0,445.0
+Setophaga pinus_Pine Warbler,0.8398584,443.0,446.0
+Setophaga pinus_Pine Warbler,0.91523546,444.0,447.0
+Setophaga pinus_Pine Warbler,0.93670666,445.0,448.0
+Setophaga pinus_Pine Warbler,0.8147504,446.0,449.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.236839,446.0,449.0
+Spinus tristis_American Goldfinch,0.22274692,447.0,450.0
+Spinus tristis_American Goldfinch,0.1938561,448.0,451.0
+Spinus tristis_American Goldfinch,0.18866172,449.0,452.0
+Spinus tristis_American Goldfinch,0.35482195,450.0,453.0
+Setophaga pinus_Pine Warbler,0.90592456,452.0,455.0
+Leiothlypis crissalis_Colima Warbler,0.115938775,452.0,455.0
+Setophaga pinus_Pine Warbler,0.98273265,453.0,456.0
+Setophaga pinus_Pine Warbler,0.9722143,454.0,457.0
+Setophaga pinus_Pine Warbler,0.71712273,455.0,458.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.27759525,455.0,458.0
+Setophaga pinus_Pine Warbler,0.5187308,460.0,463.0
+Leiothlypis crissalis_Colima Warbler,0.28200433,460.0,463.0
+Setophaga pinus_Pine Warbler,0.9214441,461.0,464.0
+Setophaga pinus_Pine Warbler,0.95822144,462.0,465.0
+Setophaga pinus_Pine Warbler,0.79854447,463.0,466.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.24488397,463.0,466.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.9616488,464.0,467.0
+Setophaga pinus_Pine Warbler,0.72004056,468.0,471.0
+Setophaga pinus_Pine Warbler,0.90107566,469.0,472.0
+Setophaga pinus_Pine Warbler,0.8216423,470.0,473.0
+Setophaga pinus_Pine Warbler,0.7293964,471.0,474.0
+Leiothlypis luciae_Lucy's Warbler,0.14381838,472.0,475.0
+Spizelloides arborea_American Tree Sparrow,0.10377292,472.0,475.0
+Asthenes coryi_Ochre-browed Thistletail,0.15726875,475.0,478.0
+Buteo ridgwayi_Ridgway's Hawk,0.11090674,475.0,478.0
+Buteo ridgwayi_Ridgway's Hawk,0.12328458,484.0,487.0
+Setophaga pinus_Pine Warbler,0.29024336,488.0,491.0
+Setophaga pinus_Pine Warbler,0.59279895,489.0,492.0
+Setophaga pinus_Pine Warbler,0.23024176,490.0,493.0
+Alca torda_Razorbill,0.10345751,491.0,494.0
+Alca torda_Razorbill,0.12078381,492.0,495.0
+Alca torda_Razorbill,0.11924881,493.0,496.0
+Setophaga pinus_Pine Warbler,0.406076,496.0,499.0
+Setophaga pinus_Pine Warbler,0.56486213,497.0,500.0
+Setophaga pinus_Pine Warbler,0.7798775,498.0,501.0
+Setophaga pinus_Pine Warbler,0.5847479,499.0,502.0
+Engine_Engine,0.2387401,500.0,503.0
+Engine_Engine,0.19041581,501.0,504.0
+Engine_Engine,0.17246547,502.0,505.0
+Engine_Engine,0.11967193,503.0,506.0
+Engine_Engine,0.14059816,505.0,508.0
+Serinus canaria_Island Canary,0.123970576,505.0,508.0
+Setophaga pinus_Pine Warbler,0.26979715,508.0,511.0
+Setophaga pinus_Pine Warbler,0.5443785,509.0,512.0
+Setophaga pinus_Pine Warbler,0.54664654,510.0,513.0
+Charadrius melodus_Piping Plover,0.13639036,514.0,517.0
+Setophaga pinus_Pine Warbler,0.18096279,516.0,519.0
+Setophaga pinus_Pine Warbler,0.23305666,517.0,520.0
+Setophaga pinus_Pine Warbler,0.39659035,518.0,521.0
+Spinus tristis_American Goldfinch,0.4872098,520.0,523.0
+Setophaga pinus_Pine Warbler,0.8067202,521.0,524.0
+Setophaga pinus_Pine Warbler,0.9683214,522.0,525.0
+Setophaga pinus_Pine Warbler,0.9823492,523.0,526.0
+Setophaga pinus_Pine Warbler,0.95495224,524.0,527.0
+Empidonax oberholseri_Dusky Flycatcher,0.10820437,525.0,528.0
+Spinus tristis_American Goldfinch,0.1294735,527.0,530.0
+Setophaga pinus_Pine Warbler,0.50522816,529.0,532.0
+Leiothlypis crissalis_Colima Warbler,0.26913396,529.0,532.0
+Setophaga pinus_Pine Warbler,0.9662897,530.0,533.0
+Setophaga pinus_Pine Warbler,0.9871881,531.0,534.0
+Setophaga pinus_Pine Warbler,0.9813887,532.0,535.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.66656274,533.0,536.0
+Setophaga pinus_Pine Warbler,0.5433922,533.0,536.0
+Tyrannus verticalis_Western Kingbird,0.14129794,537.0,540.0
+Setophaga pinus_Pine Warbler,0.23228931,538.0,541.0
+Leiothlypis crissalis_Colima Warbler,0.15074481,538.0,541.0
+Setophaga pinus_Pine Warbler,0.8715138,539.0,542.0
+Setophaga pinus_Pine Warbler,0.8749454,540.0,543.0
+Setophaga pinus_Pine Warbler,0.9202273,541.0,544.0
+Setophaga pinus_Pine Warbler,0.74368995,542.0,545.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.4021195,542.0,545.0
+Delichon urbicum_Common House-Martin,0.12348822,547.0,550.0
+Setophaga pinus_Pine Warbler,0.6563777,548.0,551.0
+Leiothlypis crissalis_Colima Warbler,0.1290963,548.0,551.0
+Setophaga pinus_Pine Warbler,0.97579634,549.0,552.0
+Setophaga pinus_Pine Warbler,0.9893412,550.0,553.0
+Setophaga pinus_Pine Warbler,0.98047227,551.0,554.0
+Setophaga pinus_Pine Warbler,0.80778617,552.0,555.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.52032477,552.0,555.0
+Leiothlypis crissalis_Colima Warbler,0.75919306,558.0,561.0
+Setophaga pinus_Pine Warbler,0.17306997,558.0,561.0
+Setophaga pinus_Pine Warbler,0.95003664,559.0,562.0
+Setophaga pinus_Pine Warbler,0.95150673,560.0,563.0
+Setophaga pinus_Pine Warbler,0.94170827,561.0,564.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.31459758,562.0,565.0
+Setophaga pinus_Pine Warbler,0.1102015,562.0,565.0
+Setophaga pinus_Pine Warbler,0.84454465,566.0,569.0
+Leiothlypis crissalis_Colima Warbler,0.114328906,566.0,569.0
+Setophaga pinus_Pine Warbler,0.9077095,567.0,570.0
+Setophaga pinus_Pine Warbler,0.6862287,568.0,571.0
+Setophaga pinus_Pine Warbler,0.7400183,569.0,572.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.10586884,569.0,572.0
+Leiothlypis crissalis_Colima Warbler,0.7555478,572.0,575.0
+Setophaga pinus_Pine Warbler,0.23543924,572.0,575.0
+Setophaga pinus_Pine Warbler,0.94884914,573.0,576.0
+Setophaga pinus_Pine Warbler,0.94634753,574.0,577.0
+Setophaga pinus_Pine Warbler,0.9035075,575.0,578.0
+Setophaga pinus_Pine Warbler,0.33406356,576.0,579.0
+Leiothlypis ruficapilla_Nashville Warbler,0.12282426,576.0,579.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.10187326,576.0,579.0
+Setophaga pinus_Pine Warbler,0.8954246,582.0,585.0
+Leiothlypis crissalis_Colima Warbler,0.11816023,582.0,585.0
+Setophaga pinus_Pine Warbler,0.9628324,583.0,586.0
+Setophaga pinus_Pine Warbler,0.9800514,584.0,587.0
+Setophaga pinus_Pine Warbler,0.89110684,585.0,588.0
+Melospiza melodia_Song Sparrow,0.49022937,586.0,589.0
+Melospiza melodia_Song Sparrow,0.49699208,587.0,590.0
+Setophaga pinus_Pine Warbler,0.5066735,594.0,597.0
+Setophaga pinus_Pine Warbler,0.8137707,595.0,598.0
+Setophaga pinus_Pine Warbler,0.67466354,596.0,599.0
+Setophaga pinus_Pine Warbler,0.21318634,597.0,600.0
+Buteo ridgwayi_Ridgway's Hawk,0.13760133,602.0,605.0
+Melospiza melodia_Song Sparrow,0.12972604,606.0,609.0
+Setophaga pinus_Pine Warbler,0.7955763,607.0,610.0
+Setophaga pinus_Pine Warbler,0.8924235,608.0,611.0
+Setophaga pinus_Pine Warbler,0.9630599,609.0,612.0
+Setophaga pinus_Pine Warbler,0.9209495,610.0,613.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.85408896,611.0,614.0
+Setophaga pinus_Pine Warbler,0.5878878,611.0,614.0
+Phylloscopus sibilatrix_Wood Warbler,0.14378738,611.0,614.0
+Setophaga pinus_Pine Warbler,0.95247334,619.0,622.0
+Setophaga pinus_Pine Warbler,0.959775,620.0,623.0
+Setophaga pinus_Pine Warbler,0.9666976,621.0,624.0
+Setophaga pinus_Pine Warbler,0.95034146,622.0,625.0
+Vireo philadelphicus_Philadelphia Vireo,0.10073711,624.0,627.0
+Setophaga pinus_Pine Warbler,0.7655311,628.0,631.0
+Setophaga pinus_Pine Warbler,0.80211717,629.0,632.0
+Setophaga pinus_Pine Warbler,0.88054365,630.0,633.0
+Setophaga pinus_Pine Warbler,0.8246271,631.0,634.0
+Passerculus sandwichensis_Savannah Sparrow,0.1211809,634.0,637.0
+Turdus philomelos_Song Thrush,0.14874776,642.0,645.0
+Artemisiospiza belli_Bell's Sparrow,0.1353852,647.0,650.0
+Artemisiospiza belli_Bell's Sparrow,0.18295927,648.0,651.0
+Asthenes coryi_Ochre-browed Thistletail,0.10723537,664.0,667.0
+Setophaga pinus_Pine Warbler,0.9077048,667.0,670.0
+Leiothlypis crissalis_Colima Warbler,0.15619217,667.0,670.0
+Setophaga pinus_Pine Warbler,0.9648212,668.0,671.0
+Setophaga pinus_Pine Warbler,0.96791416,669.0,672.0
+Setophaga pinus_Pine Warbler,0.78146,670.0,673.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.11528773,670.0,673.0
+Cardellina rubrifrons_Red-faced Warbler,0.3047737,671.0,674.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.123630054,671.0,674.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29086888,672.0,675.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.37280574,673.0,676.0
+Leiothlypis crissalis_Colima Warbler,0.44677025,674.0,677.0
+Setophaga pinus_Pine Warbler,0.27187055,674.0,677.0
+Setophaga pinus_Pine Warbler,0.91496056,675.0,678.0
+Setophaga pinus_Pine Warbler,0.9600063,676.0,679.0
+Setophaga pinus_Pine Warbler,0.9731598,677.0,680.0
+Setophaga pinus_Pine Warbler,0.8841387,678.0,681.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7065268,679.0,682.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.6770004,680.0,683.0
+Leiothlypis virginiae_Virginia's Warbler,0.15986884,680.0,683.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3666883,681.0,684.0
+Setophaga magnolia_Magnolia Warbler,0.10787029,681.0,684.0
+Setophaga pinus_Pine Warbler,0.9241585,683.0,686.0
+Setophaga pinus_Pine Warbler,0.96979326,684.0,687.0
+Setophaga pinus_Pine Warbler,0.98361117,685.0,688.0
+Setophaga pinus_Pine Warbler,0.8743301,686.0,689.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.11373979,686.0,689.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10979744,689.0,692.0
+Setophaga pinus_Pine Warbler,0.6778508,690.0,693.0
+Leiothlypis crissalis_Colima Warbler,0.39925262,690.0,693.0
+Setophaga pinus_Pine Warbler,0.9574982,691.0,694.0
+Setophaga pinus_Pine Warbler,0.9817826,692.0,695.0
+Setophaga pinus_Pine Warbler,0.97308445,693.0,696.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.6924001,694.0,697.0
+Setophaga pinus_Pine Warbler,0.39323422,694.0,697.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7761976,695.0,698.0
+Pipilo erythrophthalmus_Eastern Towhee,0.34184042,696.0,699.0
+Catharus fuscescens_Veery,0.10931469,697.0,700.0
+Empidonax oberholseri_Dusky Flycatcher,0.10575492,698.0,701.0
+Setophaga pinus_Pine Warbler,0.7541505,699.0,702.0
+Setophaga pinus_Pine Warbler,0.88470113,700.0,703.0
+Setophaga pinus_Pine Warbler,0.92931813,701.0,704.0
+Setophaga pinus_Pine Warbler,0.56887263,702.0,705.0
+Setophaga pinus_Pine Warbler,0.64580584,707.0,710.0
+Leiothlypis crissalis_Colima Warbler,0.46698585,707.0,710.0
+Setophaga pinus_Pine Warbler,0.95270795,708.0,711.0
+Setophaga pinus_Pine Warbler,0.9456371,709.0,712.0
+Setophaga pinus_Pine Warbler,0.97423744,710.0,713.0
+Setophaga pinus_Pine Warbler,0.75566685,711.0,714.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.40509033,711.0,714.0
+Setophaga pinus_Pine Warbler,0.82876015,715.0,718.0
+Setophaga pinus_Pine Warbler,0.9772125,716.0,719.0
+Setophaga pinus_Pine Warbler,0.9843664,717.0,720.0
+Setophaga pinus_Pine Warbler,0.95280516,718.0,721.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.20961735,718.0,721.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25712848,720.0,723.0
+Setophaga pinus_Pine Warbler,0.97328216,723.0,726.0
+Setophaga pinus_Pine Warbler,0.99036413,724.0,727.0
+Setophaga pinus_Pine Warbler,0.9880534,725.0,728.0
+Setophaga pinus_Pine Warbler,0.951046,726.0,729.0
+Setophaga magnolia_Magnolia Warbler,0.15391424,728.0,731.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10499568,728.0,731.0
+Setophaga magnolia_Magnolia Warbler,0.29562902,729.0,732.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12508895,729.0,732.0
+Setophaga fusca_Blackburnian Warbler,0.11283142,729.0,732.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12035259,730.0,733.0
+Setophaga pinus_Pine Warbler,0.76673406,731.0,734.0
+Setophaga pinus_Pine Warbler,0.98067254,732.0,735.0
+Setophaga pinus_Pine Warbler,0.98388344,733.0,736.0
+Setophaga pinus_Pine Warbler,0.94375354,734.0,737.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.20496577,735.0,738.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.18846826,735.0,738.0
+Setophaga pinus_Pine Warbler,0.97679895,740.0,743.0
+Setophaga pinus_Pine Warbler,0.9828044,741.0,744.0
+Setophaga pinus_Pine Warbler,0.984387,742.0,745.0
+Setophaga pinus_Pine Warbler,0.9785655,743.0,746.0
+Setophaga pinus_Pine Warbler,0.9836586,744.0,747.0
+Setophaga pinus_Pine Warbler,0.9771468,745.0,748.0
+Setophaga pinus_Pine Warbler,0.975271,746.0,749.0
+Setophaga pinus_Pine Warbler,0.76857156,747.0,750.0
+Spinus tristis_American Goldfinch,0.15007421,749.0,752.0
+Spinus tristis_American Goldfinch,0.20549576,750.0,753.0
+Empidonax oberholseri_Dusky Flycatcher,0.54788,751.0,754.0
+Amphispiza bilineata_Black-throated Sparrow,0.16001004,751.0,754.0
+Spizelloides arborea_American Tree Sparrow,0.12628518,751.0,754.0
+Setophaga pinus_Pine Warbler,0.9404012,752.0,755.0
+Leiothlypis crissalis_Colima Warbler,0.18411309,752.0,755.0
+Setophaga pinus_Pine Warbler,0.9422579,753.0,756.0
+Setophaga pinus_Pine Warbler,0.9506122,754.0,757.0
+Setophaga pinus_Pine Warbler,0.76369965,755.0,758.0
+Hylocichla mustelina_Wood Thrush,0.26367024,759.0,762.0
+Phylloscopus sibilatrix_Wood Warbler,0.20283449,761.0,764.0
+Setophaga pinus_Pine Warbler,0.5583802,765.0,768.0
+Leiothlypis crissalis_Colima Warbler,0.48823148,765.0,768.0
+Setophaga pinus_Pine Warbler,0.9745126,766.0,769.0
+Setophaga pinus_Pine Warbler,0.96222687,767.0,770.0
+Setophaga pinus_Pine Warbler,0.8020509,768.0,771.0
+Poecile atricapillus_Black-capped Chickadee,0.18065722,773.0,776.0
+Setophaga pinus_Pine Warbler,0.6591823,775.0,778.0
+Leiothlypis crissalis_Colima Warbler,0.6538161,775.0,778.0
+Setophaga pinus_Pine Warbler,0.9583083,776.0,779.0
+Setophaga pinus_Pine Warbler,0.9512809,777.0,780.0
+Setophaga pinus_Pine Warbler,0.89409095,778.0,781.0
+Junco phaeonotus_Yellow-eyed Junco,0.23092344,779.0,782.0
+Pipilo erythrophthalmus_Eastern Towhee,0.42352358,780.0,783.0
+Pipilo erythrophthalmus_Eastern Towhee,0.30684215,781.0,784.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24488096,782.0,785.0
+Leiothlypis crissalis_Colima Warbler,0.8759896,783.0,786.0
+Setophaga pinus_Pine Warbler,0.29492658,783.0,786.0
+Setophaga pinus_Pine Warbler,0.9578269,784.0,787.0
+Setophaga pinus_Pine Warbler,0.9831308,785.0,788.0
+Setophaga pinus_Pine Warbler,0.98799485,786.0,789.0
+Setophaga pinus_Pine Warbler,0.9098694,787.0,790.0
+Leiothlypis virginiae_Virginia's Warbler,0.16920914,788.0,791.0
+Setophaga pinus_Pine Warbler,0.82901,792.0,795.0
+Leiothlypis crissalis_Colima Warbler,0.25532377,792.0,795.0
+Setophaga pinus_Pine Warbler,0.97882324,793.0,796.0
+Setophaga pinus_Pine Warbler,0.8915484,794.0,797.0
+Setophaga pinus_Pine Warbler,0.8847262,795.0,798.0
+Junco phaeonotus_Yellow-eyed Junco,0.22999726,796.0,799.0
+Setophaga occidentalis_Hermit Warbler,0.10818753,796.0,799.0
+Leiothlypis crissalis_Colima Warbler,0.93790615,799.0,802.0
+Setophaga pinus_Pine Warbler,0.120869465,799.0,802.0
+Setophaga pinus_Pine Warbler,0.9650652,800.0,803.0
+Leiothlypis crissalis_Colima Warbler,0.27458727,800.0,803.0
+Setophaga pinus_Pine Warbler,0.9628178,801.0,804.0
+Setophaga pinus_Pine Warbler,0.9646204,802.0,805.0
+Setophaga pinus_Pine Warbler,0.9261398,803.0,806.0
+Leiothlypis crissalis_Colima Warbler,0.1738739,803.0,806.0
+Setophaga pinus_Pine Warbler,0.9291101,808.0,811.0
+Leiothlypis crissalis_Colima Warbler,0.5141596,808.0,811.0
+Setophaga pinus_Pine Warbler,0.9689528,809.0,812.0
+Setophaga pinus_Pine Warbler,0.9787198,810.0,813.0
+Setophaga pinus_Pine Warbler,0.89105934,811.0,814.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.1255175,811.0,814.0
+Leiothlypis crissalis_Colima Warbler,0.79905933,815.0,818.0
+Setophaga pinus_Pine Warbler,0.94492483,816.0,819.0
+Setophaga pinus_Pine Warbler,0.9409366,817.0,820.0
+Setophaga pinus_Pine Warbler,0.8365114,818.0,821.0
+Setophaga pinus_Pine Warbler,0.8602919,819.0,822.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.43752578,819.0,822.0
+Loxia scotica_Scottish Crossbill,0.13364987,824.0,827.0
+Setophaga pinus_Pine Warbler,0.69731724,825.0,828.0
+Setophaga pinus_Pine Warbler,0.91283095,826.0,829.0
+Setophaga pinus_Pine Warbler,0.97550493,827.0,830.0
+Setophaga pinus_Pine Warbler,0.6982852,828.0,831.0
+Phylloscopus bonelli_Western Bonelli's Warbler,0.5502244,828.0,831.0
+Poecile gambeli_Mountain Chickadee,0.10013833,830.0,833.0
+Setophaga pinus_Pine Warbler,0.13255249,833.0,836.0
+Setophaga pinus_Pine Warbler,0.19479655,834.0,836.1360090702948

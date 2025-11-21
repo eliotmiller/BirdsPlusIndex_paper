@@ -1,0 +1,103 @@
+species,score,start_time,end_time
+Ammodramus humeralis_Grassland Sparrow,0.15493874,1.0,4.0
+Strix varia_Barred Owl,0.97865146,2.0,5.0
+Strix varia_Barred Owl,0.9054035,3.0,6.0
+Strix varia_Barred Owl,0.998863,4.0,7.0
+Strix varia_Barred Owl,0.99376786,5.0,8.0
+Strix varia_Barred Owl,0.9989531,6.0,9.0
+Strix varia_Barred Owl,0.9904357,7.0,10.0
+Strix varia_Barred Owl,0.99245197,8.0,11.0
+Strix varia_Barred Owl,0.6370624,9.0,12.0
+Bubo bubo_Eurasian Eagle-Owl,0.17055987,9.0,12.0
+Gryllus rubens_Southeastern Field Cricket,0.26874003,10.0,13.0
+Strix varia_Barred Owl,0.9026905,11.0,14.0
+Ciccaba virgata_Mottled Owl,0.14422381,11.0,14.0
+Gryllus rubens_Southeastern Field Cricket,0.12589833,11.0,14.0
+Strix varia_Barred Owl,0.9859285,12.0,15.0
+Strix varia_Barred Owl,0.995989,13.0,16.0
+Gryllus rubens_Southeastern Field Cricket,0.17780632,13.0,16.0
+Strix varia_Barred Owl,0.93280935,14.0,17.0
+Gryllus rubens_Southeastern Field Cricket,0.40212348,14.0,17.0
+Gryllus rubens_Southeastern Field Cricket,0.89845353,15.0,18.0
+Gryllus rubens_Southeastern Field Cricket,0.80980235,16.0,19.0
+Gryllus rubens_Southeastern Field Cricket,0.5861263,17.0,20.0
+Gryllus rubens_Southeastern Field Cricket,0.6177012,18.0,21.0
+Gryllus rubens_Southeastern Field Cricket,0.3886184,19.0,22.0
+Gryllus rubens_Southeastern Field Cricket,0.18837744,20.0,23.0
+Gryllus rubens_Southeastern Field Cricket,0.12008911,21.0,24.0
+Strix varia_Barred Owl,0.7112505,27.0,30.0
+Gryllus rubens_Southeastern Field Cricket,0.11955685,27.0,30.0
+Strix varia_Barred Owl,0.98610246,28.0,31.0
+Strix varia_Barred Owl,0.98679745,29.0,32.0
+Strix varia_Barred Owl,0.97085637,30.0,33.0
+Strix varia_Barred Owl,0.99581856,31.0,34.0
+Strix varia_Barred Owl,0.9845264,32.0,35.0
+Gryllus rubens_Southeastern Field Cricket,0.15674752,32.0,35.0
+Strix varia_Barred Owl,0.99638957,33.0,36.0
+Gryllus rubens_Southeastern Field Cricket,0.14325027,33.0,36.0
+Gryllus rubens_Southeastern Field Cricket,0.24700451,34.0,37.0
+Gryllus rubens_Southeastern Field Cricket,0.325469,35.0,38.0
+Gryllus rubens_Southeastern Field Cricket,0.30385205,36.0,39.0
+Gryllus rubens_Southeastern Field Cricket,0.23922259,37.0,40.0
+Gryllus rubens_Southeastern Field Cricket,0.17673823,38.0,41.0
+Gryllus rubens_Southeastern Field Cricket,0.2114788,39.0,42.0
+Gryllus rubens_Southeastern Field Cricket,0.12477825,41.0,44.0
+Gryllus rubens_Southeastern Field Cricket,0.21866716,42.0,45.0
+Gryllus rubens_Southeastern Field Cricket,0.49110577,43.0,46.0
+Gryllus rubens_Southeastern Field Cricket,0.106839426,44.0,47.0
+Strix varia_Barred Owl,0.60876554,45.0,48.0
+Ciccaba virgata_Mottled Owl,0.1867587,45.0,48.0
+Strix varia_Barred Owl,0.8267561,46.0,49.0
+Ciccaba virgata_Mottled Owl,0.30272928,46.0,49.0
+Strix varia_Barred Owl,0.97786486,47.0,50.0
+Ciccaba virgata_Mottled Owl,0.26994398,47.0,50.0
+Strix varia_Barred Owl,0.9929709,48.0,51.0
+Strix varia_Barred Owl,0.98395395,49.0,52.0
+Strix varia_Barred Owl,0.9861611,50.0,53.0
+Strix varia_Barred Owl,0.99661714,51.0,54.0
+Strix varia_Barred Owl,0.9992717,52.0,55.0
+Strix varia_Barred Owl,0.99763966,53.0,56.0
+Strix varia_Barred Owl,0.9991247,54.0,57.0
+Gryllus rubens_Southeastern Field Cricket,0.13029008,54.0,57.0
+Strix varia_Barred Owl,0.37487176,55.0,58.0
+Strix varia_Barred Owl,0.97098505,56.0,59.0
+Strix varia_Barred Owl,0.89446837,57.0,60.0
+Strix varia_Barred Owl,0.9890371,58.0,61.0
+Strix varia_Barred Owl,0.9881913,59.0,62.0
+Strix varia_Barred Owl,0.9622669,60.0,63.0
+Cistothorus stellaris_Sedge Wren,0.18859157,61.0,64.0
+Cistothorus stellaris_Sedge Wren,0.14309494,62.0,65.0
+Melospiza georgiana_Swamp Sparrow,0.12999061,62.0,65.0
+Cistothorus stellaris_Sedge Wren,0.28896803,65.0,68.0
+Cistothorus platensis_Grass Wren,0.13195014,65.0,68.0
+Melospiza georgiana_Swamp Sparrow,0.16529475,69.0,72.0
+Strix varia_Barred Owl,0.685796,72.0,75.0
+Strix occidentalis_Spotted Owl,0.1569589,72.0,75.0
+Strix varia_Barred Owl,0.9942697,73.0,76.0
+Strix varia_Barred Owl,0.9985808,74.0,77.0
+Strix varia_Barred Owl,0.9989593,75.0,78.0
+Strix varia_Barred Owl,0.99730587,76.0,79.0
+Strix varia_Barred Owl,0.9964683,77.0,80.0
+Gryllus rubens_Southeastern Field Cricket,0.39029798,77.0,80.0
+Strix varia_Barred Owl,0.9935381,78.0,81.0
+Gryllus rubens_Southeastern Field Cricket,0.22548717,78.0,81.0
+Strix varia_Barred Owl,0.7970457,79.0,82.0
+Gryllus rubens_Southeastern Field Cricket,0.10271828,82.0,85.0
+Gryllus rubens_Southeastern Field Cricket,0.33821586,83.0,86.0
+Gryllus rubens_Southeastern Field Cricket,0.7464234,84.0,87.0
+Gryllus rubens_Southeastern Field Cricket,0.2785127,85.0,88.0
+Gryllus rubens_Southeastern Field Cricket,0.43855783,86.0,89.0
+Gryllus rubens_Southeastern Field Cricket,0.5875281,87.0,90.0
+Gryllus rubens_Southeastern Field Cricket,0.13231106,90.0,93.0
+Gryllus rubens_Southeastern Field Cricket,0.5934455,91.0,94.0
+Strix varia_Barred Owl,0.12398364,91.0,94.0
+Strix varia_Barred Owl,0.4777231,92.0,95.0
+Ciccaba virgata_Mottled Owl,0.4309922,92.0,95.0
+Gryllus rubens_Southeastern Field Cricket,0.10213857,92.0,95.0
+Strix varia_Barred Owl,0.99086237,93.0,96.0
+Strix varia_Barred Owl,0.9976422,94.0,97.0
+Strix varia_Barred Owl,0.99712294,95.0,98.0
+Strix varia_Barred Owl,0.9928005,96.0,99.0
+Strix varia_Barred Owl,0.998461,97.0,100.0
+Strix varia_Barred Owl,0.9990435,98.0,101.0
+Strix varia_Barred Owl,0.9866627,99.0,101.52

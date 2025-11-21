@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.97029805,0.0,3.0
+Setophaga ruticilla_American Redstart,0.94497806,0.0,3.0
+Setophaga ruticilla_American Redstart,0.97410226,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.9063531,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.1016064,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.8440066,2.0,5.0
+Setophaga ruticilla_American Redstart,0.4502237,2.0,5.0
+Leiothlypis ruficapilla_Nashville Warbler,0.10642881,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.22648188,4.0,7.0
+Himatione sanguinea_Apapane,0.15191887,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.9872228,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.65346676,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.19099104,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.9559019,7.0,10.0
+Setophaga ruticilla_American Redstart,0.7536414,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.45088553,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.16379328,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.11272446,7.0,10.0
+Setophaga ruticilla_American Redstart,0.9911209,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.21521573,8.0,11.0
+Setophaga ruticilla_American Redstart,0.9834536,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.4044414,9.0,12.0
+Setophaga ruticilla_American Redstart,0.9636356,10.0,13.0
+Setophaga castanea_Bay-breasted Warbler,0.11666206,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.72358006,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.13384388,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.815571,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.12573096,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.20052613,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.9252537,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.82381123,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.28275552,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.11985238,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.59211165,17.0,20.0
+Setophaga ruticilla_American Redstart,0.17670767,17.0,20.0
+Setophaga ruticilla_American Redstart,0.9840247,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.114860594,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.101692334,18.0,21.0
+Setophaga ruticilla_American Redstart,0.96037054,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.12196737,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.11298353,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.10296244,19.0,22.0
+Setophaga ruticilla_American Redstart,0.9930835,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.45104244,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.25062037,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.15359111,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.94269264,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.13781784,21.0,24.0
+Hylocichla mustelina_Wood Thrush,0.89603615,22.0,25.0
+Hylocichla mustelina_Wood Thrush,0.7569782,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.635677,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.1105187,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.84805036,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.19933057,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.8813656,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.24244007,25.0,28.0
+Setophaga ruticilla_American Redstart,0.6858012,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.5719497,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.1177553,26.0,29.0
+Setophaga ruticilla_American Redstart,0.99362916,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.22346155,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.17849411,27.0,30.0
+Corvus brachyrhynchos_American Crow,0.114940174,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.112609915,27.0,30.0
+Setophaga ruticilla_American Redstart,0.9475863,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.7643548,28.0,31.0
+Setophaga ruticilla_American Redstart,0.9862343,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.18015277,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.88068646,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.14234042,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.9155751,31.0,33.04802721088436

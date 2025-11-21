@@ -1,0 +1,38 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.9453137,0.0,3.0
+Ardea cinerea_Gray Heron,0.2684213,0.0,3.0
+Melospiza melodia_Song Sparrow,0.24323574,0.0,3.0
+Ardea herodias_Great Blue Heron,0.94779915,1.0,4.0
+Troglodytes pacificus_Pacific Wren,0.20822443,1.0,4.0
+Ardea cinerea_Gray Heron,0.20271575,1.0,4.0
+Ardea herodias_Great Blue Heron,0.49863687,2.0,5.0
+Ardea herodias_Great Blue Heron,0.52702165,3.0,6.0
+Ardea cinerea_Gray Heron,0.18651997,3.0,6.0
+Ardea herodias_Great Blue Heron,0.5004034,4.0,7.0
+Ardea cinerea_Gray Heron,0.10919861,4.0,7.0
+Ardea herodias_Great Blue Heron,0.52845854,5.0,8.0
+Strix uralensis_Ural Owl,0.21205492,5.0,8.0
+Ardea herodias_Great Blue Heron,0.86221695,7.0,10.0
+Ardea herodias_Great Blue Heron,0.94505095,8.0,11.0
+Ardea cinerea_Gray Heron,0.14683828,8.0,11.0
+Ardea herodias_Great Blue Heron,0.86616045,9.0,12.0
+Ardea herodias_Great Blue Heron,0.69335043,10.0,13.0
+Ardea cinerea_Gray Heron,0.19731936,10.0,13.0
+Ardea herodias_Great Blue Heron,0.56158096,11.0,14.0
+Ardea cinerea_Gray Heron,0.23764467,11.0,14.0
+Ardea herodias_Great Blue Heron,0.5994695,12.0,15.0
+Strix uralensis_Ural Owl,0.23976214,12.0,15.0
+Ardea cinerea_Gray Heron,0.20401148,12.0,15.0
+Strix uralensis_Ural Owl,0.35676852,13.0,16.0
+Bubo bubo_Eurasian Eagle-Owl,0.33091524,13.0,16.0
+Ardea herodias_Great Blue Heron,0.3245155,13.0,16.0
+Ardea cinerea_Gray Heron,0.27086362,13.0,16.0
+Ardea herodias_Great Blue Heron,0.77672696,14.0,17.0
+Ardea cinerea_Gray Heron,0.362798,14.0,17.0
+Strix uralensis_Ural Owl,0.16956583,14.0,17.0
+Ardea herodias_Great Blue Heron,0.38957718,17.0,20.0
+Branta leucopsis_Barnacle Goose,0.25773168,17.0,20.0
+Branta leucopsis_Barnacle Goose,0.11768897,18.0,21.0
+Branta leucopsis_Barnacle Goose,0.21389645,19.0,22.0
+Cardinalis cardinalis_Northern Cardinal,0.15176858,20.0,23.0
+Cardinalis cardinalis_Northern Cardinal,0.112034835,21.0,24.0

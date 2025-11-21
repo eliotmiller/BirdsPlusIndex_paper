@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.9854872,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23153588,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.99797577,3.0,6.0
+Piranga rubra_Summer Tanager,0.17741661,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.9974885,4.0,7.0
+Turdus falcklandii_Austral Thrush,0.23347881,4.0,7.0
+Piranga flava_Hepatic Tanager,0.14416936,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.9987085,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.99830365,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.9984999,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.9945679,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.9786396,9.0,12.0
+Turdus falcklandii_Austral Thrush,0.21749376,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.890261,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.5600508,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.15382594,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.83446777,12.0,15.0
+Catharus fuscescens_Veery,0.29107273,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22692005,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.109450884,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.10152105,13.0,16.0
+Catharus fuscescens_Veery,0.28853014,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1657152,14.0,17.0
+Catharus fuscescens_Veery,0.3308805,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18317422,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20505548,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14676784,17.0,20.0
+Sitta canadensis_Red-breasted Nuthatch,0.13717875,17.0,20.0
+Sitta canadensis_Red-breasted Nuthatch,0.25817448,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1643034,18.0,21.0
+Sitta canadensis_Red-breasted Nuthatch,0.2584055,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.33731198,20.0,23.0
+Contopus cooperi_Olive-sided Flycatcher,0.19838506,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.9824363,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.99498546,22.0,25.0
+Alophoixus phaeocephalus_Yellow-bellied Bulbul,0.19095209,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.99390334,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.9940479,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.99211615,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.16265026,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.53232104,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.19556923,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10491985,26.0,29.0
+Catharus fuscescens_Veery,0.10146748,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.8425791,27.0,30.0
+Turdus falcklandii_Austral Thrush,0.2809555,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.9788806,28.0,31.0
+Turdus falcklandii_Austral Thrush,0.39792994,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.99318403,29.0,32.0
+Turdus falcklandii_Austral Thrush,0.37251276,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.950537,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.9836749,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.98407906,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.10871684,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.98401165,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.79535407,34.0,37.0
+Turdus falcklandii_Austral Thrush,0.11507208,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.9870788,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.9373601,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.2416532,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15824609,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19504242,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.10118869,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11847931,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10064242,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19369195,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12540397,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.11616784,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.40525717,41.0,44.0
+Progne subis_Purple Martin,0.12944333,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.94413465,42.0,45.0
+Turdus falcklandii_Austral Thrush,0.86980444,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.9971878,43.0,46.0
+Turdus falcklandii_Austral Thrush,0.21969123,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.9961402,44.0,47.0
+Turdus falcklandii_Austral Thrush,0.35096776,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.9993661,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.9993305,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.9856015,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.8343585,48.0,51.0
+Turdus falcklandii_Austral Thrush,0.3822378,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.5736157,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.18965116,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24651837,51.0,53.95201814058957
+Helmitheros vermivorum_Worm-eating Warbler,0.18744521,51.0,53.95201814058957
+Setophaga citrina_Hooded Warbler,0.13510059,51.0,53.95201814058957
+Setophaga fusca_Blackburnian Warbler,0.11296386,51.0,53.95201814058957
+Setophaga cerulea_Cerulean Warbler,0.10681712,51.0,53.95201814058957
