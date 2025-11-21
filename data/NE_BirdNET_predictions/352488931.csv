@@ -1,0 +1,15 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.5042183,0.0,3.0
+Grus grus_Common Crane,0.42149845,0.0,3.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.15886047,0.0,3.0
+Corvus corax_Common Raven,0.18839376,1.0,4.0
+Grus grus_Common Crane,0.15275112,1.0,4.0
+Corvus corax_Common Raven,0.49184635,5.0,8.0
+Corvus corax_Common Raven,0.8120931,6.0,9.0
+Corvus corax_Common Raven,0.12594019,7.0,10.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.11615703,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.27482134,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.46208093,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.47581407,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.44280338,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.53891456,13.0,16.0

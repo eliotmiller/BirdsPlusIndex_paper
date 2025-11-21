@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.26156473,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.11600704,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.10914683,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.13812517,1.0,4.0
+Catharus fuscescens_Veery,0.15962727,2.0,5.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9626384,3.0,6.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.98784316,4.0,7.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96438926,5.0,8.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9862105,6.0,9.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9555945,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9273209,8.0,11.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5466782,9.0,12.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.48376417,10.0,13.0
+Icterus galbula_Baltimore Oriole,0.2649989,10.0,13.0
+Habia rubica_Red-crowned Ant-Tanager,0.11876455,11.0,14.0
+Baeolophus bicolor_Tufted Titmouse,0.3279327,12.0,15.0
+Icterus galbula_Baltimore Oriole,0.11209153,12.0,15.0
+Cardinalis cardinalis_Northern Cardinal,0.14396147,13.0,16.0
+Cardinalis cardinalis_Northern Cardinal,0.23030497,14.0,17.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.93302256,15.0,18.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9578135,16.0,19.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9551989,17.0,20.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9540857,18.0,21.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9461101,19.0,22.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.765491,20.0,23.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5112533,21.0,24.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.90850604,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.8167321,23.0,26.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.35698447,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5836113,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12093559,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123330384,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17999128,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.10939203,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11855855,29.0,32.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9762189,30.0,33.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.99093,31.0,34.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.991835,32.0,35.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9961111,33.0,36.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9145459,34.0,37.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.60668033,35.0,38.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.7393308,36.0,39.0
+Cyclarhis nigrirostris_Black-billed Peppershrike,0.15302674,37.0,40.0
+Cyclarhis nigrirostris_Black-billed Peppershrike,0.3234275,38.0,41.0
+Geokichla gurneyi_Orange Ground-Thrush,0.11719344,38.0,41.0
+Habia rubica_Red-crowned Ant-Tanager,0.116240576,39.0,42.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.28854525,43.0,46.0
+Catharus fuscescens_Veery,0.17494519,44.0,47.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.122152746,44.0,47.0
+Catharus fuscescens_Veery,0.1216461,48.0,51.0
+Catharus fuscescens_Veery,0.10688876,49.0,52.0
+Cardinalis cardinalis_Northern Cardinal,0.10524504,49.0,52.0
+Cardinalis cardinalis_Northern Cardinal,0.12323021,50.0,53.0
+Cardinalis cardinalis_Northern Cardinal,0.10828735,52.0,55.0
+Catharus fuscescens_Veery,0.13687874,53.0,56.0
+Zenaida macroura_Mourning Dove,0.14518525,54.0,57.0
+Zenaida macroura_Mourning Dove,0.21501061,55.0,58.0
+Zenaida macroura_Mourning Dove,0.16068666,56.0,59.0
+Cardinalis cardinalis_Northern Cardinal,0.1420705,58.0,61.0
+Cardinalis cardinalis_Northern Cardinal,0.17605938,59.0,62.0
+Cardinalis cardinalis_Northern Cardinal,0.21649426,60.0,63.0
+Icterus galbula_Baltimore Oriole,0.25707608,62.0,65.0
+Contopus virens_Eastern Wood-Pewee,0.16164494,63.0,66.0
+Cyanocitta cristata_Blue Jay,0.17912951,64.0,67.0
+Cyanocitta cristata_Blue Jay,0.10197565,66.0,69.0
+Cardinalis cardinalis_Northern Cardinal,0.48619038,68.0,71.0
+Cardinalis cardinalis_Northern Cardinal,0.16879036,69.0,72.0
+Cardinalis cardinalis_Northern Cardinal,0.69478965,70.0,73.0
+Pipilo erythrophthalmus_Eastern Towhee,0.110690504,70.0,73.0
+Cardinalis cardinalis_Northern Cardinal,0.38736087,71.0,74.0
+Icterus galbula_Baltimore Oriole,0.5451112,73.0,76.0
+Icterus galbula_Baltimore Oriole,0.2878751,74.0,76.39201814058957

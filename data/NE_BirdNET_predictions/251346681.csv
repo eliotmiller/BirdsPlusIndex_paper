@@ -1,0 +1,99 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.285494,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16360088,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.7742983,1.0,4.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.38706395,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9905951,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.97894555,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.9921697,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.118277885,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.13443592,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.17601122,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.15873517,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.28905994,11.0,14.0
+Vireo philadelphicus_Philadelphia Vireo,0.11404259,11.0,14.0
+Vireo philadelphicus_Philadelphia Vireo,0.16367301,13.0,16.0
+Vireo philadelphicus_Philadelphia Vireo,0.20426641,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.1041051,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.23875996,18.0,21.0
+Vireo philadelphicus_Philadelphia Vireo,0.122799315,18.0,21.0
+Piranga flava_Hepatic Tanager,0.16266663,24.0,27.0
+Piranga ludoviciana_Western Tanager,0.16152821,24.0,27.0
+Vermivora cyanoptera_Blue-winged Warbler,0.111526266,30.0,33.0
+Spizella pallida_Clay-colored Sparrow,0.31730345,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23247406,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.9434644,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.973381,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.98243755,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9241871,40.0,43.0
+Setophaga occidentalis_Hermit Warbler,0.16892816,40.0,43.0
+Setophaga townsendi_Townsend's Warbler,0.14263108,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.26243424,46.0,49.0
+Setophaga palmarum_Palm Warbler,0.108295,46.0,49.0
+Melospiza georgiana_Swamp Sparrow,0.52373093,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.28392002,47.0,50.0
+Melospiza georgiana_Swamp Sparrow,0.6225081,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.22505671,48.0,51.0
+Melospiza georgiana_Swamp Sparrow,0.34955102,49.0,52.0
+Bombycilla cedrorum_Cedar Waxwing,0.23080198,49.0,52.0
+Junco hyemalis_Dark-eyed Junco,0.101776585,49.0,52.0
+Peucaea aestivalis_Bachman's Sparrow,0.22327638,50.0,53.0
+Melospiza georgiana_Swamp Sparrow,0.14139141,50.0,53.0
+Bombycilla cedrorum_Cedar Waxwing,0.13890348,50.0,53.0
+Setophaga palmarum_Palm Warbler,0.11476926,50.0,53.0
+Bombycilla cedrorum_Cedar Waxwing,0.8159174,51.0,54.0
+Bombycilla cedrorum_Cedar Waxwing,0.7826476,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.7372745,54.0,57.0
+Bombycilla cedrorum_Cedar Waxwing,0.79332346,55.0,58.0
+Geothlypis trichas_Common Yellowthroat,0.1510872,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.124315865,58.0,61.0
+Melospiza georgiana_Swamp Sparrow,0.11412405,58.0,61.0
+Melospiza georgiana_Swamp Sparrow,0.3256782,59.0,62.0
+Junco hyemalis_Dark-eyed Junco,0.16599579,59.0,62.0
+Melospiza georgiana_Swamp Sparrow,0.6320561,60.0,63.0
+Setophaga palmarum_Palm Warbler,0.13266824,60.0,63.0
+Setophaga pinus_Pine Warbler,0.1713517,61.0,64.0
+Melospiza georgiana_Swamp Sparrow,0.11789366,61.0,64.0
+Bombycilla cedrorum_Cedar Waxwing,0.22752553,62.0,65.0
+Bombycilla cedrorum_Cedar Waxwing,0.5253464,63.0,66.0
+Bombycilla cedrorum_Cedar Waxwing,0.679847,64.0,67.0
+Bombycilla cedrorum_Cedar Waxwing,0.26927385,65.0,68.0
+Junco hyemalis_Dark-eyed Junco,0.14672683,65.0,68.0
+Melospiza georgiana_Swamp Sparrow,0.30700308,67.0,70.0
+Melospiza georgiana_Swamp Sparrow,0.28513455,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.102617964,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.18942894,69.0,72.0
+Junco phaeonotus_Yellow-eyed Junco,0.13737352,69.0,72.0
+Junco hyemalis_Dark-eyed Junco,0.21789147,70.0,73.0
+Junco hyemalis_Dark-eyed Junco,0.42888114,71.0,74.0
+Junco hyemalis_Dark-eyed Junco,0.14117263,72.0,75.0
+Junco hyemalis_Dark-eyed Junco,0.11330046,73.0,76.0
+Setophaga pinus_Pine Warbler,0.102230154,73.0,76.0
+Bombycilla cedrorum_Cedar Waxwing,0.46870342,74.0,77.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12425564,74.0,77.0
+Bombycilla cedrorum_Cedar Waxwing,0.22113426,78.0,81.0
+Regulus satrapa_Golden-crowned Kinglet,0.100144885,79.0,82.0
+Geothlypis trichas_Common Yellowthroat,0.26416978,81.0,84.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2112221,81.0,84.0
+Setophaga magnolia_Magnolia Warbler,0.16752827,81.0,84.0
+Spizella pallida_Clay-colored Sparrow,0.6151997,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.14227495,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.9863853,83.0,86.0
+Setophaga virens_Black-throated Green Warbler,0.97892845,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.8964283,85.0,88.0
+Passerculus sandwichensis_Savannah Sparrow,0.122355826,85.0,88.0
+Vireo flavifrons_Yellow-throated Vireo,0.25090364,90.0,93.0
+Vireo solitarius_Blue-headed Vireo,0.19352995,90.0,93.0
+Vireo philadelphicus_Philadelphia Vireo,0.109315425,91.0,94.0
+Vireo solitarius_Blue-headed Vireo,0.10798226,91.0,94.0
+Junco hyemalis_Dark-eyed Junco,0.122986905,92.0,95.0
+Junco phaeonotus_Yellow-eyed Junco,0.11208274,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101628214,103.0,106.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26015243,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.14898795,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.83936006,108.0,111.0
+Setophaga virens_Black-throated Green Warbler,0.9815087,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.98765844,110.0,113.0
+Setophaga virens_Black-throated Green Warbler,0.85892844,111.0,114.0
+Setophaga coronata_Yellow-rumped Warbler,0.12659034,113.0,116.0
+Setophaga coronata_Yellow-rumped Warbler,0.14122346,114.0,117.0

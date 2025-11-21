@@ -1,0 +1,195 @@
+species,score,start_time,end_time
+Ixoreus naevius_Varied Thrush,0.16923288,0.0,3.0
+Gallinula galeata_Common Gallinule,0.7202301,1.0,4.0
+Gallinula chloropus_Eurasian Moorhen,0.18906276,1.0,4.0
+Gallinula galeata_Common Gallinule,0.7967258,2.0,5.0
+Gallinula chloropus_Eurasian Moorhen,0.11255523,2.0,5.0
+Gallinula galeata_Common Gallinule,0.9358109,3.0,6.0
+Gallinula chloropus_Eurasian Moorhen,0.20432606,3.0,6.0
+Gallinula galeata_Common Gallinule,0.84759486,4.0,7.0
+Porzana carolina_Sora,0.4241313,4.0,7.0
+Podilymbus podiceps_Pied-billed Grebe,0.10125804,4.0,7.0
+Gallinula galeata_Common Gallinule,0.9613786,5.0,8.0
+Porzana carolina_Sora,0.47689983,5.0,8.0
+Gallinula galeata_Common Gallinule,0.77535355,6.0,9.0
+Porzana carolina_Sora,0.2462512,6.0,9.0
+Gallinula galeata_Common Gallinule,0.70705557,7.0,10.0
+Porzana carolina_Sora,0.16470438,7.0,10.0
+Gallinula galeata_Common Gallinule,0.87074995,8.0,11.0
+Porzana carolina_Sora,0.13892609,8.0,11.0
+Gallinula galeata_Common Gallinule,0.98007834,9.0,12.0
+Porzana carolina_Sora,0.1445077,9.0,12.0
+Gallinula galeata_Common Gallinule,0.77159786,10.0,13.0
+Phasianus colchicus_Ring-necked Pheasant,0.16593985,10.0,13.0
+Gallinula galeata_Common Gallinule,0.916304,11.0,14.0
+Porzana carolina_Sora,0.42286134,11.0,14.0
+Gallinula galeata_Common Gallinule,0.94392186,12.0,15.0
+Porzana carolina_Sora,0.23937476,12.0,15.0
+Gallinula galeata_Common Gallinule,0.9119214,13.0,16.0
+Porzana carolina_Sora,0.411606,13.0,16.0
+Gallinula chloropus_Eurasian Moorhen,0.1378484,13.0,16.0
+Gallinula galeata_Common Gallinule,0.8910858,14.0,17.0
+Phasianus colchicus_Ring-necked Pheasant,0.10751441,14.0,17.0
+Gallinula galeata_Common Gallinule,0.93528074,15.0,18.0
+Phasianus colchicus_Ring-necked Pheasant,0.11664221,15.0,18.0
+Gallinula galeata_Common Gallinule,0.9227569,16.0,19.0
+Porphyrio martinica_Purple Gallinule,0.1178682,16.0,19.0
+Gallinula galeata_Common Gallinule,0.96365446,17.0,20.0
+Gallinula galeata_Common Gallinule,0.932286,18.0,21.0
+Gallinula chloropus_Eurasian Moorhen,0.10306337,18.0,21.0
+Gallinula tenebrosa_Dusky Moorhen,0.81054145,19.0,22.0
+Gallinula galeata_Common Gallinule,0.1771252,19.0,22.0
+Accipiter cooperii_Cooper's Hawk,0.17570433,19.0,22.0
+Gallinula tenebrosa_Dusky Moorhen,0.8959369,20.0,23.0
+Accipiter cooperii_Cooper's Hawk,0.34716886,20.0,23.0
+Gallinula galeata_Common Gallinule,0.14412044,20.0,23.0
+Gallinula tenebrosa_Dusky Moorhen,0.58693784,21.0,24.0
+Gallinula galeata_Common Gallinule,0.48489407,21.0,24.0
+Gallinula chloropus_Eurasian Moorhen,0.12543951,21.0,24.0
+Gallinula galeata_Common Gallinule,0.5372378,22.0,25.0
+Accipiter cooperii_Cooper's Hawk,0.3159281,22.0,25.0
+Gallinula galeata_Common Gallinule,0.63464826,23.0,26.0
+Gallinula chloropus_Eurasian Moorhen,0.22484608,23.0,26.0
+Gallinula tenebrosa_Dusky Moorhen,0.18919225,23.0,26.0
+Gallinula galeata_Common Gallinule,0.929894,24.0,27.0
+Gallinula chloropus_Eurasian Moorhen,0.24391529,24.0,27.0
+Gallinula galeata_Common Gallinule,0.96721643,25.0,28.0
+Porzana carolina_Sora,0.1528768,25.0,28.0
+Gallinula galeata_Common Gallinule,0.9619626,26.0,29.0
+Porzana carolina_Sora,0.26455462,26.0,29.0
+Gallinula galeata_Common Gallinule,0.9665318,27.0,30.0
+Porzana carolina_Sora,0.13780656,27.0,30.0
+Gallinula galeata_Common Gallinule,0.9114765,28.0,31.0
+Gallinula chloropus_Eurasian Moorhen,0.19710721,29.0,32.0
+Vanellus miles_Masked Lapwing,0.16997695,29.0,32.0
+Engine_Engine,0.30541965,30.0,33.0
+Turdus iliacus_Redwing,0.23811299,30.0,33.0
+Gallinula galeata_Common Gallinule,0.73587716,31.0,34.0
+Porzana carolina_Sora,0.19920611,31.0,34.0
+Gallinula galeata_Common Gallinule,0.8946333,32.0,35.0
+Porzana carolina_Sora,0.249578,32.0,35.0
+Podilymbus podiceps_Pied-billed Grebe,0.18503307,32.0,35.0
+Gallinula galeata_Common Gallinule,0.6611053,33.0,36.0
+Porzana carolina_Sora,0.38326716,33.0,36.0
+Cistothorus palustris_Marsh Wren,0.4865713,34.0,37.0
+Gallinula galeata_Common Gallinule,0.9392463,35.0,38.0
+Gallinula chloropus_Eurasian Moorhen,0.12744729,35.0,38.0
+Gallinula galeata_Common Gallinule,0.9808648,36.0,39.0
+Gallinula galeata_Common Gallinule,0.9486608,37.0,40.0
+Porzana carolina_Sora,0.19103067,37.0,40.0
+Gallinula galeata_Common Gallinule,0.929991,38.0,41.0
+Porzana carolina_Sora,0.12221644,38.0,41.0
+Gallinula galeata_Common Gallinule,0.96096516,39.0,42.0
+Porzana carolina_Sora,0.49934426,39.0,42.0
+Podilymbus podiceps_Pied-billed Grebe,0.49244612,39.0,42.0
+Gallinula galeata_Common Gallinule,0.9616223,40.0,43.0
+Porzana carolina_Sora,0.5854397,40.0,43.0
+Podilymbus podiceps_Pied-billed Grebe,0.19375917,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.25967583,41.0,44.0
+Gallinula galeata_Common Gallinule,0.95869255,45.0,48.0
+Porzana carolina_Sora,0.46701768,45.0,48.0
+Gallinula galeata_Common Gallinule,0.9095529,46.0,49.0
+Porzana carolina_Sora,0.5374367,46.0,49.0
+Gallinula galeata_Common Gallinule,0.7168428,47.0,50.0
+Porzana carolina_Sora,0.59776986,47.0,50.0
+Gallinula chloropus_Eurasian Moorhen,0.11724266,47.0,50.0
+Gallinula galeata_Common Gallinule,0.63183653,48.0,51.0
+Fulica atra_Eurasian Coot,0.1711318,48.0,51.0
+Fulica atra_Eurasian Coot,0.52533007,49.0,52.0
+Gallinula galeata_Common Gallinule,0.22295304,49.0,52.0
+Gallinula chloropus_Eurasian Moorhen,0.11242142,49.0,52.0
+Gallinula galeata_Common Gallinule,0.86307096,50.0,53.0
+Gallinula chloropus_Eurasian Moorhen,0.24028514,50.0,53.0
+Gallinula galeata_Common Gallinule,0.8860676,51.0,54.0
+Podilymbus podiceps_Pied-billed Grebe,0.100233056,51.0,54.0
+Gallinula galeata_Common Gallinule,0.88742065,52.0,55.0
+Porzana carolina_Sora,0.36918363,52.0,55.0
+Podilymbus podiceps_Pied-billed Grebe,0.19216107,52.0,55.0
+Cistothorus palustris_Marsh Wren,0.9530028,53.0,56.0
+Gallinula galeata_Common Gallinule,0.7677492,54.0,57.0
+Gallinula chloropus_Eurasian Moorhen,0.47417772,54.0,57.0
+Porzana carolina_Sora,0.31053913,54.0,57.0
+Vanellus miles_Masked Lapwing,0.12413492,54.0,57.0
+Fulica atra_Eurasian Coot,0.104793616,54.0,57.0
+Gallinula galeata_Common Gallinule,0.89018786,55.0,58.0
+Gallinula chloropus_Eurasian Moorhen,0.5345147,55.0,58.0
+Fulica atra_Eurasian Coot,0.3214818,55.0,58.0
+Gallinula chloropus_Eurasian Moorhen,0.8154189,56.0,59.0
+Gallinula galeata_Common Gallinule,0.5636588,56.0,59.0
+Fulica atra_Eurasian Coot,0.24841179,56.0,59.0
+Emberiza hortulana_Ortolan Bunting,0.108999915,58.0,61.0
+Gallinula galeata_Common Gallinule,0.6281482,59.0,62.0
+Fulica atra_Eurasian Coot,0.49780703,59.0,62.0
+Gallinula chloropus_Eurasian Moorhen,0.10541053,59.0,62.0
+Gallinula galeata_Common Gallinule,0.8265414,60.0,63.0
+Fulica atra_Eurasian Coot,0.47283497,60.0,63.0
+Porzana carolina_Sora,0.2744439,60.0,63.0
+Gallinula galeata_Common Gallinule,0.9173406,61.0,64.0
+Fulica atra_Eurasian Coot,0.3481576,61.0,64.0
+Porzana carolina_Sora,0.31195885,61.0,64.0
+Gallinula galeata_Common Gallinule,0.92356837,64.0,67.0
+Gallinula galeata_Common Gallinule,0.8365284,65.0,68.0
+Gallinula galeata_Common Gallinule,0.7275488,66.0,69.0
+Emberiza hortulana_Ortolan Bunting,0.1574551,68.0,71.0
+Gallinula galeata_Common Gallinule,0.9185956,71.0,74.0
+Gallinula galeata_Common Gallinule,0.7041805,72.0,75.0
+Gallinula galeata_Common Gallinule,0.91362005,73.0,76.0
+Porzana carolina_Sora,0.1683565,73.0,76.0
+Gallinula galeata_Common Gallinule,0.62855434,74.0,77.0
+Gallinula chloropus_Eurasian Moorhen,0.22442262,74.0,77.0
+Fulica atra_Eurasian Coot,0.17220446,74.0,77.0
+Gallinula galeata_Common Gallinule,0.5505847,75.0,78.0
+Gallinula chloropus_Eurasian Moorhen,0.15547344,75.0,78.0
+Fulica atra_Eurasian Coot,0.13958879,75.0,78.0
+Gallinula galeata_Common Gallinule,0.42782208,76.0,79.0
+Gallinula chloropus_Eurasian Moorhen,0.23901887,76.0,79.0
+Himantopus himantopus_Black-winged Stilt,0.15763341,76.0,79.0
+Gallinula galeata_Common Gallinule,0.6161339,77.0,80.0
+Gallinula chloropus_Eurasian Moorhen,0.13127358,77.0,80.0
+Gallinula galeata_Common Gallinule,0.59657586,78.0,81.0
+Himantopus himantopus_Black-winged Stilt,0.26609856,78.0,81.0
+Porzana carolina_Sora,0.20219715,78.0,81.0
+Gallinula galeata_Common Gallinule,0.73347074,79.0,82.0
+Gallinula galeata_Common Gallinule,0.580368,80.0,83.0
+Fulica atra_Eurasian Coot,0.18796489,80.0,83.0
+Porzana carolina_Sora,0.14644966,80.0,83.0
+Gallinula galeata_Common Gallinule,0.7407358,81.0,84.0
+Gallinula chloropus_Eurasian Moorhen,0.4487917,81.0,84.0
+Fulica atra_Eurasian Coot,0.21607128,81.0,84.0
+Gallinula galeata_Common Gallinule,0.88953596,82.0,85.0
+Porzana carolina_Sora,0.31149974,82.0,85.0
+Gallinula galeata_Common Gallinule,0.7373702,83.0,86.0
+Himantopus himantopus_Black-winged Stilt,0.2481842,83.0,86.0
+Gallinula chloropus_Eurasian Moorhen,0.13504083,83.0,86.0
+Gallinula galeata_Common Gallinule,0.7278273,84.0,87.0
+Himantopus himantopus_Black-winged Stilt,0.28122425,84.0,87.0
+Fulica atra_Eurasian Coot,0.1044269,84.0,87.0
+Gallinula galeata_Common Gallinule,0.74688077,85.0,88.0
+Gallinula tenebrosa_Dusky Moorhen,0.44573495,85.0,88.0
+Himantopus himantopus_Black-winged Stilt,0.15490554,85.0,88.0
+Gallinula chloropus_Eurasian Moorhen,0.10466034,85.0,88.0
+Gallinula galeata_Common Gallinule,0.6882074,86.0,89.0
+Gallinula chloropus_Eurasian Moorhen,0.3777919,86.0,89.0
+Fulica atra_Eurasian Coot,0.21288306,86.0,89.0
+Porphyriops melanops_Spot-flanked Gallinule,0.17147946,86.0,89.0
+Gallinula tenebrosa_Dusky Moorhen,0.15217313,86.0,89.0
+Gallinula galeata_Common Gallinule,0.75254995,87.0,90.0
+Porzana carolina_Sora,0.2595798,87.0,90.0
+Fulica atra_Eurasian Coot,0.14960271,87.0,90.0
+Gallinula tenebrosa_Dusky Moorhen,0.10698032,87.0,90.0
+Gallinula chloropus_Eurasian Moorhen,0.102373086,87.0,90.0
+Gallinula galeata_Common Gallinule,0.56581265,88.0,91.0
+Fulica atra_Eurasian Coot,0.1594261,88.0,91.0
+Porzana carolina_Sora,0.10529673,88.0,91.0
+Gallinula galeata_Common Gallinule,0.8103984,89.0,92.0
+Porzana carolina_Sora,0.12655453,89.0,92.0
+Gallinula galeata_Common Gallinule,0.93403566,90.0,93.0
+Porzana carolina_Sora,0.4464209,90.0,93.0
+Gallinula galeata_Common Gallinule,0.9424846,91.0,94.0
+Porzana carolina_Sora,0.20480315,91.0,94.0
+Podilymbus podiceps_Pied-billed Grebe,0.1177509,91.0,94.0
+Gallinula galeata_Common Gallinule,0.8900666,92.0,95.0
+Porzana carolina_Sora,0.56295925,92.0,95.0
+Podilymbus podiceps_Pied-billed Grebe,0.22142123,92.0,95.0
+Gallinula galeata_Common Gallinule,0.8899081,93.0,95.23201814058957
+Porzana carolina_Sora,0.3996404,93.0,95.23201814058957

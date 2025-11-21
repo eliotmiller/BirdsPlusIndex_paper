@@ -1,0 +1,113 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.9607198,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.98326355,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.9660885,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.21956313,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.21142438,3.0,6.0
+Setophaga ruticilla_American Redstart,0.19273391,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.18432932,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.34283334,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.18087773,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.11013734,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.32096022,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.20018587,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.13877048,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.9568953,7.0,10.0
+Junco hyemalis_Dark-eyed Junco,0.9916366,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.9625573,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.13482827,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.92404634,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.4264317,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.20328194,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.381372,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.31154558,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.16188917,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.40865424,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.3034279,13.0,16.0
+Setophaga ruticilla_American Redstart,0.10561507,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.75283647,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.88128436,15.0,18.0
+Spizella passerina_Chipping Sparrow,0.11769946,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.96600646,16.0,19.0
+Junco hyemalis_Dark-eyed Junco,0.9459692,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.21614537,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.20010966,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1259591,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.43255785,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.13323364,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12417517,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.9357423,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.9899691,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.96784705,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.8826426,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1401641,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.12353457,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23057105,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.10019461,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15630168,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.11545735,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.97042245,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.9273233,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.92451316,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.9535789,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.13199982,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.8522186,31.0,34.0
+Spizella passerina_Chipping Sparrow,0.16005635,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.1315556,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.10420075,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.314264,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.25985587,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15590273,34.0,37.0
+Junco hyemalis_Dark-eyed Junco,0.912217,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.978509,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.9500087,39.0,42.0
+Junco hyemalis_Dark-eyed Junco,0.9337458,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19503102,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.120918974,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19285358,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.16107948,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24348058,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.1695615,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1718895,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.9761061,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.9795799,46.0,49.0
+Junco hyemalis_Dark-eyed Junco,0.9864093,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.9294727,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1856543,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.119816884,49.0,52.0
+Piranga olivacea_Scarlet Tanager,0.11120052,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.10479891,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.19604462,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.16355768,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13510105,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.12145608,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.7115754,52.0,55.0
+Junco hyemalis_Dark-eyed Junco,0.96392083,53.0,56.0
+Spizella passerina_Chipping Sparrow,0.20543653,53.0,56.0
+Junco hyemalis_Dark-eyed Junco,0.9946262,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.9168519,55.0,58.0
+Spizella passerina_Chipping Sparrow,0.21678981,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.7532487,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.23182444,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.13746004,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13440183,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.25080103,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21509121,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.5746187,59.0,62.0
+Junco hyemalis_Dark-eyed Junco,0.9289858,60.0,63.0
+Junco hyemalis_Dark-eyed Junco,0.9858937,61.0,64.0
+Junco hyemalis_Dark-eyed Junco,0.9739249,62.0,65.0
+Junco hyemalis_Dark-eyed Junco,0.74264807,63.0,66.0
+Junco hyemalis_Dark-eyed Junco,0.637217,67.0,70.0
+Junco hyemalis_Dark-eyed Junco,0.7267654,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.7051941,69.0,72.0
+Melospiza georgiana_Swamp Sparrow,0.29939616,70.0,73.0
+Junco hyemalis_Dark-eyed Junco,0.18939696,70.0,73.0
+Junco hyemalis_Dark-eyed Junco,0.14435837,73.0,76.0
+Junco hyemalis_Dark-eyed Junco,0.28379512,74.0,77.0
+Junco hyemalis_Dark-eyed Junco,0.5873401,75.0,78.0
+Melospiza georgiana_Swamp Sparrow,0.27307183,76.0,79.0
+Junco hyemalis_Dark-eyed Junco,0.2294943,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.34830245,78.0,81.0
+Empidonax virescens_Acadian Flycatcher,0.10014822,82.0,85.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11621324,83.0,85.27201814058957

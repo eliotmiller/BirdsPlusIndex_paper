@@ -1,0 +1,129 @@
+species,score,start_time,end_time
+Ammodramus savannarum_Grasshopper Sparrow,0.9815891,0.0,3.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6608339,1.0,4.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.5727163,5.0,8.0
+Spizella pusilla_Field Sparrow,0.21647039,10.0,13.0
+Spizella pusilla_Field Sparrow,0.85884494,11.0,14.0
+Spizella pusilla_Field Sparrow,0.9893379,12.0,15.0
+Spizella pusilla_Field Sparrow,0.94175684,13.0,16.0
+Emberiza cia_Rock Bunting,0.54816115,16.0,19.0
+Peucaea carpalis_Rufous-winged Sparrow,0.21090111,16.0,19.0
+Ammodramus savannarum_Grasshopper Sparrow,0.52572644,17.0,20.0
+Spizella pusilla_Field Sparrow,0.10279856,21.0,24.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1913814,25.0,28.0
+Ammodramus savannarum_Grasshopper Sparrow,0.33656383,26.0,29.0
+Spizella pusilla_Field Sparrow,0.21741168,26.0,29.0
+Spizella pusilla_Field Sparrow,0.9516815,27.0,30.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16352515,27.0,30.0
+Spizella pusilla_Field Sparrow,0.9928162,28.0,31.0
+Spizella pusilla_Field Sparrow,0.9876529,29.0,32.0
+Actitis macularius_Spotted Sandpiper,0.29866058,30.0,33.0
+Spizella pusilla_Field Sparrow,0.15073524,30.0,33.0
+Sialia sialis_Eastern Bluebird,0.18443553,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13958515,31.0,34.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9334449,32.0,35.0
+Ammodramus savannarum_Grasshopper Sparrow,0.49629638,33.0,36.0
+Passerculus sandwichensis_Savannah Sparrow,0.103505194,35.0,38.0
+Ammodramus savannarum_Grasshopper Sparrow,0.17263398,37.0,40.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15707634,41.0,44.0
+Spizella pusilla_Field Sparrow,0.15091425,41.0,44.0
+Spizella pusilla_Field Sparrow,0.86074305,42.0,45.0
+Ammodramus savannarum_Grasshopper Sparrow,0.27700737,42.0,45.0
+Spizella pusilla_Field Sparrow,0.97557527,43.0,46.0
+Spizella pusilla_Field Sparrow,0.9936494,44.0,47.0
+Spizella pusilla_Field Sparrow,0.2450328,45.0,48.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2128861,47.0,50.0
+Amphispizopsis quinquestriata_Five-striped Sparrow,0.12045907,47.0,50.0
+Ammodramus savannarum_Grasshopper Sparrow,0.45033795,48.0,51.0
+Ammodramus savannarum_Grasshopper Sparrow,0.6403021,49.0,52.0
+Ammodramus savannarum_Grasshopper Sparrow,0.21442677,50.0,53.0
+Spizella pusilla_Field Sparrow,0.9732458,52.0,55.0
+Spizella pusilla_Field Sparrow,0.9936574,53.0,56.0
+Spizella pusilla_Field Sparrow,0.99558264,54.0,57.0
+Spizella pusilla_Field Sparrow,0.9831396,55.0,58.0
+Spizella pusilla_Field Sparrow,0.21445271,56.0,59.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8934785,57.0,60.0
+Ammodramus savannarum_Grasshopper Sparrow,0.41975793,58.0,61.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10677741,59.0,62.0
+Peucaea carpalis_Rufous-winged Sparrow,0.12100358,62.0,65.0
+Spizella pusilla_Field Sparrow,0.2207831,64.0,67.0
+Spizella pusilla_Field Sparrow,0.9175924,65.0,68.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10672317,65.0,68.0
+Spizella pusilla_Field Sparrow,0.92339796,66.0,69.0
+Ammodramus savannarum_Grasshopper Sparrow,0.46471667,66.0,69.0
+Spizella pusilla_Field Sparrow,0.99486804,67.0,70.0
+Spizella pusilla_Field Sparrow,0.9746148,68.0,71.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.24029389,69.0,72.0
+Spizella pusilla_Field Sparrow,0.10374457,71.0,74.0
+Peucaea carpalis_Rufous-winged Sparrow,0.17423828,72.0,75.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14660397,74.0,77.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9366952,75.0,78.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10181765,76.0,79.0
+Spizella pusilla_Field Sparrow,0.18198036,78.0,81.0
+Peucaea carpalis_Rufous-winged Sparrow,0.1706017,78.0,81.0
+Spizella pusilla_Field Sparrow,0.12998472,79.0,82.0
+Spizella pusilla_Field Sparrow,0.56327623,82.0,85.0
+Spizella pusilla_Field Sparrow,0.92155933,83.0,86.0
+Spizella pusilla_Field Sparrow,0.96631974,84.0,87.0
+Spizella pusilla_Field Sparrow,0.96955776,85.0,88.0
+Peucaea cassinii_Cassin's Sparrow,0.10536396,85.0,88.0
+Spizella pusilla_Field Sparrow,0.1645382,87.0,90.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20217127,88.0,91.0
+Spizella pusilla_Field Sparrow,0.7774713,91.0,94.0
+Spizella pusilla_Field Sparrow,0.99469286,92.0,95.0
+Spizella pusilla_Field Sparrow,0.9968792,93.0,96.0
+Spizella pusilla_Field Sparrow,0.98866093,94.0,97.0
+Ammodramus savannarum_Grasshopper Sparrow,0.95961666,96.0,99.0
+Ammodramus savannarum_Grasshopper Sparrow,0.9558225,97.0,100.0
+Ammodramus savannarum_Grasshopper Sparrow,0.8589056,98.0,101.0
+Sialia sialis_Eastern Bluebird,0.7078785,98.0,101.0
+Ammodramus savannarum_Grasshopper Sparrow,0.67193663,99.0,102.0
+Centronyx bairdii_Baird's Sparrow,0.10966666,99.0,102.0
+Spizella pusilla_Field Sparrow,0.12253192,100.0,103.0
+Passerculus sandwichensis_Savannah Sparrow,0.1243368,101.0,104.0
+Spizella pusilla_Field Sparrow,0.2645815,104.0,107.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25979248,104.0,107.0
+Spizella pusilla_Field Sparrow,0.96216637,105.0,108.0
+Ammodramus savannarum_Grasshopper Sparrow,0.18828551,105.0,108.0
+Spizella pusilla_Field Sparrow,0.99388367,106.0,109.0
+Spizella pusilla_Field Sparrow,0.9835988,107.0,110.0
+Polioptila dumicola_Masked Gnatcatcher,0.16499315,108.0,111.0
+Bartramia longicauda_Upland Sandpiper,0.10261917,109.0,112.0
+Lithobates catesbeianus_American Bullfrog,0.111804016,110.0,113.0
+Gryllus fultoni_Southern Wood Cricket,0.10842988,111.0,114.0
+Gryllus fultoni_Southern Wood Cricket,0.12651238,117.0,120.0
+Spizella pusilla_Field Sparrow,0.21774755,118.0,121.0
+Spizella pusilla_Field Sparrow,0.28464556,119.0,122.0
+Gryllus fultoni_Southern Wood Cricket,0.10030503,119.0,122.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11395853,120.0,123.0
+Gryllus fultoni_Southern Wood Cricket,0.23318821,121.0,124.0
+Gryllus rubens_Southeastern Field Cricket,0.10837965,121.0,124.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10251848,121.0,124.0
+Gryllus fultoni_Southern Wood Cricket,0.15107945,122.0,125.0
+Spizella pusilla_Field Sparrow,0.30147156,123.0,126.0
+Spizella pusilla_Field Sparrow,0.11894693,124.0,127.0
+Gryllus fultoni_Southern Wood Cricket,0.20897743,126.0,129.0
+Gryllus fultoni_Southern Wood Cricket,0.17221002,127.0,130.0
+Gryllus fultoni_Southern Wood Cricket,0.28113848,128.0,131.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14154308,128.0,131.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1502351,129.0,132.0
+Gryllus fultoni_Southern Wood Cricket,0.12518573,129.0,132.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.11512391,129.0,132.0
+Gryllus fultoni_Southern Wood Cricket,0.33196974,130.0,133.0
+Gryllus fultoni_Southern Wood Cricket,0.1171212,131.0,134.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1737493,132.0,135.0
+Gryllus fultoni_Southern Wood Cricket,0.11896355,132.0,135.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2819232,136.0,139.0
+Spizella pusilla_Field Sparrow,0.59512454,137.0,140.0
+Spizella pusilla_Field Sparrow,0.77605665,138.0,141.0
+Spizella pusilla_Field Sparrow,0.29369035,139.0,142.0
+Gryllus fultoni_Southern Wood Cricket,0.1343869,140.0,143.0
+Gryllus fultoni_Southern Wood Cricket,0.5555061,141.0,144.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.18378097,141.0,144.0
+Gryllus assimilis_Gryllus assimilis,0.12234932,141.0,144.0
+Gryllus fultoni_Southern Wood Cricket,0.4779409,142.0,145.0
+Gryllus fultoni_Southern Wood Cricket,0.5909308,143.0,146.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.10172532,143.0,146.0
+Gryllus fultoni_Southern Wood Cricket,0.30881262,144.0,147.0
+Gryllus fultoni_Southern Wood Cricket,0.22839041,145.0,148.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.12429951,145.0,148.0

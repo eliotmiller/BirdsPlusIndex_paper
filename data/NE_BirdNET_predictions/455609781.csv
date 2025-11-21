@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Engine_Engine,0.1010206,13.0,16.0
+Phylloscopus humei_Hume's Warbler,0.25012127,14.0,17.0
+Vireo gilvus_Warbling Vireo,0.5238206,17.0,20.0
+Vireo gilvus_Warbling Vireo,0.54803383,18.0,21.0
+Phylloscopus humei_Hume's Warbler,0.41413847,20.0,23.0
+Tachycineta bicolor_Tree Swallow,0.14586516,20.0,23.0
+Tachycineta bicolor_Tree Swallow,0.31242844,21.0,24.0
+Phylloscopus humei_Hume's Warbler,0.2294465,21.0,24.0
+Tachycineta bicolor_Tree Swallow,0.33195233,22.0,25.0
+Phylloscopus humei_Hume's Warbler,0.13579778,22.0,25.0
+Phylloscopus humei_Hume's Warbler,0.779605,23.0,26.0
+Haemorhous mexicanus_House Finch,0.11563698,24.0,27.0
+Icterus spurius_Orchard Oriole,0.95887274,25.0,28.0
+Icterus spurius_Orchard Oriole,0.8355657,26.0,29.0
+Haemorhous mexicanus_House Finch,0.16821519,26.0,29.0
+Icterus spurius_Orchard Oriole,0.9230133,27.0,30.0
+Chondestes grammacus_Lark Sparrow,0.104411334,27.0,30.0
+Engine_Engine,0.24363074,29.0,32.0
+Engine_Engine,0.108988665,30.0,33.0
+Engine_Engine,0.15078938,31.0,34.0
+Tachycineta bicolor_Tree Swallow,0.17725143,32.0,35.0
+Engine_Engine,0.12444564,32.0,35.0
+Engine_Engine,0.86333513,33.0,36.0
+Engine_Engine,0.9821358,34.0,37.0
+Engine_Engine,0.87555695,35.0,38.0
+Engine_Engine,0.47387883,36.0,39.0
+Human vocal_Human vocal,0.11953725,36.0,39.0
+Motacilla alba_White Wagtail,0.13754377,38.0,41.0
+Tachycineta bicolor_Tree Swallow,0.29830936,39.0,42.0
+Engine_Engine,0.12033043,39.0,42.0
+Engine_Engine,0.76389736,40.0,43.0
+Tachycineta bicolor_Tree Swallow,0.47122818,40.0,43.0
+Engine_Engine,0.572423,41.0,44.0
+Engine_Engine,0.7520535,42.0,45.0
+Engine_Engine,0.31590757,43.0,46.0
+Engine_Engine,0.20941815,44.0,47.0
+Engine_Engine,0.77321255,45.0,48.0
+Engine_Engine,0.7699754,46.0,49.0
+Engine_Engine,0.6007135,48.0,51.0
+Engine_Engine,0.15010637,49.0,52.0
+Engine_Engine,0.19617474,50.0,53.0
+Tachycineta bicolor_Tree Swallow,0.49798092,51.0,54.0
+Engine_Engine,0.27446792,51.0,54.0
+Engine_Engine,0.7817508,52.0,55.0
+Tachycineta bicolor_Tree Swallow,0.15097404,52.0,55.0
+Engine_Engine,0.86963737,53.0,56.0
+Tachycineta bicolor_Tree Swallow,0.47300556,53.0,56.0
+Engine_Engine,0.9892764,54.0,57.0
+Engine_Engine,0.99192566,55.0,58.0
+Engine_Engine,0.9790436,56.0,59.0
+Engine_Engine,0.8077799,57.0,60.0
+Engine_Engine,0.21785234,58.0,61.0
+Engine_Engine,0.17561215,61.0,64.0
+Spinus tristis_American Goldfinch,0.13637358,61.0,64.0
+Engine_Engine,0.40830523,62.0,65.0
+Engine_Engine,0.40372288,63.0,66.0
+Icterus spurius_Orchard Oriole,0.33834866,65.0,68.0
+Haemorhous mexicanus_House Finch,0.12939882,65.0,68.0
+Passerina caerulea_Blue Grosbeak,0.11744574,65.0,68.0
+Icterus spurius_Orchard Oriole,0.93180543,66.0,69.0
+Haemorhous mexicanus_House Finch,0.103524424,66.0,69.0
+Icterus spurius_Orchard Oriole,0.92964387,67.0,70.0
+Chaetura pelagica_Chimney Swift,0.1320479,68.0,71.0
+Icterus spurius_Orchard Oriole,0.122245796,68.0,71.0
+Chaetura pelagica_Chimney Swift,0.22069815,69.0,72.0
+Megascops asio_Eastern Screech-Owl,0.3546667,76.0,79.0
+Megascops asio_Eastern Screech-Owl,0.82245743,77.0,80.0
+Megascops asio_Eastern Screech-Owl,0.8597396,78.0,81.0
+Megascops asio_Eastern Screech-Owl,0.26958194,79.0,82.0
+Siren_Siren,0.13055506,79.0,82.0
+Megascops asio_Eastern Screech-Owl,0.6636801,81.0,84.0
+Megascops asio_Eastern Screech-Owl,0.42700443,82.0,85.0
+Megascops asio_Eastern Screech-Owl,0.40944678,83.0,86.0
+Phylloscopus humei_Hume's Warbler,0.14031906,85.0,88.0
+Phylloscopus humei_Hume's Warbler,0.85438365,86.0,89.0
+Phylloscopus humei_Hume's Warbler,0.5312256,87.0,90.0
+Human whistle_Human whistle,0.56783146,92.0,95.0
+Human vocal_Human vocal,0.16101272,92.0,95.0
+Human whistle_Human whistle,0.45083717,93.0,96.0
+Human vocal_Human vocal,0.18534167,93.0,96.0
+Human whistle_Human whistle,0.5224133,94.0,97.0
+Siren_Siren,0.3307111,94.0,97.0
+Bubo bubo_Eurasian Eagle-Owl,0.13540326,95.0,98.0
+Zoothera aurea_White's Thrush,0.10153747,96.0,99.0
+Tachycineta bicolor_Tree Swallow,0.21542118,98.0,101.0
+Tachycineta bicolor_Tree Swallow,0.15028398,99.0,102.0
+Ixobrychus exilis_Least Bittern,0.17223802,101.0,104.0
+Loxia leucoptera_White-winged Crossbill,0.3598791,104.0,107.0
+Loxia curvirostra_Red Crossbill,0.2192104,104.0,107.0

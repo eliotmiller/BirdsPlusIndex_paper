@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Catharus guttatus_Hermit Thrush,0.91159326,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.2651629,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.9588529,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.94879717,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.8973279,3.0,6.0
+Catharus guttatus_Hermit Thrush,0.28575253,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.32670465,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.12217902,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.17702678,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.10415067,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.2852174,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.3121074,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.16594273,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.12538508,12.0,15.0
+Catharus guttatus_Hermit Thrush,0.87361306,17.0,20.0
+Catharus guttatus_Hermit Thrush,0.8821891,18.0,21.0
+Catharus guttatus_Hermit Thrush,0.8516187,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.17662863,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.38180774,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.47227964,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.5403297,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.113966934,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.37697905,26.0,29.0
+Setophaga magnolia_Magnolia Warbler,0.5572881,27.0,30.0
+Setophaga ruticilla_American Redstart,0.14234723,27.0,30.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12787063,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.55526793,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.3917813,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.56742245,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.67946196,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.47609,32.0,35.0
+Catharus guttatus_Hermit Thrush,0.29787743,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.12813552,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.27950552,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.8137248,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.6001871,37.0,40.0
+Setophaga magnolia_Magnolia Warbler,0.6273914,38.0,41.0
+Setophaga magnolia_Magnolia Warbler,0.7257447,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.11564389,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.34091887,40.0,43.0
+Ixoreus naevius_Varied Thrush,0.15422535,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.8070307,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.73761183,42.0,45.0
+Catharus guttatus_Hermit Thrush,0.57039595,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.1725606,45.0,48.0
+Empidonax virescens_Acadian Flycatcher,0.10627821,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.62994564,48.0,51.0
+Catharus guttatus_Hermit Thrush,0.48665577,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.3581951,50.0,53.0
+Canachites canadensis_Spruce Grouse,0.12288172,50.0,53.0
+Cardellina canadensis_Canada Warbler,0.111170314,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.1221767,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.14102723,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.17444548,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1117744,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.20949225,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.59156555,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.5288417,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.25710508,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2145471,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.21877398,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15962955,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.6852112,60.0,63.0
+Setophaga magnolia_Magnolia Warbler,0.65995586,61.0,64.0
+Setophaga magnolia_Magnolia Warbler,0.53051156,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.122636326,62.0,65.0
+Setophaga magnolia_Magnolia Warbler,0.20180318,63.0,66.0
+Canachites canadensis_Spruce Grouse,0.15929212,63.0,66.0
+Setophaga magnolia_Magnolia Warbler,0.18167798,64.0,66.33600907029478
+Limnothlypis swainsonii_Swainson's Warbler,0.1804429,64.0,66.33600907029478
+Setophaga caerulescens_Black-throated Blue Warbler,0.13754348,64.0,66.33600907029478

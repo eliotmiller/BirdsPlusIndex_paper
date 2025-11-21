@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.26378044,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.2291413,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.9722884,1.0,4.0
+Empidonax virescens_Acadian Flycatcher,0.97804505,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.88115966,3.0,6.0
+Parkesia motacilla_Louisiana Waterthrush,0.15030628,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.13743493,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.2107451,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.23561993,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109790914,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.35899854,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112808935,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10280825,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1712634,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.16161041,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13692673,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.10069094,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17913002,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103120126,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11786339,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16583237,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15817776,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.1493998,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.22018899,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.9522012,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.95879066,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.9660989,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.31201226,24.0,27.0
+Parkesia motacilla_Louisiana Waterthrush,0.14458753,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.12095109,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10566758,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.10280769,24.0,27.0
+Hylocichla mustelina_Wood Thrush,0.31017092,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17308778,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11190842,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1888445,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.1143607,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.18974502,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14881454,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.10029416,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13337727,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11064127,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13645427,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1202696,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1358453,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12853651,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18178597,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14712343,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13379575,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13979547,37.0,40.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11664028,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111482576,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100199945,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.30104324,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16475376,41.0,44.0
+Hylocichla mustelina_Wood Thrush,0.12089001,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13991001,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10150516,42.0,45.0
+Hylocichla mustelina_Wood Thrush,0.100547895,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13448983,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11948609,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1205524,45.0,48.0
+Empidonax virescens_Acadian Flycatcher,0.89680123,46.0,49.0
+Empidonax virescens_Acadian Flycatcher,0.96089053,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.92044,48.0,50.64

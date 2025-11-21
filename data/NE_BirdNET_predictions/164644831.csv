@@ -1,0 +1,39 @@
+species,score,start_time,end_time
+Human non-vocal_Human non-vocal,0.35162196,0.0,3.0
+Human non-vocal_Human non-vocal,0.36487818,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.4981486,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.54243344,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.105889,3.0,6.0
+Pachysylvia aurantiifrons_Golden-fronted Greenlet,0.14053057,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.88822657,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.96245605,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.8115069,7.0,10.0
+Nyctibius griseus_Common Potoo,0.12111187,10.0,13.0
+Vireo flavifrons_Yellow-throated Vireo,0.9611749,13.0,16.0
+Vireo flavifrons_Yellow-throated Vireo,0.95308334,14.0,17.0
+Vireo flavifrons_Yellow-throated Vireo,0.6807126,15.0,18.0
+Vireo cassinii_Cassin's Vireo,0.19841206,15.0,18.0
+Power tools_Power tools,0.11458868,16.0,19.0
+Engine_Engine,0.1040131,16.0,19.0
+Engine_Engine,0.10953899,17.0,20.0
+Engine_Engine,0.1214719,18.0,21.0
+Engine_Engine,0.15970401,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.9095314,24.0,27.0
+Vireo flavifrons_Yellow-throated Vireo,0.9946449,25.0,28.0
+Vireo flavifrons_Yellow-throated Vireo,0.99036217,26.0,29.0
+Human vocal_Human vocal,0.23427483,27.0,30.0
+Setophaga ruticilla_American Redstart,0.10712978,27.0,30.0
+Human vocal_Human vocal,0.4939203,28.0,31.0
+Human vocal_Human vocal,0.47868064,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.8323027,30.0,33.0
+Human vocal_Human vocal,0.1851893,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.98327833,31.0,34.0
+Vireo flavifrons_Yellow-throated Vireo,0.98790073,32.0,35.0
+Human vocal_Human vocal,0.1355797,33.0,36.0
+Vireo flavifrons_Yellow-throated Vireo,0.7765698,34.0,37.0
+Vireo flavifrons_Yellow-throated Vireo,0.8369416,35.0,38.0
+Vireo flavifrons_Yellow-throated Vireo,0.9608738,36.0,39.0
+Vireo plumbeus_Plumbeous Vireo,0.7081948,37.0,40.0
+Vireo flavifrons_Yellow-throated Vireo,0.5446049,37.0,40.0
+Vireo flavifrons_Yellow-throated Vireo,0.87805045,38.0,41.0
+Vireo plumbeus_Plumbeous Vireo,0.18021807,38.0,41.0

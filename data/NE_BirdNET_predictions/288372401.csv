@@ -1,0 +1,66 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.6853557,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100405306,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.35558963,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17145656,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.67398256,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5273865,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.56197745,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28103167,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.668591,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.45328853,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.452039,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37173903,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.22899038,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22537972,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.34591964,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.41015974,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16980588,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.8090835,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32998434,9.0,12.0
+Urosphena squameiceps_Asian Stubtail,0.14634427,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.49071407,10.0,13.0
+Urosphena squameiceps_Asian Stubtail,0.4042694,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11277374,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.16760738,11.0,14.0
+Urosphena squameiceps_Asian Stubtail,0.11322311,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.6040406,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19618179,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.61831343,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17646745,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.15432665,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1419898,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16834854,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.102831714,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.2448795,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1238201,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.2589475,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20106985,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.15534979,19.0,22.0
+Setophaga magnolia_Magnolia Warbler,0.11180904,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35648257,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.1371767,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.11403088,20.0,23.0
+Cardellina canadensis_Canada Warbler,0.10088648,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21191102,21.0,24.0
+Pnoepyga pusilla_Pygmy Cupwing,0.1622838,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.10962912,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19537218,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.15722877,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.10302676,22.0,25.0
+Certhia americana_Brown Creeper,0.16980456,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21263662,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.11421095,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16551605,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.16426533,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44157028,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.29040074,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10472948,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28726822,29.0,32.0
+Certhia americana_Brown Creeper,0.25602308,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24433824,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.17066388,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.416694,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33975366,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.2986761,33.0,35.42403628117914
+Pnoepyga pusilla_Pygmy Cupwing,0.12355815,33.0,35.42403628117914

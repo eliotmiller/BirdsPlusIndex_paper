@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Charadrius vociferus_Killdeer,0.6095484,0.0,3.0
+Calidris minutilla_Least Sandpiper,0.43519604,0.0,3.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.20872858,0.0,3.0
+Tringa melanoleuca_Greater Yellowlegs,0.5427955,1.0,4.0
+Tringa flavipes_Lesser Yellowlegs,0.17343375,1.0,4.0
+Charadrius vociferus_Killdeer,0.16713566,1.0,4.0
+Calidris minutilla_Least Sandpiper,0.16711858,1.0,4.0
+Tringa melanoleuca_Greater Yellowlegs,0.41849804,2.0,5.0
+Tringa melanoleuca_Greater Yellowlegs,0.5978947,3.0,6.0
+Tringa flavipes_Lesser Yellowlegs,0.11740759,3.0,6.0
+Charadrius vociferus_Killdeer,0.40354913,4.0,7.0
+Charadrius vociferus_Killdeer,0.29439822,5.0,8.0
+Charadrius vociferus_Killdeer,0.43489888,6.0,9.0
+Tringa flavipes_Lesser Yellowlegs,0.20137377,12.0,15.0
+Tringa melanoleuca_Greater Yellowlegs,0.13017157,12.0,15.0
+Tringa melanoleuca_Greater Yellowlegs,0.6549097,13.0,16.0
+Tringa flavipes_Lesser Yellowlegs,0.21685666,13.0,16.0
+Tringa melanoleuca_Greater Yellowlegs,0.90813506,14.0,17.0
+Tringa flavipes_Lesser Yellowlegs,0.15561594,14.0,17.0
+Numenius phaeopus_Whimbrel,0.10393946,14.0,17.0
+Tringa melanoleuca_Greater Yellowlegs,0.22205119,15.0,18.0
+Tringa melanoleuca_Greater Yellowlegs,0.26955342,16.0,19.0
+Tringa flavipes_Lesser Yellowlegs,0.18178737,16.0,19.0
+Numenius phaeopus_Whimbrel,0.1810115,16.0,19.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.14867866,16.0,19.0
+Charadrius vociferus_Killdeer,0.116920345,16.0,19.0
+Tringa melanoleuca_Greater Yellowlegs,0.3437539,17.0,20.0
+Tringa flavipes_Lesser Yellowlegs,0.19561881,17.0,20.0
+Charadrius vociferus_Killdeer,0.16988437,17.0,20.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.12729701,17.0,20.0
+Tringa melanoleuca_Greater Yellowlegs,0.26743498,18.0,21.0
+Tringa flavipes_Lesser Yellowlegs,0.10283569,18.0,21.0
+Tringa melanoleuca_Greater Yellowlegs,0.23825018,19.0,22.0
+Tringa flavipes_Lesser Yellowlegs,0.11173562,19.0,22.0
+Tringa melanoleuca_Greater Yellowlegs,0.39998895,20.0,23.0
+Tringa flavipes_Lesser Yellowlegs,0.11268715,20.0,23.0
+Tringa melanoleuca_Greater Yellowlegs,0.2960707,21.0,24.0
+Piranga rubra_Summer Tanager,0.19292982,23.0,26.0
+Tringa melanoleuca_Greater Yellowlegs,0.11146899,23.0,26.0
+Piranga rubra_Summer Tanager,0.30135477,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.11365311,24.0,27.0
+Sialia sialis_Eastern Bluebird,0.101231314,24.0,27.0
+Tringa melanoleuca_Greater Yellowlegs,0.35640767,25.0,28.0
+Piranga rubra_Summer Tanager,0.2770195,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.1129681,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.24816594,26.0,29.0
+Tringa melanoleuca_Greater Yellowlegs,0.76690686,27.0,30.0
+Tringa flavipes_Lesser Yellowlegs,0.1585235,27.0,30.0
+Tringa melanoleuca_Greater Yellowlegs,0.43829075,28.0,31.0
+Tringa melanoleuca_Greater Yellowlegs,0.9230189,29.0,32.0
+Tringa melanoleuca_Greater Yellowlegs,0.6134886,30.0,33.0
+Tringa melanoleuca_Greater Yellowlegs,0.25443926,31.0,34.0
+Piranga rubra_Summer Tanager,0.27957886,32.0,35.0
+Tringa melanoleuca_Greater Yellowlegs,0.57839096,33.0,36.0
+Tringa flavipes_Lesser Yellowlegs,0.10519249,33.0,36.0
+Tringa melanoleuca_Greater Yellowlegs,0.86272293,34.0,37.0
+Tringa melanoleuca_Greater Yellowlegs,0.93526584,35.0,38.0
+Tringa melanoleuca_Greater Yellowlegs,0.7127611,36.0,39.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.3966668,36.0,39.0
+Ictinia mississippiensis_Mississippi Kite,0.14321615,36.0,39.0
+Tringa melanoleuca_Greater Yellowlegs,0.63211477,37.0,40.0
+Piranga rubra_Summer Tanager,0.20276126,38.0,41.0
+Passerina caerulea_Blue Grosbeak,0.121498935,38.0,41.0
+Piranga rubra_Summer Tanager,0.53910136,39.0,42.0
+Piranga rubra_Summer Tanager,0.3760668,40.0,43.0
+Myadestes townsendi_Townsend's Solitaire,0.12732707,40.0,43.0
+Ictinia mississippiensis_Mississippi Kite,0.20090438,41.0,44.0
+Ictinia mississippiensis_Mississippi Kite,0.60090405,42.0,45.0
+Ictinia mississippiensis_Mississippi Kite,0.13517876,43.0,46.0
+Ictinia mississippiensis_Mississippi Kite,0.16219887,44.0,47.0
+Piranga rubra_Summer Tanager,0.16596752,45.0,48.0
+Tringa melanoleuca_Greater Yellowlegs,0.14726198,46.0,49.0
+Tringa flavipes_Lesser Yellowlegs,0.13709345,46.0,49.0
+Ictinia mississippiensis_Mississippi Kite,0.21934006,47.0,50.0
+Ictinia mississippiensis_Mississippi Kite,0.17397077,48.0,51.0
+Tringa melanoleuca_Greater Yellowlegs,0.8171371,49.0,52.0
+Tringa melanoleuca_Greater Yellowlegs,0.81989866,50.0,53.0
+Tringa flavipes_Lesser Yellowlegs,0.11525227,50.0,53.0
+Tringa melanoleuca_Greater Yellowlegs,0.9501813,51.0,54.0
+Tringa melanoleuca_Greater Yellowlegs,0.8599614,52.0,54.21600907029478

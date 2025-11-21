@@ -1,0 +1,108 @@
+species,score,start_time,end_time
+Empidonax alnorum_Alder Flycatcher,0.8397469,0.0,3.0
+Catharus fuscescens_Veery,0.1611746,0.0,3.0
+Empidonax alnorum_Alder Flycatcher,0.6454401,1.0,4.0
+Catharus fuscescens_Veery,0.2082394,4.0,7.0
+Catharus fuscescens_Veery,0.6510936,5.0,8.0
+Melospiza melodia_Song Sparrow,0.4840472,7.0,10.0
+Melospiza melodia_Song Sparrow,0.9064163,8.0,11.0
+Melospiza melodia_Song Sparrow,0.7723799,9.0,12.0
+Melospiza melodia_Song Sparrow,0.42458323,10.0,13.0
+Spizella pusilla_Field Sparrow,0.20780143,11.0,14.0
+Peucaea aestivalis_Bachman's Sparrow,0.18456392,11.0,14.0
+Catharus fuscescens_Veery,0.49879804,12.0,15.0
+Empidonax alnorum_Alder Flycatcher,0.15251221,12.0,15.0
+Lithobates clamitans_Green Frog,0.3805919,13.0,16.0
+Empidonax alnorum_Alder Flycatcher,0.19068,13.0,16.0
+Turdus boulboul_Gray-winged Blackbird,0.17522912,14.0,17.0
+Ixobrychus exilis_Least Bittern,0.11511149,18.0,21.0
+Turdus migratorius_American Robin,0.16585526,20.0,23.0
+Melospiza melodia_Song Sparrow,0.45905975,23.0,26.0
+Melospiza melodia_Song Sparrow,0.8593005,24.0,27.0
+Melospiza melodia_Song Sparrow,0.64904433,25.0,28.0
+Melospiza melodia_Song Sparrow,0.1488882,26.0,29.0
+Empidonax alnorum_Alder Flycatcher,0.18344069,27.0,30.0
+Empidonax alnorum_Alder Flycatcher,0.43857127,28.0,31.0
+Turdus rufitorques_Rufous-collared Robin,0.10392174,32.0,35.0
+Lophodytes cucullatus_Hooded Merganser,0.1317501,34.0,37.0
+Lophodytes cucullatus_Hooded Merganser,0.37102753,35.0,38.0
+Mergus merganser_Common Merganser,0.19206588,35.0,38.0
+Catharus fuscescens_Veery,0.1689519,35.0,38.0
+Lophodytes cucullatus_Hooded Merganser,0.12237379,36.0,39.0
+Melospiza melodia_Song Sparrow,0.35965785,37.0,40.0
+Melospiza melodia_Song Sparrow,0.83475,38.0,41.0
+Melospiza melodia_Song Sparrow,0.59960395,39.0,42.0
+Melospiza melodia_Song Sparrow,0.46503174,40.0,43.0
+Melospiza melodia_Song Sparrow,0.31052214,41.0,44.0
+Empidonax alnorum_Alder Flycatcher,0.7356923,42.0,45.0
+Catharus fuscescens_Veery,0.18583687,42.0,45.0
+Empidonax alnorum_Alder Flycatcher,0.5095021,43.0,46.0
+Empidonax alnorum_Alder Flycatcher,0.512036,44.0,47.0
+Catharus fuscescens_Veery,0.18741003,45.0,48.0
+Catharus fuscescens_Veery,0.23947647,46.0,49.0
+Empidonax alnorum_Alder Flycatcher,0.13335405,46.0,49.0
+Empidonax alnorum_Alder Flycatcher,0.43879852,47.0,50.0
+Catharus fuscescens_Veery,0.16457015,47.0,50.0
+Empidonax alnorum_Alder Flycatcher,0.3513397,48.0,51.0
+Melospiza melodia_Song Sparrow,0.7987963,49.0,52.0
+Melospiza melodia_Song Sparrow,0.7111316,50.0,53.0
+Melospiza melodia_Song Sparrow,0.5020096,51.0,54.0
+Melospiza melodia_Song Sparrow,0.27995974,52.0,55.0
+Empidonax alnorum_Alder Flycatcher,0.4958329,54.0,57.0
+Empidonax alnorum_Alder Flycatcher,0.43129426,55.0,58.0
+Lithobates clamitans_Green Frog,0.110939726,55.0,58.0
+Lithobates clamitans_Green Frog,0.51002944,56.0,59.0
+Empidonax alnorum_Alder Flycatcher,0.13090985,58.0,61.0
+Empidonax alnorum_Alder Flycatcher,0.609506,59.0,62.0
+Empidonax alnorum_Alder Flycatcher,0.8195652,60.0,63.0
+Empidonax alnorum_Alder Flycatcher,0.8019981,61.0,64.0
+Empidonax alnorum_Alder Flycatcher,0.77161574,62.0,65.0
+Empidonax alnorum_Alder Flycatcher,0.14836378,63.0,66.0
+Melospiza melodia_Song Sparrow,0.87246346,64.0,67.0
+Melospiza melodia_Song Sparrow,0.580657,65.0,68.0
+Melospiza melodia_Song Sparrow,0.62251717,66.0,69.0
+Melospiza melodia_Song Sparrow,0.4970126,67.0,70.0
+Empidonax alnorum_Alder Flycatcher,0.7437285,69.0,72.0
+Empidonax alnorum_Alder Flycatcher,0.3969795,70.0,73.0
+Empidonax alnorum_Alder Flycatcher,0.12170519,71.0,74.0
+Catharus fuscescens_Veery,0.10008551,73.0,76.0
+Icterus spurius_Orchard Oriole,0.32119784,74.0,77.0
+Pipilo erythrophthalmus_Eastern Towhee,0.29410398,74.0,77.0
+Pipilo chlorurus_Green-tailed Towhee,0.1756959,74.0,77.0
+Melospiza melodia_Song Sparrow,0.86970717,75.0,78.0
+Melospiza melodia_Song Sparrow,0.67990273,76.0,79.0
+Melospiza melodia_Song Sparrow,0.5411791,77.0,80.0
+Peucaea aestivalis_Bachman's Sparrow,0.17294692,78.0,81.0
+Melospiza melodia_Song Sparrow,0.16418925,78.0,81.0
+Spizella pusilla_Field Sparrow,0.10877815,78.0,81.0
+Empidonax alnorum_Alder Flycatcher,0.90316963,79.0,82.0
+Empidonax alnorum_Alder Flycatcher,0.8047459,80.0,83.0
+Empidonax alnorum_Alder Flycatcher,0.26253313,82.0,85.0
+Empidonax alnorum_Alder Flycatcher,0.1408015,83.0,86.0
+Melospiza melodia_Song Sparrow,0.20004193,84.0,87.0
+Melospiza melodia_Song Sparrow,0.77619654,85.0,88.0
+Melospiza melodia_Song Sparrow,0.5650887,86.0,89.0
+Melospiza melodia_Song Sparrow,0.36709395,87.0,90.0
+Spizella pusilla_Field Sparrow,0.25935206,88.0,91.0
+Melospiza melodia_Song Sparrow,0.20559555,88.0,91.0
+Empidonax alnorum_Alder Flycatcher,0.17061837,88.0,91.0
+Empidonax alnorum_Alder Flycatcher,0.80703515,89.0,92.0
+Catharus fuscescens_Veery,0.48722753,91.0,94.0
+Catharus fuscescens_Veery,0.5115998,92.0,95.0
+Empidonax alnorum_Alder Flycatcher,0.8481514,93.0,96.0
+Empidonax alnorum_Alder Flycatcher,0.9805997,94.0,97.0
+Empidonax alnorum_Alder Flycatcher,0.94220334,95.0,98.0
+Empidonax alnorum_Alder Flycatcher,0.80645496,98.0,101.0
+Empidonax alnorum_Alder Flycatcher,0.40082774,99.0,102.0
+Melospiza melodia_Song Sparrow,0.10109114,99.0,102.0
+Melospiza melodia_Song Sparrow,0.5928156,100.0,103.0
+Empidonax alnorum_Alder Flycatcher,0.10416755,100.0,103.0
+Melospiza melodia_Song Sparrow,0.699623,101.0,104.0
+Melospiza melodia_Song Sparrow,0.2435405,102.0,105.0
+Empidonax alnorum_Alder Flycatcher,0.4880099,103.0,106.0
+Empidonax alnorum_Alder Flycatcher,0.717292,104.0,107.0
+Vireo flavoviridis_Yellow-green Vireo,0.12494154,105.0,108.0
+Hydrobates leucorhous_Leach's Storm-Petrel,0.1975606,107.0,110.0
+Hydrobates leucorhous_Leach's Storm-Petrel,0.58081686,108.0,111.0
+Vireo flavoviridis_Yellow-green Vireo,0.10709116,109.0,112.0
+Pyrrhocorax pyrrhocorax_Red-billed Chough,0.23452258,112.0,114.09600907029478

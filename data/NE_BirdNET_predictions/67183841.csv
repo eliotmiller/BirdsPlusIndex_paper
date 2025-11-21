@@ -1,0 +1,613 @@
+species,score,start_time,end_time
+Human non-vocal_Human non-vocal,0.6420994,0.0,3.0
+Cathartes aura_Turkey Vulture,0.20687917,0.0,3.0
+Power tools_Power tools,0.1944156,0.0,3.0
+Engine_Engine,0.1123212,0.0,3.0
+Power tools_Power tools,0.51501536,1.0,4.0
+Engine_Engine,0.25214955,1.0,4.0
+Human non-vocal_Human non-vocal,0.111361735,1.0,4.0
+Power tools_Power tools,0.48924297,2.0,5.0
+Engine_Engine,0.16726895,2.0,5.0
+Power tools_Power tools,0.827995,3.0,6.0
+Engine_Engine,0.41205472,3.0,6.0
+Power tools_Power tools,0.7008965,4.0,7.0
+Cathartes aura_Turkey Vulture,0.1446192,4.0,7.0
+Engine_Engine,0.11988291,4.0,7.0
+Human non-vocal_Human non-vocal,0.5503211,5.0,8.0
+Power tools_Power tools,0.24499723,5.0,8.0
+Human non-vocal_Human non-vocal,0.6879738,6.0,9.0
+Power tools_Power tools,0.21173587,6.0,9.0
+Power tools_Power tools,0.49469438,7.0,10.0
+Engine_Engine,0.19854863,7.0,10.0
+Human non-vocal_Human non-vocal,0.11644171,7.0,10.0
+Power tools_Power tools,0.72253317,8.0,11.0
+Engine_Engine,0.39862642,8.0,11.0
+Power tools_Power tools,0.4543258,9.0,12.0
+Engine_Engine,0.44200146,9.0,12.0
+Engine_Engine,0.48250866,10.0,13.0
+Power tools_Power tools,0.37722963,10.0,13.0
+Power tools_Power tools,0.55706334,11.0,14.0
+Engine_Engine,0.27651736,11.0,14.0
+Power tools_Power tools,0.83598495,12.0,15.0
+Engine_Engine,0.4008319,12.0,15.0
+Power tools_Power tools,0.68494797,13.0,16.0
+Gun_Gun,0.1964554,13.0,16.0
+Engine_Engine,0.14891772,13.0,16.0
+Human non-vocal_Human non-vocal,0.44085237,14.0,17.0
+Power tools_Power tools,0.38681364,14.0,17.0
+Gun_Gun,0.16395438,14.0,17.0
+Power tools_Power tools,0.3539667,15.0,18.0
+Human non-vocal_Human non-vocal,0.28670052,15.0,18.0
+Power tools_Power tools,0.26697192,16.0,19.0
+Engine_Engine,0.2300546,18.0,21.0
+Power tools_Power tools,0.19476216,18.0,21.0
+Engine_Engine,0.18824627,19.0,22.0
+Power tools_Power tools,0.14289147,19.0,22.0
+Human non-vocal_Human non-vocal,0.6401143,21.0,24.0
+Cathartes aura_Turkey Vulture,0.23525149,21.0,24.0
+Engine_Engine,0.17783734,21.0,24.0
+Power tools_Power tools,0.14151259,21.0,24.0
+Power tools_Power tools,0.7286317,22.0,25.0
+Engine_Engine,0.43971905,22.0,25.0
+Power tools_Power tools,0.77824515,23.0,26.0
+Engine_Engine,0.5929553,23.0,26.0
+Power tools_Power tools,0.71192336,24.0,27.0
+Engine_Engine,0.38066265,24.0,27.0
+Power tools_Power tools,0.7592497,25.0,28.0
+Engine_Engine,0.5164877,25.0,28.0
+Power tools_Power tools,0.6103939,26.0,29.0
+Engine_Engine,0.20048232,26.0,29.0
+Power tools_Power tools,0.6358573,27.0,30.0
+Engine_Engine,0.2727212,27.0,30.0
+Power tools_Power tools,0.7202918,28.0,31.0
+Engine_Engine,0.4546903,28.0,31.0
+Power tools_Power tools,0.61782247,29.0,32.0
+Engine_Engine,0.29620305,29.0,32.0
+Power tools_Power tools,0.56384474,30.0,33.0
+Engine_Engine,0.33888218,30.0,33.0
+Power tools_Power tools,0.78575647,31.0,34.0
+Engine_Engine,0.2961524,31.0,34.0
+Power tools_Power tools,0.50552833,32.0,35.0
+Human non-vocal_Human non-vocal,0.19549952,32.0,35.0
+Human non-vocal_Human non-vocal,0.83518916,33.0,36.0
+Human non-vocal_Human non-vocal,0.430927,34.0,37.0
+Engine_Engine,0.21734247,34.0,37.0
+Power tools_Power tools,0.18260959,34.0,37.0
+Engine_Engine,0.19512434,35.0,38.0
+Human non-vocal_Human non-vocal,0.299992,36.0,39.0
+Engine_Engine,0.25925416,36.0,39.0
+Power tools_Power tools,0.24869283,36.0,39.0
+Cathartes aura_Turkey Vulture,0.20280527,36.0,39.0
+Power tools_Power tools,0.64084375,37.0,40.0
+Engine_Engine,0.22704734,37.0,40.0
+Cathartes aura_Turkey Vulture,0.102451175,37.0,40.0
+Power tools_Power tools,0.47103983,38.0,41.0
+Engine_Engine,0.31771785,38.0,41.0
+Power tools_Power tools,0.69975764,39.0,42.0
+Engine_Engine,0.17587115,39.0,42.0
+Power tools_Power tools,0.63109326,40.0,43.0
+Engine_Engine,0.15731189,40.0,43.0
+Power tools_Power tools,0.71586025,41.0,44.0
+Engine_Engine,0.3925738,41.0,44.0
+Power tools_Power tools,0.7502859,42.0,45.0
+Engine_Engine,0.4965601,42.0,45.0
+Power tools_Power tools,0.82428503,43.0,46.0
+Engine_Engine,0.4635707,43.0,46.0
+Power tools_Power tools,0.7841021,44.0,47.0
+Engine_Engine,0.3103727,44.0,47.0
+Power tools_Power tools,0.9043002,45.0,48.0
+Engine_Engine,0.3854298,45.0,48.0
+Power tools_Power tools,0.6300717,46.0,49.0
+Engine_Engine,0.421129,46.0,49.0
+Power tools_Power tools,0.35570663,47.0,50.0
+Engine_Engine,0.33836177,47.0,50.0
+Power tools_Power tools,0.3218474,48.0,51.0
+Engine_Engine,0.23406598,48.0,51.0
+Power tools_Power tools,0.26744252,49.0,52.0
+Engine_Engine,0.106977016,49.0,52.0
+Human non-vocal_Human non-vocal,0.6041632,50.0,53.0
+Power tools_Power tools,0.11349856,50.0,53.0
+Cathartes aura_Turkey Vulture,0.10471372,50.0,53.0
+Human non-vocal_Human non-vocal,0.75120795,51.0,54.0
+Power tools_Power tools,0.27784476,51.0,54.0
+Engine_Engine,0.20396923,51.0,54.0
+Human non-vocal_Human non-vocal,0.875481,52.0,55.0
+Power tools_Power tools,0.26434222,52.0,55.0
+Engine_Engine,0.14991386,52.0,55.0
+Power tools_Power tools,0.34198955,53.0,56.0
+Engine_Engine,0.23549603,53.0,56.0
+Power tools_Power tools,0.57856864,54.0,57.0
+Engine_Engine,0.3244936,54.0,57.0
+Engine_Engine,0.1188222,55.0,58.0
+Power tools_Power tools,0.34583145,56.0,59.0
+Engine_Engine,0.20544742,56.0,59.0
+Power tools_Power tools,0.49640822,57.0,60.0
+Engine_Engine,0.34534624,57.0,60.0
+Power tools_Power tools,0.6900341,58.0,61.0
+Engine_Engine,0.3199202,58.0,61.0
+Power tools_Power tools,0.35501778,59.0,62.0
+Engine_Engine,0.3274302,59.0,62.0
+Power tools_Power tools,0.35440686,60.0,63.0
+Engine_Engine,0.2623446,60.0,63.0
+Power tools_Power tools,0.35372397,61.0,64.0
+Engine_Engine,0.34118733,61.0,64.0
+Power tools_Power tools,0.69169366,62.0,65.0
+Engine_Engine,0.39511964,62.0,65.0
+Engine_Engine,0.2837435,63.0,66.0
+Power tools_Power tools,0.1825227,63.0,66.0
+Engine_Engine,0.3255078,64.0,67.0
+Power tools_Power tools,0.28558874,64.0,67.0
+Power tools_Power tools,0.30495036,65.0,68.0
+Engine_Engine,0.21841347,65.0,68.0
+Power tools_Power tools,0.7531314,66.0,69.0
+Engine_Engine,0.2732415,66.0,69.0
+Cathartes aura_Turkey Vulture,0.23152995,66.0,69.0
+Power tools_Power tools,0.2789445,67.0,70.0
+Gun_Gun,0.16459256,67.0,70.0
+Human non-vocal_Human non-vocal,0.12723799,67.0,70.0
+Engine_Engine,0.10032985,67.0,70.0
+Engine_Engine,0.1742041,68.0,71.0
+Human non-vocal_Human non-vocal,0.10152444,68.0,71.0
+Engine_Engine,0.19283433,69.0,72.0
+Power tools_Power tools,0.16372624,69.0,72.0
+Human non-vocal_Human non-vocal,0.14066888,69.0,72.0
+Gun_Gun,0.12012381,69.0,72.0
+Human non-vocal_Human non-vocal,0.26951483,70.0,73.0
+Engine_Engine,0.22034712,70.0,73.0
+Power tools_Power tools,0.2058244,70.0,73.0
+Engine_Engine,0.21392813,71.0,74.0
+Power tools_Power tools,0.37753773,73.0,76.0
+Engine_Engine,0.2567385,73.0,76.0
+Human non-vocal_Human non-vocal,0.11438171,73.0,76.0
+Power tools_Power tools,0.639867,74.0,77.0
+Engine_Engine,0.31053126,74.0,77.0
+Power tools_Power tools,0.6504483,75.0,78.0
+Engine_Engine,0.38477573,75.0,78.0
+Power tools_Power tools,0.34749255,76.0,79.0
+Engine_Engine,0.3287643,76.0,79.0
+Power tools_Power tools,0.5810593,77.0,80.0
+Engine_Engine,0.29405984,77.0,80.0
+Power tools_Power tools,0.72775644,78.0,81.0
+Engine_Engine,0.3272317,78.0,81.0
+Power tools_Power tools,0.7344064,79.0,82.0
+Engine_Engine,0.39029938,79.0,82.0
+Power tools_Power tools,0.5006467,80.0,83.0
+Engine_Engine,0.35784647,80.0,83.0
+Power tools_Power tools,0.21134855,81.0,84.0
+Engine_Engine,0.17327273,81.0,84.0
+Power tools_Power tools,0.7151258,82.0,85.0
+Engine_Engine,0.25411803,82.0,85.0
+Power tools_Power tools,0.87693983,83.0,86.0
+Engine_Engine,0.3325098,83.0,86.0
+Cathartes aura_Turkey Vulture,0.1322213,83.0,86.0
+Power tools_Power tools,0.86313075,84.0,87.0
+Engine_Engine,0.3186181,84.0,87.0
+Power tools_Power tools,0.31763402,85.0,88.0
+Engine_Engine,0.21847993,85.0,88.0
+Power tools_Power tools,0.36744037,86.0,89.0
+Engine_Engine,0.1122514,86.0,89.0
+Power tools_Power tools,0.6018322,87.0,90.0
+Engine_Engine,0.10798235,87.0,90.0
+Power tools_Power tools,0.41369346,88.0,91.0
+Gun_Gun,0.13951054,88.0,91.0
+Power tools_Power tools,0.36448026,89.0,92.0
+Gun_Gun,0.3278706,89.0,92.0
+Power tools_Power tools,0.2409981,90.0,93.0
+Human non-vocal_Human non-vocal,0.10769972,90.0,93.0
+Gun_Gun,0.2197487,91.0,94.0
+Power tools_Power tools,0.21615921,91.0,94.0
+Engine_Engine,0.1366208,91.0,94.0
+Engine_Engine,0.11904411,92.0,95.0
+Human non-vocal_Human non-vocal,0.114625946,92.0,95.0
+Human non-vocal_Human non-vocal,0.72000194,93.0,96.0
+Power tools_Power tools,0.3690872,93.0,96.0
+Engine_Engine,0.2464548,93.0,96.0
+Power tools_Power tools,0.565196,94.0,97.0
+Engine_Engine,0.27206597,94.0,97.0
+Power tools_Power tools,0.37697136,95.0,98.0
+Engine_Engine,0.25624087,95.0,98.0
+Power tools_Power tools,0.26308233,96.0,99.0
+Engine_Engine,0.121635966,96.0,99.0
+Power tools_Power tools,0.2324879,97.0,100.0
+Engine_Engine,0.1177936,97.0,100.0
+Power tools_Power tools,0.47195327,98.0,101.0
+Engine_Engine,0.11194074,98.0,101.0
+Power tools_Power tools,0.6303232,99.0,102.0
+Engine_Engine,0.16304176,99.0,102.0
+Power tools_Power tools,0.63804775,100.0,103.0
+Engine_Engine,0.26532525,100.0,103.0
+Power tools_Power tools,0.56806093,101.0,104.0
+Engine_Engine,0.36586195,101.0,104.0
+Power tools_Power tools,0.6875309,102.0,105.0
+Engine_Engine,0.2778873,102.0,105.0
+Power tools_Power tools,0.7648327,103.0,106.0
+Engine_Engine,0.22369407,103.0,106.0
+Power tools_Power tools,0.60156107,104.0,107.0
+Engine_Engine,0.2269867,104.0,107.0
+Power tools_Power tools,0.47223133,105.0,108.0
+Engine_Engine,0.30645335,105.0,108.0
+Power tools_Power tools,0.5433104,106.0,109.0
+Engine_Engine,0.41242886,106.0,109.0
+Power tools_Power tools,0.61645377,107.0,110.0
+Engine_Engine,0.47086892,107.0,110.0
+Power tools_Power tools,0.8087788,108.0,111.0
+Engine_Engine,0.33741853,108.0,111.0
+Power tools_Power tools,0.65448517,109.0,112.0
+Engine_Engine,0.32404497,109.0,112.0
+Power tools_Power tools,0.7353705,110.0,113.0
+Engine_Engine,0.43608728,110.0,113.0
+Power tools_Power tools,0.7854327,111.0,114.0
+Engine_Engine,0.61409634,111.0,114.0
+Power tools_Power tools,0.84325147,112.0,115.0
+Engine_Engine,0.3347872,112.0,115.0
+Power tools_Power tools,0.66087836,113.0,116.0
+Power tools_Power tools,0.49430278,114.0,117.0
+Human non-vocal_Human non-vocal,0.1119762,114.0,117.0
+Power tools_Power tools,0.4177319,115.0,118.0
+Human non-vocal_Human non-vocal,0.29949114,115.0,118.0
+Human non-vocal_Human non-vocal,0.67267585,116.0,119.0
+Power tools_Power tools,0.21018907,116.0,119.0
+Power tools_Power tools,0.18786263,118.0,121.0
+Human non-vocal_Human non-vocal,0.17125213,118.0,121.0
+Human non-vocal_Human non-vocal,0.9194821,119.0,122.0
+Power tools_Power tools,0.18782428,119.0,122.0
+Engine_Engine,0.122729406,119.0,122.0
+Power tools_Power tools,0.584017,120.0,123.0
+Cathartes aura_Turkey Vulture,0.33798993,120.0,123.0
+Engine_Engine,0.27661723,120.0,123.0
+Human non-vocal_Human non-vocal,0.1590383,120.0,123.0
+Power tools_Power tools,0.59820235,121.0,124.0
+Engine_Engine,0.29833767,121.0,124.0
+Power tools_Power tools,0.39240515,122.0,125.0
+Engine_Engine,0.16599296,122.0,125.0
+Power tools_Power tools,0.48930022,123.0,126.0
+Engine_Engine,0.1898876,123.0,126.0
+Cathartes aura_Turkey Vulture,0.18829764,123.0,126.0
+Power tools_Power tools,0.37781885,124.0,127.0
+Cathartes aura_Turkey Vulture,0.28435487,124.0,127.0
+Human non-vocal_Human non-vocal,0.21028161,124.0,127.0
+Coragyps atratus_Black Vulture,0.1033809,124.0,127.0
+Human non-vocal_Human non-vocal,0.34665227,125.0,128.0
+Power tools_Power tools,0.43232536,126.0,129.0
+Engine_Engine,0.21012667,126.0,129.0
+Power tools_Power tools,0.202012,128.0,131.0
+Power tools_Power tools,0.44383454,129.0,132.0
+Engine_Engine,0.15135726,129.0,132.0
+Power tools_Power tools,0.48377353,130.0,133.0
+Cathartes aura_Turkey Vulture,0.41791353,130.0,133.0
+Engine_Engine,0.16174643,130.0,133.0
+Human non-vocal_Human non-vocal,0.11448996,132.0,135.0
+Power tools_Power tools,0.23642239,133.0,136.0
+Engine_Engine,0.23237246,133.0,136.0
+Human non-vocal_Human non-vocal,0.17728767,133.0,136.0
+Human non-vocal_Human non-vocal,0.8166862,134.0,137.0
+Power tools_Power tools,0.21985392,134.0,137.0
+Engine_Engine,0.12832485,134.0,137.0
+Power tools_Power tools,0.6812532,135.0,138.0
+Engine_Engine,0.33592197,135.0,138.0
+Human non-vocal_Human non-vocal,0.1097416,135.0,138.0
+Power tools_Power tools,0.5616687,136.0,139.0
+Engine_Engine,0.30796137,136.0,139.0
+Engine_Engine,0.34334666,137.0,140.0
+Power tools_Power tools,0.29103196,137.0,140.0
+Power tools_Power tools,0.581903,138.0,141.0
+Engine_Engine,0.3249607,138.0,141.0
+Power tools_Power tools,0.77077013,139.0,142.0
+Engine_Engine,0.27499035,139.0,142.0
+Power tools_Power tools,0.5188588,140.0,143.0
+Human non-vocal_Human non-vocal,0.35736367,140.0,143.0
+Power tools_Power tools,0.29671845,141.0,144.0
+Human non-vocal_Human non-vocal,0.15736105,141.0,144.0
+Engine_Engine,0.100550056,141.0,144.0
+Power tools_Power tools,0.4870192,142.0,145.0
+Engine_Engine,0.14461727,142.0,145.0
+Power tools_Power tools,0.5079149,143.0,146.0
+Engine_Engine,0.4154457,143.0,146.0
+Power tools_Power tools,0.54163766,144.0,147.0
+Engine_Engine,0.34187493,144.0,147.0
+Cathartes aura_Turkey Vulture,0.103325754,144.0,147.0
+Power tools_Power tools,0.23018889,145.0,148.0
+Human non-vocal_Human non-vocal,0.2155855,145.0,148.0
+Cathartes aura_Turkey Vulture,0.14893864,145.0,148.0
+Engine_Engine,0.14404464,145.0,148.0
+Power tools_Power tools,0.7217221,146.0,149.0
+Engine_Engine,0.51332986,146.0,149.0
+Cathartes aura_Turkey Vulture,0.15326923,146.0,149.0
+Engine_Engine,0.34969696,147.0,150.0
+Power tools_Power tools,0.19881222,147.0,150.0
+Power tools_Power tools,0.39684218,148.0,151.0
+Engine_Engine,0.28971484,148.0,151.0
+Power tools_Power tools,0.34079552,149.0,152.0
+Engine_Engine,0.20188063,149.0,152.0
+Power tools_Power tools,0.5640497,150.0,153.0
+Engine_Engine,0.3009041,150.0,153.0
+Engine_Engine,0.26751378,151.0,154.0
+Power tools_Power tools,0.26326644,151.0,154.0
+Engine_Engine,0.36048338,152.0,155.0
+Power tools_Power tools,0.31480366,152.0,155.0
+Engine_Engine,0.28654712,153.0,156.0
+Power tools_Power tools,0.20402189,153.0,156.0
+Power tools_Power tools,0.3376275,154.0,157.0
+Engine_Engine,0.23844008,154.0,157.0
+Power tools_Power tools,0.692664,155.0,158.0
+Engine_Engine,0.33293828,155.0,158.0
+Power tools_Power tools,0.44320095,156.0,159.0
+Engine_Engine,0.31571513,156.0,159.0
+Engine_Engine,0.3201042,157.0,160.0
+Power tools_Power tools,0.29213598,157.0,160.0
+Power tools_Power tools,0.34388083,158.0,161.0
+Engine_Engine,0.33285928,158.0,161.0
+Power tools_Power tools,0.39387965,159.0,162.0
+Engine_Engine,0.2752875,159.0,162.0
+Power tools_Power tools,0.62906545,160.0,163.0
+Engine_Engine,0.15419565,160.0,163.0
+Power tools_Power tools,0.533846,161.0,164.0
+Human non-vocal_Human non-vocal,0.1870337,161.0,164.0
+Human non-vocal_Human non-vocal,0.6666737,162.0,165.0
+Power tools_Power tools,0.32137075,162.0,165.0
+Coragyps atratus_Black Vulture,0.13044958,162.0,165.0
+Alectura lathami_Australian Brushturkey,0.117211506,162.0,165.0
+Power tools_Power tools,0.51438636,163.0,166.0
+Engine_Engine,0.21533455,164.0,167.0
+Power tools_Power tools,0.12145009,164.0,167.0
+Power tools_Power tools,0.30513722,165.0,168.0
+Fireworks_Fireworks,0.21457459,165.0,168.0
+Engine_Engine,0.13615511,165.0,168.0
+Power tools_Power tools,0.3430006,166.0,169.0
+Human non-vocal_Human non-vocal,0.13301347,166.0,169.0
+Engine_Engine,0.114048555,166.0,169.0
+Power tools_Power tools,0.4095668,167.0,170.0
+Human non-vocal_Human non-vocal,0.20611556,167.0,170.0
+Engine_Engine,0.12428192,167.0,170.0
+Power tools_Power tools,0.19887765,168.0,171.0
+Fireworks_Fireworks,0.19310647,169.0,172.0
+Power tools_Power tools,0.18356997,169.0,172.0
+Gun_Gun,0.10394094,169.0,172.0
+Gun_Gun,0.27216494,170.0,173.0
+Gun_Gun,0.26806283,171.0,174.0
+Power tools_Power tools,0.11740807,171.0,174.0
+Gun_Gun,0.39436498,172.0,175.0
+Human non-vocal_Human non-vocal,0.24326286,173.0,176.0
+Gun_Gun,0.19175261,173.0,176.0
+Power tools_Power tools,0.119700536,173.0,176.0
+Human non-vocal_Human non-vocal,0.90024126,174.0,177.0
+Power tools_Power tools,0.65135944,175.0,178.0
+Engine_Engine,0.24720229,175.0,178.0
+Cathartes aura_Turkey Vulture,0.12510397,175.0,178.0
+Human non-vocal_Human non-vocal,0.11391766,175.0,178.0
+Power tools_Power tools,0.5886645,176.0,179.0
+Engine_Engine,0.24142402,176.0,179.0
+Power tools_Power tools,0.60947764,177.0,180.0
+Engine_Engine,0.2704279,177.0,180.0
+Power tools_Power tools,0.69696593,178.0,181.0
+Engine_Engine,0.22880235,178.0,181.0
+Power tools_Power tools,0.4954097,179.0,182.0
+Engine_Engine,0.2543337,179.0,182.0
+Power tools_Power tools,0.3323345,180.0,183.0
+Engine_Engine,0.21709743,180.0,183.0
+Power tools_Power tools,0.34641546,181.0,184.0
+Engine_Engine,0.26819608,181.0,184.0
+Power tools_Power tools,0.3237092,182.0,185.0
+Engine_Engine,0.13729356,182.0,185.0
+Power tools_Power tools,0.40594774,183.0,186.0
+Engine_Engine,0.11697177,183.0,186.0
+Power tools_Power tools,0.30965158,184.0,187.0
+Human non-vocal_Human non-vocal,0.17402494,184.0,187.0
+Power tools_Power tools,0.40545416,185.0,188.0
+Engine_Engine,0.3678607,185.0,188.0
+Engine_Engine,0.28898266,186.0,189.0
+Power tools_Power tools,0.24757864,186.0,189.0
+Power tools_Power tools,0.37174326,187.0,190.0
+Engine_Engine,0.18386625,187.0,190.0
+Power tools_Power tools,0.43265235,188.0,191.0
+Engine_Engine,0.22678697,188.0,191.0
+Human non-vocal_Human non-vocal,0.19271596,189.0,192.0
+Power tools_Power tools,0.17343682,189.0,192.0
+Gun_Gun,0.1071463,189.0,192.0
+Power tools_Power tools,0.32696167,191.0,194.0
+Engine_Engine,0.20643574,191.0,194.0
+Cathartes aura_Turkey Vulture,0.15135588,191.0,194.0
+Engine_Engine,0.17601496,192.0,195.0
+Human non-vocal_Human non-vocal,0.14348371,192.0,195.0
+Power tools_Power tools,0.11362787,192.0,195.0
+Power tools_Power tools,0.14281243,193.0,196.0
+Engine_Engine,0.13202405,193.0,196.0
+Human non-vocal_Human non-vocal,0.5642623,194.0,197.0
+Engine_Engine,0.46168268,195.0,198.0
+Power tools_Power tools,0.27133855,195.0,198.0
+Cathartes aura_Turkey Vulture,0.10796455,195.0,198.0
+Engine_Engine,0.4815079,196.0,199.0
+Power tools_Power tools,0.33951908,196.0,199.0
+Engine_Engine,0.38230398,197.0,200.0
+Power tools_Power tools,0.26761928,197.0,200.0
+Power tools_Power tools,0.23044477,198.0,201.0
+Engine_Engine,0.20549944,198.0,201.0
+Power tools_Power tools,0.4000575,199.0,202.0
+Engine_Engine,0.21413547,199.0,202.0
+Power tools_Power tools,0.49274743,200.0,203.0
+Human non-vocal_Human non-vocal,0.122207865,200.0,203.0
+Engine_Engine,0.10674753,200.0,203.0
+Human non-vocal_Human non-vocal,0.27472448,201.0,204.0
+Power tools_Power tools,0.23322234,201.0,204.0
+Engine_Engine,0.19022827,201.0,204.0
+Power tools_Power tools,0.4517079,202.0,205.0
+Engine_Engine,0.37687322,202.0,205.0
+Engine_Engine,0.29556042,203.0,206.0
+Power tools_Power tools,0.19789085,203.0,206.0
+Power tools_Power tools,0.23776942,204.0,207.0
+Engine_Engine,0.10892004,204.0,207.0
+Power tools_Power tools,0.42569986,205.0,208.0
+Engine_Engine,0.10160784,205.0,208.0
+Power tools_Power tools,0.36564165,206.0,209.0
+Gun_Gun,0.12083181,206.0,209.0
+Power tools_Power tools,0.11895452,207.0,210.0
+Engine_Engine,0.11561047,207.0,210.0
+Gun_Gun,0.1114663,207.0,210.0
+Power tools_Power tools,0.14644817,208.0,211.0
+Human non-vocal_Human non-vocal,0.1362883,208.0,211.0
+Engine_Engine,0.12526909,208.0,211.0
+Gun_Gun,0.11565458,208.0,211.0
+Power tools_Power tools,0.40787435,209.0,212.0
+Gun_Gun,0.24739146,209.0,212.0
+Engine_Engine,0.15805168,209.0,212.0
+Human non-vocal_Human non-vocal,0.13547763,209.0,212.0
+Human non-vocal_Human non-vocal,0.37447658,210.0,213.0
+Gun_Gun,0.15041001,210.0,213.0
+Power tools_Power tools,0.13860773,210.0,213.0
+Power tools_Power tools,0.107980885,211.0,214.0
+Human non-vocal_Human non-vocal,0.10284922,211.0,214.0
+Human non-vocal_Human non-vocal,0.6573289,212.0,215.0
+Human non-vocal_Human non-vocal,0.32532945,213.0,216.0
+Power tools_Power tools,0.26288226,213.0,216.0
+Power tools_Power tools,0.73479784,214.0,217.0
+Engine_Engine,0.3345075,214.0,217.0
+Cathartes aura_Turkey Vulture,0.11830316,214.0,217.0
+Power tools_Power tools,0.59975946,215.0,218.0
+Engine_Engine,0.3857819,215.0,218.0
+Power tools_Power tools,0.7724367,216.0,219.0
+Engine_Engine,0.19932699,216.0,219.0
+Power tools_Power tools,0.7689825,217.0,220.0
+Cathartes aura_Turkey Vulture,0.12882854,217.0,220.0
+Engine_Engine,0.10614439,217.0,220.0
+Human non-vocal_Human non-vocal,0.54090613,218.0,221.0
+Power tools_Power tools,0.5828389,219.0,222.0
+Engine_Engine,0.24559161,219.0,222.0
+Power tools_Power tools,0.36999786,220.0,223.0
+Engine_Engine,0.26320392,220.0,223.0
+Power tools_Power tools,0.6095173,221.0,224.0
+Engine_Engine,0.32191938,221.0,224.0
+Power tools_Power tools,0.717762,222.0,225.0
+Engine_Engine,0.13349128,222.0,225.0
+Power tools_Power tools,0.32350346,223.0,226.0
+Human non-vocal_Human non-vocal,0.25314453,223.0,226.0
+Cathartes aura_Turkey Vulture,0.12423389,223.0,226.0
+Power tools_Power tools,0.43934873,224.0,227.0
+Human non-vocal_Human non-vocal,0.2189805,224.0,227.0
+Engine_Engine,0.1770023,224.0,227.0
+Power tools_Power tools,0.6965791,225.0,228.0
+Engine_Engine,0.31086135,225.0,228.0
+Engine_Engine,0.4880505,226.0,229.0
+Power tools_Power tools,0.4845355,226.0,229.0
+Power tools_Power tools,0.55544806,227.0,230.0
+Engine_Engine,0.315388,227.0,230.0
+Power tools_Power tools,0.69723964,228.0,231.0
+Engine_Engine,0.25951967,228.0,231.0
+Power tools_Power tools,0.56898797,229.0,232.0
+Engine_Engine,0.14694226,229.0,232.0
+Cathartes aura_Turkey Vulture,0.14382978,229.0,232.0
+Human non-vocal_Human non-vocal,0.14170419,229.0,232.0
+Human non-vocal_Human non-vocal,0.5035668,230.0,233.0
+Power tools_Power tools,0.34711796,230.0,233.0
+Engine_Engine,0.21777779,230.0,233.0
+Power tools_Power tools,0.6434864,231.0,234.0
+Human non-vocal_Human non-vocal,0.39231458,231.0,234.0
+Engine_Engine,0.34518984,231.0,234.0
+Power tools_Power tools,0.5615312,232.0,235.0
+Engine_Engine,0.24695247,232.0,235.0
+Power tools_Power tools,0.5104814,233.0,236.0
+Engine_Engine,0.37652004,233.0,236.0
+Power tools_Power tools,0.4932936,234.0,237.0
+Engine_Engine,0.37613258,234.0,237.0
+Power tools_Power tools,0.70951676,235.0,238.0
+Engine_Engine,0.6145243,235.0,238.0
+Power tools_Power tools,0.66802895,236.0,239.0
+Engine_Engine,0.39173636,236.0,239.0
+Power tools_Power tools,0.83882093,237.0,240.0
+Engine_Engine,0.5297186,237.0,240.0
+Power tools_Power tools,0.85094905,238.0,241.0
+Engine_Engine,0.41214415,238.0,241.0
+Power tools_Power tools,0.7216069,239.0,242.0
+Engine_Engine,0.48000535,239.0,242.0
+Power tools_Power tools,0.5202211,240.0,243.0
+Engine_Engine,0.46163014,240.0,243.0
+Power tools_Power tools,0.53413594,241.0,244.0
+Engine_Engine,0.45814213,241.0,244.0
+Power tools_Power tools,0.5553398,242.0,245.0
+Engine_Engine,0.38455313,242.0,245.0
+Power tools_Power tools,0.7120272,243.0,246.0
+Engine_Engine,0.3142635,243.0,246.0
+Power tools_Power tools,0.6516291,244.0,247.0
+Engine_Engine,0.18628564,244.0,247.0
+Human non-vocal_Human non-vocal,0.7796887,245.0,248.0
+Human non-vocal_Human non-vocal,0.6053807,246.0,249.0
+Power tools_Power tools,0.4373558,246.0,249.0
+Engine_Engine,0.21639872,246.0,249.0
+Cathartes aura_Turkey Vulture,0.13233343,246.0,249.0
+Power tools_Power tools,0.57741857,247.0,250.0
+Engine_Engine,0.3004717,247.0,250.0
+Power tools_Power tools,0.6513303,248.0,251.0
+Engine_Engine,0.26918074,248.0,251.0
+Engine_Engine,0.38387856,249.0,252.0
+Power tools_Power tools,0.38174894,249.0,252.0
+Power tools_Power tools,0.47187904,250.0,253.0
+Engine_Engine,0.46116105,250.0,253.0
+Power tools_Power tools,0.52421904,251.0,254.0
+Engine_Engine,0.39916313,251.0,254.0
+Power tools_Power tools,0.6343839,252.0,255.0
+Engine_Engine,0.12518659,252.0,255.0
+Power tools_Power tools,0.45721582,253.0,256.0
+Engine_Engine,0.25554714,253.0,256.0
+Power tools_Power tools,0.4856212,254.0,257.0
+Engine_Engine,0.29696283,254.0,257.0
+Power tools_Power tools,0.5586269,255.0,258.0
+Engine_Engine,0.4080595,255.0,258.0
+Power tools_Power tools,0.765821,256.0,259.0
+Engine_Engine,0.45387727,256.0,259.0
+Power tools_Power tools,0.74544597,257.0,260.0
+Engine_Engine,0.49779615,257.0,260.0
+Power tools_Power tools,0.7164707,258.0,261.0
+Engine_Engine,0.45888215,258.0,261.0
+Engine_Engine,0.43850878,259.0,262.0
+Power tools_Power tools,0.37664944,259.0,262.0
+Engine_Engine,0.4562768,260.0,263.0
+Power tools_Power tools,0.29256853,260.0,263.0
+Engine_Engine,0.43747917,261.0,264.0
+Power tools_Power tools,0.40503213,261.0,264.0
+Power tools_Power tools,0.5818168,262.0,265.0
+Engine_Engine,0.45094502,262.0,265.0
+Power tools_Power tools,0.74421227,263.0,266.0
+Engine_Engine,0.44262007,263.0,266.0
+Power tools_Power tools,0.52817816,264.0,267.0
+Engine_Engine,0.2419072,264.0,267.0
+Power tools_Power tools,0.60778594,265.0,268.0
+Engine_Engine,0.16814978,265.0,268.0
+Cathartes aura_Turkey Vulture,0.11418255,265.0,268.0
+Human non-vocal_Human non-vocal,0.45273894,266.0,269.0
+Power tools_Power tools,0.20915267,266.0,269.0
+Gun_Gun,0.1107831,266.0,269.0
+Power tools_Power tools,0.55754036,267.0,270.0
+Engine_Engine,0.40624768,267.0,270.0
+Human non-vocal_Human non-vocal,0.17103219,267.0,270.0
+Power tools_Power tools,0.69189465,268.0,271.0
+Engine_Engine,0.50417733,268.0,271.0
+Engine_Engine,0.54039544,269.0,272.0
+Power tools_Power tools,0.45768136,269.0,272.0
+Engine_Engine,0.4173638,270.0,273.0
+Power tools_Power tools,0.40228668,270.0,273.0
+Engine_Engine,0.48116502,271.0,274.0
+Power tools_Power tools,0.3846981,271.0,274.0
+Power tools_Power tools,0.35197467,272.0,275.0
+Engine_Engine,0.28096727,272.0,275.0
+Power tools_Power tools,0.3497168,273.0,276.0
+Engine_Engine,0.33966497,273.0,276.0
+Power tools_Power tools,0.45590344,274.0,277.0
+Engine_Engine,0.3419854,274.0,277.0
+Engine_Engine,0.5266706,275.0,278.0
+Power tools_Power tools,0.3096736,275.0,278.0
+Engine_Engine,0.4445151,276.0,279.0
+Power tools_Power tools,0.27980617,276.0,279.0
+Engine_Engine,0.31235057,277.0,280.0
+Power tools_Power tools,0.2470148,277.0,280.0
+Power tools_Power tools,0.30464563,278.0,281.0
+Engine_Engine,0.18813217,278.0,281.0
+Power tools_Power tools,0.30546704,279.0,282.0
+Engine_Engine,0.19026785,279.0,282.0
+Human non-vocal_Human non-vocal,0.49095464,280.0,283.0
+Power tools_Power tools,0.32917535,280.0,283.0
+Engine_Engine,0.24660598,280.0,283.0
+Human non-vocal_Human non-vocal,0.3717013,281.0,284.0
+Power tools_Power tools,0.29847488,281.0,284.0
+Engine_Engine,0.1751348,281.0,284.0
+Human non-vocal_Human non-vocal,0.31737548,282.0,284.76
+Power tools_Power tools,0.20498563,282.0,284.76
+Engine_Engine,0.16153519,282.0,284.76

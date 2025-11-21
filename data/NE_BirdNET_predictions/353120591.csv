@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.4319787,0.0,3.0
+Spiza americana_Dickcissel,0.92534685,1.0,4.0
+Centronyx henslowii_Henslow's Sparrow,0.114792526,1.0,4.0
+Spiza americana_Dickcissel,0.5946985,2.0,5.0
+Centronyx henslowii_Henslow's Sparrow,0.20921847,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19686243,2.0,5.0
+Centronyx henslowii_Henslow's Sparrow,0.31987923,3.0,6.0
+Spiza americana_Dickcissel,0.2811639,3.0,6.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12862712,3.0,6.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2694274,4.0,7.0
+Agelaius phoeniceus_Red-winged Blackbird,0.52775055,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.100584015,5.0,8.0
+Spiza americana_Dickcissel,0.6306179,6.0,9.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14113991,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.103113346,6.0,9.0
+Spiza americana_Dickcissel,0.19994159,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.115880504,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22672531,9.0,12.0
+Spiza americana_Dickcissel,0.9876517,10.0,13.0
+Spiza americana_Dickcissel,0.9762882,11.0,14.0
+Spiza americana_Dickcissel,0.9813022,12.0,15.0
+Spiza americana_Dickcissel,0.96563876,13.0,16.0
+Agelaius phoeniceus_Red-winged Blackbird,0.4956394,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.10490122,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.4206027,15.0,18.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21034892,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.43058285,17.0,20.0
+Agelaius phoeniceus_Red-winged Blackbird,0.26349515,18.0,21.0
+Spiza americana_Dickcissel,0.99824834,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.10049706,19.0,22.0
+Spiza americana_Dickcissel,0.99551094,20.0,23.0
+Spiza americana_Dickcissel,0.9277666,21.0,24.0
+Spiza americana_Dickcissel,0.99403787,22.0,25.0
+Agelaius phoeniceus_Red-winged Blackbird,0.5452572,23.0,26.0
+Agelaius phoeniceus_Red-winged Blackbird,0.37947103,24.0,27.0
+Spiza americana_Dickcissel,0.12134777,24.0,27.0
+Agelaius phoeniceus_Red-winged Blackbird,0.24981667,25.0,28.0
+Spiza americana_Dickcissel,0.50063944,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15442719,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2417629,27.0,30.0
+Spiza americana_Dickcissel,0.13642982,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.28420004,28.0,31.0
+Spiza americana_Dickcissel,0.17036259,28.0,31.0
+Agelaius phoeniceus_Red-winged Blackbird,0.52328366,29.0,32.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2299937,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.53270745,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3263879,32.0,35.0
+Agelaius phoeniceus_Red-winged Blackbird,0.27632412,33.0,36.0
+Spiza americana_Dickcissel,0.40258345,34.0,37.0
+Spiza americana_Dickcissel,0.44417843,35.0,38.0
+Spiza americana_Dickcissel,0.16365412,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19922492,37.0,40.0
+Agelaius phoeniceus_Red-winged Blackbird,0.53454244,38.0,41.0
+Spiza americana_Dickcissel,0.1355506,38.0,41.0
+Agelaius phoeniceus_Red-winged Blackbird,0.28812787,39.0,42.0
+Spiza americana_Dickcissel,0.78896445,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13761854,40.0,43.0
+Tyrannus verticalis_Western Kingbird,0.10331021,40.0,43.0
+Spiza americana_Dickcissel,0.6912049,41.0,44.0
+Spiza americana_Dickcissel,0.46202037,42.0,45.0
+Passerculus sandwichensis_Savannah Sparrow,0.1183212,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.11628216,43.0,46.0
+Passerculus sandwichensis_Savannah Sparrow,0.18744662,44.0,47.0
+Spiza americana_Dickcissel,0.58972406,45.0,48.0
+Spiza americana_Dickcissel,0.64261353,46.0,49.0
+Spiza americana_Dickcissel,0.7211807,47.0,50.0
+Spiza americana_Dickcissel,0.97120595,48.0,51.0
+Centronyx henslowii_Henslow's Sparrow,0.16563366,48.0,51.0
+Spiza americana_Dickcissel,0.74980104,49.0,52.0
+Empidonax traillii_Willow Flycatcher,0.23513925,49.0,52.0
+Spiza americana_Dickcissel,0.35107633,50.0,52.8

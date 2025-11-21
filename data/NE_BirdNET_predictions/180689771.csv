@@ -1,0 +1,58 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.779802,0.0,3.0
+Passerella iliaca_Fox Sparrow,0.2940616,1.0,4.0
+Cardellina pusilla_Wilson's Warbler,0.135072,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.66489303,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.5726225,2.0,5.0
+Passerina leclancherii_Orange-breasted Bunting,0.24945877,2.0,5.0
+Cardellina pusilla_Wilson's Warbler,0.11691578,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.74332416,3.0,6.0
+Geothlypis philadelphia_Mourning Warbler,0.1275497,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120756306,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.8563289,4.0,7.0
+Cardellina pusilla_Wilson's Warbler,0.11033822,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.85424656,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.86244595,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.7592213,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.4780984,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.98982155,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.75848573,11.0,14.0
+Icteria virens_Yellow-breasted Chat,0.15195355,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.21849097,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.6808585,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.8475456,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.9604873,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.41651216,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.116036214,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.6022502,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.1655004,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.66810143,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.4854931,28.0,31.0
+Spizella pusilla_Field Sparrow,0.12254524,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.510509,29.0,32.0
+Ixoreus naevius_Varied Thrush,0.19324602,31.0,34.0
+Setophaga pinus_Pine Warbler,0.15760735,32.0,35.0
+Spizella passerina_Chipping Sparrow,0.14771554,32.0,35.0
+Setophaga pinus_Pine Warbler,0.15101914,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.129673,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.16413018,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.63123256,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.8987969,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.8442393,37.0,40.0
+Cardellina canadensis_Canada Warbler,0.44130817,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28062257,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.825646,38.0,41.0
+Cardellina canadensis_Canada Warbler,0.44318035,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16133446,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.107072175,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.8950008,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12612785,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.35313368,40.0,43.0
+Setophaga pinus_Pine Warbler,0.21192451,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.19378558,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.5003853,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.14665408,45.0,48.0
+Bombycilla cedrorum_Cedar Waxwing,0.10098909,49.0,52.0
+Spizella passerina_Chipping Sparrow,0.23857592,52.0,55.0
+Spizella passerina_Chipping Sparrow,0.10766355,53.0,56.0
+Tamiasciurus hudsonicus_Red Squirrel,0.105802394,54.0,57.0

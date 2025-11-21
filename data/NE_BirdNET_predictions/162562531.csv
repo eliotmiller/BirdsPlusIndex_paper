@@ -1,0 +1,263 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.73176056,0.0,3.0
+Icterus galbula_Baltimore Oriole,0.42387703,0.0,3.0
+Pandion haliaetus_Osprey,0.9003566,1.0,4.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.17069213,1.0,4.0
+Icterus galbula_Baltimore Oriole,0.12634622,1.0,4.0
+Pandion haliaetus_Osprey,0.9635694,2.0,5.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.14278148,2.0,5.0
+Pandion haliaetus_Osprey,0.9521192,3.0,6.0
+Pandion haliaetus_Osprey,0.98121315,4.0,7.0
+Gnorimopsar chopi_Chopi Blackbird,0.31397521,4.0,7.0
+Pandion haliaetus_Osprey,0.9978951,5.0,8.0
+Gnorimopsar chopi_Chopi Blackbird,0.111784056,5.0,8.0
+Pandion haliaetus_Osprey,0.9996061,6.0,9.0
+Pandion haliaetus_Osprey,0.9999213,7.0,10.0
+Pandion haliaetus_Osprey,0.9967218,8.0,11.0
+Pandion haliaetus_Osprey,0.9823945,9.0,12.0
+Pandion haliaetus_Osprey,0.50607413,10.0,13.0
+Spinus tristis_American Goldfinch,0.24212417,11.0,14.0
+Spinus tristis_American Goldfinch,0.31578436,12.0,15.0
+Pandion haliaetus_Osprey,0.28452355,12.0,15.0
+Spinus tristis_American Goldfinch,0.3166794,13.0,16.0
+Pandion haliaetus_Osprey,0.26217887,14.0,17.0
+Spinus tristis_American Goldfinch,0.13961802,14.0,17.0
+Tringa melanoleuca_Greater Yellowlegs,0.10230258,14.0,17.0
+Pandion haliaetus_Osprey,0.27807677,15.0,18.0
+Tringa melanoleuca_Greater Yellowlegs,0.21200673,15.0,18.0
+Pandion haliaetus_Osprey,0.76780355,16.0,19.0
+Pandion haliaetus_Osprey,0.90447223,17.0,20.0
+Pandion haliaetus_Osprey,0.9718212,18.0,21.0
+Pandion haliaetus_Osprey,0.99472284,19.0,22.0
+Pandion haliaetus_Osprey,0.93389624,20.0,23.0
+Pandion haliaetus_Osprey,0.7226718,21.0,24.0
+Spinus tristis_American Goldfinch,0.2452115,22.0,25.0
+Tringa glareola_Wood Sandpiper,0.14014027,22.0,25.0
+Spinus tristis_American Goldfinch,0.5715981,23.0,26.0
+Tringa glareola_Wood Sandpiper,0.27633265,23.0,26.0
+Spinus tristis_American Goldfinch,0.7026995,24.0,27.0
+Tringa glareola_Wood Sandpiper,0.46753544,24.0,27.0
+Spinus tristis_American Goldfinch,0.75723207,25.0,28.0
+Spinus tristis_American Goldfinch,0.497548,26.0,29.0
+Spinus tristis_American Goldfinch,0.22665675,27.0,30.0
+Spinus tristis_American Goldfinch,0.16102706,28.0,31.0
+Pandion haliaetus_Osprey,0.3970862,29.0,32.0
+Icterus galbula_Baltimore Oriole,0.119551614,29.0,32.0
+Pandion haliaetus_Osprey,0.6927273,30.0,33.0
+Pandion haliaetus_Osprey,0.8087441,31.0,34.0
+Pandion haliaetus_Osprey,0.9801369,32.0,35.0
+Pandion haliaetus_Osprey,0.9920861,33.0,36.0
+Pandion haliaetus_Osprey,0.990546,34.0,37.0
+Pandion haliaetus_Osprey,0.9976942,35.0,38.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.13744174,35.0,38.0
+Pandion haliaetus_Osprey,0.95050263,36.0,39.0
+Pandion haliaetus_Osprey,0.99932075,37.0,40.0
+Pandion haliaetus_Osprey,0.9906528,38.0,41.0
+Pandion haliaetus_Osprey,0.99937063,39.0,42.0
+Pandion haliaetus_Osprey,0.98621166,40.0,43.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.11167857,40.0,43.0
+Pandion haliaetus_Osprey,0.45502993,41.0,44.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.31774133,41.0,44.0
+Pandion haliaetus_Osprey,0.49649414,44.0,47.0
+Turdus philomelos_Song Thrush,0.30405846,44.0,47.0
+Pandion haliaetus_Osprey,0.97664046,45.0,48.0
+Turdus philomelos_Song Thrush,0.22492224,45.0,48.0
+Pandion haliaetus_Osprey,0.9226327,46.0,49.0
+Pandion haliaetus_Osprey,0.52980787,47.0,50.0
+Pandion haliaetus_Osprey,0.8772208,48.0,51.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.13777131,48.0,51.0
+Pandion haliaetus_Osprey,0.92617786,49.0,52.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.46014276,49.0,52.0
+Pandion haliaetus_Osprey,0.9943895,50.0,53.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.24757808,50.0,53.0
+Pandion haliaetus_Osprey,0.96461695,51.0,54.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.45029002,51.0,54.0
+Turdus philomelos_Song Thrush,0.108069755,51.0,54.0
+Pandion haliaetus_Osprey,0.9735153,52.0,55.0
+Pandion haliaetus_Osprey,0.9007407,53.0,56.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.27580178,53.0,56.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.12684555,53.0,56.0
+Pandion haliaetus_Osprey,0.99635553,54.0,57.0
+Pandion haliaetus_Osprey,0.9988919,55.0,58.0
+Pandion haliaetus_Osprey,0.9988212,56.0,59.0
+Pandion haliaetus_Osprey,0.99903715,57.0,60.0
+Pandion haliaetus_Osprey,0.99899095,58.0,61.0
+Pandion haliaetus_Osprey,0.999683,59.0,62.0
+Pandion haliaetus_Osprey,0.99959403,60.0,63.0
+Pandion haliaetus_Osprey,0.9975592,61.0,64.0
+Gnorimopsar chopi_Chopi Blackbird,0.12955754,61.0,64.0
+Pandion haliaetus_Osprey,0.976217,62.0,65.0
+Pandion haliaetus_Osprey,0.9401788,63.0,66.0
+Pandion haliaetus_Osprey,0.9984999,64.0,67.0
+Pandion haliaetus_Osprey,0.999526,65.0,68.0
+Pandion haliaetus_Osprey,0.9996923,66.0,69.0
+Pandion haliaetus_Osprey,0.9976767,67.0,70.0
+Pandion haliaetus_Osprey,0.99746394,68.0,71.0
+Pandion haliaetus_Osprey,0.9927798,69.0,72.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.1141921,69.0,72.0
+Pandion haliaetus_Osprey,0.90221363,70.0,73.0
+Pandion haliaetus_Osprey,0.9945045,71.0,74.0
+Pandion haliaetus_Osprey,0.9910944,72.0,75.0
+Pandion haliaetus_Osprey,0.99431556,73.0,76.0
+Pandion haliaetus_Osprey,0.99861383,74.0,77.0
+Pandion haliaetus_Osprey,0.35187334,75.0,78.0
+Turdus philomelos_Song Thrush,0.10660173,75.0,78.0
+Pandion haliaetus_Osprey,0.6877344,76.0,79.0
+Turdus philomelos_Song Thrush,0.16917942,76.0,79.0
+Pandion haliaetus_Osprey,0.75011855,77.0,80.0
+Pandion haliaetus_Osprey,0.6811414,78.0,81.0
+Pandion haliaetus_Osprey,0.11731127,79.0,82.0
+Pandion haliaetus_Osprey,0.80173457,80.0,83.0
+Turdus philomelos_Song Thrush,0.19507863,80.0,83.0
+Pandion haliaetus_Osprey,0.5897753,81.0,84.0
+Pandion haliaetus_Osprey,0.85310334,82.0,85.0
+Pandion haliaetus_Osprey,0.13505492,83.0,86.0
+Pandion haliaetus_Osprey,0.6488434,87.0,90.0
+Pandion haliaetus_Osprey,0.9711395,88.0,91.0
+Pandion haliaetus_Osprey,0.97354543,89.0,92.0
+Pandion haliaetus_Osprey,0.6048504,90.0,93.0
+Buteo jamaicensis_Red-tailed Hawk,0.13390292,90.0,93.0
+Pandion haliaetus_Osprey,0.97479486,91.0,94.0
+Buteo jamaicensis_Red-tailed Hawk,0.15093206,91.0,94.0
+Pandion haliaetus_Osprey,0.8089735,92.0,95.0
+Pandion haliaetus_Osprey,0.8336446,93.0,96.0
+Pandion haliaetus_Osprey,0.9681409,94.0,97.0
+Pandion haliaetus_Osprey,0.9842127,95.0,98.0
+Pandion haliaetus_Osprey,0.9855596,96.0,99.0
+Pandion haliaetus_Osprey,0.97931564,97.0,100.0
+Pandion haliaetus_Osprey,0.99019426,98.0,101.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.31081775,98.0,101.0
+Pandion haliaetus_Osprey,0.9766435,99.0,102.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.3733256,99.0,102.0
+Pandion haliaetus_Osprey,0.95148116,100.0,103.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.1069166,100.0,103.0
+Pandion haliaetus_Osprey,0.98764634,101.0,104.0
+Pandion haliaetus_Osprey,0.99333537,102.0,105.0
+Pandion haliaetus_Osprey,0.995336,103.0,106.0
+Pandion haliaetus_Osprey,0.89906245,104.0,107.0
+Pandion haliaetus_Osprey,0.86488456,105.0,108.0
+Pandion haliaetus_Osprey,0.98566425,106.0,109.0
+Pandion haliaetus_Osprey,0.9847647,107.0,110.0
+Pandion haliaetus_Osprey,0.9746114,108.0,111.0
+Pandion haliaetus_Osprey,0.96926457,109.0,112.0
+Pandion haliaetus_Osprey,0.9907199,110.0,113.0
+Pandion haliaetus_Osprey,0.99912995,111.0,114.0
+Pandion haliaetus_Osprey,0.9985291,112.0,115.0
+Pandion haliaetus_Osprey,0.9978021,113.0,116.0
+Pandion haliaetus_Osprey,0.99035126,114.0,117.0
+Phylidonyris novaehollandiae_New Holland Honeyeater,0.122485034,114.0,117.0
+Pandion haliaetus_Osprey,0.99602354,115.0,118.0
+Pteruthius ripleyi_Himalayan Shrike-Babbler,0.19890104,115.0,118.0
+Pandion haliaetus_Osprey,0.7211743,116.0,119.0
+Pandion haliaetus_Osprey,0.49870226,118.0,121.0
+Pandion haliaetus_Osprey,0.8634833,119.0,122.0
+Pandion haliaetus_Osprey,0.8952732,120.0,123.0
+Pandion haliaetus_Osprey,0.9336369,121.0,124.0
+Buteo jamaicensis_Red-tailed Hawk,0.114286035,121.0,124.0
+Pandion haliaetus_Osprey,0.81034315,122.0,125.0
+Protonotaria citrea_Prothonotary Warbler,0.123847745,124.0,127.0
+Protonotaria citrea_Prothonotary Warbler,0.13013528,126.0,129.0
+Protonotaria citrea_Prothonotary Warbler,0.1085154,127.0,130.0
+Protonotaria citrea_Prothonotary Warbler,0.11322118,128.0,131.0
+Pandion haliaetus_Osprey,0.24788992,130.0,133.0
+Icterus galbula_Baltimore Oriole,0.15046132,130.0,133.0
+Pandion haliaetus_Osprey,0.51087177,131.0,134.0
+Pandion haliaetus_Osprey,0.47425514,132.0,135.0
+Pandion haliaetus_Osprey,0.97469115,133.0,136.0
+Icterus galbula_Baltimore Oriole,0.10352431,133.0,136.0
+Pandion haliaetus_Osprey,0.95332956,134.0,137.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.34976715,134.0,137.0
+Gnorimopsar chopi_Chopi Blackbird,0.1727144,134.0,137.0
+Pandion haliaetus_Osprey,0.98752606,135.0,138.0
+Pandion haliaetus_Osprey,0.99270153,136.0,139.0
+Pandion haliaetus_Osprey,0.99649614,137.0,140.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.22384755,137.0,140.0
+Pandion haliaetus_Osprey,0.22444758,138.0,141.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.17643145,138.0,141.0
+Icterus galbula_Baltimore Oriole,0.17014436,138.0,141.0
+Pandion haliaetus_Osprey,0.471686,139.0,142.0
+Pandion haliaetus_Osprey,0.110441096,140.0,143.0
+Pandion haliaetus_Osprey,0.92160714,141.0,144.0
+Pandion haliaetus_Osprey,0.98734236,142.0,145.0
+Pandion haliaetus_Osprey,0.99481624,143.0,146.0
+Pandion haliaetus_Osprey,0.99537235,144.0,147.0
+Pandion haliaetus_Osprey,0.99790025,145.0,148.0
+Pandion haliaetus_Osprey,0.9627418,146.0,149.0
+Pandion haliaetus_Osprey,0.9976757,147.0,150.0
+Pandion haliaetus_Osprey,0.9811118,148.0,151.0
+Limnodromus griseus_Short-billed Dowitcher,0.18834114,148.0,151.0
+Pandion haliaetus_Osprey,0.9655845,149.0,152.0
+Limnodromus griseus_Short-billed Dowitcher,0.14790745,149.0,152.0
+Pandion haliaetus_Osprey,0.8849535,150.0,153.0
+Pandion haliaetus_Osprey,0.34623626,151.0,154.0
+Pandion haliaetus_Osprey,0.5470325,152.0,155.0
+Protonotaria citrea_Prothonotary Warbler,0.10576692,155.0,158.0
+Protonotaria citrea_Prothonotary Warbler,0.21810773,156.0,159.0
+Pandion haliaetus_Osprey,0.82936746,157.0,160.0
+Pandion haliaetus_Osprey,0.9953383,158.0,161.0
+Pandion haliaetus_Osprey,0.99792504,159.0,162.0
+Pandion haliaetus_Osprey,0.996398,160.0,163.0
+Pandion haliaetus_Osprey,0.99343055,161.0,164.0
+Pandion haliaetus_Osprey,0.6891476,162.0,165.0
+Pandion haliaetus_Osprey,0.9880206,163.0,166.0
+Pandion haliaetus_Osprey,0.99659026,164.0,167.0
+Pandion haliaetus_Osprey,0.42678913,165.0,168.0
+Pandion haliaetus_Osprey,0.9374669,167.0,170.0
+Gnorimopsar chopi_Chopi Blackbird,0.36160138,167.0,170.0
+Pandion haliaetus_Osprey,0.9884596,168.0,171.0
+Gnorimopsar chopi_Chopi Blackbird,0.10188645,168.0,171.0
+Pandion haliaetus_Osprey,0.9921968,169.0,172.0
+Pandion haliaetus_Osprey,0.99782383,170.0,173.0
+Pandion haliaetus_Osprey,0.9968995,171.0,174.0
+Pandion haliaetus_Osprey,0.9917596,172.0,175.0
+Pandion haliaetus_Osprey,0.98356307,173.0,176.0
+Pandion haliaetus_Osprey,0.99284184,174.0,177.0
+Pandion haliaetus_Osprey,0.9938406,175.0,178.0
+Pandion haliaetus_Osprey,0.8422659,176.0,179.0
+Pandion haliaetus_Osprey,0.5788294,177.0,180.0
+Icterus galbula_Baltimore Oriole,0.28484502,178.0,181.0
+Pandion haliaetus_Osprey,0.2056956,178.0,181.0
+Pandion haliaetus_Osprey,0.8703225,179.0,182.0
+Icterus galbula_Baltimore Oriole,0.3638311,179.0,182.0
+Pandion haliaetus_Osprey,0.9474437,180.0,183.0
+Icterus galbula_Baltimore Oriole,0.1681418,180.0,183.0
+Pandion haliaetus_Osprey,0.8635313,181.0,184.0
+Pandion haliaetus_Osprey,0.9061628,182.0,185.0
+Pandion haliaetus_Osprey,0.9865427,183.0,186.0
+Pandion haliaetus_Osprey,0.9745215,184.0,187.0
+Pandion haliaetus_Osprey,0.909184,185.0,188.0
+Pandion haliaetus_Osprey,0.90369093,186.0,189.0
+Pandion haliaetus_Osprey,0.85762846,187.0,190.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.15016906,187.0,190.0
+Pandion haliaetus_Osprey,0.95222336,188.0,191.0
+Gnorimopsar chopi_Chopi Blackbird,0.12820333,188.0,191.0
+Pandion haliaetus_Osprey,0.96220475,189.0,192.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.14566907,189.0,192.0
+Pandion haliaetus_Osprey,0.8600303,190.0,193.0
+Gnorimopsar chopi_Chopi Blackbird,0.1516037,190.0,193.0
+Pandion haliaetus_Osprey,0.69151217,191.0,194.0
+Pandion haliaetus_Osprey,0.9641552,192.0,195.0
+Pandion haliaetus_Osprey,0.98937327,193.0,196.0
+Pandion haliaetus_Osprey,0.98331267,194.0,197.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.14729595,194.0,197.0
+Pandion haliaetus_Osprey,0.43771237,195.0,198.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.16133337,195.0,198.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.83628607,196.0,199.0
+Pandion haliaetus_Osprey,0.47981265,196.0,199.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.6476355,197.0,200.0
+Pandion haliaetus_Osprey,0.3278003,197.0,200.0
+Zimmerius vilissimus_Guatemalan Tyrannulet,0.30072382,197.0,200.0
+Pandion haliaetus_Osprey,0.6786009,198.0,201.0
+Pyrrhula pyrrhula_Eurasian Bullfinch,0.17734604,198.0,201.0
+Pandion haliaetus_Osprey,0.7591243,199.0,202.0
+Pandion haliaetus_Osprey,0.8328635,200.0,203.0
+Pandion haliaetus_Osprey,0.7293172,201.0,204.0
+Gnorimopsar chopi_Chopi Blackbird,0.1280559,202.0,205.0
+Pandion haliaetus_Osprey,0.11718856,202.0,205.0
+Pandion haliaetus_Osprey,0.12969916,203.0,206.0
+Apus melba_Alpine Swift,0.12730752,206.0,209.0
+Apus melba_Alpine Swift,0.1596651,207.0,210.0
+Tachycineta bicolor_Tree Swallow,0.22659327,217.0,220.0
+Tachycineta bicolor_Tree Swallow,0.7166416,218.0,221.0
+Tachycineta bicolor_Tree Swallow,0.91403466,219.0,222.0
+Tachycineta bicolor_Tree Swallow,0.3876787,220.0,223.0

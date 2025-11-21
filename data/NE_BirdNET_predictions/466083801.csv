@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Setophaga americana_Northern Parula,0.75524396,0.0,3.0
+Setophaga pitiayumi_Tropical Parula,0.12872055,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.11059279,0.0,3.0
+Setophaga americana_Northern Parula,0.49618566,1.0,4.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11193405,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100157656,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12915541,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10019326,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.17009541,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.14986435,8.0,11.0
+Vireo philadelphicus_Philadelphia Vireo,0.1466009,8.0,11.0
+Setophaga americana_Northern Parula,0.30619797,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.10609874,9.0,12.0
+Setophaga americana_Northern Parula,0.29714626,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119155295,10.0,13.0
+Setophaga americana_Northern Parula,0.4889206,11.0,14.0
+Setophaga americana_Northern Parula,0.18366106,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.11303814,12.0,15.0
+Setophaga ruticilla_American Redstart,0.1129791,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.20680283,13.0,16.0
+Vireo philadelphicus_Philadelphia Vireo,0.1550194,13.0,16.0
+Vireo philadelphicus_Philadelphia Vireo,0.14185166,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.13970868,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.17224784,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.10594417,16.0,19.0
+Setophaga americana_Northern Parula,0.35227495,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15184112,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.11199203,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.1031717,20.0,23.0
+Setophaga americana_Northern Parula,0.32956275,21.0,24.0
+Setophaga americana_Northern Parula,0.7478096,22.0,25.0
+Vermivora cyanoptera_Blue-winged Warbler,0.17793295,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1110066,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.17571971,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13696145,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.10697171,30.0,33.0
+Setophaga americana_Northern Parula,0.31017742,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.15261213,31.0,34.0
+Setophaga americana_Northern Parula,0.5915784,32.0,35.0
+Setophaga americana_Northern Parula,0.5413108,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10049555,33.0,36.0
+Setophaga ruticilla_American Redstart,0.25644746,34.0,37.0
+Setophaga americana_Northern Parula,0.18701795,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.10641325,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.10489016,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.10438479,34.0,37.0
+Protonotaria citrea_Prothonotary Warbler,0.100099556,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.12067849,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.117653444,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.11195095,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.12824856,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1240566,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.100874856,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.105972655,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.11970047,40.0,43.0
+Setophaga americana_Northern Parula,0.36450648,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.19708972,41.0,44.0
+Setophaga americana_Northern Parula,0.52251387,42.0,45.0
+Setophaga americana_Northern Parula,0.84331703,43.0,46.0
+Setophaga americana_Northern Parula,0.46311206,44.0,47.0
+Setophaga ruticilla_American Redstart,0.41135228,44.0,47.0
+Cyanocitta cristata_Blue Jay,0.18545623,45.0,48.0
+Cyanocitta cristata_Blue Jay,0.11612981,46.0,49.0
+Cyanocitta cristata_Blue Jay,0.12204787,47.0,50.0
+Buteo platypterus_Broad-winged Hawk,0.10679223,47.0,50.0
+Cyanocitta cristata_Blue Jay,0.12479749,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.1471408,50.0,53.0
+Setophaga americana_Northern Parula,0.43276447,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18869872,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.11597758,52.0,55.0
+Setophaga americana_Northern Parula,0.45614466,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118200734,53.0,56.0
+Setophaga americana_Northern Parula,0.5989379,54.0,57.0
+Setophaga ruticilla_American Redstart,0.16956726,55.0,58.0
+Setophaga americana_Northern Parula,0.11835335,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.11240081,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13699359,57.0,60.0
+Setophaga americana_Northern Parula,0.14762506,61.0,64.0
+Setophaga americana_Northern Parula,0.6305517,62.0,65.0
+Setophaga americana_Northern Parula,0.5753561,63.0,66.0
+Setophaga americana_Northern Parula,0.90730774,64.0,67.0
+Cyanocitta cristata_Blue Jay,0.44981706,65.0,68.0
+Cyanocitta cristata_Blue Jay,0.13989066,66.0,69.0
+Setophaga americana_Northern Parula,0.48075107,71.0,74.0
+Setophaga pitiayumi_Tropical Parula,0.10609676,71.0,74.0
+Setophaga americana_Northern Parula,0.13855751,72.0,75.0
+Setophaga americana_Northern Parula,0.2903169,73.0,76.0
