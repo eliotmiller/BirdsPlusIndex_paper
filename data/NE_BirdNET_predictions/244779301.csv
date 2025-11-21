@@ -1,0 +1,601 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.654872,0.0,3.0
+Catharus fuscescens_Veery,0.7744194,1.0,4.0
+Catharus fuscescens_Veery,0.92237544,2.0,5.0
+Catharus fuscescens_Veery,0.8843351,3.0,6.0
+Catharus fuscescens_Veery,0.8790892,4.0,7.0
+Catharus fuscescens_Veery,0.6625416,5.0,8.0
+Catharus ustulatus_Swainson's Thrush,0.100396484,5.0,8.0
+Catharus fuscescens_Veery,0.25721142,6.0,9.0
+Catharus fuscescens_Veery,0.11961042,7.0,10.0
+Catharus fuscescens_Veery,0.34603006,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.49371535,9.0,12.0
+Catharus fuscescens_Veery,0.11134225,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.22030942,10.0,13.0
+Catharus fuscescens_Veery,0.102281146,10.0,13.0
+Catharus fuscescens_Veery,0.23378079,11.0,14.0
+Catharus fuscescens_Veery,0.31821018,12.0,15.0
+Catharus fuscescens_Veery,0.93372023,13.0,16.0
+Catharus fuscescens_Veery,0.9302084,14.0,17.0
+Catharus fuscescens_Veery,0.729167,15.0,18.0
+Catharus fuscescens_Veery,0.57288074,16.0,19.0
+Catharus fuscescens_Veery,0.12987207,17.0,20.0
+Hylocichla mustelina_Wood Thrush,0.22249775,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.106876336,19.0,22.0
+Catharus fuscescens_Veery,0.48543465,20.0,23.0
+Catharus fuscescens_Veery,0.3222834,21.0,24.0
+Catharus fuscescens_Veery,0.3252628,22.0,25.0
+Catharus fuscescens_Veery,0.9630075,23.0,26.0
+Catharus fuscescens_Veery,0.9163478,24.0,27.0
+Catharus fuscescens_Veery,0.9335638,25.0,28.0
+Catharus guttatus_Hermit Thrush,0.558357,26.0,29.0
+Catharus fuscescens_Veery,0.4563972,26.0,29.0
+Catharus fuscescens_Veery,0.10554719,27.0,30.0
+Catharus fuscescens_Veery,0.9830142,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116796024,30.0,33.0
+Catharus fuscescens_Veery,0.91495144,31.0,34.0
+Catharus fuscescens_Veery,0.95794755,32.0,35.0
+Catharus fuscescens_Veery,0.6879354,33.0,36.0
+Catharus fuscescens_Veery,0.800028,34.0,37.0
+Catharus fuscescens_Veery,0.3605826,35.0,38.0
+Catharus fuscescens_Veery,0.9535447,36.0,39.0
+Catharus fuscescens_Veery,0.97280043,37.0,40.0
+Catharus fuscescens_Veery,0.85169005,38.0,41.0
+Catharus fuscescens_Veery,0.6786053,39.0,42.0
+Geothlypis formosa_Kentucky Warbler,0.10854631,40.0,43.0
+Hylocichla mustelina_Wood Thrush,0.13484742,42.0,45.0
+Catharus fuscescens_Veery,0.31053123,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103482924,43.0,46.0
+Catharus fuscescens_Veery,0.5844323,44.0,47.0
+Catharus fuscescens_Veery,0.34875068,45.0,48.0
+Catharus fuscescens_Veery,0.69613916,48.0,51.0
+Catharus fuscescens_Veery,0.945294,49.0,52.0
+Catharus fuscescens_Veery,0.9037701,50.0,53.0
+Catharus fuscescens_Veery,0.66121465,51.0,54.0
+Strepera versicolor_Gray Currawong,0.24926311,52.0,55.0
+Catharus fuscescens_Veery,0.65529,53.0,56.0
+Catharus fuscescens_Veery,0.7324044,54.0,57.0
+Catharus fuscescens_Veery,0.8624196,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18952408,55.0,58.0
+Catharus fuscescens_Veery,0.9896979,56.0,59.0
+Catharus fuscescens_Veery,0.96305436,57.0,60.0
+Catharus fuscescens_Veery,0.94736403,58.0,61.0
+Catharus fuscescens_Veery,0.32268015,59.0,62.0
+Catharus fuscescens_Veery,0.28725317,60.0,63.0
+Catharus fuscescens_Veery,0.9269807,61.0,64.0
+Catharus fuscescens_Veery,0.9647503,62.0,65.0
+Catharus fuscescens_Veery,0.9761523,63.0,66.0
+Catharus fuscescens_Veery,0.90908724,64.0,67.0
+Catharus fuscescens_Veery,0.8721752,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.18640147,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.12870574,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.20164654,66.0,69.0
+Catharus fuscescens_Veery,0.10311481,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.29123718,67.0,70.0
+Catharus fuscescens_Veery,0.11128432,67.0,70.0
+Catharus fuscescens_Veery,0.6684299,68.0,71.0
+Catharus fuscescens_Veery,0.2677521,69.0,72.0
+Catharus fuscescens_Veery,0.733337,70.0,73.0
+Catharus fuscescens_Veery,0.96602196,71.0,74.0
+Catharus fuscescens_Veery,0.97748727,72.0,75.0
+Catharus fuscescens_Veery,0.92087847,73.0,76.0
+Catharus fuscescens_Veery,0.18819913,74.0,77.0
+Catharus fuscescens_Veery,0.38557562,76.0,79.0
+Catharus fuscescens_Veery,0.51231325,77.0,80.0
+Catharus fuscescens_Veery,0.9817738,78.0,81.0
+Catharus fuscescens_Veery,0.9579467,79.0,82.0
+Catharus fuscescens_Veery,0.98161227,80.0,83.0
+Catharus fuscescens_Veery,0.8403749,81.0,84.0
+Catharus fuscescens_Veery,0.4769226,82.0,85.0
+Catharus fuscescens_Veery,0.31027856,83.0,86.0
+Catharus fuscescens_Veery,0.9924569,84.0,87.0
+Catharus fuscescens_Veery,0.9758305,85.0,88.0
+Catharus fuscescens_Veery,0.9815555,86.0,89.0
+Catharus fuscescens_Veery,0.8164124,87.0,90.0
+Catharus fuscescens_Veery,0.81624746,88.0,91.0
+Catharus fuscescens_Veery,0.53627026,89.0,92.0
+Hylocichla mustelina_Wood Thrush,0.47932088,92.0,95.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10591905,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19298819,93.0,96.0
+Hylocichla mustelina_Wood Thrush,0.110348634,93.0,96.0
+Hylocichla mustelina_Wood Thrush,0.13742094,94.0,97.0
+Catharus fuscescens_Veery,0.99102354,95.0,98.0
+Catharus fuscescens_Veery,0.9749312,96.0,99.0
+Catharus fuscescens_Veery,0.88686305,97.0,100.0
+Catharus fuscescens_Veery,0.93134224,98.0,101.0
+Hylocichla mustelina_Wood Thrush,0.119825564,100.0,103.0
+Catharus fuscescens_Veery,0.3561444,101.0,104.0
+Catharus fuscescens_Veery,0.8929925,102.0,105.0
+Catharus fuscescens_Veery,0.85771394,103.0,106.0
+Catharus fuscescens_Veery,0.24133779,104.0,107.0
+Catharus fuscescens_Veery,0.32053873,105.0,108.0
+Catharus fuscescens_Veery,0.96874446,110.0,113.0
+Catharus fuscescens_Veery,0.830179,111.0,114.0
+Catharus fuscescens_Veery,0.8866355,112.0,115.0
+Catharus fuscescens_Veery,0.14873986,116.0,119.0
+Catharus fuscescens_Veery,0.62970454,117.0,120.0
+Catharus fuscescens_Veery,0.9813612,118.0,121.0
+Catharus fuscescens_Veery,0.9529376,119.0,122.0
+Catharus fuscescens_Veery,0.7826723,120.0,123.0
+Catharus fuscescens_Veery,0.10727267,121.0,124.0
+Hylocichla mustelina_Wood Thrush,0.40242442,123.0,126.0
+Catharus fuscescens_Veery,0.948462,124.0,127.0
+Catharus fuscescens_Veery,0.7217586,125.0,128.0
+Catharus fuscescens_Veery,0.93476593,126.0,129.0
+Catharus fuscescens_Veery,0.5338576,127.0,130.0
+Hylocichla mustelina_Wood Thrush,0.16136943,128.0,131.0
+Catharus fuscescens_Veery,0.15643573,128.0,131.0
+Hylocichla mustelina_Wood Thrush,0.23954985,129.0,132.0
+Catharus fuscescens_Veery,0.10860399,131.0,134.0
+Catharus fuscescens_Veery,0.9862444,132.0,135.0
+Catharus fuscescens_Veery,0.9562012,133.0,136.0
+Catharus fuscescens_Veery,0.9677173,134.0,137.0
+Catharus fuscescens_Veery,0.5099661,135.0,138.0
+Catharus fuscescens_Veery,0.4622928,136.0,139.0
+Hylocichla mustelina_Wood Thrush,0.13826962,137.0,140.0
+Catharus fuscescens_Veery,0.20305842,138.0,141.0
+Catharus fuscescens_Veery,0.20995623,139.0,142.0
+Catharus fuscescens_Veery,0.2318003,140.0,143.0
+Hylocichla mustelina_Wood Thrush,0.11401255,141.0,144.0
+Hylocichla mustelina_Wood Thrush,0.18376698,142.0,145.0
+Catharus fuscescens_Veery,0.9757118,143.0,146.0
+Catharus fuscescens_Veery,0.9372116,144.0,147.0
+Catharus fuscescens_Veery,0.9641349,145.0,148.0
+Catharus fuscescens_Veery,0.8626239,146.0,149.0
+Geothlypis formosa_Kentucky Warbler,0.22629768,147.0,150.0
+Piranga olivacea_Scarlet Tanager,0.12377986,147.0,150.0
+Setophaga citrina_Hooded Warbler,0.12555172,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12084161,148.0,151.0
+Catharus fuscescens_Veery,0.21100125,149.0,152.0
+Catharus fuscescens_Veery,0.9941958,150.0,153.0
+Catharus fuscescens_Veery,0.95851547,151.0,154.0
+Catharus fuscescens_Veery,0.9610375,152.0,155.0
+Catharus fuscescens_Veery,0.9599974,153.0,156.0
+Catharus fuscescens_Veery,0.96304035,154.0,157.0
+Catharus fuscescens_Veery,0.50563943,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14797884,156.0,159.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18476482,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.1784905,157.0,160.0
+Setophaga fusca_Blackburnian Warbler,0.10769044,157.0,160.0
+Hylocichla mustelina_Wood Thrush,0.4403664,158.0,161.0
+Seiurus aurocapilla_Ovenbird,0.14680389,158.0,161.0
+Catharus fuscescens_Veery,0.97992367,159.0,162.0
+Catharus fuscescens_Veery,0.9317414,160.0,163.0
+Catharus fuscescens_Veery,0.92920357,161.0,164.0
+Catharus fuscescens_Veery,0.6256154,162.0,165.0
+Catharus fuscescens_Veery,0.7969023,163.0,166.0
+Catharus fuscescens_Veery,0.4910598,165.0,168.0
+Catharus fuscescens_Veery,0.5029642,166.0,169.0
+Catharus fuscescens_Veery,0.9872169,168.0,171.0
+Catharus fuscescens_Veery,0.9730185,169.0,172.0
+Catharus fuscescens_Veery,0.95584846,170.0,173.0
+Catharus fuscescens_Veery,0.8815451,171.0,174.0
+Piranga olivacea_Scarlet Tanager,0.31118447,172.0,175.0
+Setophaga citrina_Hooded Warbler,0.114203066,172.0,175.0
+Geothlypis formosa_Kentucky Warbler,0.11040286,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10625342,172.0,175.0
+Catharus fuscescens_Veery,0.18840797,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16038921,173.0,176.0
+Setophaga citrina_Hooded Warbler,0.10759108,173.0,176.0
+Catharus fuscescens_Veery,0.10409184,174.0,177.0
+Catharus fuscescens_Veery,0.7290044,175.0,178.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1200051,175.0,178.0
+Catharus fuscescens_Veery,0.9697734,176.0,179.0
+Catharus fuscescens_Veery,0.96846575,177.0,180.0
+Catharus fuscescens_Veery,0.8619418,178.0,181.0
+Catharus fuscescens_Veery,0.911922,179.0,182.0
+Catharus guttatus_Hermit Thrush,0.11335327,179.0,182.0
+Catharus fuscescens_Veery,0.1386703,180.0,183.0
+Catharus fuscescens_Veery,0.2788851,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11771764,182.0,185.0
+Catharus fuscescens_Veery,0.97496563,183.0,186.0
+Catharus fuscescens_Veery,0.9219963,184.0,187.0
+Catharus fuscescens_Veery,0.8922449,185.0,188.0
+Catharus fuscescens_Veery,0.6464588,186.0,189.0
+Catharus guttatus_Hermit Thrush,0.14611104,186.0,189.0
+Hylocichla mustelina_Wood Thrush,0.2194516,187.0,190.0
+Piranga olivacea_Scarlet Tanager,0.117147446,187.0,190.0
+Hylocichla mustelina_Wood Thrush,0.19994694,188.0,191.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117997415,190.0,193.0
+Catharus fuscescens_Veery,0.9403835,191.0,194.0
+Catharus fuscescens_Veery,0.92922807,192.0,195.0
+Catharus fuscescens_Veery,0.9092886,193.0,196.0
+Catharus fuscescens_Veery,0.7055418,194.0,197.0
+Catharus guttatus_Hermit Thrush,0.3994873,195.0,198.0
+Catharus fuscescens_Veery,0.25308144,195.0,198.0
+Catharus ustulatus_Swainson's Thrush,0.15788877,195.0,198.0
+Hylocichla mustelina_Wood Thrush,0.16052061,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11792438,197.0,200.0
+Piranga olivacea_Scarlet Tanager,0.10092641,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16090263,198.0,201.0
+Setophaga virens_Black-throated Green Warbler,0.14319159,198.0,201.0
+Setophaga fusca_Blackburnian Warbler,0.1145554,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25025934,199.0,202.0
+Setophaga virens_Black-throated Green Warbler,0.14469776,199.0,202.0
+Setophaga fusca_Blackburnian Warbler,0.11343015,199.0,202.0
+Catharus fuscescens_Veery,0.40902266,200.0,203.0
+Catharus fuscescens_Veery,0.9335045,201.0,204.0
+Catharus fuscescens_Veery,0.91962284,202.0,205.0
+Catharus fuscescens_Veery,0.9205083,203.0,206.0
+Catharus fuscescens_Veery,0.6072026,204.0,207.0
+Piranga olivacea_Scarlet Tanager,0.28200555,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112681285,205.0,208.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11499043,206.0,209.0
+Geothlypis formosa_Kentucky Warbler,0.13422905,207.0,210.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12150601,207.0,210.0
+Catharus fuscescens_Veery,0.984971,209.0,212.0
+Catharus fuscescens_Veery,0.98521984,210.0,213.0
+Catharus fuscescens_Veery,0.96612227,211.0,214.0
+Catharus fuscescens_Veery,0.84181726,212.0,215.0
+Piranga olivacea_Scarlet Tanager,0.1022514,213.0,216.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1467007,214.0,217.0
+Setophaga fusca_Blackburnian Warbler,0.10278342,214.0,217.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14118253,215.0,218.0
+Piranga olivacea_Scarlet Tanager,0.119466364,215.0,218.0
+Setophaga fusca_Blackburnian Warbler,0.10250297,215.0,218.0
+Catharus fuscescens_Veery,0.99082464,216.0,219.0
+Catharus fuscescens_Veery,0.97896534,217.0,220.0
+Catharus fuscescens_Veery,0.98644096,218.0,221.0
+Catharus fuscescens_Veery,0.89318055,219.0,222.0
+Catharus fuscescens_Veery,0.16780072,220.0,223.0
+Setophaga fusca_Blackburnian Warbler,0.11812138,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10503734,221.0,224.0
+Setophaga virens_Black-throated Green Warbler,0.10485607,221.0,224.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19826356,222.0,225.0
+Piranga olivacea_Scarlet Tanager,0.13934939,222.0,225.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10146289,222.0,225.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14477172,223.0,226.0
+Piranga olivacea_Scarlet Tanager,0.12586579,223.0,226.0
+Setophaga virens_Black-throated Green Warbler,0.10717397,223.0,226.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26091048,224.0,227.0
+Catharus fuscescens_Veery,0.1366713,224.0,227.0
+Catharus fuscescens_Veery,0.965906,225.0,228.0
+Catharus fuscescens_Veery,0.7442585,226.0,229.0
+Catharus fuscescens_Veery,0.6376171,227.0,230.0
+Catharus fuscescens_Veery,0.61181986,228.0,231.0
+Geothlypis formosa_Kentucky Warbler,0.15800011,229.0,232.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1293928,229.0,232.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12589961,230.0,233.0
+Piranga olivacea_Scarlet Tanager,0.22605649,231.0,234.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21235955,231.0,234.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11702481,231.0,234.0
+Empidonax virescens_Acadian Flycatcher,0.11544461,231.0,234.0
+Setophaga virens_Black-throated Green Warbler,0.107173465,231.0,234.0
+Setophaga fusca_Blackburnian Warbler,0.10690695,231.0,234.0
+Setophaga virens_Black-throated Green Warbler,0.1332251,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1084948,232.0,235.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1205036,233.0,236.0
+Setophaga virens_Black-throated Green Warbler,0.10521691,233.0,236.0
+Catharus fuscescens_Veery,0.54540443,234.0,237.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27223846,234.0,237.0
+Catharus fuscescens_Veery,0.96691805,235.0,238.0
+Catharus fuscescens_Veery,0.96851826,236.0,239.0
+Catharus fuscescens_Veery,0.86861163,237.0,240.0
+Catharus fuscescens_Veery,0.15994391,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1623081,239.0,242.0
+Helmitheros vermivorum_Worm-eating Warbler,0.64252293,240.0,243.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5053826,241.0,244.0
+Piranga olivacea_Scarlet Tanager,0.51485604,242.0,245.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2884739,242.0,245.0
+Catharus fuscescens_Veery,0.101122536,242.0,245.0
+Catharus fuscescens_Veery,0.9462919,243.0,246.0
+Catharus fuscescens_Veery,0.9452593,244.0,247.0
+Catharus fuscescens_Veery,0.91909754,245.0,248.0
+Catharus fuscescens_Veery,0.38462272,246.0,249.0
+Catharus guttatus_Hermit Thrush,0.37398303,246.0,249.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1432841,248.0,251.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26568493,249.0,252.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1630031,250.0,253.0
+Catharus fuscescens_Veery,0.32576507,251.0,254.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23620269,251.0,254.0
+Catharus fuscescens_Veery,0.8733514,252.0,255.0
+Catharus fuscescens_Veery,0.95966476,253.0,256.0
+Catharus fuscescens_Veery,0.7680695,254.0,257.0
+Catharus fuscescens_Veery,0.5311995,255.0,258.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19475682,256.0,259.0
+Piranga olivacea_Scarlet Tanager,0.10834106,256.0,259.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15202636,257.0,260.0
+Setophaga fusca_Blackburnian Warbler,0.113092214,257.0,260.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10342319,258.0,261.0
+Piranga olivacea_Scarlet Tanager,0.5415237,259.0,262.0
+Catharus fuscescens_Veery,0.9485089,260.0,263.0
+Catharus fuscescens_Veery,0.8968302,261.0,264.0
+Catharus fuscescens_Veery,0.9140085,262.0,265.0
+Catharus fuscescens_Veery,0.13548899,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14621937,266.0,269.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17359325,267.0,270.0
+Setophaga fusca_Blackburnian Warbler,0.104750514,267.0,270.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17752588,268.0,271.0
+Setophaga fusca_Blackburnian Warbler,0.17157371,268.0,271.0
+Catharus fuscescens_Veery,0.9780658,269.0,272.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30602336,269.0,272.0
+Catharus fuscescens_Veery,0.9864281,270.0,273.0
+Catharus fuscescens_Veery,0.9858043,271.0,274.0
+Catharus fuscescens_Veery,0.7921924,272.0,275.0
+Catharus fuscescens_Veery,0.88789463,273.0,276.0
+Hylocichla mustelina_Wood Thrush,0.22588436,273.0,276.0
+Catharus ustulatus_Swainson's Thrush,0.11688807,273.0,276.0
+Setophaga citrina_Hooded Warbler,0.11750527,277.0,280.0
+Piranga olivacea_Scarlet Tanager,0.11001843,278.0,281.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12427134,281.0,284.0
+Catharus fuscescens_Veery,0.21732886,284.0,287.0
+Haemorhous purpureus_Purple Finch,0.115255386,284.0,287.0
+Catharus fuscescens_Veery,0.58891904,285.0,288.0
+Catharus fuscescens_Veery,0.72164845,286.0,289.0
+Catharus fuscescens_Veery,0.99880123,287.0,290.0
+Catharus fuscescens_Veery,0.9942151,288.0,291.0
+Catharus fuscescens_Veery,0.9861357,289.0,292.0
+Catharus fuscescens_Veery,0.9514177,290.0,293.0
+Catharus fuscescens_Veery,0.63505805,291.0,294.0
+Catharus minimus_Gray-cheeked Thrush,0.10710903,291.0,294.0
+Catharus fuscescens_Veery,0.94429016,292.0,295.0
+Catharus fuscescens_Veery,0.91961265,293.0,296.0
+Catharus fuscescens_Veery,0.79224086,294.0,297.0
+Catharus minimus_Gray-cheeked Thrush,0.1491394,294.0,297.0
+Catharus fuscescens_Veery,0.6262393,295.0,298.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16015607,296.0,299.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1782822,297.0,300.0
+Catharus fuscescens_Veery,0.9322372,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1339476,298.0,301.0
+Catharus fuscescens_Veery,0.45340502,299.0,302.0
+Catharus fuscescens_Veery,0.5293672,300.0,303.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15718797,302.0,305.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121227816,303.0,306.0
+Piranga olivacea_Scarlet Tanager,0.10263583,303.0,306.0
+Catharus fuscescens_Veery,0.38297278,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33119673,304.0,307.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10468198,304.0,307.0
+Catharus fuscescens_Veery,0.9643801,305.0,308.0
+Catharus fuscescens_Veery,0.975615,306.0,309.0
+Catharus fuscescens_Veery,0.7110989,307.0,310.0
+Catharus fuscescens_Veery,0.657519,308.0,311.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21448398,309.0,312.0
+Piranga olivacea_Scarlet Tanager,0.13369441,309.0,312.0
+Piranga olivacea_Scarlet Tanager,0.1533384,312.0,315.0
+Catharus fuscescens_Veery,0.48788744,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29367927,313.0,316.0
+Catharus fuscescens_Veery,0.99505097,314.0,317.0
+Catharus fuscescens_Veery,0.97651154,315.0,318.0
+Catharus fuscescens_Veery,0.8979115,316.0,319.0
+Catharus fuscescens_Veery,0.6146477,317.0,320.0
+Vireo olivaceus_Red-eyed Vireo,0.14628826,318.0,321.0
+Piranga olivacea_Scarlet Tanager,0.113980375,318.0,321.0
+Setophaga citrina_Hooded Warbler,0.11999137,319.0,322.0
+Catharus fuscescens_Veery,0.12479005,321.0,324.0
+Geothlypis formosa_Kentucky Warbler,0.12976938,327.0,330.0
+Vireo olivaceus_Red-eyed Vireo,0.35138145,328.0,331.0
+Catharus fuscescens_Veery,0.9770479,329.0,332.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4993288,329.0,332.0
+Catharus fuscescens_Veery,0.98527354,330.0,333.0
+Catharus fuscescens_Veery,0.9878664,331.0,334.0
+Catharus fuscescens_Veery,0.8823308,332.0,335.0
+Catharus fuscescens_Veery,0.31507754,333.0,336.0
+Catharus minimus_Gray-cheeked Thrush,0.2415295,333.0,336.0
+Catharus ustulatus_Swainson's Thrush,0.21102758,333.0,336.0
+Catharus guttatus_Hermit Thrush,0.18752587,333.0,336.0
+Piranga olivacea_Scarlet Tanager,0.18050955,334.0,337.0
+Setophaga citrina_Hooded Warbler,0.10768116,334.0,337.0
+Catharus fuscescens_Veery,0.9882556,335.0,338.0
+Catharus fuscescens_Veery,0.9759252,336.0,339.0
+Catharus fuscescens_Veery,0.960335,337.0,340.0
+Catharus fuscescens_Veery,0.817459,338.0,341.0
+Setophaga citrina_Hooded Warbler,0.10647519,339.0,342.0
+Geothlypis formosa_Kentucky Warbler,0.108006485,340.0,343.0
+Limnothlypis swainsonii_Swainson's Warbler,0.103349105,340.0,343.0
+Piranga olivacea_Scarlet Tanager,0.14433998,341.0,344.0
+Catharus fuscescens_Veery,0.12761456,341.0,344.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10101676,341.0,344.0
+Catharus fuscescens_Veery,0.9953557,342.0,345.0
+Catharus fuscescens_Veery,0.9932882,343.0,346.0
+Catharus fuscescens_Veery,0.9541953,344.0,347.0
+Catharus fuscescens_Veery,0.6548664,345.0,348.0
+Catharus guttatus_Hermit Thrush,0.17629702,345.0,348.0
+Catharus ustulatus_Swainson's Thrush,0.1211264,345.0,348.0
+Catharus fuscescens_Veery,0.26823312,346.0,349.0
+Piranga olivacea_Scarlet Tanager,0.15850511,346.0,349.0
+Catharus fuscescens_Veery,0.9757352,347.0,350.0
+Catharus fuscescens_Veery,0.9951303,348.0,351.0
+Catharus fuscescens_Veery,0.97714865,349.0,352.0
+Catharus fuscescens_Veery,0.8801621,350.0,353.0
+Catharus guttatus_Hermit Thrush,0.21653216,351.0,354.0
+Myiarchus crinitus_Great Crested Flycatcher,0.28424597,352.0,355.0
+Myiarchus crinitus_Great Crested Flycatcher,0.37140143,353.0,356.0
+Catharus fuscescens_Veery,0.95549405,354.0,357.0
+Catharus fuscescens_Veery,0.90770376,355.0,358.0
+Catharus fuscescens_Veery,0.9166313,356.0,359.0
+Catharus fuscescens_Veery,0.28009555,357.0,360.0
+Catharus fuscescens_Veery,0.6359092,358.0,361.0
+Vireo flavifrons_Yellow-throated Vireo,0.16884343,358.0,361.0
+Geothlypis formosa_Kentucky Warbler,0.11677128,359.0,362.0
+Setophaga citrina_Hooded Warbler,0.16497666,361.0,364.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13985905,361.0,364.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106790975,362.0,365.0
+Setophaga castanea_Bay-breasted Warbler,0.12393721,363.0,366.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17499019,372.0,375.0
+Setophaga citrina_Hooded Warbler,0.10186277,372.0,375.0
+Catharus fuscescens_Veery,0.7675808,374.0,377.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61961097,374.0,377.0
+Catharus fuscescens_Veery,0.81925887,375.0,378.0
+Catharus fuscescens_Veery,0.871501,376.0,379.0
+Catharus fuscescens_Veery,0.1486929,377.0,380.0
+Piranga olivacea_Scarlet Tanager,0.13503811,379.0,382.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13324344,379.0,382.0
+Geothlypis formosa_Kentucky Warbler,0.12449756,380.0,383.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10959188,380.0,383.0
+Piranga olivacea_Scarlet Tanager,0.43571272,381.0,384.0
+Catharus fuscescens_Veery,0.36137077,381.0,384.0
+Catharus fuscescens_Veery,0.99100214,382.0,385.0
+Catharus fuscescens_Veery,0.97556216,383.0,386.0
+Catharus fuscescens_Veery,0.9755309,384.0,387.0
+Catharus fuscescens_Veery,0.5066343,385.0,388.0
+Catharus guttatus_Hermit Thrush,0.11856191,385.0,388.0
+Catharus fuscescens_Veery,0.6041016,387.0,390.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.465168,387.0,390.0
+Catharus fuscescens_Veery,0.98382807,388.0,391.0
+Catharus fuscescens_Veery,0.9564063,389.0,392.0
+Catharus fuscescens_Veery,0.7961634,390.0,393.0
+Catharus fuscescens_Veery,0.23297136,391.0,394.0
+Catharus fuscescens_Veery,0.3929823,392.0,395.0
+Catharus fuscescens_Veery,0.7376125,393.0,396.0
+Catharus fuscescens_Veery,0.85678184,394.0,397.0
+Catharus fuscescens_Veery,0.8391634,395.0,398.0
+Catharus fuscescens_Veery,0.375868,396.0,399.0
+Haemorhous purpureus_Purple Finch,0.28826258,396.0,399.0
+Hylocichla mustelina_Wood Thrush,0.11262602,398.0,401.0
+Piranga olivacea_Scarlet Tanager,0.15250742,399.0,402.0
+Setophaga citrina_Hooded Warbler,0.106012486,399.0,402.0
+Catharus fuscescens_Veery,0.9545667,400.0,403.0
+Catharus fuscescens_Veery,0.96515733,401.0,404.0
+Catharus fuscescens_Veery,0.9381048,402.0,405.0
+Catharus fuscescens_Veery,0.7141152,403.0,406.0
+Catharus fuscescens_Veery,0.7494264,404.0,407.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14270559,405.0,408.0
+Empidonax virescens_Acadian Flycatcher,0.110170856,405.0,408.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1688112,406.0,409.0
+Empidonax virescens_Acadian Flycatcher,0.119557045,406.0,409.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12463975,407.0,410.0
+Hylocichla mustelina_Wood Thrush,0.1238347,407.0,410.0
+Setophaga citrina_Hooded Warbler,0.11722356,407.0,410.0
+Geothlypis formosa_Kentucky Warbler,0.10103174,407.0,410.0
+Catharus fuscescens_Veery,0.6854019,408.0,411.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39932412,408.0,411.0
+Catharus fuscescens_Veery,0.9861361,409.0,412.0
+Catharus fuscescens_Veery,0.95205814,410.0,413.0
+Catharus fuscescens_Veery,0.85540915,411.0,414.0
+Catharus fuscescens_Veery,0.34831962,412.0,415.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16784751,413.0,416.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15046373,414.0,417.0
+Hylocichla mustelina_Wood Thrush,0.10627882,415.0,418.0
+Catharus fuscescens_Veery,0.9873826,419.0,422.0
+Catharus fuscescens_Veery,0.9728716,420.0,423.0
+Catharus fuscescens_Veery,0.95696044,421.0,424.0
+Catharus fuscescens_Veery,0.3082877,422.0,425.0
+Catharus fuscescens_Veery,0.38423324,423.0,426.0
+Hylocichla mustelina_Wood Thrush,0.15282921,425.0,428.0
+Catharus fuscescens_Veery,0.85726744,426.0,429.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16195825,426.0,429.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12617742,426.0,429.0
+Catharus fuscescens_Veery,0.9682132,427.0,430.0
+Catharus fuscescens_Veery,0.9636483,428.0,431.0
+Catharus fuscescens_Veery,0.5640554,429.0,432.0
+Catharus fuscescens_Veery,0.53397197,430.0,433.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15762712,431.0,434.0
+Empidonax virescens_Acadian Flycatcher,0.10650926,431.0,434.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10373136,431.0,434.0
+Hylocichla mustelina_Wood Thrush,0.16224727,432.0,435.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1548647,432.0,435.0
+Catharus fuscescens_Veery,0.83779585,433.0,436.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15574768,433.0,436.0
+Catharus fuscescens_Veery,0.97605693,434.0,437.0
+Catharus fuscescens_Veery,0.9503802,435.0,438.0
+Catharus fuscescens_Veery,0.82602465,436.0,439.0
+Catharus fuscescens_Veery,0.32055187,437.0,440.0
+Pipilo erythrophthalmus_Eastern Towhee,0.120880395,437.0,440.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17686312,438.0,441.0
+Setophaga virens_Black-throated Green Warbler,0.12504292,438.0,441.0
+Setophaga citrina_Hooded Warbler,0.11934316,438.0,441.0
+Setophaga fusca_Blackburnian Warbler,0.11052819,438.0,441.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13548717,439.0,442.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1128587,439.0,442.0
+Setophaga citrina_Hooded Warbler,0.10068395,439.0,442.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15678489,440.0,443.0
+Setophaga fusca_Blackburnian Warbler,0.114879884,440.0,443.0
+Catharus fuscescens_Veery,0.9907335,441.0,444.0
+Catharus fuscescens_Veery,0.9412827,442.0,445.0
+Catharus fuscescens_Veery,0.9213314,443.0,446.0
+Catharus fuscescens_Veery,0.73657525,444.0,447.0
+Catharus fuscescens_Veery,0.30063108,445.0,448.0
+Hylocichla mustelina_Wood Thrush,0.24088672,446.0,449.0
+Catharus fuscescens_Veery,0.12765163,446.0,449.0
+Catharus fuscescens_Veery,0.57933265,448.0,451.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23672126,448.0,451.0
+Catharus fuscescens_Veery,0.9975326,449.0,452.0
+Catharus fuscescens_Veery,0.9919299,450.0,453.0
+Catharus fuscescens_Veery,0.98421913,451.0,454.0
+Catharus fuscescens_Veery,0.33330393,452.0,455.0
+Catharus guttatus_Hermit Thrush,0.24680082,452.0,455.0
+Catharus fuscescens_Veery,0.9618181,454.0,457.0
+Catharus fuscescens_Veery,0.9389094,455.0,458.0
+Catharus fuscescens_Veery,0.97867304,456.0,459.0
+Catharus fuscescens_Veery,0.9149927,457.0,460.0
+Catharus minimus_Gray-cheeked Thrush,0.13936815,457.0,460.0
+Catharus guttatus_Hermit Thrush,0.11892616,457.0,460.0
+Catharus fuscescens_Veery,0.3482967,458.0,461.0
+Hylocichla mustelina_Wood Thrush,0.24318169,459.0,462.0
+Hylocichla mustelina_Wood Thrush,0.2028397,460.0,463.0
+Hylocichla mustelina_Wood Thrush,0.63974005,461.0,464.0
+Dryocopus pileatus_Pileated Woodpecker,0.10393813,463.0,466.0
+Catharus fuscescens_Veery,0.98636067,464.0,467.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.148555,464.0,467.0
+Catharus fuscescens_Veery,0.96910906,465.0,468.0
+Catharus fuscescens_Veery,0.9830403,466.0,469.0
+Catharus fuscescens_Veery,0.76553136,467.0,470.0
+Catharus fuscescens_Veery,0.667173,468.0,471.0
+Catharus guttatus_Hermit Thrush,0.26539427,468.0,471.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22427385,469.0,472.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124452434,470.0,473.0
+Limnothlypis swainsonii_Swainson's Warbler,0.108489074,471.0,474.0
+Hylocichla mustelina_Wood Thrush,0.31426066,472.0,475.0
+Catharus fuscescens_Veery,0.99139845,473.0,476.0
+Catharus fuscescens_Veery,0.9744374,474.0,477.0
+Catharus fuscescens_Veery,0.94933426,475.0,478.0
+Catharus fuscescens_Veery,0.7367572,476.0,479.0
+Catharus guttatus_Hermit Thrush,0.41122636,477.0,480.0
+Catharus ustulatus_Swainson's Thrush,0.3349033,477.0,480.0
+Catharus fuscescens_Veery,0.27278465,477.0,480.0
+Catharus minimus_Gray-cheeked Thrush,0.14805585,477.0,480.0
+Haemorhous purpureus_Purple Finch,0.12557526,477.0,480.0
+Hylocichla mustelina_Wood Thrush,0.22878847,478.0,481.0
+Catharus fuscescens_Veery,0.99207366,479.0,482.0
+Catharus fuscescens_Veery,0.90997595,480.0,483.0
+Catharus fuscescens_Veery,0.9758195,481.0,484.0
+Catharus fuscescens_Veery,0.4032465,482.0,485.0
+Haemorhous purpureus_Purple Finch,0.15885489,482.0,485.0
+Catharus fuscescens_Veery,0.60177803,483.0,486.0
+Catharus ustulatus_Swainson's Thrush,0.14636429,483.0,486.0
+Catharus fuscescens_Veery,0.14468479,484.0,487.0
+Brachyramphus marmoratus_Marbled Murrelet,0.15100643,486.0,489.0
+Catharus fuscescens_Veery,0.97818816,487.0,490.0
+Catharus fuscescens_Veery,0.97648776,488.0,491.0
+Catharus fuscescens_Veery,0.8965454,489.0,492.0
+Catharus fuscescens_Veery,0.79592705,490.0,493.0
+Catharus fuscescens_Veery,0.4991206,491.0,494.0
+Catharus ustulatus_Swainson's Thrush,0.2682566,491.0,494.0
+Catharus guttatus_Hermit Thrush,0.2143395,491.0,494.0
+Catharus minimus_Gray-cheeked Thrush,0.16099201,491.0,494.0
+Hylocichla mustelina_Wood Thrush,0.10785961,492.0,495.0
+Catharus fuscescens_Veery,0.9758655,493.0,496.0
+Catharus fuscescens_Veery,0.9112516,494.0,497.0
+Catharus fuscescens_Veery,0.9502989,495.0,498.0
+Catharus fuscescens_Veery,0.2510802,496.0,499.0
+Catharus fuscescens_Veery,0.99156016,497.0,500.0
+Catharus fuscescens_Veery,0.97946894,498.0,501.0
+Catharus fuscescens_Veery,0.9755788,499.0,502.0
+Catharus fuscescens_Veery,0.599494,500.0,503.0
+Catharus minimus_Gray-cheeked Thrush,0.24426252,500.0,503.0
+Catharus fuscescens_Veery,0.9267736,501.0,504.0
+Catharus guttatus_Hermit Thrush,0.18202977,501.0,504.0
+Catharus ustulatus_Swainson's Thrush,0.12770803,501.0,504.0
+Piranga olivacea_Scarlet Tanager,0.11580865,502.0,505.0
+Catharus fuscescens_Veery,0.96200734,505.0,508.0
+Catharus fuscescens_Veery,0.9469694,506.0,509.0
+Catharus fuscescens_Veery,0.92285097,507.0,510.0
+Catharus fuscescens_Veery,0.5007888,508.0,511.0
+Catharus fuscescens_Veery,0.9230895,509.0,512.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13118511,509.0,512.0
+Catharus fuscescens_Veery,0.8710635,510.0,513.0
+Catharus fuscescens_Veery,0.9895767,511.0,514.0
+Catharus fuscescens_Veery,0.91775376,512.0,515.0
+Catharus fuscescens_Veery,0.71343035,513.0,516.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11916678,514.0,517.0
+Catharus fuscescens_Veery,0.80026096,515.0,518.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28763375,515.0,518.0
+Catharus fuscescens_Veery,0.88692915,516.0,519.0
+Catharus fuscescens_Veery,0.98249835,517.0,520.0
+Catharus fuscescens_Veery,0.6860416,518.0,521.0
+Catharus fuscescens_Veery,0.82204473,519.0,522.0
+Catharus fuscescens_Veery,0.9913933,521.0,524.0
+Catharus fuscescens_Veery,0.98502904,522.0,525.0
+Catharus fuscescens_Veery,0.9345869,523.0,526.0
+Catharus fuscescens_Veery,0.7957061,524.0,527.0
+Vireo flavifrons_Yellow-throated Vireo,0.13305953,525.0,528.0

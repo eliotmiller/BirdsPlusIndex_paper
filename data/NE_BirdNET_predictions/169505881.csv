@@ -1,0 +1,610 @@
+species,score,start_time,end_time
+Thryothorus ludovicianus_Carolina Wren,0.48106226,0.0,3.0
+Thryothorus ludovicianus_Carolina Wren,0.7346624,3.0,6.0
+Thryothorus ludovicianus_Carolina Wren,0.93190354,4.0,7.0
+Thryothorus ludovicianus_Carolina Wren,0.6285096,5.0,8.0
+Thryothorus ludovicianus_Carolina Wren,0.8918425,6.0,9.0
+Thryothorus ludovicianus_Carolina Wren,0.9666395,7.0,10.0
+Thryothorus ludovicianus_Carolina Wren,0.966743,8.0,11.0
+Thryothorus ludovicianus_Carolina Wren,0.80426246,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.29384866,10.0,13.0
+Thryothorus ludovicianus_Carolina Wren,0.13825814,10.0,13.0
+Toxostoma rufum_Brown Thrasher,0.48909676,11.0,14.0
+Thryothorus ludovicianus_Carolina Wren,0.46759304,11.0,14.0
+Thryothorus ludovicianus_Carolina Wren,0.8919117,12.0,15.0
+Thryothorus ludovicianus_Carolina Wren,0.30187568,13.0,16.0
+Thryothorus ludovicianus_Carolina Wren,0.8484215,17.0,20.0
+Thryothorus ludovicianus_Carolina Wren,0.70072836,18.0,21.0
+Lichmera indistincta_Brown Honeyeater,0.29414335,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.16677131,23.0,26.0
+Dumetella carolinensis_Gray Catbird,0.13761003,24.0,27.0
+Icterus spurius_Orchard Oriole,0.11581928,24.0,27.0
+Sylvia atricapilla_Eurasian Blackcap,0.60391057,26.0,29.0
+Cantorchilus semibadius_Riverside Wren,0.1975598,32.0,35.0
+Pachysylvia aurantiifrons_Golden-fronted Greenlet,0.16205059,34.0,37.0
+Thryothorus ludovicianus_Carolina Wren,0.13548808,35.0,38.0
+Thryothorus ludovicianus_Carolina Wren,0.61127365,37.0,40.0
+Cantorchilus semibadius_Riverside Wren,0.24127276,38.0,41.0
+Thryothorus ludovicianus_Carolina Wren,0.56490874,41.0,44.0
+Thryothorus ludovicianus_Carolina Wren,0.13463043,42.0,45.0
+Pycnonotus aurigaster_Sooty-headed Bulbul,0.27272567,43.0,46.0
+Pycnonotus aurigaster_Sooty-headed Bulbul,0.19503424,44.0,47.0
+Thryothorus ludovicianus_Carolina Wren,0.7213017,45.0,48.0
+Icterus spurius_Orchard Oriole,0.14047326,45.0,48.0
+Mimus polyglottos_Northern Mockingbird,0.27571258,49.0,52.0
+Thryothorus ludovicianus_Carolina Wren,0.13850445,49.0,52.0
+Thryothorus ludovicianus_Carolina Wren,0.31707817,50.0,53.0
+Icterus spurius_Orchard Oriole,0.14958644,50.0,53.0
+Thryothorus ludovicianus_Carolina Wren,0.71499836,51.0,54.0
+Thryothorus ludovicianus_Carolina Wren,0.7489083,52.0,55.0
+Cardinalis cardinalis_Northern Cardinal,0.61262816,53.0,56.0
+Icterus spurius_Orchard Oriole,0.2515027,54.0,57.0
+Thryothorus ludovicianus_Carolina Wren,0.23146315,54.0,57.0
+Icterus spurius_Orchard Oriole,0.6638622,55.0,58.0
+Thryothorus ludovicianus_Carolina Wren,0.38341355,56.0,59.0
+Thryothorus ludovicianus_Carolina Wren,0.9704389,57.0,60.0
+Thryothorus ludovicianus_Carolina Wren,0.87478536,58.0,61.0
+Thryothorus ludovicianus_Carolina Wren,0.4153606,59.0,62.0
+Thryothorus ludovicianus_Carolina Wren,0.27374485,61.0,64.0
+Aimophila rufescens_Rusty Sparrow,0.12240448,61.0,64.0
+Thryothorus ludovicianus_Carolina Wren,0.46263593,62.0,65.0
+Thryothorus ludovicianus_Carolina Wren,0.7069643,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.14940697,64.0,67.0
+Thryothorus ludovicianus_Carolina Wren,0.16421852,65.0,68.0
+Pycnonotus plumosus_Olive-winged Bulbul,0.2005755,67.0,70.0
+Thryothorus ludovicianus_Carolina Wren,0.295627,68.0,71.0
+Thryothorus ludovicianus_Carolina Wren,0.8997958,69.0,72.0
+Thryothorus ludovicianus_Carolina Wren,0.8078334,70.0,73.0
+Thryothorus ludovicianus_Carolina Wren,0.9918263,71.0,74.0
+Thryothorus ludovicianus_Carolina Wren,0.36379096,72.0,75.0
+Cardinalis cardinalis_Northern Cardinal,0.10514509,72.0,75.0
+Thryothorus ludovicianus_Carolina Wren,0.5599167,75.0,78.0
+Thryothorus ludovicianus_Carolina Wren,0.87777174,76.0,79.0
+Thryothorus ludovicianus_Carolina Wren,0.95802885,77.0,80.0
+Thryothorus ludovicianus_Carolina Wren,0.70391876,78.0,81.0
+Thryothorus ludovicianus_Carolina Wren,0.17714219,79.0,82.0
+Thryothorus ludovicianus_Carolina Wren,0.26744512,80.0,83.0
+Thryothorus ludovicianus_Carolina Wren,0.20773762,81.0,84.0
+Mimus polyglottos_Northern Mockingbird,0.23132452,85.0,88.0
+Lanius ludovicianus_Loggerhead Shrike,0.1864838,87.0,90.0
+Icterus spurius_Orchard Oriole,0.24626543,88.0,91.0
+Icterus spurius_Orchard Oriole,0.16416723,89.0,92.0
+Thryothorus ludovicianus_Carolina Wren,0.130009,90.0,93.0
+Icterus spurius_Orchard Oriole,0.11574169,90.0,93.0
+Cisticola cantans_Singing Cisticola,0.10825023,91.0,94.0
+Thryothorus ludovicianus_Carolina Wren,0.49427,94.0,97.0
+Thryothorus ludovicianus_Carolina Wren,0.30718607,95.0,98.0
+Icterus spurius_Orchard Oriole,0.27165496,95.0,98.0
+Thryothorus ludovicianus_Carolina Wren,0.39661124,96.0,99.0
+Icterus spurius_Orchard Oriole,0.12323662,96.0,99.0
+Thryothorus ludovicianus_Carolina Wren,0.6811616,97.0,100.0
+Thryothorus ludovicianus_Carolina Wren,0.128677,98.0,101.0
+Thryothorus ludovicianus_Carolina Wren,0.4960826,99.0,102.0
+Thryothorus ludovicianus_Carolina Wren,0.48925012,100.0,103.0
+Thryothorus ludovicianus_Carolina Wren,0.33079702,101.0,104.0
+Corthylio calendula_Ruby-crowned Kinglet,0.13319165,102.0,105.0
+Icterus spurius_Orchard Oriole,0.117696814,103.0,106.0
+Thryothorus ludovicianus_Carolina Wren,0.36364102,105.0,108.0
+Dumetella carolinensis_Gray Catbird,0.107165486,108.0,111.0
+Turdus migratorius_American Robin,0.10344311,109.0,112.0
+Thryothorus ludovicianus_Carolina Wren,0.40365258,111.0,114.0
+Icterus spurius_Orchard Oriole,0.115311004,111.0,114.0
+Mimus polyglottos_Northern Mockingbird,0.12441872,112.0,115.0
+Mimus polyglottos_Northern Mockingbird,0.13118617,113.0,116.0
+Arremonops conirostris_Black-striped Sparrow,0.13162261,114.0,117.0
+Melocichla mentalis_Moustached Grass-Warbler,0.11236905,114.0,117.0
+Thryothorus ludovicianus_Carolina Wren,0.77956927,115.0,118.0
+Thryothorus ludovicianus_Carolina Wren,0.83362937,116.0,119.0
+Thryothorus ludovicianus_Carolina Wren,0.8820469,117.0,120.0
+Mimus polyglottos_Northern Mockingbird,0.27939945,121.0,124.0
+Toxostoma rufum_Brown Thrasher,0.122095965,121.0,124.0
+Dumetella carolinensis_Gray Catbird,0.10855177,121.0,124.0
+Icterus spurius_Orchard Oriole,0.19410923,122.0,125.0
+Thryothorus ludovicianus_Carolina Wren,0.13680668,123.0,126.0
+Thryothorus ludovicianus_Carolina Wren,0.5062335,124.0,127.0
+Thryothorus ludovicianus_Carolina Wren,0.8179846,126.0,129.0
+Thryothorus ludovicianus_Carolina Wren,0.88914067,127.0,130.0
+Thryothorus ludovicianus_Carolina Wren,0.95162743,128.0,131.0
+Sporophila nuttingi_Nicaraguan Seed-Finch,0.45282483,130.0,133.0
+Sporophila nuttingi_Nicaraguan Seed-Finch,0.32617348,131.0,134.0
+Thryothorus ludovicianus_Carolina Wren,0.14946827,132.0,135.0
+Icterus spurius_Orchard Oriole,0.3247182,133.0,136.0
+Thryothorus ludovicianus_Carolina Wren,0.14478433,134.0,137.0
+Thryothorus ludovicianus_Carolina Wren,0.5791573,135.0,138.0
+Thryothorus ludovicianus_Carolina Wren,0.88516605,136.0,139.0
+Toxostoma rufum_Brown Thrasher,0.14597653,137.0,140.0
+Thryothorus ludovicianus_Carolina Wren,0.40819952,138.0,141.0
+Toxostoma rufum_Brown Thrasher,0.16657971,141.0,144.0
+Dumetella carolinensis_Gray Catbird,0.15910675,141.0,144.0
+Thryothorus ludovicianus_Carolina Wren,0.18941073,142.0,145.0
+Toxostoma rufum_Brown Thrasher,0.11797631,142.0,145.0
+Thryothorus ludovicianus_Carolina Wren,0.9505321,143.0,146.0
+Thryothorus ludovicianus_Carolina Wren,0.50584126,144.0,147.0
+Orthotomus atrogularis_Dark-necked Tailorbird,0.1278566,144.0,147.0
+Orthotomus ruficeps_Ashy Tailorbird,0.115273304,144.0,147.0
+Thryothorus ludovicianus_Carolina Wren,0.24147323,145.0,148.0
+Corthylio calendula_Ruby-crowned Kinglet,0.23819901,147.0,150.0
+Corthylio calendula_Ruby-crowned Kinglet,0.10578987,148.0,151.0
+Thryothorus ludovicianus_Carolina Wren,0.7166191,149.0,152.0
+Thryothorus ludovicianus_Carolina Wren,0.4413963,150.0,153.0
+Toxostoma rufum_Brown Thrasher,0.20512423,152.0,155.0
+Toxostoma rufum_Brown Thrasher,0.46819037,153.0,156.0
+Toxostoma rufum_Brown Thrasher,0.15887493,154.0,157.0
+Thryothorus ludovicianus_Carolina Wren,0.78731465,155.0,158.0
+Cardinalis cardinalis_Northern Cardinal,0.15536322,155.0,158.0
+Thryothorus ludovicianus_Carolina Wren,0.9059904,156.0,159.0
+Thryothorus ludovicianus_Carolina Wren,0.49524954,157.0,160.0
+Tyrannus dominicensis_Gray Kingbird,0.1622219,158.0,161.0
+Thryothorus ludovicianus_Carolina Wren,0.49133226,160.0,163.0
+Icterus spurius_Orchard Oriole,0.16566664,160.0,163.0
+Icterus galbula_Baltimore Oriole,0.11369687,160.0,163.0
+Thryothorus ludovicianus_Carolina Wren,0.30272454,161.0,164.0
+Mimus polyglottos_Northern Mockingbird,0.21866384,161.0,164.0
+Icterus spurius_Orchard Oriole,0.11242433,161.0,164.0
+Mimus polyglottos_Northern Mockingbird,0.30227104,162.0,165.0
+Icterus spurius_Orchard Oriole,0.18720542,162.0,165.0
+Icterus spurius_Orchard Oriole,0.20952545,163.0,166.0
+Melocichla mentalis_Moustached Grass-Warbler,0.120622754,163.0,166.0
+Thryothorus ludovicianus_Carolina Wren,0.2427561,164.0,167.0
+Thryothorus ludovicianus_Carolina Wren,0.90774935,165.0,168.0
+Thryothorus ludovicianus_Carolina Wren,0.6714047,166.0,169.0
+Thryothorus ludovicianus_Carolina Wren,0.1077618,168.0,171.0
+Thryothorus ludovicianus_Carolina Wren,0.93811274,170.0,173.0
+Thryothorus ludovicianus_Carolina Wren,0.88464034,171.0,174.0
+Thryothorus ludovicianus_Carolina Wren,0.75627285,172.0,175.0
+Thryothorus ludovicianus_Carolina Wren,0.3268454,173.0,176.0
+Thryothorus ludovicianus_Carolina Wren,0.21009636,175.0,178.0
+Thryothorus ludovicianus_Carolina Wren,0.5710136,176.0,179.0
+Thryothorus ludovicianus_Carolina Wren,0.8409759,177.0,180.0
+Thryothorus ludovicianus_Carolina Wren,0.7619097,178.0,181.0
+Cyanocitta cristata_Blue Jay,0.10036701,180.0,183.0
+Cyanocitta cristata_Blue Jay,0.16060013,181.0,184.0
+Cardinalis cardinalis_Northern Cardinal,0.12350572,183.0,186.0
+Mimus polyglottos_Northern Mockingbird,0.113523506,184.0,187.0
+Mimus polyglottos_Northern Mockingbird,0.23770219,185.0,188.0
+Dumetella carolinensis_Gray Catbird,0.12922125,185.0,188.0
+Cardinalis cardinalis_Northern Cardinal,0.118049726,185.0,188.0
+Thryothorus ludovicianus_Carolina Wren,0.24321932,186.0,189.0
+Dumetella carolinensis_Gray Catbird,0.14145413,186.0,189.0
+Thryothorus ludovicianus_Carolina Wren,0.8902231,189.0,192.0
+Thryothorus ludovicianus_Carolina Wren,0.93746054,190.0,193.0
+Thryothorus ludovicianus_Carolina Wren,0.7469006,191.0,194.0
+Thryothorus ludovicianus_Carolina Wren,0.8676293,192.0,195.0
+Thryothorus ludovicianus_Carolina Wren,0.63282853,193.0,196.0
+Thryothorus ludovicianus_Carolina Wren,0.62625283,194.0,197.0
+Thryothorus ludovicianus_Carolina Wren,0.45837525,195.0,198.0
+Thryothorus ludovicianus_Carolina Wren,0.25759903,196.0,199.0
+Icterus spurius_Orchard Oriole,0.1405498,196.0,199.0
+Lanius ludovicianus_Loggerhead Shrike,0.11596453,197.0,200.0
+Cardinalis cardinalis_Northern Cardinal,0.10374581,197.0,200.0
+Cardinalis cardinalis_Northern Cardinal,0.40856913,203.0,206.0
+Thryothorus ludovicianus_Carolina Wren,0.25576,204.0,207.0
+Cardinalis cardinalis_Northern Cardinal,0.1451942,204.0,207.0
+Thryothorus ludovicianus_Carolina Wren,0.27235118,205.0,208.0
+Mimus polyglottos_Northern Mockingbird,0.4366091,206.0,209.0
+Mimus polyglottos_Northern Mockingbird,0.13784122,207.0,210.0
+Arremonops conirostris_Black-striped Sparrow,0.11092593,208.0,211.0
+Mimus polyglottos_Northern Mockingbird,0.1612448,209.0,212.0
+Thryothorus ludovicianus_Carolina Wren,0.548782,210.0,213.0
+Thryothorus ludovicianus_Carolina Wren,0.16066253,213.0,216.0
+Thryothorus ludovicianus_Carolina Wren,0.8023649,214.0,217.0
+Thryothorus ludovicianus_Carolina Wren,0.5418353,215.0,218.0
+Thryothorus ludovicianus_Carolina Wren,0.37854257,216.0,219.0
+Lophophanes cristatus_Crested Tit,0.21768273,217.0,220.0
+Thryothorus ludovicianus_Carolina Wren,0.12536885,217.0,220.0
+Catharus fuscescens_Veery,0.10980786,219.0,222.0
+Thryothorus ludovicianus_Carolina Wren,0.3421027,221.0,224.0
+Vireo griseus_White-eyed Vireo,0.14418194,221.0,224.0
+Geothlypis poliocephala_Gray-crowned Yellowthroat,0.19481698,222.0,225.0
+Icterus spurius_Orchard Oriole,0.20677441,223.0,226.0
+Geothlypis poliocephala_Gray-crowned Yellowthroat,0.11718722,223.0,226.0
+Geothlypis poliocephala_Gray-crowned Yellowthroat,0.8169122,224.0,227.0
+Geothlypis aequinoctialis_Masked Yellowthroat,0.47820935,224.0,227.0
+Haemorhous purpureus_Purple Finch,0.18898661,224.0,227.0
+Icterus spurius_Orchard Oriole,0.1267729,224.0,227.0
+Thryothorus ludovicianus_Carolina Wren,0.22553642,225.0,228.0
+Thryothorus ludovicianus_Carolina Wren,0.3532128,227.0,230.0
+Thryothorus ludovicianus_Carolina Wren,0.5975092,228.0,231.0
+Thryothorus ludovicianus_Carolina Wren,0.94611144,229.0,232.0
+Mimus polyglottos_Northern Mockingbird,0.3418743,230.0,233.0
+Toxostoma rufum_Brown Thrasher,0.21937636,230.0,233.0
+Thryothorus ludovicianus_Carolina Wren,0.15708637,230.0,233.0
+Thryothorus ludovicianus_Carolina Wren,0.19313864,231.0,234.0
+Mimus polyglottos_Northern Mockingbird,0.15559755,231.0,234.0
+Melocichla mentalis_Moustached Grass-Warbler,0.1464193,232.0,235.0
+Thryothorus ludovicianus_Carolina Wren,0.10069649,232.0,235.0
+Vireo flavoviridis_Yellow-green Vireo,0.41016975,234.0,237.0
+Icterus spurius_Orchard Oriole,0.3642426,236.0,239.0
+Thryothorus ludovicianus_Carolina Wren,0.38366452,237.0,240.0
+Icterus spurius_Orchard Oriole,0.26312226,237.0,240.0
+Icterus spurius_Orchard Oriole,0.5457972,238.0,241.0
+Thryothorus ludovicianus_Carolina Wren,0.1319943,238.0,241.0
+Thryothorus ludovicianus_Carolina Wren,0.52625036,239.0,242.0
+Dumetella carolinensis_Gray Catbird,0.17883945,240.0,243.0
+Thryothorus ludovicianus_Carolina Wren,0.115222715,240.0,243.0
+Icterus spurius_Orchard Oriole,0.2932391,241.0,244.0
+Thryothorus ludovicianus_Carolina Wren,0.87511194,246.0,249.0
+Vireo griseus_White-eyed Vireo,0.16561534,246.0,249.0
+Thryothorus ludovicianus_Carolina Wren,0.28534138,247.0,250.0
+Icterus spurius_Orchard Oriole,0.11781054,247.0,250.0
+Thryothorus ludovicianus_Carolina Wren,0.2882124,248.0,251.0
+Icterus spurius_Orchard Oriole,0.11300223,248.0,251.0
+Thryothorus ludovicianus_Carolina Wren,0.5801414,249.0,252.0
+Icterus spurius_Orchard Oriole,0.16623244,249.0,252.0
+Thryothorus ludovicianus_Carolina Wren,0.14919065,250.0,253.0
+Acrocephalus australis_Australian Reed Warbler,0.10060956,253.0,256.0
+Thryothorus ludovicianus_Carolina Wren,0.71397513,255.0,258.0
+Icterus spurius_Orchard Oriole,0.1547494,257.0,260.0
+Protonotaria citrea_Prothonotary Warbler,0.17203993,262.0,265.0
+Protonotaria citrea_Prothonotary Warbler,0.102555685,263.0,266.0
+Toxostoma crissale_Crissal Thrasher,0.12098592,267.0,270.0
+Mimus polyglottos_Northern Mockingbird,0.10457433,268.0,271.0
+Cantorchilus longirostris_Long-billed Wren,0.12488178,270.0,273.0
+Dumetella carolinensis_Gray Catbird,0.2409742,271.0,274.0
+Toxostoma rufum_Brown Thrasher,0.1291772,271.0,274.0
+Tringa flavipes_Lesser Yellowlegs,0.12240806,272.0,275.0
+Toxostoma rufum_Brown Thrasher,0.20657493,273.0,276.0
+Dumetella carolinensis_Gray Catbird,0.13496263,273.0,276.0
+Thryothorus ludovicianus_Carolina Wren,0.56757003,274.0,277.0
+Thryothorus ludovicianus_Carolina Wren,0.3897984,275.0,278.0
+Contopus virens_Eastern Wood-Pewee,0.23330541,276.0,279.0
+Contopus virens_Eastern Wood-Pewee,0.9504814,277.0,280.0
+Contopus virens_Eastern Wood-Pewee,0.71969116,278.0,281.0
+Dumetella carolinensis_Gray Catbird,0.11791853,281.0,284.0
+Icterus spurius_Orchard Oriole,0.55072534,284.0,287.0
+Thryothorus ludovicianus_Carolina Wren,0.25263378,284.0,287.0
+Sporophila nuttingi_Nicaraguan Seed-Finch,0.10805865,285.0,288.0
+Icterus spurius_Orchard Oriole,0.11414987,286.0,289.0
+Thryothorus ludovicianus_Carolina Wren,0.29255077,290.0,293.0
+Cardinalis cardinalis_Northern Cardinal,0.208731,290.0,293.0
+Thryothorus ludovicianus_Carolina Wren,0.43516085,291.0,294.0
+Dumetella carolinensis_Gray Catbird,0.15716515,293.0,296.0
+Saltator olivascens_Olivaceous Saltator,0.23583108,296.0,299.0
+Saltator coerulescens_Blue-gray Saltator,0.2344737,296.0,299.0
+Dumetella carolinensis_Gray Catbird,0.10212451,296.0,299.0
+Saltator coerulescens_Blue-gray Saltator,0.14477783,298.0,301.0
+Thryothorus ludovicianus_Carolina Wren,0.17024477,299.0,302.0
+Dolichonyx oryzivorus_Bobolink,0.17572881,300.0,303.0
+Thryothorus ludovicianus_Carolina Wren,0.10710023,305.0,308.0
+Toxostoma rufum_Brown Thrasher,0.79175043,312.0,315.0
+Toxostoma rufum_Brown Thrasher,0.32553026,313.0,316.0
+Dumetella carolinensis_Gray Catbird,0.14082322,313.0,316.0
+Dumetella carolinensis_Gray Catbird,0.62960887,314.0,317.0
+Lanius ludovicianus_Loggerhead Shrike,0.3937226,314.0,317.0
+Toxostoma rufum_Brown Thrasher,0.24334256,314.0,317.0
+Lanius ludovicianus_Loggerhead Shrike,0.43187606,315.0,318.0
+Dumetella carolinensis_Gray Catbird,0.31812626,315.0,318.0
+Thryothorus ludovicianus_Carolina Wren,0.45044518,316.0,319.0
+Lanius ludovicianus_Loggerhead Shrike,0.2447785,316.0,319.0
+Thryothorus ludovicianus_Carolina Wren,0.45386004,317.0,320.0
+Thryothorus ludovicianus_Carolina Wren,0.69418406,318.0,321.0
+Emberiza rustica_Rustic Bunting,0.12754475,319.0,322.0
+Corthylio calendula_Ruby-crowned Kinglet,0.12284461,319.0,322.0
+Icterus spurius_Orchard Oriole,0.20131122,320.0,323.0
+Dryobates borealis_Red-cockaded Woodpecker,0.101759054,323.0,326.0
+Vireo griseus_White-eyed Vireo,0.11571365,332.0,335.0
+Thryothorus ludovicianus_Carolina Wren,0.12562,334.0,337.0
+Thryothorus ludovicianus_Carolina Wren,0.22060592,336.0,339.0
+Pheugopedius spadix_Sooty-headed Wren,0.25269395,337.0,340.0
+Thryothorus ludovicianus_Carolina Wren,0.12108831,337.0,340.0
+Thryothorus ludovicianus_Carolina Wren,0.50431085,338.0,341.0
+Thryothorus ludovicianus_Carolina Wren,0.54413414,339.0,342.0
+Thryothorus ludovicianus_Carolina Wren,0.17431696,340.0,343.0
+Thryothorus ludovicianus_Carolina Wren,0.17541252,342.0,345.0
+Mimus polyglottos_Northern Mockingbird,0.12521616,342.0,345.0
+Thryothorus ludovicianus_Carolina Wren,0.20160066,343.0,346.0
+Mimus polyglottos_Northern Mockingbird,0.14804547,343.0,346.0
+Melocichla mentalis_Moustached Grass-Warbler,0.13776985,343.0,346.0
+Melocichla mentalis_Moustached Grass-Warbler,0.26339933,344.0,347.0
+Mimus polyglottos_Northern Mockingbird,0.1273948,344.0,347.0
+Piranga rubra_Summer Tanager,0.10573835,345.0,348.0
+Thryothorus ludovicianus_Carolina Wren,0.108097345,351.0,354.0
+Icterus spurius_Orchard Oriole,0.17575088,355.0,358.0
+Sporophila atrirostris_Black-billed Seed-Finch,0.25334516,356.0,359.0
+Icterus spurius_Orchard Oriole,0.16530886,356.0,359.0
+Saltatricula atricollis_Black-throated Saltator,0.14555602,356.0,359.0
+Thryothorus ludovicianus_Carolina Wren,0.30151692,359.0,362.0
+Thryothorus ludovicianus_Carolina Wren,0.57820904,360.0,363.0
+Thryothorus ludovicianus_Carolina Wren,0.6729904,361.0,364.0
+Calliope calliope_Siberian Rubythroat,0.104212925,362.0,365.0
+Thryothorus ludovicianus_Carolina Wren,0.21173233,363.0,366.0
+Saltatricula atricollis_Black-throated Saltator,0.14179532,363.0,366.0
+Thryothorus ludovicianus_Carolina Wren,0.86989087,364.0,367.0
+Thryothorus ludovicianus_Carolina Wren,0.9246181,365.0,368.0
+Thryothorus ludovicianus_Carolina Wren,0.15518257,366.0,369.0
+Thryothorus ludovicianus_Carolina Wren,0.6744753,367.0,370.0
+Thryothorus ludovicianus_Carolina Wren,0.12506768,368.0,371.0
+Sporophila nuttingi_Nicaraguan Seed-Finch,0.29770857,369.0,372.0
+Saltatricula atricollis_Black-throated Saltator,0.14776157,369.0,372.0
+Saltator orenocensis_Orinocan Saltator,0.14476833,371.0,374.0
+Thryothorus ludovicianus_Carolina Wren,0.11892684,373.0,376.0
+Mimus polyglottos_Northern Mockingbird,0.13421822,374.0,377.0
+Dolichonyx oryzivorus_Bobolink,0.42206445,379.0,382.0
+Paroaria coronata_Red-crested Cardinal,0.14032575,380.0,383.0
+Thryothorus ludovicianus_Carolina Wren,0.8528258,381.0,384.0
+Thryothorus ludovicianus_Carolina Wren,0.3785201,382.0,385.0
+Thryothorus ludovicianus_Carolina Wren,0.48909664,389.0,392.0
+Mimus polyglottos_Northern Mockingbird,0.20168425,389.0,392.0
+Mimus polyglottos_Northern Mockingbird,0.26299125,390.0,393.0
+Corthylio calendula_Ruby-crowned Kinglet,0.26417246,391.0,394.0
+Mimus polyglottos_Northern Mockingbird,0.18647975,391.0,394.0
+Mimus polyglottos_Northern Mockingbird,0.1240487,392.0,395.0
+Thryothorus ludovicianus_Carolina Wren,0.120306,396.0,399.0
+Sylvia atricapilla_Eurasian Blackcap,0.13010396,398.0,401.0
+Sylvia atricapilla_Eurasian Blackcap,0.35363296,399.0,402.0
+Saltatricula atricollis_Black-throated Saltator,0.5905064,404.0,407.0
+Saltatricula atricollis_Black-throated Saltator,0.2665619,405.0,408.0
+Thryothorus ludovicianus_Carolina Wren,0.19932345,405.0,408.0
+Thryothorus ludovicianus_Carolina Wren,0.11324581,407.0,410.0
+Thryothorus ludovicianus_Carolina Wren,0.16533144,408.0,411.0
+Thryothorus ludovicianus_Carolina Wren,0.18746655,409.0,412.0
+Saltatricula atricollis_Black-throated Saltator,0.15302198,410.0,413.0
+Saltatricula atricollis_Black-throated Saltator,0.16122001,411.0,414.0
+Thryothorus ludovicianus_Carolina Wren,0.127662,412.0,415.0
+Thryothorus ludovicianus_Carolina Wren,0.2527426,413.0,416.0
+Saltatricula atricollis_Black-throated Saltator,0.10722864,413.0,416.0
+Thryothorus ludovicianus_Carolina Wren,0.79572606,414.0,417.0
+Saxicola rubetra_Whinchat,0.14574324,416.0,419.0
+Thryothorus ludovicianus_Carolina Wren,0.13703626,419.0,422.0
+Thryothorus ludovicianus_Carolina Wren,0.683522,427.0,430.0
+Corthylio calendula_Ruby-crowned Kinglet,0.14699273,428.0,431.0
+Thryothorus ludovicianus_Carolina Wren,0.12424004,430.0,433.0
+Thryothorus ludovicianus_Carolina Wren,0.2622641,431.0,434.0
+Thryothorus ludovicianus_Carolina Wren,0.960704,432.0,435.0
+Thryothorus ludovicianus_Carolina Wren,0.83751285,433.0,436.0
+Thryothorus ludovicianus_Carolina Wren,0.7411713,434.0,437.0
+Thryothorus ludovicianus_Carolina Wren,0.46385834,435.0,438.0
+Thryothorus ludovicianus_Carolina Wren,0.29066315,436.0,439.0
+Laticilla cinerascens_Swamp Grass Babbler,0.14249732,436.0,439.0
+Icterus spurius_Orchard Oriole,0.13275723,436.0,439.0
+Thryothorus ludovicianus_Carolina Wren,0.16210356,437.0,440.0
+Laticilla cinerascens_Swamp Grass Babbler,0.12333936,437.0,440.0
+Melocichla mentalis_Moustached Grass-Warbler,0.115719676,437.0,440.0
+Mimus polyglottos_Northern Mockingbird,0.11504943,438.0,441.0
+Mimus polyglottos_Northern Mockingbird,0.81290805,439.0,442.0
+Toxostoma crissale_Crissal Thrasher,0.30168208,439.0,442.0
+Melocichla mentalis_Moustached Grass-Warbler,0.10001489,439.0,442.0
+Mimus polyglottos_Northern Mockingbird,0.29239932,440.0,443.0
+Limnodromus griseus_Short-billed Dowitcher,0.10605907,441.0,444.0
+Thryothorus ludovicianus_Carolina Wren,0.82941085,446.0,449.0
+Thryothorus ludovicianus_Carolina Wren,0.6120396,447.0,450.0
+Thryothorus ludovicianus_Carolina Wren,0.38733825,448.0,451.0
+Peucaea aestivalis_Bachman's Sparrow,0.66354096,449.0,452.0
+Pachysylvia aurantiifrons_Golden-fronted Greenlet,0.2128474,450.0,453.0
+Thryothorus ludovicianus_Carolina Wren,0.67058414,451.0,454.0
+Thryothorus ludovicianus_Carolina Wren,0.8551162,452.0,455.0
+Thryothorus ludovicianus_Carolina Wren,0.60771257,453.0,456.0
+Thryothorus ludovicianus_Carolina Wren,0.81779647,458.0,461.0
+Thryothorus ludovicianus_Carolina Wren,0.33287483,459.0,462.0
+Thryothorus ludovicianus_Carolina Wren,0.8969822,460.0,463.0
+Calliope calliope_Siberian Rubythroat,0.10984138,462.0,465.0
+Sylvia atricapilla_Eurasian Blackcap,0.42709932,463.0,466.0
+Icterus spurius_Orchard Oriole,0.42450055,464.0,467.0
+Laticilla cinerascens_Swamp Grass Babbler,0.108567394,464.0,467.0
+Icterus spurius_Orchard Oriole,0.5269915,465.0,468.0
+Thryothorus ludovicianus_Carolina Wren,0.23526952,466.0,469.0
+Icterus spurius_Orchard Oriole,0.17527215,466.0,469.0
+Thryothorus ludovicianus_Carolina Wren,0.40112704,467.0,470.0
+Thryothorus ludovicianus_Carolina Wren,0.14298612,468.0,471.0
+Corthylio calendula_Ruby-crowned Kinglet,0.32573852,471.0,474.0
+Toxostoma rufum_Brown Thrasher,0.13367495,472.0,475.0
+Myiornis auricularis_Eared Pygmy-Tyrant,0.43510953,475.0,478.0
+Cyanocitta cristata_Blue Jay,0.17927451,476.0,479.0
+Cyanocitta cristata_Blue Jay,0.18272962,478.0,481.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11731933,478.0,481.0
+Pycnonotus aurigaster_Sooty-headed Bulbul,0.20179026,481.0,484.0
+Pycnonotus aurigaster_Sooty-headed Bulbul,0.4328271,482.0,485.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.21562776,482.0,485.0
+Pycnonotus aurigaster_Sooty-headed Bulbul,0.11980057,483.0,486.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.10438012,483.0,486.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.12972382,484.0,487.0
+Sitta carolinensis_White-breasted Nuthatch,0.9700089,487.0,490.0
+Sitta carolinensis_White-breasted Nuthatch,0.23506129,488.0,491.0
+Thryothorus ludovicianus_Carolina Wren,0.20420489,491.0,494.0
+Toxostoma rufum_Brown Thrasher,0.42596388,495.0,498.0
+Mimus polyglottos_Northern Mockingbird,0.18721682,495.0,498.0
+Loxioides bailleui_Palila,0.10273961,497.0,500.0
+Thryothorus ludovicianus_Carolina Wren,0.20844819,499.0,502.0
+Thryothorus ludovicianus_Carolina Wren,0.6983384,500.0,503.0
+Mimus polyglottos_Northern Mockingbird,0.14925408,500.0,503.0
+Thryothorus ludovicianus_Carolina Wren,0.9638134,501.0,504.0
+Baeolophus inornatus_Oak Titmouse,0.11723402,501.0,504.0
+Thryothorus ludovicianus_Carolina Wren,0.9877367,502.0,505.0
+Baeolophus inornatus_Oak Titmouse,0.11423148,502.0,505.0
+Thryothorus ludovicianus_Carolina Wren,0.9690608,503.0,506.0
+Thryothorus ludovicianus_Carolina Wren,0.7327977,504.0,507.0
+Thryothorus ludovicianus_Carolina Wren,0.2891718,506.0,509.0
+Troglodytes aedon_House Wren,0.21912357,506.0,509.0
+Thryothorus ludovicianus_Carolina Wren,0.38819233,507.0,510.0
+Thryothorus ludovicianus_Carolina Wren,0.60315853,508.0,511.0
+Thryothorus ludovicianus_Carolina Wren,0.13863946,509.0,512.0
+Mimus polyglottos_Northern Mockingbird,0.6406832,510.0,513.0
+Mimus polyglottos_Northern Mockingbird,0.2427868,511.0,514.0
+Thryothorus ludovicianus_Carolina Wren,0.1488376,511.0,514.0
+Thryothorus ludovicianus_Carolina Wren,0.92904586,512.0,515.0
+Thryothorus ludovicianus_Carolina Wren,0.9953041,513.0,516.0
+Thryothorus ludovicianus_Carolina Wren,0.97534865,514.0,517.0
+Thryothorus ludovicianus_Carolina Wren,0.8684662,515.0,518.0
+Thryothorus ludovicianus_Carolina Wren,0.9673689,516.0,519.0
+Thryothorus ludovicianus_Carolina Wren,0.99446386,517.0,520.0
+Thryothorus ludovicianus_Carolina Wren,0.9984596,518.0,521.0
+Thryothorus ludovicianus_Carolina Wren,0.98853683,519.0,522.0
+Thryothorus ludovicianus_Carolina Wren,0.9936719,520.0,523.0
+Thryothorus ludovicianus_Carolina Wren,0.98445755,521.0,524.0
+Thryothorus ludovicianus_Carolina Wren,0.95960283,522.0,525.0
+Thryothorus ludovicianus_Carolina Wren,0.87304807,523.0,526.0
+Thryothorus ludovicianus_Carolina Wren,0.20810956,524.0,527.0
+Cisticola chiniana_Rattling Cisticola,0.19057807,524.0,527.0
+Thryothorus ludovicianus_Carolina Wren,0.48297137,525.0,528.0
+Thryothorus ludovicianus_Carolina Wren,0.61917704,526.0,529.0
+Thryothorus ludovicianus_Carolina Wren,0.7410481,527.0,530.0
+Thryothorus ludovicianus_Carolina Wren,0.99352264,528.0,531.0
+Thryothorus ludovicianus_Carolina Wren,0.98241246,529.0,532.0
+Thryothorus ludovicianus_Carolina Wren,0.8083012,530.0,533.0
+Thryothorus ludovicianus_Carolina Wren,0.43776202,531.0,534.0
+Thryothorus ludovicianus_Carolina Wren,0.44307235,532.0,535.0
+Thryothorus ludovicianus_Carolina Wren,0.902095,533.0,536.0
+Thryothorus ludovicianus_Carolina Wren,0.9819296,534.0,537.0
+Thryothorus ludovicianus_Carolina Wren,0.94365513,535.0,538.0
+Thryothorus ludovicianus_Carolina Wren,0.98167646,536.0,539.0
+Thryothorus ludovicianus_Carolina Wren,0.9648394,537.0,540.0
+Thryothorus ludovicianus_Carolina Wren,0.98825306,538.0,541.0
+Thryothorus ludovicianus_Carolina Wren,0.9399366,539.0,542.0
+Thryothorus ludovicianus_Carolina Wren,0.9471791,540.0,543.0
+Mimus polyglottos_Northern Mockingbird,0.15851732,540.0,543.0
+Mimus polyglottos_Northern Mockingbird,0.2305239,541.0,544.0
+Toxostoma rufum_Brown Thrasher,0.164414,541.0,544.0
+Dumetella carolinensis_Gray Catbird,0.4004514,542.0,545.0
+Thryothorus ludovicianus_Carolina Wren,0.18254101,542.0,545.0
+Thryothorus ludovicianus_Carolina Wren,0.6510099,543.0,546.0
+Dumetella carolinensis_Gray Catbird,0.20858683,543.0,546.0
+Thryothorus ludovicianus_Carolina Wren,0.6940123,544.0,547.0
+Thryothorus ludovicianus_Carolina Wren,0.96697146,545.0,548.0
+Thryothorus ludovicianus_Carolina Wren,0.5950323,546.0,549.0
+Dumetella carolinensis_Gray Catbird,0.13977015,546.0,549.0
+Thryothorus ludovicianus_Carolina Wren,0.4262686,547.0,550.0
+Thryothorus ludovicianus_Carolina Wren,0.3964845,548.0,551.0
+Thryothorus ludovicianus_Carolina Wren,0.41924292,549.0,552.0
+Thryothorus ludovicianus_Carolina Wren,0.41730714,550.0,553.0
+Thryothorus ludovicianus_Carolina Wren,0.84410906,551.0,554.0
+Thryothorus ludovicianus_Carolina Wren,0.79789805,552.0,555.0
+Thryothorus ludovicianus_Carolina Wren,0.6469386,553.0,556.0
+Thryothorus ludovicianus_Carolina Wren,0.120913774,554.0,557.0
+Geothlypis formosa_Kentucky Warbler,0.15628311,556.0,559.0
+Vireo griseus_White-eyed Vireo,0.110493,556.0,559.0
+Thryothorus ludovicianus_Carolina Wren,0.10647487,556.0,559.0
+Thryothorus ludovicianus_Carolina Wren,0.63644165,557.0,560.0
+Thryothorus ludovicianus_Carolina Wren,0.7560403,558.0,561.0
+Thryothorus ludovicianus_Carolina Wren,0.949491,559.0,562.0
+Thryothorus ludovicianus_Carolina Wren,0.90348697,560.0,563.0
+Thryothorus ludovicianus_Carolina Wren,0.78033775,561.0,564.0
+Thryothorus ludovicianus_Carolina Wren,0.483262,562.0,565.0
+Thryothorus ludovicianus_Carolina Wren,0.6022148,563.0,566.0
+Mimus polyglottos_Northern Mockingbird,0.104717836,563.0,566.0
+Thryothorus ludovicianus_Carolina Wren,0.14798643,564.0,567.0
+Corthylio calendula_Ruby-crowned Kinglet,0.112003826,564.0,567.0
+Thryothorus ludovicianus_Carolina Wren,0.6227132,565.0,568.0
+Thryothorus ludovicianus_Carolina Wren,0.8576925,566.0,569.0
+Thryothorus ludovicianus_Carolina Wren,0.48477373,568.0,571.0
+Thryothorus ludovicianus_Carolina Wren,0.40465415,569.0,572.0
+Mimus polyglottos_Northern Mockingbird,0.27956393,569.0,572.0
+Mimus polyglottos_Northern Mockingbird,0.19062462,570.0,573.0
+Thryothorus ludovicianus_Carolina Wren,0.2507012,571.0,574.0
+Mimus polyglottos_Northern Mockingbird,0.14976037,571.0,574.0
+Toxostoma rufum_Brown Thrasher,0.12171775,571.0,574.0
+Thryothorus ludovicianus_Carolina Wren,0.94122845,572.0,575.0
+Thryothorus ludovicianus_Carolina Wren,0.7494863,573.0,576.0
+Toxostoma rufum_Brown Thrasher,0.39879578,573.0,576.0
+Dumetella carolinensis_Gray Catbird,0.17142962,573.0,576.0
+Mimus polyglottos_Northern Mockingbird,0.10951574,573.0,576.0
+Mimus polyglottos_Northern Mockingbird,0.33162853,574.0,577.0
+Thryothorus ludovicianus_Carolina Wren,0.15468128,574.0,577.0
+Toxostoma rufum_Brown Thrasher,0.1314173,574.0,577.0
+Toxostoma rufum_Brown Thrasher,0.4975138,575.0,578.0
+Mimus polyglottos_Northern Mockingbird,0.1713727,575.0,578.0
+Thryothorus ludovicianus_Carolina Wren,0.17054339,576.0,579.0
+Thryothorus ludovicianus_Carolina Wren,0.7153203,577.0,580.0
+Sialia sialis_Eastern Bluebird,0.5518258,578.0,581.0
+Thryothorus ludovicianus_Carolina Wren,0.31896904,578.0,581.0
+Thryothorus ludovicianus_Carolina Wren,0.9129926,579.0,582.0
+Thryothorus ludovicianus_Carolina Wren,0.988279,580.0,583.0
+Thryothorus ludovicianus_Carolina Wren,0.9707182,581.0,584.0
+Orthotomus atrogularis_Dark-necked Tailorbird,0.13851523,581.0,584.0
+Thryothorus ludovicianus_Carolina Wren,0.9459287,582.0,585.0
+Thryothorus ludovicianus_Carolina Wren,0.9916163,583.0,586.0
+Orthotomus atrogularis_Dark-necked Tailorbird,0.22562045,583.0,586.0
+Thryothorus ludovicianus_Carolina Wren,0.9914119,584.0,587.0
+Thryothorus ludovicianus_Carolina Wren,0.9541363,585.0,588.0
+Thryothorus ludovicianus_Carolina Wren,0.81382054,586.0,589.0
+Thryothorus ludovicianus_Carolina Wren,0.8503972,587.0,590.0
+Thryothorus ludovicianus_Carolina Wren,0.94816434,588.0,591.0
+Thryothorus ludovicianus_Carolina Wren,0.9113956,589.0,592.0
+Thryothorus ludovicianus_Carolina Wren,0.86583966,590.0,593.0
+Thryothorus ludovicianus_Carolina Wren,0.47266123,591.0,594.0
+Thryothorus ludovicianus_Carolina Wren,0.28535354,592.0,595.0
+Thryothorus ludovicianus_Carolina Wren,0.20690306,593.0,596.0
+Thryothorus ludovicianus_Carolina Wren,0.16305082,594.0,597.0
+Thryothorus ludovicianus_Carolina Wren,0.4287995,595.0,598.0
+Thryothorus ludovicianus_Carolina Wren,0.8883138,596.0,599.0
+Thryothorus ludovicianus_Carolina Wren,0.70687354,597.0,600.0
+Thryothorus ludovicianus_Carolina Wren,0.9672436,598.0,601.0
+Thryothorus ludovicianus_Carolina Wren,0.97423506,599.0,602.0
+Thryothorus ludovicianus_Carolina Wren,0.9184658,600.0,603.0
+Thryothorus ludovicianus_Carolina Wren,0.1937447,601.0,604.0
+Phylloscartes ventralis_Mottle-cheeked Tyrannulet,0.59097236,602.0,605.0
+Zosterops chloronothos_Mauritius White-eye,0.21474728,602.0,605.0
+Phylloscartes ventralis_Mottle-cheeked Tyrannulet,0.67471474,603.0,606.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.30895162,607.0,610.0
+Neonemobius cubensis_Cuban Ground Cricket,0.10115615,607.0,610.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.17510673,610.0,613.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.2413775,611.0,614.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.30992413,612.0,615.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.19822851,612.0,615.0
+Allonemobius allardi_Allard's Ground Cricket,0.12237022,612.0,615.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.19490992,613.0,616.0
+Allonemobius allardi_Allard's Ground Cricket,0.15559775,616.0,619.0
+Lonchura punctulata_Scaly-breasted Munia,0.11918166,628.0,631.0
+Myrmoborus lugubris_Ash-breasted Antbird,0.12608644,630.0,633.0
+Pheugopedius rutilus_Rufous-breasted Wren,0.16671222,638.0,641.0
+Allonemobius allardi_Allard's Ground Cricket,0.29266408,640.0,643.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.27578253,640.0,643.0
+Neonemobius cubensis_Cuban Ground Cricket,0.16479933,640.0,643.0
+Euchrepomis spodioptila_Ash-winged Antwren,0.10322801,641.0,644.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.24422696,642.0,645.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.11675737,643.0,646.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.21975875,644.0,647.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.112557836,645.0,648.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.26617223,648.0,651.0
+Allonemobius allardi_Allard's Ground Cricket,0.19762713,648.0,651.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.3766516,649.0,652.0
+Allonemobius allardi_Allard's Ground Cricket,0.111821696,649.0,652.0
+Allonemobius allardi_Allard's Ground Cricket,0.2397707,650.0,653.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.17026934,650.0,653.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.38141167,651.0,654.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.21554357,652.0,655.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.1705545,660.0,663.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.4390718,662.0,665.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.110468574,663.0,666.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.5622207,664.0,667.0
+Allonemobius allardi_Allard's Ground Cricket,0.10552205,664.0,667.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.6067357,665.0,668.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.2591577,666.0,669.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.31906822,667.0,670.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.34574404,677.0,680.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.18749687,678.0,681.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.22095206,681.0,684.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.27573243,682.0,685.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.22968177,683.0,686.0
+Allonemobius allardi_Allard's Ground Cricket,0.1087397,685.0,688.0
+Anaxipha exigua_Say's Trig,0.10298989,685.0,688.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.22480646,687.0,690.0
+Contopus virens_Eastern Wood-Pewee,0.20579737,687.0,690.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.33959627,688.0,691.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.66050273,689.0,692.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.246072,690.0,693.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.39480597,691.0,694.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.47564703,692.0,695.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.5002738,693.0,696.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.60743743,697.0,700.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.8548071,698.0,701.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.919415,699.0,702.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.11975536,699.0,702.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.11102503,699.0,702.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.9301598,700.0,703.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.35568768,700.0,703.0
+Allonemobius allardi_Allard's Ground Cricket,0.14337781,700.0,703.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.8916292,701.0,704.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.63997257,701.0,704.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.338231,702.0,705.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.33112228,702.0,705.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.37083355,705.0,708.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.12763813,705.0,708.0
+Contopus virens_Eastern Wood-Pewee,0.45147103,706.0,709.0
+Contopus virens_Eastern Wood-Pewee,0.5064112,707.0,710.0
+Contopus virens_Eastern Wood-Pewee,0.5349037,708.0,711.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.1452394,710.0,713.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.20420553,711.0,714.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.16844553,718.0,721.0
+Thryothorus ludovicianus_Carolina Wren,0.14019647,727.0,730.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10199387,727.0,730.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.28017887,729.0,731.9760090702948

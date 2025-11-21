@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Corvus brachyrhynchos_American Crow,0.9576429,0.0,3.0
+Corvus ossifragus_Fish Crow,0.11648851,0.0,3.0
+Corvus brachyrhynchos_American Crow,0.78669703,1.0,4.0
+Corvus ossifragus_Fish Crow,0.17721692,1.0,4.0
+Corvus brachyrhynchos_American Crow,0.65702826,2.0,5.0
+Corvus ossifragus_Fish Crow,0.18849768,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.8443607,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.79774237,4.0,7.0
+Corvus brachyrhynchos_American Crow,0.5906481,5.0,8.0
+Corvus brachyrhynchos_American Crow,0.15363695,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.5009146,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.81203395,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.90617156,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.8729295,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.86396664,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.5291722,15.0,18.0
+Corvus brachyrhynchos_American Crow,0.18674016,16.0,19.0
+Corvus frugilegus_Rook,0.15047742,16.0,19.0
+Corvus brachyrhynchos_American Crow,0.1921777,17.0,20.0
+Corvus macrorhynchos_Large-billed Crow,0.11566101,17.0,20.0
+Corvus frugilegus_Rook,0.19517878,18.0,21.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10277667,19.0,22.0
+Corvus brachyrhynchos_American Crow,0.23412707,21.0,24.0
+Corvus brachyrhynchos_American Crow,0.48195267,22.0,25.0
+Corvus brachyrhynchos_American Crow,0.6872902,23.0,26.0
+Corvus brachyrhynchos_American Crow,0.7820996,24.0,27.0
+Corvus brachyrhynchos_American Crow,0.8813945,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.73354644,26.0,29.0
+Corvus brachyrhynchos_American Crow,0.53526646,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12426133,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.11143022,32.0,35.0
+Corvus brachyrhynchos_American Crow,0.36092463,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.7169619,35.0,38.0
+Corvus brachyrhynchos_American Crow,0.76013637,36.0,39.0
+Corvus brachyrhynchos_American Crow,0.8469261,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.81153214,38.0,41.0
+Corvus brachyrhynchos_American Crow,0.8965416,39.0,42.0
+Corvus brachyrhynchos_American Crow,0.88055277,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.76455724,41.0,44.0
+Corvus ossifragus_Fish Crow,0.13417092,41.0,44.0
+Corvus brachyrhynchos_American Crow,0.20859037,42.0,45.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.42964214,44.0,47.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.60704005,45.0,48.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.86855567,46.0,49.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.18690197,47.0,50.0
+Corvus brachyrhynchos_American Crow,0.10013026,49.0,52.0
+Eudocimus albus_White Ibis,0.25095636,50.0,53.0
+Corvus brachyrhynchos_American Crow,0.20296028,51.0,54.0
+Botaurus stellaris_Great Bittern,0.11572907,55.0,58.0
+Columba livia_Rock Pigeon,0.15687072,58.0,61.0
+Tamias striatus_Eastern Chipmunk,0.13533258,58.0,61.0
+Coragyps atratus_Black Vulture,0.16846801,59.0,62.0
+Eudocimus albus_White Ibis,0.15555282,59.0,62.0
+Corvus brachyrhynchos_American Crow,0.14073497,60.0,63.0
+Eudocimus albus_White Ibis,0.13887471,60.0,63.0
+Corvus brachyrhynchos_American Crow,0.14619653,61.0,64.0
+Eudocimus albus_White Ibis,0.1071678,61.0,64.0
+Corvus brachyrhynchos_American Crow,0.24788979,62.0,65.0
+Corvus brachyrhynchos_American Crow,0.2574359,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12055749,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14036438,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12925896,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19118544,79.0,82.0
+Columba livia_Rock Pigeon,0.10923523,82.0,85.0
+Bucephala albeola_Bufflehead,0.10912828,83.0,86.0
+Corvus brachyrhynchos_American Crow,0.16509406,85.0,88.0
+Corvus brachyrhynchos_American Crow,0.33550128,86.0,89.0
+Corvus brachyrhynchos_American Crow,0.12084832,96.0,99.0
+Corvus brachyrhynchos_American Crow,0.49356064,107.0,110.0
+Corvus brachyrhynchos_American Crow,0.5227508,108.0,111.0
+Corvus brachyrhynchos_American Crow,0.5036133,109.0,112.0
+Corvus brachyrhynchos_American Crow,0.39542142,110.0,112.2

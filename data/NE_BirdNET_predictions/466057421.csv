@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.6048708,0.0,3.0
+Catharus fuscescens_Veery,0.1662758,1.0,4.0
+Catharus fuscescens_Veery,0.1694693,2.0,5.0
+Sialia sialis_Eastern Bluebird,0.1638138,3.0,6.0
+Piranga rubra_Summer Tanager,0.4184563,6.0,9.0
+Icterus galbula_Baltimore Oriole,0.13882643,6.0,9.0
+Piranga rubra_Summer Tanager,0.111887015,15.0,18.0
+Turdus migratorius_American Robin,0.42531303,17.0,20.0
+Turdus migratorius_American Robin,0.20888035,18.0,21.0
+Turdus migratorius_American Robin,0.19287361,19.0,22.0
+Piranga rubra_Summer Tanager,0.21683513,20.0,23.0
+Turdus migratorius_American Robin,0.1760015,20.0,23.0
+Saltator maximus_Buff-throated Saltator,0.13034587,24.0,27.0
+Piranga rubra_Summer Tanager,0.24717776,25.0,28.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1952002,25.0,28.0
+Turdus migratorius_American Robin,0.23496264,26.0,29.0
+Turdus migratorius_American Robin,0.18449093,27.0,30.0
+Catharus fuscescens_Veery,0.7419468,29.0,32.0
+Catharus fuscescens_Veery,0.4827928,30.0,33.0
+Icterus galbula_Baltimore Oriole,0.14931887,34.0,37.0
+Piranga rubra_Summer Tanager,0.1283524,34.0,37.0
+Turdus migratorius_American Robin,0.12416545,34.0,37.0
+Turdus migratorius_American Robin,0.56088066,35.0,38.0
+Turdus migratorius_American Robin,0.42457867,36.0,39.0
+Turdus migratorius_American Robin,0.3842722,37.0,40.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.17188855,39.0,42.0
+Turdus migratorius_American Robin,0.16167995,39.0,42.0
+Turdus migratorius_American Robin,0.14075895,40.0,43.0
+Turdus migratorius_American Robin,0.44279766,41.0,44.0
+Turdus migratorius_American Robin,0.7545878,42.0,45.0
+Turdus migratorius_American Robin,0.59127766,43.0,46.0
+Turdus chrysolaus_Brown-headed Thrush,0.49403986,44.0,47.0
+Turdus migratorius_American Robin,0.32088158,44.0,47.0
+Turdus pallidus_Pale Thrush,0.21748097,44.0,47.0
+Turdus migratorius_American Robin,0.31790373,45.0,48.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18657467,45.0,48.0
+Turdus migratorius_American Robin,0.41323623,46.0,49.0
+Turdus migratorius_American Robin,0.28995603,47.0,50.0
+Piranga rubra_Summer Tanager,0.1300833,48.0,51.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.123834774,50.0,53.0
+Turdus migratorius_American Robin,0.67989993,51.0,54.0
+Turdus migratorius_American Robin,0.74716896,52.0,55.0
+Turdus migratorius_American Robin,0.32209384,53.0,56.0
+Piranga rubra_Summer Tanager,0.5175535,54.0,57.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14193505,54.0,57.0
+Turdus migratorius_American Robin,0.102056876,54.0,57.0
+Turdus migratorius_American Robin,0.5527608,55.0,58.0
+Turdus migratorius_American Robin,0.53062314,56.0,59.0
+Turdus migratorius_American Robin,0.43937463,57.0,60.0
+Catharus fuscescens_Veery,0.16805594,58.0,61.0
+Turdus migratorius_American Robin,0.14761911,60.0,63.0
+Turdus migratorius_American Robin,0.4675185,61.0,64.0
+Turdus migratorius_American Robin,0.42999974,62.0,65.0
+Piranga rubra_Summer Tanager,0.1702232,63.0,66.0
+Turdus migratorius_American Robin,0.45452175,66.0,69.0
+Turdus migratorius_American Robin,0.5421301,67.0,70.0
+Turdus migratorius_American Robin,0.62633824,68.0,71.0
+Piranga rubra_Summer Tanager,0.3769976,69.0,72.0
+Turdus migratorius_American Robin,0.29440016,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103185005,70.0,73.0
+Empidonax virescens_Acadian Flycatcher,0.13111661,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10420718,71.0,74.0
+Catharus fuscescens_Veery,0.10953221,73.0,76.0

@@ -1,0 +1,124 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.22752482,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.13436177,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.11574873,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.67673725,1.0,4.0
+Setophaga coronata_Yellow-rumped Warbler,0.26889864,1.0,4.0
+Setophaga occidentalis_Hermit Warbler,0.13716023,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.83854204,2.0,5.0
+Setophaga occidentalis_Hermit Warbler,0.22671908,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.97900826,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.91910845,4.0,7.0
+Cardellina canadensis_Canada Warbler,0.34066448,4.0,7.0
+Sericornis humilis_Tasmanian Scrubwren,0.6896197,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.26239237,5.0,8.0
+Sericornis humilis_Tasmanian Scrubwren,0.1853851,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.118596174,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.14295696,7.0,10.0
+Poecile rufescens_Chestnut-backed Chickadee,0.13767563,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.13494176,7.0,10.0
+Setophaga townsendi_Townsend's Warbler,0.10799967,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.1012276,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.29533818,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.20666502,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.9572308,9.0,12.0
+Troglodytes pacificus_Pacific Wren,0.11817865,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.9941731,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.9949386,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.53548795,12.0,15.0
+Cardellina canadensis_Canada Warbler,0.23271774,12.0,15.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16726431,12.0,15.0
+Leiothlypis ruficapilla_Nashville Warbler,0.10900708,12.0,15.0
+Sericornis humilis_Tasmanian Scrubwren,0.19460231,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.2115052,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.13036397,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.12595849,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.8326496,16.0,19.0
+Setophaga occidentalis_Hermit Warbler,0.10061776,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.9900523,17.0,20.0
+Setophaga magnolia_Magnolia Warbler,0.97544575,18.0,21.0
+Setophaga magnolia_Magnolia Warbler,0.7146122,19.0,22.0
+Cardellina canadensis_Canada Warbler,0.21399476,19.0,22.0
+Phylloscopus trivirgatus_Mountain Leaf Warbler,0.14958464,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.1495395,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.14648575,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.17522144,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.14539379,21.0,24.0
+Sericornis humilis_Tasmanian Scrubwren,0.104161985,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.23405038,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.2324913,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.1932254,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.19552663,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.19097543,23.0,26.0
+Poecile rufescens_Chestnut-backed Chickadee,0.1458259,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.10859816,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.20766826,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.12944162,24.0,27.0
+Poecile rufescens_Chestnut-backed Chickadee,0.108578816,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.12521814,25.0,28.0
+Poecile rufescens_Chestnut-backed Chickadee,0.12476122,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.734706,26.0,29.0
+Setophaga ruticilla_American Redstart,0.19787064,26.0,29.0
+Setophaga magnolia_Magnolia Warbler,0.9905813,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.95340085,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.29487124,29.0,32.0
+Setophaga townsendi_Townsend's Warbler,0.25002542,30.0,33.0
+Poecile rufescens_Chestnut-backed Chickadee,0.120229825,30.0,33.0
+Sericornis humilis_Tasmanian Scrubwren,0.18539976,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.12588573,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.28532827,32.0,35.0
+Setophaga magnolia_Magnolia Warbler,0.1908858,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.15314135,33.0,36.0
+Setophaga magnolia_Magnolia Warbler,0.24710931,34.0,37.0
+Setophaga dominica_Yellow-throated Warbler,0.128259,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.81448364,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.91050655,36.0,39.0
+Anthus hodgsoni_Olive-backed Pipit,0.50205576,37.0,40.0
+Setophaga magnolia_Magnolia Warbler,0.24064785,37.0,40.0
+Parus minor_Japanese Tit,0.10686221,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.2698579,38.0,41.0
+Poecile rufescens_Chestnut-backed Chickadee,0.11145346,38.0,41.0
+Poecile rufescens_Chestnut-backed Chickadee,0.5817235,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.16714019,39.0,42.0
+Setophaga townsendi_Townsend's Warbler,0.11666294,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.37612647,40.0,43.0
+Setophaga magnolia_Magnolia Warbler,0.21605307,40.0,43.0
+Poecile rufescens_Chestnut-backed Chickadee,0.17962301,40.0,43.0
+Setophaga magnolia_Magnolia Warbler,0.2858353,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.2388719,41.0,44.0
+Setophaga magnolia_Magnolia Warbler,0.15403318,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.1399957,42.0,45.0
+Setophaga magnolia_Magnolia Warbler,0.40172547,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.3840162,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.73019475,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.66699004,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.11010757,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.798051,45.0,48.0
+Setophaga magnolia_Magnolia Warbler,0.9943698,46.0,49.0
+Setophaga magnolia_Magnolia Warbler,0.98259294,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.6433457,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.5748195,49.0,52.0
+Setophaga magnolia_Magnolia Warbler,0.3615882,49.0,52.0
+Poecile rufescens_Chestnut-backed Chickadee,0.35600805,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.14456369,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.19314909,50.0,53.0
+Poecile rufescens_Chestnut-backed Chickadee,0.14944544,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.53119826,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.2766045,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.39412248,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.18684256,52.0,55.0
+Poecile rufescens_Chestnut-backed Chickadee,0.16707675,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.72638625,53.0,56.0
+Setophaga magnolia_Magnolia Warbler,0.71235853,54.0,57.0
+Setophaga ruticilla_American Redstart,0.32121617,54.0,57.0
+Setophaga magnolia_Magnolia Warbler,0.84718573,55.0,58.0
+Setophaga ruticilla_American Redstart,0.23323716,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.603514,57.0,60.0
+Setophaga magnolia_Magnolia Warbler,0.41567668,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.17244737,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.6824771,58.0,61.0
+Setophaga magnolia_Magnolia Warbler,0.6630784,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.20260467,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.5436771,59.0,61.39201814058957
+Setophaga magnolia_Magnolia Warbler,0.35479563,59.0,61.39201814058957
+Setophaga virens_Black-throated Green Warbler,0.13194184,59.0,61.39201814058957

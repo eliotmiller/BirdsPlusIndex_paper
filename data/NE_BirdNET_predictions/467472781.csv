@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.20549503,0.0,3.0
+Geothlypis philadelphia_Mourning Warbler,0.12377212,0.0,3.0
+Spizelloides arborea_American Tree Sparrow,0.6151845,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.18122931,7.0,10.0
+Cantorchilus modestus_Cabanis's Wren,0.116775006,7.0,10.0
+Passerina cyanea_Indigo Bunting,0.3005876,8.0,11.0
+Spizelloides arborea_American Tree Sparrow,0.3375723,9.0,12.0
+Passerina cyanea_Indigo Bunting,0.10828913,9.0,12.0
+Spizelloides arborea_American Tree Sparrow,0.53844094,10.0,13.0
+Spizelloides arborea_American Tree Sparrow,0.4781768,11.0,14.0
+Spizelloides arborea_American Tree Sparrow,0.6715502,12.0,15.0
+Spizelloides arborea_American Tree Sparrow,0.74760073,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.12341421,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.23486036,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.84843177,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.9178347,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.66425467,17.0,20.0
+Passerina cyanea_Indigo Bunting,0.1616798,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.44919053,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.13558222,31.0,34.0
+Passerina cyanea_Indigo Bunting,0.1725011,32.0,35.0
+Passerina cyanea_Indigo Bunting,0.21630546,33.0,36.0
+Passerina cyanea_Indigo Bunting,0.12200277,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.10179745,48.0,51.0
+Passerina cyanea_Indigo Bunting,0.1611278,49.0,52.0
+Passerina cyanea_Indigo Bunting,0.29604188,50.0,53.0
+Passerina cyanea_Indigo Bunting,0.21613938,51.0,54.0
+Passerina cyanea_Indigo Bunting,0.33237696,52.0,55.0
+Passerina cyanea_Indigo Bunting,0.16179305,61.0,64.0
+Passerina cyanea_Indigo Bunting,0.11318122,62.0,65.0
+Passerina cyanea_Indigo Bunting,0.26416123,63.0,66.0
+Geothlypis formosa_Kentucky Warbler,0.13860716,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.5433437,70.0,73.0
+Passerina cyanea_Indigo Bunting,0.6705217,71.0,74.0
+Passerina cyanea_Indigo Bunting,0.78363776,72.0,75.0
+Passerina cyanea_Indigo Bunting,0.80995655,73.0,76.0
+Passerina cyanea_Indigo Bunting,0.112897396,74.0,77.0
+Mniotilta varia_Black-and-white Warbler,0.41870654,75.0,78.0
+Setophaga ruticilla_American Redstart,0.37280872,75.0,78.0
+Piranga olivacea_Scarlet Tanager,0.19304228,76.0,79.0
+Empidonax virescens_Acadian Flycatcher,0.16878413,76.0,79.0
+Piranga olivacea_Scarlet Tanager,0.12093083,77.0,80.0
+Piranga olivacea_Scarlet Tanager,0.15175116,78.0,81.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.13895305,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.10122578,78.0,81.0
+Setophaga ruticilla_American Redstart,0.21985514,83.0,86.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.21907775,84.0,87.0
+Setophaga petechia_Yellow Warbler,0.12244833,84.0,87.0
+Passerina cyanea_Indigo Bunting,0.5334506,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.7134358,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.74020445,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.23881793,88.0,91.0
+Parkesia noveboracensis_Northern Waterthrush,0.11988724,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.18919352,93.0,96.0
+Passerina cyanea_Indigo Bunting,0.346482,95.0,98.0
+Passerina cyanea_Indigo Bunting,0.54776746,96.0,99.0
+Passerina cyanea_Indigo Bunting,0.715568,97.0,100.0
+Passerina cyanea_Indigo Bunting,0.765812,98.0,101.0
+Piranga olivacea_Scarlet Tanager,0.120474465,104.0,107.0
+Geothlypis formosa_Kentucky Warbler,0.10430548,105.0,107.35201814058956

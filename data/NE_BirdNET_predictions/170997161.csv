@@ -1,0 +1,23 @@
+species,score,start_time,end_time
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.998765,0.0,3.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.99570423,1.0,4.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.99499905,2.0,5.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9986003,3.0,6.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9987754,4.0,7.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9949699,5.0,8.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.99726546,6.0,9.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.995946,7.0,10.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9978727,8.0,11.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.99378854,9.0,12.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.9964277,10.0,13.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.99286544,11.0,14.0
+Strix aluco_Tawny Owl,0.22373392,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.3980974,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.26790416,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.17303145,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.40202096,15.0,18.0
+Vireo flavifrons_Yellow-throated Vireo,0.3425218,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.11844863,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.10825099,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.4161612,17.0,20.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13860106,18.0,20.928027210884355

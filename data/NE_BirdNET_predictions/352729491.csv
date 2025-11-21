@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.5342227,0.0,3.0
+Vireo flavifrons_Yellow-throated Vireo,0.34148592,0.0,3.0
+Alcippe poioicephala_Brown-cheeked Fulvetta,0.16005023,0.0,3.0
+Vireo flavoviridis_Yellow-green Vireo,0.21244064,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.11231279,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.1024362,2.0,5.0
+Vireo flavoviridis_Yellow-green Vireo,0.14340857,3.0,6.0
+Vireo flavoviridis_Yellow-green Vireo,0.12937272,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.13363555,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.29351082,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.1652222,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.15045144,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.3994366,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.4562698,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.10192969,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.99371815,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.98898673,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.9747927,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.31590438,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.13109846,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.28272417,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.13597521,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.47982875,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15577418,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.10766722,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.43184483,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.22011451,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13761823,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.11836813,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.5161327,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.29737127,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2565489,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.13046926,16.0,19.0
+Vireo flavifrons_Yellow-throated Vireo,0.123644054,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.1027368,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.33590552,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23970166,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.18136318,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.10768632,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.22915925,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.13074636,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10259761,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.38777184,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.3359944,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.48373264,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13817237,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.11911041,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.61410487,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.4201419,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.85103434,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.90388376,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.732303,25.0,28.0
+Limnothlypis swainsonii_Swainson's Warbler,0.28387135,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.23146117,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.49442557,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.26841214,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.42309153,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.23877971,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.29882613,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.2621413,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.11528207,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.5546104,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.49742696,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.85640234,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.10246418,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.72499746,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.43263724,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.20911337,34.0,37.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16613154,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.11823131,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.2364481,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.15935546,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.1416609,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11220412,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.44129434,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17424257,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.11716597,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.94210845,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.9315552,38.0,40.87201814058957

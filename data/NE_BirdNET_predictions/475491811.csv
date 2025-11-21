@@ -1,0 +1,60 @@
+species,score,start_time,end_time
+Megascops asio_Eastern Screech-Owl,0.6051018,0.0,3.0
+Aegolius acadicus_Northern Saw-whet Owl,0.18806487,0.0,3.0
+Glaucidium hardyi_Amazonian Pygmy-Owl,0.18222846,0.0,3.0
+Chamaeza campanisona_Short-tailed Antthrush,0.12170943,0.0,3.0
+Aegolius acadicus_Northern Saw-whet Owl,0.5445454,1.0,4.0
+Megascops asio_Eastern Screech-Owl,0.13918173,1.0,4.0
+Engine_Engine,0.18215244,2.0,5.0
+Aegolius acadicus_Northern Saw-whet Owl,0.115470305,2.0,5.0
+Aegolius acadicus_Northern Saw-whet Owl,0.26435733,3.0,6.0
+Engine_Engine,0.17160611,3.0,6.0
+Chamaeza campanisona_Short-tailed Antthrush,0.8798181,4.0,7.0
+Aegolius acadicus_Northern Saw-whet Owl,0.28991154,4.0,7.0
+Myrmothera simplex_Tepui Antpitta,0.117289566,4.0,7.0
+Chamaeza campanisona_Short-tailed Antthrush,0.810365,5.0,8.0
+Aegolius acadicus_Northern Saw-whet Owl,0.16999868,5.0,8.0
+Chamaeza campanisona_Short-tailed Antthrush,0.61651444,6.0,9.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3063481,6.0,9.0
+Aegolius acadicus_Northern Saw-whet Owl,0.4223308,7.0,10.0
+Chamaeza campanisona_Short-tailed Antthrush,0.40631697,7.0,10.0
+Chamaeza campanisona_Short-tailed Antthrush,0.6795053,8.0,11.0
+Glaucidium cuculoides_Asian Barred Owlet,0.3877773,8.0,11.0
+Glaucidium cuculoides_Asian Barred Owlet,0.2920317,9.0,12.0
+Chamaeza campanisona_Short-tailed Antthrush,0.15217718,9.0,12.0
+Siren_Siren,0.15847035,11.0,14.0
+Passerina caerulea_Blue Grosbeak,0.6122393,12.0,15.0
+Siren_Siren,0.13285375,12.0,15.0
+Passerina caerulea_Blue Grosbeak,0.63197446,13.0,16.0
+Siren_Siren,0.42076415,13.0,16.0
+Passerina caerulea_Blue Grosbeak,0.20086335,14.0,17.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.15338588,16.0,19.0
+Cygnus buccinator_Trumpeter Swan,0.11683873,16.0,19.0
+Siren_Siren,0.15575121,17.0,20.0
+Cygnus buccinator_Trumpeter Swan,0.14438666,17.0,20.0
+Engine_Engine,0.10107931,17.0,20.0
+Siren_Siren,0.15320733,18.0,21.0
+Human vocal_Human vocal,0.122101136,18.0,21.0
+Cygnus cygnus_Whooper Swan,0.2166975,19.0,22.0
+Human vocal_Human vocal,0.1277288,21.0,24.0
+Human vocal_Human vocal,0.45466414,22.0,25.0
+Human vocal_Human vocal,0.70322114,23.0,26.0
+Human vocal_Human vocal,0.46957564,24.0,27.0
+Human vocal_Human vocal,0.6079295,25.0,28.0
+Human vocal_Human vocal,0.37206542,26.0,29.0
+Engine_Engine,0.11979594,26.0,29.0
+Human vocal_Human vocal,0.1997529,27.0,30.0
+Engine_Engine,0.15935588,27.0,30.0
+Canis lupus_Gray Wolf,0.109121956,27.0,30.0
+Engine_Engine,0.13769983,28.0,31.0
+Engine_Engine,0.2070467,30.0,33.0
+Engine_Engine,0.3006155,31.0,34.0
+Engine_Engine,0.44659427,32.0,35.0
+Passerina caerulea_Blue Grosbeak,0.23741494,33.0,36.0
+Engine_Engine,0.116004445,37.0,40.0
+Strix varia_Barred Owl,0.14433926,40.0,43.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.20204166,41.0,44.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.22004372,42.0,45.0
+Strix varia_Barred Owl,0.17339985,42.0,45.0
+Streptopelia decaocto_Eurasian Collared-Dove,0.14131159,43.0,46.0
+Tringa melanoleuca_Greater Yellowlegs,0.20448795,73.0,76.0

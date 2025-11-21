@@ -1,0 +1,163 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.7329493,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.29469565,0.0,3.0
+Passerella iliaca_Fox Sparrow,0.20224765,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.46046188,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.44110855,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15706722,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.64976805,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.3210048,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.46739838,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.4134174,3.0,6.0
+Thryophilus pleurostictus_Banded Wren,0.20483387,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.51242536,4.0,7.0
+Amazilia rutila_Cinnamon Hummingbird,0.21237954,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.10379235,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.3296974,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.3248789,5.0,8.0
+Thryophilus pleurostictus_Banded Wren,0.28795972,5.0,8.0
+Amazilia rutila_Cinnamon Hummingbird,0.19403137,5.0,8.0
+Hemithraupis flavicollis_Yellow-backed Tanager,0.18987508,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.3855582,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.33917755,6.0,9.0
+Amazilia rutila_Cinnamon Hummingbird,0.22930676,6.0,9.0
+Thryophilus pleurostictus_Banded Wren,0.16608064,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14428756,6.0,9.0
+Hemithraupis flavicollis_Yellow-backed Tanager,0.118707515,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.5000923,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.4223575,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24284542,7.0,10.0
+Hemithraupis flavicollis_Yellow-backed Tanager,0.18315993,7.0,10.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.104474224,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.3802768,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.11475534,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.2755697,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12898263,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.12210929,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.32191306,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.42110455,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.29064462,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.7295908,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.24936889,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13144045,12.0,15.0
+Passerella iliaca_Fox Sparrow,0.12935801,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.5429446,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.20489477,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.27925062,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.15060724,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.27600142,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.38300347,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.3817238,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2371287,17.0,20.0
+Urosphena squameiceps_Asian Stubtail,0.17589703,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.7441133,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.46885052,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2622689,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.3008123,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.29133922,19.0,22.0
+Amazilia rutila_Cinnamon Hummingbird,0.13204394,19.0,22.0
+Urosphena squameiceps_Asian Stubtail,0.12538408,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.320866,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.10587196,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.25276142,21.0,24.0
+Amazilia rutila_Cinnamon Hummingbird,0.14454246,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.17387457,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.13396777,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.3978949,23.0,26.0
+Junco hyemalis_Dark-eyed Junco,0.3079566,23.0,26.0
+Amazilia rutila_Cinnamon Hummingbird,0.1881382,23.0,26.0
+Urosphena squameiceps_Asian Stubtail,0.13791463,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.63916963,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.19100615,24.0,27.0
+Passerella iliaca_Fox Sparrow,0.16956413,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13163199,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.7981716,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.28383034,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19491386,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.6081107,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.46997383,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1300591,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.46636572,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.39999634,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11983019,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.25926703,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.21754555,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.5981919,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.330327,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21174711,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.7483537,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.1306585,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.7188752,31.0,34.0
+Junco hyemalis_Dark-eyed Junco,0.33999074,31.0,34.0
+Passerella iliaca_Fox Sparrow,0.14695074,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.33156773,32.0,35.0
+Junco hyemalis_Dark-eyed Junco,0.14962567,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.44762033,33.0,36.0
+Junco hyemalis_Dark-eyed Junco,0.2296645,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16855039,33.0,36.0
+Urosphena squameiceps_Asian Stubtail,0.13150707,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.6432792,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20705533,34.0,37.0
+Junco hyemalis_Dark-eyed Junco,0.1638359,34.0,37.0
+Urosphena squameiceps_Asian Stubtail,0.105684504,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.2765482,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19063373,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.33833262,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17208715,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.5443743,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27459994,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.17785312,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.3507866,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.19265816,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13336964,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.63334435,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.44621688,39.0,42.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13966729,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11090707,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.39506578,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.35034397,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12139443,40.0,43.0
+Hemithraupis flavicollis_Yellow-backed Tanager,0.11040906,40.0,43.0
+Junco hyemalis_Dark-eyed Junco,0.48387998,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.1778322,41.0,44.0
+Amazilia rutila_Cinnamon Hummingbird,0.1033895,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.36643764,42.0,45.0
+Junco hyemalis_Dark-eyed Junco,0.24037068,42.0,45.0
+Amazilia rutila_Cinnamon Hummingbird,0.10378191,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.77205884,43.0,46.0
+Thryophilus pleurostictus_Banded Wren,0.16932404,43.0,46.0
+Amazilia rutila_Cinnamon Hummingbird,0.15519515,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.68507147,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.14986049,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.5797363,45.0,48.0
+Amazilia rutila_Cinnamon Hummingbird,0.483889,45.0,48.0
+Thryophilus pleurostictus_Banded Wren,0.100688525,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.55334157,46.0,49.0
+Junco hyemalis_Dark-eyed Junco,0.16647466,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.6358372,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.5038921,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.20987633,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.62963766,49.0,52.0
+Thryophilus pleurostictus_Banded Wren,0.17661534,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.69572604,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.40035883,50.0,53.0
+Thryophilus pleurostictus_Banded Wren,0.16373982,50.0,53.0
+Amazilia rutila_Cinnamon Hummingbird,0.15295492,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.43795758,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.3179039,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.5142744,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.32594645,52.0,55.0
+Hemithraupis flavicollis_Yellow-backed Tanager,0.123984575,52.0,55.0
+Junco hyemalis_Dark-eyed Junco,0.52218837,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.16010712,53.0,56.0
+Junco hyemalis_Dark-eyed Junco,0.35890812,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.32584748,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.3430886,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.17536551,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.32439214,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.25085467,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.5051163,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.45689994,57.0,60.0
+Amazilia rutila_Cinnamon Hummingbird,0.12855074,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1037653,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.5914954,58.0,60.50403628117914

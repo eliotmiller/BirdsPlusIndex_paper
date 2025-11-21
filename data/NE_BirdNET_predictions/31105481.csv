@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.3862317,0.0,3.0
+Ardea cinerea_Gray Heron,0.29312655,0.0,3.0
+Ardea herodias_Great Blue Heron,0.62101287,1.0,4.0
+Ardea herodias_Great Blue Heron,0.38151154,2.0,5.0
+Melospiza melodia_Song Sparrow,0.2402776,3.0,6.0
+Fulica americana_American Coot,0.19303763,4.0,7.0
+Laterallus jamaicensis_Black Rail,0.12195893,4.0,7.0
+Fulica americana_American Coot,0.4559802,5.0,8.0
+Laterallus jamaicensis_Black Rail,0.28781444,5.0,8.0
+Lithobates catesbeianus_American Bullfrog,0.6847852,7.0,10.0
+Lithobates catesbeianus_American Bullfrog,0.2767494,8.0,11.0
+Lithobates catesbeianus_American Bullfrog,0.3054983,9.0,12.0
+Lithobates catesbeianus_American Bullfrog,0.20470469,10.0,13.0
+Loxia leucoptera_White-winged Crossbill,0.23833255,11.0,14.0
+Loxia leucoptera_White-winged Crossbill,0.28853175,12.0,15.0
+Melospiza melodia_Song Sparrow,0.1722019,14.0,17.0
+Melospiza melodia_Song Sparrow,0.7578165,15.0,18.0
+Melospiza melodia_Song Sparrow,0.2971244,16.0,19.0
+Melospiza melodia_Song Sparrow,0.26382917,17.0,20.0
+Melospiza melodia_Song Sparrow,0.22876205,26.0,29.0
+Melospiza melodia_Song Sparrow,0.400549,27.0,30.0
+Melospiza melodia_Song Sparrow,0.37921995,28.0,31.0
+Rallus elegans_King Rail,0.108964026,31.0,34.0
+Rhopospina fruticeti_Mourning Sierra Finch,0.39389187,35.0,38.0
+Melospiza melodia_Song Sparrow,0.34499025,36.0,39.0
+Melospiza melodia_Song Sparrow,0.7141351,37.0,40.0
+Melospiza melodia_Song Sparrow,0.5404328,38.0,41.0
+Melospiza melodia_Song Sparrow,0.47903183,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.17569971,44.0,47.0
+Rallus elegans_King Rail,0.10465155,44.0,47.0
+Rallus elegans_King Rail,0.16755626,45.0,48.0
+Lophodytes cucullatus_Hooded Merganser,0.18974318,50.0,53.0
+Melospiza melodia_Song Sparrow,0.11269386,50.0,53.0
+Melospiza melodia_Song Sparrow,0.114824556,51.0,54.0
+Melospiza melodia_Song Sparrow,0.23180263,52.0,55.0
+Aythya collaris_Ring-necked Duck,0.11897447,58.0,61.0
+Melospiza melodia_Song Sparrow,0.5543172,61.0,64.0
+Melospiza melodia_Song Sparrow,0.71457505,62.0,65.0
+Melospiza melodia_Song Sparrow,0.7585763,63.0,66.0
+Melospiza melodia_Song Sparrow,0.40299785,64.0,67.0
+Laterallus jamaicensis_Black Rail,0.15187678,68.0,71.0
+Laterallus jamaicensis_Black Rail,0.23114075,69.0,72.0
+Laterallus jamaicensis_Black Rail,0.3652978,70.0,73.0
+Lophodytes cucullatus_Hooded Merganser,0.15570895,72.0,75.0
+Ixobrychus exilis_Least Bittern,0.17592683,73.0,76.0
+Melospiza melodia_Song Sparrow,0.39204466,77.0,80.0
+Melospiza melodia_Song Sparrow,0.48534265,78.0,81.0
+Melospiza melodia_Song Sparrow,0.35456565,79.0,82.0
+Melospiza melodia_Song Sparrow,0.39726627,80.0,83.0
+Dolichonyx oryzivorus_Bobolink,0.15856773,85.0,88.0
+Gallinula galeata_Common Gallinule,0.38799095,87.0,90.0
+Gallinula galeata_Common Gallinule,0.15276681,88.0,91.0
+Sitta carolinensis_White-breasted Nuthatch,0.16251084,89.0,92.0
+Melospiza melodia_Song Sparrow,0.7124151,90.0,93.0
+Melospiza melodia_Song Sparrow,0.40191925,91.0,94.0
+Melospiza melodia_Song Sparrow,0.25972912,92.0,95.0
+Ixobrychus exilis_Least Bittern,0.16984713,96.0,99.0
+Melospiza melodia_Song Sparrow,0.1299019,99.0,102.0
+Melospiza melodia_Song Sparrow,0.33709702,100.0,103.0
+Melospiza melodia_Song Sparrow,0.72545636,101.0,104.0
+Melospiza melodia_Song Sparrow,0.43274403,102.0,105.0
+Melospiza melodia_Song Sparrow,0.30024534,103.0,106.0
+Botaurus lentiginosus_American Bittern,0.102765396,106.0,109.0
+Ixobrychus exilis_Least Bittern,0.18189248,107.0,110.0
+Ixobrychus exilis_Least Bittern,0.3011726,108.0,111.0
+Rallus elegans_King Rail,0.101691306,108.0,111.0
+Ixobrychus exilis_Least Bittern,0.122558415,109.0,112.0
+Melospiza melodia_Song Sparrow,0.19428743,114.0,117.0
+Melospiza melodia_Song Sparrow,0.14425725,116.0,119.0
+Melospiza melodia_Song Sparrow,0.37353265,124.0,127.0
+Melospiza melodia_Song Sparrow,0.77441525,125.0,128.0
+Melospiza melodia_Song Sparrow,0.39184162,126.0,128.44802721088436
