@@ -1,0 +1,85 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.969086,0.0,3.0
+Vireo cassinii_Cassin's Vireo,0.5584552,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.82937586,1.0,4.0
+Vireo cassinii_Cassin's Vireo,0.42310977,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.95189726,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.89951503,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.994381,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.8868005,5.0,8.0
+Vireo cassinii_Cassin's Vireo,0.3564361,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.9779383,6.0,9.0
+Vireo cassinii_Cassin's Vireo,0.31514883,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.9724249,7.0,10.0
+Vireo solitarius_Blue-headed Vireo,0.97163725,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.8594792,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.8907237,10.0,13.0
+Sitta carolinensis_White-breasted Nuthatch,0.17653628,10.0,13.0
+Vireo solitarius_Blue-headed Vireo,0.75615597,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.13010462,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.12081748,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.9285535,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.16878591,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.11820279,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.9097432,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.16296937,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.951018,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.7040647,15.0,18.0
+Cardellina versicolor_Pink-headed Warbler,0.14063558,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.8801456,16.0,19.0
+Vireo cassinii_Cassin's Vireo,0.13720003,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.9539588,17.0,20.0
+Vireo cassinii_Cassin's Vireo,0.15128592,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.9464498,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.9328007,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.9758958,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.9586538,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.8937693,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.45268905,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.37300682,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.34036675,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.97700626,27.0,30.0
+Vireo solitarius_Blue-headed Vireo,0.44380525,28.0,31.0
+Vireo cassinii_Cassin's Vireo,0.19333619,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.46716297,29.0,32.0
+Vireo cassinii_Cassin's Vireo,0.28543395,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.4208174,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.55827796,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.66883886,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.7542708,33.0,36.0
+Vireo cassinii_Cassin's Vireo,0.19983047,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.94693965,34.0,37.0
+Vireo cassinii_Cassin's Vireo,0.2560456,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.87445307,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.1148639,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.77650684,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.12825866,36.0,39.0
+Vireo solitarius_Blue-headed Vireo,0.63330233,37.0,40.0
+Vireo solitarius_Blue-headed Vireo,0.25040016,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12422859,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.118577115,38.0,41.0
+Vireo solitarius_Blue-headed Vireo,0.5576507,39.0,42.0
+Vireo solitarius_Blue-headed Vireo,0.46439672,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.12479684,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.7988977,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.86672765,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.12234649,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.70376855,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.47556043,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.2489902,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.18928145,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.3193745,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.28334755,45.0,48.0
+Sitta carolinensis_White-breasted Nuthatch,0.15453617,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.6998647,46.0,49.0
+Sitta carolinensis_White-breasted Nuthatch,0.21784595,46.0,49.0
+Vireo solitarius_Blue-headed Vireo,0.6839477,47.0,50.0
+Vireo solitarius_Blue-headed Vireo,0.4353602,48.0,51.0
+Vireo solitarius_Blue-headed Vireo,0.355558,49.0,52.0
+Setophaga fusca_Blackburnian Warbler,0.1696714,49.0,52.0
+Vireo solitarius_Blue-headed Vireo,0.6640638,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.18067138,50.0,53.0
+Vireo solitarius_Blue-headed Vireo,0.81631887,51.0,54.0
+Vireo cassinii_Cassin's Vireo,0.104222365,51.0,54.0
+Vireo solitarius_Blue-headed Vireo,0.5151573,52.0,54.96
+Sitta carolinensis_White-breasted Nuthatch,0.30866477,52.0,54.96

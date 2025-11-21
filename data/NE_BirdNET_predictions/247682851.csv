@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.983043,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.31080523,1.0,4.0
+Troglodytes pacificus_Pacific Wren,0.104233004,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.17210217,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.120872535,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10844617,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.5023506,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.29903543,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25308284,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.6986828,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35511178,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.46718496,7.0,10.0
+Vireo solitarius_Blue-headed Vireo,0.14800398,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26205263,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44977126,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5583907,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.19188814,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43712196,13.0,16.0
+Junco hyemalis_Dark-eyed Junco,0.10016798,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.64435893,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.4943928,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.22320604,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.67576563,15.0,18.0
+Junco hyemalis_Dark-eyed Junco,0.642726,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17790738,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.14979038,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.2855908,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24449004,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30274513,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.17614944,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5960568,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.14954863,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.13099667,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36887822,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.17366087,20.0,23.0
+Selasphorus rufus_Rufous Hummingbird,0.26511714,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22030027,21.0,24.0
+Passerella iliaca_Fox Sparrow,0.11517642,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.1118181,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2663207,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3589597,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5597451,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.16567007,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21412231,25.0,28.0
+Passerella iliaca_Fox Sparrow,0.10997159,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34536362,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.22604643,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.11089978,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32056957,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.20389058,27.0,30.0
+Passerella iliaca_Fox Sparrow,0.13165411,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.31867334,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19824485,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.102984294,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.22064517,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.21479721,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16617666,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.14868584,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.11818056,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.216134,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.17646858,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.15133,31.0,34.0
+Junco hyemalis_Dark-eyed Junco,0.1327936,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.23830076,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.22902934,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.26754057,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24903345,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27171746,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.1209083,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.10472083,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12981895,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41470146,37.0,39.31201814058957

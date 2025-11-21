@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Setophaga americana_Northern Parula,0.114053704,0.0,3.0
+Poecile rufescens_Chestnut-backed Chickadee,0.30552036,1.0,4.0
+Leiothlypis peregrina_Tennessee Warbler,0.14403045,1.0,4.0
+Setophaga tigrina_Cape May Warbler,0.12908418,1.0,4.0
+Setophaga americana_Northern Parula,0.10757182,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.10033726,1.0,4.0
+Poecile rufescens_Chestnut-backed Chickadee,0.33186442,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.19230732,5.0,8.0
+Poecile rufescens_Chestnut-backed Chickadee,0.4666188,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.24858756,7.0,10.0
+Poecile rufescens_Chestnut-backed Chickadee,0.16527237,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.17542392,8.0,11.0
+Setophaga ruticilla_American Redstart,0.13838018,8.0,11.0
+Setophaga ruticilla_American Redstart,0.39563218,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.3122756,9.0,12.0
+Setophaga tigrina_Cape May Warbler,0.12994023,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.117722504,9.0,12.0
+Leiothlypis peregrina_Tennessee Warbler,0.21188456,10.0,13.0
+Setophaga ruticilla_American Redstart,0.19422969,10.0,13.0
+Setophaga tigrina_Cape May Warbler,0.15709682,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.15088451,10.0,13.0
+Poecile rufescens_Chestnut-backed Chickadee,0.14812113,11.0,14.0
+Setophaga tigrina_Cape May Warbler,0.14226612,11.0,14.0
+Cardellina pusilla_Wilson's Warbler,0.1878127,12.0,15.0
+Regulus satrapa_Golden-crowned Kinglet,0.24804018,13.0,16.0
+Poecile rufescens_Chestnut-backed Chickadee,0.17123578,13.0,16.0
+Poecile rufescens_Chestnut-backed Chickadee,0.62438416,14.0,17.0
+Cardellina pusilla_Wilson's Warbler,0.10918848,14.0,17.0
+Poecile rufescens_Chestnut-backed Chickadee,0.41396523,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.26225203,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.21478759,15.0,18.0
+Setophaga tigrina_Cape May Warbler,0.114644475,15.0,18.0
+Leiothlypis peregrina_Tennessee Warbler,0.13941967,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.11566823,16.0,19.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10473672,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.14242336,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13356227,21.0,24.0
+Setophaga tigrina_Cape May Warbler,0.1064836,21.0,24.0
+Leiothlypis peregrina_Tennessee Warbler,0.19399637,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.15433186,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1583549,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.12767108,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.11133097,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.11029585,23.0,26.0
+Leiothlypis peregrina_Tennessee Warbler,0.1960315,24.0,27.0
+Setophaga ruticilla_American Redstart,0.15264095,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.10921901,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.10731595,24.0,27.0
+Setophaga ruticilla_American Redstart,0.10276997,28.0,31.0
+Setophaga ruticilla_American Redstart,0.20870897,29.0,32.0
+Poecile rufescens_Chestnut-backed Chickadee,0.21853574,30.0,33.0
+Pachyramphus niger_Jamaican Becard,0.10804871,32.0,35.0
+Leiothlypis peregrina_Tennessee Warbler,0.14019115,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.10451391,40.0,43.0
+Setophaga americana_Northern Parula,0.21813536,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.13685301,42.0,45.0
+Setophaga ruticilla_American Redstart,0.101427,42.0,45.0
+Setophaga americana_Northern Parula,0.2417429,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.18171534,43.0,46.0
+Leiothlypis peregrina_Tennessee Warbler,0.12447517,43.0,46.0
+Setophaga tigrina_Cape May Warbler,0.11493264,43.0,46.0
+Leiothlypis peregrina_Tennessee Warbler,0.26614228,44.0,47.0
+Setophaga americana_Northern Parula,0.15981199,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.15753603,44.0,47.0
+Setophaga tigrina_Cape May Warbler,0.13622467,44.0,47.0
+Leiothlypis peregrina_Tennessee Warbler,0.31772313,45.0,48.0
+Setophaga tigrina_Cape May Warbler,0.25745958,45.0,48.0
+Poecile rufescens_Chestnut-backed Chickadee,0.22828542,45.0,48.0
+Setophaga ruticilla_American Redstart,0.115689546,45.0,48.0
+Setophaga tigrina_Cape May Warbler,0.30651933,46.0,49.0
+Leiothlypis peregrina_Tennessee Warbler,0.12910879,46.0,49.0
+Leiothlypis peregrina_Tennessee Warbler,0.21277179,47.0,50.0

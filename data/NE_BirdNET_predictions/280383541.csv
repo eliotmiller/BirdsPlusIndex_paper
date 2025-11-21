@@ -1,0 +1,108 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.25247744,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.53003037,1.0,4.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2165166,1.0,4.0
+Cardinalis cardinalis_Northern Cardinal,0.16558029,1.0,4.0
+Catharus fuscescens_Veery,0.8940808,2.0,5.0
+Catharus fuscescens_Veery,0.96655697,3.0,6.0
+Catharus fuscescens_Veery,0.98654944,4.0,7.0
+Catharus fuscescens_Veery,0.26883513,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.10682107,6.0,9.0
+Catharus fuscescens_Veery,0.32332483,7.0,10.0
+Catharus ustulatus_Swainson's Thrush,0.1482908,7.0,10.0
+Catharus fuscescens_Veery,0.88279325,8.0,11.0
+Catharus fuscescens_Veery,0.88533664,9.0,12.0
+Geothlypis trichas_Common Yellowthroat,0.27309594,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.2245394,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1849169,10.0,13.0
+Catharus fuscescens_Veery,0.15335916,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.930118,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.15919338,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.10930261,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.10139228,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9950671,12.0,15.0
+Setophaga ruticilla_American Redstart,0.18327954,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.96470094,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.5148549,13.0,16.0
+Catharus fuscescens_Veery,0.16803356,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9724181,14.0,17.0
+Catharus fuscescens_Veery,0.32773066,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.31390017,14.0,17.0
+Catharus fuscescens_Veery,0.90117854,15.0,18.0
+Catharus guttatus_Hermit Thrush,0.5469093,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.104388915,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.8260013,16.0,19.0
+Catharus fuscescens_Veery,0.27901918,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.12655221,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.39192164,17.0,20.0
+Catharus fuscescens_Veery,0.17902529,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.6073071,18.0,21.0
+Catharus fuscescens_Veery,0.34197146,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.1527708,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.24441738,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17042255,19.0,22.0
+Cardinalis cardinalis_Northern Cardinal,0.15741102,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.657078,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.23694004,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.99810374,21.0,24.0
+Cyanocitta cristata_Blue Jay,0.12403761,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9895605,22.0,25.0
+Cyanocitta cristata_Blue Jay,0.10773192,22.0,25.0
+Pipilo erythrophthalmus_Eastern Towhee,0.98353624,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.16609147,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9011123,24.0,27.0
+Catharus fuscescens_Veery,0.37385565,24.0,27.0
+Catharus fuscescens_Veery,0.91628665,25.0,28.0
+Catharus fuscescens_Veery,0.99508345,26.0,29.0
+Catharus fuscescens_Veery,0.9783271,27.0,30.0
+Catharus fuscescens_Veery,0.86456305,28.0,31.0
+Hylocichla mustelina_Wood Thrush,0.23972142,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.95630664,29.0,32.0
+Catharus fuscescens_Veery,0.51889837,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.1895966,29.0,32.0
+Geothlypis trichas_Common Yellowthroat,0.15589294,29.0,32.0
+Drepanis coccinea_Iiwi,0.12935019,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.10116855,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.91524076,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9933616,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9739096,32.0,35.0
+Zenaida macroura_Mourning Dove,0.18484758,33.0,36.0
+Cardinalis cardinalis_Northern Cardinal,0.45253706,34.0,37.0
+Saltator striatipectus_Streaked Saltator,0.3641999,34.0,37.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10968123,34.0,37.0
+Leptotila verreauxi_White-tipped Dove,0.529328,35.0,38.0
+Cardinalis cardinalis_Northern Cardinal,0.11296463,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.8534091,36.0,39.0
+Cardinalis cardinalis_Northern Cardinal,0.41705889,36.0,39.0
+Pipilo erythrophthalmus_Eastern Towhee,0.32882082,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.9017596,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26781765,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.8700483,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25057778,38.0,41.0
+Piranga olivacea_Scarlet Tanager,0.100630134,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.84674877,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.27048677,39.0,42.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9986119,40.0,43.0
+Cyanocitta cristata_Blue Jay,0.11270403,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9994012,41.0,44.0
+Pipilo erythrophthalmus_Eastern Towhee,0.99152654,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.29949576,42.0,45.0
+Piranga ludoviciana_Western Tanager,0.23162907,43.0,46.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.4481352,44.0,47.0
+Piranga ludoviciana_Western Tanager,0.16382912,44.0,47.0
+Vireo olivaceus_Red-eyed Vireo,0.2448307,45.0,48.0
+Piranga ludoviciana_Western Tanager,0.19265713,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.11156507,45.0,48.0
+Piranga ludoviciana_Western Tanager,0.6082155,46.0,49.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.36750948,46.0,49.0
+Vireo olivaceus_Red-eyed Vireo,0.34117812,47.0,50.0
+Piranga ludoviciana_Western Tanager,0.23014301,47.0,50.0
+Piranga ludoviciana_Western Tanager,0.16925392,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.13136365,48.0,51.0
+Haemorhous mexicanus_House Finch,0.10291848,48.0,51.0
+Geothlypis trichas_Common Yellowthroat,0.92179275,50.0,53.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19846001,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.8539774,51.0,54.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20723768,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.6377068,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13762304,52.0,55.0

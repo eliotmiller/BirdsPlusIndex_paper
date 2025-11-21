@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Tringa melanoleuca_Greater Yellowlegs,0.9855025,0.0,3.0
+Tringa flavipes_Lesser Yellowlegs,0.14604674,0.0,3.0
+Tringa melanoleuca_Greater Yellowlegs,0.9939161,1.0,4.0
+Tringa flavipes_Lesser Yellowlegs,0.12380901,1.0,4.0
+Tringa melanoleuca_Greater Yellowlegs,0.9146006,2.0,5.0
+Tringa melanoleuca_Greater Yellowlegs,0.98351014,3.0,6.0
+Tringa melanoleuca_Greater Yellowlegs,0.9881976,4.0,7.0
+Tringa melanoleuca_Greater Yellowlegs,0.99477565,5.0,8.0
+Tringa flavipes_Lesser Yellowlegs,0.11533571,5.0,8.0
+Tringa melanoleuca_Greater Yellowlegs,0.9909814,6.0,9.0
+Tringa melanoleuca_Greater Yellowlegs,0.9902423,7.0,10.0
+Tringa flavipes_Lesser Yellowlegs,0.14953911,7.0,10.0
+Tringa melanoleuca_Greater Yellowlegs,0.99647945,8.0,11.0
+Tringa flavipes_Lesser Yellowlegs,0.10018277,8.0,11.0
+Tringa melanoleuca_Greater Yellowlegs,0.98751974,9.0,12.0
+Tringa melanoleuca_Greater Yellowlegs,0.9683518,10.0,13.0
+Tringa melanoleuca_Greater Yellowlegs,0.96697515,11.0,14.0
+Tringa flavipes_Lesser Yellowlegs,0.2426519,11.0,14.0
+Tringa melanoleuca_Greater Yellowlegs,0.96855026,12.0,15.0
+Tringa flavipes_Lesser Yellowlegs,0.23094559,12.0,15.0
+Tringa melanoleuca_Greater Yellowlegs,0.9157735,13.0,16.0
+Tringa flavipes_Lesser Yellowlegs,0.3398149,13.0,16.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.2967991,14.0,17.0
+Bubo virginianus_Great Horned Owl,0.21921602,14.0,17.0
+Tringa melanoleuca_Greater Yellowlegs,0.9782235,15.0,18.0
+Tringa flavipes_Lesser Yellowlegs,0.105440445,15.0,18.0
+Tringa melanoleuca_Greater Yellowlegs,0.9857508,16.0,19.0
+Tringa flavipes_Lesser Yellowlegs,0.13736404,16.0,19.0
+Tringa melanoleuca_Greater Yellowlegs,0.97557336,17.0,20.0
+Tringa flavipes_Lesser Yellowlegs,0.34139317,17.0,20.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.5346286,18.0,21.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.24803919,19.0,22.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.8281534,20.0,23.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.39957428,21.0,24.0
+Tringa melanoleuca_Greater Yellowlegs,0.9832877,22.0,25.0
+Tringa flavipes_Lesser Yellowlegs,0.6267164,22.0,25.0
+Tringa melanoleuca_Greater Yellowlegs,0.9854703,23.0,26.0
+Tringa flavipes_Lesser Yellowlegs,0.60094696,23.0,26.0
+Tringa melanoleuca_Greater Yellowlegs,0.97345734,24.0,27.0
+Tringa flavipes_Lesser Yellowlegs,0.6575446,24.0,27.0
+Tringa melanoleuca_Greater Yellowlegs,0.97116524,25.0,28.0
+Tringa flavipes_Lesser Yellowlegs,0.1374012,25.0,28.0
+Tringa melanoleuca_Greater Yellowlegs,0.9511024,26.0,29.0
+Tringa melanoleuca_Greater Yellowlegs,0.91922957,27.0,30.0
+Tringa flavipes_Lesser Yellowlegs,0.23272665,27.0,30.0
+Tringa melanoleuca_Greater Yellowlegs,0.96040386,28.0,31.0
+Tringa flavipes_Lesser Yellowlegs,0.24331246,28.0,31.0
+Tringa melanoleuca_Greater Yellowlegs,0.99083555,29.0,32.0
+Tringa melanoleuca_Greater Yellowlegs,0.9923963,30.0,33.0
+Tringa flavipes_Lesser Yellowlegs,0.14552648,30.0,33.0
+Tringa melanoleuca_Greater Yellowlegs,0.9861114,31.0,34.0
+Tringa flavipes_Lesser Yellowlegs,0.13832273,31.0,34.0
+Tringa melanoleuca_Greater Yellowlegs,0.9679339,34.0,37.0
+Tringa flavipes_Lesser Yellowlegs,0.34007627,34.0,37.0
+Tringa melanoleuca_Greater Yellowlegs,0.968099,35.0,38.0
+Tringa flavipes_Lesser Yellowlegs,0.36022204,35.0,38.0
+Tringa melanoleuca_Greater Yellowlegs,0.94112504,36.0,39.0
+Tringa flavipes_Lesser Yellowlegs,0.43023896,36.0,39.0
+Tringa flavipes_Lesser Yellowlegs,0.14312771,37.0,40.0
+Passerina caerulea_Blue Grosbeak,0.13324037,37.0,40.0
+Tringa melanoleuca_Greater Yellowlegs,0.8978301,38.0,41.0
+Tringa flavipes_Lesser Yellowlegs,0.1658768,38.0,41.0
+Tringa melanoleuca_Greater Yellowlegs,0.7379578,39.0,42.0
+Tringa flavipes_Lesser Yellowlegs,0.21310031,39.0,42.0
+Tringa melanoleuca_Greater Yellowlegs,0.88649756,40.0,43.0
+Tringa flavipes_Lesser Yellowlegs,0.38720316,40.0,43.0
+Tringa nebularia_Common Greenshank,0.15859373,40.0,43.0
+Tringa melanoleuca_Greater Yellowlegs,0.90269244,41.0,44.0
+Tringa flavipes_Lesser Yellowlegs,0.48555127,41.0,44.0
+Tringa melanoleuca_Greater Yellowlegs,0.8260368,42.0,45.0
+Tringa flavipes_Lesser Yellowlegs,0.4495513,42.0,45.0
+Tringa flavipes_Lesser Yellowlegs,0.18035515,43.0,46.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.18258831,44.0,47.0
+Gryllus pennsylvanicus_Fall Field Cricket,0.4054007,45.0,48.0
+Tringa melanoleuca_Greater Yellowlegs,0.6459075,46.0,49.0
+Tringa flavipes_Lesser Yellowlegs,0.22258063,46.0,49.0
+Tringa melanoleuca_Greater Yellowlegs,0.64060783,47.0,50.0
+Tringa flavipes_Lesser Yellowlegs,0.13488702,47.0,50.0
+Tringa melanoleuca_Greater Yellowlegs,0.6975445,48.0,50.68802721088436
+Tringa flavipes_Lesser Yellowlegs,0.37273327,48.0,50.68802721088436

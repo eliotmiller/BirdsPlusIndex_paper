@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Basilinna leucotis_White-eared Hummingbird,0.1891749,1.0,4.0
+Tamiasciurus hudsonicus_Red Squirrel,0.111121945,4.0,7.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.1872037,5.0,8.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17065592,6.0,9.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20552607,7.0,10.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.15592529,7.0,10.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12512647,8.0,11.0
+Sturnus vulgaris_European Starling,0.10430767,21.0,24.0
+Dryobates nuttallii_Nuttall's Woodpecker,0.15955797,22.0,25.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.1363255,23.0,26.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.1969887,24.0,27.0
+Tamiasciurus hudsonicus_Red Squirrel,0.113007866,26.0,29.0
+Dryobates villosus_Hairy Woodpecker,0.10725121,26.0,29.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.102234945,31.0,34.0
+Melanerpes lewis_Lewis's Woodpecker,0.10657628,32.0,35.0
+Tamiasciurus hudsonicus_Red Squirrel,0.22198303,33.0,36.0
+Dryobates villosus_Hairy Woodpecker,0.10322527,34.0,37.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.12656346,36.0,39.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.22223376,37.0,40.0
+Acanthiza pusilla_Brown Thornbill,0.10992661,40.0,43.0
+Cincloramphus timoriensis_Tawny Grassbird,0.12391548,43.0,46.0
+Cincloramphus timoriensis_Tawny Grassbird,0.20784163,44.0,47.0
+Acanthiza pusilla_Brown Thornbill,0.13221589,61.0,64.0
+Psaltriparus minimus_Bushtit,0.1893036,62.0,65.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.11493133,65.0,68.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.15210673,74.0,77.0
+Elliotomyia chionogaster_White-bellied Hummingbird,0.1074118,74.0,77.0
+Cynanthus latirostris_Broad-billed Hummingbird,0.28290087,78.0,81.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.12051666,78.0,81.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.10603266,79.0,82.0
+Chlorostilbon lucidus_Glittering-bellied Emerald,0.10356369,80.0,83.0
+Colibri coruscans_Sparkling Violetear,0.1719756,81.0,84.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12496103,82.0,85.0
+Calypte anna_Anna's Hummingbird,0.15918303,84.0,87.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.10380051,93.0,96.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.6050434,94.0,97.0
+Dryobates pubescens_Downy Woodpecker,0.96001697,95.0,98.0
+Dryobates pubescens_Downy Woodpecker,0.99219394,96.0,99.0
+Dryobates pubescens_Downy Woodpecker,0.7733184,97.0,100.0
+Dryobates pubescens_Downy Woodpecker,0.9232113,98.0,101.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.45119324,98.0,101.0
+Dryobates pubescens_Downy Woodpecker,0.86984575,99.0,102.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.23519923,99.0,102.0
+Dryobates pubescens_Downy Woodpecker,0.63518935,100.0,103.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.21822883,100.0,103.0
+Molothrus ater_Brown-headed Cowbird,0.107272014,103.0,106.0
+Sturnus vulgaris_European Starling,0.10108093,109.0,112.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.31561726,115.0,118.0
+Dryobates pubescens_Downy Woodpecker,0.2778926,115.0,118.0
+Dryobates pubescens_Downy Woodpecker,0.62410027,116.0,119.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.24469906,116.0,119.0
+Dryobates pubescens_Downy Woodpecker,0.55039406,117.0,120.0
+Dryobates scalaris_Ladder-backed Woodpecker,0.51309943,117.0,120.0
+Lophodytes cucullatus_Hooded Merganser,0.15453337,132.0,135.0

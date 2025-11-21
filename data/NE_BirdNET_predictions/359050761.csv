@@ -1,0 +1,108 @@
+species,score,start_time,end_time
+Gallinula galeata_Common Gallinule,0.88821596,0.0,3.0
+Porzana carolina_Sora,0.32294852,0.0,3.0
+Gallinula galeata_Common Gallinule,0.97057414,1.0,4.0
+Porzana carolina_Sora,0.11021461,1.0,4.0
+Gallinula chloropus_Eurasian Moorhen,0.108815275,1.0,4.0
+Gallinula galeata_Common Gallinule,0.9356849,2.0,5.0
+Gallinula chloropus_Eurasian Moorhen,0.10761662,2.0,5.0
+Porzana carolina_Sora,0.10279971,2.0,5.0
+Gallinula galeata_Common Gallinule,0.948572,3.0,6.0
+Porzana carolina_Sora,0.20249249,3.0,6.0
+Gallinula galeata_Common Gallinule,0.9713183,4.0,7.0
+Gallinula galeata_Common Gallinule,0.91847295,5.0,8.0
+Gallinula galeata_Common Gallinule,0.9821691,6.0,9.0
+Porzana carolina_Sora,0.142998,6.0,9.0
+Gallinula galeata_Common Gallinule,0.9910403,7.0,10.0
+Porzana carolina_Sora,0.32160467,7.0,10.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.25065756,8.0,11.0
+Gallinula galeata_Common Gallinule,0.9916142,9.0,12.0
+Gallinula galeata_Common Gallinule,0.98666966,10.0,13.0
+Porzana carolina_Sora,0.11084043,10.0,13.0
+Gallinula galeata_Common Gallinule,0.98832476,11.0,14.0
+Porzana carolina_Sora,0.10558746,11.0,14.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.33416945,12.0,15.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.20684466,13.0,16.0
+Ammospiza maritima_Seaside Sparrow,0.11791955,13.0,16.0
+Gallinula galeata_Common Gallinule,0.98884404,16.0,19.0
+Porzana carolina_Sora,0.12307922,16.0,19.0
+Gallinula galeata_Common Gallinule,0.9881874,17.0,20.0
+Gallinula galeata_Common Gallinule,0.98709005,18.0,21.0
+Porphyrio martinica_Purple Gallinule,0.13817717,18.0,21.0
+Lewinia striata_Slaty-breasted Rail,0.12046887,18.0,21.0
+Gallinula galeata_Common Gallinule,0.9711067,19.0,22.0
+Porzana carolina_Sora,0.2258831,19.0,22.0
+Gallinula galeata_Common Gallinule,0.98985493,20.0,23.0
+Gallinula chloropus_Eurasian Moorhen,0.12256007,20.0,23.0
+Gallinula galeata_Common Gallinule,0.98685235,21.0,24.0
+Gallinula galeata_Common Gallinule,0.9697889,22.0,25.0
+Gallinula galeata_Common Gallinule,0.98166406,23.0,26.0
+Gallinula galeata_Common Gallinule,0.9829206,24.0,27.0
+Porzana carolina_Sora,0.1901206,24.0,27.0
+Gallinula galeata_Common Gallinule,0.99425125,25.0,28.0
+Gallinula galeata_Common Gallinule,0.9878034,26.0,29.0
+Porzana carolina_Sora,0.12838377,26.0,29.0
+Gallinula galeata_Common Gallinule,0.98843443,27.0,30.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.70800376,28.0,31.0
+Allonemobius allardi_Allard's Ground Cricket,0.34411612,29.0,32.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.32075742,29.0,32.0
+Allonemobius allardi_Allard's Ground Cricket,0.51211625,30.0,33.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.22060244,30.0,33.0
+Gallinula galeata_Common Gallinule,0.96128464,31.0,34.0
+Porzana carolina_Sora,0.5328946,31.0,34.0
+Gallinula galeata_Common Gallinule,0.9978588,32.0,35.0
+Porzana carolina_Sora,0.47730637,32.0,35.0
+Gallinula chloropus_Eurasian Moorhen,0.10231838,32.0,35.0
+Gallinula galeata_Common Gallinule,0.99126816,33.0,36.0
+Porzana carolina_Sora,0.3843884,33.0,36.0
+Bombycilla cedrorum_Cedar Waxwing,0.14768983,35.0,38.0
+Gallinula galeata_Common Gallinule,0.99451774,37.0,40.0
+Porzana carolina_Sora,0.18957783,37.0,40.0
+Gallinula chloropus_Eurasian Moorhen,0.10265048,37.0,40.0
+Gallinula galeata_Common Gallinule,0.99438274,38.0,41.0
+Porzana carolina_Sora,0.13240871,38.0,41.0
+Gallinula galeata_Common Gallinule,0.99756795,39.0,42.0
+Porzana carolina_Sora,0.1610431,39.0,42.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14049767,40.0,43.0
+Allonemobius allardi_Allard's Ground Cricket,0.13247873,40.0,43.0
+Gallinula galeata_Common Gallinule,0.9866323,41.0,44.0
+Lewinia striata_Slaty-breasted Rail,0.10934403,41.0,44.0
+Gallinula galeata_Common Gallinule,0.993433,42.0,45.0
+Gallinula galeata_Common Gallinule,0.9890605,43.0,46.0
+Allonemobius allardi_Allard's Ground Cricket,0.1667366,44.0,47.0
+Ictinia mississippiensis_Mississippi Kite,0.22185121,48.0,51.0
+Pipilo erythrophthalmus_Eastern Towhee,0.27957934,49.0,52.0
+Ictinia mississippiensis_Mississippi Kite,0.10801868,49.0,52.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10604833,50.0,53.0
+Gallinula galeata_Common Gallinule,0.9875668,52.0,55.0
+Gallinula galeata_Common Gallinule,0.989256,53.0,56.0
+Gallinula chloropus_Eurasian Moorhen,0.14289783,53.0,56.0
+Gallinula galeata_Common Gallinule,0.9968611,54.0,57.0
+Gallinula galeata_Common Gallinule,0.99504167,55.0,58.0
+Gallinula galeata_Common Gallinule,0.9933298,56.0,59.0
+Gallinula galeata_Common Gallinule,0.9913693,57.0,60.0
+Porzana carolina_Sora,0.10559129,57.0,60.0
+Gallinula galeata_Common Gallinule,0.992802,58.0,61.0
+Porzana carolina_Sora,0.11737967,58.0,61.0
+Gallinula chloropus_Eurasian Moorhen,0.10202627,58.0,61.0
+Gallinula galeata_Common Gallinule,0.99212086,59.0,62.0
+Gallinula galeata_Common Gallinule,0.98785955,60.0,63.0
+Tringa semipalmata_Willet,0.11759136,60.0,63.0
+Gallinula galeata_Common Gallinule,0.9643394,61.0,64.0
+Tringa semipalmata_Willet,0.11100148,61.0,64.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1420755,62.0,65.0
+Gallinula galeata_Common Gallinule,0.9334321,63.0,66.0
+Tringa semipalmata_Willet,0.22386575,63.0,66.0
+Porphyrio martinica_Purple Gallinule,0.11416499,63.0,66.0
+Gallinula galeata_Common Gallinule,0.91946787,64.0,67.0
+Gallinula galeata_Common Gallinule,0.9317557,65.0,68.0
+Gallinula galeata_Common Gallinule,0.96551925,66.0,69.0
+Gallinula galeata_Common Gallinule,0.9819179,67.0,70.0
+Gallinula galeata_Common Gallinule,0.99002975,68.0,71.0
+Gallinula galeata_Common Gallinule,0.27398872,69.0,72.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11075258,71.0,74.0
+Ammospiza maritima_Seaside Sparrow,0.13600105,72.0,75.0
+Ammospiza maritima_Seaside Sparrow,0.10277533,73.0,76.0
+Gallinula galeata_Common Gallinule,0.9863383,75.0,78.0
+Gallinula galeata_Common Gallinule,0.99397004,76.0,79.0
+Gallinula galeata_Common Gallinule,0.97355473,77.0,80.0

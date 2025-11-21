@@ -1,0 +1,36 @@
+species,score,start_time,end_time
+Icteria virens_Yellow-breasted Chat,0.9699875,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.29521,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.92191947,1.0,4.0
+Mimus polyglottos_Northern Mockingbird,0.10954018,1.0,4.0
+Numenius phaeopus_Whimbrel,0.48401505,2.0,5.0
+Icteria virens_Yellow-breasted Chat,0.4445139,2.0,5.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.12462464,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5745347,4.0,7.0
+Colinus virginianus_Northern Bobwhite,0.31684956,6.0,9.0
+Icteria virens_Yellow-breasted Chat,0.23919165,6.0,9.0
+Icterus graduacauda_Audubon's Oriole,0.105183944,6.0,9.0
+Icterus graduacauda_Audubon's Oriole,0.48768747,7.0,10.0
+Icteria virens_Yellow-breasted Chat,0.3194854,7.0,10.0
+Colinus virginianus_Northern Bobwhite,0.11667252,7.0,10.0
+Icteria virens_Yellow-breasted Chat,0.32259545,8.0,11.0
+Icterus graduacauda_Audubon's Oriole,0.20603178,8.0,11.0
+Passerina ciris_Painted Bunting,0.5192196,9.0,12.0
+Icteria virens_Yellow-breasted Chat,0.5236486,10.0,13.0
+Rallus limicola_Virginia Rail,0.67739403,11.0,14.0
+Icteria virens_Yellow-breasted Chat,0.5035034,11.0,14.0
+Rallus limicola_Virginia Rail,0.75208795,12.0,15.0
+Icteria virens_Yellow-breasted Chat,0.4171452,12.0,15.0
+Rallus limicola_Virginia Rail,0.84399235,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.19606172,13.0,16.0
+Rallus elegans_King Rail,0.13689898,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.30458963,14.0,17.0
+Rallus limicola_Virginia Rail,0.2625987,14.0,17.0
+Sialia sialis_Eastern Bluebird,0.812967,15.0,18.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.3990482,15.0,18.0
+Butorides virescens_Green Heron,0.99585634,16.0,19.0
+Butorides striata_Striated Heron,0.14157121,16.0,19.0
+Butorides virescens_Green Heron,0.98911357,17.0,20.0
+Butorides striata_Striated Heron,0.22577693,17.0,20.0
+Butorides virescens_Green Heron,0.913532,18.0,20.16
+Butorides striata_Striated Heron,0.5026274,18.0,20.16

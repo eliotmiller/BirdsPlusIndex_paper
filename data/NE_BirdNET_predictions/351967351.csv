@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Zonotrichia albicollis_White-throated Sparrow,0.19609691,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.11364917,0.0,3.0
+Zonotrichia albicollis_White-throated Sparrow,0.35672808,1.0,4.0
+Zonotrichia albicollis_White-throated Sparrow,0.3323936,2.0,5.0
+Regulus satrapa_Golden-crowned Kinglet,0.49763846,3.0,6.0
+Zonotrichia albicollis_White-throated Sparrow,0.19694181,3.0,6.0
+Poecile gambeli_Mountain Chickadee,0.13159887,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.12998684,3.0,6.0
+Melospiza georgiana_Swamp Sparrow,0.3947673,5.0,8.0
+Melospiza georgiana_Swamp Sparrow,0.30974045,6.0,9.0
+Melospiza georgiana_Swamp Sparrow,0.10284267,7.0,10.0
+Ficedula parva_Red-breasted Flycatcher,0.20085801,9.0,12.0
+Regulus satrapa_Golden-crowned Kinglet,0.16825259,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.12348345,10.0,13.0
+Zonotrichia albicollis_White-throated Sparrow,0.14330779,11.0,14.0
+Zonotrichia albicollis_White-throated Sparrow,0.4485457,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.18869889,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.4239442,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.10185951,18.0,21.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14256062,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.13099733,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.143608,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.10986761,20.0,23.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10726154,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.10201467,21.0,24.0
+Cardinalis cardinalis_Northern Cardinal,0.14775199,22.0,25.0
+Cardinalis cardinalis_Northern Cardinal,0.20930767,23.0,26.0
+Cardinalis cardinalis_Northern Cardinal,0.10328032,24.0,27.0
+Buteo platypterus_Broad-winged Hawk,0.19673295,25.0,28.0
+Cardinalis cardinalis_Northern Cardinal,0.149404,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.115527235,30.0,33.0
+Parkesia noveboracensis_Northern Waterthrush,0.109551296,33.0,36.0
+Buteo platypterus_Broad-winged Hawk,0.33863723,34.0,37.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12816747,34.0,37.0
+Geothlypis formosa_Kentucky Warbler,0.16867642,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.36441588,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.18124075,37.0,40.0
+Empidonax minimus_Least Flycatcher,0.14118487,37.0,40.0
+Zonotrichia albicollis_White-throated Sparrow,0.12100694,37.0,40.0
+Empidonax minimus_Least Flycatcher,0.15979005,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.112937756,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.15839359,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14815961,47.0,50.0
+Parkesia motacilla_Louisiana Waterthrush,0.14292693,47.0,50.0
+Vireo flavifrons_Yellow-throated Vireo,0.21650955,49.0,52.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11216858,50.0,53.0
+Cyanocitta cristata_Blue Jay,0.10357809,52.0,55.0
+Empidonax virescens_Acadian Flycatcher,0.5454925,53.0,56.0
+Protonotaria citrea_Prothonotary Warbler,0.13223608,55.0,58.0
+Melospiza georgiana_Swamp Sparrow,0.23455119,56.0,59.0
+Quiscalus quiscula_Common Grackle,0.11255896,56.0,59.0
+Melospiza georgiana_Swamp Sparrow,0.3117983,57.0,60.0
+Protonotaria citrea_Prothonotary Warbler,0.14789848,59.0,62.0
+Vireo flavifrons_Yellow-throated Vireo,0.12669054,59.0,62.0
+Catharus fuscescens_Veery,0.2034673,60.0,63.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15959713,60.0,63.0
+Catharus fuscescens_Veery,0.101072185,61.0,64.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10057375,62.0,65.0
+Catharus fuscescens_Veery,0.14601523,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14508964,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14850248,65.0,68.0

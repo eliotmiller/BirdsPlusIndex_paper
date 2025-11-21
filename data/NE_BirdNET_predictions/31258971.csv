@@ -1,0 +1,47 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.7570607,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.13419461,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.11689358,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10359394,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.4590064,2.0,5.0
+Vireo philadelphicus_Philadelphia Vireo,0.15106092,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.7441818,3.0,6.0
+Vireo philadelphicus_Philadelphia Vireo,0.45896158,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.81220376,4.0,7.0
+Vireo philadelphicus_Philadelphia Vireo,0.1808897,4.0,7.0
+Poecile hudsonicus_Boreal Chickadee,0.3813824,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11096471,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.14430004,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.10117265,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.11177426,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.12742507,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.11748623,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.1321567,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.35457772,12.0,15.0
+Vireo philadelphicus_Philadelphia Vireo,0.14337325,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.35737234,13.0,16.0
+Buteo platypterus_Broad-winged Hawk,0.16756618,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.2904972,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.10969986,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.3299058,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.2577302,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.13132146,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.3188725,18.0,21.0
+Vireo philadelphicus_Philadelphia Vireo,0.15112336,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.14320083,18.0,21.0
+Vireo philadelphicus_Philadelphia Vireo,0.15954289,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.13275564,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.15945567,20.0,23.0
+Vireo philadelphicus_Philadelphia Vireo,0.124060325,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.14714295,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.1938677,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.3276022,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.34232762,25.0,28.0
+Vireo philadelphicus_Philadelphia Vireo,0.2891191,25.0,28.0
+Myzomela cardinalis_Cardinal Myzomela,0.4696948,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.15466052,27.0,30.0
+Myzomela cardinalis_Cardinal Myzomela,0.1420177,28.0,31.0
+Myzomela cardinalis_Cardinal Myzomela,0.20487902,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.12642464,37.0,40.0
+Buteo ridgwayi_Ridgway's Hawk,0.15266852,38.0,41.0
+Tamias striatus_Eastern Chipmunk,0.13729382,38.0,41.0

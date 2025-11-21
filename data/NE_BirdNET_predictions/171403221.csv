@@ -1,0 +1,21 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.77536285,0.0,3.0
+Troglodytes pacificus_Pacific Wren,0.16432199,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7223009,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.53921866,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.33530927,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.29413977,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.14993922,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.119471684,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.42947093,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.2674687,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23829369,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.10188793,6.0,9.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14384447,9.0,12.0
+Myadestes ralloides_Andean Solitaire,0.15011667,12.0,15.0
+Myadestes ralloides_Andean Solitaire,0.3166619,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.106313296,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16639856,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.14335856,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1511455,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.46620566,16.0,18.36

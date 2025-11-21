@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Basileuterus rufifrons_Rufous-capped Warbler,0.13978164,1.0,4.0
+Troglodytes aedon_House Wren,0.10800892,1.0,4.0
+Leiothlypis luciae_Lucy's Warbler,0.103953846,1.0,4.0
+Troglodytes aedon_House Wren,0.48650458,2.0,5.0
+Dumetella carolinensis_Gray Catbird,0.13651429,2.0,5.0
+Troglodytes aedon_House Wren,0.19873765,3.0,6.0
+Dumetella carolinensis_Gray Catbird,0.10894757,4.0,7.0
+Myiarchus crinitus_Great Crested Flycatcher,0.81331915,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.6032479,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.3405882,7.0,10.0
+Dumetella carolinensis_Gray Catbird,0.74901557,8.0,11.0
+Troglodytes aedon_House Wren,0.10165292,9.0,12.0
+Troglodytes aedon_House Wren,0.4405204,10.0,13.0
+Troglodytes aedon_House Wren,0.9127229,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.8426899,12.0,15.0
+Geothlypis philadelphia_Mourning Warbler,0.43267643,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.93277097,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.62506205,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.7325676,15.0,18.0
+Troglodytes aedon_House Wren,0.43683487,16.0,19.0
+Vermivora cyanoptera_Blue-winged Warbler,0.107221425,18.0,21.0
+Myiarchus crinitus_Great Crested Flycatcher,0.31720796,20.0,23.0
+Troglodytes aedon_House Wren,0.29348502,20.0,23.0
+Troglodytes aedon_House Wren,0.9623181,21.0,24.0
+Troglodytes aedon_House Wren,0.83818984,22.0,25.0
+Thryothorus ludovicianus_Carolina Wren,0.54456604,24.0,27.0
+Geothlypis philadelphia_Mourning Warbler,0.10792203,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.5323664,26.0,29.0
+Geothlypis philadelphia_Mourning Warbler,0.18384276,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.5464555,27.0,30.0
+Geothlypis philadelphia_Mourning Warbler,0.17381103,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.60616356,28.0,31.0
+Myiarchus crinitus_Great Crested Flycatcher,0.30540258,30.0,33.0
+Myiarchus crinitus_Great Crested Flycatcher,0.16572028,31.0,34.0
+Dumetella carolinensis_Gray Catbird,0.13717775,32.0,35.0
+Myiarchus crinitus_Great Crested Flycatcher,0.1164261,32.0,35.0
+Thryothorus ludovicianus_Carolina Wren,0.8782189,34.0,37.0
+Thryothorus ludovicianus_Carolina Wren,0.1956076,35.0,38.0
+Thryothorus ludovicianus_Carolina Wren,0.121064536,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.35393482,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.28188547,38.0,41.0
+Geothlypis philadelphia_Mourning Warbler,0.2513447,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.89139724,39.0,42.0
+Geothlypis formosa_Kentucky Warbler,0.839838,40.0,43.0
+Geothlypis formosa_Kentucky Warbler,0.87204057,41.0,44.0
+Geothlypis philadelphia_Mourning Warbler,0.100173816,42.0,45.0
+Thryothorus ludovicianus_Carolina Wren,0.5189755,43.0,46.0
+Thryothorus ludovicianus_Carolina Wren,0.24154477,44.0,47.0
+Geothlypis philadelphia_Mourning Warbler,0.21104567,44.0,47.0
+Geothlypis philadelphia_Mourning Warbler,0.3008205,45.0,48.0
+Setophaga kirtlandii_Kirtland's Warbler,0.21171235,45.0,48.0
+Oporornis agilis_Connecticut Warbler,0.16160786,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.10811987,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.21625523,46.0,49.0
+Dumetella carolinensis_Gray Catbird,0.5469045,47.0,50.0
+Troglodytes aedon_House Wren,0.15617976,47.0,50.0
+Dumetella carolinensis_Gray Catbird,0.5752812,48.0,51.0
+Troglodytes aedon_House Wren,0.12561607,48.0,51.0
+Dumetella carolinensis_Gray Catbird,0.42153716,49.0,52.0
+Dumetella carolinensis_Gray Catbird,0.12394752,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.27140832,51.0,54.0
+Thryothorus ludovicianus_Carolina Wren,0.15538836,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.9220824,52.0,55.0
+Geothlypis formosa_Kentucky Warbler,0.95590484,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.69261795,54.0,57.0
+Myiarchus crinitus_Great Crested Flycatcher,0.55272347,54.0,57.0
+Myiarchus crinitus_Great Crested Flycatcher,0.3790154,55.0,58.0
+Geothlypis philadelphia_Mourning Warbler,0.13371912,55.0,58.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10740945,56.0,59.0
+Chloris chloris_European Greenfinch,0.21848151,57.0,60.0
+Myiarchus crinitus_Great Crested Flycatcher,0.69551486,58.0,61.0
+Myiarchus crinitus_Great Crested Flycatcher,0.34635097,59.0,62.0
+Myiarchus crinitus_Great Crested Flycatcher,0.17537211,60.0,63.0
+Thryothorus ludovicianus_Carolina Wren,0.663796,62.0,65.0
+Thryothorus ludovicianus_Carolina Wren,0.9040596,63.0,66.0
+Thryothorus ludovicianus_Carolina Wren,0.7497952,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.9377324,65.0,68.0
+Geothlypis formosa_Kentucky Warbler,0.9830321,66.0,69.0
+Geothlypis formosa_Kentucky Warbler,0.9458106,67.0,70.0
+Geothlypis formosa_Kentucky Warbler,0.9758188,68.0,71.0
+Geothlypis philadelphia_Mourning Warbler,0.18267742,69.0,71.08802721088435
+Troglodytes aedon_House Wren,0.10267466,69.0,71.08802721088435

@@ -1,0 +1,271 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.9633986,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.94957197,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.880471,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.5353572,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.97269225,4.0,7.0
+Cistothorus stellaris_Sedge Wren,0.72358716,5.0,8.0
+Cistothorus platensis_Grass Wren,0.58758885,5.0,8.0
+Cistothorus platensis_Grass Wren,0.5302985,6.0,9.0
+Cistothorus stellaris_Sedge Wren,0.4538188,6.0,9.0
+Cistothorus platensis_Grass Wren,0.57495445,7.0,10.0
+Cistothorus stellaris_Sedge Wren,0.49576122,7.0,10.0
+Cistothorus platensis_Grass Wren,0.7334677,8.0,11.0
+Cistothorus stellaris_Sedge Wren,0.51622605,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.68815124,9.0,12.0
+Icterus spurius_Orchard Oriole,0.17902656,9.0,12.0
+Icterus cucullatus_Hooded Oriole,0.101430036,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.38893557,10.0,13.0
+Sporophila morelleti_Morelet's Seedeater,0.22857621,11.0,14.0
+Sporophila minuta_Ruddy-breasted Seedeater,0.1567013,11.0,14.0
+Sporophila funerea_Thick-billed Seed-Finch,0.11279428,11.0,14.0
+Cistothorus stellaris_Sedge Wren,0.73641515,12.0,15.0
+Cistothorus platensis_Grass Wren,0.69748086,12.0,15.0
+Cistothorus platensis_Grass Wren,0.53393507,13.0,16.0
+Cistothorus stellaris_Sedge Wren,0.49519148,13.0,16.0
+Cistothorus platensis_Grass Wren,0.56028986,14.0,17.0
+Cistothorus stellaris_Sedge Wren,0.53096175,14.0,17.0
+Cistothorus platensis_Grass Wren,0.63298744,15.0,18.0
+Cistothorus stellaris_Sedge Wren,0.58488,15.0,18.0
+Cistothorus platensis_Grass Wren,0.62047416,16.0,19.0
+Cistothorus stellaris_Sedge Wren,0.57929206,16.0,19.0
+Cistothorus palustris_Marsh Wren,0.18042973,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.7170507,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.7899928,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.48740157,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.5491143,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.19818021,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.66977495,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.494923,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.38072056,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.43570104,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.57753414,26.0,29.0
+Elanus leucurus_White-tailed Kite,0.13106997,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.18656364,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.43752712,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.5163903,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.56594205,32.0,35.0
+Cistothorus stellaris_Sedge Wren,0.27814838,32.0,35.0
+Cistothorus platensis_Grass Wren,0.1410698,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.344738,33.0,36.0
+Cistothorus stellaris_Sedge Wren,0.14798674,33.0,36.0
+Cistothorus platensis_Grass Wren,0.114468165,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.11214349,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.24513918,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.34065363,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.3187405,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.55978173,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.49451593,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.3920457,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.4170959,42.0,45.0
+Cistothorus platensis_Grass Wren,0.394401,44.0,47.0
+Cistothorus stellaris_Sedge Wren,0.15023364,44.0,47.0
+Cistothorus palustris_Marsh Wren,0.10037933,44.0,47.0
+Cistothorus platensis_Grass Wren,0.45483345,45.0,48.0
+Cistothorus stellaris_Sedge Wren,0.2506374,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.6893293,46.0,49.0
+Cistothorus platensis_Grass Wren,0.34177038,46.0,49.0
+Cistothorus stellaris_Sedge Wren,0.15467486,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.10491546,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.23224233,50.0,53.0
+Cistothorus stellaris_Sedge Wren,0.69665056,51.0,54.0
+Cistothorus platensis_Grass Wren,0.6205327,51.0,54.0
+Cistothorus stellaris_Sedge Wren,0.79266727,52.0,55.0
+Cistothorus platensis_Grass Wren,0.7675181,52.0,55.0
+Cistothorus stellaris_Sedge Wren,0.7532912,53.0,56.0
+Cistothorus platensis_Grass Wren,0.7402048,53.0,56.0
+Cistothorus stellaris_Sedge Wren,0.7523277,54.0,57.0
+Cistothorus platensis_Grass Wren,0.7370333,54.0,57.0
+Cistothorus stellaris_Sedge Wren,0.5418395,55.0,58.0
+Cistothorus platensis_Grass Wren,0.4832909,55.0,58.0
+Cistothorus stellaris_Sedge Wren,0.7361544,56.0,59.0
+Cistothorus platensis_Grass Wren,0.6325814,56.0,59.0
+Cistothorus stellaris_Sedge Wren,0.68633425,57.0,60.0
+Cistothorus platensis_Grass Wren,0.6722636,57.0,60.0
+Cistothorus stellaris_Sedge Wren,0.78974926,58.0,61.0
+Cistothorus platensis_Grass Wren,0.696871,58.0,61.0
+Cistothorus stellaris_Sedge Wren,0.79964834,59.0,62.0
+Cistothorus platensis_Grass Wren,0.6561361,59.0,62.0
+Geothlypis trichas_Common Yellowthroat,0.23013726,60.0,63.0
+Geothlypis trichas_Common Yellowthroat,0.113018304,61.0,64.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11064132,62.0,65.0
+Cistothorus stellaris_Sedge Wren,0.81136477,63.0,66.0
+Cistothorus platensis_Grass Wren,0.74434155,63.0,66.0
+Cistothorus stellaris_Sedge Wren,0.8894526,64.0,67.0
+Cistothorus platensis_Grass Wren,0.82646954,64.0,67.0
+Cistothorus stellaris_Sedge Wren,0.72011817,65.0,68.0
+Cistothorus platensis_Grass Wren,0.6459604,65.0,68.0
+Cistothorus stellaris_Sedge Wren,0.7748619,66.0,69.0
+Cistothorus platensis_Grass Wren,0.64074093,66.0,69.0
+Geothlypis trichas_Common Yellowthroat,0.16435584,67.0,70.0
+Passerina ciris_Painted Bunting,0.13142137,67.0,70.0
+Geothlypis trichas_Common Yellowthroat,0.17918493,68.0,71.0
+Cistothorus stellaris_Sedge Wren,0.31110656,69.0,72.0
+Cistothorus platensis_Grass Wren,0.19150287,69.0,72.0
+Setophaga petechia_Yellow Warbler,0.118703805,69.0,72.0
+Cistothorus stellaris_Sedge Wren,0.71209794,70.0,73.0
+Cistothorus platensis_Grass Wren,0.60929406,70.0,73.0
+Cistothorus stellaris_Sedge Wren,0.42321086,71.0,74.0
+Cistothorus platensis_Grass Wren,0.31266895,71.0,74.0
+Dolichonyx oryzivorus_Bobolink,0.19903232,72.0,75.0
+Cistothorus stellaris_Sedge Wren,0.5853114,74.0,77.0
+Cistothorus platensis_Grass Wren,0.30512026,74.0,77.0
+Cistothorus stellaris_Sedge Wren,0.7837832,75.0,78.0
+Cistothorus platensis_Grass Wren,0.65765256,75.0,78.0
+Cistothorus stellaris_Sedge Wren,0.7958938,76.0,79.0
+Cistothorus platensis_Grass Wren,0.7117816,76.0,79.0
+Cistothorus stellaris_Sedge Wren,0.63097334,77.0,80.0
+Cistothorus platensis_Grass Wren,0.51836294,77.0,80.0
+Dolichonyx oryzivorus_Bobolink,0.55050266,78.0,81.0
+Cistothorus stellaris_Sedge Wren,0.6474899,82.0,85.0
+Cistothorus platensis_Grass Wren,0.5309305,82.0,85.0
+Cistothorus stellaris_Sedge Wren,0.8178026,83.0,86.0
+Cistothorus platensis_Grass Wren,0.67633045,83.0,86.0
+Cistothorus stellaris_Sedge Wren,0.83982444,84.0,87.0
+Cistothorus platensis_Grass Wren,0.7148013,84.0,87.0
+Dolichonyx oryzivorus_Bobolink,0.3124912,85.0,88.0
+Dolichonyx oryzivorus_Bobolink,0.114462964,87.0,90.0
+Cistothorus stellaris_Sedge Wren,0.7578224,88.0,91.0
+Cistothorus platensis_Grass Wren,0.55930465,88.0,91.0
+Cistothorus stellaris_Sedge Wren,0.74644244,89.0,92.0
+Cistothorus platensis_Grass Wren,0.50586027,89.0,92.0
+Cistothorus stellaris_Sedge Wren,0.78746676,90.0,93.0
+Cistothorus platensis_Grass Wren,0.5814815,90.0,93.0
+Cistothorus stellaris_Sedge Wren,0.5759891,91.0,94.0
+Cistothorus platensis_Grass Wren,0.49280307,91.0,94.0
+Dolichonyx oryzivorus_Bobolink,0.17351554,93.0,96.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13755424,94.0,97.0
+Dolichonyx oryzivorus_Bobolink,0.10710455,94.0,97.0
+Geothlypis trichas_Common Yellowthroat,0.4510277,96.0,99.0
+Passerina ciris_Painted Bunting,0.26880664,96.0,99.0
+Geothlypis trichas_Common Yellowthroat,0.429198,97.0,100.0
+Passerina ciris_Painted Bunting,0.100843765,97.0,100.0
+Geothlypis trichas_Common Yellowthroat,0.37889,98.0,101.0
+Melospiza melodia_Song Sparrow,0.37757465,101.0,104.0
+Melospiza melodia_Song Sparrow,0.18286741,102.0,105.0
+Melospiza melodia_Song Sparrow,0.47464645,103.0,106.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12690853,104.0,107.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31015703,105.0,108.0
+Spizella pusilla_Field Sparrow,0.16491637,105.0,108.0
+Chondestes grammacus_Lark Sparrow,0.24080373,106.0,109.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14592232,106.0,109.0
+Bombycilla cedrorum_Cedar Waxwing,0.13001913,106.0,109.0
+Bombycilla cedrorum_Cedar Waxwing,0.40594292,107.0,110.0
+Ammodramus savannarum_Grasshopper Sparrow,0.31050846,107.0,110.0
+Ammodramus savannarum_Grasshopper Sparrow,0.3759597,108.0,111.0
+Bombycilla cedrorum_Cedar Waxwing,0.13942146,108.0,111.0
+Passerina ciris_Painted Bunting,0.17865518,109.0,112.0
+Geothlypis trichas_Common Yellowthroat,0.13786747,110.0,113.0
+Geothlypis trichas_Common Yellowthroat,0.1399111,116.0,119.0
+Geothlypis trichas_Common Yellowthroat,0.18456428,117.0,120.0
+Geothlypis trichas_Common Yellowthroat,0.16503395,118.0,121.0
+Ammospiza nelsoni_Nelson's Sparrow,0.15476772,118.0,121.0
+Cistothorus stellaris_Sedge Wren,0.497405,120.0,123.0
+Cistothorus platensis_Grass Wren,0.44233543,120.0,123.0
+Cistothorus stellaris_Sedge Wren,0.6459524,121.0,124.0
+Cistothorus platensis_Grass Wren,0.5799107,121.0,124.0
+Cistothorus stellaris_Sedge Wren,0.63599265,122.0,125.0
+Cistothorus platensis_Grass Wren,0.5392748,122.0,125.0
+Cistothorus platensis_Grass Wren,0.25693986,123.0,126.0
+Cistothorus stellaris_Sedge Wren,0.18393007,123.0,126.0
+Dolichonyx oryzivorus_Bobolink,0.9803506,124.0,127.0
+Dolichonyx oryzivorus_Bobolink,0.81652355,125.0,128.0
+Icterus spurius_Orchard Oriole,0.14889678,125.0,128.0
+Cistothorus stellaris_Sedge Wren,0.5194096,126.0,129.0
+Cistothorus platensis_Grass Wren,0.37288484,126.0,129.0
+Cistothorus stellaris_Sedge Wren,0.74543947,127.0,130.0
+Cistothorus platensis_Grass Wren,0.6577459,127.0,130.0
+Cistothorus stellaris_Sedge Wren,0.8122542,128.0,131.0
+Cistothorus platensis_Grass Wren,0.68706685,128.0,131.0
+Cistothorus platensis_Grass Wren,0.47007063,129.0,132.0
+Cistothorus stellaris_Sedge Wren,0.46174774,129.0,132.0
+Dolichonyx oryzivorus_Bobolink,0.85389274,130.0,133.0
+Dolichonyx oryzivorus_Bobolink,0.7716836,131.0,134.0
+Elanus leucurus_White-tailed Kite,0.103978105,131.0,134.0
+Dolichonyx oryzivorus_Bobolink,0.85632837,132.0,135.0
+Dolichonyx oryzivorus_Bobolink,0.29344,133.0,136.0
+Cistothorus stellaris_Sedge Wren,0.64068735,137.0,140.0
+Cistothorus platensis_Grass Wren,0.42596462,137.0,140.0
+Cistothorus stellaris_Sedge Wren,0.8519961,138.0,141.0
+Cistothorus platensis_Grass Wren,0.6838016,138.0,141.0
+Cistothorus stellaris_Sedge Wren,0.787755,139.0,142.0
+Cistothorus platensis_Grass Wren,0.64047927,139.0,142.0
+Cistothorus stellaris_Sedge Wren,0.82941264,140.0,143.0
+Cistothorus platensis_Grass Wren,0.70796216,140.0,143.0
+Cistothorus stellaris_Sedge Wren,0.77812046,141.0,144.0
+Cistothorus platensis_Grass Wren,0.6804979,141.0,144.0
+Ammospiza nelsoni_Nelson's Sparrow,0.101734,142.0,145.0
+Cistothorus stellaris_Sedge Wren,0.8522501,143.0,146.0
+Cistothorus platensis_Grass Wren,0.6745491,143.0,146.0
+Cistothorus stellaris_Sedge Wren,0.8206628,144.0,147.0
+Cistothorus platensis_Grass Wren,0.7291923,144.0,147.0
+Cistothorus stellaris_Sedge Wren,0.8372433,145.0,148.0
+Cistothorus platensis_Grass Wren,0.7967817,145.0,148.0
+Cistothorus stellaris_Sedge Wren,0.8035367,146.0,149.0
+Cistothorus platensis_Grass Wren,0.6967326,146.0,149.0
+Anthus rubescens_American Pipit,0.21516311,148.0,151.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12596157,150.0,153.0
+Podilymbus podiceps_Pied-billed Grebe,0.11463931,151.0,154.0
+Cistothorus platensis_Grass Wren,0.53177595,152.0,155.0
+Cistothorus stellaris_Sedge Wren,0.3990607,152.0,155.0
+Cistothorus stellaris_Sedge Wren,0.4798067,153.0,156.0
+Cistothorus platensis_Grass Wren,0.42267442,153.0,156.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1842148,153.0,156.0
+Cistothorus platensis_Grass Wren,0.44536355,154.0,157.0
+Cistothorus stellaris_Sedge Wren,0.43287104,154.0,157.0
+Ammospiza nelsoni_Nelson's Sparrow,0.12894703,154.0,157.0
+Cistothorus stellaris_Sedge Wren,0.15896724,155.0,158.0
+Cistothorus platensis_Grass Wren,0.13264361,155.0,158.0
+Engine_Engine,0.23819536,156.0,159.0
+Cistothorus stellaris_Sedge Wren,0.7557182,157.0,160.0
+Cistothorus platensis_Grass Wren,0.60396874,157.0,160.0
+Cistothorus stellaris_Sedge Wren,0.6753448,158.0,161.0
+Cistothorus platensis_Grass Wren,0.56278104,158.0,161.0
+Cistothorus stellaris_Sedge Wren,0.759974,159.0,162.0
+Cistothorus platensis_Grass Wren,0.5194789,159.0,162.0
+Cistothorus stellaris_Sedge Wren,0.79786336,160.0,163.0
+Cistothorus platensis_Grass Wren,0.57984537,160.0,163.0
+Cistothorus stellaris_Sedge Wren,0.83423597,161.0,164.0
+Cistothorus platensis_Grass Wren,0.7112335,161.0,164.0
+Cistothorus stellaris_Sedge Wren,0.6988765,162.0,165.0
+Cistothorus platensis_Grass Wren,0.5561975,162.0,165.0
+Passerina ciris_Painted Bunting,0.15976691,163.0,166.0
+Cistothorus stellaris_Sedge Wren,0.6345221,164.0,167.0
+Cistothorus platensis_Grass Wren,0.3983304,164.0,167.0
+Cistothorus stellaris_Sedge Wren,0.62410897,165.0,168.0
+Cistothorus platensis_Grass Wren,0.5258148,165.0,168.0
+Cistothorus stellaris_Sedge Wren,0.73287696,166.0,169.0
+Cistothorus platensis_Grass Wren,0.5198524,166.0,169.0
+Cistothorus stellaris_Sedge Wren,0.60971713,167.0,170.0
+Cistothorus platensis_Grass Wren,0.49969178,167.0,170.0
+Dolichonyx oryzivorus_Bobolink,0.5110496,168.0,171.0
+Cistothorus stellaris_Sedge Wren,0.6507121,169.0,172.0
+Cistothorus platensis_Grass Wren,0.49644348,169.0,172.0
+Cistothorus stellaris_Sedge Wren,0.7556743,170.0,173.0
+Cistothorus platensis_Grass Wren,0.5754477,170.0,173.0
+Cistothorus stellaris_Sedge Wren,0.8270246,171.0,174.0
+Cistothorus platensis_Grass Wren,0.64980143,171.0,174.0
+Cistothorus stellaris_Sedge Wren,0.75571054,172.0,175.0
+Cistothorus platensis_Grass Wren,0.6558317,172.0,175.0
+Cistothorus stellaris_Sedge Wren,0.4242903,173.0,176.0
+Cistothorus platensis_Grass Wren,0.37848854,173.0,176.0
+Dolichonyx oryzivorus_Bobolink,0.32682025,174.0,177.0
+Haemorhous mexicanus_House Finch,0.14661534,174.0,177.0
+Dolichonyx oryzivorus_Bobolink,0.42788148,175.0,178.0
+Cistothorus stellaris_Sedge Wren,0.66848314,176.0,179.0
+Cistothorus platensis_Grass Wren,0.49700284,176.0,179.0
+Cistothorus stellaris_Sedge Wren,0.88878804,177.0,180.0
+Cistothorus platensis_Grass Wren,0.7912114,177.0,180.0
+Cistothorus stellaris_Sedge Wren,0.8640652,178.0,181.0
+Cistothorus platensis_Grass Wren,0.7920995,178.0,181.0
+Cistothorus stellaris_Sedge Wren,0.77920735,179.0,182.0
+Cistothorus platensis_Grass Wren,0.6687914,179.0,182.0
+Dolichonyx oryzivorus_Bobolink,0.10682872,181.0,184.0
+Cistothorus stellaris_Sedge Wren,0.34396118,182.0,185.0
+Cistothorus platensis_Grass Wren,0.16878815,182.0,185.0
+Cistothorus stellaris_Sedge Wren,0.6374235,183.0,186.0
+Cistothorus platensis_Grass Wren,0.44558954,183.0,186.0
+Cistothorus stellaris_Sedge Wren,0.7605565,184.0,187.0
+Cistothorus platensis_Grass Wren,0.55374336,184.0,187.0
+Cistothorus stellaris_Sedge Wren,0.64105695,185.0,187.77600907029478
+Cistothorus platensis_Grass Wren,0.56603986,185.0,187.77600907029478

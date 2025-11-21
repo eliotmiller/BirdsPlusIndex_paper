@@ -1,0 +1,74 @@
+species,score,start_time,end_time
+Setophaga pensylvanica_Chestnut-sided Warbler,0.48290104,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.23376405,1.0,4.0
+Cardellina canadensis_Canada Warbler,0.10113435,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5794555,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.12991458,2.0,5.0
+Cardellina canadensis_Canada Warbler,0.12069212,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.41340706,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.13363713,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.10912846,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.2073114,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16947189,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.14640066,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.10171237,4.0,7.0
+Pipilo erythrophthalmus_Eastern Towhee,0.33168098,8.0,11.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19578728,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15094987,9.0,12.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.36765656,10.0,13.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.37062028,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.17223445,11.0,14.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.47594643,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.37506917,12.0,15.0
+Cardellina canadensis_Canada Warbler,0.5813994,13.0,16.0
+Setophaga magnolia_Magnolia Warbler,0.3364964,13.0,16.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12155712,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.27085686,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2763432,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105953656,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21714535,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10686448,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.40618944,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122367166,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.38931105,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.31886095,21.0,24.0
+Cardellina canadensis_Canada Warbler,0.22301377,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110930234,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.27962005,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17443283,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.12589146,23.0,26.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10179877,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24141096,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13950187,26.0,29.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2048147,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.50589305,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.116593234,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17836168,29.0,32.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2586743,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.65511864,32.0,35.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1970412,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2974323,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18568508,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14738402,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.10523801,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.38676772,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.42591184,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.10354135,37.0,40.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.49383104,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.32149544,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.38131258,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.5110325,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14892526,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.116974786,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10749584,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.2507074,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1029918,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.19777952,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12393469,43.0,46.0
+Pipilo erythrophthalmus_Eastern Towhee,0.32172084,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.36129555,47.0,50.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16734184,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.22979084,48.0,51.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13947959,48.0,51.0
+Cardellina canadensis_Canada Warbler,0.10530682,49.0,51.72
+Setophaga magnolia_Magnolia Warbler,0.10208962,49.0,51.72

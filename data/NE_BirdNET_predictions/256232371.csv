@@ -1,0 +1,340 @@
+species,score,start_time,end_time
+Buteo jamaicensis_Red-tailed Hawk,0.7802888,0.0,3.0
+Pandion haliaetus_Osprey,0.60676575,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.8944609,1.0,4.0
+Pandion haliaetus_Osprey,0.40137112,1.0,4.0
+Haliaeetus leucocephalus_Bald Eagle,0.13426144,1.0,4.0
+Buteo jamaicensis_Red-tailed Hawk,0.91205317,2.0,5.0
+Haliaeetus leucocephalus_Bald Eagle,0.36817595,2.0,5.0
+Pandion haliaetus_Osprey,0.14224821,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.70503396,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.5122572,3.0,6.0
+Pandion haliaetus_Osprey,0.36464596,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.82696396,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.5636786,4.0,7.0
+Pandion haliaetus_Osprey,0.30424517,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.6883086,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.26551104,5.0,8.0
+Pandion haliaetus_Osprey,0.10812617,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.21986185,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.18307182,6.0,9.0
+Buteo jamaicensis_Red-tailed Hawk,0.17972244,7.0,10.0
+Contopus virens_Eastern Wood-Pewee,0.16813807,9.0,12.0
+Falco columbarius_Merlin,0.10018971,9.0,12.0
+Pandion haliaetus_Osprey,0.10969618,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.101269804,10.0,13.0
+Pandion haliaetus_Osprey,0.87342185,11.0,14.0
+Buteo jamaicensis_Red-tailed Hawk,0.63596225,11.0,14.0
+Buteo jamaicensis_Red-tailed Hawk,0.8650666,12.0,15.0
+Pandion haliaetus_Osprey,0.6895338,12.0,15.0
+Pandion haliaetus_Osprey,0.8549341,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.67749393,13.0,16.0
+Buteo jamaicensis_Red-tailed Hawk,0.58886915,14.0,17.0
+Pandion haliaetus_Osprey,0.41223383,14.0,17.0
+Haliaeetus leucocephalus_Bald Eagle,0.17713973,14.0,17.0
+Contopus sordidulus_Western Wood-Pewee,0.30482385,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.30324775,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.12152707,15.0,18.0
+Ictinia mississippiensis_Mississippi Kite,0.10267314,15.0,18.0
+Ictinia mississippiensis_Mississippi Kite,0.30394104,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.6581332,17.0,20.0
+Haliaeetus leucocephalus_Bald Eagle,0.4816807,17.0,20.0
+Pandion haliaetus_Osprey,0.2814319,17.0,20.0
+Buteo jamaicensis_Red-tailed Hawk,0.9572116,18.0,21.0
+Haliaeetus leucocephalus_Bald Eagle,0.69544613,18.0,21.0
+Milvus migrans_Black Kite,0.21036202,18.0,21.0
+Pandion haliaetus_Osprey,0.12469625,18.0,21.0
+Buteo jamaicensis_Red-tailed Hawk,0.9676251,19.0,22.0
+Haliaeetus leucocephalus_Bald Eagle,0.5381721,19.0,22.0
+Pandion haliaetus_Osprey,0.3595908,19.0,22.0
+Buteo jamaicensis_Red-tailed Hawk,0.9816182,20.0,23.0
+Haliaeetus leucocephalus_Bald Eagle,0.12110685,20.0,23.0
+Buteo jamaicensis_Red-tailed Hawk,0.30181786,21.0,24.0
+Ictinia mississippiensis_Mississippi Kite,0.14003477,21.0,24.0
+Pandion haliaetus_Osprey,0.12116108,21.0,24.0
+Buteo jamaicensis_Red-tailed Hawk,0.31047738,22.0,25.0
+Pandion haliaetus_Osprey,0.23638524,22.0,25.0
+Haliaeetus leucocephalus_Bald Eagle,0.17088814,22.0,25.0
+Ictinia mississippiensis_Mississippi Kite,0.15310295,23.0,26.0
+Buteo jamaicensis_Red-tailed Hawk,0.11019586,23.0,26.0
+Buteo jamaicensis_Red-tailed Hawk,0.16849934,24.0,27.0
+Buteo jamaicensis_Red-tailed Hawk,0.3078966,25.0,28.0
+Pandion haliaetus_Osprey,0.10334908,25.0,28.0
+Pandion haliaetus_Osprey,0.8326071,26.0,29.0
+Buteo jamaicensis_Red-tailed Hawk,0.795638,26.0,29.0
+Haliaeetus leucocephalus_Bald Eagle,0.27492315,26.0,29.0
+Buteo jamaicensis_Red-tailed Hawk,0.94858193,27.0,30.0
+Pandion haliaetus_Osprey,0.9150922,27.0,30.0
+Haliaeetus leucocephalus_Bald Eagle,0.33897227,27.0,30.0
+Buteo jamaicensis_Red-tailed Hawk,0.97342175,28.0,31.0
+Pandion haliaetus_Osprey,0.28835517,28.0,31.0
+Haliaeetus leucocephalus_Bald Eagle,0.12049268,28.0,31.0
+Buteo jamaicensis_Red-tailed Hawk,0.79644835,29.0,32.0
+Haliaeetus leucocephalus_Bald Eagle,0.5819655,29.0,32.0
+Pandion haliaetus_Osprey,0.5654467,29.0,32.0
+Buteo jamaicensis_Red-tailed Hawk,0.9373266,30.0,33.0
+Haliaeetus leucocephalus_Bald Eagle,0.19664499,30.0,33.0
+Pandion haliaetus_Osprey,0.15214692,30.0,33.0
+Buteo jamaicensis_Red-tailed Hawk,0.9365488,31.0,34.0
+Pandion haliaetus_Osprey,0.4280488,31.0,34.0
+Haliaeetus leucocephalus_Bald Eagle,0.3067896,31.0,34.0
+Buteo jamaicensis_Red-tailed Hawk,0.9549815,32.0,35.0
+Pandion haliaetus_Osprey,0.39898187,32.0,35.0
+Haliaeetus leucocephalus_Bald Eagle,0.33439234,32.0,35.0
+Buteo jamaicensis_Red-tailed Hawk,0.9873611,33.0,36.0
+Haliaeetus leucocephalus_Bald Eagle,0.4115809,33.0,36.0
+Pandion haliaetus_Osprey,0.13244526,33.0,36.0
+Buteo jamaicensis_Red-tailed Hawk,0.90295243,34.0,37.0
+Haliaeetus leucocephalus_Bald Eagle,0.26708254,34.0,37.0
+Buteo jamaicensis_Red-tailed Hawk,0.13850363,35.0,38.0
+Buteo jamaicensis_Red-tailed Hawk,0.9835122,36.0,39.0
+Pandion haliaetus_Osprey,0.47934762,36.0,39.0
+Haliaeetus leucocephalus_Bald Eagle,0.22140239,36.0,39.0
+Buteo jamaicensis_Red-tailed Hawk,0.9879788,37.0,40.0
+Pandion haliaetus_Osprey,0.35529605,37.0,40.0
+Haliaeetus leucocephalus_Bald Eagle,0.18619166,37.0,40.0
+Buteo jamaicensis_Red-tailed Hawk,0.99048597,38.0,41.0
+Haliaeetus leucocephalus_Bald Eagle,0.23340298,38.0,41.0
+Pandion haliaetus_Osprey,0.1682727,38.0,41.0
+Buteo jamaicensis_Red-tailed Hawk,0.99263316,39.0,42.0
+Buteo jamaicensis_Red-tailed Hawk,0.96108264,40.0,43.0
+Haliaeetus leucocephalus_Bald Eagle,0.16706637,40.0,43.0
+Pandion haliaetus_Osprey,0.343989,41.0,44.0
+Contopus sordidulus_Western Wood-Pewee,0.2587063,41.0,44.0
+Haliaeetus leucocephalus_Bald Eagle,0.13810518,41.0,44.0
+Buteo jamaicensis_Red-tailed Hawk,0.12538892,41.0,44.0
+Buteo jamaicensis_Red-tailed Hawk,0.98321104,42.0,45.0
+Pandion haliaetus_Osprey,0.18938759,42.0,45.0
+Haliaeetus leucocephalus_Bald Eagle,0.17299536,42.0,45.0
+Buteo jamaicensis_Red-tailed Hawk,0.96820563,43.0,46.0
+Pandion haliaetus_Osprey,0.54870003,43.0,46.0
+Haliaeetus leucocephalus_Bald Eagle,0.19179682,43.0,46.0
+Buteo jamaicensis_Red-tailed Hawk,0.99285686,44.0,47.0
+Buteo jamaicensis_Red-tailed Hawk,0.97982347,45.0,48.0
+Buteo jamaicensis_Red-tailed Hawk,0.98961484,46.0,49.0
+Buteo jamaicensis_Red-tailed Hawk,0.9556544,47.0,50.0
+Haliaeetus leucocephalus_Bald Eagle,0.17417133,47.0,50.0
+Buteo jamaicensis_Red-tailed Hawk,0.7893587,48.0,51.0
+Haliaeetus leucocephalus_Bald Eagle,0.31634012,49.0,52.0
+Rhegmatorhina melanosticta_Hairy-crested Antbird,0.10307674,49.0,52.0
+Buteo jamaicensis_Red-tailed Hawk,0.69718784,50.0,53.0
+Haliaeetus leucocephalus_Bald Eagle,0.48574036,50.0,53.0
+Pandion haliaetus_Osprey,0.42363793,50.0,53.0
+Buteo jamaicensis_Red-tailed Hawk,0.7575366,51.0,54.0
+Pandion haliaetus_Osprey,0.25509945,51.0,54.0
+Haliaeetus leucocephalus_Bald Eagle,0.105369404,51.0,54.0
+Buteo jamaicensis_Red-tailed Hawk,0.8172184,52.0,55.0
+Pandion haliaetus_Osprey,0.129576,52.0,55.0
+Buteo jamaicensis_Red-tailed Hawk,0.7064408,53.0,56.0
+Buteo jamaicensis_Red-tailed Hawk,0.22982308,54.0,57.0
+Contopus sordidulus_Western Wood-Pewee,0.22977507,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.21766353,54.0,57.0
+Buteo jamaicensis_Red-tailed Hawk,0.82430845,56.0,59.0
+Haliaeetus leucocephalus_Bald Eagle,0.13493274,56.0,59.0
+Buteo jamaicensis_Red-tailed Hawk,0.8279813,57.0,60.0
+Haliaeetus leucocephalus_Bald Eagle,0.20196979,57.0,60.0
+Pandion haliaetus_Osprey,0.1116273,57.0,60.0
+Buteo jamaicensis_Red-tailed Hawk,0.65032566,58.0,61.0
+Pandion haliaetus_Osprey,0.36654422,58.0,61.0
+Haliaeetus leucocephalus_Bald Eagle,0.10026299,58.0,61.0
+Buteo jamaicensis_Red-tailed Hawk,0.92128706,59.0,62.0
+Pandion haliaetus_Osprey,0.23633729,59.0,62.0
+Buteo jamaicensis_Red-tailed Hawk,0.29560196,60.0,63.0
+Buteo jamaicensis_Red-tailed Hawk,0.54808235,61.0,64.0
+Haliaeetus leucocephalus_Bald Eagle,0.106036685,61.0,64.0
+Buteo jamaicensis_Red-tailed Hawk,0.8682498,62.0,65.0
+Haliaeetus leucocephalus_Bald Eagle,0.24738349,62.0,65.0
+Pandion haliaetus_Osprey,0.1369869,62.0,65.0
+Archilochus colubris_Ruby-throated Hummingbird,0.83545446,63.0,66.0
+Archilochus colubris_Ruby-throated Hummingbird,0.84452313,64.0,67.0
+Archilochus colubris_Ruby-throated Hummingbird,0.82677305,65.0,68.0
+Buteo jamaicensis_Red-tailed Hawk,0.10240659,65.0,68.0
+Buteo jamaicensis_Red-tailed Hawk,0.68738323,66.0,69.0
+Haliaeetus leucocephalus_Bald Eagle,0.1209781,66.0,69.0
+Buteo jamaicensis_Red-tailed Hawk,0.9676784,67.0,70.0
+Pandion haliaetus_Osprey,0.11869639,67.0,70.0
+Buteo jamaicensis_Red-tailed Hawk,0.96881235,68.0,71.0
+Pandion haliaetus_Osprey,0.12596077,68.0,71.0
+Buteo jamaicensis_Red-tailed Hawk,0.9569792,69.0,72.0
+Buteo brachyurus_Short-tailed Hawk,0.22042817,69.0,72.0
+Buteo swainsoni_Swainson's Hawk,0.11611679,69.0,72.0
+Haliaeetus leucocephalus_Bald Eagle,0.10504718,69.0,72.0
+Contopus virens_Eastern Wood-Pewee,0.22730063,70.0,73.0
+Buteo jamaicensis_Red-tailed Hawk,0.38769424,71.0,74.0
+Haliaeetus leucocephalus_Bald Eagle,0.1051445,71.0,74.0
+Buteo jamaicensis_Red-tailed Hawk,0.8011761,72.0,75.0
+Buteo jamaicensis_Red-tailed Hawk,0.9866642,73.0,76.0
+Buteo swainsoni_Swainson's Hawk,0.11055379,73.0,76.0
+Buteo jamaicensis_Red-tailed Hawk,0.9825105,74.0,77.0
+Buteo jamaicensis_Red-tailed Hawk,0.98475677,75.0,78.0
+Buteo jamaicensis_Red-tailed Hawk,0.9416523,76.0,79.0
+Buteo swainsoni_Swainson's Hawk,0.22174692,76.0,79.0
+Buteo jamaicensis_Red-tailed Hawk,0.61759996,77.0,80.0
+Ictinia mississippiensis_Mississippi Kite,0.11709107,77.0,80.0
+Buteo jamaicensis_Red-tailed Hawk,0.90638256,81.0,84.0
+Buteo jamaicensis_Red-tailed Hawk,0.991708,82.0,85.0
+Buteo jamaicensis_Red-tailed Hawk,0.97214884,83.0,86.0
+Pandion haliaetus_Osprey,0.30800486,83.0,86.0
+Haliaeetus leucocephalus_Bald Eagle,0.22004938,83.0,86.0
+Buteo jamaicensis_Red-tailed Hawk,0.96959305,84.0,87.0
+Pandion haliaetus_Osprey,0.2003874,84.0,87.0
+Haliaeetus leucocephalus_Bald Eagle,0.10671237,84.0,87.0
+Buteo jamaicensis_Red-tailed Hawk,0.97865844,85.0,88.0
+Pandion haliaetus_Osprey,0.1612697,85.0,88.0
+Buteo jamaicensis_Red-tailed Hawk,0.9570291,86.0,89.0
+Buteo jamaicensis_Red-tailed Hawk,0.7890089,87.0,90.0
+Buteo brachyurus_Short-tailed Hawk,0.110687345,87.0,90.0
+Contopus virens_Eastern Wood-Pewee,0.10078017,87.0,90.0
+Buteo jamaicensis_Red-tailed Hawk,0.4769372,88.0,91.0
+Pandion haliaetus_Osprey,0.3565365,88.0,91.0
+Ictinia mississippiensis_Mississippi Kite,0.14080173,88.0,91.0
+Haliaeetus leucocephalus_Bald Eagle,0.1064753,88.0,91.0
+Buteo jamaicensis_Red-tailed Hawk,0.83720475,89.0,92.0
+Pandion haliaetus_Osprey,0.10062369,89.0,92.0
+Buteo jamaicensis_Red-tailed Hawk,0.95701325,90.0,93.0
+Pandion haliaetus_Osprey,0.35226053,90.0,93.0
+Haliaeetus leucocephalus_Bald Eagle,0.10041302,90.0,93.0
+Buteo jamaicensis_Red-tailed Hawk,0.9821453,91.0,94.0
+Pandion haliaetus_Osprey,0.13186061,91.0,94.0
+Buteo jamaicensis_Red-tailed Hawk,0.9290781,92.0,95.0
+Pandion haliaetus_Osprey,0.40651274,92.0,95.0
+Haliaeetus leucocephalus_Bald Eagle,0.28974888,92.0,95.0
+Buteo brachyurus_Short-tailed Hawk,0.22105457,92.0,95.0
+Buteo jamaicensis_Red-tailed Hawk,0.7920731,93.0,96.0
+Haliaeetus leucocephalus_Bald Eagle,0.27402535,93.0,96.0
+Buteo brachyurus_Short-tailed Hawk,0.18504009,93.0,96.0
+Poecile carolinensis_Carolina Chickadee,0.19155948,94.0,97.0
+Ictinia mississippiensis_Mississippi Kite,0.114512466,94.0,97.0
+Contopus sordidulus_Western Wood-Pewee,0.5752615,95.0,98.0
+Buteo jamaicensis_Red-tailed Hawk,0.14672601,95.0,98.0
+Buteo jamaicensis_Red-tailed Hawk,0.9800633,96.0,99.0
+Pandion haliaetus_Osprey,0.19607745,96.0,99.0
+Haliaeetus leucocephalus_Bald Eagle,0.15093106,96.0,99.0
+Buteo jamaicensis_Red-tailed Hawk,0.9739779,97.0,100.0
+Pandion haliaetus_Osprey,0.2527102,97.0,100.0
+Buteo jamaicensis_Red-tailed Hawk,0.98680633,98.0,101.0
+Buteo jamaicensis_Red-tailed Hawk,0.9727515,99.0,102.0
+Buteo jamaicensis_Red-tailed Hawk,0.9022043,100.0,103.0
+Pandion haliaetus_Osprey,0.120222546,100.0,103.0
+Buteo jamaicensis_Red-tailed Hawk,0.7037809,101.0,104.0
+Ictinia mississippiensis_Mississippi Kite,0.1192302,101.0,104.0
+Buteo jamaicensis_Red-tailed Hawk,0.99164236,102.0,105.0
+Pandion haliaetus_Osprey,0.112192586,102.0,105.0
+Buteo jamaicensis_Red-tailed Hawk,0.99062973,103.0,106.0
+Pandion haliaetus_Osprey,0.21198295,103.0,106.0
+Buteo jamaicensis_Red-tailed Hawk,0.9713802,104.0,107.0
+Pandion haliaetus_Osprey,0.20009354,104.0,107.0
+Buteo jamaicensis_Red-tailed Hawk,0.96933955,105.0,108.0
+Buteo swainsoni_Swainson's Hawk,0.15273894,105.0,108.0
+Pandion haliaetus_Osprey,0.10003906,105.0,108.0
+Buteo jamaicensis_Red-tailed Hawk,0.95930886,106.0,109.0
+Buteo swainsoni_Swainson's Hawk,0.1446845,106.0,109.0
+Buteo jamaicensis_Red-tailed Hawk,0.9555265,107.0,110.0
+Buteo jamaicensis_Red-tailed Hawk,0.9405958,108.0,111.0
+Buteo jamaicensis_Red-tailed Hawk,0.9834962,109.0,112.0
+Haliaeetus leucocephalus_Bald Eagle,0.4666828,109.0,112.0
+Pandion haliaetus_Osprey,0.19965455,109.0,112.0
+Buteo jamaicensis_Red-tailed Hawk,0.8917897,110.0,113.0
+Haliaeetus leucocephalus_Bald Eagle,0.433317,110.0,113.0
+Pandion haliaetus_Osprey,0.3907277,110.0,113.0
+Buteo jamaicensis_Red-tailed Hawk,0.9183396,111.0,114.0
+Pandion haliaetus_Osprey,0.7845773,111.0,114.0
+Haliaeetus leucocephalus_Bald Eagle,0.6031613,111.0,114.0
+Buteo jamaicensis_Red-tailed Hawk,0.9680513,112.0,115.0
+Haliaeetus leucocephalus_Bald Eagle,0.39494556,112.0,115.0
+Pandion haliaetus_Osprey,0.11165135,112.0,115.0
+Buteo swainsoni_Swainson's Hawk,0.1058836,112.0,115.0
+Buteo jamaicensis_Red-tailed Hawk,0.9487801,113.0,116.0
+Haliaeetus leucocephalus_Bald Eagle,0.16556102,113.0,116.0
+Buteo swainsoni_Swainson's Hawk,0.15102637,113.0,116.0
+Buteo jamaicensis_Red-tailed Hawk,0.57589483,114.0,117.0
+Haliaeetus leucocephalus_Bald Eagle,0.21066254,114.0,117.0
+Buteo jamaicensis_Red-tailed Hawk,0.6578164,115.0,118.0
+Contopus virens_Eastern Wood-Pewee,0.23054376,115.0,118.0
+Haliaeetus leucocephalus_Bald Eagle,0.22386648,115.0,118.0
+Buteo jamaicensis_Red-tailed Hawk,0.89187443,116.0,119.0
+Pandion haliaetus_Osprey,0.37259835,116.0,119.0
+Haliaeetus leucocephalus_Bald Eagle,0.32068196,116.0,119.0
+Buteo jamaicensis_Red-tailed Hawk,0.94149673,117.0,120.0
+Pandion haliaetus_Osprey,0.5715801,117.0,120.0
+Haliaeetus leucocephalus_Bald Eagle,0.15083998,117.0,120.0
+Buteo jamaicensis_Red-tailed Hawk,0.97080886,118.0,121.0
+Buteo swainsoni_Swainson's Hawk,0.12918876,118.0,121.0
+Buteo brachyurus_Short-tailed Hawk,0.10825375,118.0,121.0
+Buteo jamaicensis_Red-tailed Hawk,0.9655736,119.0,122.0
+Ictinia mississippiensis_Mississippi Kite,0.22170602,120.0,123.0
+Ictinia mississippiensis_Mississippi Kite,0.1114402,123.0,126.0
+Ictinia mississippiensis_Mississippi Kite,0.11993699,124.0,127.0
+Ictinia mississippiensis_Mississippi Kite,0.18595503,125.0,128.0
+Ictinia mississippiensis_Mississippi Kite,0.114230245,126.0,129.0
+Ictinia mississippiensis_Mississippi Kite,0.19698113,127.0,130.0
+Ictinia mississippiensis_Mississippi Kite,0.1170229,128.0,131.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.2976651,130.0,133.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10360907,130.0,133.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.70379823,131.0,134.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.30576843,132.0,135.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.25200158,132.0,135.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.37886953,133.0,136.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.27659416,133.0,136.0
+Ictinia mississippiensis_Mississippi Kite,0.12408388,133.0,136.0
+Ictinia mississippiensis_Mississippi Kite,0.1539752,134.0,137.0
+Haliaeetus leucocephalus_Bald Eagle,0.25192058,135.0,138.0
+Buteo jamaicensis_Red-tailed Hawk,0.12902021,135.0,138.0
+Buteo jamaicensis_Red-tailed Hawk,0.7049181,136.0,139.0
+Pandion haliaetus_Osprey,0.24262843,136.0,139.0
+Haliaeetus leucocephalus_Bald Eagle,0.16619426,136.0,139.0
+Accipiter striatus_Sharp-shinned Hawk,0.12081529,136.0,139.0
+Buteo jamaicensis_Red-tailed Hawk,0.56238765,137.0,140.0
+Pandion haliaetus_Osprey,0.33537614,137.0,140.0
+Buteo jamaicensis_Red-tailed Hawk,0.82251465,138.0,141.0
+Pandion haliaetus_Osprey,0.11435157,138.0,141.0
+Buteo jamaicensis_Red-tailed Hawk,0.7084388,139.0,142.0
+Ictinia mississippiensis_Mississippi Kite,0.12347538,139.0,142.0
+Ictinia mississippiensis_Mississippi Kite,0.16647011,140.0,143.0
+Ictinia mississippiensis_Mississippi Kite,0.5743425,141.0,144.0
+Spinus tristis_American Goldfinch,0.20729414,141.0,144.0
+Sitta pusilla_Brown-headed Nuthatch,0.10369673,141.0,144.0
+Ictinia mississippiensis_Mississippi Kite,0.20760089,142.0,145.0
+Spinus tristis_American Goldfinch,0.13750267,142.0,145.0
+Spinus tristis_American Goldfinch,0.3529774,143.0,146.0
+Ictinia mississippiensis_Mississippi Kite,0.27679494,143.0,146.0
+Ictinia mississippiensis_Mississippi Kite,0.1693341,144.0,147.0
+Buteo jamaicensis_Red-tailed Hawk,0.11349714,144.0,147.0
+Buteo jamaicensis_Red-tailed Hawk,0.70921105,145.0,148.0
+Pandion haliaetus_Osprey,0.33518475,145.0,148.0
+Buteo brachyurus_Short-tailed Hawk,0.1022593,145.0,148.0
+Buteo jamaicensis_Red-tailed Hawk,0.88764656,146.0,149.0
+Pandion haliaetus_Osprey,0.777912,146.0,149.0
+Buteo jamaicensis_Red-tailed Hawk,0.9421621,147.0,150.0
+Pandion haliaetus_Osprey,0.55431753,147.0,150.0
+Buteo jamaicensis_Red-tailed Hawk,0.8972206,148.0,151.0
+Haliaeetus leucocephalus_Bald Eagle,0.3589976,148.0,151.0
+Ictinia mississippiensis_Mississippi Kite,0.21850209,148.0,151.0
+Pandion haliaetus_Osprey,0.18555161,148.0,151.0
+Ictinia mississippiensis_Mississippi Kite,0.44511417,149.0,152.0
+Ictinia mississippiensis_Mississippi Kite,0.17054076,150.0,153.0
+Ictinia mississippiensis_Mississippi Kite,0.16556363,151.0,154.0
+Ictinia mississippiensis_Mississippi Kite,0.25094962,152.0,155.0
+Ictinia mississippiensis_Mississippi Kite,0.10950116,157.0,160.0
+Ictinia mississippiensis_Mississippi Kite,0.14598484,158.0,161.0
+Porzana carolina_Sora,0.100064866,159.0,162.0
+Buteo jamaicensis_Red-tailed Hawk,0.61427546,160.0,163.0
+Haliaeetus leucocephalus_Bald Eagle,0.18464078,160.0,163.0
+Buteo jamaicensis_Red-tailed Hawk,0.84325016,161.0,164.0
+Haliaeetus leucocephalus_Bald Eagle,0.253273,161.0,164.0
+Pandion haliaetus_Osprey,0.1197663,161.0,164.0
+Buteo jamaicensis_Red-tailed Hawk,0.75483376,162.0,165.0
+Pandion haliaetus_Osprey,0.45590186,162.0,165.0
+Haliaeetus leucocephalus_Bald Eagle,0.35311693,162.0,165.0
+Buteo jamaicensis_Red-tailed Hawk,0.93679345,163.0,166.0
+Pandion haliaetus_Osprey,0.2563453,163.0,166.0
+Haliaeetus leucocephalus_Bald Eagle,0.21509662,163.0,166.0
+Buteo jamaicensis_Red-tailed Hawk,0.9086093,164.0,167.0
+Buteo jamaicensis_Red-tailed Hawk,0.42294154,165.0,168.0
+Ictinia mississippiensis_Mississippi Kite,0.14225599,165.0,168.0
+Pandion haliaetus_Osprey,0.13519682,165.0,168.0
+Ictinia mississippiensis_Mississippi Kite,0.79313856,166.0,169.0
+Ictinia mississippiensis_Mississippi Kite,0.16096182,168.0,171.0
+Ictinia mississippiensis_Mississippi Kite,0.11639207,169.0,172.0
+Ictinia mississippiensis_Mississippi Kite,0.1137878,172.0,175.0
+Ictinia mississippiensis_Mississippi Kite,0.102812715,173.0,176.0

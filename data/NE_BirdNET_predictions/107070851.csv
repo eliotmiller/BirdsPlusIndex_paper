@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Baeolophus bicolor_Tufted Titmouse,0.23202896,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.11701454,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.20157911,2.0,5.0
+Baeolophus bicolor_Tufted Titmouse,0.30772057,3.0,6.0
+Dumetella carolinensis_Gray Catbird,0.28091398,4.0,7.0
+Catharus fuscescens_Veery,0.17218326,4.0,7.0
+Baeolophus bicolor_Tufted Titmouse,0.3319202,5.0,8.0
+Baeolophus bicolor_Tufted Titmouse,0.24298956,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.6502714,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.3121933,8.0,11.0
+Baeolophus bicolor_Tufted Titmouse,0.36241034,9.0,12.0
+Setophaga dominica_Yellow-throated Warbler,0.14013456,9.0,12.0
+Catharus fuscescens_Veery,0.11214613,9.0,12.0
+Dumetella carolinensis_Gray Catbird,0.17204626,12.0,15.0
+Dumetella carolinensis_Gray Catbird,0.3197973,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.45146888,14.0,17.0
+Baeolophus bicolor_Tufted Titmouse,0.13912654,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.11449971,15.0,18.0
+Baeolophus bicolor_Tufted Titmouse,0.8418223,16.0,19.0
+Baeolophus bicolor_Tufted Titmouse,0.3216853,17.0,20.0
+Dumetella carolinensis_Gray Catbird,0.18630268,17.0,20.0
+Baeolophus bicolor_Tufted Titmouse,0.17341843,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.10979138,19.0,22.0
+Baeolophus bicolor_Tufted Titmouse,0.19595852,20.0,23.0
+Baeolophus bicolor_Tufted Titmouse,0.58478624,21.0,24.0
+Baeolophus bicolor_Tufted Titmouse,0.5270541,22.0,25.0
+Baeolophus bicolor_Tufted Titmouse,0.20133689,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12321485,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.11573452,26.0,29.0
+Mniotilta varia_Black-and-white Warbler,0.10730394,26.0,29.0
+Mniotilta varia_Black-and-white Warbler,0.15772529,27.0,30.0
+Catharus fuscescens_Veery,0.23605487,28.0,31.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12935677,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.13515046,30.0,33.0
+Dumetella carolinensis_Gray Catbird,0.59417915,31.0,34.0
+Dumetella carolinensis_Gray Catbird,0.5380965,32.0,35.0
+Catharus fuscescens_Veery,0.10096292,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.29910028,33.0,36.0
+Catharus fuscescens_Veery,0.11381821,33.0,36.0
+Catharus fuscescens_Veery,0.34548843,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.30829743,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.42064768,35.0,38.0
+Catharus fuscescens_Veery,0.2846804,35.0,38.0
+Vermivora chrysoptera_Golden-winged Warbler,0.112823494,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.36101612,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.15903488,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.29546052,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.23208155,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.8915782,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.932629,39.0,42.0
+Dumetella carolinensis_Gray Catbird,0.80228627,40.0,43.0
+Dumetella carolinensis_Gray Catbird,0.9198784,41.0,44.0
+Dumetella carolinensis_Gray Catbird,0.7584052,42.0,45.0
+Catharus fuscescens_Veery,0.13856013,42.0,45.0
+Dumetella carolinensis_Gray Catbird,0.67008203,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.89696616,44.0,47.0
+Dumetella carolinensis_Gray Catbird,0.71962744,45.0,48.0
+Geothlypis trichas_Common Yellowthroat,0.16732967,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.9168577,46.0,49.0
+Dumetella carolinensis_Gray Catbird,0.46990338,48.0,51.0
+Dumetella carolinensis_Gray Catbird,0.651189,49.0,52.0
+Dumetella carolinensis_Gray Catbird,0.39057675,50.0,53.0
+Dumetella carolinensis_Gray Catbird,0.90691936,51.0,54.0
+Dumetella carolinensis_Gray Catbird,0.9081033,52.0,55.0
+Dumetella carolinensis_Gray Catbird,0.96287715,53.0,56.0
+Dumetella carolinensis_Gray Catbird,0.7050457,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10544831,54.0,57.0
+Dumetella carolinensis_Gray Catbird,0.9717093,55.0,58.0
+Dumetella carolinensis_Gray Catbird,0.6691316,56.0,59.0
+Dumetella carolinensis_Gray Catbird,0.66698694,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.78580093,58.0,61.0

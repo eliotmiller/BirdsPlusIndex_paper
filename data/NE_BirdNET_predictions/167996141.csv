@@ -1,0 +1,28 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.70427036,0.0,3.0
+Bubo bubo_Eurasian Eagle-Owl,0.43048924,0.0,3.0
+Bubo africanus_Spotted Eagle-Owl,0.11613482,0.0,3.0
+Bubo bubo_Eurasian Eagle-Owl,0.79592115,1.0,4.0
+Bubo africanus_Spotted Eagle-Owl,0.33976355,1.0,4.0
+Bubo virginianus_Great Horned Owl,0.18219249,1.0,4.0
+Bubo bubo_Eurasian Eagle-Owl,0.7559926,2.0,5.0
+Bubo africanus_Spotted Eagle-Owl,0.45308393,2.0,5.0
+Bubo virginianus_Great Horned Owl,0.21772672,2.0,5.0
+Engine_Engine,0.16259448,4.0,7.0
+Engine_Engine,0.10534577,5.0,8.0
+Engine_Engine,0.22212163,6.0,9.0
+Engine_Engine,0.22313598,7.0,10.0
+Engine_Engine,0.123545416,9.0,12.0
+Bubo bubo_Eurasian Eagle-Owl,0.8384207,10.0,13.0
+Bubo virginianus_Great Horned Owl,0.47039443,10.0,13.0
+Bubo bubo_Eurasian Eagle-Owl,0.8690623,11.0,14.0
+Bubo virginianus_Great Horned Owl,0.4826561,11.0,14.0
+Bubo africanus_Spotted Eagle-Owl,0.21607988,11.0,14.0
+Bubo virginianus_Great Horned Owl,0.71953094,12.0,15.0
+Bubo bubo_Eurasian Eagle-Owl,0.5385315,12.0,15.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.17617026,12.0,15.0
+Calypte anna_Anna's Hummingbird,0.5817524,13.0,16.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.116708875,13.0,16.0
+Calypte anna_Anna's Hummingbird,0.5251442,14.0,16.464036281179137
+Amazilia yucatanensis_Buff-bellied Hummingbird,0.21361472,14.0,16.464036281179137
+Urosphena squameiceps_Asian Stubtail,0.2035738,14.0,16.464036281179137

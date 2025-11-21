@@ -1,0 +1,91 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.99587554,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.7502793,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.51582104,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.19176608,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.18763037,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.6256915,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.16434501,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.61705875,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.9274936,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.8415932,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18030846,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.17746171,8.0,11.0
+Catharus fuscescens_Veery,0.14681785,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.123141326,8.0,11.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20760648,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.17185368,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.12301351,10.0,13.0
+Certhia americana_Brown Creeper,0.34077308,11.0,14.0
+Certhia americana_Brown Creeper,0.12949029,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.93711317,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.97427875,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.78865826,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.33748603,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.6199872,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13109642,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.12998454,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.11873045,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.5148077,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13551274,17.0,20.0
+Setophaga magnolia_Magnolia Warbler,0.10136827,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24792445,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.13703325,18.0,21.0
+Catharus fuscescens_Veery,0.11393357,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.11383022,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.23347814,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16083549,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.6273621,20.0,23.0
+Mniotilta varia_Black-and-white Warbler,0.14535458,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.43723622,21.0,24.0
+Empidonax virescens_Acadian Flycatcher,0.9777254,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.9519125,23.0,26.0
+Phoenicurus ochruros_Black Redstart,0.21888028,24.0,27.0
+Dryobates pubescens_Downy Woodpecker,0.24272935,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.26263854,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.24794187,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.5986167,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.16570888,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.15178849,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.722836,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.21607749,29.0,32.0
+Empidonax virescens_Acadian Flycatcher,0.69952846,30.0,33.0
+Empidonax virescens_Acadian Flycatcher,0.6710422,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.7784492,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.64550775,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.11694067,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.99013317,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.931878,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.7616261,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.4576938,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.60082644,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.62601894,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.15514594,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.509219,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.11048896,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.5759412,41.0,44.0
+Empidonax virescens_Acadian Flycatcher,0.79241085,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.8598441,45.0,48.0
+Empidonax virescens_Acadian Flycatcher,0.7804342,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.3035552,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.19673583,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.14691395,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.38336033,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.12364968,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.11001631,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.45514914,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.516294,51.0,54.0
+Empidonax virescens_Acadian Flycatcher,0.67740625,52.0,55.0
+Empidonax virescens_Acadian Flycatcher,0.24009661,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.49551067,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.7522084,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.13602543,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.6009394,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.2553451,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.59887797,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.5636811,58.0,61.0
+Setophaga citrina_Hooded Warbler,0.17075692,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.118492454,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.27067414,60.0,62.35201814058957
+Piranga olivacea_Scarlet Tanager,0.21951433,60.0,62.35201814058957
+Setophaga citrina_Hooded Warbler,0.14039576,60.0,62.35201814058957

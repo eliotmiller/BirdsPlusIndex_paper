@@ -1,0 +1,316 @@
+species,score,start_time,end_time
+Passerculus sandwichensis_Savannah Sparrow,0.29624805,4.0,7.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18463805,5.0,8.0
+Passerculus sandwichensis_Savannah Sparrow,0.14564738,5.0,8.0
+Passerculus sandwichensis_Savannah Sparrow,0.22830975,6.0,9.0
+Passerculus sandwichensis_Savannah Sparrow,0.38845015,7.0,10.0
+Ammospiza leconteii_LeConte's Sparrow,0.15879276,7.0,10.0
+Spizella pusilla_Field Sparrow,0.14493807,7.0,10.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13193017,7.0,10.0
+Passerculus sandwichensis_Savannah Sparrow,0.7963992,8.0,11.0
+Spizella pusilla_Field Sparrow,0.35492378,8.0,11.0
+Ammospiza leconteii_LeConte's Sparrow,0.2112454,8.0,11.0
+Passerculus sandwichensis_Savannah Sparrow,0.6146328,9.0,12.0
+Spizella pusilla_Field Sparrow,0.1882638,9.0,12.0
+Passerculus sandwichensis_Savannah Sparrow,0.44477305,10.0,13.0
+Oriturus superciliosus_Striped Sparrow,0.16364366,10.0,13.0
+Melospiza lincolnii_Lincoln's Sparrow,0.21852916,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.37593758,15.0,18.0
+Passerculus sandwichensis_Savannah Sparrow,0.14487618,15.0,18.0
+Passerculus sandwichensis_Savannah Sparrow,0.30251908,16.0,19.0
+Junco hyemalis_Dark-eyed Junco,0.20436765,16.0,19.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19387478,16.0,19.0
+Ammospiza leconteii_LeConte's Sparrow,0.14573705,16.0,19.0
+Passerculus sandwichensis_Savannah Sparrow,0.45797774,17.0,20.0
+Spizella pusilla_Field Sparrow,0.11756434,17.0,20.0
+Passerculus sandwichensis_Savannah Sparrow,0.3354039,18.0,21.0
+Passerculus sandwichensis_Savannah Sparrow,0.5371002,19.0,22.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1255932,19.0,22.0
+Passerculus sandwichensis_Savannah Sparrow,0.27223614,20.0,23.0
+Passerculus sandwichensis_Savannah Sparrow,0.22745779,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11395638,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.1011576,22.0,25.0
+Passerculus sandwichensis_Savannah Sparrow,0.17533407,23.0,26.0
+Oriturus superciliosus_Striped Sparrow,0.27858767,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.3060898,25.0,28.0
+Oriturus superciliosus_Striped Sparrow,0.12856132,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.66938436,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.86890924,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25904974,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.69111806,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3977392,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.5702587,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.49667168,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.7512737,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25346422,30.0,33.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11828567,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.41893128,31.0,34.0
+Junco hyemalis_Dark-eyed Junco,0.50503546,32.0,35.0
+Spizella pusilla_Field Sparrow,0.2172267,33.0,36.0
+Oriturus superciliosus_Striped Sparrow,0.13644053,33.0,36.0
+Junco hyemalis_Dark-eyed Junco,0.27255163,34.0,37.0
+Melospiza lincolnii_Lincoln's Sparrow,0.23299032,34.0,37.0
+Junco hyemalis_Dark-eyed Junco,0.39070958,35.0,38.0
+Melospiza lincolnii_Lincoln's Sparrow,0.27200583,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.79679066,36.0,39.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19580394,36.0,39.0
+Junco hyemalis_Dark-eyed Junco,0.48565343,37.0,40.0
+Cardellina canadensis_Canada Warbler,0.10059608,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.29358706,38.0,41.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10539133,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.26970473,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.10280172,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.1118092,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.10089028,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.39668953,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31945288,42.0,45.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1636703,42.0,45.0
+Junco hyemalis_Dark-eyed Junco,0.5909832,43.0,46.0
+Melospiza lincolnii_Lincoln's Sparrow,0.34122714,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2356497,43.0,46.0
+Junco hyemalis_Dark-eyed Junco,0.7964385,44.0,47.0
+Melospiza lincolnii_Lincoln's Sparrow,0.37699035,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.211985,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.60619795,45.0,48.0
+Melospiza lincolnii_Lincoln's Sparrow,0.4969797,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32437605,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.4198585,46.0,49.0
+Melospiza lincolnii_Lincoln's Sparrow,0.29005992,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.190328,46.0,49.0
+Junco hyemalis_Dark-eyed Junco,0.4490057,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40308595,47.0,50.0
+Melospiza lincolnii_Lincoln's Sparrow,0.23424652,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.78521675,48.0,51.0
+Melospiza lincolnii_Lincoln's Sparrow,0.43416032,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2412303,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.74112344,49.0,52.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5373051,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13522843,49.0,52.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5610081,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.3588598,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10263161,50.0,53.0
+Melospiza lincolnii_Lincoln's Sparrow,0.83594275,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10679589,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.10226226,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.38164696,52.0,55.0
+Melospiza lincolnii_Lincoln's Sparrow,0.34712976,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28123575,52.0,55.0
+Melospiza lincolnii_Lincoln's Sparrow,0.25190604,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18250997,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13425349,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.12470222,54.0,57.0
+Cardellina canadensis_Canada Warbler,0.10060777,54.0,57.0
+Cardellina canadensis_Canada Warbler,0.44678664,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10223004,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.37794647,56.0,59.0
+Cardellina canadensis_Canada Warbler,0.1595615,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10223256,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.49006224,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14612663,57.0,60.0
+Oriturus superciliosus_Striped Sparrow,0.11409349,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.3499622,60.0,63.0
+Junco hyemalis_Dark-eyed Junco,0.17318405,60.0,63.0
+Junco hyemalis_Dark-eyed Junco,0.113944456,61.0,64.0
+Passerculus sandwichensis_Savannah Sparrow,0.14217229,63.0,66.0
+Junco hyemalis_Dark-eyed Junco,0.13840003,63.0,66.0
+Spizella pusilla_Field Sparrow,0.10739814,63.0,66.0
+Junco hyemalis_Dark-eyed Junco,0.42413148,64.0,67.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14321698,64.0,67.0
+Junco hyemalis_Dark-eyed Junco,0.81721413,65.0,68.0
+Junco hyemalis_Dark-eyed Junco,0.51928854,66.0,69.0
+Passerculus sandwichensis_Savannah Sparrow,0.19845827,66.0,69.0
+Junco hyemalis_Dark-eyed Junco,0.37963432,67.0,70.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1936156,67.0,70.0
+Junco hyemalis_Dark-eyed Junco,0.15947004,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.39793283,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23942934,69.0,72.0
+Melospiza lincolnii_Lincoln's Sparrow,0.10740844,69.0,72.0
+Junco hyemalis_Dark-eyed Junco,0.27155244,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26506054,70.0,73.0
+Melospiza lincolnii_Lincoln's Sparrow,0.21458958,70.0,73.0
+Setophaga palmarum_Palm Warbler,0.18432103,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.122397505,70.0,73.0
+Junco hyemalis_Dark-eyed Junco,0.45548427,71.0,74.0
+Melospiza lincolnii_Lincoln's Sparrow,0.20435138,71.0,74.0
+Junco hyemalis_Dark-eyed Junco,0.60940015,72.0,75.0
+Melospiza lincolnii_Lincoln's Sparrow,0.39349476,72.0,75.0
+Junco hyemalis_Dark-eyed Junco,0.5924277,73.0,76.0
+Passerculus sandwichensis_Savannah Sparrow,0.41288847,73.0,76.0
+Melospiza lincolnii_Lincoln's Sparrow,0.4034932,73.0,76.0
+Ammospiza leconteii_LeConte's Sparrow,0.18031913,73.0,76.0
+Junco hyemalis_Dark-eyed Junco,0.5208783,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14391169,74.0,77.0
+Melospiza lincolnii_Lincoln's Sparrow,0.106275335,74.0,77.0
+Junco hyemalis_Dark-eyed Junco,0.6054353,75.0,78.0
+Passerculus sandwichensis_Savannah Sparrow,0.2302017,75.0,78.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2104525,75.0,78.0
+Ammospiza leconteii_LeConte's Sparrow,0.19040112,75.0,78.0
+Melospiza lincolnii_Lincoln's Sparrow,0.67548645,76.0,79.0
+Junco hyemalis_Dark-eyed Junco,0.36954722,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11533528,76.0,79.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19479746,77.0,80.0
+Junco hyemalis_Dark-eyed Junco,0.18181314,78.0,81.0
+Spizella pusilla_Field Sparrow,0.12630314,78.0,81.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12431861,80.0,83.0
+Junco hyemalis_Dark-eyed Junco,0.6658799,81.0,84.0
+Melospiza lincolnii_Lincoln's Sparrow,0.37112248,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11960719,81.0,84.0
+Junco hyemalis_Dark-eyed Junco,0.78055185,82.0,85.0
+Melospiza lincolnii_Lincoln's Sparrow,0.3942782,82.0,85.0
+Ammospiza leconteii_LeConte's Sparrow,0.17728533,82.0,85.0
+Junco hyemalis_Dark-eyed Junco,0.5057148,83.0,86.0
+Melospiza lincolnii_Lincoln's Sparrow,0.33798367,83.0,86.0
+Ammospiza leconteii_LeConte's Sparrow,0.15178898,83.0,86.0
+Oriturus superciliosus_Striped Sparrow,0.82820636,84.0,87.0
+Junco hyemalis_Dark-eyed Junco,0.2660117,84.0,87.0
+Junco hyemalis_Dark-eyed Junco,0.20860443,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20306002,85.0,88.0
+Junco hyemalis_Dark-eyed Junco,0.68882114,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31575644,86.0,89.0
+Melospiza lincolnii_Lincoln's Sparrow,0.152771,86.0,89.0
+Junco hyemalis_Dark-eyed Junco,0.9283899,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20024575,87.0,90.0
+Melospiza lincolnii_Lincoln's Sparrow,0.4144387,88.0,91.0
+Setophaga kirtlandii_Kirtland's Warbler,0.18906677,88.0,91.0
+Junco hyemalis_Dark-eyed Junco,0.16390687,88.0,91.0
+Spizella pusilla_Field Sparrow,0.14152369,89.0,92.0
+Junco hyemalis_Dark-eyed Junco,0.12316893,89.0,92.0
+Passerculus sandwichensis_Savannah Sparrow,0.10048,89.0,92.0
+Melospiza lincolnii_Lincoln's Sparrow,0.29079133,90.0,93.0
+Setophaga kirtlandii_Kirtland's Warbler,0.1699999,90.0,93.0
+Junco hyemalis_Dark-eyed Junco,0.11283511,90.0,93.0
+Junco hyemalis_Dark-eyed Junco,0.50229436,91.0,94.0
+Melospiza lincolnii_Lincoln's Sparrow,0.15640393,91.0,94.0
+Junco hyemalis_Dark-eyed Junco,0.8547034,92.0,95.0
+Melospiza lincolnii_Lincoln's Sparrow,0.45320505,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18333547,92.0,95.0
+Junco hyemalis_Dark-eyed Junco,0.7425375,93.0,96.0
+Melospiza lincolnii_Lincoln's Sparrow,0.35207838,93.0,96.0
+Junco hyemalis_Dark-eyed Junco,0.64065015,94.0,97.0
+Melospiza lincolnii_Lincoln's Sparrow,0.27920136,94.0,97.0
+Melospiza lincolnii_Lincoln's Sparrow,0.3557041,95.0,98.0
+Junco hyemalis_Dark-eyed Junco,0.20289822,95.0,98.0
+Junco hyemalis_Dark-eyed Junco,0.47285843,96.0,99.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18993035,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15471712,96.0,99.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.44850895,97.0,100.0
+Junco hyemalis_Dark-eyed Junco,0.26922092,97.0,100.0
+Junco hyemalis_Dark-eyed Junco,0.8691156,98.0,101.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18283562,98.0,101.0
+Junco hyemalis_Dark-eyed Junco,0.79988366,99.0,102.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2661996,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14337994,99.0,102.0
+Junco hyemalis_Dark-eyed Junco,0.8388685,100.0,103.0
+Melospiza lincolnii_Lincoln's Sparrow,0.59619707,100.0,103.0
+Junco hyemalis_Dark-eyed Junco,0.46376535,101.0,104.0
+Melospiza lincolnii_Lincoln's Sparrow,0.121781245,101.0,104.0
+Junco hyemalis_Dark-eyed Junco,0.25162962,102.0,105.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1779276,102.0,105.0
+Passerculus sandwichensis_Savannah Sparrow,0.12622921,102.0,105.0
+Junco hyemalis_Dark-eyed Junco,0.67525053,103.0,106.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14459853,103.0,106.0
+Junco hyemalis_Dark-eyed Junco,0.4766469,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5261016,105.0,108.0
+Junco hyemalis_Dark-eyed Junco,0.40621328,105.0,108.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11794995,105.0,108.0
+Junco hyemalis_Dark-eyed Junco,0.5928225,106.0,109.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19016096,106.0,109.0
+Ammospiza leconteii_LeConte's Sparrow,0.16503903,106.0,109.0
+Junco hyemalis_Dark-eyed Junco,0.78225213,107.0,110.0
+Passerculus sandwichensis_Savannah Sparrow,0.120997146,107.0,110.0
+Junco hyemalis_Dark-eyed Junco,0.6787272,108.0,111.0
+Passerculus sandwichensis_Savannah Sparrow,0.28413096,108.0,111.0
+Oriturus superciliosus_Striped Sparrow,0.11801624,108.0,111.0
+Melospiza lincolnii_Lincoln's Sparrow,0.11278518,108.0,111.0
+Junco hyemalis_Dark-eyed Junco,0.17628779,109.0,112.0
+Passerculus sandwichensis_Savannah Sparrow,0.12483696,109.0,112.0
+Junco hyemalis_Dark-eyed Junco,0.85987294,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30413613,110.0,113.0
+Melospiza lincolnii_Lincoln's Sparrow,0.21576996,110.0,113.0
+Melospiza lincolnii_Lincoln's Sparrow,0.56179196,111.0,114.0
+Junco hyemalis_Dark-eyed Junco,0.5244632,111.0,114.0
+Junco hyemalis_Dark-eyed Junco,0.7308071,112.0,115.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5694535,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20107809,112.0,115.0
+Melospiza lincolnii_Lincoln's Sparrow,0.22325245,113.0,116.0
+Ammospiza leconteii_LeConte's Sparrow,0.12388635,113.0,116.0
+Passerculus sandwichensis_Savannah Sparrow,0.121493496,113.0,116.0
+Passerculus sandwichensis_Savannah Sparrow,0.36595792,114.0,117.0
+Junco hyemalis_Dark-eyed Junco,0.3117693,114.0,117.0
+Ammospiza leconteii_LeConte's Sparrow,0.21450962,114.0,117.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.15353274,114.0,117.0
+Junco hyemalis_Dark-eyed Junco,0.53733945,115.0,118.0
+Passerculus sandwichensis_Savannah Sparrow,0.3460742,115.0,118.0
+Oriturus superciliosus_Striped Sparrow,0.3025324,115.0,118.0
+Ammospiza leconteii_LeConte's Sparrow,0.15107352,115.0,118.0
+Junco hyemalis_Dark-eyed Junco,0.65460366,116.0,119.0
+Oriturus superciliosus_Striped Sparrow,0.40385202,116.0,119.0
+Junco hyemalis_Dark-eyed Junco,0.77021223,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14196283,117.0,120.0
+Ammospiza leconteii_LeConte's Sparrow,0.13388826,117.0,120.0
+Passerculus sandwichensis_Savannah Sparrow,0.116271794,117.0,120.0
+Junco hyemalis_Dark-eyed Junco,0.85276616,118.0,121.0
+Melospiza lincolnii_Lincoln's Sparrow,0.19505213,118.0,121.0
+Junco hyemalis_Dark-eyed Junco,0.4513149,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24861497,119.0,122.0
+Melospiza lincolnii_Lincoln's Sparrow,0.20143539,119.0,122.0
+Cardellina canadensis_Canada Warbler,0.12029344,119.0,122.0
+Melospiza lincolnii_Lincoln's Sparrow,0.8310929,120.0,123.0
+Junco hyemalis_Dark-eyed Junco,0.20445359,120.0,123.0
+Melospiza lincolnii_Lincoln's Sparrow,0.77527106,121.0,124.0
+Junco hyemalis_Dark-eyed Junco,0.4994113,121.0,124.0
+Junco hyemalis_Dark-eyed Junco,0.83809274,122.0,125.0
+Melospiza lincolnii_Lincoln's Sparrow,0.6237448,122.0,125.0
+Junco hyemalis_Dark-eyed Junco,0.9373149,123.0,126.0
+Melospiza lincolnii_Lincoln's Sparrow,0.39106518,123.0,126.0
+Junco hyemalis_Dark-eyed Junco,0.7000347,124.0,127.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2056511,124.0,127.0
+Oriturus superciliosus_Striped Sparrow,0.5298028,125.0,128.0
+Junco hyemalis_Dark-eyed Junco,0.51634514,125.0,128.0
+Ammospiza leconteii_LeConte's Sparrow,0.2424882,125.0,128.0
+Passerculus sandwichensis_Savannah Sparrow,0.23691648,125.0,128.0
+Melospiza lincolnii_Lincoln's Sparrow,0.13837585,125.0,128.0
+Junco hyemalis_Dark-eyed Junco,0.6300885,126.0,129.0
+Melospiza lincolnii_Lincoln's Sparrow,0.27024868,126.0,129.0
+Cardellina canadensis_Canada Warbler,0.13171187,126.0,129.0
+Ammospiza leconteii_LeConte's Sparrow,0.12957852,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11858307,126.0,129.0
+Junco hyemalis_Dark-eyed Junco,0.61499673,127.0,130.0
+Melospiza lincolnii_Lincoln's Sparrow,0.14874619,127.0,130.0
+Junco hyemalis_Dark-eyed Junco,0.5947966,128.0,131.0
+Melospiza lincolnii_Lincoln's Sparrow,0.18226002,128.0,131.0
+Junco hyemalis_Dark-eyed Junco,0.37524748,129.0,132.0
+Melospiza lincolnii_Lincoln's Sparrow,0.2499744,129.0,132.0
+Ammospiza leconteii_LeConte's Sparrow,0.12095145,129.0,132.0
+Melospiza lincolnii_Lincoln's Sparrow,0.8041248,130.0,133.0
+Junco hyemalis_Dark-eyed Junco,0.42671606,130.0,133.0
+Junco hyemalis_Dark-eyed Junco,0.82005554,131.0,134.0
+Melospiza lincolnii_Lincoln's Sparrow,0.5314587,131.0,134.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16912809,131.0,134.0
+Junco hyemalis_Dark-eyed Junco,0.7704957,132.0,135.0
+Melospiza lincolnii_Lincoln's Sparrow,0.4142018,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14599591,132.0,135.0
+Ammospiza leconteii_LeConte's Sparrow,0.1209006,132.0,135.0
+Cardellina canadensis_Canada Warbler,0.11599061,132.0,135.0
+Junco hyemalis_Dark-eyed Junco,0.7416441,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22769508,133.0,136.0
+Ammospiza leconteii_LeConte's Sparrow,0.12132631,133.0,136.0
+Junco hyemalis_Dark-eyed Junco,0.7947006,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26377597,134.0,137.0
+Junco hyemalis_Dark-eyed Junco,0.6546844,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13866653,135.0,138.0
+Junco hyemalis_Dark-eyed Junco,0.53724325,136.0,139.0
+Melospiza lincolnii_Lincoln's Sparrow,0.28125396,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10386366,136.0,139.0
+Junco hyemalis_Dark-eyed Junco,0.9053668,137.0,140.0
+Melospiza lincolnii_Lincoln's Sparrow,0.1486859,137.0,140.0
+Junco hyemalis_Dark-eyed Junco,0.86038727,138.0,141.0
+Melospiza lincolnii_Lincoln's Sparrow,0.46344998,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11382387,138.0,141.0
+Junco hyemalis_Dark-eyed Junco,0.72664654,139.0,142.0
+Melospiza lincolnii_Lincoln's Sparrow,0.4917495,139.0,142.0
+Melospiza lincolnii_Lincoln's Sparrow,0.7224823,140.0,143.0
+Junco hyemalis_Dark-eyed Junco,0.7018865,140.0,143.0
+Melospiza lincolnii_Lincoln's Sparrow,0.47186074,141.0,143.54403628117913
+Junco hyemalis_Dark-eyed Junco,0.38875556,141.0,143.54403628117913
+Setophaga caerulescens_Black-throated Blue Warbler,0.15426143,141.0,143.54403628117913

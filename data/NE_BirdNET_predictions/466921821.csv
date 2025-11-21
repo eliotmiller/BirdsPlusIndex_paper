@@ -1,0 +1,109 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.185162,0.0,3.0
+Haemorhous mexicanus_House Finch,0.14323658,1.0,4.0
+Engine_Engine,0.117370546,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.15949324,2.0,5.0
+Engine_Engine,0.5071303,3.0,6.0
+Engine_Engine,0.2638131,4.0,7.0
+Engine_Engine,0.23624618,5.0,8.0
+Engine_Engine,0.111244835,7.0,10.0
+Engine_Engine,0.1171044,15.0,18.0
+Engine_Engine,0.117221735,16.0,19.0
+Engine_Engine,0.12349971,17.0,20.0
+Engine_Engine,0.16685121,18.0,21.0
+Engine_Engine,0.10374506,20.0,23.0
+Engine_Engine,0.10176333,21.0,24.0
+Engine_Engine,0.11721313,23.0,26.0
+Engine_Engine,0.44219783,26.0,29.0
+Engine_Engine,0.5044718,27.0,30.0
+Engine_Engine,0.3741773,28.0,31.0
+Engine_Engine,0.21273822,29.0,32.0
+Engine_Engine,0.3838324,30.0,33.0
+Engine_Engine,0.21661279,31.0,34.0
+Gun_Gun,0.12722659,31.0,34.0
+Gun_Gun,0.19790474,32.0,35.0
+Power tools_Power tools,0.1866662,32.0,35.0
+Engine_Engine,0.13317698,32.0,35.0
+Gun_Gun,0.3064511,33.0,36.0
+Power tools_Power tools,0.18838838,33.0,36.0
+Power tools_Power tools,0.24214372,34.0,37.0
+Gun_Gun,0.11049099,34.0,37.0
+Human vocal_Human vocal,0.13228014,36.0,39.0
+Dog_Dog,0.12138763,36.0,39.0
+Dog_Dog,0.42971995,37.0,40.0
+Human vocal_Human vocal,0.117570184,37.0,40.0
+Dog_Dog,0.22008725,38.0,41.0
+Dog_Dog,0.4629865,39.0,42.0
+Power tools_Power tools,0.33262402,41.0,44.0
+Engine_Engine,0.14031458,41.0,44.0
+Power tools_Power tools,0.1771677,42.0,45.0
+Dog_Dog,0.5250338,44.0,47.0
+Dog_Dog,0.38211286,45.0,48.0
+Dog_Dog,0.35637563,46.0,49.0
+Dog_Dog,0.8567022,47.0,50.0
+Dog_Dog,0.75420743,48.0,51.0
+Dog_Dog,0.961754,49.0,52.0
+Human vocal_Human vocal,0.105803385,49.0,52.0
+Dog_Dog,0.94592524,50.0,53.0
+Dog_Dog,0.37103254,51.0,54.0
+Setophaga americana_Northern Parula,0.21312854,55.0,58.0
+Setophaga ruticilla_American Redstart,0.13520288,56.0,59.0
+Setophaga ruticilla_American Redstart,0.22473298,57.0,60.0
+Setophaga americana_Northern Parula,0.20644933,57.0,60.0
+Setophaga americana_Northern Parula,0.105833665,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.10095299,58.0,61.0
+Setophaga americana_Northern Parula,0.1878258,59.0,62.0
+Setophaga americana_Northern Parula,0.10306767,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.31396115,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12942883,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10030338,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.35039946,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10730876,70.0,73.0
+Empidonax virescens_Acadian Flycatcher,0.8945905,77.0,80.0
+Empidonax virescens_Acadian Flycatcher,0.92098635,78.0,81.0
+Empidonax virescens_Acadian Flycatcher,0.56059885,79.0,82.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1306801,79.0,82.0
+Setophaga americana_Northern Parula,0.23322552,80.0,83.0
+Setophaga americana_Northern Parula,0.18630111,81.0,84.0
+Setophaga citrina_Hooded Warbler,0.97206104,89.0,92.0
+Setophaga citrina_Hooded Warbler,0.78527826,90.0,93.0
+Setophaga citrina_Hooded Warbler,0.87325436,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.46360612,93.0,96.0
+Vireo olivaceus_Red-eyed Vireo,0.13697104,94.0,97.0
+Poecile atricapillus_Black-capped Chickadee,0.12191896,94.0,97.0
+Poecile atricapillus_Black-capped Chickadee,0.10523478,95.0,98.0
+Engine_Engine,0.102859505,96.0,99.0
+Vireo olivaceus_Red-eyed Vireo,0.48561025,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.18058127,97.0,100.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19504814,100.0,103.0
+Vireo olivaceus_Red-eyed Vireo,0.12692083,100.0,103.0
+Vireo olivaceus_Red-eyed Vireo,0.31519902,101.0,104.0
+Vireo olivaceus_Red-eyed Vireo,0.18176365,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.11884425,108.0,111.0
+Setophaga americana_Northern Parula,0.16669054,110.0,113.0
+Empidonax virescens_Acadian Flycatcher,0.6628185,114.0,117.0
+Vireo olivaceus_Red-eyed Vireo,0.14314821,114.0,117.0
+Empidonax virescens_Acadian Flycatcher,0.36185563,115.0,118.0
+Empidonax virescens_Acadian Flycatcher,0.6706747,116.0,119.0
+Setophaga citrina_Hooded Warbler,0.358633,125.0,128.0
+Setophaga citrina_Hooded Warbler,0.46740326,126.0,129.0
+Zonotrichia capensis_Rufous-collared Sparrow,0.1839057,127.0,130.0
+Setophaga fusca_Blackburnian Warbler,0.18394028,129.0,132.0
+Setophaga americana_Northern Parula,0.11585866,129.0,132.0
+Setophaga occidentalis_Hermit Warbler,0.10060118,129.0,132.0
+Engine_Engine,0.17204076,144.0,147.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.21179666,150.0,153.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.12760845,151.0,154.0
+Engine_Engine,0.13768908,152.0,155.0
+Engine_Engine,0.15638047,154.0,157.0
+Piranga olivacea_Scarlet Tanager,0.11249473,158.0,161.0
+Piranga olivacea_Scarlet Tanager,0.16182746,164.0,167.0
+Vireo olivaceus_Red-eyed Vireo,0.12062819,168.0,171.0
+Engine_Engine,0.112731025,170.0,173.0
+Engine_Engine,0.2718373,171.0,174.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15739526,172.0,175.0
+Engine_Engine,0.12496341,188.0,191.0
+Engine_Engine,0.15849793,196.0,199.0
+Engine_Engine,0.1026632,197.0,200.0
+Engine_Engine,0.12013718,212.0,215.0
+Engine_Engine,0.12883572,213.0,215.54403628117913
