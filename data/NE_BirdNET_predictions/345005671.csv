@@ -1,0 +1,85 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.5598976,0.0,3.0
+Melospiza melodia_Song Sparrow,0.11066797,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.9909924,1.0,4.0
+Hirundo rustica_Barn Swallow,0.57754457,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.9919475,2.0,5.0
+Hirundo rustica_Barn Swallow,0.22688544,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.57273304,3.0,6.0
+Hirundo rustica_Barn Swallow,0.27160618,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.3891217,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.35119474,5.0,8.0
+Sturnella magna_Eastern Meadowlark,0.83150786,6.0,9.0
+Pooecetes gramineus_Vesper Sparrow,0.25756732,6.0,9.0
+Sturnella magna_Eastern Meadowlark,0.98780257,7.0,10.0
+Sturnella magna_Eastern Meadowlark,0.9855332,8.0,11.0
+Sturnella magna_Eastern Meadowlark,0.99421847,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.16857636,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.13126141,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.1401992,14.0,17.0
+Pooecetes gramineus_Vesper Sparrow,0.77907366,15.0,18.0
+Sturnella magna_Eastern Meadowlark,0.6180186,15.0,18.0
+Sturnella magna_Eastern Meadowlark,0.9886002,16.0,19.0
+Sturnella magna_Eastern Meadowlark,0.9772897,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.97801745,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.5610154,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.99734384,21.0,24.0
+Hirundo rustica_Barn Swallow,0.10079207,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.9989786,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.99404895,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.9987877,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.7042641,25.0,28.0
+Rallus limicola_Virginia Rail,0.13697839,25.0,28.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1783269,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3557057,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1470876,28.0,31.0
+Sturnella magna_Eastern Meadowlark,0.6032781,29.0,32.0
+Pooecetes gramineus_Vesper Sparrow,0.58674484,29.0,32.0
+Sturnella magna_Eastern Meadowlark,0.95907587,30.0,33.0
+Sturnella magna_Eastern Meadowlark,0.9772803,31.0,34.0
+Sturnella magna_Eastern Meadowlark,0.94449884,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.58101815,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.92365986,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.9881969,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.92953,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.94789404,37.0,40.0
+Pooecetes gramineus_Vesper Sparrow,0.88992834,39.0,42.0
+Sturnella magna_Eastern Meadowlark,0.768502,39.0,42.0
+Spizella pusilla_Field Sparrow,0.2040394,39.0,42.0
+Sturnella magna_Eastern Meadowlark,0.99263906,40.0,43.0
+Sturnella magna_Eastern Meadowlark,0.933952,41.0,44.0
+Sturnella magna_Eastern Meadowlark,0.95160633,42.0,45.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17104876,43.0,46.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19484012,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.9966047,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.9962017,48.0,51.0
+Dolichonyx oryzivorus_Bobolink,0.99421424,49.0,52.0
+Dolichonyx oryzivorus_Bobolink,0.9675859,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.99396175,51.0,54.0
+Dolichonyx oryzivorus_Bobolink,0.8649058,52.0,55.0
+Sturnella magna_Eastern Meadowlark,0.31229213,52.0,55.0
+Dolichonyx oryzivorus_Bobolink,0.8091905,53.0,56.0
+Sturnella magna_Eastern Meadowlark,0.3519465,53.0,56.0
+Sturnella magna_Eastern Meadowlark,0.6018844,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.44595376,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.95753896,55.0,58.0
+Dolichonyx oryzivorus_Bobolink,0.50112057,56.0,59.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13285816,57.0,60.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10688847,58.0,61.0
+Icterus spurius_Orchard Oriole,0.1017754,58.0,61.0
+Sturnella magna_Eastern Meadowlark,0.9597763,60.0,63.0
+Sturnella magna_Eastern Meadowlark,0.98555297,61.0,64.0
+Sturnella magna_Eastern Meadowlark,0.9734213,62.0,65.0
+Sturnella magna_Eastern Meadowlark,0.9150494,63.0,66.0
+Dolichonyx oryzivorus_Bobolink,0.9628021,64.0,67.0
+Dolichonyx oryzivorus_Bobolink,0.99707365,65.0,68.0
+Dolichonyx oryzivorus_Bobolink,0.9977678,66.0,69.0
+Dolichonyx oryzivorus_Bobolink,0.98909634,67.0,70.0
+Sturnella magna_Eastern Meadowlark,0.8544606,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.7893299,68.0,71.0
+Sturnella magna_Eastern Meadowlark,0.8922125,69.0,72.0
+Dolichonyx oryzivorus_Bobolink,0.47976443,69.0,72.0
+Sturnella magna_Eastern Meadowlark,0.9744382,70.0,73.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19315006,71.0,74.0
+Dolichonyx oryzivorus_Bobolink,0.101877645,71.0,74.0
+Agelaius phoeniceus_Red-winged Blackbird,0.38071725,72.0,75.0

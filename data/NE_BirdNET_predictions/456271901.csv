@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.22350006,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.11887463,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.12760627,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.19994745,3.0,6.0
+Certhia americana_Brown Creeper,0.14749588,3.0,6.0
+Certhia americana_Brown Creeper,0.18511133,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.18108062,4.0,7.0
+Certhia americana_Brown Creeper,0.3226765,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.13500871,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.46970668,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.3220636,7.0,10.0
+Vireo philadelphicus_Philadelphia Vireo,0.12997296,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.25963503,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.28839985,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.11567859,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.43290347,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.2716562,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.12918669,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110974796,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.11784324,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.11606389,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10756553,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.16457218,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.14606649,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12030113,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.32013997,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.18275069,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122099884,16.0,19.0
+Buteo platypterus_Broad-winged Hawk,0.10539248,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.1763774,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16506368,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.118775554,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.19949545,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15131606,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.14680842,18.0,21.0
+Buteo platypterus_Broad-winged Hawk,0.12563111,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.43585223,19.0,22.0
+Vireo philadelphicus_Philadelphia Vireo,0.19834818,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.11244568,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.36642414,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14816655,20.0,23.0
+Setophaga fusca_Blackburnian Warbler,0.10948681,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.24721651,21.0,24.0
+Vireo philadelphicus_Philadelphia Vireo,0.18978705,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.206516,22.0,25.0
+Vireo philadelphicus_Philadelphia Vireo,0.1305952,22.0,25.0
+Buteo platypterus_Broad-winged Hawk,0.11705938,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.10215131,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15946186,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.12601043,23.0,26.0
+Buteo platypterus_Broad-winged Hawk,0.11752359,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.100773185,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120711565,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.1763879,25.0,28.0
+Vireo philadelphicus_Philadelphia Vireo,0.15205596,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12121327,25.0,28.0
+Vireo philadelphicus_Philadelphia Vireo,0.18528493,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12777261,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.124534026,26.0,29.0
+Buteo platypterus_Broad-winged Hawk,0.10088457,26.0,29.0
+Vireo philadelphicus_Philadelphia Vireo,0.29638502,27.0,30.0
+Buteo platypterus_Broad-winged Hawk,0.18952414,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1864589,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.13602868,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1739927,28.0,31.0
+Vireo philadelphicus_Philadelphia Vireo,0.12368416,28.0,31.0
+Vireo olivaceus_Red-eyed Vireo,0.10054793,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21280298,29.0,31.56
+Setophaga fusca_Blackburnian Warbler,0.17181194,29.0,31.56
+Vireo philadelphicus_Philadelphia Vireo,0.12321727,29.0,31.56

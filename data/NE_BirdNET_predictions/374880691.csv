@@ -1,0 +1,111 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.15570676,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.90726507,1.0,4.0
+Geothlypis formosa_Kentucky Warbler,0.15995316,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.9866585,2.0,5.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10041582,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.89889145,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.12709436,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10805616,3.0,6.0
+Contopus virens_Eastern Wood-Pewee,0.42270476,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.24760349,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.16234227,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12565532,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1573866,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.11016636,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.2060465,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.103043996,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.76062065,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.39736798,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.2071758,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.27470335,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.13404831,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.2805878,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.33896324,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.19034448,14.0,17.0
+Setophaga citrina_Hooded Warbler,0.9853242,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.18171935,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.104210995,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.9839463,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.115276195,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.102985814,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.90982485,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.12388662,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.39354035,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.21153325,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.18434826,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.15078157,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.5857846,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.1483999,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.42236882,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.3489475,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.60471565,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.3418848,22.0,25.0
+Setophaga citrina_Hooded Warbler,0.9521221,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.18438396,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.99533194,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.9865932,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.6432034,26.0,29.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10454684,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.87086374,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.13828868,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.91784024,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.7852523,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.3077844,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.31075206,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.2268606,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.22839832,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10008788,32.0,35.0
+Parkesia motacilla_Louisiana Waterthrush,0.5531222,35.0,38.0
+Parkesia noveboracensis_Northern Waterthrush,0.24013805,35.0,38.0
+Empidonax minimus_Least Flycatcher,0.22458115,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.53459984,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.21531105,36.0,39.0
+Setophaga citrina_Hooded Warbler,0.46419376,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.1453119,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.13409358,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.9990621,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.9959175,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.99426585,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.30407158,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.1622978,41.0,44.0
+Contopus virens_Eastern Wood-Pewee,0.14106849,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.12836897,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.12619178,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.119641595,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.27193546,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.1395584,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.17194484,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.10972182,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.14850605,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.17103177,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.124506846,50.0,53.0
+Pipilo erythrophthalmus_Eastern Towhee,0.113248155,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.11264122,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.18024412,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.17872506,52.0,55.0
+Vireo olivaceus_Red-eyed Vireo,0.30026168,53.0,56.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16098061,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.1395087,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.1824118,58.0,61.0
+Vireo olivaceus_Red-eyed Vireo,0.15168576,58.0,61.0
+Contopus virens_Eastern Wood-Pewee,0.12464393,58.0,61.0
+Vireo olivaceus_Red-eyed Vireo,0.28105885,59.0,62.0
+Contopus virens_Eastern Wood-Pewee,0.117854394,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.11480773,59.0,62.0
+Engine_Engine,0.15412202,61.0,64.0
+Haemorhous mexicanus_House Finch,0.14309232,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10963821,62.0,65.0
+Chlorodrepanis virens_Hawaii Amakihi,0.10287494,62.0,65.0
+Setophaga citrina_Hooded Warbler,0.9848247,63.0,66.0
+Setophaga citrina_Hooded Warbler,0.9866383,64.0,67.0
+Setophaga citrina_Hooded Warbler,0.972822,65.0,68.0
+Engine_Engine,0.55589116,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.21841735,66.0,69.0
+Contopus virens_Eastern Wood-Pewee,0.14102374,66.0,69.0
+Poecile atricapillus_Black-capped Chickadee,0.12202323,66.0,69.0
+Engine_Engine,0.66152686,67.0,70.0
+Vireo olivaceus_Red-eyed Vireo,0.17480065,67.0,70.0
+Engine_Engine,0.8972661,68.0,71.0
+Engine_Engine,0.78083616,69.0,72.0
+Engine_Engine,0.19875818,70.0,72.76802721088436

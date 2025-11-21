@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Tachycineta bicolor_Tree Swallow,0.9298203,0.0,3.0
+Tachycineta bicolor_Tree Swallow,0.65327007,1.0,4.0
+Hirundo rustica_Barn Swallow,0.19464383,1.0,4.0
+Tachycineta bicolor_Tree Swallow,0.5413983,2.0,5.0
+Hirundo rustica_Barn Swallow,0.45045215,2.0,5.0
+Tachycineta bicolor_Tree Swallow,0.8837022,3.0,6.0
+Tachycineta bicolor_Tree Swallow,0.9706698,4.0,7.0
+Hirundo rustica_Barn Swallow,0.47693872,4.0,7.0
+Passer cinnamomeus_Russet Sparrow,0.37097684,4.0,7.0
+Tachycineta bicolor_Tree Swallow,0.9700229,5.0,8.0
+Passer cinnamomeus_Russet Sparrow,0.15417077,5.0,8.0
+Hirundo rustica_Barn Swallow,0.12996219,5.0,8.0
+Tachycineta bicolor_Tree Swallow,0.92489165,6.0,9.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.15789664,7.0,10.0
+Tachycineta bicolor_Tree Swallow,0.12444328,7.0,10.0
+Tachycineta bicolor_Tree Swallow,0.24630499,8.0,11.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.19311883,8.0,11.0
+Tachycineta bicolor_Tree Swallow,0.61575025,9.0,12.0
+Eremophila alpestris_Horned Lark,0.16968189,9.0,12.0
+Tachycineta bicolor_Tree Swallow,0.71966815,10.0,13.0
+Eremophila alpestris_Horned Lark,0.3447896,10.0,13.0
+Tachycineta bicolor_Tree Swallow,0.1491738,11.0,14.0
+Hirundo rustica_Barn Swallow,0.12017939,11.0,14.0
+Hirundo rustica_Barn Swallow,0.13763876,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.14152321,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.13471374,14.0,17.0
+Anthus correndera_Correndera Pipit,0.11204204,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15451637,15.0,18.0
+Phasianus colchicus_Ring-necked Pheasant,0.16151914,16.0,19.0
+Phasianus colchicus_Ring-necked Pheasant,0.14253728,18.0,21.0
+Phasianus colchicus_Ring-necked Pheasant,0.13229199,19.0,22.0
+Phasianus colchicus_Ring-necked Pheasant,0.17939958,20.0,23.0
+Melanerpes aurifrons_Golden-fronted Woodpecker,0.15899922,20.0,23.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14996253,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22187479,22.0,25.0
+Agelaius phoeniceus_Red-winged Blackbird,0.26430434,23.0,26.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10784071,26.0,29.0
+Rallus crepitans_Clapper Rail,0.10432626,28.0,31.0
+Spatula discors_Blue-winged Teal,0.15672092,35.0,38.0

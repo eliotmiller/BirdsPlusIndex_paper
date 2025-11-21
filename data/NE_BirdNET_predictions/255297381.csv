@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Colaptes auratus_Northern Flicker,0.47181758,0.0,3.0
+Vireo flavifrons_Yellow-throated Vireo,0.45785546,0.0,3.0
+Colaptes auratus_Northern Flicker,0.409079,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.21957366,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.2566877,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.23691769,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15938996,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.11781823,3.0,6.0
+Mniotilta varia_Black-and-white Warbler,0.25696233,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.40734985,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.121005185,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.4149299,6.0,9.0
+Haliaeetus leucocephalus_Bald Eagle,0.124173686,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.16391148,9.0,12.0
+Cyanocitta cristata_Blue Jay,0.11039513,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.14607315,10.0,13.0
+Geothlypis trichas_Common Yellowthroat,0.43382174,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.8362477,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.9426868,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.123572566,16.0,19.0
+Coragyps atratus_Black Vulture,0.18884677,19.0,22.0
+Melanotis caerulescens_Blue Mockingbird,0.20044556,21.0,24.0
+Geothlypis trichas_Common Yellowthroat,0.42843008,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.145085,34.0,37.0
+Geothlypis trichas_Common Yellowthroat,0.3303,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.1738435,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.50150293,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.17800343,36.0,39.0
+Geothlypis trichas_Common Yellowthroat,0.28082165,37.0,40.0
+Geothlypis trichas_Common Yellowthroat,0.39429224,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.39701974,39.0,42.0
+Bombycilla cedrorum_Cedar Waxwing,0.3879809,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.16277638,41.0,44.0
+Bombycilla cedrorum_Cedar Waxwing,0.10793232,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.1087638,42.0,45.0
+Bombycilla cedrorum_Cedar Waxwing,0.2496105,43.0,46.0
+Bonasa umbellus_Ruffed Grouse,0.10221103,43.0,46.0
+Bombycilla cedrorum_Cedar Waxwing,0.10365615,45.0,48.0
+Geothlypis trichas_Common Yellowthroat,0.3600926,46.0,49.0
+Geothlypis trichas_Common Yellowthroat,0.59633106,47.0,50.0
+Geothlypis trichas_Common Yellowthroat,0.51395476,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.1670682,50.0,53.0
+Bombycilla cedrorum_Cedar Waxwing,0.12495758,50.0,53.0
+Turdus falcklandii_Austral Thrush,0.121009484,51.0,54.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.111888565,51.0,54.0
+Empidonax fulvifrons_Buff-breasted Flycatcher,0.1807764,52.0,55.0
+Setophaga coronata_Yellow-rumped Warbler,0.17451759,52.0,55.0
+Turdus migratorius_American Robin,0.23444791,53.0,56.0
+Setophaga coronata_Yellow-rumped Warbler,0.1407184,53.0,56.0
+Turdus migratorius_American Robin,0.27179936,54.0,57.0
+Geothlypis trichas_Common Yellowthroat,0.14572234,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.14829029,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10746958,58.0,61.0
+Geothlypis trichas_Common Yellowthroat,0.15091173,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.22566883,60.0,63.0
+Geothlypis trichas_Common Yellowthroat,0.18890564,60.0,63.0
+Geothlypis trichas_Common Yellowthroat,0.69583786,61.0,64.0
+Geothlypis trichas_Common Yellowthroat,0.73868185,62.0,65.0
+Geothlypis trichas_Common Yellowthroat,0.72448975,63.0,66.0
+Turdus migratorius_American Robin,0.6040563,65.0,68.0
+Turdus migratorius_American Robin,0.54135525,66.0,69.0
+Turdus migratorius_American Robin,0.67455935,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.1494697,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10391799,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121904366,70.0,73.0
+Geothlypis trichas_Common Yellowthroat,0.10815494,70.0,73.0
+Turdus migratorius_American Robin,0.13549824,72.0,75.0
+Turdus migratorius_American Robin,0.15376414,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.2933804,76.0,79.0
+Geothlypis trichas_Common Yellowthroat,0.103512004,79.0,82.0
+Campylorhynchus megalopterus_Gray-barred Wren,0.10973815,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.1199528,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.13513243,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.1074745,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.12392447,84.0,87.0
+Setophaga coronata_Yellow-rumped Warbler,0.39085856,85.0,88.0
+Setophaga coronata_Yellow-rumped Warbler,0.28649583,87.0,90.0
+Setophaga coronata_Yellow-rumped Warbler,0.14158173,88.0,91.0
+Setophaga coronata_Yellow-rumped Warbler,0.12348229,89.0,92.0

@@ -1,0 +1,201 @@
+species,score,start_time,end_time
+Parkesia motacilla_Louisiana Waterthrush,0.10122348,0.0,3.0
+Catharus fuscescens_Veery,0.98165214,1.0,4.0
+Catharus fuscescens_Veery,0.97872514,2.0,5.0
+Catharus fuscescens_Veery,0.9834805,3.0,6.0
+Catharus fuscescens_Veery,0.980205,4.0,7.0
+Catharus fuscescens_Veery,0.98860604,5.0,8.0
+Catharus fuscescens_Veery,0.98370254,6.0,9.0
+Catharus fuscescens_Veery,0.9974577,8.0,11.0
+Catharus fuscescens_Veery,0.91115206,9.0,12.0
+Catharus fuscescens_Veery,0.9605784,10.0,13.0
+Catharus fuscescens_Veery,0.97531575,12.0,15.0
+Catharus fuscescens_Veery,0.8826152,13.0,16.0
+Catharus fuscescens_Veery,0.9645809,14.0,17.0
+Catharus fuscescens_Veery,0.9972108,16.0,19.0
+Catharus fuscescens_Veery,0.9848925,17.0,20.0
+Catharus fuscescens_Veery,0.9745145,18.0,21.0
+Catharus fuscescens_Veery,0.9709485,20.0,23.0
+Catharus fuscescens_Veery,0.945546,21.0,24.0
+Catharus fuscescens_Veery,0.9724946,22.0,25.0
+Catharus fuscescens_Veery,0.9976935,23.0,26.0
+Catharus fuscescens_Veery,0.9756713,24.0,27.0
+Catharus fuscescens_Veery,0.973459,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102365315,26.0,29.0
+Catharus fuscescens_Veery,0.9700972,27.0,30.0
+Catharus fuscescens_Veery,0.8716362,28.0,31.0
+Catharus fuscescens_Veery,0.976592,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12220197,31.0,34.0
+Catharus fuscescens_Veery,0.9040555,32.0,35.0
+Catharus fuscescens_Veery,0.82192624,33.0,36.0
+Catharus fuscescens_Veery,0.7910066,34.0,37.0
+Catharus fuscescens_Veery,0.9696284,35.0,38.0
+Catharus fuscescens_Veery,0.95881563,36.0,39.0
+Catharus fuscescens_Veery,0.972576,37.0,40.0
+Catharus fuscescens_Veery,0.9838599,39.0,42.0
+Catharus fuscescens_Veery,0.9692081,40.0,43.0
+Catharus fuscescens_Veery,0.9921818,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.13507688,42.0,45.0
+Catharus fuscescens_Veery,0.99421257,43.0,46.0
+Catharus fuscescens_Veery,0.9899176,44.0,47.0
+Catharus fuscescens_Veery,0.9948037,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11734541,46.0,49.0
+Catharus fuscescens_Veery,0.9756561,47.0,50.0
+Catharus fuscescens_Veery,0.8360889,48.0,51.0
+Catharus fuscescens_Veery,0.9786574,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1583497,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.12356297,51.0,54.0
+Catharus fuscescens_Veery,0.9894448,52.0,55.0
+Catharus fuscescens_Veery,0.97353655,53.0,56.0
+Catharus fuscescens_Veery,0.9710179,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13051629,55.0,58.0
+Catharus fuscescens_Veery,0.9844595,56.0,59.0
+Catharus fuscescens_Veery,0.87063724,57.0,60.0
+Catharus fuscescens_Veery,0.9820771,58.0,61.0
+Empidonax virescens_Acadian Flycatcher,0.2956197,59.0,62.0
+Catharus fuscescens_Veery,0.9757026,60.0,63.0
+Catharus fuscescens_Veery,0.9783614,61.0,64.0
+Catharus fuscescens_Veery,0.96996564,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14814317,63.0,66.0
+Catharus fuscescens_Veery,0.98327637,64.0,67.0
+Catharus fuscescens_Veery,0.94428533,65.0,68.0
+Catharus fuscescens_Veery,0.98245037,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10978619,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10324993,68.0,71.0
+Catharus fuscescens_Veery,0.9863582,69.0,72.0
+Catharus fuscescens_Veery,0.988198,70.0,73.0
+Catharus fuscescens_Veery,0.98668265,71.0,74.0
+Catharus fuscescens_Veery,0.990732,72.0,75.0
+Catharus fuscescens_Veery,0.9529768,73.0,76.0
+Catharus fuscescens_Veery,0.9794321,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35896346,76.0,79.0
+Vireo olivaceus_Red-eyed Vireo,0.21782775,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13951227,78.0,81.0
+Setophaga virens_Black-throated Green Warbler,0.106623195,78.0,81.0
+Vireo olivaceus_Red-eyed Vireo,0.15578344,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124903604,79.0,82.0
+Vireo olivaceus_Red-eyed Vireo,0.21399635,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18844262,80.0,83.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18437846,81.0,84.0
+Vireo olivaceus_Red-eyed Vireo,0.13521044,82.0,85.0
+Vireo olivaceus_Red-eyed Vireo,0.10007914,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10865058,86.0,89.0
+Empidonax virescens_Acadian Flycatcher,0.117842026,87.0,90.0
+Vireo solitarius_Blue-headed Vireo,0.100857995,88.0,91.0
+Catharus fuscescens_Veery,0.7880295,89.0,92.0
+Catharus fuscescens_Veery,0.39809018,90.0,93.0
+Catharus fuscescens_Veery,0.74710983,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1716678,93.0,96.0
+Catharus fuscescens_Veery,0.48020637,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13804248,94.0,97.0
+Catharus fuscescens_Veery,0.27775607,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14577307,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17048986,96.0,99.0
+Catharus fuscescens_Veery,0.14359528,96.0,99.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11592958,97.0,100.0
+Vireo olivaceus_Red-eyed Vireo,0.18708572,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13711771,98.0,101.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13942239,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10275335,100.0,103.0
+Catharus fuscescens_Veery,0.1060406,101.0,104.0
+Vireo olivaceus_Red-eyed Vireo,0.18082678,104.0,107.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1752918,104.0,107.0
+Vireo olivaceus_Red-eyed Vireo,0.2860801,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12339301,105.0,108.0
+Vireo olivaceus_Red-eyed Vireo,0.2435491,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10257024,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.13292597,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11415681,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.18275297,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1076074,110.0,113.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14294699,111.0,114.0
+Seiurus aurocapilla_Ovenbird,0.109632984,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19053575,112.0,115.0
+Seiurus aurocapilla_Ovenbird,0.16645442,112.0,115.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1788738,113.0,116.0
+Vireo olivaceus_Red-eyed Vireo,0.11816333,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16732532,114.0,117.0
+Vireo olivaceus_Red-eyed Vireo,0.14458302,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14391887,115.0,118.0
+Vireo olivaceus_Red-eyed Vireo,0.14296827,115.0,118.0
+Catharus fuscescens_Veery,0.20500092,116.0,119.0
+Catharus fuscescens_Veery,0.11646287,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10533142,117.0,120.0
+Catharus fuscescens_Veery,0.47847542,118.0,121.0
+Vireo olivaceus_Red-eyed Vireo,0.14629538,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10061631,119.0,122.0
+Vireo olivaceus_Red-eyed Vireo,0.16701813,120.0,123.0
+Vireo olivaceus_Red-eyed Vireo,0.128261,121.0,124.0
+Catharus fuscescens_Veery,0.15910316,122.0,125.0
+Vireo olivaceus_Red-eyed Vireo,0.23802888,123.0,126.0
+Catharus fuscescens_Veery,0.13459031,123.0,126.0
+Vireo olivaceus_Red-eyed Vireo,0.1914779,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13938075,126.0,129.0
+Vireo olivaceus_Red-eyed Vireo,0.15919241,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12153055,127.0,130.0
+Vireo olivaceus_Red-eyed Vireo,0.4078061,128.0,131.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11861915,128.0,131.0
+Vireo olivaceus_Red-eyed Vireo,0.17963856,130.0,133.0
+Vireo olivaceus_Red-eyed Vireo,0.21525301,131.0,134.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12497344,133.0,136.0
+Vireo olivaceus_Red-eyed Vireo,0.12720864,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12289413,134.0,137.0
+Vireo olivaceus_Red-eyed Vireo,0.2036602,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13256188,135.0,138.0
+Catharus fuscescens_Veery,0.21413,136.0,139.0
+Catharus fuscescens_Veery,0.17007191,138.0,141.0
+Vireo olivaceus_Red-eyed Vireo,0.113930576,139.0,142.0
+Vireo olivaceus_Red-eyed Vireo,0.20228022,140.0,143.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107373334,140.0,143.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11960906,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15123475,142.0,145.0
+Vireo olivaceus_Red-eyed Vireo,0.13572893,142.0,145.0
+Catharus fuscescens_Veery,0.11562808,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22295147,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111426845,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.15132721,146.0,149.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11201901,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.16030222,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12840171,147.0,150.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16672245,148.0,151.0
+Catharus fuscescens_Veery,0.11529385,148.0,151.0
+Catharus fuscescens_Veery,0.29347432,149.0,152.0
+Catharus fuscescens_Veery,0.36422873,150.0,153.0
+Vireo olivaceus_Red-eyed Vireo,0.21407656,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1031239,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13535313,153.0,156.0
+Vireo olivaceus_Red-eyed Vireo,0.12997894,153.0,156.0
+Vireo olivaceus_Red-eyed Vireo,0.116069406,154.0,157.0
+Catharus fuscescens_Veery,0.44594035,155.0,158.0
+Catharus fuscescens_Veery,0.36913598,156.0,159.0
+Catharus fuscescens_Veery,0.3054788,157.0,160.0
+Empidonax virescens_Acadian Flycatcher,0.14977808,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111985214,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12641779,159.0,162.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12099106,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120072335,161.0,164.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18717037,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10193803,166.0,169.0
+Vireo olivaceus_Red-eyed Vireo,0.15180095,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100187995,173.0,176.0
+Vireo flavoviridis_Yellow-green Vireo,0.123441,181.0,184.0
+Tamias striatus_Eastern Chipmunk,0.11279247,185.0,188.0
+Tamias striatus_Eastern Chipmunk,0.10120331,187.0,190.0
+Setophaga cerulea_Cerulean Warbler,0.1334332,191.0,194.0
+Tamias striatus_Eastern Chipmunk,0.124727145,191.0,194.0
+Tamias striatus_Eastern Chipmunk,0.21415058,192.0,195.0
+Tamias striatus_Eastern Chipmunk,0.22984795,193.0,196.0
+Tamias striatus_Eastern Chipmunk,0.19808404,194.0,197.0
+Tamias striatus_Eastern Chipmunk,0.18159066,195.0,198.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12262326,195.0,198.0
+Setophaga cerulea_Cerulean Warbler,0.11318574,198.0,201.0
+Tamias striatus_Eastern Chipmunk,0.23662671,199.0,202.0
+Setophaga cerulea_Cerulean Warbler,0.16228704,199.0,202.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10002403,199.0,202.0
+Empidonax virescens_Acadian Flycatcher,0.14460027,200.0,203.0
+Tamias striatus_Eastern Chipmunk,0.12642257,202.0,205.0
+Vireo flavifrons_Yellow-throated Vireo,0.5234392,203.0,206.0
+Tamias striatus_Eastern Chipmunk,0.34222448,203.0,206.0
+Vireo flavifrons_Yellow-throated Vireo,0.13207504,204.0,207.0
+Vireo olivaceus_Red-eyed Vireo,0.12468808,204.0,207.0
+Vireo flavifrons_Yellow-throated Vireo,0.49882102,205.0,207.72

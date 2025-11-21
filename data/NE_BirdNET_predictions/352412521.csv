@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Sialia sialis_Eastern Bluebird,0.7754275,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.23572755,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.9501736,1.0,4.0
+Baeolophus bicolor_Tufted Titmouse,0.9272342,2.0,5.0
+Baeolophus bicolor_Tufted Titmouse,0.9042507,3.0,6.0
+Baeolophus bicolor_Tufted Titmouse,0.96264845,4.0,7.0
+Baeolophus bicolor_Tufted Titmouse,0.9267381,5.0,8.0
+Baeolophus bicolor_Tufted Titmouse,0.80134755,6.0,9.0
+Baeolophus bicolor_Tufted Titmouse,0.81218004,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.84027517,8.0,11.0
+Baeolophus bicolor_Tufted Titmouse,0.78618026,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.19393745,9.0,12.0
+Baeolophus bicolor_Tufted Titmouse,0.6857789,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.5210121,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.6579102,11.0,14.0
+Baeolophus bicolor_Tufted Titmouse,0.6395394,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.7699404,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.3543222,12.0,15.0
+Baeolophus bicolor_Tufted Titmouse,0.6540629,13.0,16.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16161267,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.13255168,13.0,16.0
+Baeolophus bicolor_Tufted Titmouse,0.9713315,14.0,17.0
+Baeolophus bicolor_Tufted Titmouse,0.83830994,15.0,18.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16513747,16.0,19.0
+Baeolophus bicolor_Tufted Titmouse,0.8843558,17.0,20.0
+Baeolophus bicolor_Tufted Titmouse,0.9404721,18.0,21.0
+Baeolophus bicolor_Tufted Titmouse,0.8940448,19.0,22.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.27586713,21.0,24.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11086304,22.0,25.0
+Baeolophus bicolor_Tufted Titmouse,0.3485498,23.0,26.0
+Baeolophus bicolor_Tufted Titmouse,0.6730549,24.0,27.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1535477,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.10163039,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.6864699,26.0,29.0
+Baeolophus bicolor_Tufted Titmouse,0.7244931,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.24253662,27.0,30.0
+Baeolophus bicolor_Tufted Titmouse,0.89472055,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.28182518,28.0,31.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.332827,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.103136204,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.6286182,30.0,33.0
+Baeolophus bicolor_Tufted Titmouse,0.86014616,31.0,34.0
+Baeolophus bicolor_Tufted Titmouse,0.97534764,32.0,35.0
+Baeolophus bicolor_Tufted Titmouse,0.97473735,33.0,36.0
+Baeolophus bicolor_Tufted Titmouse,0.56731,34.0,37.0
+Baeolophus bicolor_Tufted Titmouse,0.8960126,35.0,38.0
+Baeolophus bicolor_Tufted Titmouse,0.96673065,36.0,39.0
+Baeolophus bicolor_Tufted Titmouse,0.9824708,37.0,40.0
+Baeolophus bicolor_Tufted Titmouse,0.4187272,38.0,41.0
+Baeolophus bicolor_Tufted Titmouse,0.86938184,40.0,43.0
+Baeolophus bicolor_Tufted Titmouse,0.874429,41.0,44.0
+Baeolophus bicolor_Tufted Titmouse,0.7941301,42.0,45.0
+Sitta carolinensis_White-breasted Nuthatch,0.3156784,43.0,46.0
+Sitta carolinensis_White-breasted Nuthatch,0.59806025,44.0,47.0
+Sitta carolinensis_White-breasted Nuthatch,0.3550264,45.0,48.0
+Ficedula parva_Red-breasted Flycatcher,0.19766915,46.0,49.0
+Certhia familiaris_Eurasian Treecreeper,0.14157937,46.0,49.0
+Baeolophus bicolor_Tufted Titmouse,0.8571734,47.0,50.0
+Baeolophus bicolor_Tufted Titmouse,0.6181899,48.0,51.0
+Baeolophus bicolor_Tufted Titmouse,0.8188279,49.0,52.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18084168,50.0,53.0
+Baeolophus bicolor_Tufted Titmouse,0.12183997,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.15430866,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120688535,51.0,54.0
+Baeolophus bicolor_Tufted Titmouse,0.93051606,52.0,55.0
+Baeolophus bicolor_Tufted Titmouse,0.9078235,53.0,56.0
+Baeolophus bicolor_Tufted Titmouse,0.76249385,54.0,57.0
+Baeolophus bicolor_Tufted Titmouse,0.7339943,55.0,58.0
+Baeolophus bicolor_Tufted Titmouse,0.9030527,56.0,59.0
+Baeolophus bicolor_Tufted Titmouse,0.8790251,57.0,60.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37982422,58.0,61.0
+Setophaga citrina_Hooded Warbler,0.13670354,60.0,63.0
