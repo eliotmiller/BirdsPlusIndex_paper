@@ -1,0 +1,340 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.65234464,0.0,3.0
+Spizella passerina_Chipping Sparrow,0.18555662,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.7420466,1.0,4.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.23750319,1.0,4.0
+Setophaga occidentalis_Hermit Warbler,0.12076868,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.6976001,2.0,5.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.15448387,2.0,5.0
+Setophaga occidentalis_Hermit Warbler,0.14159857,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.7259349,3.0,6.0
+Setophaga occidentalis_Hermit Warbler,0.12509899,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.6983444,4.0,7.0
+Setophaga occidentalis_Hermit Warbler,0.10257939,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.78054583,5.0,8.0
+Setophaga occidentalis_Hermit Warbler,0.19746986,5.0,8.0
+Emberiza cirlus_Cirl Bunting,0.19050759,5.0,8.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.15626429,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.70817286,6.0,9.0
+Setophaga occidentalis_Hermit Warbler,0.10736929,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.53951794,7.0,10.0
+Setophaga occidentalis_Hermit Warbler,0.1003432,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.5015955,8.0,11.0
+Emberiza cioides_Meadow Bunting,0.1779595,8.0,11.0
+Spizella passerina_Chipping Sparrow,0.16612682,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.5822151,9.0,12.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.31253245,9.0,12.0
+Setophaga occidentalis_Hermit Warbler,0.16580601,9.0,12.0
+Spizella passerina_Chipping Sparrow,0.14272586,9.0,12.0
+Emberiza cirlus_Cirl Bunting,0.110686205,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.41296372,10.0,13.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.2556134,10.0,13.0
+Setophaga occidentalis_Hermit Warbler,0.16161606,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.271805,11.0,14.0
+Setophaga occidentalis_Hermit Warbler,0.14842181,11.0,14.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.13643382,11.0,14.0
+Setophaga townsendi_Townsend's Warbler,0.10468011,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.39742544,12.0,15.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.18012176,12.0,15.0
+Setophaga occidentalis_Hermit Warbler,0.15792236,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.44446212,13.0,16.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.24640703,13.0,16.0
+Emberiza cioides_Meadow Bunting,0.10847829,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.425108,14.0,17.0
+Spizella passerina_Chipping Sparrow,0.1248245,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.5712181,15.0,18.0
+Setophaga occidentalis_Hermit Warbler,0.1095981,15.0,18.0
+Emberiza cirlus_Cirl Bunting,0.10755521,15.0,18.0
+Spizella passerina_Chipping Sparrow,0.17236203,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.14863609,16.0,19.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.112921916,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.17038241,17.0,20.0
+Emberiza cirlus_Cirl Bunting,0.111324415,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.11125632,17.0,20.0
+Emberiza cioides_Meadow Bunting,0.10890605,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.44569504,18.0,21.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1994663,18.0,21.0
+Spizella passerina_Chipping Sparrow,0.13123989,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.5220894,19.0,22.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.31279176,19.0,22.0
+Setophaga occidentalis_Hermit Warbler,0.10383816,19.0,22.0
+Setophaga virens_Black-throated Green Warbler,0.6436731,20.0,23.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.13028054,20.0,23.0
+Setophaga occidentalis_Hermit Warbler,0.1295129,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.3923986,21.0,24.0
+Emberiza cirlus_Cirl Bunting,0.3737124,21.0,24.0
+Emberiza cioides_Meadow Bunting,0.114380024,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.11066661,22.0,25.0
+Emberiza cirlus_Cirl Bunting,0.22442608,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.60283065,26.0,29.0
+Emberiza cirlus_Cirl Bunting,0.3208443,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.26068273,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.54488075,28.0,31.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.26203078,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.6986974,29.0,32.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.175178,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.7021077,30.0,33.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.27332073,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.10889507,30.0,33.0
+Setophaga occidentalis_Hermit Warbler,0.104829736,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.7720751,31.0,34.0
+Emberiza cirlus_Cirl Bunting,0.17549326,31.0,34.0
+Setophaga occidentalis_Hermit Warbler,0.17457537,31.0,34.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.116670825,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.661362,32.0,35.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.2239004,32.0,35.0
+Spizella passerina_Chipping Sparrow,0.12473419,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.67214644,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.15726173,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.61508197,34.0,37.0
+Spizella passerina_Chipping Sparrow,0.1785073,34.0,37.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.12942143,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.6261073,35.0,38.0
+Spizella passerina_Chipping Sparrow,0.21274447,35.0,38.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.18485926,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.41262937,36.0,39.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.23370166,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.6195188,37.0,40.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.2576988,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.516558,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.11040226,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.56454045,39.0,42.0
+Spizella passerina_Chipping Sparrow,0.28235972,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.19707519,40.0,43.0
+Spizella passerina_Chipping Sparrow,0.15180996,40.0,43.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.10441835,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.4345162,41.0,44.0
+Spizella passerina_Chipping Sparrow,0.13144188,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.79329145,42.0,45.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.33695602,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.8230448,43.0,46.0
+Setophaga occidentalis_Hermit Warbler,0.13217585,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.113073766,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.85763055,44.0,47.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1338499,44.0,47.0
+Spizella passerina_Chipping Sparrow,0.12626554,44.0,47.0
+Setophaga occidentalis_Hermit Warbler,0.12247322,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.7708457,45.0,48.0
+Setophaga occidentalis_Hermit Warbler,0.14329655,45.0,48.0
+Spizella passerina_Chipping Sparrow,0.1254004,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.76660645,46.0,49.0
+Setophaga occidentalis_Hermit Warbler,0.1337396,46.0,49.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.10191758,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.7573639,47.0,50.0
+Setophaga occidentalis_Hermit Warbler,0.15364693,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.64531755,48.0,51.0
+Emberiza cirlus_Cirl Bunting,0.17788012,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.71204406,49.0,52.0
+Emberiza cirlus_Cirl Bunting,0.26989734,49.0,52.0
+Setophaga occidentalis_Hermit Warbler,0.13684098,49.0,52.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.104146376,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.54645175,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.14865573,50.0,53.0
+Setophaga occidentalis_Hermit Warbler,0.13701634,50.0,53.0
+Emberiza cirlus_Cirl Bunting,0.11354408,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.57146055,51.0,54.0
+Spizella passerina_Chipping Sparrow,0.18180326,51.0,54.0
+Setophaga occidentalis_Hermit Warbler,0.17094007,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.7764759,52.0,55.0
+Setophaga occidentalis_Hermit Warbler,0.24386056,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.12581885,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.7764263,53.0,56.0
+Spizella passerina_Chipping Sparrow,0.24406186,53.0,56.0
+Setophaga occidentalis_Hermit Warbler,0.1438838,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.81158257,54.0,57.0
+Spizella passerina_Chipping Sparrow,0.19859275,54.0,57.0
+Setophaga occidentalis_Hermit Warbler,0.1200334,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.5703794,55.0,58.0
+Spizella passerina_Chipping Sparrow,0.22041516,55.0,58.0
+Setophaga occidentalis_Hermit Warbler,0.1287087,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.7047533,56.0,59.0
+Setophaga occidentalis_Hermit Warbler,0.230705,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.39857024,57.0,60.0
+Emberiza cirlus_Cirl Bunting,0.21412972,57.0,60.0
+Setophaga occidentalis_Hermit Warbler,0.10224403,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.6789039,58.0,61.0
+Spizella passerina_Chipping Sparrow,0.31234998,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.18482336,58.0,61.0
+Setophaga occidentalis_Hermit Warbler,0.13315561,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.6465481,59.0,62.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1637907,59.0,62.0
+Setophaga occidentalis_Hermit Warbler,0.12738396,59.0,62.0
+Spizella passerina_Chipping Sparrow,0.10254737,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.28310734,60.0,63.0
+Spizella passerina_Chipping Sparrow,0.14255504,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.21961904,61.0,64.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.18921323,61.0,64.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.37423095,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.2339062,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.3450604,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.3352989,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.3520428,65.0,68.0
+Setophaga occidentalis_Hermit Warbler,0.13064323,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.5629991,66.0,69.0
+Setophaga occidentalis_Hermit Warbler,0.11537539,66.0,69.0
+Psaltriparus minimus_Bushtit,0.21080184,67.0,70.0
+Psaltriparus minimus_Bushtit,0.23361567,68.0,71.0
+Psaltriparus minimus_Bushtit,0.39558217,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.17338714,70.0,73.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14022581,71.0,74.0
+Setophaga townsendi_Townsend's Warbler,0.11351029,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.11160768,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.13552536,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.1596378,73.0,76.0
+Poecile atricapillus_Black-capped Chickadee,0.32548052,76.0,79.0
+Poecile atricapillus_Black-capped Chickadee,0.27203962,77.0,80.0
+Poecile atricapillus_Black-capped Chickadee,0.43544096,78.0,81.0
+Poecile atricapillus_Black-capped Chickadee,0.22206287,79.0,82.0
+Psaltriparus minimus_Bushtit,0.10053949,79.0,82.0
+Poecile atricapillus_Black-capped Chickadee,0.243633,80.0,83.0
+Psaltriparus minimus_Bushtit,0.124322146,80.0,83.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10844746,80.0,83.0
+Setophaga occidentalis_Hermit Warbler,0.1364052,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.16340746,83.0,86.0
+Poecile atricapillus_Black-capped Chickadee,0.120992534,83.0,86.0
+Poecile atricapillus_Black-capped Chickadee,0.1862234,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.10921729,84.0,87.0
+Poecile atricapillus_Black-capped Chickadee,0.14505117,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.24424174,86.0,89.0
+Setophaga virens_Black-throated Green Warbler,0.54629934,87.0,90.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.35930887,87.0,90.0
+Setophaga occidentalis_Hermit Warbler,0.14306691,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.103581436,87.0,90.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.4109911,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.38944116,88.0,91.0
+Emberiza cirlus_Cirl Bunting,0.26742265,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.40364078,89.0,92.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.4029074,89.0,92.0
+Setophaga occidentalis_Hermit Warbler,0.1175517,89.0,92.0
+Setophaga townsendi_Townsend's Warbler,0.10761711,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.39699984,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.27493748,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.5698297,92.0,95.0
+Emberiza cirlus_Cirl Bunting,0.2571925,92.0,95.0
+Setophaga virens_Black-throated Green Warbler,0.7915572,93.0,96.0
+Spizella passerina_Chipping Sparrow,0.12608378,93.0,96.0
+Emberiza cirlus_Cirl Bunting,0.100573406,93.0,96.0
+Setophaga virens_Black-throated Green Warbler,0.39128715,94.0,97.0
+Setophaga virens_Black-throated Green Warbler,0.33457997,95.0,98.0
+Setophaga fusca_Blackburnian Warbler,0.14202729,95.0,98.0
+Setophaga virens_Black-throated Green Warbler,0.17380829,96.0,99.0
+Dendragapus fuliginosus_Sooty Grouse,0.23968734,97.0,100.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.21803874,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.15041001,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.2875334,98.0,101.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1873218,98.0,101.0
+Emberiza cirlus_Cirl Bunting,0.14611247,98.0,101.0
+Spizella passerina_Chipping Sparrow,0.13755429,98.0,101.0
+Setophaga virens_Black-throated Green Warbler,0.17431709,99.0,102.0
+Spizella passerina_Chipping Sparrow,0.16500914,99.0,102.0
+Emberiza cirlus_Cirl Bunting,0.15158775,99.0,102.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.12475696,99.0,102.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.3960219,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.32668653,100.0,103.0
+Emberiza cirlus_Cirl Bunting,0.14165118,100.0,103.0
+Spizella passerina_Chipping Sparrow,0.112970434,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.50860125,101.0,104.0
+Emberiza cirlus_Cirl Bunting,0.25500885,101.0,104.0
+Spizella passerina_Chipping Sparrow,0.23391601,101.0,104.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.13098474,101.0,104.0
+Spizella passerina_Chipping Sparrow,0.28332898,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.26997563,102.0,105.0
+Emberiza cirlus_Cirl Bunting,0.19895351,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.4901357,103.0,106.0
+Spizella passerina_Chipping Sparrow,0.16247866,103.0,106.0
+Setophaga occidentalis_Hermit Warbler,0.10574128,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.46034333,104.0,107.0
+Spizella passerina_Chipping Sparrow,0.23683412,104.0,107.0
+Setophaga virens_Black-throated Green Warbler,0.63210094,105.0,108.0
+Setophaga occidentalis_Hermit Warbler,0.13457502,105.0,108.0
+Spizella passerina_Chipping Sparrow,0.11443721,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.4998439,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.458539,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.4336015,108.0,111.0
+Setophaga virens_Black-throated Green Warbler,0.573509,109.0,112.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.123263255,109.0,112.0
+Setophaga occidentalis_Hermit Warbler,0.11075703,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.44120994,110.0,113.0
+Setophaga occidentalis_Hermit Warbler,0.10253382,110.0,113.0
+Setophaga virens_Black-throated Green Warbler,0.39523965,111.0,114.0
+Emberiza cioides_Meadow Bunting,0.2696369,112.0,115.0
+Emberiza cirlus_Cirl Bunting,0.16782989,112.0,115.0
+Emberiza cioides_Meadow Bunting,0.15119797,113.0,116.0
+Erythrura trichroa_Blue-faced Parrotfinch,0.49888408,114.0,117.0
+Emberiza cirlus_Cirl Bunting,0.13199377,114.0,117.0
+Margarornis squamiger_Pearled Treerunner,0.12438019,114.0,117.0
+Emberiza cioides_Meadow Bunting,0.1179254,114.0,117.0
+Margarornis squamiger_Pearled Treerunner,0.24098659,115.0,118.0
+Setophaga virens_Black-throated Green Warbler,0.29206178,117.0,120.0
+Setophaga virens_Black-throated Green Warbler,0.5974947,118.0,121.0
+Spizella passerina_Chipping Sparrow,0.17591989,118.0,121.0
+Setophaga fusca_Blackburnian Warbler,0.12340317,118.0,121.0
+Setophaga virens_Black-throated Green Warbler,0.17869247,119.0,122.0
+Setophaga virens_Black-throated Green Warbler,0.3330463,120.0,123.0
+Spizella passerina_Chipping Sparrow,0.11157561,120.0,123.0
+Setophaga virens_Black-throated Green Warbler,0.13695589,121.0,124.0
+Setophaga virens_Black-throated Green Warbler,0.41064706,122.0,125.0
+Emberiza cirlus_Cirl Bunting,0.23821208,122.0,125.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.1658929,122.0,125.0
+Setophaga virens_Black-throated Green Warbler,0.69288725,123.0,126.0
+Setophaga occidentalis_Hermit Warbler,0.2747754,123.0,126.0
+Emberiza cirlus_Cirl Bunting,0.23067842,123.0,126.0
+Setophaga townsendi_Townsend's Warbler,0.12035565,123.0,126.0
+Setophaga fusca_Blackburnian Warbler,0.11079799,123.0,126.0
+Spizella passerina_Chipping Sparrow,0.1822504,124.0,127.0
+Emberiza cioides_Meadow Bunting,0.1337212,124.0,127.0
+Setophaga virens_Black-throated Green Warbler,0.15346952,125.0,128.0
+Spizella passerina_Chipping Sparrow,0.14999783,125.0,128.0
+Setophaga occidentalis_Hermit Warbler,0.12560225,125.0,128.0
+Emberiza cirlus_Cirl Bunting,0.10836029,125.0,128.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10483506,126.0,129.0
+Setophaga occidentalis_Hermit Warbler,0.103469476,126.0,129.0
+Setophaga virens_Black-throated Green Warbler,0.1768416,127.0,130.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.15610938,127.0,130.0
+Setophaga occidentalis_Hermit Warbler,0.14781451,127.0,130.0
+Emberiza cirlus_Cirl Bunting,0.10147218,127.0,130.0
+Psaltriparus minimus_Bushtit,0.3102343,128.0,131.0
+Emberiza cirlus_Cirl Bunting,0.19355494,129.0,132.0
+Setophaga virens_Black-throated Green Warbler,0.4555372,130.0,133.0
+Setophaga occidentalis_Hermit Warbler,0.25562975,130.0,133.0
+Setophaga virens_Black-throated Green Warbler,0.3288678,131.0,134.0
+Setophaga occidentalis_Hermit Warbler,0.2363214,131.0,134.0
+Spizella passerina_Chipping Sparrow,0.103548914,131.0,134.0
+Setophaga virens_Black-throated Green Warbler,0.35132563,132.0,135.0
+Spizella passerina_Chipping Sparrow,0.14688154,132.0,135.0
+Setophaga occidentalis_Hermit Warbler,0.103887714,132.0,135.0
+Setophaga virens_Black-throated Green Warbler,0.30502495,133.0,136.0
+Emberiza cirlus_Cirl Bunting,0.22491612,134.0,137.0
+Setophaga virens_Black-throated Green Warbler,0.12086565,134.0,137.0
+Setophaga virens_Black-throated Green Warbler,0.17572571,135.0,138.0
+Setophaga virens_Black-throated Green Warbler,0.17711455,136.0,139.0
+Emberiza cirlus_Cirl Bunting,0.14358686,136.0,139.0
+Setophaga virens_Black-throated Green Warbler,0.24837896,137.0,140.0
+Setophaga virens_Black-throated Green Warbler,0.36281294,138.0,141.0
+Setophaga occidentalis_Hermit Warbler,0.15280092,138.0,141.0
+Spizella passerina_Chipping Sparrow,0.12964402,138.0,141.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.10545859,138.0,141.0
+Emberiza cirlus_Cirl Bunting,0.28095537,139.0,142.0
+Margarornis squamiger_Pearled Treerunner,0.13399309,139.0,142.0
+Setophaga occidentalis_Hermit Warbler,0.1536136,141.0,144.0
+Setophaga virens_Black-throated Green Warbler,0.14111154,141.0,144.0
+Setophaga townsendi_Townsend's Warbler,0.10373434,141.0,144.0
+Setophaga occidentalis_Hermit Warbler,0.450033,142.0,145.0
+Setophaga virens_Black-throated Green Warbler,0.37597194,142.0,145.0
+Setophaga townsendi_Townsend's Warbler,0.305771,142.0,145.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.14220306,142.0,145.0
+Setophaga virens_Black-throated Green Warbler,0.2930275,143.0,146.0
+Setophaga occidentalis_Hermit Warbler,0.11110308,143.0,146.0
+Setophaga nigrescens_Black-throated Gray Warbler,0.109619014,143.0,146.0
+Setophaga virens_Black-throated Green Warbler,0.4691694,144.0,147.0
+Spizella passerina_Chipping Sparrow,0.12780088,144.0,147.0
+Spizella passerina_Chipping Sparrow,0.1718181,145.0,148.0
+Emberiza cioides_Meadow Bunting,0.13778551,145.0,148.0
+Poecile atricapillus_Black-capped Chickadee,0.82887894,147.0,150.0
+Poecile carolinensis_Carolina Chickadee,0.11984903,147.0,150.0
+Poecile montanus_Willow Tit,0.24474274,149.0,152.0
+Regulus satrapa_Golden-crowned Kinglet,0.5338164,150.0,153.0
+Regulus satrapa_Golden-crowned Kinglet,0.42214814,151.0,154.0
+Regulus ignicapilla_Common Firecrest,0.11323418,151.0,154.0
+Regulus satrapa_Golden-crowned Kinglet,0.17044024,152.0,155.0
+Emberiza spodocephala_Black-faced Bunting,0.11582252,154.0,156.14403628117913

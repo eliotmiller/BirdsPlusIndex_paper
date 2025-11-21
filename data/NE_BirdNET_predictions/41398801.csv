@@ -1,0 +1,56 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.37487024,1.0,4.0
+Setophaga pinus_Pine Warbler,0.114701666,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.2538466,2.0,5.0
+Setophaga dominica_Yellow-throated Warbler,0.11833071,2.0,5.0
+Poecile carolinensis_Carolina Chickadee,0.18026689,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.9811209,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.93106586,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.9910932,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.9791951,7.0,10.0
+Troglodytes hiemalis_Winter Wren,0.9846395,8.0,11.0
+Troglodytes hiemalis_Winter Wren,0.97912836,9.0,12.0
+Troglodytes troglodytes_Eurasian Wren,0.10783626,9.0,12.0
+Troglodytes hiemalis_Winter Wren,0.9715489,10.0,13.0
+Troglodytes hiemalis_Winter Wren,0.16744933,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.37877566,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.116010025,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.10715845,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.14138576,15.0,18.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10093259,15.0,18.0
+Troglodytes hiemalis_Winter Wren,0.9505959,18.0,21.0
+Troglodytes hiemalis_Winter Wren,0.9859865,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.99400043,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.99467117,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.9816373,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.96433705,23.0,26.0
+Certhia americana_Brown Creeper,0.7921606,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.40426826,24.0,27.0
+Picumnus temminckii_Ochre-collared Piculet,0.16152279,25.0,28.0
+Polioptila caerulea_Blue-gray Gnatcatcher,0.109865904,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.118068695,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.95781285,31.0,34.0
+Ficedula mugimaki_Mugimaki Flycatcher,0.15162751,31.0,34.0
+Troglodytes hiemalis_Winter Wren,0.98575157,32.0,35.0
+Troglodytes hiemalis_Winter Wren,0.9962309,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.9887078,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.9388185,35.0,38.0
+Troglodytes hiemalis_Winter Wren,0.9878755,36.0,39.0
+Troglodytes hiemalis_Winter Wren,0.90810835,37.0,40.0
+Ficedula parva_Red-breasted Flycatcher,0.1452714,37.0,40.0
+Buteo platypterus_Broad-winged Hawk,0.846775,38.0,41.0
+Euphagus carolinus_Rusty Blackbird,0.22676392,38.0,41.0
+Spinus tristis_American Goldfinch,0.121232286,39.0,42.0
+Spinus tristis_American Goldfinch,0.27841476,40.0,43.0
+Spinus tristis_American Goldfinch,0.103477255,41.0,44.0
+Spinus tristis_American Goldfinch,0.10344873,42.0,45.0
+Troglodytes hiemalis_Winter Wren,0.9751208,45.0,48.0
+Troglodytes hiemalis_Winter Wren,0.9782331,46.0,49.0
+Troglodytes hiemalis_Winter Wren,0.996666,47.0,50.0
+Troglodytes hiemalis_Winter Wren,0.98772603,48.0,51.0
+Troglodytes hiemalis_Winter Wren,0.98935914,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.9753719,50.0,53.0
+Troglodytes hiemalis_Winter Wren,0.9902975,51.0,54.0
+Troglodytes hiemalis_Winter Wren,0.98530036,52.0,55.0
+Troglodytes hiemalis_Winter Wren,0.97037226,53.0,56.0
+Troglodytes hiemalis_Winter Wren,0.302748,54.0,57.0

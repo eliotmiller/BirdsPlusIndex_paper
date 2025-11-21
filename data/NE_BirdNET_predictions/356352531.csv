@@ -1,0 +1,320 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.9973349,0.0,3.0
+Elanoides forficatus_Swallow-tailed Kite,0.13728997,0.0,3.0
+Pandion haliaetus_Osprey,0.99271834,1.0,4.0
+Elanoides forficatus_Swallow-tailed Kite,0.16502544,1.0,4.0
+Burhinus senegalensis_Senegal Thick-knee,0.16425897,1.0,4.0
+Pandion haliaetus_Osprey,0.9041575,2.0,5.0
+Burhinus vermiculatus_Water Thick-knee,0.32090154,2.0,5.0
+Pandion haliaetus_Osprey,0.45365334,3.0,6.0
+Accipiter fasciatus_Brown Goshawk,0.30634198,3.0,6.0
+Pandion haliaetus_Osprey,0.75938,4.0,7.0
+Accipiter fasciatus_Brown Goshawk,0.3640975,4.0,7.0
+Metopidius indicus_Bronze-winged Jacana,0.1875029,4.0,7.0
+Haliastur sphenurus_Whistling Kite,0.12352271,4.0,7.0
+Pandion haliaetus_Osprey,0.9096306,5.0,8.0
+Accipiter fasciatus_Brown Goshawk,0.34034306,5.0,8.0
+Haliastur sphenurus_Whistling Kite,0.18614216,5.0,8.0
+Metopidius indicus_Bronze-winged Jacana,0.12703912,5.0,8.0
+Pandion haliaetus_Osprey,0.97547466,6.0,9.0
+Accipiter fasciatus_Brown Goshawk,0.20729339,6.0,9.0
+Metopidius indicus_Bronze-winged Jacana,0.13418183,6.0,9.0
+Pandion haliaetus_Osprey,0.9726705,7.0,10.0
+Accipiter fasciatus_Brown Goshawk,0.15454516,7.0,10.0
+Elanoides forficatus_Swallow-tailed Kite,0.11020496,7.0,10.0
+Haliastur sphenurus_Whistling Kite,0.10355899,7.0,10.0
+Pandion haliaetus_Osprey,0.96035093,8.0,11.0
+Elanoides forficatus_Swallow-tailed Kite,0.26474845,8.0,11.0
+Haliastur sphenurus_Whistling Kite,0.20851997,8.0,11.0
+Accipiter fasciatus_Brown Goshawk,0.12496115,8.0,11.0
+Pandion haliaetus_Osprey,0.92903006,9.0,12.0
+Elanoides forficatus_Swallow-tailed Kite,0.18335676,9.0,12.0
+Pandion haliaetus_Osprey,0.9574497,10.0,13.0
+Elanoides forficatus_Swallow-tailed Kite,0.15767246,10.0,13.0
+Pandion haliaetus_Osprey,0.98561203,11.0,14.0
+Burhinus vermiculatus_Water Thick-knee,0.11188904,11.0,14.0
+Pandion haliaetus_Osprey,0.9825194,12.0,15.0
+Burhinus vermiculatus_Water Thick-knee,0.106639884,12.0,15.0
+Pandion haliaetus_Osprey,0.9750531,13.0,16.0
+Elanoides forficatus_Swallow-tailed Kite,0.13634163,13.0,16.0
+Pandion haliaetus_Osprey,0.99159133,14.0,17.0
+Elanoides forficatus_Swallow-tailed Kite,0.4309466,14.0,17.0
+Burhinus senegalensis_Senegal Thick-knee,0.3034214,14.0,17.0
+Pandion haliaetus_Osprey,0.8569372,15.0,18.0
+Elanoides forficatus_Swallow-tailed Kite,0.23957978,15.0,18.0
+Burhinus senegalensis_Senegal Thick-knee,0.23226167,15.0,18.0
+Pandion haliaetus_Osprey,0.96009934,16.0,19.0
+Burhinus senegalensis_Senegal Thick-knee,0.14263454,16.0,19.0
+Pandion haliaetus_Osprey,0.99437064,17.0,20.0
+Burhinus senegalensis_Senegal Thick-knee,0.33902088,17.0,20.0
+Pandion haliaetus_Osprey,0.98710686,18.0,21.0
+Pandion haliaetus_Osprey,0.9549327,19.0,22.0
+Elanoides forficatus_Swallow-tailed Kite,0.30968603,19.0,22.0
+Accipiter fasciatus_Brown Goshawk,0.111290924,19.0,22.0
+Pandion haliaetus_Osprey,0.9636828,20.0,23.0
+Elanoides forficatus_Swallow-tailed Kite,0.17463553,20.0,23.0
+Pandion haliaetus_Osprey,0.9946015,21.0,24.0
+Burhinus senegalensis_Senegal Thick-knee,0.10299685,21.0,24.0
+Pandion haliaetus_Osprey,0.99693704,22.0,25.0
+Pandion haliaetus_Osprey,0.9813409,23.0,26.0
+Pandion haliaetus_Osprey,0.8701234,24.0,27.0
+Elanoides forficatus_Swallow-tailed Kite,0.11208526,24.0,27.0
+Accipiter fasciatus_Brown Goshawk,0.101967566,24.0,27.0
+Pandion haliaetus_Osprey,0.797764,25.0,28.0
+Elanoides forficatus_Swallow-tailed Kite,0.10302575,25.0,28.0
+Pandion haliaetus_Osprey,0.82214004,26.0,29.0
+Elanoides forficatus_Swallow-tailed Kite,0.18430893,26.0,29.0
+Accipiter fasciatus_Brown Goshawk,0.11807778,26.0,29.0
+Pandion haliaetus_Osprey,0.8384911,27.0,30.0
+Elanoides forficatus_Swallow-tailed Kite,0.3303529,27.0,30.0
+Pandion haliaetus_Osprey,0.9230571,28.0,31.0
+Elanoides forficatus_Swallow-tailed Kite,0.18024921,28.0,31.0
+Pandion haliaetus_Osprey,0.8271116,29.0,32.0
+Burhinus senegalensis_Senegal Thick-knee,0.17715518,29.0,32.0
+Elanoides forficatus_Swallow-tailed Kite,0.10218557,29.0,32.0
+Pandion haliaetus_Osprey,0.9835625,30.0,33.0
+Haliaeetus leucocephalus_Bald Eagle,0.10684218,30.0,33.0
+Burhinus senegalensis_Senegal Thick-knee,0.555612,31.0,34.0
+Burhinus indicus_Indian Thick-knee,0.1641343,31.0,34.0
+Pandion haliaetus_Osprey,0.13245869,31.0,34.0
+Pandion haliaetus_Osprey,0.82828087,32.0,35.0
+Burhinus senegalensis_Senegal Thick-knee,0.72012115,32.0,35.0
+Pandion haliaetus_Osprey,0.90941274,33.0,36.0
+Burhinus senegalensis_Senegal Thick-knee,0.6990431,33.0,36.0
+Burhinus vermiculatus_Water Thick-knee,0.27896753,33.0,36.0
+Pandion haliaetus_Osprey,0.86148095,34.0,37.0
+Burhinus vermiculatus_Water Thick-knee,0.22887272,34.0,37.0
+Burhinus senegalensis_Senegal Thick-knee,0.1331344,34.0,37.0
+Pandion haliaetus_Osprey,0.872354,35.0,38.0
+Accipiter fasciatus_Brown Goshawk,0.19694427,35.0,38.0
+Elanoides forficatus_Swallow-tailed Kite,0.17467944,35.0,38.0
+Pandion haliaetus_Osprey,0.4873933,36.0,39.0
+Elanoides forficatus_Swallow-tailed Kite,0.25558963,36.0,39.0
+Metopidius indicus_Bronze-winged Jacana,0.23860691,36.0,39.0
+Accipiter fasciatus_Brown Goshawk,0.1381664,36.0,39.0
+Pandion haliaetus_Osprey,0.80895823,37.0,40.0
+Burhinus vermiculatus_Water Thick-knee,0.13041385,37.0,40.0
+Pandion haliaetus_Osprey,0.8240359,38.0,41.0
+Pandion haliaetus_Osprey,0.8171273,39.0,42.0
+Pandion haliaetus_Osprey,0.74836594,40.0,43.0
+Pandion haliaetus_Osprey,0.96117824,41.0,44.0
+Mackenziaena leachii_Large-tailed Antshrike,0.23293714,41.0,44.0
+Burhinus vermiculatus_Water Thick-knee,0.2103067,41.0,44.0
+Pandion haliaetus_Osprey,0.98824614,42.0,45.0
+Burhinus vermiculatus_Water Thick-knee,0.11335319,42.0,45.0
+Pandion haliaetus_Osprey,0.997767,43.0,46.0
+Pandion haliaetus_Osprey,0.996968,44.0,47.0
+Burhinus vermiculatus_Water Thick-knee,0.10901654,44.0,47.0
+Pandion haliaetus_Osprey,0.99715304,45.0,48.0
+Burhinus senegalensis_Senegal Thick-knee,0.10692279,45.0,48.0
+Pandion haliaetus_Osprey,0.9694355,46.0,49.0
+Pandion haliaetus_Osprey,0.9757152,47.0,50.0
+Burhinus vermiculatus_Water Thick-knee,0.1805965,47.0,50.0
+Pandion haliaetus_Osprey,0.9529738,48.0,51.0
+Burhinus vermiculatus_Water Thick-knee,0.69607323,48.0,51.0
+Elanoides forficatus_Swallow-tailed Kite,0.27879328,48.0,51.0
+Accipiter fasciatus_Brown Goshawk,0.1139966,48.0,51.0
+Pandion haliaetus_Osprey,0.9537462,49.0,52.0
+Elanoides forficatus_Swallow-tailed Kite,0.2653792,49.0,52.0
+Accipiter fasciatus_Brown Goshawk,0.1869088,49.0,52.0
+Pandion haliaetus_Osprey,0.37097427,50.0,53.0
+Elanoides forficatus_Swallow-tailed Kite,0.31087863,50.0,53.0
+Pandion haliaetus_Osprey,0.11587226,51.0,54.0
+Sterna hirundo_Common Tern,0.12261029,52.0,55.0
+Sterna hirundo_Common Tern,0.22393613,53.0,56.0
+Pandion haliaetus_Osprey,0.9837173,55.0,58.0
+Pandion haliaetus_Osprey,0.987975,56.0,59.0
+Pandion haliaetus_Osprey,0.98986584,57.0,60.0
+Pandion haliaetus_Osprey,0.991589,58.0,61.0
+Pandion haliaetus_Osprey,0.7941548,59.0,62.0
+Pandion haliaetus_Osprey,0.89249444,60.0,63.0
+Burhinus senegalensis_Senegal Thick-knee,0.1598861,60.0,63.0
+Elanoides forficatus_Swallow-tailed Kite,0.13030292,60.0,63.0
+Pandion haliaetus_Osprey,0.91463065,61.0,64.0
+Elanoides forficatus_Swallow-tailed Kite,0.7209797,61.0,64.0
+Pandion haliaetus_Osprey,0.90139574,62.0,65.0
+Elanoides forficatus_Swallow-tailed Kite,0.7923303,62.0,65.0
+Accipiter fasciatus_Brown Goshawk,0.1316336,62.0,65.0
+Burhinus senegalensis_Senegal Thick-knee,0.10760967,62.0,65.0
+Pandion haliaetus_Osprey,0.8706122,63.0,66.0
+Elanoides forficatus_Swallow-tailed Kite,0.85258096,63.0,66.0
+Burhinus senegalensis_Senegal Thick-knee,0.13524789,63.0,66.0
+Burhinus vermiculatus_Water Thick-knee,0.10365095,63.0,66.0
+Pandion haliaetus_Osprey,0.86765766,64.0,67.0
+Elanoides forficatus_Swallow-tailed Kite,0.54722273,64.0,67.0
+Burhinus senegalensis_Senegal Thick-knee,0.25770974,64.0,67.0
+Pandion haliaetus_Osprey,0.3640854,65.0,68.0
+Pandion haliaetus_Osprey,0.6914238,66.0,69.0
+Pandion haliaetus_Osprey,0.8323119,67.0,70.0
+Pandion haliaetus_Osprey,0.8857097,68.0,71.0
+Pandion haliaetus_Osprey,0.96880496,69.0,72.0
+Pandion haliaetus_Osprey,0.9690197,70.0,73.0
+Pandion haliaetus_Osprey,0.9648303,71.0,74.0
+Pandion haliaetus_Osprey,0.969695,72.0,75.0
+Burhinus vermiculatus_Water Thick-knee,0.10416916,72.0,75.0
+Pandion haliaetus_Osprey,0.94828737,73.0,76.0
+Burhinus vermiculatus_Water Thick-knee,0.2704127,73.0,76.0
+Pandion haliaetus_Osprey,0.9562275,74.0,77.0
+Burhinus vermiculatus_Water Thick-knee,0.30617094,74.0,77.0
+Pandion haliaetus_Osprey,0.9860428,75.0,78.0
+Burhinus vermiculatus_Water Thick-knee,0.41028354,75.0,78.0
+Pandion haliaetus_Osprey,0.99681014,76.0,79.0
+Burhinus vermiculatus_Water Thick-knee,0.1291412,76.0,79.0
+Pandion haliaetus_Osprey,0.98761344,77.0,80.0
+Elanoides forficatus_Swallow-tailed Kite,0.289732,77.0,80.0
+Burhinus senegalensis_Senegal Thick-knee,0.141422,77.0,80.0
+Pandion haliaetus_Osprey,0.91547716,78.0,81.0
+Elanoides forficatus_Swallow-tailed Kite,0.5580526,78.0,81.0
+Burhinus senegalensis_Senegal Thick-knee,0.35161704,78.0,81.0
+Pandion haliaetus_Osprey,0.72353995,79.0,82.0
+Burhinus senegalensis_Senegal Thick-knee,0.6192482,79.0,82.0
+Elanoides forficatus_Swallow-tailed Kite,0.22881176,79.0,82.0
+Pandion haliaetus_Osprey,0.9452076,80.0,83.0
+Burhinus senegalensis_Senegal Thick-knee,0.23660882,80.0,83.0
+Pandion haliaetus_Osprey,0.97388184,81.0,84.0
+Burhinus senegalensis_Senegal Thick-knee,0.2591383,81.0,84.0
+Haliaeetus leucocephalus_Bald Eagle,0.12020813,81.0,84.0
+Pandion haliaetus_Osprey,0.9872344,82.0,85.0
+Pandion haliaetus_Osprey,0.99522024,83.0,86.0
+Pandion haliaetus_Osprey,0.9876275,84.0,87.0
+Pandion haliaetus_Osprey,0.99756706,85.0,88.0
+Pandion haliaetus_Osprey,0.75485957,86.0,89.0
+Haliaeetus leucocephalus_Bald Eagle,0.22780323,86.0,89.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.2118005,86.0,89.0
+Burhinus senegalensis_Senegal Thick-knee,0.15010253,86.0,89.0
+Pandion haliaetus_Osprey,0.9880641,87.0,90.0
+Burhinus senegalensis_Senegal Thick-knee,0.2948118,87.0,90.0
+Pandion haliaetus_Osprey,0.99645376,88.0,91.0
+Burhinus senegalensis_Senegal Thick-knee,0.22754899,88.0,91.0
+Pandion haliaetus_Osprey,0.9965126,89.0,92.0
+Burhinus senegalensis_Senegal Thick-knee,0.1218108,89.0,92.0
+Elanoides forficatus_Swallow-tailed Kite,0.10421186,89.0,92.0
+Accipiter fasciatus_Brown Goshawk,0.10252925,89.0,92.0
+Pandion haliaetus_Osprey,0.9725533,90.0,93.0
+Accipiter fasciatus_Brown Goshawk,0.15761675,90.0,93.0
+Pandion haliaetus_Osprey,0.89275897,91.0,94.0
+Elanoides forficatus_Swallow-tailed Kite,0.1349439,91.0,94.0
+Pandion haliaetus_Osprey,0.7255359,92.0,95.0
+Pandion haliaetus_Osprey,0.91928804,93.0,96.0
+Elanoides forficatus_Swallow-tailed Kite,0.22398463,93.0,96.0
+Pandion haliaetus_Osprey,0.9578441,94.0,97.0
+Elanoides forficatus_Swallow-tailed Kite,0.30916336,94.0,97.0
+Pandion haliaetus_Osprey,0.979837,95.0,98.0
+Burhinus senegalensis_Senegal Thick-knee,0.14353284,95.0,98.0
+Elanoides forficatus_Swallow-tailed Kite,0.11735683,95.0,98.0
+Pandion haliaetus_Osprey,0.9920642,96.0,99.0
+Accipiter fasciatus_Brown Goshawk,0.15924926,96.0,99.0
+Elanoides forficatus_Swallow-tailed Kite,0.11650204,96.0,99.0
+Pandion haliaetus_Osprey,0.9935442,97.0,100.0
+Accipiter fasciatus_Brown Goshawk,0.49996042,97.0,100.0
+Pandion haliaetus_Osprey,0.9917984,98.0,101.0
+Accipiter fasciatus_Brown Goshawk,0.47250298,98.0,101.0
+Elanoides forficatus_Swallow-tailed Kite,0.37688592,98.0,101.0
+Pandion haliaetus_Osprey,0.94062054,99.0,102.0
+Elanoides forficatus_Swallow-tailed Kite,0.5138795,99.0,102.0
+Accipiter fasciatus_Brown Goshawk,0.37128124,99.0,102.0
+Pandion haliaetus_Osprey,0.9315008,100.0,103.0
+Accipiter fasciatus_Brown Goshawk,0.76117355,100.0,103.0
+Elanoides forficatus_Swallow-tailed Kite,0.3338741,100.0,103.0
+Pandion haliaetus_Osprey,0.70042783,101.0,104.0
+Corvus ossifragus_Fish Crow,0.6409424,101.0,104.0
+Elanoides forficatus_Swallow-tailed Kite,0.12567754,101.0,104.0
+Corvus ossifragus_Fish Crow,0.7878258,102.0,105.0
+Pandion haliaetus_Osprey,0.35555637,102.0,105.0
+Corvus ossifragus_Fish Crow,0.9654316,103.0,106.0
+Pandion haliaetus_Osprey,0.35651475,103.0,106.0
+Corvus ossifragus_Fish Crow,0.89528495,104.0,107.0
+Pandion haliaetus_Osprey,0.95826787,105.0,108.0
+Burhinus senegalensis_Senegal Thick-knee,0.6129471,105.0,108.0
+Pandion haliaetus_Osprey,0.99745315,106.0,109.0
+Burhinus senegalensis_Senegal Thick-knee,0.74838203,106.0,109.0
+Pandion haliaetus_Osprey,0.9977742,107.0,110.0
+Burhinus senegalensis_Senegal Thick-knee,0.15028073,107.0,110.0
+Accipiter fasciatus_Brown Goshawk,0.10045491,107.0,110.0
+Pandion haliaetus_Osprey,0.97868836,108.0,111.0
+Accipiter fasciatus_Brown Goshawk,0.22067772,108.0,111.0
+Burhinus vermiculatus_Water Thick-knee,0.10676665,108.0,111.0
+Pandion haliaetus_Osprey,0.957488,109.0,112.0
+Elanoides forficatus_Swallow-tailed Kite,0.40958416,109.0,112.0
+Accipiter fasciatus_Brown Goshawk,0.12353751,109.0,112.0
+Pandion haliaetus_Osprey,0.767961,110.0,113.0
+Elanoides forficatus_Swallow-tailed Kite,0.45776495,110.0,113.0
+Accipiter fasciatus_Brown Goshawk,0.219804,110.0,113.0
+Pandion haliaetus_Osprey,0.7377086,111.0,114.0
+Corvus ossifragus_Fish Crow,0.30139145,111.0,114.0
+Elanoides forficatus_Swallow-tailed Kite,0.23507363,111.0,114.0
+Corvus ossifragus_Fish Crow,0.8373589,112.0,115.0
+Pandion haliaetus_Osprey,0.59999406,112.0,115.0
+Corvus ossifragus_Fish Crow,0.85439444,113.0,116.0
+Pandion haliaetus_Osprey,0.3980724,113.0,116.0
+Corvus ossifragus_Fish Crow,0.8653227,114.0,117.0
+Pandion haliaetus_Osprey,0.19866723,114.0,117.0
+Pandion haliaetus_Osprey,0.76611274,115.0,118.0
+Corvus ossifragus_Fish Crow,0.5647468,115.0,118.0
+Burhinus senegalensis_Senegal Thick-knee,0.3935879,115.0,118.0
+Pandion haliaetus_Osprey,0.9911378,116.0,119.0
+Burhinus senegalensis_Senegal Thick-knee,0.47739297,116.0,119.0
+Pandion haliaetus_Osprey,0.9629245,117.0,120.0
+Elanoides forficatus_Swallow-tailed Kite,0.15705359,117.0,120.0
+Pandion haliaetus_Osprey,0.9385006,118.0,121.0
+Elanoides forficatus_Swallow-tailed Kite,0.47100657,119.0,122.0
+Pandion haliaetus_Osprey,0.1714124,119.0,122.0
+Pandion haliaetus_Osprey,0.97246563,121.0,124.0
+Burhinus senegalensis_Senegal Thick-knee,0.343306,121.0,124.0
+Pandion haliaetus_Osprey,0.9963649,122.0,125.0
+Pandion haliaetus_Osprey,0.9969132,123.0,126.0
+Pandion haliaetus_Osprey,0.981851,124.0,127.0
+Pandion haliaetus_Osprey,0.88829476,125.0,128.0
+Burhinus vermiculatus_Water Thick-knee,0.21996269,125.0,128.0
+Pandion haliaetus_Osprey,0.9797649,126.0,129.0
+Burhinus senegalensis_Senegal Thick-knee,0.11100526,126.0,129.0
+Pandion haliaetus_Osprey,0.9647947,127.0,130.0
+Elanoides forficatus_Swallow-tailed Kite,0.23770483,127.0,130.0
+Pandion haliaetus_Osprey,0.9900713,128.0,131.0
+Elanoides forficatus_Swallow-tailed Kite,0.3581265,128.0,131.0
+Pandion haliaetus_Osprey,0.9814966,129.0,132.0
+Elanoides forficatus_Swallow-tailed Kite,0.3130411,129.0,132.0
+Burhinus senegalensis_Senegal Thick-knee,0.17912252,129.0,132.0
+Pandion haliaetus_Osprey,0.99692374,130.0,133.0
+Burhinus senegalensis_Senegal Thick-knee,0.15368572,130.0,133.0
+Pandion haliaetus_Osprey,0.9975121,131.0,134.0
+Pandion haliaetus_Osprey,0.99567187,132.0,135.0
+Pandion haliaetus_Osprey,0.9973816,133.0,136.0
+Pandion haliaetus_Osprey,0.9966928,134.0,137.0
+Pandion haliaetus_Osprey,0.9731573,135.0,138.0
+Pandion haliaetus_Osprey,0.95551234,136.0,139.0
+Burhinus senegalensis_Senegal Thick-knee,0.24302256,136.0,139.0
+Pandion haliaetus_Osprey,0.9772611,137.0,140.0
+Burhinus senegalensis_Senegal Thick-knee,0.11726694,137.0,140.0
+Pandion haliaetus_Osprey,0.9976611,138.0,141.0
+Burhinus senegalensis_Senegal Thick-knee,0.16633031,138.0,141.0
+Pandion haliaetus_Osprey,0.9975879,139.0,142.0
+Pandion haliaetus_Osprey,0.99787295,140.0,143.0
+Elanoides forficatus_Swallow-tailed Kite,0.10484954,140.0,143.0
+Pandion haliaetus_Osprey,0.99388725,141.0,144.0
+Pandion haliaetus_Osprey,0.9991641,142.0,145.0
+Burhinus senegalensis_Senegal Thick-knee,0.12269161,142.0,145.0
+Elanoides forficatus_Swallow-tailed Kite,0.11955641,142.0,145.0
+Pandion haliaetus_Osprey,0.9965593,143.0,146.0
+Elanoides forficatus_Swallow-tailed Kite,0.19123459,143.0,146.0
+Pandion haliaetus_Osprey,0.9726729,144.0,147.0
+Elanoides forficatus_Swallow-tailed Kite,0.2422692,144.0,147.0
+Pandion haliaetus_Osprey,0.9824013,145.0,148.0
+Elanoides forficatus_Swallow-tailed Kite,0.21284518,145.0,148.0
+Pandion haliaetus_Osprey,0.98412734,146.0,149.0
+Pandion haliaetus_Osprey,0.9870653,147.0,150.0
+Elanoides forficatus_Swallow-tailed Kite,0.2231084,147.0,150.0
+Accipiter fasciatus_Brown Goshawk,0.19047143,147.0,150.0
+Pandion haliaetus_Osprey,0.94447887,148.0,151.0
+Accipiter fasciatus_Brown Goshawk,0.24781175,148.0,151.0
+Elanoides forficatus_Swallow-tailed Kite,0.18290755,148.0,151.0
+Pandion haliaetus_Osprey,0.96829355,149.0,152.0
+Elanoides forficatus_Swallow-tailed Kite,0.30881953,149.0,152.0
+Accipiter fasciatus_Brown Goshawk,0.12329424,149.0,152.0
+Pandion haliaetus_Osprey,0.9224797,150.0,153.0
+Elanoides forficatus_Swallow-tailed Kite,0.19653043,150.0,153.0
+Accipiter fasciatus_Brown Goshawk,0.16872555,150.0,153.0
+Pandion haliaetus_Osprey,0.77413434,151.0,153.93600907029477
+Burhinus vermiculatus_Water Thick-knee,0.2460959,151.0,153.93600907029477
+Elanoides forficatus_Swallow-tailed Kite,0.13499391,151.0,153.93600907029477
+Accipiter superciliosus_Tiny Hawk,0.13168092,151.0,153.93600907029477

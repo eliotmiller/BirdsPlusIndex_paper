@@ -1,0 +1,160 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.15600328,0.0,3.0
+Protonotaria citrea_Prothonotary Warbler,0.10176788,1.0,4.0
+Catharus fuscescens_Veery,0.63088375,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.46094894,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.13197105,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.5898527,3.0,6.0
+Catharus fuscescens_Veery,0.50873137,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.15049587,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.58467007,4.0,7.0
+Turdus falcklandii_Austral Thrush,0.35376498,4.0,7.0
+Catharus fuscescens_Veery,0.21922746,4.0,7.0
+Turdus olivaceus_Olive Thrush,0.61214846,5.0,8.0
+Piranga rubra_Summer Tanager,0.41505408,5.0,8.0
+Alcippe poioicephala_Brown-cheeked Fulvetta,0.20749006,5.0,8.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15260564,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.11443481,5.0,8.0
+Icterus galbula_Baltimore Oriole,0.10181379,5.0,8.0
+Catharus fuscescens_Veery,0.61231935,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.29832077,6.0,9.0
+Icterus galbula_Baltimore Oriole,0.11155089,6.0,9.0
+Catharus fuscescens_Veery,0.73298675,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.46001595,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.19854043,8.0,11.0
+Turdus falcklandii_Austral Thrush,0.38311946,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.1617509,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.18546458,10.0,13.0
+Turdus falcklandii_Austral Thrush,0.18377641,10.0,13.0
+Piranga rubra_Summer Tanager,0.119732946,10.0,13.0
+Icterus galbula_Baltimore Oriole,0.108544715,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.1832457,11.0,14.0
+Turdus falcklandii_Austral Thrush,0.16498439,11.0,14.0
+Icterus galbula_Baltimore Oriole,0.15441093,11.0,14.0
+Piranga rubra_Summer Tanager,0.4114424,13.0,16.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20336047,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.20159298,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.4743141,14.0,17.0
+Vireo flavifrons_Yellow-throated Vireo,0.16976987,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.3930203,15.0,18.0
+Dumetella carolinensis_Gray Catbird,0.19275749,17.0,20.0
+Dumetella carolinensis_Gray Catbird,0.66832393,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.6548857,19.0,22.0
+Dumetella carolinensis_Gray Catbird,0.31839246,20.0,23.0
+Dumetella carolinensis_Gray Catbird,0.15974352,22.0,25.0
+Turdus falcklandii_Austral Thrush,0.45305642,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.31823626,23.0,26.0
+Turdus falcklandii_Austral Thrush,0.33487093,24.0,27.0
+Vireo flavifrons_Yellow-throated Vireo,0.2829462,24.0,27.0
+Icterus galbula_Baltimore Oriole,0.16610393,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.15207705,24.0,27.0
+Turdus falcklandii_Austral Thrush,0.22395474,25.0,28.0
+Dumetella carolinensis_Gray Catbird,0.1778735,26.0,29.0
+Sylvia atricapilla_Eurasian Blackcap,0.111916654,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.38379005,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.39753935,28.0,31.0
+Icterus galbula_Baltimore Oriole,0.27836332,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.20684318,28.0,31.0
+Vireo flavifrons_Yellow-throated Vireo,0.6412988,29.0,32.0
+Turdus viscivorus_Mistle Thrush,0.16813457,30.0,33.0
+Turdus olivaceus_Olive Thrush,0.15521613,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.30845472,31.0,34.0
+Vireo flavifrons_Yellow-throated Vireo,0.20258313,31.0,34.0
+Catharus fuscescens_Veery,0.15188354,31.0,34.0
+Catharus fuscescens_Veery,0.6334936,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.41077697,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.15258974,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.5597837,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.4952679,35.0,38.0
+Pyriglena leucoptera_White-shouldered Fire-eye,0.17479384,41.0,44.0
+Turdus assimilis_White-throated Thrush,0.1092272,44.0,47.0
+Icterus galbula_Baltimore Oriole,0.103217304,44.0,47.0
+Limnothlypis swainsonii_Swainson's Warbler,0.34748065,46.0,49.0
+Geothlypis formosa_Kentucky Warbler,0.11546721,46.0,49.0
+Dumetella carolinensis_Gray Catbird,0.402609,47.0,50.0
+Dumetella carolinensis_Gray Catbird,0.20170256,48.0,51.0
+Catharus fuscescens_Veery,0.41231316,49.0,52.0
+Catharus ustulatus_Swainson's Thrush,0.17657085,49.0,52.0
+Catharus fuscescens_Veery,0.8474031,50.0,53.0
+Catharus ustulatus_Swainson's Thrush,0.5941212,50.0,53.0
+Catharus fuscescens_Veery,0.5024783,51.0,54.0
+Catharus ustulatus_Swainson's Thrush,0.26813683,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.10003706,52.0,55.0
+Limnothlypis swainsonii_Swainson's Warbler,0.31931663,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.21296555,53.0,56.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18539168,54.0,57.0
+Protonotaria citrea_Prothonotary Warbler,0.12814642,54.0,57.0
+Ficedula albicollis_Collared Flycatcher,0.11254801,54.0,57.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5901225,55.0,58.0
+Geothlypis formosa_Kentucky Warbler,0.13064542,55.0,58.0
+Dumetella carolinensis_Gray Catbird,0.20115547,56.0,59.0
+Dumetella carolinensis_Gray Catbird,0.156642,57.0,60.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11003116,57.0,60.0
+Catharus fuscescens_Veery,0.7582119,58.0,61.0
+Catharus fuscescens_Veery,0.84667945,59.0,62.0
+Catharus fuscescens_Veery,0.8765096,60.0,63.0
+Catharus ustulatus_Swainson's Thrush,0.15381442,61.0,64.0
+Dumetella carolinensis_Gray Catbird,0.1800962,62.0,65.0
+Dumetella carolinensis_Gray Catbird,0.43424016,63.0,66.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1181431,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.30461365,64.0,67.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11104774,64.0,67.0
+Catharus fuscescens_Veery,0.94597435,65.0,68.0
+Catharus fuscescens_Veery,0.8013902,66.0,69.0
+Catharus ustulatus_Swainson's Thrush,0.10528636,66.0,69.0
+Catharus fuscescens_Veery,0.90553564,67.0,70.0
+Protonotaria citrea_Prothonotary Warbler,0.11879704,68.0,71.0
+Baeolophus bicolor_Tufted Titmouse,0.13351385,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102185264,69.0,72.0
+Baeolophus bicolor_Tufted Titmouse,0.10303804,70.0,73.0
+Catharus fuscescens_Veery,0.9208164,71.0,74.0
+Catharus fuscescens_Veery,0.83754325,72.0,75.0
+Catharus fuscescens_Veery,0.51478755,73.0,76.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.18941014,74.0,77.0
+Melanotis hypoleucus_Blue-and-white Mockingbird,0.14418215,76.0,79.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.11427973,77.0,80.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20568259,78.0,81.0
+Catharus fuscescens_Veery,0.8220033,79.0,82.0
+Catharus fuscescens_Veery,0.8069067,80.0,83.0
+Catharus fuscescens_Veery,0.9100439,81.0,84.0
+Catharus fuscescens_Veery,0.58830136,82.0,85.0
+Catharus fuscescens_Veery,0.88703835,87.0,90.0
+Catharus fuscescens_Veery,0.9427238,88.0,91.0
+Catharus fuscescens_Veery,0.7997273,89.0,92.0
+Henicorhina leucophrys_Gray-breasted Wood-Wren,0.1286722,91.0,94.0
+Dumetella carolinensis_Gray Catbird,0.11339688,91.0,94.0
+Geothlypis formosa_Kentucky Warbler,0.110711716,94.0,97.0
+Pipilo erythrophthalmus_Eastern Towhee,0.3067237,95.0,98.0
+Catharus fuscescens_Veery,0.7077091,96.0,99.0
+Catharus fuscescens_Veery,0.85310477,97.0,100.0
+Catharus ustulatus_Swainson's Thrush,0.11723035,97.0,100.0
+Catharus fuscescens_Veery,0.9255279,98.0,101.0
+Catharus ustulatus_Swainson's Thrush,0.14706556,98.0,101.0
+Catharus ustulatus_Swainson's Thrush,0.33669856,99.0,102.0
+Catharus fuscescens_Veery,0.12081911,99.0,102.0
+Baeolophus bicolor_Tufted Titmouse,0.12249682,101.0,104.0
+Catharus fuscescens_Veery,0.6158383,103.0,106.0
+Catharus fuscescens_Veery,0.76306427,104.0,107.0
+Catharus ustulatus_Swainson's Thrush,0.1192192,104.0,107.0
+Catharus fuscescens_Veery,0.64041954,105.0,108.0
+Catharus minimus_Gray-cheeked Thrush,0.13049495,105.0,108.0
+Catharus ustulatus_Swainson's Thrush,0.11579269,105.0,108.0
+Catharus fuscescens_Veery,0.33882946,108.0,111.0
+Catharus fuscescens_Veery,0.5162041,109.0,112.0
+Catharus fuscescens_Veery,0.8049949,110.0,113.0
+Geothlypis formosa_Kentucky Warbler,0.1065885,115.0,118.0
+Catharus fuscescens_Veery,0.9093521,116.0,119.0
+Catharus ustulatus_Swainson's Thrush,0.12339659,116.0,119.0
+Catharus fuscescens_Veery,0.70454687,117.0,120.0
+Catharus ustulatus_Swainson's Thrush,0.13553797,117.0,120.0
+Catharus fuscescens_Veery,0.92805123,118.0,121.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13661073,119.0,122.0
+Geothlypis formosa_Kentucky Warbler,0.16455877,120.0,123.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12599818,120.0,123.0
+Geothlypis formosa_Kentucky Warbler,0.15077065,121.0,124.0
+Dumetella carolinensis_Gray Catbird,0.23763046,123.0,126.0
+Geothlypis formosa_Kentucky Warbler,0.20053081,124.0,127.0
+Catharus fuscescens_Veery,0.6788062,125.0,128.0
+Catharus ustulatus_Swainson's Thrush,0.25372323,125.0,128.0
+Catharus fuscescens_Veery,0.8836797,126.0,129.0
+Catharus fuscescens_Veery,0.821406,127.0,129.36

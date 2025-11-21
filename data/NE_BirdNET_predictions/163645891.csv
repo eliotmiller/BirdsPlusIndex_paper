@@ -1,0 +1,70 @@
+species,score,start_time,end_time
+Setophaga petechia_Yellow Warbler,0.3757376,0.0,3.0
+Empidonax traillii_Willow Flycatcher,0.36387536,1.0,4.0
+Sturnella magna_Eastern Meadowlark,0.12701084,1.0,4.0
+Ammospiza maritima_Seaside Sparrow,0.11182128,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.9776804,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.9989109,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.9996226,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.99968195,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.9996475,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.9928054,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.96709764,8.0,11.0
+Empidonax traillii_Willow Flycatcher,0.14475545,8.0,11.0
+Empidonax traillii_Willow Flycatcher,0.35604832,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1980065,10.0,13.0
+Empidonax traillii_Willow Flycatcher,0.68417776,11.0,14.0
+Setophaga petechia_Yellow Warbler,0.11740183,11.0,14.0
+Empidonax traillii_Willow Flycatcher,0.4723459,12.0,15.0
+Coccothraustes vespertinus_Evening Grosbeak,0.11724367,12.0,15.0
+Empidonax traillii_Willow Flycatcher,0.63961977,13.0,16.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16244118,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.15356469,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.41331592,15.0,18.0
+Ixobrychus exilis_Least Bittern,0.1221555,15.0,18.0
+Agelaius phoeniceus_Red-winged Blackbird,0.37932456,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.21067609,17.0,20.0
+Sturnella magna_Eastern Meadowlark,0.16598623,17.0,20.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1397095,17.0,20.0
+Icterus spurius_Orchard Oriole,0.11970543,17.0,20.0
+Empidonax traillii_Willow Flycatcher,0.10714397,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.79161453,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.9674585,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.86918736,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.9085488,21.0,24.0
+Icterus spurius_Orchard Oriole,0.57580024,24.0,27.0
+Icterus galbula_Baltimore Oriole,0.43840235,24.0,27.0
+Icterus bullockii_Bullock's Oriole,0.34064463,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.29332703,25.0,28.0
+Icterus spurius_Orchard Oriole,0.17304306,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.97523886,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.99422693,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.9773793,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.9524707,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.88457847,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.8836989,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.75753546,32.0,35.0
+Anthus correndera_Correndera Pipit,0.10081535,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.309722,33.0,36.0
+Gallinago delicata_Wilson's Snipe,0.15680557,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.9698294,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.9864792,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.9972959,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.99250907,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.99928194,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.9967347,40.0,43.0
+Hippolais icterina_Icterine Warbler,0.29075795,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.99832505,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.99889934,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.99920374,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.9990189,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.8152167,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.9921071,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.9953198,47.0,50.0
+Petrochelidon pyrrhonota_Cliff Swallow,0.15239893,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.94983196,48.0,51.0
+Dolichonyx oryzivorus_Bobolink,0.9611636,49.0,52.0
+Tyrannus tyrannus_Eastern Kingbird,0.5885309,50.0,53.0
+Coccothraustes vespertinus_Evening Grosbeak,0.23453549,50.0,53.0
+Coccothraustes vespertinus_Evening Grosbeak,0.7012266,51.0,53.736009070294784
+Tyrannus tyrannus_Eastern Kingbird,0.47595155,51.0,53.736009070294784

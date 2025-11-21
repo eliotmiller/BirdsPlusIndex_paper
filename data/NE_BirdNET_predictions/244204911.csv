@@ -1,0 +1,301 @@
+species,score,start_time,end_time
+Aramus guarauna_Limpkin,0.1604274,0.0,3.0
+Bucephala albeola_Bufflehead,0.1517984,3.0,6.0
+Corvus ossifragus_Fish Crow,0.21348761,4.0,7.0
+Corvus ossifragus_Fish Crow,0.49788108,5.0,8.0
+Bucephala albeola_Bufflehead,0.4279193,5.0,8.0
+Corvus ossifragus_Fish Crow,0.30703017,6.0,9.0
+Bucephala albeola_Bufflehead,0.22906657,6.0,9.0
+Nannopterum auritum_Double-crested Cormorant,0.13988209,6.0,9.0
+Aramus guarauna_Limpkin,0.21644415,7.0,10.0
+Butorides virescens_Green Heron,0.14208667,7.0,10.0
+Aramus guarauna_Limpkin,0.57419163,8.0,11.0
+Ardea alba_Great Egret,0.15662836,8.0,11.0
+Butorides virescens_Green Heron,0.1508023,8.0,11.0
+Aramus guarauna_Limpkin,0.85970557,9.0,12.0
+Ardea alba_Great Egret,0.33217052,9.0,12.0
+Phalaropus lobatus_Red-necked Phalarope,0.10177678,11.0,14.0
+Butorides virescens_Green Heron,0.107713774,12.0,15.0
+Bucephala albeola_Bufflehead,0.27048433,26.0,29.0
+Butorides virescens_Green Heron,0.19614844,26.0,29.0
+Hydroprogne caspia_Caspian Tern,0.1426402,27.0,30.0
+Melospiza melodia_Song Sparrow,0.12294652,29.0,32.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1390076,30.0,33.0
+Ammospiza nelsoni_Nelson's Sparrow,0.4143796,31.0,34.0
+Bucephala albeola_Bufflehead,0.101893395,36.0,39.0
+Nannopterum auritum_Double-crested Cormorant,0.21329992,37.0,40.0
+Nannopterum auritum_Double-crested Cormorant,0.33416727,38.0,41.0
+Nannopterum auritum_Double-crested Cormorant,0.59488803,39.0,42.0
+Nannopterum auritum_Double-crested Cormorant,0.17931488,40.0,43.0
+Nannopterum auritum_Double-crested Cormorant,0.17905614,41.0,44.0
+Turdus iliacus_Redwing,0.68754643,55.0,58.0
+Nannopterum auritum_Double-crested Cormorant,0.6304861,60.0,63.0
+Eudocimus albus_White Ibis,0.20985122,60.0,63.0
+Nannopterum auritum_Double-crested Cormorant,0.63153315,61.0,64.0
+Nannopterum auritum_Double-crested Cormorant,0.8385906,62.0,65.0
+Eudocimus albus_White Ibis,0.15473092,62.0,65.0
+Nannopterum auritum_Double-crested Cormorant,0.31157157,63.0,66.0
+Bucephala albeola_Bufflehead,0.1020511,69.0,72.0
+Nannopterum auritum_Double-crested Cormorant,0.57190466,74.0,77.0
+Anas rubripes_American Black Duck,0.13021055,74.0,77.0
+Nannopterum auritum_Double-crested Cormorant,0.84683794,75.0,78.0
+Eudocimus albus_White Ibis,0.119785674,75.0,78.0
+Nannopterum auritum_Double-crested Cormorant,0.9025267,76.0,79.0
+Eudocimus albus_White Ibis,0.24816957,76.0,79.0
+Nannopterum auritum_Double-crested Cormorant,0.98169506,77.0,80.0
+Eudocimus albus_White Ibis,0.3636145,77.0,80.0
+Branta bernicla_Brant,0.10313051,77.0,80.0
+Nannopterum auritum_Double-crested Cormorant,0.63043153,78.0,81.0
+Branta bernicla_Brant,0.3448643,78.0,81.0
+Nannopterum auritum_Double-crested Cormorant,0.47793773,79.0,82.0
+Branta bernicla_Brant,0.27243695,79.0,82.0
+Nannopterum auritum_Double-crested Cormorant,0.665534,80.0,83.0
+Nannopterum auritum_Double-crested Cormorant,0.41662928,81.0,84.0
+Bucephala albeola_Bufflehead,0.119876675,81.0,84.0
+Nannopterum auritum_Double-crested Cormorant,0.44831008,82.0,85.0
+Bucephala albeola_Bufflehead,0.42078567,82.0,85.0
+Aythya valisineria_Canvasback,0.2788502,82.0,85.0
+Nannopterum auritum_Double-crested Cormorant,0.21627,83.0,86.0
+Bucephala albeola_Bufflehead,0.17903657,83.0,86.0
+Nannopterum auritum_Double-crested Cormorant,0.2776574,84.0,87.0
+Bucephala albeola_Bufflehead,0.14557241,84.0,87.0
+Nannopterum auritum_Double-crested Cormorant,0.13800317,92.0,95.0
+Bucephala albeola_Bufflehead,0.13933611,96.0,99.0
+Eudocimus albus_White Ibis,0.17127495,99.0,102.0
+Nannopterum auritum_Double-crested Cormorant,0.78500503,100.0,103.0
+Eudocimus albus_White Ibis,0.18178456,100.0,103.0
+Nannopterum auritum_Double-crested Cormorant,0.9210675,101.0,104.0
+Eudocimus albus_White Ibis,0.19405313,101.0,104.0
+Nannopterum auritum_Double-crested Cormorant,0.97119933,102.0,105.0
+Eudocimus albus_White Ibis,0.37053543,102.0,105.0
+Bucephala albeola_Bufflehead,0.13554128,102.0,105.0
+Nannopterum auritum_Double-crested Cormorant,0.19922154,103.0,106.0
+Nannopterum auritum_Double-crested Cormorant,0.106195286,105.0,108.0
+Nannopterum auritum_Double-crested Cormorant,0.20013003,106.0,109.0
+Coragyps atratus_Black Vulture,0.12104352,106.0,109.0
+Coragyps atratus_Black Vulture,0.11223968,107.0,110.0
+Nannopterum auritum_Double-crested Cormorant,0.22072315,108.0,111.0
+Bucephala albeola_Bufflehead,0.122066595,108.0,111.0
+Nannopterum auritum_Double-crested Cormorant,0.31198084,109.0,112.0
+Nannopterum auritum_Double-crested Cormorant,0.24371086,110.0,113.0
+Bucephala albeola_Bufflehead,0.102499135,110.0,113.0
+Nannopterum auritum_Double-crested Cormorant,0.86719215,111.0,114.0
+Bucephala albeola_Bufflehead,0.6237447,111.0,114.0
+Phalacrocorax carbo_Great Cormorant,0.15918778,111.0,114.0
+Fulica americana_American Coot,0.1571404,111.0,114.0
+Coragyps atratus_Black Vulture,0.11800214,111.0,114.0
+Nannopterum auritum_Double-crested Cormorant,0.8938846,112.0,115.0
+Bucephala albeola_Bufflehead,0.5161732,112.0,115.0
+Fulica americana_American Coot,0.1539269,112.0,115.0
+Phalacrocorax carbo_Great Cormorant,0.11027885,112.0,115.0
+Nannopterum auritum_Double-crested Cormorant,0.8311612,113.0,116.0
+Bucephala albeola_Bufflehead,0.49711123,113.0,116.0
+Fulica americana_American Coot,0.19877192,113.0,116.0
+Nannopterum auritum_Double-crested Cormorant,0.5096336,114.0,117.0
+Bucephala albeola_Bufflehead,0.45699522,114.0,117.0
+Nannopterum auritum_Double-crested Cormorant,0.35877433,115.0,118.0
+Bucephala albeola_Bufflehead,0.31334808,115.0,118.0
+Bucephala albeola_Bufflehead,0.34104562,116.0,119.0
+Nannopterum auritum_Double-crested Cormorant,0.18934596,116.0,119.0
+Bucephala albeola_Bufflehead,0.18361619,117.0,120.0
+Bucephala albeola_Bufflehead,0.14032848,118.0,121.0
+Nannopterum auritum_Double-crested Cormorant,0.6035604,124.0,127.0
+Nannopterum auritum_Double-crested Cormorant,0.9160072,125.0,128.0
+Nannopterum auritum_Double-crested Cormorant,0.72387236,126.0,129.0
+Branta bernicla_Brant,0.15890771,126.0,129.0
+Nannopterum auritum_Double-crested Cormorant,0.89835286,127.0,130.0
+Bucephala albeola_Bufflehead,0.19075297,127.0,130.0
+Bucephala albeola_Bufflehead,0.45334455,128.0,131.0
+Nannopterum auritum_Double-crested Cormorant,0.23243497,128.0,131.0
+Melospiza melodia_Song Sparrow,0.19383366,128.0,131.0
+Lophodytes cucullatus_Hooded Merganser,0.17706452,128.0,131.0
+Bucephala albeola_Bufflehead,0.13337702,129.0,132.0
+Nannopterum auritum_Double-crested Cormorant,0.38352817,130.0,133.0
+Bucephala albeola_Bufflehead,0.33959925,130.0,133.0
+Nannopterum auritum_Double-crested Cormorant,0.12209315,131.0,134.0
+Nannopterum auritum_Double-crested Cormorant,0.54099834,132.0,135.0
+Bucephala albeola_Bufflehead,0.26771298,132.0,135.0
+Nannopterum auritum_Double-crested Cormorant,0.7182368,133.0,136.0
+Ardea alba_Great Egret,0.13574213,133.0,136.0
+Nannopterum auritum_Double-crested Cormorant,0.8032763,134.0,137.0
+Nannopterum auritum_Double-crested Cormorant,0.7833788,135.0,138.0
+Bucephala albeola_Bufflehead,0.13202983,136.0,139.0
+Nannopterum auritum_Double-crested Cormorant,0.11733806,136.0,139.0
+Ardea alba_Great Egret,0.30470815,140.0,143.0
+Ardea alba_Great Egret,0.282377,142.0,145.0
+Lophodytes cucullatus_Hooded Merganser,0.12588249,142.0,145.0
+Nannopterum auritum_Double-crested Cormorant,0.121630676,142.0,145.0
+Melospiza melodia_Song Sparrow,0.11784772,143.0,146.0
+Melospiza melodia_Song Sparrow,0.119550526,144.0,147.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11254599,146.0,149.0
+Hirundo rustica_Barn Swallow,0.24398948,149.0,152.0
+Hirundo rustica_Barn Swallow,0.12600309,150.0,153.0
+Riparia riparia_Bank Swallow,0.10377541,153.0,156.0
+Zonotrichia querula_Harris's Sparrow,0.24549595,154.0,157.0
+Bucephala albeola_Bufflehead,0.12886514,156.0,159.0
+Bucephala albeola_Bufflehead,0.21882467,157.0,160.0
+Bucephala albeola_Bufflehead,0.4306574,160.0,163.0
+Mergus merganser_Common Merganser,0.17167252,160.0,163.0
+Lophodytes cucullatus_Hooded Merganser,0.10911808,160.0,163.0
+Eudocimus albus_White Ibis,0.4588457,161.0,164.0
+Nannopterum auritum_Double-crested Cormorant,0.41848883,161.0,164.0
+Egretta rufescens_Reddish Egret,0.21472485,161.0,164.0
+Ardea alba_Great Egret,0.15572439,161.0,164.0
+Egretta tricolor_Tricolored Heron,0.116069265,161.0,164.0
+Phalacrocorax carbo_Great Cormorant,0.110121585,161.0,164.0
+Eudocimus albus_White Ibis,0.6736866,162.0,165.0
+Nannopterum auritum_Double-crested Cormorant,0.56857425,162.0,165.0
+Ardea alba_Great Egret,0.3433161,162.0,165.0
+Egretta rufescens_Reddish Egret,0.23165922,162.0,165.0
+Nannopterum auritum_Double-crested Cormorant,0.74003565,163.0,166.0
+Eudocimus albus_White Ibis,0.45359594,163.0,166.0
+Egretta rufescens_Reddish Egret,0.10091057,163.0,166.0
+Nannopterum auritum_Double-crested Cormorant,0.36113143,167.0,170.0
+Bucephala albeola_Bufflehead,0.17820708,167.0,170.0
+Cygnus columbianus_Tundra Swan,0.6254619,169.0,172.0
+Cygnus buccinator_Trumpeter Swan,0.17412956,169.0,172.0
+Bucephala albeola_Bufflehead,0.18998756,170.0,173.0
+Nannopterum auritum_Double-crested Cormorant,0.56928027,171.0,174.0
+Bucephala albeola_Bufflehead,0.3957286,171.0,174.0
+Nannopterum auritum_Double-crested Cormorant,0.2517039,172.0,175.0
+Bucephala albeola_Bufflehead,0.2473811,172.0,175.0
+Nannopterum auritum_Double-crested Cormorant,0.16165297,173.0,176.0
+Nannopterum auritum_Double-crested Cormorant,0.22110794,174.0,177.0
+Nannopterum auritum_Double-crested Cormorant,0.10367438,175.0,178.0
+Spinus tristis_American Goldfinch,0.12585895,176.0,179.0
+Ardea herodias_Great Blue Heron,0.11257483,177.0,180.0
+Spinus tristis_American Goldfinch,0.4685577,178.0,181.0
+Ardea alba_Great Egret,0.24206842,179.0,182.0
+Aramus guarauna_Limpkin,0.11248742,179.0,182.0
+Poecile gambeli_Mountain Chickadee,0.19090596,180.0,183.0
+Bucephala albeola_Bufflehead,0.24995597,183.0,186.0
+Anthus trivialis_Tree Pipit,0.10224729,185.0,188.0
+Bucephala albeola_Bufflehead,0.11824035,191.0,194.0
+Melospiza melodia_Song Sparrow,0.2133817,193.0,196.0
+Nannopterum auritum_Double-crested Cormorant,0.19345365,193.0,196.0
+Melospiza melodia_Song Sparrow,0.15468954,194.0,197.0
+Sitta carolinensis_White-breasted Nuthatch,0.1228905,200.0,203.0
+Bucephala albeola_Bufflehead,0.17413776,201.0,204.0
+Bucephala albeola_Bufflehead,0.25527686,202.0,205.0
+Corvus ossifragus_Fish Crow,0.16055046,203.0,206.0
+Corvus ossifragus_Fish Crow,0.11092129,204.0,207.0
+Corvus ossifragus_Fish Crow,0.6362507,211.0,214.0
+Corvus ossifragus_Fish Crow,0.10052166,212.0,215.0
+Corvus ossifragus_Fish Crow,0.3319664,213.0,216.0
+Melospiza melodia_Song Sparrow,0.15949054,214.0,217.0
+Corvus ossifragus_Fish Crow,0.7059128,215.0,218.0
+Corvus ossifragus_Fish Crow,0.20837551,216.0,219.0
+Bucephala albeola_Bufflehead,0.13321567,217.0,220.0
+Melospiza melodia_Song Sparrow,0.12506355,217.0,220.0
+Melospiza melodia_Song Sparrow,0.14473748,218.0,221.0
+Bucephala albeola_Bufflehead,0.28926018,221.0,224.0
+Bucephala albeola_Bufflehead,0.38427085,222.0,225.0
+Bucephala albeola_Bufflehead,0.3226401,223.0,226.0
+Aythya valisineria_Canvasback,0.15590455,223.0,226.0
+Egretta eulophotes_Chinese Egret,0.2932596,224.0,227.0
+Bucephala albeola_Bufflehead,0.3963097,225.0,228.0
+Fulica americana_American Coot,0.33546838,225.0,228.0
+Bucephala albeola_Bufflehead,0.5450393,226.0,229.0
+Fulica americana_American Coot,0.3537244,226.0,229.0
+Aythya valisineria_Canvasback,0.14125265,227.0,230.0
+Egretta rufescens_Reddish Egret,0.12640138,227.0,230.0
+Aythya valisineria_Canvasback,0.11614624,228.0,231.0
+Egretta eulophotes_Chinese Egret,0.11227433,228.0,231.0
+Egretta rufescens_Reddish Egret,0.107873686,228.0,231.0
+Aythya valisineria_Canvasback,0.26742098,229.0,232.0
+Egretta eulophotes_Chinese Egret,0.14330192,229.0,232.0
+Corvus ossifragus_Fish Crow,0.9089123,232.0,235.0
+Corvus ossifragus_Fish Crow,0.96269083,233.0,236.0
+Corvus ossifragus_Fish Crow,0.96398544,234.0,237.0
+Corvus ossifragus_Fish Crow,0.9854456,235.0,238.0
+Corvus ossifragus_Fish Crow,0.88631254,236.0,239.0
+Corvus ossifragus_Fish Crow,0.8937905,237.0,240.0
+Bucephala albeola_Bufflehead,0.11901192,237.0,240.0
+Corvus ossifragus_Fish Crow,0.70082045,238.0,241.0
+Corvus ossifragus_Fish Crow,0.6250493,239.0,242.0
+Corvus ossifragus_Fish Crow,0.9537694,240.0,243.0
+Corvus ossifragus_Fish Crow,0.9527919,241.0,244.0
+Corvus ossifragus_Fish Crow,0.95243484,242.0,245.0
+Corvus ossifragus_Fish Crow,0.9182317,243.0,246.0
+Corvus ossifragus_Fish Crow,0.9840313,244.0,247.0
+Corvus ossifragus_Fish Crow,0.98071814,245.0,248.0
+Corvus ossifragus_Fish Crow,0.7200784,246.0,249.0
+Bucephala albeola_Bufflehead,0.29252675,247.0,250.0
+Bucephala albeola_Bufflehead,0.123807386,248.0,251.0
+Spinus tristis_American Goldfinch,0.3827356,250.0,253.0
+Spinus tristis_American Goldfinch,0.2350026,251.0,254.0
+Corvus ossifragus_Fish Crow,0.94759583,255.0,258.0
+Corvus ossifragus_Fish Crow,0.9936308,256.0,259.0
+Corvus ossifragus_Fish Crow,0.9827404,257.0,260.0
+Bucephala albeola_Bufflehead,0.10941817,270.0,273.0
+Bucephala albeola_Bufflehead,0.2261378,271.0,274.0
+Melospiza melodia_Song Sparrow,0.10813498,280.0,283.0
+Melospiza melodia_Song Sparrow,0.12670319,281.0,284.0
+Melospiza melodia_Song Sparrow,0.52482915,282.0,285.0
+Melospiza melodia_Song Sparrow,0.25218937,283.0,286.0
+Melospiza melodia_Song Sparrow,0.1075797,287.0,290.0
+Melospiza melodia_Song Sparrow,0.17941195,288.0,291.0
+Bucephala albeola_Bufflehead,0.100772776,288.0,291.0
+Bucephala albeola_Bufflehead,0.10187342,289.0,292.0
+Melozone aberti_Abert's Towhee,0.12622201,290.0,293.0
+Melospiza melodia_Song Sparrow,0.24632247,296.0,299.0
+Bucephala albeola_Bufflehead,0.12162268,298.0,301.0
+Parus major_Great Tit,0.101997,305.0,308.0
+Nannopterum auritum_Double-crested Cormorant,0.26411608,306.0,309.0
+Nannopterum auritum_Double-crested Cormorant,0.3301997,307.0,310.0
+Egretta tricolor_Tricolored Heron,0.16292651,307.0,310.0
+Eudocimus albus_White Ibis,0.10553043,307.0,310.0
+Nannopterum auritum_Double-crested Cormorant,0.7882405,308.0,311.0
+Eudocimus albus_White Ibis,0.16557802,308.0,311.0
+Egretta rufescens_Reddish Egret,0.122962125,308.0,311.0
+Nannopterum auritum_Double-crested Cormorant,0.39265636,309.0,312.0
+Egretta rufescens_Reddish Egret,0.15102075,309.0,312.0
+Nannopterum brasilianum_Neotropic Cormorant,0.18751276,310.0,313.0
+Bucephala albeola_Bufflehead,0.15812495,312.0,315.0
+Bucephala albeola_Bufflehead,0.13030857,314.0,317.0
+Aechmophorus clarkii_Clark's Grebe,0.11793398,314.0,317.0
+Bucephala albeola_Bufflehead,0.21812786,315.0,318.0
+Bucephala albeola_Bufflehead,0.4868586,316.0,319.0
+Bucephala albeola_Bufflehead,0.47515744,317.0,320.0
+Aythya valisineria_Canvasback,0.19282372,317.0,320.0
+Anas castanea_Chestnut Teal,0.18451887,318.0,321.0
+Phalacrocorax carbo_Great Cormorant,0.15428948,318.0,321.0
+Bucephala albeola_Bufflehead,0.12342791,318.0,321.0
+Anas castanea_Chestnut Teal,0.2269356,319.0,322.0
+Platalea ajaja_Roseate Spoonbill,0.11222254,320.0,323.0
+Branta bernicla_Brant,0.16635923,321.0,324.0
+Nannopterum auritum_Double-crested Cormorant,0.13354576,321.0,324.0
+Bucephala albeola_Bufflehead,0.3480287,322.0,325.0
+Platalea ajaja_Roseate Spoonbill,0.121539205,322.0,325.0
+Fulica americana_American Coot,0.5038114,323.0,326.0
+Nannopterum auritum_Double-crested Cormorant,0.31103304,323.0,326.0
+Bucephala albeola_Bufflehead,0.18357636,323.0,326.0
+Fulica americana_American Coot,0.51165175,324.0,327.0
+Nannopterum auritum_Double-crested Cormorant,0.14662856,324.0,327.0
+Fulica americana_American Coot,0.41844353,325.0,328.0
+Aythya valisineria_Canvasback,0.10393374,327.0,330.0
+Aythya valisineria_Canvasback,0.25690165,328.0,331.0
+Bucephala albeola_Bufflehead,0.24340148,328.0,331.0
+Nannopterum auritum_Double-crested Cormorant,0.22918707,328.0,331.0
+Nannopterum auritum_Double-crested Cormorant,0.38020247,329.0,332.0
+Bucephala albeola_Bufflehead,0.20824447,329.0,332.0
+Mergus merganser_Common Merganser,0.1481854,329.0,332.0
+Ardea alba_Great Egret,0.14297429,329.0,332.0
+Egretta rufescens_Reddish Egret,0.10402778,329.0,332.0
+Nannopterum auritum_Double-crested Cormorant,0.40855965,330.0,333.0
+Bucephala albeola_Bufflehead,0.20287114,331.0,334.0
+Bucephala albeola_Bufflehead,0.4393924,334.0,337.0
+Aechmophorus clarkii_Clark's Grebe,0.107726485,334.0,337.0
+Bucephala albeola_Bufflehead,0.32143795,335.0,338.0
+Bucephala albeola_Bufflehead,0.34948805,336.0,339.0
+Bucephala albeola_Bufflehead,0.7244095,337.0,340.0
+Lophodytes cucullatus_Hooded Merganser,0.26865622,337.0,340.0
+Bucephala albeola_Bufflehead,0.39885354,338.0,341.0
+Egretta rufescens_Reddish Egret,0.1049865,338.0,341.0
+Fulica americana_American Coot,0.16217045,339.0,342.0
+Bucephala albeola_Bufflehead,0.12538995,339.0,342.0
+Bucephala albeola_Bufflehead,0.23966542,340.0,343.0
+Mergus merganser_Common Merganser,0.23511353,340.0,343.0
+Fulica americana_American Coot,0.13458243,340.0,343.0
+Poecile sclateri_Mexican Chickadee,0.5422985,343.0,346.0
+Bucephala albeola_Bufflehead,0.14980263,346.0,349.0

@@ -1,0 +1,17 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.9725363,0.0,3.0
+Corvus corax_Common Raven,0.92469394,1.0,4.0
+Corvus corax_Common Raven,0.9261322,2.0,5.0
+Corvus corax_Common Raven,0.93557787,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.21958654,3.0,6.0
+Corvus corax_Common Raven,0.83791214,5.0,8.0
+Corvus corax_Common Raven,0.9290097,6.0,9.0
+Corvus corax_Common Raven,0.8301033,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.18939625,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.119947635,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.1478882,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14450246,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13343424,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.10447242,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.121471554,11.0,13.68
+Helmitheros vermivorum_Worm-eating Warbler,0.11718148,11.0,13.68

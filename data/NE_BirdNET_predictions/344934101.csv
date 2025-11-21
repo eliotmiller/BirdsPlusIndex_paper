@@ -1,0 +1,85 @@
+species,score,start_time,end_time
+Setophaga tigrina_Cape May Warbler,0.10961946,2.0,5.0
+Protonotaria citrea_Prothonotary Warbler,0.10912679,3.0,6.0
+Setophaga ruticilla_American Redstart,0.14052714,4.0,7.0
+Protonotaria citrea_Prothonotary Warbler,0.56835616,5.0,8.0
+Protonotaria citrea_Prothonotary Warbler,0.9959848,6.0,9.0
+Protonotaria citrea_Prothonotary Warbler,0.99577963,7.0,10.0
+Protonotaria citrea_Prothonotary Warbler,0.99723685,8.0,11.0
+Protonotaria citrea_Prothonotary Warbler,0.9944759,9.0,12.0
+Leiothlypis ruficapilla_Nashville Warbler,0.21613301,9.0,12.0
+Setophaga tigrina_Cape May Warbler,0.15968548,11.0,14.0
+Limnothlypis swainsonii_Swainson's Warbler,0.27994207,12.0,15.0
+Protonotaria citrea_Prothonotary Warbler,0.23423395,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.23803817,17.0,20.0
+Setophaga tigrina_Cape May Warbler,0.15169857,18.0,21.0
+Protonotaria citrea_Prothonotary Warbler,0.996406,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.9981523,23.0,26.0
+Protonotaria citrea_Prothonotary Warbler,0.99899083,24.0,27.0
+Protonotaria citrea_Prothonotary Warbler,0.99706167,25.0,28.0
+Protonotaria citrea_Prothonotary Warbler,0.9894393,26.0,29.0
+Ficedula albicollis_Collared Flycatcher,0.27650145,28.0,31.0
+Vireo gilvus_Warbling Vireo,0.24940456,29.0,32.0
+Buteo platypterus_Broad-winged Hawk,0.103965804,30.0,33.0
+Setophaga tigrina_Cape May Warbler,0.21961431,32.0,35.0
+Protonotaria citrea_Prothonotary Warbler,0.12824377,32.0,35.0
+Buteo platypterus_Broad-winged Hawk,0.10877105,33.0,36.0
+Limnothlypis swainsonii_Swainson's Warbler,0.26928166,34.0,37.0
+Protonotaria citrea_Prothonotary Warbler,0.2346268,35.0,38.0
+Setophaga tigrina_Cape May Warbler,0.10810822,35.0,38.0
+Protonotaria citrea_Prothonotary Warbler,0.9958156,36.0,39.0
+Protonotaria citrea_Prothonotary Warbler,0.9917201,37.0,40.0
+Protonotaria citrea_Prothonotary Warbler,0.995824,38.0,41.0
+Protonotaria citrea_Prothonotary Warbler,0.99207497,39.0,42.0
+Setophaga ruticilla_American Redstart,0.13218784,40.0,43.0
+Setophaga ruticilla_American Redstart,0.17671148,41.0,44.0
+Protonotaria citrea_Prothonotary Warbler,0.21259272,42.0,45.0
+Protonotaria citrea_Prothonotary Warbler,0.75073963,45.0,48.0
+Leiothlypis ruficapilla_Nashville Warbler,0.3834666,45.0,48.0
+Protonotaria citrea_Prothonotary Warbler,0.9958974,46.0,49.0
+Protonotaria citrea_Prothonotary Warbler,0.98437655,47.0,50.0
+Protonotaria citrea_Prothonotary Warbler,0.9859487,48.0,51.0
+Protonotaria citrea_Prothonotary Warbler,0.9520644,49.0,52.0
+Protonotaria citrea_Prothonotary Warbler,0.12116262,50.0,53.0
+Icterus galbula_Baltimore Oriole,0.11564629,51.0,54.0
+Buteo platypterus_Broad-winged Hawk,0.78830004,52.0,55.0
+Limnothlypis swainsonii_Swainson's Warbler,0.23423794,53.0,56.0
+Limnothlypis swainsonii_Swainson's Warbler,0.27932686,54.0,57.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10656402,55.0,58.0
+Protonotaria citrea_Prothonotary Warbler,0.4301603,56.0,59.0
+Setophaga ruticilla_American Redstart,0.24643466,56.0,59.0
+Protonotaria citrea_Prothonotary Warbler,0.99369675,57.0,60.0
+Protonotaria citrea_Prothonotary Warbler,0.9947397,58.0,61.0
+Protonotaria citrea_Prothonotary Warbler,0.99920064,59.0,62.0
+Protonotaria citrea_Prothonotary Warbler,0.97814745,60.0,63.0
+Setophaga ruticilla_American Redstart,0.16875449,64.0,67.0
+Setophaga ruticilla_American Redstart,0.20846616,65.0,68.0
+Setophaga ruticilla_American Redstart,0.15881503,66.0,69.0
+Setophaga ruticilla_American Redstart,0.40529653,67.0,70.0
+Protonotaria citrea_Prothonotary Warbler,0.983818,69.0,72.0
+Protonotaria citrea_Prothonotary Warbler,0.99372584,70.0,73.0
+Protonotaria citrea_Prothonotary Warbler,0.9795981,71.0,74.0
+Protonotaria citrea_Prothonotary Warbler,0.8135094,72.0,75.0
+Setophaga ruticilla_American Redstart,0.20259391,75.0,78.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11388624,82.0,85.0
+Setophaga ruticilla_American Redstart,0.16875097,83.0,86.0
+Setophaga ruticilla_American Redstart,0.12706661,84.0,87.0
+Setophaga tigrina_Cape May Warbler,0.116673656,85.0,88.0
+Setophaga tigrina_Cape May Warbler,0.12920736,90.0,93.0
+Protonotaria citrea_Prothonotary Warbler,0.99142355,93.0,96.0
+Protonotaria citrea_Prothonotary Warbler,0.9941419,94.0,97.0
+Protonotaria citrea_Prothonotary Warbler,0.99456537,95.0,98.0
+Protonotaria citrea_Prothonotary Warbler,0.9915911,96.0,99.0
+Setophaga ruticilla_American Redstart,0.27819267,100.0,103.0
+Setophaga ruticilla_American Redstart,0.17840387,101.0,104.0
+Setophaga ruticilla_American Redstart,0.17134827,102.0,105.0
+Protonotaria citrea_Prothonotary Warbler,0.19433326,103.0,106.0
+Setophaga ruticilla_American Redstart,0.16094244,103.0,106.0
+Setophaga fusca_Blackburnian Warbler,0.11272899,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10129465,103.0,106.0
+Setophaga tigrina_Cape May Warbler,0.22135708,109.0,112.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13705154,109.0,112.0
+Protonotaria citrea_Prothonotary Warbler,0.9949562,110.0,113.0
+Protonotaria citrea_Prothonotary Warbler,0.9976568,111.0,114.0
+Protonotaria citrea_Prothonotary Warbler,0.98046494,112.0,115.0
+Protonotaria citrea_Prothonotary Warbler,0.9952813,113.0,116.0

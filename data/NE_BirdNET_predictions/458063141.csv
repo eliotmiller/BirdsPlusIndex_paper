@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.7602421,1.0,4.0
+Setophaga ruticilla_American Redstart,0.73778105,2.0,5.0
+Setophaga castanea_Bay-breasted Warbler,0.1115396,2.0,5.0
+Setophaga ruticilla_American Redstart,0.8376845,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.10969963,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.7917659,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.7102909,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.13981837,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.11436524,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.10133896,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.7785877,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.5255267,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.72608566,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.30276406,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.2668459,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.18398471,6.0,9.0
+Setophaga ruticilla_American Redstart,0.118929885,6.0,9.0
+Hylocichla mustelina_Wood Thrush,0.6490164,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.17337328,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.11623782,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.105183944,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.57726467,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15545058,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.92611825,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.5703616,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.86334884,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.46037668,11.0,14.0
+Hylocichla mustelina_Wood Thrush,0.24211286,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.23667654,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11561044,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.38135216,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.37906376,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.111991554,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.2389235,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.20310415,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20078969,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.46568254,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.36612707,14.0,17.0
+Setophaga citrina_Hooded Warbler,0.29237503,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.16864103,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.93108916,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.57032996,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.19274068,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.713156,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.2665075,16.0,19.0
+Setophaga ruticilla_American Redstart,0.13711663,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.6795487,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.24875613,17.0,20.0
+Setophaga ruticilla_American Redstart,0.22181357,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.307355,18.0,21.0
+Setophaga ruticilla_American Redstart,0.10801147,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.5823919,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124372385,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.8244126,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.24688752,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1236231,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9573697,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9786946,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9380408,23.0,26.0
+Geothlypis formosa_Kentucky Warbler,0.12316965,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.9225477,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.22808999,25.0,28.0
+Geothlypis formosa_Kentucky Warbler,0.14901207,25.0,28.0
+Phoenicurus ochruros_Black Redstart,0.3719231,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.33459827,29.0,32.0
+Setophaga ruticilla_American Redstart,0.31522638,30.0,33.0
+Setophaga ruticilla_American Redstart,0.25255156,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.16789426,32.0,35.0

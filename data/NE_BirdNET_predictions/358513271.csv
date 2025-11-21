@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Monticola solitarius_Blue Rock-Thrush,0.10570563,1.0,4.0
+Calcarius lapponicus_Lapland Longspur,0.24313332,4.0,7.0
+Emberiza hortulana_Ortolan Bunting,0.14216954,5.0,8.0
+Aratinga auricapillus_Golden-capped Parakeet,0.5619564,13.0,16.0
+Aratinga auricapillus_Golden-capped Parakeet,0.18896449,14.0,17.0
+Cyanocitta cristata_Blue Jay,0.10534708,14.0,17.0
+Contopus virens_Eastern Wood-Pewee,0.16846538,15.0,18.0
+Cyanoptila cyanomelana_Blue-and-white Flycatcher,0.17982917,16.0,19.0
+Buteo japonicus_Eastern Buzzard,0.11271734,17.0,20.0
+Milvus migrans_Black Kite,0.11215507,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.19082178,18.0,21.0
+Milvus migrans_Black Kite,0.14797275,18.0,21.0
+Accipiter nisus_Eurasian Sparrowhawk,0.19441056,20.0,23.0
+Circus aeruginosus_Eurasian Marsh-Harrier,0.13429852,20.0,23.0
+Circus aeruginosus_Eurasian Marsh-Harrier,0.14975731,21.0,24.0
+Monticola saxatilis_Rufous-tailed Rock-Thrush,0.14160238,26.0,29.0
+Myadestes ralloides_Andean Solitaire,0.12732676,28.0,31.0
+Iodopleura pipra_Buff-throated Purpletuft,0.6571278,33.0,36.0
+Mimus saturninus_Chalk-browed Mockingbird,0.23700441,33.0,36.0
+Copsychus saularis_Oriental Magpie-Robin,0.22053936,33.0,36.0
+Phoenicurus leucocephalus_White-capped Redstart,0.14665988,33.0,36.0
+Turdus dissimilis_Black-breasted Thrush,0.2406134,34.0,37.0
+Mimus saturninus_Chalk-browed Mockingbird,0.16731237,34.0,37.0
+Iodopleura pipra_Buff-throated Purpletuft,0.12619759,34.0,37.0
+Phoenicurus fuliginosus_Plumbeous Redstart,0.24719524,35.0,38.0
+Larvivora brunnea_Indian Blue Robin,0.19960181,35.0,38.0
+Phoenicurus leucocephalus_White-capped Redstart,0.15833487,35.0,38.0
+Turdus dissimilis_Black-breasted Thrush,0.106344976,35.0,38.0
+Tolmomyias flaviventris_Yellow-breasted Flycatcher,0.120298214,36.0,39.0
+Pnoepyga pusilla_Pygmy Cupwing,0.23013291,37.0,40.0
+Pnoepyga pusilla_Pygmy Cupwing,0.1022986,38.0,41.0
+Phoenicurus fuliginosus_Plumbeous Redstart,0.33782533,39.0,42.0
+Certhia brachydactyla_Short-toed Treecreeper,0.13876247,39.0,42.0
+Larvivora brunnea_Indian Blue Robin,0.122241035,39.0,42.0
+Phoenicurus fuliginosus_Plumbeous Redstart,0.41156095,40.0,43.0
+Larvivora brunnea_Indian Blue Robin,0.19695958,40.0,43.0
+Enicurus schistaceus_Slaty-backed Forktail,0.1343648,40.0,43.0
+Larvivora brunnea_Indian Blue Robin,0.67469835,41.0,44.0
+Enicurus schistaceus_Slaty-backed Forktail,0.10496303,41.0,44.0
+Iodopleura pipra_Buff-throated Purpletuft,0.32342264,42.0,45.0
+Pnoepyga pusilla_Pygmy Cupwing,0.14457771,42.0,45.0
+Phylloscopus grammiceps_Sunda Warbler,0.10124094,43.0,46.0
+Motacilla citreola_Citrine Wagtail,0.6009644,44.0,47.0
+Motacilla citreola_Citrine Wagtail,0.30903774,45.0,48.0
+Tachycineta thalassina_Violet-green Swallow,0.101179115,46.0,49.0
+Ploceus melanocephalus_Black-headed Weaver,0.2811227,47.0,50.0
+Molothrus rufoaxillaris_Screaming Cowbird,0.20326069,47.0,50.0
+Passer montanus_Eurasian Tree Sparrow,0.18675047,47.0,50.0
+Passer montanus_Eurasian Tree Sparrow,0.3892135,48.0,51.0
+Prunella collaris_Alpine Accentor,0.22361216,48.0,51.0
+Passer montanus_Eurasian Tree Sparrow,0.554341,49.0,52.0
+Melanochlora sultanea_Sultan Tit,0.26861018,49.0,52.0
+Molothrus rufoaxillaris_Screaming Cowbird,0.13269165,49.0,52.0
+Prunella collaris_Alpine Accentor,0.108196,49.0,52.0
+Passer montanus_Eurasian Tree Sparrow,0.81388086,50.0,53.0
+Motacilla citreola_Citrine Wagtail,0.190006,52.0,55.0
+Motacilla citreola_Citrine Wagtail,0.47254413,53.0,56.0
+Chaetura cinereiventris_Gray-rumped Swift,0.28381693,53.0,56.0
+Atticora tibialis_White-thighed Swallow,0.10789456,53.0,56.0
+Motacilla citreola_Citrine Wagtail,0.49485373,54.0,57.0
+Motacilla citreola_Citrine Wagtail,0.66385746,55.0,58.0
+Chaetura cinereiventris_Gray-rumped Swift,0.10022347,55.0,58.0
+Motacilla citreola_Citrine Wagtail,0.2973112,56.0,59.0
+Motacilla citreola_Citrine Wagtail,0.7136513,57.0,60.0
