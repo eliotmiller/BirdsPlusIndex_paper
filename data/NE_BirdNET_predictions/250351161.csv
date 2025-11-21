@@ -1,0 +1,954 @@
+species,score,start_time,end_time
+Spizella pallida_Clay-colored Sparrow,0.99874806,0.0,3.0
+Spizella pallida_Clay-colored Sparrow,0.99841654,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.9877587,2.0,5.0
+Carpospiza brachydactyla_Pale Rockfinch,0.2716092,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.35869688,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.18435678,7.0,10.0
+Spizella pallida_Clay-colored Sparrow,0.15744662,7.0,10.0
+Centronyx henslowii_Henslow's Sparrow,0.13784952,7.0,10.0
+Spizella pallida_Clay-colored Sparrow,0.99754447,8.0,11.0
+Spizella pallida_Clay-colored Sparrow,0.99954885,9.0,12.0
+Spizella pallida_Clay-colored Sparrow,0.9987185,10.0,13.0
+Spizella pallida_Clay-colored Sparrow,0.99069804,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.16302559,13.0,16.0
+Spizella pallida_Clay-colored Sparrow,0.9679339,14.0,17.0
+Spizella pallida_Clay-colored Sparrow,0.99859935,15.0,18.0
+Spizella pallida_Clay-colored Sparrow,0.9982697,16.0,19.0
+Spizella pallida_Clay-colored Sparrow,0.99922097,17.0,20.0
+Spizella pallida_Clay-colored Sparrow,0.9654987,18.0,21.0
+Spinus tristis_American Goldfinch,0.30851233,19.0,22.0
+Spizella pusilla_Field Sparrow,0.146451,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.10726605,19.0,22.0
+Spinus tristis_American Goldfinch,0.3350324,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.10099758,20.0,23.0
+Spinus tristis_American Goldfinch,0.17227885,21.0,24.0
+Spinus tristis_American Goldfinch,0.34414616,22.0,25.0
+Spizella pallida_Clay-colored Sparrow,0.81837195,23.0,26.0
+Spizella pallida_Clay-colored Sparrow,0.9985843,24.0,27.0
+Spizella pallida_Clay-colored Sparrow,0.9988772,25.0,28.0
+Spizella pallida_Clay-colored Sparrow,0.997632,26.0,29.0
+Spizella pallida_Clay-colored Sparrow,0.96069,27.0,30.0
+Spizella pallida_Clay-colored Sparrow,0.99634415,32.0,35.0
+Spizella pallida_Clay-colored Sparrow,0.99905866,33.0,36.0
+Spizella pallida_Clay-colored Sparrow,0.99754816,34.0,37.0
+Spizella pallida_Clay-colored Sparrow,0.97772664,35.0,38.0
+Geococcyx californianus_Greater Roadrunner,0.17746246,37.0,40.0
+Spizella pallida_Clay-colored Sparrow,0.996166,41.0,44.0
+Spizella pallida_Clay-colored Sparrow,0.99884427,42.0,45.0
+Spizella pallida_Clay-colored Sparrow,0.99812466,43.0,46.0
+Spizella pallida_Clay-colored Sparrow,0.9779779,44.0,47.0
+Spizella pallida_Clay-colored Sparrow,0.10647803,45.0,48.0
+Circus hudsonius_Northern Harrier,0.19737667,46.0,49.0
+Spizella pallida_Clay-colored Sparrow,0.101111606,47.0,50.0
+Spizella pallida_Clay-colored Sparrow,0.98262113,50.0,53.0
+Spizella pallida_Clay-colored Sparrow,0.99764204,51.0,54.0
+Spizella pallida_Clay-colored Sparrow,0.9993604,52.0,55.0
+Spizella pallida_Clay-colored Sparrow,0.9783262,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.19019623,54.0,57.0
+Spinus lawrencei_Lawrence's Goldfinch,0.12590732,55.0,58.0
+Tamiasciurus hudsonicus_Red Squirrel,0.102077626,56.0,59.0
+Spizella pallida_Clay-colored Sparrow,0.29772443,58.0,61.0
+Spizella pallida_Clay-colored Sparrow,0.29689333,60.0,63.0
+Tamiasciurus hudsonicus_Red Squirrel,0.100402616,61.0,64.0
+Dolichonyx oryzivorus_Bobolink,0.21368502,62.0,65.0
+Dolichonyx oryzivorus_Bobolink,0.10772813,63.0,66.0
+Dolichonyx oryzivorus_Bobolink,0.1405488,64.0,67.0
+Spizella pallida_Clay-colored Sparrow,0.67535067,65.0,68.0
+Spizella pallida_Clay-colored Sparrow,0.4660459,66.0,69.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20077197,66.0,69.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18257096,67.0,70.0
+Lophodytes cucullatus_Hooded Merganser,0.11779593,70.0,73.0
+Spizella pallida_Clay-colored Sparrow,0.40130028,73.0,76.0
+Spizella pallida_Clay-colored Sparrow,0.10200344,75.0,78.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19439204,77.0,80.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2483799,78.0,81.0
+Tamiasciurus hudsonicus_Red Squirrel,0.116176285,79.0,82.0
+Tamiasciurus hudsonicus_Red Squirrel,0.104524024,80.0,83.0
+Spizella pallida_Clay-colored Sparrow,0.119835734,85.0,88.0
+Spizella pallida_Clay-colored Sparrow,0.4775785,86.0,89.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24606442,86.0,89.0
+Spizella pallida_Clay-colored Sparrow,0.62279135,87.0,90.0
+Tamiasciurus hudsonicus_Red Squirrel,0.19898774,87.0,90.0
+Dolichonyx oryzivorus_Bobolink,0.89548594,90.0,93.0
+Dolichonyx oryzivorus_Bobolink,0.40192807,91.0,94.0
+Spizella pallida_Clay-colored Sparrow,0.5465038,92.0,95.0
+Spizella pallida_Clay-colored Sparrow,0.9959943,93.0,96.0
+Spizella pallida_Clay-colored Sparrow,0.99937063,94.0,97.0
+Spizella pallida_Clay-colored Sparrow,0.99805236,95.0,98.0
+Spizella pallida_Clay-colored Sparrow,0.9129954,96.0,99.0
+Dolichonyx oryzivorus_Bobolink,0.94725233,97.0,100.0
+Dolichonyx oryzivorus_Bobolink,0.94501936,98.0,101.0
+Dolichonyx oryzivorus_Bobolink,0.90158206,99.0,102.0
+Dolichonyx oryzivorus_Bobolink,0.9488943,100.0,103.0
+Dolichonyx oryzivorus_Bobolink,0.96646535,101.0,104.0
+Dolichonyx oryzivorus_Bobolink,0.85424,102.0,105.0
+Dolichonyx oryzivorus_Bobolink,0.80452096,103.0,106.0
+Spinus lawrencei_Lawrence's Goldfinch,0.16608526,103.0,106.0
+Spizella pallida_Clay-colored Sparrow,0.9967579,104.0,107.0
+Spizella pallida_Clay-colored Sparrow,0.99764085,105.0,108.0
+Spizella pallida_Clay-colored Sparrow,0.9959318,106.0,109.0
+Spizella pallida_Clay-colored Sparrow,0.84949183,107.0,110.0
+Carpospiza brachydactyla_Pale Rockfinch,0.15243386,107.0,110.0
+Dolichonyx oryzivorus_Bobolink,0.9891939,108.0,111.0
+Dolichonyx oryzivorus_Bobolink,0.99263954,109.0,112.0
+Dolichonyx oryzivorus_Bobolink,0.99017173,110.0,113.0
+Spizella pallida_Clay-colored Sparrow,0.97729194,111.0,114.0
+Dolichonyx oryzivorus_Bobolink,0.5303576,111.0,114.0
+Spizella pallida_Clay-colored Sparrow,0.9941467,112.0,115.0
+Spizella pallida_Clay-colored Sparrow,0.9990459,113.0,116.0
+Spizella pallida_Clay-colored Sparrow,0.9973258,114.0,117.0
+Spizella pallida_Clay-colored Sparrow,0.92465687,115.0,118.0
+Dolichonyx oryzivorus_Bobolink,0.1385824,115.0,118.0
+Dolichonyx oryzivorus_Bobolink,0.8445601,116.0,119.0
+Sternula albifrons_Little Tern,0.12105618,116.0,119.0
+Dolichonyx oryzivorus_Bobolink,0.96840805,117.0,120.0
+Dolichonyx oryzivorus_Bobolink,0.9571203,118.0,121.0
+Dolichonyx oryzivorus_Bobolink,0.9125445,119.0,122.0
+Dolichonyx oryzivorus_Bobolink,0.94946074,120.0,123.0
+Dolichonyx oryzivorus_Bobolink,0.8964136,121.0,124.0
+Dolichonyx oryzivorus_Bobolink,0.9380891,122.0,125.0
+Loxia leucoptera_White-winged Crossbill,0.1427549,122.0,125.0
+Dolichonyx oryzivorus_Bobolink,0.9856022,123.0,126.0
+Dolichonyx oryzivorus_Bobolink,0.9678164,124.0,127.0
+Dolichonyx oryzivorus_Bobolink,0.9927799,125.0,128.0
+Dolichonyx oryzivorus_Bobolink,0.9493893,126.0,129.0
+Icterus cucullatus_Hooded Oriole,0.19861677,126.0,129.0
+Dolichonyx oryzivorus_Bobolink,0.99584705,127.0,130.0
+Dolichonyx oryzivorus_Bobolink,0.990377,128.0,131.0
+Dolichonyx oryzivorus_Bobolink,0.9941292,129.0,132.0
+Sternula albifrons_Little Tern,0.1294787,129.0,132.0
+Spizella pallida_Clay-colored Sparrow,0.99743503,130.0,133.0
+Spizella pallida_Clay-colored Sparrow,0.99855727,131.0,134.0
+Spizella pallida_Clay-colored Sparrow,0.9971505,132.0,135.0
+Spizella pallida_Clay-colored Sparrow,0.9499603,133.0,136.0
+Dolichonyx oryzivorus_Bobolink,0.94498986,134.0,137.0
+Dolichonyx oryzivorus_Bobolink,0.8987841,135.0,138.0
+Dolichonyx oryzivorus_Bobolink,0.88967514,136.0,139.0
+Dolichonyx oryzivorus_Bobolink,0.83346486,137.0,140.0
+Dolichonyx oryzivorus_Bobolink,0.95444983,138.0,141.0
+Passerculus sandwichensis_Savannah Sparrow,0.17179959,138.0,141.0
+Dolichonyx oryzivorus_Bobolink,0.9039348,139.0,142.0
+Passerculus sandwichensis_Savannah Sparrow,0.106766194,139.0,142.0
+Spizella pallida_Clay-colored Sparrow,0.79597306,140.0,143.0
+Dolichonyx oryzivorus_Bobolink,0.10322139,140.0,143.0
+Spizella pallida_Clay-colored Sparrow,0.99345785,141.0,144.0
+Spizella pallida_Clay-colored Sparrow,0.9915542,142.0,145.0
+Spizella pallida_Clay-colored Sparrow,0.99376005,143.0,146.0
+Spizella pallida_Clay-colored Sparrow,0.667225,144.0,147.0
+Spizella pallida_Clay-colored Sparrow,0.6434485,145.0,148.0
+Dolichonyx oryzivorus_Bobolink,0.17395015,145.0,148.0
+Spizella breweri_Brewer's Sparrow,0.11403641,145.0,148.0
+Carpospiza brachydactyla_Pale Rockfinch,0.10394313,145.0,148.0
+Spizella pallida_Clay-colored Sparrow,0.99553066,146.0,149.0
+Spizella pallida_Clay-colored Sparrow,0.9974552,147.0,150.0
+Dolichonyx oryzivorus_Bobolink,0.11699248,147.0,150.0
+Spizella pallida_Clay-colored Sparrow,0.99655354,148.0,151.0
+Spizella pallida_Clay-colored Sparrow,0.33562034,149.0,152.0
+Dolichonyx oryzivorus_Bobolink,0.1690935,149.0,152.0
+Dolichonyx oryzivorus_Bobolink,0.93521124,150.0,153.0
+Dolichonyx oryzivorus_Bobolink,0.88589996,151.0,154.0
+Dolichonyx oryzivorus_Bobolink,0.9706791,152.0,155.0
+Dolichonyx oryzivorus_Bobolink,0.94253504,153.0,156.0
+Dolichonyx oryzivorus_Bobolink,0.9267125,154.0,157.0
+Dolichonyx oryzivorus_Bobolink,0.783467,155.0,158.0
+Dolichonyx oryzivorus_Bobolink,0.67248243,156.0,159.0
+Dolichonyx oryzivorus_Bobolink,0.74902695,157.0,160.0
+Dolichonyx oryzivorus_Bobolink,0.8560963,158.0,161.0
+Spizella pallida_Clay-colored Sparrow,0.3888212,159.0,162.0
+Passerculus sandwichensis_Savannah Sparrow,0.30592927,159.0,162.0
+Dolichonyx oryzivorus_Bobolink,0.22242138,159.0,162.0
+Ammospiza caudacuta_Saltmarsh Sparrow,0.13168176,159.0,162.0
+Spizella pallida_Clay-colored Sparrow,0.99583,160.0,163.0
+Spizella pallida_Clay-colored Sparrow,0.99741554,161.0,164.0
+Spizella pallida_Clay-colored Sparrow,0.998273,162.0,165.0
+Spizella pallida_Clay-colored Sparrow,0.96258014,163.0,166.0
+Dolichonyx oryzivorus_Bobolink,0.10088148,163.0,166.0
+Dolichonyx oryzivorus_Bobolink,0.90406185,164.0,167.0
+Icterus cucullatus_Hooded Oriole,0.12780936,164.0,167.0
+Dolichonyx oryzivorus_Bobolink,0.9305354,165.0,168.0
+Icterus cucullatus_Hooded Oriole,0.10651532,165.0,168.0
+Dolichonyx oryzivorus_Bobolink,0.95289737,166.0,169.0
+Dolichonyx oryzivorus_Bobolink,0.9828851,167.0,170.0
+Icterus cucullatus_Hooded Oriole,0.10563593,167.0,170.0
+Dolichonyx oryzivorus_Bobolink,0.9743447,168.0,171.0
+Dolichonyx oryzivorus_Bobolink,0.9302248,169.0,172.0
+Spizella pallida_Clay-colored Sparrow,0.96050394,170.0,173.0
+Carpospiza brachydactyla_Pale Rockfinch,0.82474554,170.0,173.0
+Spizella pallida_Clay-colored Sparrow,0.99646145,171.0,174.0
+Spizella pallida_Clay-colored Sparrow,0.99748176,172.0,175.0
+Spizella pallida_Clay-colored Sparrow,0.99392116,173.0,176.0
+Dolichonyx oryzivorus_Bobolink,0.97706544,174.0,177.0
+Dolichonyx oryzivorus_Bobolink,0.90727645,175.0,178.0
+Dolichonyx oryzivorus_Bobolink,0.97993475,176.0,179.0
+Dolichonyx oryzivorus_Bobolink,0.9746089,177.0,180.0
+Dolichonyx oryzivorus_Bobolink,0.9962451,178.0,181.0
+Spizella pallida_Clay-colored Sparrow,0.97368556,179.0,182.0
+Dolichonyx oryzivorus_Bobolink,0.42422837,179.0,182.0
+Spizella pallida_Clay-colored Sparrow,0.98724735,180.0,183.0
+Dolichonyx oryzivorus_Bobolink,0.31371233,180.0,183.0
+Spizella pallida_Clay-colored Sparrow,0.9923701,181.0,184.0
+Dolichonyx oryzivorus_Bobolink,0.38815662,181.0,184.0
+Spizella pallida_Clay-colored Sparrow,0.9677126,182.0,185.0
+Dolichonyx oryzivorus_Bobolink,0.34036508,182.0,185.0
+Passerculus sandwichensis_Savannah Sparrow,0.10276091,182.0,185.0
+Dolichonyx oryzivorus_Bobolink,0.99348724,183.0,186.0
+Passerculus sandwichensis_Savannah Sparrow,0.16937722,183.0,186.0
+Dolichonyx oryzivorus_Bobolink,0.9967309,184.0,187.0
+Dolichonyx oryzivorus_Bobolink,0.974162,185.0,188.0
+Dolichonyx oryzivorus_Bobolink,0.83867145,186.0,189.0
+Icterus cucullatus_Hooded Oriole,0.11753565,186.0,189.0
+Dolichonyx oryzivorus_Bobolink,0.9605723,187.0,190.0
+Icterus cucullatus_Hooded Oriole,0.6890858,187.0,190.0
+Dolichonyx oryzivorus_Bobolink,0.9831981,188.0,191.0
+Spizella pallida_Clay-colored Sparrow,0.98561686,189.0,192.0
+Dolichonyx oryzivorus_Bobolink,0.23069659,189.0,192.0
+Spizella pallida_Clay-colored Sparrow,0.9926046,190.0,193.0
+Dolichonyx oryzivorus_Bobolink,0.17624661,190.0,193.0
+Spizella pallida_Clay-colored Sparrow,0.99387413,191.0,194.0
+Spizella pallida_Clay-colored Sparrow,0.9335893,192.0,195.0
+Passerculus sandwichensis_Savannah Sparrow,0.20319425,192.0,195.0
+Dolichonyx oryzivorus_Bobolink,0.8646203,193.0,196.0
+Dolichonyx oryzivorus_Bobolink,0.5303775,194.0,197.0
+Dolichonyx oryzivorus_Bobolink,0.9155574,195.0,198.0
+Dolichonyx oryzivorus_Bobolink,0.9016304,196.0,199.0
+Dolichonyx oryzivorus_Bobolink,0.9594369,197.0,200.0
+Spizella pallida_Clay-colored Sparrow,0.68898755,198.0,201.0
+Spizella pallida_Clay-colored Sparrow,0.99460196,199.0,202.0
+Spizella pallida_Clay-colored Sparrow,0.9969837,200.0,203.0
+Spizella pallida_Clay-colored Sparrow,0.99728525,201.0,204.0
+Dolichonyx oryzivorus_Bobolink,0.9144451,202.0,205.0
+Centronyx henslowii_Henslow's Sparrow,0.102231316,202.0,205.0
+Dolichonyx oryzivorus_Bobolink,0.97873724,203.0,206.0
+Dolichonyx oryzivorus_Bobolink,0.9776964,204.0,207.0
+Spizella pallida_Clay-colored Sparrow,0.7543244,205.0,208.0
+Dolichonyx oryzivorus_Bobolink,0.6234218,205.0,208.0
+Spizella pallida_Clay-colored Sparrow,0.9360731,206.0,209.0
+Dolichonyx oryzivorus_Bobolink,0.67470795,206.0,209.0
+Spizella pallida_Clay-colored Sparrow,0.97144574,207.0,210.0
+Dolichonyx oryzivorus_Bobolink,0.6726136,207.0,210.0
+Spizella pallida_Clay-colored Sparrow,0.9835564,208.0,211.0
+Dolichonyx oryzivorus_Bobolink,0.32232952,208.0,211.0
+Dolichonyx oryzivorus_Bobolink,0.7527595,209.0,212.0
+Spizella pallida_Clay-colored Sparrow,0.59499085,209.0,212.0
+Passerculus sandwichensis_Savannah Sparrow,0.23845775,209.0,212.0
+Dolichonyx oryzivorus_Bobolink,0.98394334,210.0,213.0
+Dolichonyx oryzivorus_Bobolink,0.9590046,211.0,214.0
+Icterus cucullatus_Hooded Oriole,0.120438404,211.0,214.0
+Dolichonyx oryzivorus_Bobolink,0.9552129,212.0,215.0
+Dolichonyx oryzivorus_Bobolink,0.9162129,213.0,216.0
+Dolichonyx oryzivorus_Bobolink,0.9720063,214.0,217.0
+Icterus cucullatus_Hooded Oriole,0.14785072,214.0,217.0
+Dolichonyx oryzivorus_Bobolink,0.9894655,215.0,218.0
+Dolichonyx oryzivorus_Bobolink,0.9965251,216.0,219.0
+Dolichonyx oryzivorus_Bobolink,0.9937425,217.0,220.0
+Dolichonyx oryzivorus_Bobolink,0.9797109,218.0,221.0
+Dolichonyx oryzivorus_Bobolink,0.9624122,219.0,222.0
+Spizella pallida_Clay-colored Sparrow,0.97800124,220.0,223.0
+Dolichonyx oryzivorus_Bobolink,0.11950691,220.0,223.0
+Spizella pallida_Clay-colored Sparrow,0.99670714,221.0,224.0
+Dolichonyx oryzivorus_Bobolink,0.14853291,221.0,224.0
+Spizella pallida_Clay-colored Sparrow,0.9987771,222.0,225.0
+Spizella pallida_Clay-colored Sparrow,0.8973568,223.0,226.0
+Dolichonyx oryzivorus_Bobolink,0.12472069,223.0,226.0
+Dolichonyx oryzivorus_Bobolink,0.96242034,224.0,227.0
+Dolichonyx oryzivorus_Bobolink,0.93365985,225.0,228.0
+Spinus tristis_American Goldfinch,0.19722413,225.0,228.0
+Dolichonyx oryzivorus_Bobolink,0.87928504,226.0,229.0
+Spizella pallida_Clay-colored Sparrow,0.99826247,227.0,230.0
+Spizella pallida_Clay-colored Sparrow,0.9987055,228.0,231.0
+Spizella pallida_Clay-colored Sparrow,0.9975285,229.0,232.0
+Spizella pallida_Clay-colored Sparrow,0.8555751,230.0,233.0
+Dolichonyx oryzivorus_Bobolink,0.9822649,231.0,234.0
+Dolichonyx oryzivorus_Bobolink,0.88769656,232.0,235.0
+Dolichonyx oryzivorus_Bobolink,0.95198727,233.0,236.0
+Dolichonyx oryzivorus_Bobolink,0.93021685,234.0,237.0
+Dolichonyx oryzivorus_Bobolink,0.88319683,235.0,238.0
+Passerculus sandwichensis_Savannah Sparrow,0.1699904,235.0,238.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11900333,235.0,238.0
+Spizella pallida_Clay-colored Sparrow,0.90632415,236.0,239.0
+Dolichonyx oryzivorus_Bobolink,0.38051757,236.0,239.0
+Spizella breweri_Brewer's Sparrow,0.18171307,236.0,239.0
+Spizella pallida_Clay-colored Sparrow,0.9946767,237.0,240.0
+Spizella pallida_Clay-colored Sparrow,0.99811757,238.0,241.0
+Spizella pallida_Clay-colored Sparrow,0.9983084,239.0,242.0
+Spizella pallida_Clay-colored Sparrow,0.9284715,240.0,243.0
+Dolichonyx oryzivorus_Bobolink,0.5662255,241.0,244.0
+Icterus cucullatus_Hooded Oriole,0.253785,241.0,244.0
+Spizella pallida_Clay-colored Sparrow,0.9831596,242.0,245.0
+Spizella pallida_Clay-colored Sparrow,0.9977908,243.0,246.0
+Spizella pallida_Clay-colored Sparrow,0.99953735,244.0,247.0
+Spizella pallida_Clay-colored Sparrow,0.9974183,245.0,248.0
+Spizella pallida_Clay-colored Sparrow,0.543681,246.0,249.0
+Dolichonyx oryzivorus_Bobolink,0.15115815,247.0,250.0
+Ammospiza nelsoni_Nelson's Sparrow,0.12951668,248.0,251.0
+Spizella pallida_Clay-colored Sparrow,0.124645524,248.0,251.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10149641,248.0,251.0
+Dolichonyx oryzivorus_Bobolink,0.2317919,249.0,252.0
+Spizella pallida_Clay-colored Sparrow,0.1645471,249.0,252.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14056635,249.0,252.0
+Spizella pallida_Clay-colored Sparrow,0.99889106,250.0,253.0
+Spizella pallida_Clay-colored Sparrow,0.9996586,251.0,254.0
+Spizella pallida_Clay-colored Sparrow,0.99878436,252.0,255.0
+Spizella pallida_Clay-colored Sparrow,0.9888171,253.0,256.0
+Dolichonyx oryzivorus_Bobolink,0.9093607,254.0,257.0
+Spizella pallida_Clay-colored Sparrow,0.7407479,255.0,258.0
+Spizella pallida_Clay-colored Sparrow,0.9962877,256.0,259.0
+Spizella pallida_Clay-colored Sparrow,0.9989453,257.0,260.0
+Spizella pallida_Clay-colored Sparrow,0.99230826,258.0,261.0
+Spizella pallida_Clay-colored Sparrow,0.9409759,259.0,262.0
+Dolichonyx oryzivorus_Bobolink,0.33390242,260.0,263.0
+Spizella pallida_Clay-colored Sparrow,0.99817455,261.0,264.0
+Spizella pallida_Clay-colored Sparrow,0.9988636,262.0,265.0
+Spizella pallida_Clay-colored Sparrow,0.99866986,263.0,266.0
+Spizella pallida_Clay-colored Sparrow,0.9690787,264.0,267.0
+Melospiza melodia_Song Sparrow,0.39917293,265.0,268.0
+Melospiza melodia_Song Sparrow,0.36506334,266.0,269.0
+Dolichonyx oryzivorus_Bobolink,0.12433966,267.0,270.0
+Melospiza melodia_Song Sparrow,0.10228732,267.0,270.0
+Spizella pallida_Clay-colored Sparrow,0.8558119,268.0,271.0
+Spizella pallida_Clay-colored Sparrow,0.99690336,269.0,272.0
+Spizella pallida_Clay-colored Sparrow,0.999757,270.0,273.0
+Spizella pallida_Clay-colored Sparrow,0.9975925,271.0,274.0
+Spizella pallida_Clay-colored Sparrow,0.9443181,272.0,275.0
+Dolichonyx oryzivorus_Bobolink,0.92995214,273.0,276.0
+Dolichonyx oryzivorus_Bobolink,0.8345023,274.0,277.0
+Dolichonyx oryzivorus_Bobolink,0.50393873,275.0,278.0
+Ammospiza nelsoni_Nelson's Sparrow,0.13481367,275.0,278.0
+Spizella pallida_Clay-colored Sparrow,0.9936451,276.0,279.0
+Spizella pallida_Clay-colored Sparrow,0.9982249,277.0,280.0
+Spizella pallida_Clay-colored Sparrow,0.9998447,278.0,281.0
+Spizella pallida_Clay-colored Sparrow,0.99615806,279.0,282.0
+Spizella pallida_Clay-colored Sparrow,0.90583926,280.0,283.0
+Dolichonyx oryzivorus_Bobolink,0.5296623,281.0,284.0
+Rallus limicola_Virginia Rail,0.24639502,281.0,284.0
+Spizella pallida_Clay-colored Sparrow,0.98168266,283.0,286.0
+Carpospiza brachydactyla_Pale Rockfinch,0.2887641,283.0,286.0
+Spizella pallida_Clay-colored Sparrow,0.99937445,284.0,287.0
+Spizella pallida_Clay-colored Sparrow,0.9990734,285.0,288.0
+Spizella pallida_Clay-colored Sparrow,0.9946964,286.0,289.0
+Dolichonyx oryzivorus_Bobolink,0.6494612,287.0,290.0
+Dolichonyx oryzivorus_Bobolink,0.78958607,288.0,291.0
+Dolichonyx oryzivorus_Bobolink,0.8439712,289.0,292.0
+Spizella pallida_Clay-colored Sparrow,0.9731654,293.0,296.0
+Spizella pallida_Clay-colored Sparrow,0.99905103,294.0,297.0
+Spizella pallida_Clay-colored Sparrow,0.9970023,295.0,298.0
+Spizella pallida_Clay-colored Sparrow,0.9889675,296.0,299.0
+Emberiza cia_Rock Bunting,0.12559783,297.0,300.0
+Spizella pallida_Clay-colored Sparrow,0.96514213,298.0,301.0
+Spizella breweri_Brewer's Sparrow,0.16098243,298.0,301.0
+Spizella pallida_Clay-colored Sparrow,0.9981324,299.0,302.0
+Spizella pallida_Clay-colored Sparrow,0.99924636,300.0,303.0
+Spizella pallida_Clay-colored Sparrow,0.9975272,301.0,304.0
+Spizella pallida_Clay-colored Sparrow,0.9140515,302.0,305.0
+Dolichonyx oryzivorus_Bobolink,0.53842276,303.0,306.0
+Melospiza melodia_Song Sparrow,0.38270777,303.0,306.0
+Melospiza melodia_Song Sparrow,0.8800087,304.0,307.0
+Pooecetes gramineus_Vesper Sparrow,0.24313647,305.0,308.0
+Melospiza melodia_Song Sparrow,0.1260666,305.0,308.0
+Spizella pallida_Clay-colored Sparrow,0.99715984,306.0,309.0
+Spizella pallida_Clay-colored Sparrow,0.99853694,307.0,310.0
+Spizella pallida_Clay-colored Sparrow,0.9978879,308.0,311.0
+Spizella pallida_Clay-colored Sparrow,0.91969705,309.0,312.0
+Dolichonyx oryzivorus_Bobolink,0.5519853,310.0,313.0
+Dolichonyx oryzivorus_Bobolink,0.8318703,311.0,314.0
+Emberiza melanocephala_Black-headed Bunting,0.46486533,312.0,315.0
+Saxicola rubetra_Whinchat,0.4249418,312.0,315.0
+Emberiza calandra_Corn Bunting,0.16875163,312.0,315.0
+Spizella pallida_Clay-colored Sparrow,0.99687624,313.0,316.0
+Spizella pallida_Clay-colored Sparrow,0.99951315,314.0,317.0
+Spizella pallida_Clay-colored Sparrow,0.998481,315.0,318.0
+Spizella pallida_Clay-colored Sparrow,0.9386316,316.0,319.0
+Dolichonyx oryzivorus_Bobolink,0.7383381,317.0,320.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13717768,317.0,320.0
+Centronyx henslowii_Henslow's Sparrow,0.120170385,317.0,320.0
+Dolichonyx oryzivorus_Bobolink,0.6301039,318.0,321.0
+Ammodramus savannarum_Grasshopper Sparrow,0.2113804,318.0,321.0
+Dolichonyx oryzivorus_Bobolink,0.49468967,319.0,322.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12574863,319.0,322.0
+Dolichonyx oryzivorus_Bobolink,0.5694708,320.0,323.0
+Dolichonyx oryzivorus_Bobolink,0.811835,321.0,324.0
+Dolichonyx oryzivorus_Bobolink,0.97688067,322.0,325.0
+Dolichonyx oryzivorus_Bobolink,0.9860119,323.0,326.0
+Dolichonyx oryzivorus_Bobolink,0.94201505,324.0,327.0
+Spizella pallida_Clay-colored Sparrow,0.53912425,325.0,328.0
+Dolichonyx oryzivorus_Bobolink,0.2297582,325.0,328.0
+Passerculus sandwichensis_Savannah Sparrow,0.15842254,325.0,328.0
+Ammospiza nelsoni_Nelson's Sparrow,0.12096132,325.0,328.0
+Spizella pallida_Clay-colored Sparrow,0.99506384,326.0,329.0
+Spizella pallida_Clay-colored Sparrow,0.9991352,327.0,330.0
+Spizella pallida_Clay-colored Sparrow,0.9970488,328.0,331.0
+Spizella pallida_Clay-colored Sparrow,0.9488764,329.0,332.0
+Dolichonyx oryzivorus_Bobolink,0.8101832,330.0,333.0
+Dolichonyx oryzivorus_Bobolink,0.7795368,331.0,334.0
+Dolichonyx oryzivorus_Bobolink,0.52301157,332.0,335.0
+Dolichonyx oryzivorus_Bobolink,0.85094905,333.0,336.0
+Dolichonyx oryzivorus_Bobolink,0.79290825,334.0,337.0
+Himantopus himantopus_Black-winged Stilt,0.113251925,334.0,337.0
+Dolichonyx oryzivorus_Bobolink,0.8941079,335.0,338.0
+Spizella pallida_Clay-colored Sparrow,0.9943573,336.0,339.0
+Spizella pallida_Clay-colored Sparrow,0.9997533,337.0,340.0
+Spizella pallida_Clay-colored Sparrow,0.9992914,338.0,341.0
+Spizella pallida_Clay-colored Sparrow,0.90583205,339.0,342.0
+Melospiza melodia_Song Sparrow,0.38799572,340.0,343.0
+Melospiza melodia_Song Sparrow,0.44149342,341.0,344.0
+Pooecetes gramineus_Vesper Sparrow,0.33930847,342.0,345.0
+Melospiza melodia_Song Sparrow,0.21553028,342.0,345.0
+Passerculus sandwichensis_Savannah Sparrow,0.29300004,343.0,346.0
+Dolichonyx oryzivorus_Bobolink,0.13004406,343.0,346.0
+Dolichonyx oryzivorus_Bobolink,0.2056713,344.0,347.0
+Spizella pallida_Clay-colored Sparrow,0.99489754,345.0,348.0
+Spizella pallida_Clay-colored Sparrow,0.9982992,346.0,349.0
+Spizella pallida_Clay-colored Sparrow,0.9987919,347.0,350.0
+Spizella pallida_Clay-colored Sparrow,0.975629,348.0,351.0
+Dolichonyx oryzivorus_Bobolink,0.9633456,349.0,352.0
+Lonchura punctulata_Scaly-breasted Munia,0.13480733,349.0,352.0
+Loxia leucoptera_White-winged Crossbill,0.10354799,349.0,352.0
+Dolichonyx oryzivorus_Bobolink,0.89255697,350.0,353.0
+Dolichonyx oryzivorus_Bobolink,0.49426806,351.0,354.0
+Melospiza melodia_Song Sparrow,0.45655072,354.0,357.0
+Melospiza melodia_Song Sparrow,0.5422698,355.0,358.0
+Pooecetes gramineus_Vesper Sparrow,0.1734849,355.0,358.0
+Pooecetes gramineus_Vesper Sparrow,0.379683,356.0,359.0
+Melospiza melodia_Song Sparrow,0.32911798,356.0,359.0
+Pooecetes gramineus_Vesper Sparrow,0.22210944,357.0,360.0
+Dolichonyx oryzivorus_Bobolink,0.14617448,357.0,360.0
+Dolichonyx oryzivorus_Bobolink,0.6238965,358.0,361.0
+Spizella pallida_Clay-colored Sparrow,0.97798073,359.0,362.0
+Spizella breweri_Brewer's Sparrow,0.23386697,359.0,362.0
+Passerculus sandwichensis_Savannah Sparrow,0.13283372,359.0,362.0
+Spizella pallida_Clay-colored Sparrow,0.998973,360.0,363.0
+Spizella pallida_Clay-colored Sparrow,0.9994286,361.0,364.0
+Spizella pallida_Clay-colored Sparrow,0.99231476,362.0,365.0
+Dolichonyx oryzivorus_Bobolink,0.10946764,365.0,368.0
+Spizella pallida_Clay-colored Sparrow,0.99625254,366.0,369.0
+Spizella pallida_Clay-colored Sparrow,0.9985096,367.0,370.0
+Spizella pallida_Clay-colored Sparrow,0.9968411,368.0,371.0
+Spizella pallida_Clay-colored Sparrow,0.6662552,369.0,372.0
+Dolichonyx oryzivorus_Bobolink,0.9041721,370.0,373.0
+Icterus cucullatus_Hooded Oriole,0.12233372,370.0,373.0
+Dolichonyx oryzivorus_Bobolink,0.90094674,371.0,374.0
+Dolichonyx oryzivorus_Bobolink,0.9540101,372.0,375.0
+Dolichonyx oryzivorus_Bobolink,0.6888936,373.0,376.0
+Dolichonyx oryzivorus_Bobolink,0.47089905,374.0,377.0
+Melospiza melodia_Song Sparrow,0.4478978,375.0,378.0
+Pooecetes gramineus_Vesper Sparrow,0.3267116,376.0,379.0
+Melospiza melodia_Song Sparrow,0.15745397,376.0,379.0
+Dolichonyx oryzivorus_Bobolink,0.37773374,377.0,380.0
+Passerculus sandwichensis_Savannah Sparrow,0.11125443,377.0,380.0
+Spizella pallida_Clay-colored Sparrow,0.9902222,378.0,381.0
+Spizella breweri_Brewer's Sparrow,0.1561384,378.0,381.0
+Spizella pallida_Clay-colored Sparrow,0.9982393,379.0,382.0
+Spizella pallida_Clay-colored Sparrow,0.99898475,380.0,383.0
+Spizella pallida_Clay-colored Sparrow,0.99673635,381.0,384.0
+Dolichonyx oryzivorus_Bobolink,0.5558549,382.0,385.0
+Spinus lawrencei_Lawrence's Goldfinch,0.27836213,383.0,386.0
+Dolichonyx oryzivorus_Bobolink,0.26878145,383.0,386.0
+Loxia leucoptera_White-winged Crossbill,0.1527283,383.0,386.0
+Loxia sinesciuris_Cassia Crossbill,0.20743288,385.0,388.0
+Haemorhous mexicanus_House Finch,0.1354983,385.0,388.0
+Haemorhous mexicanus_House Finch,0.11529556,386.0,389.0
+Spizella pallida_Clay-colored Sparrow,0.8557182,387.0,390.0
+Spizella pallida_Clay-colored Sparrow,0.9926312,388.0,391.0
+Spizella pallida_Clay-colored Sparrow,0.99892706,389.0,392.0
+Spizella pallida_Clay-colored Sparrow,0.99599886,390.0,393.0
+Spizella pallida_Clay-colored Sparrow,0.94163805,391.0,394.0
+Spizella pallida_Clay-colored Sparrow,0.94714665,393.0,396.0
+Carpospiza brachydactyla_Pale Rockfinch,0.4564995,393.0,396.0
+Spizella breweri_Brewer's Sparrow,0.18829264,393.0,396.0
+Spizella pallida_Clay-colored Sparrow,0.9968137,394.0,397.0
+Spizella pallida_Clay-colored Sparrow,0.9990125,395.0,398.0
+Spizella pallida_Clay-colored Sparrow,0.9956109,396.0,399.0
+Pooecetes gramineus_Vesper Sparrow,0.20077309,397.0,400.0
+Melospiza melodia_Song Sparrow,0.19392537,398.0,401.0
+Pooecetes gramineus_Vesper Sparrow,0.11008447,398.0,401.0
+Pooecetes gramineus_Vesper Sparrow,0.18460475,399.0,402.0
+Melospiza melodia_Song Sparrow,0.10321568,399.0,402.0
+Spizella pallida_Clay-colored Sparrow,0.9863181,400.0,403.0
+Spizella pallida_Clay-colored Sparrow,0.9975574,401.0,404.0
+Spizella pallida_Clay-colored Sparrow,0.9987484,402.0,405.0
+Spizella pallida_Clay-colored Sparrow,0.990265,403.0,406.0
+Spartonoica maluroides_Bay-capped Wren-Spinetail,0.1957761,404.0,407.0
+Dolichonyx oryzivorus_Bobolink,0.38193735,405.0,408.0
+Emberiza melanocephala_Black-headed Bunting,0.34216574,406.0,409.0
+Spiza americana_Dickcissel,0.3194947,406.0,409.0
+Dolichonyx oryzivorus_Bobolink,0.14729086,406.0,409.0
+Pooecetes gramineus_Vesper Sparrow,0.122871354,406.0,409.0
+Melospiza melodia_Song Sparrow,0.5708265,407.0,410.0
+Pooecetes gramineus_Vesper Sparrow,0.27276468,407.0,410.0
+Spiza americana_Dickcissel,0.18359716,407.0,410.0
+Melospiza melodia_Song Sparrow,0.59158444,408.0,411.0
+Pooecetes gramineus_Vesper Sparrow,0.11201964,408.0,411.0
+Spizella pallida_Clay-colored Sparrow,0.9203005,409.0,412.0
+Spizella pallida_Clay-colored Sparrow,0.9965675,410.0,413.0
+Spizella pallida_Clay-colored Sparrow,0.99938214,411.0,414.0
+Spizella pallida_Clay-colored Sparrow,0.99594384,412.0,415.0
+Spizella pallida_Clay-colored Sparrow,0.7284963,413.0,416.0
+Centronyx henslowii_Henslow's Sparrow,0.11776431,415.0,418.0
+Dolichonyx oryzivorus_Bobolink,0.46078828,416.0,419.0
+Spizella pallida_Clay-colored Sparrow,0.93372244,417.0,420.0
+Spizella breweri_Brewer's Sparrow,0.121291496,417.0,420.0
+Spizella pallida_Clay-colored Sparrow,0.9941267,418.0,421.0
+Spizella pallida_Clay-colored Sparrow,0.9996124,419.0,422.0
+Spizella pallida_Clay-colored Sparrow,0.9964767,420.0,423.0
+Spizella pallida_Clay-colored Sparrow,0.9428372,421.0,424.0
+Dolichonyx oryzivorus_Bobolink,0.35415196,422.0,425.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11103455,422.0,425.0
+Dolichonyx oryzivorus_Bobolink,0.40373138,423.0,426.0
+Dolichonyx oryzivorus_Bobolink,0.17965251,424.0,427.0
+Passerculus sandwichensis_Savannah Sparrow,0.1643367,424.0,427.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16114447,424.0,427.0
+Spiza americana_Dickcissel,0.278678,426.0,429.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12221667,426.0,429.0
+Melospiza melodia_Song Sparrow,0.6454088,427.0,430.0
+Pooecetes gramineus_Vesper Sparrow,0.3245413,427.0,430.0
+Spiza americana_Dickcissel,0.16124313,427.0,430.0
+Melospiza melodia_Song Sparrow,0.61063045,428.0,431.0
+Pooecetes gramineus_Vesper Sparrow,0.1693186,428.0,431.0
+Melospiza melodia_Song Sparrow,0.49917167,429.0,432.0
+Pooecetes gramineus_Vesper Sparrow,0.22279932,429.0,432.0
+Spizella pallida_Clay-colored Sparrow,0.97015655,430.0,433.0
+Spizella pallida_Clay-colored Sparrow,0.9924455,431.0,434.0
+Spizella pallida_Clay-colored Sparrow,0.99790573,432.0,435.0
+Spizella pallida_Clay-colored Sparrow,0.9924735,433.0,436.0
+Spizella pallida_Clay-colored Sparrow,0.42303285,434.0,437.0
+Passerculus sandwichensis_Savannah Sparrow,0.113738015,434.0,437.0
+Dolichonyx oryzivorus_Bobolink,0.12733687,435.0,438.0
+Spizella pallida_Clay-colored Sparrow,0.9767605,436.0,439.0
+Spizella pallida_Clay-colored Sparrow,0.9936609,437.0,440.0
+Spizella pallida_Clay-colored Sparrow,0.9986602,438.0,441.0
+Spizella pallida_Clay-colored Sparrow,0.9949786,439.0,442.0
+Spizella pallida_Clay-colored Sparrow,0.15920356,440.0,443.0
+Dolichonyx oryzivorus_Bobolink,0.10507251,440.0,443.0
+Dolichonyx oryzivorus_Bobolink,0.45171565,444.0,447.0
+Ammospiza nelsoni_Nelson's Sparrow,0.30862448,444.0,447.0
+Ammospiza nelsoni_Nelson's Sparrow,0.3418547,445.0,448.0
+Dolichonyx oryzivorus_Bobolink,0.119619645,445.0,448.0
+Dolichonyx oryzivorus_Bobolink,0.68104947,446.0,449.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12563403,446.0,449.0
+Ammospiza nelsoni_Nelson's Sparrow,0.103255935,446.0,449.0
+Dolichonyx oryzivorus_Bobolink,0.375766,447.0,450.0
+Dolichonyx oryzivorus_Bobolink,0.40725455,448.0,451.0
+Melospiza melodia_Song Sparrow,0.16769674,449.0,452.0
+Dolichonyx oryzivorus_Bobolink,0.15028158,449.0,452.0
+Melospiza melodia_Song Sparrow,0.32283416,450.0,453.0
+Dolichonyx oryzivorus_Bobolink,0.21979886,450.0,453.0
+Spizella pallida_Clay-colored Sparrow,0.98627067,451.0,454.0
+Spizella pallida_Clay-colored Sparrow,0.9986307,452.0,455.0
+Spizella pallida_Clay-colored Sparrow,0.99883133,453.0,456.0
+Spizella pallida_Clay-colored Sparrow,0.9694262,454.0,457.0
+Dolichonyx oryzivorus_Bobolink,0.11230736,455.0,458.0
+Dolichonyx oryzivorus_Bobolink,0.84061384,457.0,460.0
+Dolichonyx oryzivorus_Bobolink,0.45890182,458.0,461.0
+Melospiza melodia_Song Sparrow,0.11918395,458.0,461.0
+Dolichonyx oryzivorus_Bobolink,0.35663843,459.0,462.0
+Dolichonyx oryzivorus_Bobolink,0.4428417,460.0,463.0
+Dolichonyx oryzivorus_Bobolink,0.41117966,461.0,464.0
+Passerculus sandwichensis_Savannah Sparrow,0.10653441,461.0,464.0
+Spizella pallida_Clay-colored Sparrow,0.994866,462.0,465.0
+Spizella pallida_Clay-colored Sparrow,0.99743634,463.0,466.0
+Spizella pallida_Clay-colored Sparrow,0.997027,464.0,467.0
+Spizella pallida_Clay-colored Sparrow,0.9194451,465.0,468.0
+Melospiza melodia_Song Sparrow,0.44993222,466.0,469.0
+Melospiza melodia_Song Sparrow,0.62584,467.0,470.0
+Dolichonyx oryzivorus_Bobolink,0.10923727,467.0,470.0
+Dolichonyx oryzivorus_Bobolink,0.50260967,468.0,471.0
+Melospiza melodia_Song Sparrow,0.2556717,468.0,471.0
+Spizella pallida_Clay-colored Sparrow,0.97929764,469.0,472.0
+Spizella pallida_Clay-colored Sparrow,0.9987087,470.0,473.0
+Spizella pallida_Clay-colored Sparrow,0.9989697,471.0,474.0
+Spizella pallida_Clay-colored Sparrow,0.9928059,472.0,475.0
+Spizella pallida_Clay-colored Sparrow,0.97289056,473.0,476.0
+Melospiza melodia_Song Sparrow,0.12469815,474.0,477.0
+Ammospiza nelsoni_Nelson's Sparrow,0.23725441,475.0,478.0
+Spizella pallida_Clay-colored Sparrow,0.9925605,476.0,479.0
+Spizella pallida_Clay-colored Sparrow,0.9995658,477.0,480.0
+Spizella pallida_Clay-colored Sparrow,0.9957795,478.0,481.0
+Spizella pallida_Clay-colored Sparrow,0.9480994,479.0,482.0
+Passerculus sandwichensis_Savannah Sparrow,0.1413761,479.0,482.0
+Dolichonyx oryzivorus_Bobolink,0.348151,483.0,486.0
+Melospiza melodia_Song Sparrow,0.62532216,484.0,487.0
+Dolichonyx oryzivorus_Bobolink,0.33177304,484.0,487.0
+Melospiza melodia_Song Sparrow,0.7244552,485.0,488.0
+Dolichonyx oryzivorus_Bobolink,0.47973543,485.0,488.0
+Spizella pallida_Clay-colored Sparrow,0.91562617,486.0,489.0
+Spizella pallida_Clay-colored Sparrow,0.98745525,487.0,490.0
+Spizella pallida_Clay-colored Sparrow,0.9992379,488.0,491.0
+Spizella pallida_Clay-colored Sparrow,0.99693215,489.0,492.0
+Spizella pallida_Clay-colored Sparrow,0.8409517,490.0,493.0
+Passerculus sandwichensis_Savannah Sparrow,0.16261816,490.0,493.0
+Spizella pallida_Clay-colored Sparrow,0.47097462,491.0,494.0
+Spizella pallida_Clay-colored Sparrow,0.99643767,492.0,495.0
+Spizella pallida_Clay-colored Sparrow,0.998379,493.0,496.0
+Spizella pallida_Clay-colored Sparrow,0.9774318,494.0,497.0
+Spizella pallida_Clay-colored Sparrow,0.6313789,495.0,498.0
+Passerculus sandwichensis_Savannah Sparrow,0.13058251,495.0,498.0
+Melospiza melodia_Song Sparrow,0.11673127,495.0,498.0
+Dolichonyx oryzivorus_Bobolink,0.57637984,496.0,499.0
+Melospiza melodia_Song Sparrow,0.10706346,496.0,499.0
+Dolichonyx oryzivorus_Bobolink,0.7536457,497.0,500.0
+Dolichonyx oryzivorus_Bobolink,0.47111312,498.0,501.0
+Spizella pallida_Clay-colored Sparrow,0.9667099,500.0,503.0
+Spizella pallida_Clay-colored Sparrow,0.99785787,501.0,504.0
+Spizella pallida_Clay-colored Sparrow,0.9967085,502.0,505.0
+Spizella pallida_Clay-colored Sparrow,0.81228817,503.0,506.0
+Carpospiza brachydactyla_Pale Rockfinch,0.17347033,503.0,506.0
+Dolichonyx oryzivorus_Bobolink,0.48052755,504.0,507.0
+Melospiza melodia_Song Sparrow,0.19764438,504.0,507.0
+Melospiza melodia_Song Sparrow,0.6372513,505.0,508.0
+Dolichonyx oryzivorus_Bobolink,0.33682904,505.0,508.0
+Dolichonyx oryzivorus_Bobolink,0.5420941,506.0,509.0
+Melospiza melodia_Song Sparrow,0.23475322,506.0,509.0
+Dolichonyx oryzivorus_Bobolink,0.8418332,507.0,510.0
+Dolichonyx oryzivorus_Bobolink,0.627539,508.0,511.0
+Dolichonyx oryzivorus_Bobolink,0.4093022,511.0,514.0
+Spizella pallida_Clay-colored Sparrow,0.9817848,512.0,515.0
+Carpospiza brachydactyla_Pale Rockfinch,0.23021083,512.0,515.0
+Spizella pallida_Clay-colored Sparrow,0.99883586,513.0,516.0
+Spizella pallida_Clay-colored Sparrow,0.9910159,514.0,517.0
+Spizella pallida_Clay-colored Sparrow,0.69681144,515.0,518.0
+Melospiza melodia_Song Sparrow,0.21173312,515.0,518.0
+Melospiza melodia_Song Sparrow,0.4032492,516.0,519.0
+Melospiza melodia_Song Sparrow,0.30427927,517.0,520.0
+Dolichonyx oryzivorus_Bobolink,0.13692784,517.0,520.0
+Spizella pallida_Clay-colored Sparrow,0.9947949,519.0,522.0
+Spizella breweri_Brewer's Sparrow,0.20481208,519.0,522.0
+Spizella pallida_Clay-colored Sparrow,0.9983876,520.0,523.0
+Spizella pallida_Clay-colored Sparrow,0.99496907,521.0,524.0
+Spizella pallida_Clay-colored Sparrow,0.64214295,522.0,525.0
+Dolichonyx oryzivorus_Bobolink,0.99419564,523.0,526.0
+Dolichonyx oryzivorus_Bobolink,0.97667795,524.0,527.0
+Dolichonyx oryzivorus_Bobolink,0.9105325,525.0,528.0
+Dolichonyx oryzivorus_Bobolink,0.41713575,526.0,529.0
+Melospiza melodia_Song Sparrow,0.19433832,526.0,529.0
+Melospiza melodia_Song Sparrow,0.46972445,527.0,530.0
+Dolichonyx oryzivorus_Bobolink,0.10793775,527.0,530.0
+Melospiza melodia_Song Sparrow,0.57946223,528.0,531.0
+Dolichonyx oryzivorus_Bobolink,0.20401263,528.0,531.0
+Spizella pallida_Clay-colored Sparrow,0.7324059,529.0,532.0
+Spizella pallida_Clay-colored Sparrow,0.9916768,530.0,533.0
+Spizella pallida_Clay-colored Sparrow,0.9993562,531.0,534.0
+Spizella pallida_Clay-colored Sparrow,0.9945766,532.0,535.0
+Spizella pallida_Clay-colored Sparrow,0.8403965,533.0,536.0
+Passerculus sandwichensis_Savannah Sparrow,0.44054484,533.0,536.0
+Dolichonyx oryzivorus_Bobolink,0.7351279,534.0,537.0
+Dolichonyx oryzivorus_Bobolink,0.10926634,535.0,538.0
+Spizella pusilla_Field Sparrow,0.22590108,536.0,539.0
+Dolichonyx oryzivorus_Bobolink,0.15188478,536.0,539.0
+Melospiza melodia_Song Sparrow,0.23480262,538.0,541.0
+Melospiza melodia_Song Sparrow,0.6780128,539.0,542.0
+Dolichonyx oryzivorus_Bobolink,0.13693899,539.0,542.0
+Spizella pallida_Clay-colored Sparrow,0.5903091,540.0,543.0
+Melospiza melodia_Song Sparrow,0.27725926,540.0,543.0
+Spizella pallida_Clay-colored Sparrow,0.98017234,541.0,544.0
+Spizella pallida_Clay-colored Sparrow,0.99693704,542.0,545.0
+Spizella pallida_Clay-colored Sparrow,0.9942316,543.0,546.0
+Spizella pallida_Clay-colored Sparrow,0.9517317,544.0,547.0
+Passerculus sandwichensis_Savannah Sparrow,0.15069023,544.0,547.0
+Dolichonyx oryzivorus_Bobolink,0.89850605,545.0,548.0
+Dolichonyx oryzivorus_Bobolink,0.8772529,546.0,549.0
+Dolichonyx oryzivorus_Bobolink,0.83783907,547.0,550.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12946412,547.0,550.0
+Spizella pallida_Clay-colored Sparrow,0.88852876,548.0,551.0
+Spizella breweri_Brewer's Sparrow,0.17458422,548.0,551.0
+Spizella pallida_Clay-colored Sparrow,0.99561334,549.0,552.0
+Spizella pallida_Clay-colored Sparrow,0.9994886,550.0,553.0
+Spizella pallida_Clay-colored Sparrow,0.9984939,551.0,554.0
+Spizella pallida_Clay-colored Sparrow,0.95726883,552.0,555.0
+Passerculus sandwichensis_Savannah Sparrow,0.116407044,552.0,555.0
+Dolichonyx oryzivorus_Bobolink,0.5582082,553.0,556.0
+Dolichonyx oryzivorus_Bobolink,0.526199,554.0,557.0
+Dolichonyx oryzivorus_Bobolink,0.28599358,555.0,558.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16603898,555.0,558.0
+Spizella pallida_Clay-colored Sparrow,0.13303764,555.0,558.0
+Centronyx henslowii_Henslow's Sparrow,0.100117564,555.0,558.0
+Dolichonyx oryzivorus_Bobolink,0.431503,556.0,559.0
+Dolichonyx oryzivorus_Bobolink,0.23665923,557.0,560.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1275693,557.0,560.0
+Ammodramus savannarum_Grasshopper Sparrow,0.15578729,558.0,561.0
+Dolichonyx oryzivorus_Bobolink,0.10279611,558.0,561.0
+Pooecetes gramineus_Vesper Sparrow,0.10025647,558.0,561.0
+Spizella pallida_Clay-colored Sparrow,0.8792232,559.0,562.0
+Spizella pallida_Clay-colored Sparrow,0.997971,560.0,563.0
+Spizella pallida_Clay-colored Sparrow,0.9990734,561.0,564.0
+Spizella pallida_Clay-colored Sparrow,0.99373734,562.0,565.0
+Spizella pallida_Clay-colored Sparrow,0.8891182,563.0,566.0
+Spizella breweri_Brewer's Sparrow,0.11357076,563.0,566.0
+Dolichonyx oryzivorus_Bobolink,0.8578737,564.0,567.0
+Dolichonyx oryzivorus_Bobolink,0.9891823,565.0,568.0
+Himantopus himantopus_Black-winged Stilt,0.19309199,565.0,568.0
+Dolichonyx oryzivorus_Bobolink,0.9538796,566.0,569.0
+Dolichonyx oryzivorus_Bobolink,0.6748444,567.0,570.0
+Dolichonyx oryzivorus_Bobolink,0.16979182,568.0,571.0
+Dolichonyx oryzivorus_Bobolink,0.3553073,569.0,572.0
+Dolichonyx oryzivorus_Bobolink,0.7861396,570.0,573.0
+Dolichonyx oryzivorus_Bobolink,0.95642287,571.0,574.0
+Dolichonyx oryzivorus_Bobolink,0.9105611,572.0,575.0
+Dolichonyx oryzivorus_Bobolink,0.93032557,573.0,576.0
+Dolichonyx oryzivorus_Bobolink,0.9546083,574.0,577.0
+Icterus cucullatus_Hooded Oriole,0.38835248,574.0,577.0
+Spizella pallida_Clay-colored Sparrow,0.9742168,575.0,578.0
+Spizella pallida_Clay-colored Sparrow,0.9979638,576.0,579.0
+Spizella pallida_Clay-colored Sparrow,0.9978848,577.0,580.0
+Spizella pallida_Clay-colored Sparrow,0.9088483,578.0,581.0
+Dolichonyx oryzivorus_Bobolink,0.9590598,579.0,582.0
+Dolichonyx oryzivorus_Bobolink,0.9721485,580.0,583.0
+Dolichonyx oryzivorus_Bobolink,0.94951296,581.0,584.0
+Dolichonyx oryzivorus_Bobolink,0.97605973,582.0,585.0
+Dolichonyx oryzivorus_Bobolink,0.63159233,583.0,586.0
+Icterus cucullatus_Hooded Oriole,0.37630948,583.0,586.0
+Dolichonyx oryzivorus_Bobolink,0.62054515,584.0,587.0
+Recurvirostra americana_American Avocet,0.10098496,584.0,587.0
+Dolichonyx oryzivorus_Bobolink,0.5876655,585.0,588.0
+Dolichonyx oryzivorus_Bobolink,0.40484422,586.0,589.0
+Spizella pallida_Clay-colored Sparrow,0.948347,587.0,590.0
+Spizella pallida_Clay-colored Sparrow,0.99553406,588.0,591.0
+Spizella pallida_Clay-colored Sparrow,0.9994174,589.0,592.0
+Spizella pallida_Clay-colored Sparrow,0.99570763,590.0,593.0
+Spizella pallida_Clay-colored Sparrow,0.84249777,591.0,594.0
+Dolichonyx oryzivorus_Bobolink,0.608388,592.0,595.0
+Dolichonyx oryzivorus_Bobolink,0.23686318,593.0,596.0
+Spizella pallida_Clay-colored Sparrow,0.96425325,594.0,597.0
+Spizella breweri_Brewer's Sparrow,0.16898978,594.0,597.0
+Spizella pallida_Clay-colored Sparrow,0.9967302,595.0,598.0
+Spizella pallida_Clay-colored Sparrow,0.99846196,596.0,599.0
+Spizella pallida_Clay-colored Sparrow,0.9923343,597.0,600.0
+Spizella pallida_Clay-colored Sparrow,0.9306073,598.0,601.0
+Dolichonyx oryzivorus_Bobolink,0.333027,599.0,602.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1164447,600.0,603.0
+Ammospiza maritima_Seaside Sparrow,0.109283365,600.0,603.0
+Dolichonyx oryzivorus_Bobolink,0.13112229,602.0,605.0
+Spizella pallida_Clay-colored Sparrow,0.9892129,603.0,606.0
+Spizella breweri_Brewer's Sparrow,0.17192055,603.0,606.0
+Spizella pallida_Clay-colored Sparrow,0.9989654,604.0,607.0
+Spizella pallida_Clay-colored Sparrow,0.9993598,605.0,608.0
+Spizella pallida_Clay-colored Sparrow,0.96741563,606.0,609.0
+Dolichonyx oryzivorus_Bobolink,0.622972,607.0,610.0
+Dolichonyx oryzivorus_Bobolink,0.7150764,608.0,611.0
+Dolichonyx oryzivorus_Bobolink,0.80422807,609.0,612.0
+Dolichonyx oryzivorus_Bobolink,0.348873,610.0,613.0
+Spizella pallida_Clay-colored Sparrow,0.98994166,611.0,614.0
+Spizella breweri_Brewer's Sparrow,0.34186807,611.0,614.0
+Spizella pallida_Clay-colored Sparrow,0.9904846,612.0,615.0
+Spizella breweri_Brewer's Sparrow,0.13950214,612.0,615.0
+Spizella pallida_Clay-colored Sparrow,0.99728656,613.0,616.0
+Spizella pallida_Clay-colored Sparrow,0.8007019,614.0,617.0
+Passerculus sandwichensis_Savannah Sparrow,0.38328922,614.0,617.0
+Dolichonyx oryzivorus_Bobolink,0.6769452,615.0,618.0
+Dolichonyx oryzivorus_Bobolink,0.46602628,616.0,619.0
+Dolichonyx oryzivorus_Bobolink,0.7876254,617.0,620.0
+Spizella pallida_Clay-colored Sparrow,0.9838823,618.0,621.0
+Spizella pallida_Clay-colored Sparrow,0.99916494,619.0,622.0
+Spizella pallida_Clay-colored Sparrow,0.99931717,620.0,623.0
+Spizella pallida_Clay-colored Sparrow,0.9960736,621.0,624.0
+Dolichonyx oryzivorus_Bobolink,0.86179596,622.0,625.0
+Dolichonyx oryzivorus_Bobolink,0.7714075,623.0,626.0
+Loxia leucoptera_White-winged Crossbill,0.18325603,623.0,626.0
+Spizella pallida_Clay-colored Sparrow,0.9678375,624.0,627.0
+Spizella breweri_Brewer's Sparrow,0.2000517,624.0,627.0
+Carpospiza brachydactyla_Pale Rockfinch,0.10749149,624.0,627.0
+Spizella pallida_Clay-colored Sparrow,0.9968238,625.0,628.0
+Spizella pallida_Clay-colored Sparrow,0.99861383,626.0,629.0
+Spizella pallida_Clay-colored Sparrow,0.99608994,627.0,630.0
+Dolichonyx oryzivorus_Bobolink,0.10086801,628.0,631.0
+Dolichonyx oryzivorus_Bobolink,0.39785293,630.0,633.0
+Spizella pallida_Clay-colored Sparrow,0.9883802,631.0,634.0
+Spizella pallida_Clay-colored Sparrow,0.99782276,632.0,635.0
+Spizella pallida_Clay-colored Sparrow,0.9989009,633.0,636.0
+Spizella pallida_Clay-colored Sparrow,0.9971846,634.0,637.0
+Spizella pallida_Clay-colored Sparrow,0.76725405,635.0,638.0
+Passerculus sandwichensis_Savannah Sparrow,0.15292552,635.0,638.0
+Spinus lawrencei_Lawrence's Goldfinch,0.34920502,637.0,640.0
+Dolichonyx oryzivorus_Bobolink,0.12215539,637.0,640.0
+Dendrocygna bicolor_Fulvous Whistling-Duck,0.110178955,637.0,640.0
+Spizella pallida_Clay-colored Sparrow,0.99487174,639.0,642.0
+Spizella pallida_Clay-colored Sparrow,0.99899155,640.0,643.0
+Spizella pallida_Clay-colored Sparrow,0.99675995,641.0,644.0
+Spizella pallida_Clay-colored Sparrow,0.9424499,642.0,645.0
+Dolichonyx oryzivorus_Bobolink,0.16699831,643.0,646.0
+Dolichonyx oryzivorus_Bobolink,0.6699816,646.0,649.0
+Spizella pallida_Clay-colored Sparrow,0.92887634,647.0,650.0
+Spizella pallida_Clay-colored Sparrow,0.99761033,648.0,651.0
+Spizella pallida_Clay-colored Sparrow,0.998961,649.0,652.0
+Spizella pallida_Clay-colored Sparrow,0.99617416,650.0,653.0
+Spizella pallida_Clay-colored Sparrow,0.3196685,651.0,654.0
+Passerculus sandwichensis_Savannah Sparrow,0.13662209,651.0,654.0
+Dolichonyx oryzivorus_Bobolink,0.9905992,652.0,655.0
+Dolichonyx oryzivorus_Bobolink,0.9960257,653.0,656.0
+Chlorophonia elegantissima_Elegant Euphonia,0.135083,653.0,656.0
+Dolichonyx oryzivorus_Bobolink,0.996436,654.0,657.0
+Dolichonyx oryzivorus_Bobolink,0.96355516,655.0,658.0
+Himantopus himantopus_Black-winged Stilt,0.21116717,655.0,658.0
+Dolichonyx oryzivorus_Bobolink,0.9957489,656.0,659.0
+Dolichonyx oryzivorus_Bobolink,0.9850594,657.0,660.0
+Carduelis corsicana_Corsican Finch,0.21760742,657.0,660.0
+Dolichonyx oryzivorus_Bobolink,0.9974274,658.0,661.0
+Carduelis corsicana_Corsican Finch,0.30817443,658.0,661.0
+Dolichonyx oryzivorus_Bobolink,0.99566084,659.0,662.0
+Carduelis corsicana_Corsican Finch,0.11305568,659.0,662.0
+Dolichonyx oryzivorus_Bobolink,0.98797673,660.0,663.0
+Spizella pallida_Clay-colored Sparrow,0.9645822,661.0,664.0
+Spizella breweri_Brewer's Sparrow,0.19816837,661.0,664.0
+Spizella pallida_Clay-colored Sparrow,0.9970956,662.0,665.0
+Spizella pallida_Clay-colored Sparrow,0.99708945,663.0,666.0
+Spizella pallida_Clay-colored Sparrow,0.8450735,664.0,667.0
+Dolichonyx oryzivorus_Bobolink,0.76774913,665.0,668.0
+Dolichonyx oryzivorus_Bobolink,0.3373084,666.0,669.0
+Dolichonyx oryzivorus_Bobolink,0.41986924,668.0,671.0
+Dolichonyx oryzivorus_Bobolink,0.23577943,669.0,672.0
+Dolichonyx oryzivorus_Bobolink,0.2875032,670.0,673.0
+Passerculus sandwichensis_Savannah Sparrow,0.19563392,672.0,675.0
+Ammospiza nelsoni_Nelson's Sparrow,0.120894834,672.0,675.0
+Ammospiza nelsoni_Nelson's Sparrow,0.1893592,673.0,676.0
+Dolichonyx oryzivorus_Bobolink,0.18526839,673.0,676.0
+Passerculus sandwichensis_Savannah Sparrow,0.10469005,673.0,676.0
+Spizella pallida_Clay-colored Sparrow,0.9371109,674.0,677.0
+Spizella pallida_Clay-colored Sparrow,0.99592245,675.0,678.0
+Spizella pallida_Clay-colored Sparrow,0.99837875,676.0,679.0
+Spizella pallida_Clay-colored Sparrow,0.99421436,677.0,680.0
+Spizella pallida_Clay-colored Sparrow,0.58697337,678.0,681.0
+Dolichonyx oryzivorus_Bobolink,0.18529196,679.0,682.0
+Dolichonyx oryzivorus_Bobolink,0.12413539,680.0,683.0
+Dolichonyx oryzivorus_Bobolink,0.54314774,681.0,684.0
+Dolichonyx oryzivorus_Bobolink,0.8264682,682.0,685.0
+Spizella pallida_Clay-colored Sparrow,0.98358303,683.0,686.0
+Spizella pallida_Clay-colored Sparrow,0.9970782,684.0,687.0
+Spizella pallida_Clay-colored Sparrow,0.9991327,685.0,688.0
+Spizella pallida_Clay-colored Sparrow,0.9926682,686.0,689.0
+Dolichonyx oryzivorus_Bobolink,0.8972106,687.0,690.0
+Dolichonyx oryzivorus_Bobolink,0.9982633,688.0,691.0
+Dolichonyx oryzivorus_Bobolink,0.9841871,689.0,692.0
+Dolichonyx oryzivorus_Bobolink,0.78225017,690.0,693.0
+Passerculus sandwichensis_Savannah Sparrow,0.15026678,690.0,693.0
+Dolichonyx oryzivorus_Bobolink,0.11031423,691.0,694.0
+Dolichonyx oryzivorus_Bobolink,0.11079531,692.0,695.0
+Spizella pallida_Clay-colored Sparrow,0.9833666,693.0,696.0
+Spizella breweri_Brewer's Sparrow,0.117576785,693.0,696.0
+Spizella pallida_Clay-colored Sparrow,0.9924771,694.0,697.0
+Spizella pallida_Clay-colored Sparrow,0.99449146,695.0,698.0
+Dolichonyx oryzivorus_Bobolink,0.14944725,695.0,698.0
+Spizella pallida_Clay-colored Sparrow,0.97216344,696.0,699.0
+Dolichonyx oryzivorus_Bobolink,0.12061021,696.0,699.0
+Dolichonyx oryzivorus_Bobolink,0.9424787,697.0,700.0
+Loxia leucoptera_White-winged Crossbill,0.10566361,697.0,700.0
+Dolichonyx oryzivorus_Bobolink,0.8349321,698.0,701.0
+Loxia leucoptera_White-winged Crossbill,0.12553439,698.0,701.0
+Dolichonyx oryzivorus_Bobolink,0.8607546,699.0,702.0
+Loxia leucoptera_White-winged Crossbill,0.10307099,699.0,702.0
+Dolichonyx oryzivorus_Bobolink,0.8895306,700.0,703.0
+Dolichonyx oryzivorus_Bobolink,0.81259507,701.0,704.0
+Empidonax traillii_Willow Flycatcher,0.13348338,702.0,705.0
+Ammospiza nelsoni_Nelson's Sparrow,0.10103274,702.0,705.0
+Melospiza melodia_Song Sparrow,0.1303449,703.0,706.0
+Melospiza melodia_Song Sparrow,0.25995284,704.0,707.0
+Melospiza melodia_Song Sparrow,0.14974214,705.0,708.0
+Spizella pallida_Clay-colored Sparrow,0.9213648,706.0,709.0
+Spizella pallida_Clay-colored Sparrow,0.9979976,707.0,710.0
+Spizella pallida_Clay-colored Sparrow,0.9996075,708.0,711.0
+Spizella pallida_Clay-colored Sparrow,0.99873894,709.0,712.0
+Spizella pallida_Clay-colored Sparrow,0.95027536,710.0,713.0
+Passerculus sandwichensis_Savannah Sparrow,0.127088,710.0,713.0
+Dolichonyx oryzivorus_Bobolink,0.8796552,711.0,714.0
+Dolichonyx oryzivorus_Bobolink,0.8302291,712.0,715.0
+Dolichonyx oryzivorus_Bobolink,0.44728795,713.0,716.0
+Dolichonyx oryzivorus_Bobolink,0.45507917,714.0,717.0
+Dolichonyx oryzivorus_Bobolink,0.27107662,715.0,718.0
+Melospiza melodia_Song Sparrow,0.115110755,715.0,718.0
+Spizella pallida_Clay-colored Sparrow,0.9596115,716.0,719.0
+Passerculus sandwichensis_Savannah Sparrow,0.13250194,716.0,719.0
+Spizella pallida_Clay-colored Sparrow,0.99555486,717.0,720.0
+Dolichonyx oryzivorus_Bobolink,0.11059112,717.0,720.0
+Spizella pallida_Clay-colored Sparrow,0.99710554,718.0,721.0
+Dolichonyx oryzivorus_Bobolink,0.42729294,718.0,721.0
+Spizella pallida_Clay-colored Sparrow,0.992695,719.0,722.0
+Dolichonyx oryzivorus_Bobolink,0.82522494,720.0,723.0
+Spizella pallida_Clay-colored Sparrow,0.17599522,720.0,723.0
+Spiza americana_Dickcissel,0.10138078,720.0,723.0
+Dolichonyx oryzivorus_Bobolink,0.9660772,721.0,724.0
+Ammodramus savannarum_Grasshopper Sparrow,0.14902678,721.0,724.0
+Dolichonyx oryzivorus_Bobolink,0.970596,722.0,725.0
+Dolichonyx oryzivorus_Bobolink,0.55366665,723.0,726.0
+Dolichonyx oryzivorus_Bobolink,0.42496178,724.0,727.0
+Passerculus sandwichensis_Savannah Sparrow,0.16206172,724.0,727.0
+Spizella pallida_Clay-colored Sparrow,0.9967468,727.0,730.0
+Spizella pallida_Clay-colored Sparrow,0.9992557,728.0,731.0
+Spizella pallida_Clay-colored Sparrow,0.9994466,729.0,732.0
+Spizella pallida_Clay-colored Sparrow,0.99375784,730.0,733.0
+Dolichonyx oryzivorus_Bobolink,0.9071497,731.0,734.0
+Icterus spurius_Orchard Oriole,0.27621093,731.0,734.0
+Dolichonyx oryzivorus_Bobolink,0.71589226,732.0,735.0
+Icterus spurius_Orchard Oriole,0.15084834,732.0,735.0
+Dolichonyx oryzivorus_Bobolink,0.74345577,733.0,736.0
+Dolichonyx oryzivorus_Bobolink,0.7472414,734.0,737.0
+Passerculus sandwichensis_Savannah Sparrow,0.10451331,734.0,737.0
+Dolichonyx oryzivorus_Bobolink,0.82570857,735.0,738.0
+Spizella pallida_Clay-colored Sparrow,0.87616163,736.0,739.0
+Dolichonyx oryzivorus_Bobolink,0.24793696,736.0,739.0
+Spizella pallida_Clay-colored Sparrow,0.99441874,737.0,740.0
+Spizella pallida_Clay-colored Sparrow,0.9966959,738.0,741.0
+Spizella pallida_Clay-colored Sparrow,0.997505,739.0,742.0
+Spizella pallida_Clay-colored Sparrow,0.88300794,740.0,743.0
+Passerculus sandwichensis_Savannah Sparrow,0.10710392,740.0,743.0
+Dolichonyx oryzivorus_Bobolink,0.7690876,741.0,744.0
+Icterus cucullatus_Hooded Oriole,0.11977509,741.0,744.0
+Dolichonyx oryzivorus_Bobolink,0.29406616,742.0,745.0
+Spinus lawrencei_Lawrence's Goldfinch,0.13329107,743.0,746.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18840536,745.0,748.0
+Alaudala cheleensis_Asian Short-toed Lark,0.114079155,757.0,760.0
+Spizelloides arborea_American Tree Sparrow,0.1587615,762.0,765.0
+Pooecetes gramineus_Vesper Sparrow,0.11624436,770.0,773.0
+Pooecetes gramineus_Vesper Sparrow,0.7520997,771.0,774.0
+Spizelloides arborea_American Tree Sparrow,0.19976956,771.0,774.0
+Melospiza melodia_Song Sparrow,0.104165636,771.0,774.0
+Dolichonyx oryzivorus_Bobolink,0.25547388,773.0,776.0
+Spizella pallida_Clay-colored Sparrow,0.91967636,774.0,777.0
+Carpospiza brachydactyla_Pale Rockfinch,0.15383421,774.0,777.0
+Spizella breweri_Brewer's Sparrow,0.15218642,774.0,777.0
+Spizella pallida_Clay-colored Sparrow,0.99826497,775.0,778.0
+Spizella pallida_Clay-colored Sparrow,0.99862695,776.0,779.0
+Spizella pallida_Clay-colored Sparrow,0.99086994,777.0,780.0
+Spizella pallida_Clay-colored Sparrow,0.97925836,779.0,782.0
+Carpospiza brachydactyla_Pale Rockfinch,0.5658912,779.0,782.0
+Spizella pallida_Clay-colored Sparrow,0.99685764,780.0,783.0
+Spizella pallida_Clay-colored Sparrow,0.99796236,781.0,784.0
+Spizella pallida_Clay-colored Sparrow,0.96135646,782.0,785.0
+Dolichonyx oryzivorus_Bobolink,0.15491953,783.0,786.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13711886,784.0,787.0
+Passerculus sandwichensis_Savannah Sparrow,0.10981923,784.0,787.0
+Passerculus sandwichensis_Savannah Sparrow,0.12684315,785.0,788.0
+Pooecetes gramineus_Vesper Sparrow,0.11033566,785.0,788.0
+Ammospiza nelsoni_Nelson's Sparrow,0.68667746,786.0,789.0
+Saxicola rubetra_Whinchat,0.10243206,786.0,789.0
+Spizella pallida_Clay-colored Sparrow,0.99826705,787.0,790.0
+Spizella pallida_Clay-colored Sparrow,0.9994783,788.0,791.0
+Spizella pallida_Clay-colored Sparrow,0.9983084,789.0,792.0
+Spizella pallida_Clay-colored Sparrow,0.9681553,790.0,793.0
+Hirundo rustica_Barn Swallow,0.162349,791.0,794.0
+Dolichonyx oryzivorus_Bobolink,0.16045511,792.0,795.0
+Centronyx henslowii_Henslow's Sparrow,0.16009954,793.0,796.0
+Dolichonyx oryzivorus_Bobolink,0.12200232,793.0,796.0
+Spizelloides arborea_American Tree Sparrow,0.14190464,794.0,797.0
+Spizella pallida_Clay-colored Sparrow,0.9927886,797.0,800.0
+Spizella pallida_Clay-colored Sparrow,0.99908936,798.0,801.0
+Spizella pallida_Clay-colored Sparrow,0.9994185,799.0,802.0
+Spizella pallida_Clay-colored Sparrow,0.95575213,800.0,803.0
+Spizella pallida_Clay-colored Sparrow,0.9404001,802.0,805.0
+Spizella pallida_Clay-colored Sparrow,0.99753296,803.0,806.0
+Spizella pallida_Clay-colored Sparrow,0.99815816,804.0,807.0
+Spizella pallida_Clay-colored Sparrow,0.9890772,805.0,808.0
+Spizella pallida_Clay-colored Sparrow,0.5228041,806.0,809.0
+Spizella pusilla_Field Sparrow,0.37151158,807.0,810.0
+Spizella pusilla_Field Sparrow,0.40229326,808.0,811.0
+Spizella pusilla_Field Sparrow,0.23019688,809.0,812.0
+Setophaga tigrina_Cape May Warbler,0.2028633,809.0,812.0
+Setophaga tigrina_Cape May Warbler,0.18076214,810.0,813.0
+Emberiza cirlus_Cirl Bunting,0.102348596,810.0,813.0
+Spizella pallida_Clay-colored Sparrow,0.64881325,812.0,815.0
+Spizella pallida_Clay-colored Sparrow,0.9984536,813.0,816.0
+Spizella pallida_Clay-colored Sparrow,0.99950325,814.0,817.0
+Spizella pallida_Clay-colored Sparrow,0.9962153,815.0,818.0
+Spizella pallida_Clay-colored Sparrow,0.8625203,816.0,819.0
+Passerculus sandwichensis_Savannah Sparrow,0.15535545,816.0,819.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13806495,820.0,823.0
+Tamias striatus_Eastern Chipmunk,0.10573878,820.0,823.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17119789,821.0,824.0

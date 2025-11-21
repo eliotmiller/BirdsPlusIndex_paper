@@ -1,0 +1,100 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.9512054,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.8922727,1.0,4.0
+Empidonax minimus_Least Flycatcher,0.11902703,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.101844974,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.110794306,3.0,6.0
+Empidonax minimus_Least Flycatcher,0.15069593,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.12691522,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.2919482,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10604625,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.16435283,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.13898173,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.14149195,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.10974561,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.24845552,9.0,12.0
+Mniotilta varia_Black-and-white Warbler,0.16872537,10.0,13.0
+Setophaga ruticilla_American Redstart,0.16838002,11.0,14.0
+Setophaga ruticilla_American Redstart,0.4425275,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.12680826,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.4107421,13.0,16.0
+Empidonax minimus_Least Flycatcher,0.116935365,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.16137671,14.0,17.0
+Setophaga ruticilla_American Redstart,0.12022259,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10836552,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.57553494,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.68972355,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.50277776,17.0,20.0
+Setophaga ruticilla_American Redstart,0.24338588,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.18112929,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.17046385,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.3358937,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.20917203,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.3799576,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.26238668,20.0,23.0
+Empidonax virescens_Acadian Flycatcher,0.67303187,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14422485,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.2780312,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.1879684,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13921604,22.0,25.0
+Setophaga ruticilla_American Redstart,0.37116006,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.13493451,23.0,26.0
+Setophaga ruticilla_American Redstart,0.12664185,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.12575449,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.120541774,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.105166085,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.17731899,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.16602762,27.0,30.0
+Leiothlypis peregrina_Tennessee Warbler,0.16447735,27.0,30.0
+Setophaga ruticilla_American Redstart,0.10756308,27.0,30.0
+Setophaga ruticilla_American Redstart,0.15813185,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.14360805,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.10567819,28.0,31.0
+Setophaga ruticilla_American Redstart,0.24673735,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.117551014,29.0,32.0
+Setophaga ruticilla_American Redstart,0.3115436,30.0,33.0
+Setophaga ruticilla_American Redstart,0.37186453,31.0,34.0
+Setophaga ruticilla_American Redstart,0.44188905,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.19543822,32.0,35.0
+Setophaga ruticilla_American Redstart,0.25705117,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.22596417,33.0,36.0
+Setophaga ruticilla_American Redstart,0.25272697,34.0,37.0
+Myioborus miniatus_Slate-throated Redstart,0.20091733,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.11596167,34.0,37.0
+Setophaga ruticilla_American Redstart,0.22655371,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.17370321,35.0,38.0
+Setophaga ruticilla_American Redstart,0.18923636,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.10756374,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.10391692,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.18450885,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.17962214,38.0,41.0
+Setophaga ruticilla_American Redstart,0.15107416,38.0,41.0
+Setophaga ruticilla_American Redstart,0.13358802,39.0,42.0
+Setophaga ruticilla_American Redstart,0.1382516,40.0,43.0
+Setophaga ruticilla_American Redstart,0.33233035,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.10071266,42.0,45.0
+Setophaga ruticilla_American Redstart,0.39951697,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.12761521,43.0,46.0
+Setophaga americana_Northern Parula,0.102863304,43.0,46.0
+Setophaga ruticilla_American Redstart,0.16241673,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.10977747,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.10084865,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.26260027,45.0,48.0
+Setophaga ruticilla_American Redstart,0.10600289,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.28178188,46.0,49.0
+Setophaga ruticilla_American Redstart,0.35784143,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.14847462,47.0,50.0
+Cardellina canadensis_Canada Warbler,0.122887366,47.0,50.0
+Setophaga ruticilla_American Redstart,0.21945207,48.0,51.0
+Setophaga ruticilla_American Redstart,0.22421117,49.0,52.0
+Leiothlypis peregrina_Tennessee Warbler,0.16786648,49.0,52.0
+Leiothlypis peregrina_Tennessee Warbler,0.17921893,50.0,53.0
+Setophaga ruticilla_American Redstart,0.16049676,50.0,53.0
+Tamias striatus_Eastern Chipmunk,0.15083031,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.10826009,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10047032,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1632403,52.0,55.0
+Tamias striatus_Eastern Chipmunk,0.14291038,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.11927987,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1808229,53.0,55.17600907029478
+Setophaga pinus_Pine Warbler,0.101680286,53.0,55.17600907029478

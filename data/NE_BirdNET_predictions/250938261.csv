@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.1736371,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.11046954,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.22969101,4.0,7.0
+Cardinalis cardinalis_Northern Cardinal,0.36192283,5.0,8.0
+Toxostoma rufum_Brown Thrasher,0.14508791,6.0,9.0
+Cardinalis cardinalis_Northern Cardinal,0.2385122,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15529451,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.12484772,8.0,11.0
+Vireo philadelphicus_Philadelphia Vireo,0.101248056,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14741968,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.14216949,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.1516931,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115822405,10.0,13.0
+Cardinalis cardinalis_Northern Cardinal,0.14895482,11.0,14.0
+Cardinalis cardinalis_Northern Cardinal,0.8637983,12.0,15.0
+Cardinalis cardinalis_Northern Cardinal,0.8522798,13.0,16.0
+Cardinalis cardinalis_Northern Cardinal,0.8301558,14.0,17.0
+Cardinalis cardinalis_Northern Cardinal,0.93419474,15.0,18.0
+Vireo philadelphicus_Philadelphia Vireo,0.2575069,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101436354,16.0,19.0
+Vireo philadelphicus_Philadelphia Vireo,0.10312119,17.0,20.0
+Vireo philadelphicus_Philadelphia Vireo,0.12000714,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1032953,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.11745635,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11020451,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16572367,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.1618873,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10301755,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.16388653,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.15829223,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16592982,25.0,28.0
+Perisoreus canadensis_Canada Jay,0.25548786,27.0,30.0
+Cardinalis cardinalis_Northern Cardinal,0.15739775,28.0,31.0
+Cardinalis cardinalis_Northern Cardinal,0.22206376,29.0,32.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.395788,30.0,33.0
+Cardinalis cardinalis_Northern Cardinal,0.17865698,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17668882,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.14391658,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.10355682,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15150185,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.10113192,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11155876,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.3996243,34.0,37.0
+Vireo philadelphicus_Philadelphia Vireo,0.14148472,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.15384823,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.2135764,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15364876,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1660103,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.10062197,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21278355,41.0,44.0
+Geothlypis philadelphia_Mourning Warbler,0.11036301,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12965669,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16828778,44.0,47.0
+Setophaga citrina_Hooded Warbler,0.10300909,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10772179,45.0,48.0
+Vireo olivaceus_Red-eyed Vireo,0.36770156,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.13135679,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104416266,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.14795631,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.17619564,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13563088,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.13142514,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11795831,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10937243,53.0,56.0
+Cardinalis cardinalis_Northern Cardinal,0.11329574,55.0,58.0
+Cardinalis cardinalis_Northern Cardinal,0.24389172,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.14214095,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.17523207,57.0,60.0
+Vireo philadelphicus_Philadelphia Vireo,0.14748985,58.0,61.0
+Vireo philadelphicus_Philadelphia Vireo,0.16376588,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10586859,61.0,64.0
+Empidonax virescens_Acadian Flycatcher,0.17898287,62.0,65.0
+Vireo philadelphicus_Philadelphia Vireo,0.10620316,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.12827624,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.19276552,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11925049,66.0,69.0
+Vireo solitarius_Blue-headed Vireo,0.17656744,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.105184026,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10419472,71.0,74.0

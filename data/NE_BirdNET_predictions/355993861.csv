@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.6270484,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.3342258,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.24485205,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.21845606,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.1328549,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.12070467,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.61102194,5.0,8.0
+Setophaga americana_Northern Parula,0.5505931,5.0,8.0
+Setophaga americana_Northern Parula,0.8691008,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123439476,6.0,9.0
+Setophaga americana_Northern Parula,0.9449816,7.0,10.0
+Setophaga americana_Northern Parula,0.48606077,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3601152,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.24386603,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.16183838,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.31071192,10.0,13.0
+Vireo cassinii_Cassin's Vireo,0.19004877,10.0,13.0
+Andropadus importunus_Sombre Greenbul,0.10199733,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.16791652,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.1323274,13.0,16.0
+Fringilla montifringilla_Brambling,0.13167694,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.10906238,15.0,18.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20087557,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.36280018,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.6744667,19.0,22.0
+Vireo cassinii_Cassin's Vireo,0.1203061,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.20177293,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.5577665,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.7108781,23.0,26.0
+Vireo solitarius_Blue-headed Vireo,0.48248613,24.0,27.0
+Setophaga americana_Northern Parula,0.6097657,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24611115,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.12342156,25.0,28.0
+Setophaga americana_Northern Parula,0.66022134,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44611812,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.22042313,26.0,29.0
+Setophaga americana_Northern Parula,0.9186089,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14142635,27.0,30.0
+Setophaga americana_Northern Parula,0.74296767,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.3029407,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20836851,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.49957108,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.37705377,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11734407,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.11406889,32.0,35.0
+Vireo flavifrons_Yellow-throated Vireo,0.40241206,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.3394269,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.7021576,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.7749323,35.0,38.0
+Vireo flavifrons_Yellow-throated Vireo,0.1100156,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.49321026,36.0,39.0
+Vireo cassinii_Cassin's Vireo,0.17533526,36.0,39.0
+Vireo solitarius_Blue-headed Vireo,0.5603446,37.0,40.0
+Vireo flavifrons_Yellow-throated Vireo,0.24401446,38.0,41.0
+Vireo solitarius_Blue-headed Vireo,0.69000936,39.0,42.0
+Setophaga americana_Northern Parula,0.44670066,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38763806,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.3352018,40.0,43.0
+Setophaga americana_Northern Parula,0.7799366,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38984177,41.0,44.0
+Setophaga americana_Northern Parula,0.7907975,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21466511,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.16893749,42.0,45.0
+Setophaga americana_Northern Parula,0.7203799,43.0,45.48
+Setophaga caerulescens_Black-throated Blue Warbler,0.5256949,43.0,45.48
+Setophaga cerulea_Cerulean Warbler,0.14588092,43.0,45.48

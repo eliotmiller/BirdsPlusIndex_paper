@@ -1,0 +1,111 @@
+species,score,start_time,end_time
+Ixoreus naevius_Varied Thrush,0.16003563,0.0,3.0
+Zonotrichia albicollis_White-throated Sparrow,0.93465155,1.0,4.0
+Zonotrichia albicollis_White-throated Sparrow,0.9710862,2.0,5.0
+Zonotrichia albicollis_White-throated Sparrow,0.9850795,3.0,6.0
+Certhionyx variegatus_Pied Honeyeater,0.5528105,3.0,6.0
+Zonotrichia albicollis_White-throated Sparrow,0.9609276,4.0,7.0
+Zonotrichia albicollis_White-throated Sparrow,0.9619167,5.0,8.0
+Zonotrichia albicollis_White-throated Sparrow,0.7178346,6.0,9.0
+Canachites canadensis_Spruce Grouse,0.26993796,6.0,9.0
+Zonotrichia albicollis_White-throated Sparrow,0.4895299,7.0,10.0
+Canachites canadensis_Spruce Grouse,0.10280429,7.0,10.0
+Zonotrichia albicollis_White-throated Sparrow,0.28967762,8.0,11.0
+Schiffornis turdina_Brown-winged Schiffornis,0.2527725,9.0,12.0
+Zonotrichia albicollis_White-throated Sparrow,0.9133338,10.0,13.0
+Zonotrichia albicollis_White-throated Sparrow,0.958846,11.0,14.0
+Zonotrichia albicollis_White-throated Sparrow,0.9931584,12.0,15.0
+Zonotrichia albicollis_White-throated Sparrow,0.78794277,13.0,16.0
+Spizella pusilla_Field Sparrow,0.22703773,13.0,16.0
+Catharus fuscescens_Veery,0.4923664,16.0,19.0
+Catharus fuscescens_Veery,0.40500173,17.0,20.0
+Mniotilta varia_Black-and-white Warbler,0.11043219,17.0,20.0
+Schiffornis turdina_Brown-winged Schiffornis,0.49147332,18.0,21.0
+Jacamerops aureus_Great Jacamar,0.17234845,18.0,21.0
+Zonotrichia albicollis_White-throated Sparrow,0.9157497,19.0,22.0
+Zonotrichia albicollis_White-throated Sparrow,0.96499443,20.0,23.0
+Zonotrichia albicollis_White-throated Sparrow,0.9819941,21.0,24.0
+Spizella pusilla_Field Sparrow,0.22540033,21.0,24.0
+Zonotrichia albicollis_White-throated Sparrow,0.6220077,22.0,25.0
+Zonotrichia albicollis_White-throated Sparrow,0.5365408,23.0,26.0
+Heterophasia capistrata_Rufous Sibia,0.45986938,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.16275121,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.12288849,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.18831444,25.0,28.0
+Regulus satrapa_Golden-crowned Kinglet,0.12924536,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.10443051,25.0,28.0
+Bombycilla cedrorum_Cedar Waxwing,0.122140616,26.0,29.0
+Canachites canadensis_Spruce Grouse,0.16934662,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.10490648,27.0,30.0
+Canachites canadensis_Spruce Grouse,0.46736026,28.0,31.0
+Zonotrichia albicollis_White-throated Sparrow,0.1644238,28.0,31.0
+Ixoreus naevius_Varied Thrush,0.15434563,28.0,31.0
+Canachites canadensis_Spruce Grouse,0.17206585,29.0,32.0
+Ixoreus naevius_Varied Thrush,0.34834802,30.0,33.0
+Zonotrichia albicollis_White-throated Sparrow,0.93137854,31.0,34.0
+Zonotrichia albicollis_White-throated Sparrow,0.9664946,32.0,35.0
+Zonotrichia albicollis_White-throated Sparrow,0.9844304,33.0,36.0
+Certhionyx variegatus_Pied Honeyeater,0.17446673,33.0,36.0
+Spizella pusilla_Field Sparrow,0.13051665,33.0,36.0
+Zonotrichia albicollis_White-throated Sparrow,0.61692256,34.0,37.0
+Spizella pusilla_Field Sparrow,0.13059554,34.0,37.0
+Catharus fuscescens_Veery,0.15531781,37.0,40.0
+Catharus fuscescens_Veery,0.14368398,38.0,41.0
+Catharus fuscescens_Veery,0.27164307,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.12021483,40.0,43.0
+Ixoreus naevius_Varied Thrush,0.36612976,42.0,45.0
+Zonotrichia albicollis_White-throated Sparrow,0.9597004,43.0,46.0
+Zonotrichia albicollis_White-throated Sparrow,0.9618941,44.0,47.0
+Zonotrichia albicollis_White-throated Sparrow,0.98324305,45.0,48.0
+Certhionyx variegatus_Pied Honeyeater,0.19363922,45.0,48.0
+Zonotrichia albicollis_White-throated Sparrow,0.91917884,46.0,49.0
+Spizella pusilla_Field Sparrow,0.19474332,46.0,49.0
+Zonotrichia albicollis_White-throated Sparrow,0.6511623,47.0,50.0
+Spizella pusilla_Field Sparrow,0.12023973,47.0,50.0
+Bombycilla cedrorum_Cedar Waxwing,0.4768937,48.0,51.0
+Bombycilla cedrorum_Cedar Waxwing,0.7294056,49.0,52.0
+Bombycilla cedrorum_Cedar Waxwing,0.7874677,50.0,53.0
+Ixoreus naevius_Varied Thrush,0.32640332,51.0,54.0
+Zonotrichia albicollis_White-throated Sparrow,0.65794337,52.0,55.0
+Zonotrichia albicollis_White-throated Sparrow,0.9486757,53.0,56.0
+Zonotrichia albicollis_White-throated Sparrow,0.9672441,54.0,57.0
+Certhionyx variegatus_Pied Honeyeater,0.5699323,54.0,57.0
+Zonotrichia albicollis_White-throated Sparrow,0.9264204,55.0,58.0
+Zonotrichia albicollis_White-throated Sparrow,0.6580322,56.0,59.0
+Catharus fuscescens_Veery,0.19384977,57.0,60.0
+Catharus fuscescens_Veery,0.31020218,58.0,61.0
+Spinus tristis_American Goldfinch,0.24189073,58.0,61.0
+Catharus fuscescens_Veery,0.5842071,59.0,62.0
+Spinus tristis_American Goldfinch,0.2705436,60.0,63.0
+Ixoreus naevius_Varied Thrush,0.41772163,61.0,64.0
+Zonotrichia albicollis_White-throated Sparrow,0.87269104,62.0,65.0
+Zonotrichia albicollis_White-throated Sparrow,0.9725974,63.0,66.0
+Zonotrichia albicollis_White-throated Sparrow,0.988998,64.0,67.0
+Spizella pusilla_Field Sparrow,0.24006993,64.0,67.0
+Zonotrichia albicollis_White-throated Sparrow,0.52672046,65.0,68.0
+Spizella pusilla_Field Sparrow,0.4500289,65.0,68.0
+Spinus tristis_American Goldfinch,0.11288209,68.0,71.0
+Spinus tristis_American Goldfinch,0.14698167,69.0,72.0
+Spinus tristis_American Goldfinch,0.13373472,70.0,73.0
+Bombycilla cedrorum_Cedar Waxwing,0.10263544,70.0,73.0
+Bombycilla cedrorum_Cedar Waxwing,0.53433585,72.0,75.0
+Catharus fuscescens_Veery,0.19077237,72.0,75.0
+Bombycilla cedrorum_Cedar Waxwing,0.7496454,73.0,76.0
+Schiffornis turdina_Brown-winged Schiffornis,0.27393672,74.0,77.0
+Zonotrichia albicollis_White-throated Sparrow,0.10769258,74.0,77.0
+Zonotrichia albicollis_White-throated Sparrow,0.9628826,75.0,78.0
+Zonotrichia albicollis_White-throated Sparrow,0.98213273,76.0,79.0
+Zonotrichia albicollis_White-throated Sparrow,0.9844035,77.0,80.0
+Zonotrichia albicollis_White-throated Sparrow,0.7846521,78.0,81.0
+Brachyramphus marmoratus_Marbled Murrelet,0.12536399,79.0,82.0
+Bombycilla cedrorum_Cedar Waxwing,0.11602624,82.0,85.0
+Bombycilla cedrorum_Cedar Waxwing,0.20323159,83.0,86.0
+Catharus fuscescens_Veery,0.17590362,83.0,86.0
+Ixoreus naevius_Varied Thrush,0.27453175,84.0,87.0
+Zonotrichia albicollis_White-throated Sparrow,0.86286616,85.0,88.0
+Zonotrichia albicollis_White-throated Sparrow,0.9733167,86.0,89.0
+Zonotrichia albicollis_White-throated Sparrow,0.9708855,87.0,90.0
+Spizella pusilla_Field Sparrow,0.29824078,87.0,90.0
+Zonotrichia albicollis_White-throated Sparrow,0.6697107,88.0,91.0
+Catharus fuscescens_Veery,0.20409372,89.0,92.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17506814,95.0,98.0

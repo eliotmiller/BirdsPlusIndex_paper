@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.96526617,1.0,4.0
+Junco phaeonotus_Yellow-eyed Junco,0.4336036,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.9444377,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.9221621,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.38263527,4.0,7.0
+Certhia himalayana_Bar-tailed Treecreeper,0.103247434,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.10100133,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.8256196,8.0,11.0
+Junco phaeonotus_Yellow-eyed Junco,0.1914882,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.8588409,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.9806209,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.9703964,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.5892857,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20007835,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.10795858,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.35484228,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2048835,14.0,17.0
+Setophaga castanea_Bay-breasted Warbler,0.18492982,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.25772253,15.0,18.0
+Setophaga castanea_Bay-breasted Warbler,0.17959706,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.13536645,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101297274,15.0,18.0
+Setophaga castanea_Bay-breasted Warbler,0.12539256,16.0,19.0
+Junco hyemalis_Dark-eyed Junco,0.7991368,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.9711674,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.9064442,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.5198849,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.20086886,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17986235,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.13362071,21.0,24.0
+Buteo platypterus_Broad-winged Hawk,0.103975795,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.24258913,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21470244,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.13616425,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.15612534,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13315108,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.16641214,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15478452,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.13886863,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.105824836,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.36206597,25.0,28.0
+Setophaga ruticilla_American Redstart,0.13172755,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.8427865,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.95544255,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.86259234,28.0,31.0
+Certhia himalayana_Bar-tailed Treecreeper,0.24556977,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.7489184,29.0,32.0
+Junco phaeonotus_Yellow-eyed Junco,0.2834198,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.35823578,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17520061,34.0,37.0
+Mniotilta varia_Black-and-white Warbler,0.12747966,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.19925375,35.0,38.0
+Setophaga castanea_Bay-breasted Warbler,0.17314535,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.13326909,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13043275,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.41493773,36.0,39.0
+Junco hyemalis_Dark-eyed Junco,0.94405794,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.98604935,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.8154836,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.30729464,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.23385544,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12033955,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.26977953,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18265548,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.11078617,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.30277568,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23167321,43.0,46.0
+Buteo platypterus_Broad-winged Hawk,0.13026015,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.12472933,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1808489,44.0,47.0
+Setophaga castanea_Bay-breasted Warbler,0.1595272,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.13911359,44.0,47.0
+Mniotilta varia_Black-and-white Warbler,0.13408701,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.115245394,44.0,47.0
+Junco hyemalis_Dark-eyed Junco,0.48107034,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.8083082,46.0,49.0
+Junco hyemalis_Dark-eyed Junco,0.9639995,47.0,50.0
+Junco hyemalis_Dark-eyed Junco,0.89523596,48.0,51.0
+Colaptes auratus_Northern Flicker,0.19627272,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.11921261,54.0,57.0
+Junco hyemalis_Dark-eyed Junco,0.85106903,55.0,58.0
+Junco phaeonotus_Yellow-eyed Junco,0.23957783,55.0,58.0
+Junco hyemalis_Dark-eyed Junco,0.9555996,56.0,59.0
+Certhia himalayana_Bar-tailed Treecreeper,0.1349226,56.0,59.0
+Junco hyemalis_Dark-eyed Junco,0.93153965,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.89955485,58.0,61.0
+Certhia himalayana_Bar-tailed Treecreeper,0.17147887,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.2363714,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.14490551,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.28700718,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.17260322,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.11198231,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12646751,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.1769327,68.0,70.48802721088435

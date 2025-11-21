@@ -1,0 +1,86 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.80113393,0.0,3.0
+Corvus corax_Common Raven,0.22403538,1.0,4.0
+Corvus corax_Common Raven,0.7077195,4.0,7.0
+Corvus corax_Common Raven,0.88255465,5.0,8.0
+Corvus corax_Common Raven,0.97299826,6.0,9.0
+Corvus albicollis_White-necked Raven,0.13100593,6.0,9.0
+Corvus corax_Common Raven,0.856531,7.0,10.0
+Corvus corax_Common Raven,0.5761817,8.0,11.0
+Corvus corax_Common Raven,0.77802324,9.0,12.0
+Corvus corax_Common Raven,0.86888677,10.0,13.0
+Corvus corax_Common Raven,0.80221975,11.0,14.0
+Corvus corax_Common Raven,0.8255108,12.0,15.0
+Corvus corax_Common Raven,0.24273582,13.0,16.0
+Corvus corax_Common Raven,0.37273985,14.0,17.0
+Grus grus_Common Crane,0.5122878,15.0,18.0
+Gallus gallus_Red Junglefowl,0.2780312,15.0,18.0
+Gallus gallus_Red Junglefowl,0.40890926,16.0,19.0
+Corvus corax_Common Raven,0.12102039,16.0,19.0
+Grus grus_Common Crane,0.11951586,16.0,19.0
+Corvus corax_Common Raven,0.41255102,17.0,20.0
+Gallus gallus_Red Junglefowl,0.110250816,20.0,23.0
+Gallus gallus_Red Junglefowl,0.13412161,23.0,26.0
+Corvus corax_Common Raven,0.55991393,24.0,27.0
+Menura alberti_Albert's Lyrebird,0.15096137,24.0,27.0
+Corvus corax_Common Raven,0.28778157,25.0,28.0
+Grus grus_Common Crane,0.24505846,25.0,28.0
+Corvus albicollis_White-necked Raven,0.13977407,25.0,28.0
+Corvus corax_Common Raven,0.83582324,26.0,29.0
+Corvus albicollis_White-necked Raven,0.16445221,26.0,29.0
+Corvus corax_Common Raven,0.51355785,27.0,30.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.13883778,27.0,30.0
+Gallus gallus_Red Junglefowl,0.10969471,27.0,30.0
+Corvus corax_Common Raven,0.2947736,28.0,31.0
+Pucrasia macrolopha_Koklass Pheasant,0.28721803,28.0,31.0
+Gallus gallus_Red Junglefowl,0.19876881,28.0,31.0
+Corvus corax_Common Raven,0.4011007,29.0,32.0
+Corvus corax_Common Raven,0.21269862,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10428297,31.0,34.0
+Gallus gallus_Red Junglefowl,0.21226071,32.0,35.0
+Corvus corax_Common Raven,0.10343886,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10091835,33.0,36.0
+Corvus corax_Common Raven,0.5442748,35.0,38.0
+Corvus corax_Common Raven,0.20712642,36.0,39.0
+Catharus fuscescens_Veery,0.10750195,36.0,39.0
+Corvus corax_Common Raven,0.79543805,37.0,40.0
+Corvus corax_Common Raven,0.22551277,38.0,41.0
+Corvus corax_Common Raven,0.2422086,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1420821,39.0,42.0
+Corvus corax_Common Raven,0.6272705,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13514332,40.0,43.0
+Corvus corax_Common Raven,0.22195406,41.0,44.0
+Corvus corax_Common Raven,0.77459985,42.0,45.0
+Corvus corax_Common Raven,0.9120256,43.0,46.0
+Corvus corax_Common Raven,0.58241665,44.0,47.0
+Corvus corax_Common Raven,0.1466067,45.0,48.0
+Sphyrapicus thyroideus_Williamson's Sapsucker,0.12115249,45.0,48.0
+Corvus corax_Common Raven,0.23881206,46.0,49.0
+Ara militaris_Military Macaw,0.20833638,46.0,49.0
+Corvus corax_Common Raven,0.47085068,47.0,50.0
+Amazona farinosa_Mealy Parrot,0.114503436,47.0,50.0
+Corvus corax_Common Raven,0.65116096,48.0,51.0
+Ara militaris_Military Macaw,0.105083674,48.0,51.0
+Corvus corax_Common Raven,0.2463117,49.0,52.0
+Corvus corax_Common Raven,0.5370675,50.0,53.0
+Ara militaris_Military Macaw,0.24832462,50.0,53.0
+Corvus corax_Common Raven,0.5328938,51.0,54.0
+Ara militaris_Military Macaw,0.26149496,51.0,54.0
+Corvus corax_Common Raven,0.42152348,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13158607,52.0,55.0
+Corvus corax_Common Raven,0.75883996,53.0,56.0
+Corvus corax_Common Raven,0.87476164,54.0,57.0
+Corvus corax_Common Raven,0.40531614,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121965975,55.0,58.0
+Corvus corax_Common Raven,0.6288071,57.0,60.0
+Corvus corax_Common Raven,0.39514047,58.0,61.0
+Corvus corax_Common Raven,0.64624923,59.0,62.0
+Corvus corax_Common Raven,0.2598664,60.0,63.0
+Corvus corax_Common Raven,0.48243546,61.0,64.0
+Corvus corax_Common Raven,0.4923998,62.0,65.0
+Corvus corax_Common Raven,0.58829427,63.0,66.0
+Corvus corax_Common Raven,0.49705982,64.0,67.0
+Gallus gallus_Red Junglefowl,0.16346405,64.0,67.0
+Corvus corax_Common Raven,0.38540497,65.0,68.0
+Corvus corax_Common Raven,0.47282982,66.0,68.44802721088435
+Gallus gallus_Red Junglefowl,0.120588504,66.0,68.44802721088435

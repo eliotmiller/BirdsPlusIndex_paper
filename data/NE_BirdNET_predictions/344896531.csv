@@ -1,0 +1,264 @@
+species,score,start_time,end_time
+Corvus ossifragus_Fish Crow,0.1729201,0.0,3.0
+Clangula hyemalis_Long-tailed Duck,0.11877606,0.0,3.0
+Mergus serrator_Red-breasted Merganser,0.11455713,0.0,3.0
+Mergus serrator_Red-breasted Merganser,0.22868915,1.0,4.0
+Clangula hyemalis_Long-tailed Duck,0.12589899,1.0,4.0
+Corvus ossifragus_Fish Crow,0.10381227,2.0,5.0
+Mergus serrator_Red-breasted Merganser,0.103230305,2.0,5.0
+Mergus serrator_Red-breasted Merganser,0.33993733,3.0,6.0
+Mergus merganser_Common Merganser,0.19998632,3.0,6.0
+Bucephala albeola_Bufflehead,0.11858394,3.0,6.0
+Mergus serrator_Red-breasted Merganser,0.23330998,4.0,7.0
+Bucephala albeola_Bufflehead,0.13463761,4.0,7.0
+Mergus merganser_Common Merganser,0.10949702,4.0,7.0
+Mergus merganser_Common Merganser,0.47803697,5.0,8.0
+Mergus serrator_Red-breasted Merganser,0.32820117,5.0,8.0
+Bucephala albeola_Bufflehead,0.30677018,5.0,8.0
+Mareca americana_American Wigeon,0.10719044,5.0,8.0
+Mergus merganser_Common Merganser,0.70295054,6.0,9.0
+Mergus serrator_Red-breasted Merganser,0.39984724,6.0,9.0
+Mareca americana_American Wigeon,0.19034223,6.0,9.0
+Bucephala albeola_Bufflehead,0.1783715,6.0,9.0
+Spatula clypeata_Northern Shoveler,0.17355986,6.0,9.0
+Anas platyrhynchos_Mallard,0.10620455,6.0,9.0
+Mergus merganser_Common Merganser,0.68650603,7.0,10.0
+Bucephala albeola_Bufflehead,0.38834926,7.0,10.0
+Mergus serrator_Red-breasted Merganser,0.331122,7.0,10.0
+Spatula clypeata_Northern Shoveler,0.10903901,7.0,10.0
+Mergus merganser_Common Merganser,0.7270278,8.0,11.0
+Mergus serrator_Red-breasted Merganser,0.49253923,8.0,11.0
+Platalea ajaja_Roseate Spoonbill,0.19381519,8.0,11.0
+Thalasseus maximus_Royal Tern,0.16097097,8.0,11.0
+Spatula clypeata_Northern Shoveler,0.15766187,8.0,11.0
+Anas platyrhynchos_Mallard,0.10973346,8.0,11.0
+Mergus merganser_Common Merganser,0.22902843,9.0,12.0
+Bucephala albeola_Bufflehead,0.21911323,9.0,12.0
+Mergus serrator_Red-breasted Merganser,0.21059121,9.0,12.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.10911303,9.0,12.0
+Mergus merganser_Common Merganser,0.119525425,10.0,13.0
+Mergus merganser_Common Merganser,0.26031014,11.0,14.0
+Limnodromus griseus_Short-billed Dowitcher,0.12961905,11.0,14.0
+Mergus serrator_Red-breasted Merganser,0.12813187,11.0,14.0
+Bucephala albeola_Bufflehead,0.1036414,11.0,14.0
+Mergus merganser_Common Merganser,0.36240727,12.0,15.0
+Bucephala albeola_Bufflehead,0.15977263,12.0,15.0
+Mergus serrator_Red-breasted Merganser,0.11051823,12.0,15.0
+Mergus merganser_Common Merganser,0.18454735,13.0,16.0
+Mergus merganser_Common Merganser,0.18966727,17.0,20.0
+Limnodromus griseus_Short-billed Dowitcher,0.20430158,18.0,21.0
+Tringa glareola_Wood Sandpiper,0.117078565,18.0,21.0
+Limnodromus griseus_Short-billed Dowitcher,0.43486142,19.0,22.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.13154429,19.0,22.0
+Acanthis flammea_Common Redpoll,0.127322,21.0,24.0
+Mergus merganser_Common Merganser,0.22348924,22.0,25.0
+Mergus serrator_Red-breasted Merganser,0.21008463,22.0,25.0
+Zosterops luteus_Australian Yellow White-eye,0.25600812,23.0,26.0
+Zosterops luteus_Australian Yellow White-eye,0.35055405,24.0,27.0
+Zosterops luteus_Australian Yellow White-eye,0.20826595,25.0,28.0
+Mergus merganser_Common Merganser,0.11154404,26.0,29.0
+Mergus merganser_Common Merganser,0.1291774,27.0,30.0
+Mergus serrator_Red-breasted Merganser,0.11309157,27.0,30.0
+Bucephala albeola_Bufflehead,0.104607284,27.0,30.0
+Mergus merganser_Common Merganser,0.26258802,28.0,31.0
+Mergus serrator_Red-breasted Merganser,0.20601806,28.0,31.0
+Bucephala albeola_Bufflehead,0.1240956,28.0,31.0
+Mergus merganser_Common Merganser,0.12199542,29.0,32.0
+Mergus merganser_Common Merganser,0.13420337,30.0,33.0
+Mergus serrator_Red-breasted Merganser,0.1125171,30.0,33.0
+Bucephala albeola_Bufflehead,0.29811874,33.0,36.0
+Mergus merganser_Common Merganser,0.13188629,33.0,36.0
+Mergus merganser_Common Merganser,0.18644513,34.0,37.0
+Bucephala albeola_Bufflehead,0.12052711,34.0,37.0
+Mergus merganser_Common Merganser,0.18053743,35.0,38.0
+Psaltriparus minimus_Bushtit,0.21282823,37.0,40.0
+Psaltriparus minimus_Bushtit,0.35526893,38.0,41.0
+Bucephala albeola_Bufflehead,0.18505093,40.0,43.0
+Mergus merganser_Common Merganser,0.1456443,40.0,43.0
+Mergus serrator_Red-breasted Merganser,0.11554842,40.0,43.0
+Mergus merganser_Common Merganser,0.72937304,41.0,44.0
+Mergus serrator_Red-breasted Merganser,0.10756271,41.0,44.0
+Mergus merganser_Common Merganser,0.7508527,42.0,45.0
+Mergus merganser_Common Merganser,0.30283695,43.0,46.0
+Mergus merganser_Common Merganser,0.75541544,44.0,47.0
+Mergus serrator_Red-breasted Merganser,0.14938846,44.0,47.0
+Mergus merganser_Common Merganser,0.6347364,45.0,48.0
+Mergus serrator_Red-breasted Merganser,0.15310057,45.0,48.0
+Mergus merganser_Common Merganser,0.61048496,46.0,49.0
+Mergus serrator_Red-breasted Merganser,0.47919777,46.0,49.0
+Mergus serrator_Red-breasted Merganser,0.27607766,47.0,50.0
+Bucephala albeola_Bufflehead,0.16097657,47.0,50.0
+Mergus merganser_Common Merganser,0.75311583,48.0,51.0
+Mergus serrator_Red-breasted Merganser,0.6280479,48.0,51.0
+Mergus merganser_Common Merganser,0.6845169,49.0,52.0
+Mergus serrator_Red-breasted Merganser,0.26958838,49.0,52.0
+Hydroprogne caspia_Caspian Tern,0.24989359,49.0,52.0
+Platalea ajaja_Roseate Spoonbill,0.22409008,49.0,52.0
+Mergus merganser_Common Merganser,0.4048005,50.0,53.0
+Hydroprogne caspia_Caspian Tern,0.28168985,50.0,53.0
+Larus occidentalis_Western Gull,0.24841598,50.0,53.0
+Mergus serrator_Red-breasted Merganser,0.2384461,50.0,53.0
+Larus delawarensis_Ring-billed Gull,0.1465477,50.0,53.0
+Larus delawarensis_Ring-billed Gull,0.3306036,51.0,54.0
+Mergus merganser_Common Merganser,0.2790557,52.0,55.0
+Mergus serrator_Red-breasted Merganser,0.11251018,52.0,55.0
+Mergus serrator_Red-breasted Merganser,0.32312882,53.0,56.0
+Mergus merganser_Common Merganser,0.12528004,53.0,56.0
+Zosterops luteus_Australian Yellow White-eye,0.21071608,54.0,57.0
+Mergus serrator_Red-breasted Merganser,0.120218895,54.0,57.0
+Mergus serrator_Red-breasted Merganser,0.29726455,55.0,58.0
+Mergus merganser_Common Merganser,0.24867132,55.0,58.0
+Bucephala albeola_Bufflehead,0.14759204,56.0,59.0
+Mergus serrator_Red-breasted Merganser,0.12059964,57.0,60.0
+Mergus merganser_Common Merganser,0.20589173,59.0,62.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.15494464,62.0,65.0
+Limnodromus griseus_Short-billed Dowitcher,0.11033108,66.0,69.0
+Mergus serrator_Red-breasted Merganser,0.18808527,67.0,70.0
+Mergus merganser_Common Merganser,0.11508257,67.0,70.0
+Mergus serrator_Red-breasted Merganser,0.13786569,68.0,71.0
+Mergus serrator_Red-breasted Merganser,0.28921303,69.0,72.0
+Mergus merganser_Common Merganser,0.10942464,69.0,72.0
+Calidris minutilla_Least Sandpiper,0.10467266,71.0,74.0
+Calidris minutilla_Least Sandpiper,0.10629857,72.0,75.0
+Calidris minutilla_Least Sandpiper,0.12051764,73.0,76.0
+Mergus merganser_Common Merganser,0.2838528,80.0,83.0
+Mergus serrator_Red-breasted Merganser,0.22598465,80.0,83.0
+Bucephala albeola_Bufflehead,0.13794893,80.0,83.0
+Mergus serrator_Red-breasted Merganser,0.18074879,81.0,84.0
+Mergus merganser_Common Merganser,0.13367166,81.0,84.0
+Bucephala albeola_Bufflehead,0.10531607,81.0,84.0
+Mergus merganser_Common Merganser,0.30837068,82.0,85.0
+Mergus serrator_Red-breasted Merganser,0.18124062,82.0,85.0
+Mergus serrator_Red-breasted Merganser,0.19765034,83.0,86.0
+Mergus merganser_Common Merganser,0.11611121,83.0,86.0
+Nannopterum auritum_Double-crested Cormorant,0.106342204,87.0,90.0
+Mergus merganser_Common Merganser,0.8080687,88.0,91.0
+Mergus merganser_Common Merganser,0.7253629,89.0,92.0
+Mergus merganser_Common Merganser,0.55957896,90.0,93.0
+Mergus merganser_Common Merganser,0.15438801,92.0,95.0
+Mergus merganser_Common Merganser,0.60398114,93.0,96.0
+Mergus serrator_Red-breasted Merganser,0.1493462,93.0,96.0
+Mergus merganser_Common Merganser,0.11863136,94.0,97.0
+Mergus serrator_Red-breasted Merganser,0.26085818,95.0,98.0
+Mergus merganser_Common Merganser,0.23326482,95.0,98.0
+Bucephala albeola_Bufflehead,0.18028513,95.0,98.0
+Mergus merganser_Common Merganser,0.24388327,96.0,99.0
+Mergus serrator_Red-breasted Merganser,0.18958612,96.0,99.0
+Mergus merganser_Common Merganser,0.21411145,97.0,100.0
+Mergus merganser_Common Merganser,0.21426703,98.0,101.0
+Mergus merganser_Common Merganser,0.12627271,99.0,102.0
+Bucephala albeola_Bufflehead,0.42911988,102.0,105.0
+Aythya collaris_Ring-necked Duck,0.10164749,102.0,105.0
+Bucephala albeola_Bufflehead,0.2312624,103.0,106.0
+Aythya collaris_Ring-necked Duck,0.1955292,103.0,106.0
+Mergus merganser_Common Merganser,0.1450324,103.0,106.0
+Spatula discors_Blue-winged Teal,0.10916361,103.0,106.0
+Bucephala albeola_Bufflehead,0.4279474,104.0,107.0
+Mergus merganser_Common Merganser,0.3063339,104.0,107.0
+Mergus serrator_Red-breasted Merganser,0.15570953,104.0,107.0
+Tachycineta bicolor_Tree Swallow,0.117533624,104.0,107.0
+Bucephala albeola_Bufflehead,0.10692396,105.0,108.0
+Bucephala albeola_Bufflehead,0.115434706,106.0,109.0
+Mergus merganser_Common Merganser,0.106077224,106.0,109.0
+Mergus serrator_Red-breasted Merganser,0.17195973,110.0,113.0
+Leucophaeus atricilla_Laughing Gull,0.13825502,110.0,113.0
+Larus delawarensis_Ring-billed Gull,0.37201044,111.0,114.0
+Bucephala albeola_Bufflehead,0.17836653,111.0,114.0
+Clangula hyemalis_Long-tailed Duck,0.14715192,111.0,114.0
+Mergus serrator_Red-breasted Merganser,0.10249106,111.0,114.0
+Bucephala albeola_Bufflehead,0.2214199,112.0,115.0
+Corvus ossifragus_Fish Crow,0.15361056,112.0,115.0
+Platalea ajaja_Roseate Spoonbill,0.10680058,112.0,115.0
+Bucephala albeola_Bufflehead,0.20030515,113.0,116.0
+Corvus ossifragus_Fish Crow,0.16975993,113.0,116.0
+Larus delawarensis_Ring-billed Gull,0.15527931,113.0,116.0
+Charadrius vociferus_Killdeer,0.1406948,113.0,116.0
+Mergus merganser_Common Merganser,0.14588869,114.0,117.0
+Bucephala albeola_Bufflehead,0.10822664,114.0,117.0
+Bucephala albeola_Bufflehead,0.111825846,116.0,119.0
+Egretta thula_Snowy Egret,0.116769426,118.0,121.0
+Mergus serrator_Red-breasted Merganser,0.13156092,120.0,123.0
+Mergus serrator_Red-breasted Merganser,0.28230748,121.0,124.0
+Mergus serrator_Red-breasted Merganser,0.5241527,122.0,125.0
+Mergus serrator_Red-breasted Merganser,0.23997356,123.0,126.0
+Mergus merganser_Common Merganser,0.108483754,123.0,126.0
+Bucephala albeola_Bufflehead,0.1273871,124.0,127.0
+Mergus serrator_Red-breasted Merganser,0.15526615,125.0,128.0
+Bucephala albeola_Bufflehead,0.1520498,125.0,128.0
+Bucephala albeola_Bufflehead,0.30403394,126.0,129.0
+Mergus serrator_Red-breasted Merganser,0.26355314,126.0,129.0
+Mergus serrator_Red-breasted Merganser,0.3606311,127.0,130.0
+Bucephala albeola_Bufflehead,0.29462874,127.0,130.0
+Mergus merganser_Common Merganser,0.15924759,127.0,130.0
+Limnodromus griseus_Short-billed Dowitcher,0.10303294,128.0,131.0
+Mergus serrator_Red-breasted Merganser,0.23606715,129.0,132.0
+Bucephala albeola_Bufflehead,0.18892792,129.0,132.0
+Mergus merganser_Common Merganser,0.122132115,129.0,132.0
+Mergus serrator_Red-breasted Merganser,0.14544588,130.0,133.0
+Bucephala albeola_Bufflehead,0.1417865,130.0,133.0
+Mergus merganser_Common Merganser,0.12594233,130.0,133.0
+Mergus merganser_Common Merganser,0.13869782,131.0,134.0
+Bucephala albeola_Bufflehead,0.12053052,131.0,134.0
+Bucephala albeola_Bufflehead,0.15501766,132.0,135.0
+Bucephala albeola_Bufflehead,0.26227552,133.0,136.0
+Bucephala albeola_Bufflehead,0.27548492,134.0,137.0
+Mergus merganser_Common Merganser,0.12914775,134.0,137.0
+Bucephala albeola_Bufflehead,0.15054591,135.0,138.0
+Bucephala albeola_Bufflehead,0.20995393,136.0,139.0
+Mergus merganser_Common Merganser,0.15537319,136.0,139.0
+Bucephala albeola_Bufflehead,0.3402534,137.0,140.0
+Mergus merganser_Common Merganser,0.25412595,137.0,140.0
+Bucephala albeola_Bufflehead,0.1758607,143.0,146.0
+Mergus merganser_Common Merganser,0.12545651,143.0,146.0
+Bucephala albeola_Bufflehead,0.33976394,144.0,147.0
+Mergus merganser_Common Merganser,0.20747223,144.0,147.0
+Bucephala albeola_Bufflehead,0.44130158,145.0,148.0
+Mergus merganser_Common Merganser,0.25098038,145.0,148.0
+Aix sponsa_Wood Duck,0.114745095,145.0,148.0
+Bucephala albeola_Bufflehead,0.18692663,146.0,149.0
+Mergus merganser_Common Merganser,0.119380854,146.0,149.0
+Mergus merganser_Common Merganser,0.77304506,148.0,151.0
+Mergus merganser_Common Merganser,0.9488859,149.0,152.0
+Mergus merganser_Common Merganser,0.9748651,150.0,153.0
+Mergus merganser_Common Merganser,0.9813332,151.0,154.0
+Fulica americana_American Coot,0.18403962,151.0,154.0
+Mergus merganser_Common Merganser,0.9745515,152.0,155.0
+Fulica americana_American Coot,0.15053187,152.0,155.0
+Mergus merganser_Common Merganser,0.92790157,153.0,156.0
+Mergus serrator_Red-breasted Merganser,0.12307451,153.0,156.0
+Mergus merganser_Common Merganser,0.95653236,154.0,157.0
+Mergus serrator_Red-breasted Merganser,0.38374946,154.0,157.0
+Mergus merganser_Common Merganser,0.959646,155.0,158.0
+Mergus merganser_Common Merganser,0.9896861,156.0,159.0
+Mergus merganser_Common Merganser,0.9339791,157.0,160.0
+Mergus merganser_Common Merganser,0.6057182,158.0,161.0
+Mergus serrator_Red-breasted Merganser,0.23568024,158.0,161.0
+Egretta thula_Snowy Egret,0.106392354,158.0,161.0
+Spatula clypeata_Northern Shoveler,0.10522501,158.0,161.0
+Mergus merganser_Common Merganser,0.7205589,159.0,162.0
+Mergus merganser_Common Merganser,0.25313947,161.0,164.0
+Mergus merganser_Common Merganser,0.5021572,162.0,165.0
+Mergus merganser_Common Merganser,0.18934186,163.0,166.0
+Mergus serrator_Red-breasted Merganser,0.17143357,164.0,167.0
+Mergus merganser_Common Merganser,0.13389698,164.0,167.0
+Bucephala albeola_Bufflehead,0.25919285,165.0,168.0
+Mergus serrator_Red-breasted Merganser,0.186641,165.0,168.0
+Mergus merganser_Common Merganser,0.14123861,165.0,168.0
+Bucephala albeola_Bufflehead,0.12624098,166.0,169.0
+Mergus merganser_Common Merganser,0.10876192,166.0,169.0
+Mergus merganser_Common Merganser,0.14523427,167.0,170.0
+Bucephala albeola_Bufflehead,0.14041433,167.0,170.0
+Mergus merganser_Common Merganser,0.67837256,169.0,172.0
+Mergus merganser_Common Merganser,0.8558027,170.0,173.0
+Spatula clypeata_Northern Shoveler,0.28334075,170.0,173.0
+Mergus merganser_Common Merganser,0.9243902,171.0,174.0
+Mergus serrator_Red-breasted Merganser,0.12529963,171.0,174.0
+Limnodromus griseus_Short-billed Dowitcher,0.14405908,172.0,175.0
+Bucephala albeola_Bufflehead,0.13690148,173.0,176.0
+Mergus merganser_Common Merganser,0.25183484,174.0,177.0
+Limnodromus griseus_Short-billed Dowitcher,0.16646317,174.0,177.0
+Mergus merganser_Common Merganser,0.30211282,175.0,178.0
+Chloris chloris_European Greenfinch,0.18374036,175.0,178.0
+Mergus merganser_Common Merganser,0.17925517,176.0,179.0
+Mergus merganser_Common Merganser,0.16780992,177.0,180.0
+Mergus merganser_Common Merganser,0.24802789,178.0,181.0

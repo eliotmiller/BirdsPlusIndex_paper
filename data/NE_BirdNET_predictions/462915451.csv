@@ -1,0 +1,98 @@
+species,score,start_time,end_time
+Tringa semipalmata_Willet,0.9996184,0.0,3.0
+Tringa semipalmata_Willet,0.9995722,1.0,4.0
+Tringa semipalmata_Willet,0.99947554,2.0,5.0
+Tringa semipalmata_Willet,0.99629176,3.0,6.0
+Tringa semipalmata_Willet,0.99966335,4.0,7.0
+Ammospiza maritima_Seaside Sparrow,0.111944035,4.0,7.0
+Tringa semipalmata_Willet,0.9949234,5.0,8.0
+Tringa semipalmata_Willet,0.99866056,6.0,9.0
+Tringa semipalmata_Willet,0.9873061,7.0,10.0
+Tringa semipalmata_Willet,0.9026261,8.0,11.0
+Tringa semipalmata_Willet,0.9863323,9.0,12.0
+Tringa semipalmata_Willet,0.9945432,10.0,13.0
+Tringa semipalmata_Willet,0.9986387,11.0,14.0
+Tringa semipalmata_Willet,0.9981653,12.0,15.0
+Tringa semipalmata_Willet,0.9960179,13.0,16.0
+Tringa semipalmata_Willet,0.9967853,14.0,17.0
+Tringa semipalmata_Willet,0.9992481,15.0,18.0
+Tringa semipalmata_Willet,0.99941194,16.0,19.0
+Tringa semipalmata_Willet,0.99803203,17.0,20.0
+Tringa semipalmata_Willet,0.9991761,18.0,21.0
+Tringa semipalmata_Willet,0.9991672,19.0,22.0
+Tringa semipalmata_Willet,0.9966876,20.0,23.0
+Tringa semipalmata_Willet,0.99944025,21.0,24.0
+Tringa semipalmata_Willet,0.9994399,22.0,25.0
+Tringa semipalmata_Willet,0.9995635,23.0,26.0
+Tringa semipalmata_Willet,0.99836046,24.0,27.0
+Tringa semipalmata_Willet,0.99854976,25.0,28.0
+Tringa semipalmata_Willet,0.9989256,26.0,29.0
+Tringa semipalmata_Willet,0.9987796,27.0,30.0
+Tringa semipalmata_Willet,0.9932192,28.0,31.0
+Tringa semipalmata_Willet,0.99014205,29.0,32.0
+Tringa semipalmata_Willet,0.99757,30.0,33.0
+Tringa semipalmata_Willet,0.9977896,31.0,34.0
+Tringa semipalmata_Willet,0.99896073,32.0,35.0
+Tringa semipalmata_Willet,0.9984256,33.0,36.0
+Tringa semipalmata_Willet,0.99903715,34.0,37.0
+Tringa semipalmata_Willet,0.9586298,35.0,38.0
+Tringa semipalmata_Willet,0.8183357,36.0,39.0
+Vanellus indicus_Red-wattled Lapwing,0.41919348,36.0,39.0
+Sterna hirundinacea_South American Tern,0.12171544,36.0,39.0
+Limosa limosa_Black-tailed Godwit,0.36780447,37.0,40.0
+Tringa semipalmata_Willet,0.19076589,37.0,40.0
+Limosa limosa_Black-tailed Godwit,0.4439052,38.0,41.0
+Tringa semipalmata_Willet,0.30849427,38.0,41.0
+Limosa limosa_Black-tailed Godwit,0.98796624,39.0,42.0
+Limosa limosa_Black-tailed Godwit,0.8109561,40.0,43.0
+Vanellus duvaucelii_River Lapwing,0.33641398,40.0,43.0
+Tringa semipalmata_Willet,0.22515474,41.0,44.0
+Limosa limosa_Black-tailed Godwit,0.14958891,42.0,45.0
+Tringa semipalmata_Willet,0.13561243,42.0,45.0
+Tringa semipalmata_Willet,0.6062004,43.0,46.0
+Tringa semipalmata_Willet,0.7087718,44.0,47.0
+Rhodostethia rosea_Ross's Gull,0.26051727,46.0,49.0
+Leucophaeus atricilla_Laughing Gull,0.78285533,47.0,50.0
+Rhodostethia rosea_Ross's Gull,0.23113166,47.0,50.0
+Leucophaeus atricilla_Laughing Gull,0.9557609,48.0,51.0
+Rhodostethia rosea_Ross's Gull,0.31558523,48.0,51.0
+Leucophaeus atricilla_Laughing Gull,0.8705987,49.0,52.0
+Leucophaeus atricilla_Laughing Gull,0.62769586,50.0,53.0
+Leucophaeus atricilla_Laughing Gull,0.84798133,51.0,54.0
+Ammospiza maritima_Seaside Sparrow,0.11289782,51.0,54.0
+Leucophaeus atricilla_Laughing Gull,0.9602572,52.0,55.0
+Rhodostethia rosea_Ross's Gull,0.17193009,52.0,55.0
+Leucophaeus atricilla_Laughing Gull,0.99090683,53.0,56.0
+Leucophaeus atricilla_Laughing Gull,0.8324638,54.0,57.0
+Rhodostethia rosea_Ross's Gull,0.36437407,54.0,57.0
+Leucophaeus atricilla_Laughing Gull,0.928148,55.0,58.0
+Rhodostethia rosea_Ross's Gull,0.18169439,55.0,58.0
+Leucophaeus atricilla_Laughing Gull,0.9016123,56.0,59.0
+Rhodostethia rosea_Ross's Gull,0.25490424,56.0,59.0
+Leucophaeus atricilla_Laughing Gull,0.7985083,57.0,60.0
+Rhodostethia rosea_Ross's Gull,0.13470443,57.0,60.0
+Leucophaeus atricilla_Laughing Gull,0.7186028,58.0,61.0
+Rhodostethia rosea_Ross's Gull,0.12194378,58.0,61.0
+Leucophaeus atricilla_Laughing Gull,0.86793876,59.0,62.0
+Larus delawarensis_Ring-billed Gull,0.26248652,59.0,62.0
+Leucophaeus atricilla_Laughing Gull,0.5933434,60.0,63.0
+Larus delawarensis_Ring-billed Gull,0.28753465,60.0,63.0
+Leucophaeus atricilla_Laughing Gull,0.75990796,61.0,64.0
+Larus delawarensis_Ring-billed Gull,0.12196221,61.0,64.0
+Leucophaeus atricilla_Laughing Gull,0.85931367,62.0,65.0
+Larus delawarensis_Ring-billed Gull,0.1384129,62.0,65.0
+Leucophaeus atricilla_Laughing Gull,0.6963125,63.0,66.0
+Leucophaeus atricilla_Laughing Gull,0.3795742,64.0,67.0
+Rhodostethia rosea_Ross's Gull,0.13657632,64.0,67.0
+Stercorarius longicaudus_Long-tailed Jaeger,0.18187372,66.0,69.0
+Chroicocephalus serranus_Andean Gull,0.12108164,66.0,69.0
+Tringa semipalmata_Willet,0.904557,67.0,70.0
+Tringa semipalmata_Willet,0.97088975,68.0,71.0
+Sterna hirundinacea_South American Tern,0.11218848,68.0,71.0
+Tringa semipalmata_Willet,0.73658997,69.0,72.0
+Sterna hirundinacea_South American Tern,0.37118235,69.0,72.0
+Tringa semipalmata_Willet,0.5052957,70.0,73.0
+Sterna hirundinacea_South American Tern,0.12928212,70.0,73.0
+Tringa semipalmata_Willet,0.7862264,71.0,74.0
+Tringa semipalmata_Willet,0.85017633,72.0,74.25600907029478
+Sterna hirundinacea_South American Tern,0.16765441,72.0,74.25600907029478

@@ -1,0 +1,85 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.14138782,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.11898669,5.0,8.0
+Parus major_Great Tit,0.11399159,5.0,8.0
+Passerina caerulea_Blue Grosbeak,0.887609,6.0,9.0
+Passerina caerulea_Blue Grosbeak,0.95832413,7.0,10.0
+Passerina caerulea_Blue Grosbeak,0.6706718,8.0,11.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1682477,12.0,15.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.36679178,13.0,16.0
+Larvivora brunnea_Indian Blue Robin,0.14580248,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.10267038,16.0,19.0
+Passerina caerulea_Blue Grosbeak,0.96549594,17.0,20.0
+Passerina caerulea_Blue Grosbeak,0.98761624,18.0,21.0
+Passerina caerulea_Blue Grosbeak,0.97056466,19.0,22.0
+Passerina caerulea_Blue Grosbeak,0.49746394,20.0,23.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11914635,21.0,24.0
+Ixobrychus exilis_Least Bittern,0.18134642,22.0,25.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2777238,23.0,26.0
+Ixobrychus exilis_Least Bittern,0.2871647,24.0,27.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16211875,24.0,27.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11693299,25.0,28.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13151537,26.0,29.0
+Colinus virginianus_Northern Bobwhite,0.11706429,26.0,29.0
+Passerina caerulea_Blue Grosbeak,0.83566606,28.0,31.0
+Passerina caerulea_Blue Grosbeak,0.9799048,29.0,32.0
+Passerina caerulea_Blue Grosbeak,0.99226576,30.0,33.0
+Passerina caerulea_Blue Grosbeak,0.49282843,31.0,34.0
+Vireo bellii_Bell's Vireo,0.13966207,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.1247775,32.0,35.0
+Chordeiles minor_Common Nighthawk,0.33377668,34.0,37.0
+Piranga rubra_Summer Tanager,0.11468611,34.0,37.0
+Ammospiza maritima_Seaside Sparrow,0.15373063,35.0,38.0
+Empidonax traillii_Willow Flycatcher,0.12595908,35.0,38.0
+Colinus virginianus_Northern Bobwhite,0.10840653,35.0,38.0
+Ammospiza maritima_Seaside Sparrow,0.29234612,36.0,39.0
+Empidonax traillii_Willow Flycatcher,0.10579137,36.0,39.0
+Passerina caerulea_Blue Grosbeak,0.8666583,39.0,42.0
+Passerina caerulea_Blue Grosbeak,0.9841038,40.0,43.0
+Passerina caerulea_Blue Grosbeak,0.9889226,41.0,44.0
+Passerina caerulea_Blue Grosbeak,0.9802971,42.0,45.0
+Contopus cooperi_Olive-sided Flycatcher,0.17222428,43.0,46.0
+Melospiza melodia_Song Sparrow,0.16103886,44.0,47.0
+Myiothlypis leucoblephara_White-browed Warbler,0.2441278,45.0,48.0
+Colinus virginianus_Northern Bobwhite,0.17022097,46.0,49.0
+Colinus virginianus_Northern Bobwhite,0.1823964,47.0,50.0
+Colinus virginianus_Northern Bobwhite,0.119018115,48.0,51.0
+Laterallus jamaicensis_Black Rail,0.10119592,49.0,52.0
+Colinus virginianus_Northern Bobwhite,0.22500077,50.0,53.0
+Empidonax traillii_Willow Flycatcher,0.10992092,50.0,53.0
+Poecile carolinensis_Carolina Chickadee,0.26004055,51.0,54.0
+Passerina caerulea_Blue Grosbeak,0.8968587,52.0,55.0
+Passerina caerulea_Blue Grosbeak,0.99317884,53.0,56.0
+Haemorhous purpureus_Purple Finch,0.19484983,53.0,56.0
+Passerina caerulea_Blue Grosbeak,0.98480844,54.0,57.0
+Passerina caerulea_Blue Grosbeak,0.6712747,55.0,58.0
+Haemorhous purpureus_Purple Finch,0.1952603,55.0,58.0
+Setophaga discolor_Prairie Warbler,0.12318227,56.0,59.0
+Setophaga dominica_Yellow-throated Warbler,0.11515475,59.0,62.0
+Melospiza melodia_Song Sparrow,0.21407776,63.0,66.0
+Vireo gilvus_Warbling Vireo,0.9479138,64.0,67.0
+Passerina caerulea_Blue Grosbeak,0.5532572,64.0,67.0
+Passerina caerulea_Blue Grosbeak,0.9534855,65.0,68.0
+Vireo gilvus_Warbling Vireo,0.19628231,65.0,68.0
+Passerina caerulea_Blue Grosbeak,0.947814,66.0,69.0
+Vireo gilvus_Warbling Vireo,0.25930429,66.0,69.0
+Passerina caerulea_Blue Grosbeak,0.97033197,67.0,70.0
+Colinus virginianus_Northern Bobwhite,0.15461846,68.0,71.0
+Colinus virginianus_Northern Bobwhite,0.10469108,72.0,75.0
+Melospiza melodia_Song Sparrow,0.28220654,73.0,76.0
+Melospiza melodia_Song Sparrow,0.2614217,74.0,77.0
+Melospiza melodia_Song Sparrow,0.6495008,75.0,78.0
+Melospiza melodia_Song Sparrow,0.124961615,76.0,79.0
+Passerina caerulea_Blue Grosbeak,0.9121682,77.0,80.0
+Passerina caerulea_Blue Grosbeak,0.98288375,78.0,81.0
+Vireo gilvus_Warbling Vireo,0.15781608,78.0,81.0
+Passerina caerulea_Blue Grosbeak,0.9952376,79.0,82.0
+Passerina caerulea_Blue Grosbeak,0.8195487,80.0,83.0
+Larvivora brunnea_Indian Blue Robin,0.47593665,86.0,89.0
+Passerina caerulea_Blue Grosbeak,0.9587007,87.0,90.0
+Haemorhous purpureus_Purple Finch,0.112712175,87.0,90.0
+Passerina caerulea_Blue Grosbeak,0.897994,88.0,91.0
+Larvivora brunnea_Indian Blue Robin,0.26915172,88.0,91.0
+Passerina caerulea_Blue Grosbeak,0.9511646,89.0,92.0
+Passerina caerulea_Blue Grosbeak,0.32083344,90.0,93.0
+Geothlypis aequinoctialis_Masked Yellowthroat,0.112906925,90.0,93.0
