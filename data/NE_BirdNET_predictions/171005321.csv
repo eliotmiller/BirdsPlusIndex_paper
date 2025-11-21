@@ -1,0 +1,139 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.5639967,0.0,3.0
+Pandion haliaetus_Osprey,0.98680717,1.0,4.0
+Pandion haliaetus_Osprey,0.9997137,2.0,5.0
+Pandion haliaetus_Osprey,0.9998474,3.0,6.0
+Pandion haliaetus_Osprey,0.998971,4.0,7.0
+Pandion haliaetus_Osprey,0.998302,5.0,8.0
+Pandion haliaetus_Osprey,0.97768956,6.0,9.0
+Pandion haliaetus_Osprey,0.29368207,7.0,10.0
+Contopus virens_Eastern Wood-Pewee,0.9660826,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.99076605,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.9825782,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.4913911,12.0,15.0
+Poecile carolinensis_Carolina Chickadee,0.19044748,12.0,15.0
+Pandion haliaetus_Osprey,0.8873717,14.0,17.0
+Pandion haliaetus_Osprey,0.99855345,15.0,18.0
+Pandion haliaetus_Osprey,0.9997676,16.0,19.0
+Pandion haliaetus_Osprey,0.9999846,17.0,20.0
+Pandion haliaetus_Osprey,0.99985754,18.0,21.0
+Pandion haliaetus_Osprey,0.99981743,19.0,22.0
+Pandion haliaetus_Osprey,0.9972293,20.0,23.0
+Pandion haliaetus_Osprey,0.99958795,21.0,24.0
+Pandion haliaetus_Osprey,0.9996326,22.0,25.0
+Pandion haliaetus_Osprey,0.9991716,23.0,26.0
+Pandion haliaetus_Osprey,0.9968362,24.0,27.0
+Pandion haliaetus_Osprey,0.9987257,25.0,28.0
+Pandion haliaetus_Osprey,0.99724954,26.0,29.0
+Pandion haliaetus_Osprey,0.9902968,27.0,30.0
+Pandion haliaetus_Osprey,0.9474219,28.0,31.0
+Pandion haliaetus_Osprey,0.8352861,29.0,32.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.18738054,30.0,33.0
+Pandion haliaetus_Osprey,0.15337646,30.0,33.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14158718,31.0,34.0
+Pandion haliaetus_Osprey,0.32559344,32.0,35.0
+Icterus bullockii_Bullock's Oriole,0.13238162,32.0,35.0
+Pandion haliaetus_Osprey,0.34025493,33.0,36.0
+Icterus bullockii_Bullock's Oriole,0.1808497,33.0,36.0
+Icterus spurius_Orchard Oriole,0.14448379,33.0,36.0
+Pandion haliaetus_Osprey,0.24920781,34.0,37.0
+Icteria virens_Yellow-breasted Chat,0.13435479,34.0,37.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.12205375,34.0,37.0
+Icterus spurius_Orchard Oriole,0.11076839,35.0,38.0
+Pandion haliaetus_Osprey,0.927572,36.0,39.0
+Tringa melanoleuca_Greater Yellowlegs,0.111402825,36.0,39.0
+Pandion haliaetus_Osprey,0.9919104,37.0,40.0
+Pandion haliaetus_Osprey,0.9996598,38.0,41.0
+Pandion haliaetus_Osprey,0.999902,39.0,42.0
+Pandion haliaetus_Osprey,0.9979481,40.0,43.0
+Pandion haliaetus_Osprey,0.9986206,41.0,44.0
+Pandion haliaetus_Osprey,0.9935161,42.0,45.0
+Pandion haliaetus_Osprey,0.9932991,43.0,46.0
+Pandion haliaetus_Osprey,0.9965419,44.0,47.0
+Pandion haliaetus_Osprey,0.9713992,45.0,48.0
+Elanoides forficatus_Swallow-tailed Kite,0.12679495,45.0,48.0
+Pandion haliaetus_Osprey,0.9199414,46.0,49.0
+Elanoides forficatus_Swallow-tailed Kite,0.21773286,46.0,49.0
+Pandion haliaetus_Osprey,0.9080463,47.0,50.0
+Tringa semipalmata_Willet,0.10178245,47.0,50.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.16160308,48.0,51.0
+Pandion haliaetus_Osprey,0.29616025,53.0,56.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.28559083,54.0,57.0
+Pandion haliaetus_Osprey,0.1265631,54.0,57.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.3539113,55.0,58.0
+Elanoides forficatus_Swallow-tailed Kite,0.19243927,55.0,58.0
+Pandion haliaetus_Osprey,0.17682952,55.0,58.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.35996178,56.0,59.0
+Pandion haliaetus_Osprey,0.18016227,56.0,59.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.28392455,57.0,60.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1421765,65.0,68.0
+Pandion haliaetus_Osprey,0.9827775,66.0,69.0
+Pandion haliaetus_Osprey,0.99687,67.0,70.0
+Pandion haliaetus_Osprey,0.9991905,68.0,71.0
+Elanoides forficatus_Swallow-tailed Kite,0.14251892,68.0,71.0
+Pandion haliaetus_Osprey,0.9972427,69.0,72.0
+Pandion haliaetus_Osprey,0.8201478,70.0,73.0
+Elanoides forficatus_Swallow-tailed Kite,0.22406924,70.0,73.0
+Buteogallus anthracinus_Common Black Hawk,0.14437085,70.0,73.0
+Passerina ciris_Painted Bunting,0.10896662,71.0,74.0
+Peucaea aestivalis_Bachman's Sparrow,0.10804197,71.0,74.0
+Zenaida macroura_Mourning Dove,0.2547378,79.0,82.0
+Claravis pretiosa_Blue Ground Dove,0.12480994,80.0,83.0
+Trachyphonus purpuratus_Yellow-billed Barbet,0.119764194,80.0,83.0
+Claravis pretiosa_Blue Ground Dove,0.26027378,81.0,84.0
+Trachyphonus purpuratus_Yellow-billed Barbet,0.25620195,81.0,84.0
+Tringa melanoleuca_Greater Yellowlegs,0.5986946,83.0,86.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.28151459,83.0,86.0
+Pandion haliaetus_Osprey,0.9924274,84.0,87.0
+Pandion haliaetus_Osprey,0.9984074,85.0,88.0
+Pandion haliaetus_Osprey,0.9997787,86.0,89.0
+Pandion haliaetus_Osprey,0.99933213,87.0,90.0
+Pandion haliaetus_Osprey,0.9974141,88.0,91.0
+Pandion haliaetus_Osprey,0.99442697,89.0,92.0
+Pandion haliaetus_Osprey,0.9662063,90.0,93.0
+Pandion haliaetus_Osprey,0.7763892,91.0,94.0
+Elanoides forficatus_Swallow-tailed Kite,0.36448509,91.0,94.0
+Haliaeetus leucocephalus_Bald Eagle,0.14295217,91.0,94.0
+Buteo jamaicensis_Red-tailed Hawk,0.10002308,91.0,94.0
+Pandion haliaetus_Osprey,0.9725681,95.0,98.0
+Pandion haliaetus_Osprey,0.999503,96.0,99.0
+Pandion haliaetus_Osprey,0.9998258,97.0,100.0
+Pandion haliaetus_Osprey,0.9992938,98.0,101.0
+Pandion haliaetus_Osprey,0.999471,99.0,102.0
+Pandion haliaetus_Osprey,0.9971998,100.0,103.0
+Pandion haliaetus_Osprey,0.65983874,101.0,104.0
+Buteo jamaicensis_Red-tailed Hawk,0.23387772,101.0,104.0
+Tringa melanoleuca_Greater Yellowlegs,0.5197171,102.0,105.0
+Pandion haliaetus_Osprey,0.36868158,102.0,105.0
+Pandion haliaetus_Osprey,0.99851817,103.0,106.0
+Pandion haliaetus_Osprey,0.9980933,104.0,107.0
+Pandion haliaetus_Osprey,0.9973097,105.0,108.0
+Pandion haliaetus_Osprey,0.9930896,106.0,109.0
+Pandion haliaetus_Osprey,0.9824368,107.0,110.0
+Pandion haliaetus_Osprey,0.959773,108.0,111.0
+Pandion haliaetus_Osprey,0.84547025,109.0,112.0
+Elanoides forficatus_Swallow-tailed Kite,0.1558172,109.0,112.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10341517,110.0,113.0
+Cistothorus palustris_Marsh Wren,0.10989773,111.0,114.0
+Dryobates borealis_Red-cockaded Woodpecker,0.10345749,113.0,116.0
+Cistothorus palustris_Marsh Wren,0.12152911,116.0,119.0
+Peucaea aestivalis_Bachman's Sparrow,0.15304014,117.0,120.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.25766084,119.0,122.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.31902462,120.0,123.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.36491865,121.0,124.0
+Limnothlypis swainsonii_Swainson's Warbler,0.26553437,127.0,130.0
+Setophaga dominica_Yellow-throated Warbler,0.1327118,127.0,130.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10354401,127.0,130.0
+Tringa melanoleuca_Greater Yellowlegs,0.7250826,132.0,135.0
+Pandion haliaetus_Osprey,0.15482011,132.0,135.0
+Pandion haliaetus_Osprey,0.98458594,133.0,136.0
+Pandion haliaetus_Osprey,0.9995122,134.0,137.0
+Pandion haliaetus_Osprey,0.9994386,135.0,138.0
+Pandion haliaetus_Osprey,0.9988457,136.0,139.0
+Pandion haliaetus_Osprey,0.9806769,137.0,140.0
+Pandion haliaetus_Osprey,0.66582966,138.0,141.0
+Elanoides forficatus_Swallow-tailed Kite,0.3246826,138.0,141.0
+Contopus virens_Eastern Wood-Pewee,0.11536446,139.0,142.0
+Vireolanius pulchellus_Green Shrike-Vireo,0.116106845,143.0,146.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10877762,144.0,147.0
+Mionectes olivaceus_Olive-striped Flycatcher,0.16290383,145.0,148.0

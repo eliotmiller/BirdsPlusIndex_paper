@@ -1,0 +1,56 @@
+species,score,start_time,end_time
+Larus argentatus_Herring Gull,0.6373396,0.0,3.0
+Larus dominicanus_Kelp Gull,0.12771218,0.0,3.0
+Larus argentatus_Herring Gull,0.2749789,1.0,4.0
+Larus argentatus_Herring Gull,0.16780123,2.0,5.0
+Larus delawarensis_Ring-billed Gull,0.22841227,3.0,6.0
+Larus argentatus_Herring Gull,0.23509724,4.0,7.0
+Larus glaucescens_Glaucous-winged Gull,0.13025421,4.0,7.0
+Larus dominicanus_Kelp Gull,0.10485198,4.0,7.0
+Larus delawarensis_Ring-billed Gull,0.104814574,4.0,7.0
+Larus argentatus_Herring Gull,0.15166846,5.0,8.0
+Larus argentatus_Herring Gull,0.53574634,6.0,9.0
+Larus glaucescens_Glaucous-winged Gull,0.16453913,6.0,9.0
+Larus dominicanus_Kelp Gull,0.16061062,6.0,9.0
+Larus argentatus_Herring Gull,0.56750584,7.0,10.0
+Larus dominicanus_Kelp Gull,0.19420657,7.0,10.0
+Larus fuscus_Lesser Black-backed Gull,0.17084306,7.0,10.0
+Larus argentatus_Herring Gull,0.32676694,8.0,11.0
+Larus argentatus_Herring Gull,0.6135729,9.0,12.0
+Larus glaucescens_Glaucous-winged Gull,0.17495577,9.0,12.0
+Larus fuscus_Lesser Black-backed Gull,0.1257624,9.0,12.0
+Larus argentatus_Herring Gull,0.528929,10.0,13.0
+Larus dominicanus_Kelp Gull,0.18978518,10.0,13.0
+Larus fuscus_Lesser Black-backed Gull,0.17770782,10.0,13.0
+Larus argentatus_Herring Gull,0.32091966,11.0,14.0
+Larus fuscus_Lesser Black-backed Gull,0.12042109,11.0,14.0
+Larus argentatus_Herring Gull,0.22540933,12.0,15.0
+Larus fuscus_Lesser Black-backed Gull,0.21325159,12.0,15.0
+Larus delawarensis_Ring-billed Gull,0.14675894,12.0,15.0
+Larus argentatus_Herring Gull,0.19319324,13.0,16.0
+Larus delawarensis_Ring-billed Gull,0.11356556,13.0,16.0
+Leucophaeus atricilla_Laughing Gull,0.43390024,15.0,18.0
+Leucophaeus atricilla_Laughing Gull,0.87003744,16.0,19.0
+Leucophaeus atricilla_Laughing Gull,0.9859264,17.0,20.0
+Larus belcheri_Belcher's Gull,0.11059077,17.0,20.0
+Leucophaeus atricilla_Laughing Gull,0.94199926,18.0,21.0
+Larus delawarensis_Ring-billed Gull,0.38685545,18.0,21.0
+Larus delawarensis_Ring-billed Gull,0.24364983,19.0,22.0
+Leucophaeus atricilla_Laughing Gull,0.12293678,19.0,22.0
+Larus fuscus_Lesser Black-backed Gull,0.11211954,19.0,22.0
+Larus argentatus_Herring Gull,0.25038993,20.0,23.0
+Larus fuscus_Lesser Black-backed Gull,0.17544425,20.0,23.0
+Larus dominicanus_Kelp Gull,0.13984786,20.0,23.0
+Larus argentatus_Herring Gull,0.3024445,21.0,24.0
+Larus delawarensis_Ring-billed Gull,0.27545983,21.0,24.0
+Leucophaeus atricilla_Laughing Gull,0.12044535,21.0,24.0
+Larus delawarensis_Ring-billed Gull,0.24022046,22.0,25.0
+Larus argentatus_Herring Gull,0.13942946,22.0,25.0
+Larus argentatus_Herring Gull,0.271266,23.0,26.0
+Larus dominicanus_Kelp Gull,0.10700503,23.0,26.0
+Larus argentatus_Herring Gull,0.43827152,24.0,27.0
+Larus dominicanus_Kelp Gull,0.12739082,24.0,27.0
+Larus argentatus_Herring Gull,0.35941836,25.0,28.0
+Larus fuscus_Lesser Black-backed Gull,0.1188607,25.0,28.0
+Larus argentatus_Herring Gull,0.37645796,26.0,28.944036281179137
+Larus glaucescens_Glaucous-winged Gull,0.12918258,26.0,28.944036281179137

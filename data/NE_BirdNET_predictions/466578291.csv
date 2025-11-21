@@ -1,0 +1,32 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.1802117,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.13841826,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.29652882,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.22831303,3.0,6.0
+Regulus satrapa_Golden-crowned Kinglet,0.11115685,3.0,6.0
+Bombycilla cedrorum_Cedar Waxwing,0.18035902,4.0,7.0
+Regulus satrapa_Golden-crowned Kinglet,0.59466004,8.0,11.0
+Regulus regulus_Goldcrest,0.13665219,8.0,11.0
+Bombycilla cedrorum_Cedar Waxwing,0.32491094,9.0,12.0
+Bombycilla cedrorum_Cedar Waxwing,0.115488715,10.0,13.0
+Leucosticte tephrocotis_Gray-crowned Rosy-Finch,0.108065255,10.0,13.0
+Bombycilla cedrorum_Cedar Waxwing,0.12470375,12.0,15.0
+Bombycilla cedrorum_Cedar Waxwing,0.28968728,15.0,18.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.13985068,16.0,19.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.27331102,17.0,20.0
+Buteo lineatus_Red-shouldered Hawk,0.40127045,18.0,21.0
+Buteo lineatus_Red-shouldered Hawk,0.9667154,19.0,22.0
+Buteo buteo_Common Buzzard,0.20777117,19.0,22.0
+Buteo lineatus_Red-shouldered Hawk,0.994862,20.0,23.0
+Sialia sialis_Eastern Bluebird,0.10542854,21.0,24.0
+Buteo lineatus_Red-shouldered Hawk,0.100192554,21.0,24.0
+Buteo lineatus_Red-shouldered Hawk,0.81282026,23.0,26.0
+Sialia sialis_Eastern Bluebird,0.52439016,23.0,26.0
+Buteo lineatus_Red-shouldered Hawk,0.7665054,24.0,27.0
+Buteo lineatus_Red-shouldered Hawk,0.46753812,25.0,28.0
+Buteo lineatus_Red-shouldered Hawk,0.8118366,26.0,29.0
+Buteo lineatus_Red-shouldered Hawk,0.20754974,28.0,31.0
+Pandion haliaetus_Osprey,0.13641703,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.23543513,32.0,35.0
+Bombycilla cedrorum_Cedar Waxwing,0.423279,33.0,35.23201814058957
+Peucaea aestivalis_Bachman's Sparrow,0.16515742,33.0,35.23201814058957

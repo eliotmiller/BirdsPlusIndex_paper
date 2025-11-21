@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.9839244,0.0,3.0
+Pandion haliaetus_Osprey,0.994338,1.0,4.0
+Pandion haliaetus_Osprey,0.9977265,2.0,5.0
+Pandion haliaetus_Osprey,0.9910396,3.0,6.0
+Pandion haliaetus_Osprey,0.9853276,4.0,7.0
+Numenius phaeopus_Whimbrel,0.14602096,5.0,8.0
+Pandion haliaetus_Osprey,0.99539703,7.0,10.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.37209904,7.0,10.0
+Pandion haliaetus_Osprey,0.9992367,8.0,11.0
+Pandion haliaetus_Osprey,0.9964748,9.0,12.0
+Pandion haliaetus_Osprey,0.9957482,10.0,13.0
+Pandion haliaetus_Osprey,0.9987357,11.0,14.0
+Pandion haliaetus_Osprey,0.8601078,12.0,15.0
+Numenius phaeopus_Whimbrel,0.20360683,12.0,15.0
+Haliaeetus leucocephalus_Bald Eagle,0.14184844,12.0,15.0
+Chordeiles minor_Common Nighthawk,0.12741493,16.0,19.0
+Chordeiles minor_Common Nighthawk,0.12441784,17.0,20.0
+Chordeiles minor_Common Nighthawk,0.14946157,18.0,21.0
+Engine_Engine,0.121221945,19.0,22.0
+Engine_Engine,0.26364827,20.0,23.0
+Engine_Engine,0.1829688,21.0,24.0
+Engine_Engine,0.5304083,22.0,25.0
+Engine_Engine,0.17692095,23.0,26.0
+Engine_Engine,0.11237687,24.0,27.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.54951924,29.0,32.0
+Pandion haliaetus_Osprey,0.53744304,29.0,32.0
+Pandion haliaetus_Osprey,0.98901737,30.0,33.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.50973576,30.0,33.0
+Pandion haliaetus_Osprey,0.9885083,31.0,34.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.60245633,31.0,34.0
+Pandion haliaetus_Osprey,0.99723214,32.0,35.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.19679411,32.0,35.0
+Pandion haliaetus_Osprey,0.9982595,33.0,36.0
+Pandion haliaetus_Osprey,0.9955759,34.0,37.0
+Pandion haliaetus_Osprey,0.9967282,35.0,38.0
+Pandion haliaetus_Osprey,0.9991398,36.0,39.0
+Pandion haliaetus_Osprey,0.9986884,37.0,40.0
+Pandion haliaetus_Osprey,0.9967115,38.0,41.0
+Pandion haliaetus_Osprey,0.9953454,39.0,42.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.14506726,39.0,42.0
+Pandion haliaetus_Osprey,0.34233594,40.0,43.0
+Numenius phaeopus_Whimbrel,0.15602942,40.0,43.0
+Turdus pilaris_Fieldfare,0.12428224,41.0,44.0
+Chordeiles minor_Common Nighthawk,0.30185872,43.0,46.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16948108,43.0,46.0
+Spinus psaltria_Lesser Goldfinch,0.15555896,45.0,48.0
+Passer domesticus_House Sparrow,0.28139666,47.0,50.0
+Delichon urbicum_Common House-Martin,0.1112637,49.0,52.0
+Chordeiles minor_Common Nighthawk,0.39569107,51.0,54.0
+Spinus psaltria_Lesser Goldfinch,0.23482619,55.0,58.0
+Spinus psaltria_Lesser Goldfinch,0.19220923,59.0,62.0
+Spinus psaltria_Lesser Goldfinch,0.1708757,60.0,63.0
+Pandion haliaetus_Osprey,0.84670794,62.0,65.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.41037193,62.0,65.0
+Pandion haliaetus_Osprey,0.8779729,63.0,66.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.2421273,63.0,66.0
+Pandion haliaetus_Osprey,0.95550317,64.0,67.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.29127824,64.0,67.0
+Pandion haliaetus_Osprey,0.9764742,65.0,68.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.18254364,65.0,68.0
+Pandion haliaetus_Osprey,0.9891404,66.0,69.0
+Turdus pilaris_Fieldfare,0.23693849,69.0,72.0
+Pandion haliaetus_Osprey,0.98617727,71.0,74.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.14291877,71.0,74.0
+Pandion haliaetus_Osprey,0.97642833,72.0,75.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.11636232,72.0,75.0
+Pandion haliaetus_Osprey,0.9660156,73.0,76.0
+Pandion haliaetus_Osprey,0.9600987,74.0,77.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.44107157,74.0,77.0
+Pandion haliaetus_Osprey,0.975161,75.0,78.0
+Turdus pilaris_Fieldfare,0.7970703,76.0,79.0
+Pandion haliaetus_Osprey,0.81270415,98.0,101.0
+Pandion haliaetus_Osprey,0.98912024,99.0,102.0
+Pandion haliaetus_Osprey,0.98809737,100.0,103.0
+Pandion haliaetus_Osprey,0.99309134,101.0,104.0
+Pandion haliaetus_Osprey,0.96215105,102.0,105.0
+Pandion haliaetus_Osprey,0.9783625,103.0,106.0
+Pandion haliaetus_Osprey,0.74857163,104.0,107.0
+Melanopareia maximiliani_Olive-crowned Crescentchest,0.33410606,104.0,107.0
+Chordeiles minor_Common Nighthawk,0.37150908,106.0,109.0
+Chordeiles minor_Common Nighthawk,0.18735209,107.0,109.63201814058957

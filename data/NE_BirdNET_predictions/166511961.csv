@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Catharus ustulatus_Swainson's Thrush,0.41748407,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.24892047,0.0,3.0
+Setophaga citrina_Hooded Warbler,0.14851442,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.11317826,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.1664088,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.12642883,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12589999,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.76998013,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.76382655,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.2774157,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.19891973,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.15386252,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.10303624,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.7097118,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.6745692,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.3718894,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.19505814,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.1625881,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.14273712,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.11430258,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.7928083,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.7070174,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.47320813,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.13617827,5.0,8.0
+Molothrus ater_Brown-headed Cowbird,0.1198119,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.10766575,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.39312172,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.32189715,6.0,9.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1404055,6.0,9.0
+Catharus ustulatus_Swainson's Thrush,0.8689766,7.0,10.0
+Catharus ustulatus_Swainson's Thrush,0.8850606,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.65413135,8.0,11.0
+Catharus ustulatus_Swainson's Thrush,0.8832438,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.5863243,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.43891442,10.0,13.0
+Catharus ustulatus_Swainson's Thrush,0.35873047,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.76100993,11.0,14.0
+Pipilo erythrophthalmus_Eastern Towhee,0.57456386,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.2622119,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.1341753,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.88260835,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.42726082,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.15101182,12.0,15.0
+Setophaga citrina_Hooded Warbler,0.12603936,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.11830855,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.96860784,13.0,16.0
+Pipilo erythrophthalmus_Eastern Towhee,0.740666,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.23633078,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.140788,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.9383048,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.28577462,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.16066296,14.0,17.0
+Pipilo erythrophthalmus_Eastern Towhee,0.6748758,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.3856016,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.25528136,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.2163099,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.11860104,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.114985,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.78211945,16.0,19.0
+Pipilo erythrophthalmus_Eastern Towhee,0.57741845,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.103428364,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.63649035,17.0,20.0
+Catharus ustulatus_Swainson's Thrush,0.21802755,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.15067141,17.0,20.0
+Catharus guttatus_Hermit Thrush,0.12572187,17.0,20.0
+Catharus ustulatus_Swainson's Thrush,0.6158161,18.0,21.0
+Catharus guttatus_Hermit Thrush,0.5272234,18.0,21.0
+Catharus ustulatus_Swainson's Thrush,0.70066804,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.62817705,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.55151534,20.0,22.728027210884353
+Catharus ustulatus_Swainson's Thrush,0.52332586,20.0,22.728027210884353

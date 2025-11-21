@@ -1,0 +1,62 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.9386143,0.0,3.0
+Catharus fuscescens_Veery,0.8541951,1.0,4.0
+Catharus fuscescens_Veery,0.80115706,2.0,5.0
+Sitta carolinensis_White-breasted Nuthatch,0.70536464,4.0,7.0
+Sitta carolinensis_White-breasted Nuthatch,0.5036082,5.0,8.0
+Catharus fuscescens_Veery,0.43026957,5.0,8.0
+Catharus fuscescens_Veery,0.16954055,6.0,9.0
+Sitta carolinensis_White-breasted Nuthatch,0.11514002,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.66526645,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.84936917,8.0,11.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2806503,8.0,11.0
+Setophaga citrina_Hooded Warbler,0.8927713,9.0,12.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1063675,9.0,12.0
+Palmeria dolei_Akohekohe,0.290243,12.0,15.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13515386,12.0,15.0
+Catharus fuscescens_Veery,0.7624469,14.0,17.0
+Monarcha melanopsis_Black-faced Monarch,0.13321176,14.0,17.0
+Catharus fuscescens_Veery,0.52792287,15.0,18.0
+Catharus fuscescens_Veery,0.9460677,16.0,19.0
+Chiroxiphia boliviana_Yungas Manakin,0.12248412,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.8987006,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.90431726,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.91639864,22.0,25.0
+Catharus fuscescens_Veery,0.76530075,24.0,27.0
+Catharus fuscescens_Veery,0.62576306,25.0,28.0
+Catharus fuscescens_Veery,0.85029894,26.0,29.0
+Pachysylvia hypoxantha_Dusky-capped Greenlet,0.24743487,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.9562298,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.92637336,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.87755966,32.0,35.0
+Catharus fuscescens_Veery,0.13423938,32.0,35.0
+Catharus fuscescens_Veery,0.6494889,33.0,36.0
+Catharus fuscescens_Veery,0.8473933,35.0,38.0
+Catharus fuscescens_Veery,0.7938195,36.0,39.0
+Catharus fuscescens_Veery,0.7997685,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14298442,38.0,41.0
+Pipilo erythrophthalmus_Eastern Towhee,0.30076787,39.0,42.0
+Catharus fuscescens_Veery,0.60246557,40.0,43.0
+Catharus fuscescens_Veery,0.97078663,41.0,44.0
+Catharus fuscescens_Veery,0.8444925,42.0,45.0
+Sitta carolinensis_White-breasted Nuthatch,0.20694055,43.0,46.0
+Sitta carolinensis_White-breasted Nuthatch,0.36407107,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.818676,45.0,48.0
+Catharus fuscescens_Veery,0.3351231,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.65835094,46.0,49.0
+Catharus fuscescens_Veery,0.51623595,46.0,49.0
+Sitta carolinensis_White-breasted Nuthatch,0.15265548,46.0,49.0
+Setophaga citrina_Hooded Warbler,0.7971137,47.0,50.0
+Catharus fuscescens_Veery,0.6421248,47.0,50.0
+Catharus fuscescens_Veery,0.5863243,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.29258323,48.0,51.0
+Catharus fuscescens_Veery,0.88066673,49.0,52.0
+Catharus fuscescens_Veery,0.37356928,50.0,53.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11008185,50.0,53.0
+Catharus fuscescens_Veery,0.29139012,51.0,54.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10010169,59.0,62.0
+Setophaga citrina_Hooded Warbler,0.89150167,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.9636262,61.0,64.0
+Setophaga citrina_Hooded Warbler,0.9176823,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.79948837,63.0,66.0
+Setophaga citrina_Hooded Warbler,0.15044236,63.0,66.0

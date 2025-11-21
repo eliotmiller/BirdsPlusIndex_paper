@@ -1,0 +1,27 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.10182908,0.0,3.0
+Setophaga dominica_Yellow-throated Warbler,0.11136145,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10398172,1.0,4.0
+Icterus galbula_Baltimore Oriole,0.28669026,2.0,5.0
+Icterus galbula_Baltimore Oriole,0.70832986,3.0,6.0
+Icterus galbula_Baltimore Oriole,0.31454885,4.0,7.0
+Piranga rubra_Summer Tanager,0.11035549,4.0,7.0
+Rallus elegans_King Rail,0.17804852,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.13955468,5.0,8.0
+Ammospiza maritima_Seaside Sparrow,0.100759245,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.17871384,6.0,9.0
+Colinus virginianus_Northern Bobwhite,0.106066525,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.20875613,7.0,10.0
+Sialia sialis_Eastern Bluebird,0.10812889,9.0,12.0
+Corvus ossifragus_Fish Crow,0.12307672,12.0,15.0
+Icterus galbula_Baltimore Oriole,0.121890806,14.0,17.0
+Icterus galbula_Baltimore Oriole,0.13503623,15.0,18.0
+Icterus galbula_Baltimore Oriole,0.285966,16.0,19.0
+Piranga rubra_Summer Tanager,0.12159622,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.115936354,17.0,20.0
+Molothrus ater_Brown-headed Cowbird,0.102092534,18.0,21.0
+Molothrus ater_Brown-headed Cowbird,0.37766737,19.0,22.0
+Icterus galbula_Baltimore Oriole,0.3320622,24.0,27.0
+Hypsipetes philippinus_Philippine Bulbul,0.29899225,24.0,27.0
+Icterus galbula_Baltimore Oriole,0.47485742,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.13153952,27.0,30.0

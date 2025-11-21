@@ -1,0 +1,163 @@
+species,score,start_time,end_time
+Cistothorus palustris_Marsh Wren,0.42241463,0.0,3.0
+Locustella lanceolata_Lanceolated Warbler,0.30363023,1.0,4.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.15211633,1.0,4.0
+Lanius collurio_Red-backed Shrike,0.14245933,1.0,4.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.15780075,2.0,5.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.3408653,3.0,6.0
+Curruca iberiae_Western Subalpine Warbler,0.18083455,4.0,7.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.15362647,4.0,7.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.13344947,5.0,8.0
+Locustella lanceolata_Lanceolated Warbler,0.1248248,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.100889064,5.0,8.0
+Cistothorus palustris_Marsh Wren,0.13729705,6.0,9.0
+Locustella lanceolata_Lanceolated Warbler,0.13111629,6.0,9.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.22555824,9.0,12.0
+Locustella lanceolata_Lanceolated Warbler,0.19678004,9.0,12.0
+Megalurus palustris_Striated Grassbird,0.12749034,9.0,12.0
+Locustella davidi_Baikal Bush Warbler,0.1039461,9.0,12.0
+Locustella lanceolata_Lanceolated Warbler,0.34465376,10.0,13.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.3274441,10.0,13.0
+Locustella davidi_Baikal Bush Warbler,0.102189794,10.0,13.0
+Locustella lanceolata_Lanceolated Warbler,0.38033083,11.0,14.0
+Locustella davidi_Baikal Bush Warbler,0.21190387,11.0,14.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.20719738,11.0,14.0
+Curruca iberiae_Western Subalpine Warbler,0.17914648,11.0,14.0
+Locustella lanceolata_Lanceolated Warbler,0.28049734,12.0,15.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.20920332,12.0,15.0
+Curruca iberiae_Western Subalpine Warbler,0.1458889,12.0,15.0
+Locustella lanceolata_Lanceolated Warbler,0.17018081,13.0,16.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.15822662,13.0,16.0
+Lanius collurio_Red-backed Shrike,0.10520905,13.0,16.0
+Cistothorus palustris_Marsh Wren,0.10449829,13.0,16.0
+Locustella lanceolata_Lanceolated Warbler,0.1662704,14.0,17.0
+Cistothorus palustris_Marsh Wren,0.14483073,14.0,17.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.36379167,15.0,18.0
+Locustella lanceolata_Lanceolated Warbler,0.34304127,15.0,18.0
+Cistothorus palustris_Marsh Wren,0.17050026,15.0,18.0
+Locustella lanceolata_Lanceolated Warbler,0.586639,16.0,19.0
+Locustella lanceolata_Lanceolated Warbler,0.69922435,17.0,20.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.51134765,17.0,20.0
+Locustella davidi_Baikal Bush Warbler,0.24707206,17.0,20.0
+Locustella lanceolata_Lanceolated Warbler,0.81944096,18.0,21.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.39822546,18.0,21.0
+Cistothorus palustris_Marsh Wren,0.10551168,18.0,21.0
+Locustella lanceolata_Lanceolated Warbler,0.4425911,19.0,22.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.41539714,19.0,22.0
+Engine_Engine,0.21356374,19.0,22.0
+Cistothorus palustris_Marsh Wren,0.13448559,19.0,22.0
+Curruca iberiae_Western Subalpine Warbler,0.11009013,19.0,22.0
+Engine_Engine,0.4504344,20.0,23.0
+Locustella lanceolata_Lanceolated Warbler,0.28252676,20.0,23.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.18704255,20.0,23.0
+Cistothorus palustris_Marsh Wren,0.16885692,20.0,23.0
+Locustella lanceolata_Lanceolated Warbler,0.2185859,21.0,24.0
+Engine_Engine,0.14061172,21.0,24.0
+Locustella lanceolata_Lanceolated Warbler,0.40441668,22.0,25.0
+Cistothorus palustris_Marsh Wren,0.1745772,22.0,25.0
+Engine_Engine,0.15266143,22.0,25.0
+Locustella lanceolata_Lanceolated Warbler,0.2236017,23.0,26.0
+Locustella davidi_Baikal Bush Warbler,0.34154072,24.0,27.0
+Locustella lanceolata_Lanceolated Warbler,0.28433728,24.0,27.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.13685602,24.0,27.0
+Locustella lanceolata_Lanceolated Warbler,0.45127895,25.0,28.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.25891015,25.0,28.0
+Locustella davidi_Baikal Bush Warbler,0.24058339,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.18643917,25.0,28.0
+Locustella lanceolata_Lanceolated Warbler,0.7985127,26.0,29.0
+Locustella davidi_Baikal Bush Warbler,0.2570289,26.0,29.0
+Cistothorus palustris_Marsh Wren,0.12840137,26.0,29.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.11843139,26.0,29.0
+Locustella lanceolata_Lanceolated Warbler,0.7081446,27.0,30.0
+Locustella davidi_Baikal Bush Warbler,0.20539333,27.0,30.0
+Cistothorus palustris_Marsh Wren,0.16694944,27.0,30.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.1580244,27.0,30.0
+Locustella lanceolata_Lanceolated Warbler,0.53797615,28.0,31.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.22063611,28.0,31.0
+Locustella davidi_Baikal Bush Warbler,0.15759371,28.0,31.0
+Cistothorus palustris_Marsh Wren,0.1540108,28.0,31.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.11092,29.0,32.0
+Locustella lanceolata_Lanceolated Warbler,0.10843916,29.0,32.0
+Cistothorus palustris_Marsh Wren,0.1095947,31.0,34.0
+Cistothorus palustris_Marsh Wren,0.12488311,32.0,35.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.14800371,33.0,36.0
+Locustella lanceolata_Lanceolated Warbler,0.10485786,33.0,36.0
+Locustella lanceolata_Lanceolated Warbler,0.21610156,34.0,37.0
+Cistothorus palustris_Marsh Wren,0.11473023,34.0,37.0
+Locustella lanceolata_Lanceolated Warbler,0.22219698,35.0,38.0
+Cistothorus palustris_Marsh Wren,0.10885838,35.0,38.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.1254148,36.0,39.0
+Locustella lanceolata_Lanceolated Warbler,0.1236757,36.0,39.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.23126136,37.0,40.0
+Locustella lanceolata_Lanceolated Warbler,0.22663921,37.0,40.0
+Arundinax aedon_Thick-billed Warbler,0.12708445,37.0,40.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.24247396,38.0,41.0
+Locustella lanceolata_Lanceolated Warbler,0.166118,38.0,41.0
+Locustella davidi_Baikal Bush Warbler,0.12725593,38.0,41.0
+Arundinax aedon_Thick-billed Warbler,0.12008525,38.0,41.0
+Locustella lanceolata_Lanceolated Warbler,0.3856942,39.0,42.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.18488571,39.0,42.0
+Locustella davidi_Baikal Bush Warbler,0.1562368,39.0,42.0
+Locustella lanceolata_Lanceolated Warbler,0.34269994,40.0,43.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.29911482,40.0,43.0
+Coturnicops noveboracensis_Yellow Rail,0.28145662,40.0,43.0
+Megalurus palustris_Striated Grassbird,0.26466927,40.0,43.0
+Arundinax aedon_Thick-billed Warbler,0.21524069,40.0,43.0
+Locustella davidi_Baikal Bush Warbler,0.12853783,40.0,43.0
+Iduna rama_Sykes's Warbler,0.10207033,40.0,43.0
+Locustella davidi_Baikal Bush Warbler,0.10789747,41.0,44.0
+Locustella davidi_Baikal Bush Warbler,0.12576617,42.0,45.0
+Arundinax aedon_Thick-billed Warbler,0.10207794,42.0,45.0
+Cistothorus palustris_Marsh Wren,0.3003174,43.0,46.0
+Curruca iberiae_Western Subalpine Warbler,0.115722165,43.0,46.0
+Cistothorus palustris_Marsh Wren,0.3374524,44.0,47.0
+Locustella lanceolata_Lanceolated Warbler,0.4973669,45.0,48.0
+Locustella davidi_Baikal Bush Warbler,0.4642084,45.0,48.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.23786338,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.10900038,45.0,48.0
+Megalurus palustris_Striated Grassbird,0.10373612,45.0,48.0
+Cistothorus palustris_Marsh Wren,0.35930446,46.0,49.0
+Locustella lanceolata_Lanceolated Warbler,0.13111791,46.0,49.0
+Locustella davidi_Baikal Bush Warbler,0.104566656,46.0,49.0
+Locustella lanceolata_Lanceolated Warbler,0.48075405,47.0,50.0
+Locustella davidi_Baikal Bush Warbler,0.17600673,47.0,50.0
+Megalurus palustris_Striated Grassbird,0.15766028,47.0,50.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.14159323,47.0,50.0
+Cistothorus palustris_Marsh Wren,0.14084187,47.0,50.0
+Engine_Engine,0.58711046,49.0,52.0
+Engine_Engine,0.29046798,50.0,53.0
+Engine_Engine,0.3259711,51.0,54.0
+Cistothorus palustris_Marsh Wren,0.14401118,51.0,54.0
+Megalurus palustris_Striated Grassbird,0.12969029,52.0,55.0
+Locustella davidi_Baikal Bush Warbler,0.10715917,52.0,55.0
+Locustella davidi_Baikal Bush Warbler,0.24792905,53.0,56.0
+Megalurus palustris_Striated Grassbird,0.12778418,53.0,56.0
+Locustella davidi_Baikal Bush Warbler,0.43281174,54.0,57.0
+Cistothorus palustris_Marsh Wren,0.26542833,54.0,57.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.16623536,54.0,57.0
+Megalurus palustris_Striated Grassbird,0.15810432,54.0,57.0
+Locustella lanceolata_Lanceolated Warbler,0.14296706,54.0,57.0
+Locustella davidi_Baikal Bush Warbler,0.29585478,55.0,58.0
+Curruca iberiae_Western Subalpine Warbler,0.26368633,55.0,58.0
+Cistothorus palustris_Marsh Wren,0.21722862,55.0,58.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.15822248,56.0,59.0
+Curruca iberiae_Western Subalpine Warbler,0.15684411,56.0,59.0
+Locustella davidi_Baikal Bush Warbler,0.38657984,57.0,60.0
+Megalurus palustris_Striated Grassbird,0.2004094,57.0,60.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.13617508,57.0,60.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.3187657,58.0,61.0
+Locustella davidi_Baikal Bush Warbler,0.26803133,58.0,61.0
+Locustella davidi_Baikal Bush Warbler,0.27999273,59.0,62.0
+Cistothorus palustris_Marsh Wren,0.13599198,59.0,62.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.24809588,60.0,63.0
+Locustella davidi_Baikal Bush Warbler,0.14758058,60.0,63.0
+Megalurus palustris_Striated Grassbird,0.104280494,60.0,63.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.17238958,61.0,64.0
+Curruca iberiae_Western Subalpine Warbler,0.10991004,61.0,64.0
+Locustella davidi_Baikal Bush Warbler,0.10368087,61.0,64.0
+Locustella lanceolata_Lanceolated Warbler,0.3006361,62.0,65.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.2509492,62.0,65.0
+Acrocephalus bistrigiceps_Black-browed Reed Warbler,0.28309703,63.0,65.76
+Locustella lanceolata_Lanceolated Warbler,0.16879445,63.0,65.76
+Megalurus palustris_Striated Grassbird,0.16170906,63.0,65.76
+Cistothorus palustris_Marsh Wren,0.13335292,63.0,65.76

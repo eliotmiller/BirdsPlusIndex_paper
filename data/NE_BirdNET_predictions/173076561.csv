@@ -1,0 +1,45 @@
+species,score,start_time,end_time
+Tringa melanoleuca_Greater Yellowlegs,0.1295844,1.0,4.0
+Empidonax traillii_Willow Flycatcher,0.11879816,12.0,15.0
+Colinus virginianus_Northern Bobwhite,0.10903768,13.0,16.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10440906,13.0,16.0
+Sialia sialis_Eastern Bluebird,0.20958027,16.0,19.0
+Melospiza melodia_Song Sparrow,0.3339904,17.0,20.0
+Pooecetes gramineus_Vesper Sparrow,0.15960471,18.0,21.0
+Pooecetes gramineus_Vesper Sparrow,0.1180188,19.0,22.0
+Pooecetes gramineus_Vesper Sparrow,0.18958169,20.0,23.0
+Chondestes grammacus_Lark Sparrow,0.13912675,20.0,23.0
+Melospiza melodia_Song Sparrow,0.11600963,30.0,33.0
+Melospiza melodia_Song Sparrow,0.45236322,31.0,34.0
+Pooecetes gramineus_Vesper Sparrow,0.28828058,31.0,34.0
+Melospiza melodia_Song Sparrow,0.2521515,32.0,35.0
+Melospiza melodia_Song Sparrow,0.10831983,33.0,36.0
+Alcedo atthis_Common Kingfisher,0.7660413,41.0,44.0
+Prunella modularis_Dunnock,0.13019642,41.0,44.0
+Melospiza melodia_Song Sparrow,0.118768826,42.0,45.0
+Alcedo atthis_Common Kingfisher,0.105029225,42.0,45.0
+Melospiza melodia_Song Sparrow,0.35826585,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.11712821,43.0,46.0
+Melospiza melodia_Song Sparrow,0.1706019,44.0,47.0
+Peucaea aestivalis_Bachman's Sparrow,0.57429695,45.0,48.0
+Chondestes grammacus_Lark Sparrow,0.32070243,45.0,48.0
+Pooecetes gramineus_Vesper Sparrow,0.2973811,45.0,48.0
+Melospiza melodia_Song Sparrow,0.32040486,47.0,50.0
+Ammodramus savannarum_Grasshopper Sparrow,0.13578202,47.0,50.0
+Melospiza melodia_Song Sparrow,0.23649825,48.0,51.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12447424,48.0,51.0
+Tyrannus tyrannus_Eastern Kingbird,0.10819178,48.0,51.0
+Peucaea aestivalis_Bachman's Sparrow,0.28667444,49.0,52.0
+Passerina cyanea_Indigo Bunting,0.14835069,49.0,52.0
+Peucaea aestivalis_Bachman's Sparrow,0.27225268,50.0,53.0
+Pooecetes gramineus_Vesper Sparrow,0.20844224,50.0,53.0
+Larvivora brunnea_Indian Blue Robin,0.113135256,60.0,63.0
+Melospiza melodia_Song Sparrow,0.3797659,61.0,64.0
+Melospiza melodia_Song Sparrow,0.30239323,62.0,65.0
+Melozone crissalis_California Towhee,0.43330902,71.0,74.0
+Ammodramus savannarum_Grasshopper Sparrow,0.114798404,73.0,76.0
+Peucaea aestivalis_Bachman's Sparrow,0.40758592,74.0,77.0
+Melospiza melodia_Song Sparrow,0.16727528,74.0,77.0
+Pooecetes gramineus_Vesper Sparrow,0.31497195,75.0,78.0
+Melospiza melodia_Song Sparrow,0.10449624,85.0,88.0
+Larvivora cyane_Siberian Blue Robin,0.11579525,87.0,90.0

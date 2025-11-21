@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Corvus brachyrhynchos_American Crow,0.23650913,2.0,5.0
+Anas platyrhynchos_Mallard,0.98302966,3.0,6.0
+Anas fulvigula_Mottled Duck,0.40203276,3.0,6.0
+Anas platyrhynchos_Mallard,0.9819155,4.0,7.0
+Anas fulvigula_Mottled Duck,0.39718276,4.0,7.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.191747,4.0,7.0
+Anas platyrhynchos_Mallard,0.82869893,5.0,8.0
+Hydroprogne caspia_Caspian Tern,0.25342664,5.0,8.0
+Anas platyrhynchos_Mallard,0.5224343,6.0,9.0
+Hydroprogne caspia_Caspian Tern,0.28401607,6.0,9.0
+Anas fulvigula_Mottled Duck,0.24851713,6.0,9.0
+Hydroprogne caspia_Caspian Tern,0.9007553,7.0,10.0
+Anas platyrhynchos_Mallard,0.102011755,8.0,11.0
+Hydroprogne caspia_Caspian Tern,0.112747125,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.24096535,10.0,13.0
+Pandion haliaetus_Osprey,0.15051717,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.18725447,11.0,14.0
+Corvus ossifragus_Fish Crow,0.15770914,12.0,15.0
+Pandion haliaetus_Osprey,0.2518098,16.0,19.0
+Hydroprogne caspia_Caspian Tern,0.1493195,16.0,19.0
+Hydroprogne caspia_Caspian Tern,0.49927205,17.0,20.0
+Pandion haliaetus_Osprey,0.2076771,17.0,20.0
+Circus buffoni_Long-winged Harrier,0.1906272,17.0,20.0
+Hydroprogne caspia_Caspian Tern,0.32051954,18.0,21.0
+Ardea herodias_Great Blue Heron,0.14859064,19.0,22.0
+Hydroprogne caspia_Caspian Tern,0.121331476,19.0,22.0
+Coragyps atratus_Black Vulture,0.11871523,19.0,22.0
+Egretta tricolor_Tricolored Heron,0.36010107,20.0,23.0
+Eudocimus albus_White Ibis,0.11428729,20.0,23.0
+Egretta caerulea_Little Blue Heron,0.10925998,20.0,23.0
+Hydroprogne caspia_Caspian Tern,0.19297445,21.0,24.0
+Coragyps atratus_Black Vulture,0.16622417,21.0,24.0
+Hydroprogne caspia_Caspian Tern,0.9077256,22.0,25.0
+Hydroprogne caspia_Caspian Tern,0.9415626,23.0,26.0
+Circus buffoni_Long-winged Harrier,0.13663036,23.0,26.0
+Hydroprogne caspia_Caspian Tern,0.31873468,24.0,27.0
+Attagis gayi_Rufous-bellied Seedsnipe,0.1884379,25.0,28.0
+Attagis gayi_Rufous-bellied Seedsnipe,0.15363595,26.0,29.0
+Attagis gayi_Rufous-bellied Seedsnipe,0.2178387,27.0,30.0
+Porphyrio flavirostris_Azure Gallinule,0.27590775,30.0,33.0
+Plegadis chihi_White-faced Ibis,0.42021897,32.0,35.0
+Plegadis chihi_White-faced Ibis,0.3074083,33.0,36.0
+Anas fulvigula_Mottled Duck,0.17129469,33.0,36.0
+Gallinago media_Great Snipe,0.29444456,35.0,38.0
+Aeronautes saxatalis_White-throated Swift,0.26563537,35.0,38.0
+Loxia leucoptera_White-winged Crossbill,0.14455415,35.0,38.0
+Aeronautes saxatalis_White-throated Swift,0.20595221,36.0,39.0
+Loxia leucoptera_White-winged Crossbill,0.1055878,36.0,39.0
+Aechmophorus clarkii_Clark's Grebe,0.13971503,37.0,40.0
+Aechmophorus clarkii_Clark's Grebe,0.16045304,38.0,41.0
+Apus melba_Alpine Swift,0.1603346,39.0,42.0
+Aechmophorus clarkii_Clark's Grebe,0.13891599,39.0,42.0
+Gallinago media_Great Snipe,0.3681445,40.0,43.0
+Apus melba_Alpine Swift,0.3136081,40.0,43.0
+Hydroprogne caspia_Caspian Tern,0.9471849,41.0,44.0
+Sterna forsteri_Forster's Tern,0.10551121,41.0,44.0
+Hydroprogne caspia_Caspian Tern,0.952313,42.0,45.0
+Hydroprogne caspia_Caspian Tern,0.7813154,43.0,46.0
+Setophaga adelaidae_Adelaide's Warbler,0.16193736,45.0,48.0
+Hydroprogne caspia_Caspian Tern,0.28422526,48.0,51.0
+Hydroprogne caspia_Caspian Tern,0.1225675,50.0,53.0
+Hydroprogne caspia_Caspian Tern,0.16153452,51.0,54.0
+Chroicocephalus philadelphia_Bonaparte's Gull,0.37370467,52.0,54.04802721088436
+Hydroprogne caspia_Caspian Tern,0.10133031,52.0,54.04802721088436

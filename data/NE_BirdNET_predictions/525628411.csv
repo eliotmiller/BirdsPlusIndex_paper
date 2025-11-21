@@ -1,0 +1,54 @@
+species,score,start_time,end_time
+Sciurus carolinensis_Eastern Gray Squirrel,0.4408525,1.0,4.0
+Egretta thula_Snowy Egret,0.2990453,1.0,4.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.12833618,2.0,5.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.21235962,3.0,6.0
+Egretta thula_Snowy Egret,0.13813545,3.0,6.0
+Egretta thula_Snowy Egret,0.18962042,4.0,7.0
+Egretta thula_Snowy Egret,0.19986281,6.0,9.0
+Egretta thula_Snowy Egret,0.1882193,12.0,15.0
+Eudocimus albus_White Ibis,0.1386639,12.0,15.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.19029485,13.0,16.0
+Egretta thula_Snowy Egret,0.17293239,13.0,16.0
+Nannopterum auritum_Double-crested Cormorant,0.20245375,14.0,17.0
+Egretta thula_Snowy Egret,0.11814363,15.0,18.0
+Eudocimus albus_White Ibis,0.10720463,15.0,18.0
+Ardea herodias_Great Blue Heron,0.25041386,16.0,19.0
+Egretta thula_Snowy Egret,0.15919125,19.0,22.0
+Bucephala albeola_Bufflehead,0.14644976,19.0,22.0
+Egretta thula_Snowy Egret,0.10640152,20.0,23.0
+Egretta thula_Snowy Egret,0.18727878,21.0,24.0
+Leucophaeus scoresbii_Dolphin Gull,0.15390505,24.0,27.0
+Mergus merganser_Common Merganser,0.11647816,26.0,29.0
+Egretta thula_Snowy Egret,0.28054947,28.0,31.0
+Pelecanus occidentalis_Brown Pelican,0.20930772,28.0,31.0
+Egretta thula_Snowy Egret,0.137498,30.0,33.0
+Egretta thula_Snowy Egret,0.11244096,31.0,34.0
+Egretta thula_Snowy Egret,0.1743041,33.0,36.0
+Bucephala albeola_Bufflehead,0.23627736,34.0,37.0
+Egretta thula_Snowy Egret,0.10677922,35.0,38.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.11041578,36.0,39.0
+Bucephala albeola_Bufflehead,0.15199365,38.0,41.0
+Mareca americana_American Wigeon,0.107292585,38.0,41.0
+Bucephala albeola_Bufflehead,0.14164002,40.0,43.0
+Egretta thula_Snowy Egret,0.15339667,41.0,44.0
+Leucophaeus atricilla_Laughing Gull,0.3198441,42.0,45.0
+Leucophaeus atricilla_Laughing Gull,0.65009075,43.0,46.0
+Larus occidentalis_Western Gull,0.118460946,43.0,46.0
+Leucophaeus scoresbii_Dolphin Gull,0.108262435,43.0,46.0
+Egretta thula_Snowy Egret,0.10124894,43.0,46.0
+Leucophaeus atricilla_Laughing Gull,0.33242428,44.0,47.0
+Aythya valisineria_Canvasback,0.20881319,51.0,54.0
+Corvus cryptoleucus_Chihuahuan Raven,0.19685681,57.0,60.0
+Egretta thula_Snowy Egret,0.10187237,57.0,60.0
+Egretta thula_Snowy Egret,0.3299376,59.0,62.0
+Egretta rufescens_Reddish Egret,0.24805301,59.0,62.0
+Aythya valisineria_Canvasback,0.1883458,59.0,62.0
+Egretta rufescens_Reddish Egret,0.4839234,60.0,63.0
+Eudocimus albus_White Ibis,0.34104753,60.0,63.0
+Egretta thula_Snowy Egret,0.31760192,60.0,63.0
+Eudocimus albus_White Ibis,0.37750113,61.0,64.0
+Egretta thula_Snowy Egret,0.34114015,61.0,64.0
+Egretta rufescens_Reddish Egret,0.23614454,61.0,64.0
+Egretta thula_Snowy Egret,0.10205482,62.0,65.0
+Egretta thula_Snowy Egret,0.10853601,63.0,66.0

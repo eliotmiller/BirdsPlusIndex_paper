@@ -1,0 +1,146 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.532722,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.12979817,0.0,3.0
+Dumetella carolinensis_Gray Catbird,0.1688335,1.0,4.0
+Dumetella carolinensis_Gray Catbird,0.12620915,2.0,5.0
+Dumetella carolinensis_Gray Catbird,0.111177154,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.1477049,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.11141748,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.2431942,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.10936124,10.0,13.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.1272055,12.0,15.0
+Alectoris rufa_Red-legged Partridge,0.10886566,14.0,17.0
+Alectoris rufa_Red-legged Partridge,0.51921636,15.0,18.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.18928407,15.0,18.0
+Alectoris rufa_Red-legged Partridge,0.495387,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.1532214,17.0,20.0
+Alectoris rufa_Red-legged Partridge,0.14977977,18.0,21.0
+Alectoris rufa_Red-legged Partridge,0.14746845,19.0,22.0
+Alectoris rufa_Red-legged Partridge,0.1902882,28.0,31.0
+Alectoris rufa_Red-legged Partridge,0.15787788,29.0,32.0
+Alectoris rufa_Red-legged Partridge,0.52187175,30.0,33.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.12642649,30.0,33.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.16541421,31.0,34.0
+Caprimulgus europaeus_Eurasian Nightjar,0.43511397,32.0,35.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.121009596,32.0,35.0
+Alectoris rufa_Red-legged Partridge,0.1997934,33.0,36.0
+Alectoris rufa_Red-legged Partridge,0.586908,34.0,37.0
+Caprimulgus europaeus_Eurasian Nightjar,0.19139443,34.0,37.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.13581708,34.0,37.0
+Alectoris rufa_Red-legged Partridge,0.94900596,35.0,38.0
+Caprimulgus europaeus_Eurasian Nightjar,0.28353912,35.0,38.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.13269341,35.0,38.0
+Alectoris rufa_Red-legged Partridge,0.7964971,36.0,39.0
+Caprimulgus europaeus_Eurasian Nightjar,0.48028293,36.0,39.0
+Alectoris rufa_Red-legged Partridge,0.31320068,37.0,40.0
+Caprimulgus europaeus_Eurasian Nightjar,0.12819734,37.0,40.0
+Alectoris rufa_Red-legged Partridge,0.6858589,38.0,41.0
+Caprimulgus europaeus_Eurasian Nightjar,0.20231587,38.0,41.0
+Alectoris rufa_Red-legged Partridge,0.8452756,39.0,42.0
+Caprimulgus europaeus_Eurasian Nightjar,0.25269926,39.0,42.0
+Alectoris rufa_Red-legged Partridge,0.5451071,40.0,43.0
+Alectoris rufa_Red-legged Partridge,0.93034446,42.0,45.0
+Alectoris rufa_Red-legged Partridge,0.7616755,43.0,46.0
+Caprimulgus europaeus_Eurasian Nightjar,0.13307899,43.0,46.0
+Alectoris rufa_Red-legged Partridge,0.4832632,44.0,47.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.24444468,44.0,47.0
+Calliope calliope_Siberian Rubythroat,0.19193545,44.0,47.0
+Alectoris rufa_Red-legged Partridge,0.78445077,45.0,48.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.2935614,45.0,48.0
+Calliope calliope_Siberian Rubythroat,0.14809412,45.0,48.0
+Alectoris rufa_Red-legged Partridge,0.8253372,46.0,49.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.5046657,46.0,49.0
+Alectoris rufa_Red-legged Partridge,0.96994185,47.0,50.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.107759446,47.0,50.0
+Alectoris rufa_Red-legged Partridge,0.88538355,48.0,51.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.13596994,48.0,51.0
+Alectoris rufa_Red-legged Partridge,0.19591327,49.0,52.0
+Calliope calliope_Siberian Rubythroat,0.13171802,49.0,52.0
+Calliope calliope_Siberian Rubythroat,0.11023453,50.0,53.0
+Calliope calliope_Siberian Rubythroat,0.1729668,52.0,55.0
+Alectoris rufa_Red-legged Partridge,0.47552806,57.0,60.0
+Quiscalus quiscula_Common Grackle,0.10759879,57.0,60.0
+Alectoris rufa_Red-legged Partridge,0.36213621,58.0,61.0
+Caprimulgus europaeus_Eurasian Nightjar,0.32791784,58.0,61.0
+Alectoris rufa_Red-legged Partridge,0.50903577,59.0,62.0
+Eurystomus orientalis_Dollarbird,0.18366921,60.0,63.0
+Alectoris rufa_Red-legged Partridge,0.16611508,60.0,63.0
+Quiscalus quiscula_Common Grackle,0.12300287,62.0,65.0
+Alectoris rufa_Red-legged Partridge,0.5046611,63.0,66.0
+Alectoris rufa_Red-legged Partridge,0.9641504,64.0,67.0
+Alectoris rufa_Red-legged Partridge,0.1244439,65.0,68.0
+Alectoris rufa_Red-legged Partridge,0.23491853,66.0,69.0
+Caprimulgus europaeus_Eurasian Nightjar,0.16909207,66.0,69.0
+Caprimulgus europaeus_Eurasian Nightjar,0.14079224,67.0,70.0
+Alectoris rufa_Red-legged Partridge,0.10176627,67.0,70.0
+Alectoris rufa_Red-legged Partridge,0.6617466,68.0,71.0
+Caprimulgus europaeus_Eurasian Nightjar,0.12020008,68.0,71.0
+Alectoris rufa_Red-legged Partridge,0.26521134,69.0,72.0
+Caprimulgus europaeus_Eurasian Nightjar,0.2343218,70.0,73.0
+Caprimulgus europaeus_Eurasian Nightjar,0.17850247,71.0,74.0
+Alectoris rufa_Red-legged Partridge,0.13797985,71.0,74.0
+Aulacorhynchus albivitta_Southern Emerald-Toucanet,0.10455296,71.0,74.0
+Caprimulgus europaeus_Eurasian Nightjar,0.3856776,72.0,75.0
+Alectoris rufa_Red-legged Partridge,0.15650845,72.0,75.0
+Caprimulgus europaeus_Eurasian Nightjar,0.16604309,73.0,76.0
+Quiscalus quiscula_Common Grackle,0.31463137,75.0,78.0
+Sylvia borin_Garden Warbler,0.17824614,77.0,80.0
+Dolichonyx oryzivorus_Bobolink,0.12397836,77.0,80.0
+Dolichonyx oryzivorus_Bobolink,0.16221118,78.0,81.0
+Sylvia borin_Garden Warbler,0.14700042,78.0,81.0
+Pycnonotus xanthopygos_White-spectacled Bulbul,0.28839824,80.0,83.0
+Calliope calliope_Siberian Rubythroat,0.13793182,80.0,83.0
+Zapornia tabuensis_Spotless Crake,0.10129877,80.0,83.0
+Dumetella carolinensis_Gray Catbird,0.28697315,81.0,84.0
+Dumetella carolinensis_Gray Catbird,0.6147225,82.0,85.0
+Dumetella carolinensis_Gray Catbird,0.5391057,83.0,86.0
+Dumetella carolinensis_Gray Catbird,0.3436741,84.0,87.0
+Melospiza melodia_Song Sparrow,0.10031748,84.0,87.0
+Dumetella carolinensis_Gray Catbird,0.47451705,85.0,88.0
+Thryomanes bewickii_Bewick's Wren,0.10321146,85.0,88.0
+Dumetella carolinensis_Gray Catbird,0.21178484,86.0,89.0
+Dumetella carolinensis_Gray Catbird,0.14520726,88.0,91.0
+Dumetella carolinensis_Gray Catbird,0.10871059,89.0,92.0
+Dumetella carolinensis_Gray Catbird,0.15605938,90.0,93.0
+Dumetella carolinensis_Gray Catbird,0.25098512,91.0,94.0
+Calliope calliope_Siberian Rubythroat,0.38461208,92.0,95.0
+Dumetella carolinensis_Gray Catbird,0.10302755,92.0,95.0
+Calliope calliope_Siberian Rubythroat,0.2843556,93.0,96.0
+Dumetella carolinensis_Gray Catbird,0.20771824,93.0,96.0
+Dolichonyx oryzivorus_Bobolink,0.12680948,93.0,96.0
+Icterus spurius_Orchard Oriole,0.12248824,93.0,96.0
+Dolichonyx oryzivorus_Bobolink,0.26040778,94.0,97.0
+Calliope calliope_Siberian Rubythroat,0.107037,94.0,97.0
+Calliope calliope_Siberian Rubythroat,0.308382,95.0,98.0
+Dumetella carolinensis_Gray Catbird,0.16127147,95.0,98.0
+Dolichonyx oryzivorus_Bobolink,0.13503191,95.0,98.0
+Acrocephalus australis_Australian Reed Warbler,0.1671693,96.0,99.0
+Calliope calliope_Siberian Rubythroat,0.14259072,96.0,99.0
+Dolichonyx oryzivorus_Bobolink,0.13290335,97.0,100.0
+Dumetella carolinensis_Gray Catbird,0.10866363,97.0,100.0
+Eurystomus orientalis_Dollarbird,0.2744429,98.0,101.0
+Acrocephalus australis_Australian Reed Warbler,0.18338414,98.0,101.0
+Acrocephalus australis_Australian Reed Warbler,0.10065334,101.0,104.0
+Acrocephalus australis_Australian Reed Warbler,0.2306632,106.0,109.0
+Dumetella carolinensis_Gray Catbird,0.12540837,106.0,109.0
+Acrocephalus stentoreus_Clamorous Reed Warbler,0.1015363,106.0,109.0
+Acrocephalus australis_Australian Reed Warbler,0.112852916,107.0,110.0
+Dumetella carolinensis_Gray Catbird,0.10230399,111.0,114.0
+Acrocephalus australis_Australian Reed Warbler,0.2400236,113.0,116.0
+Dumetella carolinensis_Gray Catbird,0.123396404,113.0,116.0
+Dumetella carolinensis_Gray Catbird,0.20015748,114.0,117.0
+Dolichonyx oryzivorus_Bobolink,0.16372786,114.0,117.0
+Acrocephalus australis_Australian Reed Warbler,0.13401273,114.0,117.0
+Dumetella carolinensis_Gray Catbird,0.51349324,115.0,118.0
+Dumetella carolinensis_Gray Catbird,0.38054043,116.0,119.0
+Dumetella carolinensis_Gray Catbird,0.37934646,117.0,120.0
+Dolichonyx oryzivorus_Bobolink,0.19783032,117.0,120.0
+Dumetella carolinensis_Gray Catbird,0.40353718,118.0,121.0
+Dolichonyx oryzivorus_Bobolink,0.20450598,118.0,121.0
+Dumetella carolinensis_Gray Catbird,0.33880717,119.0,122.0
+Dolichonyx oryzivorus_Bobolink,0.109509155,119.0,122.0
+Dumetella carolinensis_Gray Catbird,0.1984359,120.0,123.0
+Dolichonyx oryzivorus_Bobolink,0.14485705,120.0,123.0
+Dumetella carolinensis_Gray Catbird,0.19445133,122.0,125.0
+Dumetella carolinensis_Gray Catbird,0.21519952,123.0,126.0
+Dumetella carolinensis_Gray Catbird,0.13903907,125.0,128.0
