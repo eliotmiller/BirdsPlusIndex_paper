@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Psilorhinus morio_Brown Jay,0.17813988,0.0,3.0
+Larus argentatus_Herring Gull,0.12932466,0.0,3.0
+Accipiter gentilis_Northern Goshawk,0.3187856,2.0,5.0
+Buteo buteo_Common Buzzard,0.21605274,2.0,5.0
+Accipiter gentilis_Northern Goshawk,0.3588586,3.0,6.0
+Buteo buteo_Common Buzzard,0.24097049,3.0,6.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.33283833,4.0,7.0
+Buteo buteo_Common Buzzard,0.32714698,4.0,7.0
+Accipiter gentilis_Northern Goshawk,0.29865906,4.0,7.0
+Accipiter gentilis_Northern Goshawk,0.46979392,5.0,8.0
+Crypturellus boucardi_Slaty-breasted Tinamou,0.3182658,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.2009398,5.0,8.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.13662747,5.0,8.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.22518548,6.0,9.0
+Accipiter gentilis_Northern Goshawk,0.14986272,6.0,9.0
+Aramus guarauna_Limpkin,0.109184735,6.0,9.0
+Accipiter gentilis_Northern Goshawk,0.4363733,8.0,11.0
+Buteo buteo_Common Buzzard,0.34966597,8.0,11.0
+Buteo lineatus_Red-shouldered Hawk,0.15709072,8.0,11.0
+Buteo lineatus_Red-shouldered Hawk,0.31103408,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.10658289,9.0,12.0
+Buteo buteo_Common Buzzard,0.10614192,9.0,12.0
+Buteo buteo_Common Buzzard,0.46302846,10.0,13.0
+Accipiter gentilis_Northern Goshawk,0.34051335,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.14618485,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.34057215,11.0,14.0
+Accipiter gentilis_Northern Goshawk,0.115252614,12.0,15.0
+Buteo lineatus_Red-shouldered Hawk,0.10469703,12.0,15.0
+Crypturellus boucardi_Slaty-breasted Tinamou,0.13787189,13.0,16.0
+Buteo lineatus_Red-shouldered Hawk,0.27112564,14.0,17.0
+Crypturellus boucardi_Slaty-breasted Tinamou,0.23851173,14.0,17.0
+Hylocichla mustelina_Wood Thrush,0.23437195,14.0,17.0
+Buteo lineatus_Red-shouldered Hawk,0.47516745,15.0,18.0
+Aramus guarauna_Limpkin,0.16144165,15.0,18.0
+Buteo buteo_Common Buzzard,0.5690035,17.0,20.0
+Accipiter gentilis_Northern Goshawk,0.25310293,17.0,20.0
+Buteo buteo_Common Buzzard,0.6795512,18.0,21.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.11115722,18.0,21.0
+Buteo buteo_Common Buzzard,0.1823416,19.0,22.0
+Accipiter gentilis_Northern Goshawk,0.13370855,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.11976051,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.49538666,20.0,23.0
+Hylocichla mustelina_Wood Thrush,0.46160576,21.0,24.0
+Accipiter nisus_Eurasian Sparrowhawk,0.14978744,22.0,25.0
+Larus argentatus_Herring Gull,0.12684272,23.0,26.0
+Accipiter nisus_Eurasian Sparrowhawk,0.10507055,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.48708805,25.0,28.0
+Strix aluco_Tawny Owl,0.12641062,25.0,28.0
+Accipiter gentilis_Northern Goshawk,0.10916765,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.32555926,26.0,29.0
+Accipiter gentilis_Northern Goshawk,0.120700076,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.26001585,27.0,30.0
+Accipiter gentilis_Northern Goshawk,0.1765485,27.0,30.0
+Buteo buteo_Common Buzzard,0.6347346,28.0,31.0
+Accipiter gentilis_Northern Goshawk,0.34035146,28.0,31.0
+Buteo buteo_Common Buzzard,0.83475333,29.0,32.0
+Accipiter gentilis_Northern Goshawk,0.6279517,29.0,32.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.10667709,29.0,32.0
+Buteo buteo_Common Buzzard,0.68868214,30.0,33.0
+Dendrocoptes medius_Middle Spotted Woodpecker,0.23440933,30.0,33.0
+Buteo buteo_Common Buzzard,0.18798971,31.0,34.0
+Accipiter gentilis_Northern Goshawk,0.26405615,32.0,35.0
+Accipiter gentilis_Northern Goshawk,0.3143248,33.0,36.0
+Crypturellus boucardi_Slaty-breasted Tinamou,0.21649367,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.116318874,33.0,36.0
+Gallus gallus_Red Junglefowl,0.14949517,34.0,37.0
+Accipiter nisus_Eurasian Sparrowhawk,0.34962597,35.0,38.0
+Hylocichla mustelina_Wood Thrush,0.32162672,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.30015814,37.0,40.0
+Aramus guarauna_Limpkin,0.26343498,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.45863527,38.0,41.0

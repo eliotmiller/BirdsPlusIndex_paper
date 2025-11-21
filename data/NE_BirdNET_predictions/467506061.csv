@@ -1,0 +1,129 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.5375866,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16790105,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.15175317,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.16019805,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1560534,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.12419809,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1645795,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.12502573,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.18880594,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17817773,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.17178272,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1461737,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.17437254,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.13981739,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109987,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27593207,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.16128738,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.11549822,7.0,10.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10966836,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22382829,8.0,11.0
+Setophaga virens_Black-throated Green Warbler,0.12630934,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.10524673,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.99580586,9.0,12.0
+Empidonax virescens_Acadian Flycatcher,0.97474897,10.0,13.0
+Empidonax virescens_Acadian Flycatcher,0.98957646,11.0,14.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16679756,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.14740464,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1467242,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.10098775,14.0,17.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16396514,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13461083,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.11051865,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25110292,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.1812324,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10842999,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.11830017,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.22175182,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.21874431,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15569247,20.0,23.0
+Setophaga virens_Black-throated Green Warbler,0.11170547,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.10455863,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12829074,21.0,24.0
+Vireo solitarius_Blue-headed Vireo,0.14130351,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.11926606,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11549758,22.0,25.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10303903,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14614195,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.12426871,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.103919454,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34664398,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.19291662,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3590541,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.26119,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.20914178,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.1121099,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6443941,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.13724351,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5479418,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.17466702,27.0,30.0
+Setophaga virens_Black-throated Green Warbler,0.11002331,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105448715,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.11473409,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105845936,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28673178,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.1765125,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.11102757,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27734226,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.1058836,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34452283,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19754167,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.16847602,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.10395676,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16315119,34.0,37.0
+Piranga olivacea_Scarlet Tanager,0.15683275,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29735416,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.106272146,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.10301923,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23723519,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.123266734,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.2691456,37.0,40.0
+Geothlypis formosa_Kentucky Warbler,0.116626054,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.15276381,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.135131,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.11955641,38.0,41.0
+Limnothlypis swainsonii_Swainson's Warbler,0.118472055,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.44767597,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.12105112,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3883793,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19840375,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27990383,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.14348014,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2359388,43.0,46.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13663341,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.10512584,43.0,46.0
+Junco hyemalis_Dark-eyed Junco,0.25541642,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13214369,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16509047,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.39922264,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2042799,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11782852,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31462908,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.12986568,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.34295696,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1627619,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18450445,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.10258569,51.0,54.0
+Vireo solitarius_Blue-headed Vireo,0.21768649,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12638919,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36669987,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3771121,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.14727741,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.1330133,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.19379792,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.13397607,55.0,58.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10472114,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10147452,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.15944488,56.0,59.0
+Vireo solitarius_Blue-headed Vireo,0.1164302,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13004021,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.11880398,57.0,60.0
+Geothlypis formosa_Kentucky Warbler,0.104446925,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.120389566,58.0,61.0
+Junco hyemalis_Dark-eyed Junco,0.36623862,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.14225568,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11140354,59.0,62.0
+Junco hyemalis_Dark-eyed Junco,0.3941146,60.0,63.0
+Junco hyemalis_Dark-eyed Junco,0.1682251,61.0,63.26403628117914
+Helmitheros vermivorum_Worm-eating Warbler,0.13304925,61.0,63.26403628117914

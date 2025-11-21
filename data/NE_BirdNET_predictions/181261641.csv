@@ -1,0 +1,159 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.74353397,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19706127,0.0,3.0
+Artamus cyanopterus_Dusky Woodswallow,0.1295128,0.0,3.0
+Icterus spurius_Orchard Oriole,0.11193463,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.32903218,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2558734,1.0,4.0
+Icterus cucullatus_Hooded Oriole,0.10676615,1.0,4.0
+Haemorhous mexicanus_House Finch,0.10549256,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.41476095,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13760109,2.0,5.0
+Empidonax traillii_Willow Flycatcher,0.5368028,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.13601133,3.0,6.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12244885,3.0,6.0
+Empidonax traillii_Willow Flycatcher,0.81466293,5.0,8.0
+Empidonax traillii_Willow Flycatcher,0.6874611,6.0,9.0
+Empidonax traillii_Willow Flycatcher,0.90293944,7.0,10.0
+Empidonax minimus_Least Flycatcher,0.13136697,7.0,10.0
+Empidonax traillii_Willow Flycatcher,0.13559708,8.0,11.0
+Hirundo rustica_Barn Swallow,0.24985427,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.133825,10.0,13.0
+Haemorhous mexicanus_House Finch,0.11466352,11.0,14.0
+Haemorhous mexicanus_House Finch,0.27262816,12.0,15.0
+Empidonax traillii_Willow Flycatcher,0.26699007,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.10201591,13.0,16.0
+Empidonax traillii_Willow Flycatcher,0.40989542,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.121741176,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.33745334,15.0,18.0
+Agelaius phoeniceus_Red-winged Blackbird,0.25854728,15.0,18.0
+Icterus spurius_Orchard Oriole,0.13733335,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.21719006,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21117102,16.0,19.0
+Icterus spurius_Orchard Oriole,0.15726815,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.22404695,17.0,20.0
+Icterus spurius_Orchard Oriole,0.23486412,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14578551,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.13749892,18.0,21.0
+Icterus galbula_Baltimore Oriole,0.1054962,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18471648,19.0,22.0
+Icterus spurius_Orchard Oriole,0.15907508,19.0,22.0
+Empidonax traillii_Willow Flycatcher,0.119825,19.0,22.0
+Icterus spurius_Orchard Oriole,0.23159656,20.0,23.0
+Empidonax traillii_Willow Flycatcher,0.6621719,21.0,24.0
+Empidonax traillii_Willow Flycatcher,0.12440933,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.10809753,22.0,25.0
+Tyrannus verticalis_Western Kingbird,0.25775728,23.0,26.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12490893,23.0,26.0
+Empidonax traillii_Willow Flycatcher,0.11569506,23.0,26.0
+Empidonax traillii_Willow Flycatcher,0.15759945,24.0,27.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14880839,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.1351065,24.0,27.0
+Empidonax traillii_Willow Flycatcher,0.31513882,25.0,28.0
+Empidonax traillii_Willow Flycatcher,0.43676472,26.0,29.0
+Empidonax traillii_Willow Flycatcher,0.107954204,28.0,31.0
+Empidonax traillii_Willow Flycatcher,0.19766413,29.0,32.0
+Agelaius phoeniceus_Red-winged Blackbird,0.23776425,31.0,34.0
+Icterus spurius_Orchard Oriole,0.10638615,31.0,34.0
+Empidonax traillii_Willow Flycatcher,0.1070002,32.0,35.0
+Empidonax traillii_Willow Flycatcher,0.34385386,33.0,36.0
+Icterus spurius_Orchard Oriole,0.2658874,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21418582,35.0,38.0
+Icterus spurius_Orchard Oriole,0.19777627,35.0,38.0
+Icterus spurius_Orchard Oriole,0.40781724,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1408369,36.0,39.0
+Empidonax traillii_Willow Flycatcher,0.1251907,37.0,40.0
+Empidonax traillii_Willow Flycatcher,0.19717786,38.0,41.0
+Empidonax traillii_Willow Flycatcher,0.73375124,39.0,42.0
+Empidonax traillii_Willow Flycatcher,0.33206427,40.0,43.0
+Empidonax traillii_Willow Flycatcher,0.2822505,41.0,44.0
+Empidonax traillii_Willow Flycatcher,0.18689564,42.0,45.0
+Empidonax traillii_Willow Flycatcher,0.62748235,43.0,46.0
+Empidonax traillii_Willow Flycatcher,0.51037383,44.0,47.0
+Empidonax traillii_Willow Flycatcher,0.48131433,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.1291824,46.0,49.0
+Empidonax traillii_Willow Flycatcher,0.18108997,47.0,50.0
+Spinus tristis_American Goldfinch,0.10479323,49.0,52.0
+Empidonax traillii_Willow Flycatcher,0.75387406,50.0,53.0
+Empidonax minimus_Least Flycatcher,0.10104173,50.0,53.0
+Spinus tristis_American Goldfinch,0.38173187,51.0,54.0
+Empidonax traillii_Willow Flycatcher,0.33399802,51.0,54.0
+Empidonax traillii_Willow Flycatcher,0.6303859,52.0,55.0
+Empidonax traillii_Willow Flycatcher,0.73836356,53.0,56.0
+Empidonax minimus_Least Flycatcher,0.41292787,53.0,56.0
+Empidonax traillii_Willow Flycatcher,0.5678766,54.0,57.0
+Empidonax minimus_Least Flycatcher,0.40633902,54.0,57.0
+Empidonax traillii_Willow Flycatcher,0.457472,55.0,58.0
+Pellorneum tickelli_Buff-breasted Babbler,0.106055066,55.0,58.0
+Empidonax traillii_Willow Flycatcher,0.25952023,56.0,59.0
+Empidonax traillii_Willow Flycatcher,0.9321395,57.0,60.0
+Empidonax affinis_Pine Flycatcher,0.36616588,57.0,60.0
+Empidonax minimus_Least Flycatcher,0.12352258,57.0,60.0
+Empidonax traillii_Willow Flycatcher,0.87716293,58.0,61.0
+Empidonax affinis_Pine Flycatcher,0.13895331,58.0,61.0
+Empidonax minimus_Least Flycatcher,0.12511522,58.0,61.0
+Empidonax traillii_Willow Flycatcher,0.92266643,59.0,62.0
+Empidonax traillii_Willow Flycatcher,0.95262563,60.0,63.0
+Empidonax affinis_Pine Flycatcher,0.27345687,60.0,63.0
+Empidonax minimus_Least Flycatcher,0.1689954,60.0,63.0
+Empidonax minimus_Least Flycatcher,0.17168015,61.0,64.0
+Empidonax traillii_Willow Flycatcher,0.16037759,61.0,64.0
+Pachyramphus major_Gray-collared Becard,0.10023154,63.0,66.0
+Empidonax traillii_Willow Flycatcher,0.9814843,64.0,67.0
+Empidonax minimus_Least Flycatcher,0.49174875,64.0,67.0
+Empidonax affinis_Pine Flycatcher,0.2830022,64.0,67.0
+Empidonax traillii_Willow Flycatcher,0.87500644,65.0,68.0
+Empidonax minimus_Least Flycatcher,0.28232774,65.0,68.0
+Empidonax affinis_Pine Flycatcher,0.18019865,65.0,68.0
+Empidonax traillii_Willow Flycatcher,0.79807025,66.0,69.0
+Empidonax minimus_Least Flycatcher,0.15757935,66.0,69.0
+Bombycilla cedrorum_Cedar Waxwing,0.13841264,68.0,71.0
+Bombycilla cedrorum_Cedar Waxwing,0.41119784,69.0,72.0
+Falcunculus frontatus_Crested Shrike-tit,0.101477005,69.0,72.0
+Falcunculus frontatus_Crested Shrike-tit,0.21037152,70.0,73.0
+Empidonax traillii_Willow Flycatcher,0.7150096,74.0,77.0
+Empidonax minimus_Least Flycatcher,0.20557119,74.0,77.0
+Empidonax affinis_Pine Flycatcher,0.16513376,74.0,77.0
+Empidonax traillii_Willow Flycatcher,0.54376763,75.0,78.0
+Empidonax minimus_Least Flycatcher,0.2249537,75.0,78.0
+Empidonax affinis_Pine Flycatcher,0.5205564,76.0,79.0
+Empidonax traillii_Willow Flycatcher,0.17765766,76.0,79.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.10366023,78.0,81.0
+Poecile atricapillus_Black-capped Chickadee,0.13710639,83.0,86.0
+Poecile atricapillus_Black-capped Chickadee,0.20577809,84.0,87.0
+Empidonax traillii_Willow Flycatcher,0.17708692,92.0,95.0
+Empidonax traillii_Willow Flycatcher,0.12637624,93.0,96.0
+Empidonax traillii_Willow Flycatcher,0.31081328,94.0,97.0
+Empidonax affinis_Pine Flycatcher,0.12117345,94.0,97.0
+Empidonax affinis_Pine Flycatcher,0.50301546,98.0,101.0
+Empidonax traillii_Willow Flycatcher,0.42943126,98.0,101.0
+Empidonax minimus_Least Flycatcher,0.15633824,98.0,101.0
+Empidonax traillii_Willow Flycatcher,0.62680537,99.0,102.0
+Empidonax affinis_Pine Flycatcher,0.2610034,99.0,102.0
+Tyrannus verticalis_Western Kingbird,0.11621045,99.0,102.0
+Empidonax affinis_Pine Flycatcher,0.10215281,100.0,103.0
+Empidonax traillii_Willow Flycatcher,0.45489106,102.0,105.0
+Empidonax traillii_Willow Flycatcher,0.7250491,103.0,106.0
+Empidonax traillii_Willow Flycatcher,0.37960753,104.0,107.0
+Empidonax affinis_Pine Flycatcher,0.22938757,107.0,110.0
+Tyrannus verticalis_Western Kingbird,0.124840066,107.0,110.0
+Empidonax traillii_Willow Flycatcher,0.25597766,108.0,111.0
+Empidonax affinis_Pine Flycatcher,0.180188,108.0,111.0
+Tyrannus verticalis_Western Kingbird,0.13366963,108.0,111.0
+Empidonax minimus_Least Flycatcher,0.11453141,108.0,111.0
+Tyrannus verticalis_Western Kingbird,0.247964,109.0,112.0
+Empidonax traillii_Willow Flycatcher,0.47542727,116.0,119.0
+Empidonax traillii_Willow Flycatcher,0.727208,121.0,124.0
+Empidonax minimus_Least Flycatcher,0.41940632,121.0,124.0
+Empidonax traillii_Willow Flycatcher,0.36676165,122.0,125.0
+Empidonax minimus_Least Flycatcher,0.17805278,122.0,125.0
+Empidonax traillii_Willow Flycatcher,0.67849755,124.0,127.0
+Tyrannus verticalis_Western Kingbird,0.3451058,124.0,127.0
+Empidonax traillii_Willow Flycatcher,0.83934677,125.0,128.0
+Empidonax minimus_Least Flycatcher,0.20876308,125.0,128.0
+Empidonax traillii_Willow Flycatcher,0.29670063,126.0,129.0
+Empidonax minimus_Least Flycatcher,0.16818766,126.0,129.0
+Vermivora cyanoptera_Blue-winged Warbler,0.100344166,128.0,131.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11335087,129.0,132.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.14014626,133.0,136.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.16126423,144.0,147.0

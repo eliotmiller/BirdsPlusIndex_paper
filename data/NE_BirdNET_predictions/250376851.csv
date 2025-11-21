@@ -1,0 +1,63 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.9300043,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.6273679,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.6581426,2.0,5.0
+Vanellus chilensis_Southern Lapwing,0.10877641,6.0,9.0
+Vanellus chilensis_Southern Lapwing,0.16064562,7.0,10.0
+Vanellus chilensis_Southern Lapwing,0.14160174,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.29584032,12.0,15.0
+Geothlypis trichas_Common Yellowthroat,0.5472263,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.43806067,14.0,17.0
+Geothlypis trichas_Common Yellowthroat,0.6868347,15.0,18.0
+Geococcyx californianus_Greater Roadrunner,0.12406288,19.0,22.0
+Zenaida macroura_Mourning Dove,0.57915723,20.0,23.0
+Geococcyx californianus_Greater Roadrunner,0.14342903,20.0,23.0
+Zenaida macroura_Mourning Dove,0.52320373,21.0,24.0
+Geococcyx californianus_Greater Roadrunner,0.11249349,21.0,24.0
+Zenaida macroura_Mourning Dove,0.61365646,22.0,25.0
+Zenaida macroura_Mourning Dove,0.18938892,23.0,26.0
+Colinus virginianus_Northern Bobwhite,0.10826013,23.0,26.0
+Spizella pallida_Clay-colored Sparrow,0.2192498,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.19397718,24.0,27.0
+Sialia sialis_Eastern Bluebird,0.1000879,24.0,27.0
+Colinus virginianus_Northern Bobwhite,0.26379755,25.0,28.0
+Spizella pallida_Clay-colored Sparrow,0.132271,25.0,28.0
+Passerina ciris_Painted Bunting,0.12218403,25.0,28.0
+Geothlypis trichas_Common Yellowthroat,0.6562697,26.0,29.0
+Geothlypis trichas_Common Yellowthroat,0.697916,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.72046095,28.0,31.0
+Geothlypis trichas_Common Yellowthroat,0.9334332,29.0,32.0
+Passerina ciris_Painted Bunting,0.10482061,30.0,33.0
+Dendrocygna autumnalis_Black-bellied Whistling-Duck,0.19366427,31.0,34.0
+Baeolophus atricristatus_Black-crested Titmouse,0.15046321,35.0,38.0
+Lanius ludovicianus_Loggerhead Shrike,0.1018796,35.0,38.0
+Geothlypis trichas_Common Yellowthroat,0.7005989,38.0,41.0
+Geothlypis trichas_Common Yellowthroat,0.6550601,39.0,42.0
+Geothlypis trichas_Common Yellowthroat,0.6580765,40.0,43.0
+Geothlypis trichas_Common Yellowthroat,0.28843966,41.0,44.0
+Passerina ciris_Painted Bunting,0.26263356,42.0,45.0
+Icterus spurius_Orchard Oriole,0.17820817,42.0,45.0
+Setophaga dominica_Yellow-throated Warbler,0.1408556,42.0,45.0
+Icterus spurius_Orchard Oriole,0.21054204,43.0,46.0
+Colinus virginianus_Northern Bobwhite,0.10315692,43.0,46.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.30161494,44.0,47.0
+Icterus spurius_Orchard Oriole,0.13399376,44.0,47.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14147462,45.0,48.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.16805305,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.12309984,46.0,49.0
+Rostrhamus sociabilis_Snail Kite,0.11917802,46.0,49.0
+Rostrhamus sociabilis_Snail Kite,0.15409872,47.0,50.0
+Porphyrio martinica_Purple Gallinule,0.1031518,49.0,52.0
+Geothlypis trichas_Common Yellowthroat,0.1966386,50.0,53.0
+Passerina ciris_Painted Bunting,0.1220527,50.0,53.0
+Geothlypis trichas_Common Yellowthroat,0.36973637,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.53547347,52.0,55.0
+Geothlypis trichas_Common Yellowthroat,0.52452475,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.54768854,54.0,57.0
+Passerina ciris_Painted Bunting,0.1292015,66.0,69.0
+Passerina ciris_Painted Bunting,0.14966194,67.0,70.0
+Colinus virginianus_Northern Bobwhite,0.100042984,67.0,70.0
+Passerina ciris_Painted Bunting,0.17438598,68.0,71.0
+Buteo swainsoni_Swainson's Hawk,0.10834661,74.0,77.0
+Spatula discors_Blue-winged Teal,0.16331118,76.0,79.0
+Falco femoralis_Aplomado Falcon,0.10605864,78.0,81.0
