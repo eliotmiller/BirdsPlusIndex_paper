@@ -1,0 +1,101 @@
+species,score,start_time,end_time
+Empidonax traillii_Willow Flycatcher,0.5962986,0.0,3.0
+Empidonax minimus_Least Flycatcher,0.109436125,0.0,3.0
+Empidonax traillii_Willow Flycatcher,0.73043996,1.0,4.0
+Empidonax traillii_Willow Flycatcher,0.5778115,2.0,5.0
+Empidonax traillii_Willow Flycatcher,0.9218195,3.0,6.0
+Empidonax minimus_Least Flycatcher,0.14540736,3.0,6.0
+Empidonax wrightii_Gray Flycatcher,0.1082491,3.0,6.0
+Empidonax traillii_Willow Flycatcher,0.78034055,4.0,7.0
+Spiza americana_Dickcissel,0.1418708,4.0,7.0
+Fluvicola albiventer_Black-backed Water-Tyrant,0.10365786,4.0,7.0
+Empidonax traillii_Willow Flycatcher,0.920832,5.0,8.0
+Spiza americana_Dickcissel,0.15118672,5.0,8.0
+Empidonax traillii_Willow Flycatcher,0.45355782,6.0,9.0
+Spiza americana_Dickcissel,0.13200957,6.0,9.0
+Tyrannus verticalis_Western Kingbird,0.100997426,6.0,9.0
+Empidonax traillii_Willow Flycatcher,0.2334471,7.0,10.0
+Tyrannus verticalis_Western Kingbird,0.12050121,7.0,10.0
+Hirundo rustica_Barn Swallow,0.6039118,8.0,11.0
+Empidonax traillii_Willow Flycatcher,0.110377595,8.0,11.0
+Empidonax traillii_Willow Flycatcher,0.9037629,10.0,13.0
+Spiza americana_Dickcissel,0.27713656,10.0,13.0
+Empidonax traillii_Willow Flycatcher,0.3203641,11.0,14.0
+Human non-vocal_Human non-vocal,0.105782166,13.0,16.0
+Empidonax traillii_Willow Flycatcher,0.76546705,14.0,17.0
+Spiza americana_Dickcissel,0.17251794,14.0,17.0
+Empidonax minimus_Least Flycatcher,0.11816347,14.0,17.0
+Empidonax traillii_Willow Flycatcher,0.8980857,15.0,18.0
+Spiza americana_Dickcissel,0.15469858,15.0,18.0
+Empidonax traillii_Willow Flycatcher,0.95642,16.0,19.0
+Spiza americana_Dickcissel,0.17086275,16.0,19.0
+Empidonax minimus_Least Flycatcher,0.12089634,16.0,19.0
+Colinus virginianus_Northern Bobwhite,0.10564668,17.0,20.0
+Colinus virginianus_Northern Bobwhite,0.100870945,18.0,21.0
+Empidonax traillii_Willow Flycatcher,0.7738171,20.0,23.0
+Tyrannus verticalis_Western Kingbird,0.121594556,20.0,23.0
+Empidonax traillii_Willow Flycatcher,0.72651035,21.0,24.0
+Passerina caerulea_Blue Grosbeak,0.3339494,21.0,24.0
+Spiza americana_Dickcissel,0.12705553,21.0,24.0
+Empidonax traillii_Willow Flycatcher,0.7421812,22.0,25.0
+Empidonax minimus_Least Flycatcher,0.108485416,22.0,25.0
+Empidonax traillii_Willow Flycatcher,0.9158154,23.0,26.0
+Spiza americana_Dickcissel,0.2583253,23.0,26.0
+Tyrannus verticalis_Western Kingbird,0.12605819,23.0,26.0
+Empidonax traillii_Willow Flycatcher,0.83841366,24.0,27.0
+Passerina caerulea_Blue Grosbeak,0.5458838,24.0,27.0
+Spiza americana_Dickcissel,0.4431355,24.0,27.0
+Empidonax traillii_Willow Flycatcher,0.93876237,25.0,28.0
+Spiza americana_Dickcissel,0.23493321,25.0,28.0
+Tyrannus verticalis_Western Kingbird,0.103751086,25.0,28.0
+Empidonax traillii_Willow Flycatcher,0.6283674,26.0,29.0
+Spiza americana_Dickcissel,0.29359412,26.0,29.0
+Tyrannus verticalis_Western Kingbird,0.115679406,26.0,29.0
+Tyrannus verticalis_Western Kingbird,0.2817871,27.0,30.0
+Empidonax traillii_Willow Flycatcher,0.25822833,27.0,30.0
+Spiza americana_Dickcissel,0.13187097,27.0,30.0
+Empidonax traillii_Willow Flycatcher,0.74912345,28.0,31.0
+Spiza americana_Dickcissel,0.11939563,28.0,31.0
+Empidonax traillii_Willow Flycatcher,0.8403293,29.0,32.0
+Spiza americana_Dickcissel,0.12924561,29.0,32.0
+Empidonax minimus_Least Flycatcher,0.10632909,29.0,32.0
+Empidonax traillii_Willow Flycatcher,0.5434973,30.0,33.0
+Spiza americana_Dickcissel,0.23872262,30.0,33.0
+Passerina caerulea_Blue Grosbeak,0.15310018,30.0,33.0
+Passerina caerulea_Blue Grosbeak,0.29562432,31.0,34.0
+Spiza americana_Dickcissel,0.34475097,32.0,35.0
+Empidonax traillii_Willow Flycatcher,0.28925636,32.0,35.0
+Passerina caerulea_Blue Grosbeak,0.17687431,32.0,35.0
+Colinus virginianus_Northern Bobwhite,0.120612636,32.0,35.0
+Empidonax traillii_Willow Flycatcher,0.31517258,33.0,36.0
+Spiza americana_Dickcissel,0.18945676,33.0,36.0
+Engine_Engine,0.49233854,36.0,39.0
+Power tools_Power tools,0.40609592,36.0,39.0
+Empidonax traillii_Willow Flycatcher,0.8136146,37.0,40.0
+Empidonax traillii_Willow Flycatcher,0.28273857,42.0,45.0
+Empidonax traillii_Willow Flycatcher,0.14326715,43.0,46.0
+Empidonax traillii_Willow Flycatcher,0.30574194,44.0,47.0
+Empidonax minimus_Least Flycatcher,0.2306559,44.0,47.0
+Engine_Engine,0.11491546,45.0,48.0
+Engine_Engine,0.50700384,46.0,49.0
+Power tools_Power tools,0.32127476,46.0,49.0
+Engine_Engine,0.43457183,47.0,50.0
+Power tools_Power tools,0.40656906,47.0,50.0
+Empidonax traillii_Willow Flycatcher,0.152397,49.0,52.0
+Empidonax traillii_Willow Flycatcher,0.6757413,50.0,53.0
+Spatula discors_Blue-winged Teal,0.1326744,50.0,53.0
+Empidonax traillii_Willow Flycatcher,0.48771578,51.0,54.0
+Empidonax traillii_Willow Flycatcher,0.74890196,52.0,55.0
+Spinus tristis_American Goldfinch,0.43568277,53.0,56.0
+Parkesia noveboracensis_Northern Waterthrush,0.20344064,54.0,57.0
+Empidonax traillii_Willow Flycatcher,0.13149369,54.0,57.0
+Spinus tristis_American Goldfinch,0.13225812,55.0,58.0
+Spinus tristis_American Goldfinch,0.14258629,56.0,59.0
+Spinus tristis_American Goldfinch,0.24430247,57.0,60.0
+Empidonax traillii_Willow Flycatcher,0.23503816,58.0,61.0
+Empidonax traillii_Willow Flycatcher,0.52122927,59.0,62.0
+Empidonax traillii_Willow Flycatcher,0.41962636,60.0,63.0
+Empidonax traillii_Willow Flycatcher,0.9246542,61.0,64.0
+Spiza americana_Dickcissel,0.34949464,61.0,64.0
+Empidonax traillii_Willow Flycatcher,0.8843032,62.0,65.0
+Empidonax traillii_Willow Flycatcher,0.87811834,63.0,66.0

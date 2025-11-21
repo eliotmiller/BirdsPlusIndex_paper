@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.109736584,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.41477644,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.15762626,1.0,4.0
+Strix varia_Barred Owl,0.18886128,2.0,5.0
+Buteo platypterus_Broad-winged Hawk,0.118810736,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.10460572,2.0,5.0
+Strix varia_Barred Owl,0.14903323,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.9903501,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.9971758,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.9948089,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.9871443,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.25421426,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.17908008,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16312158,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.14004119,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.10995343,11.0,14.0
+Parkesia motacilla_Louisiana Waterthrush,0.107091725,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.117254525,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.1068595,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.1335513,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.17135161,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15494135,18.0,21.0
+Buteo platypterus_Broad-winged Hawk,0.11736962,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.49768198,19.0,22.0
+Geothlypis philadelphia_Mourning Warbler,0.13531004,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.11407506,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.10156877,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.9971589,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.99908054,21.0,24.0
+Geothlypis formosa_Kentucky Warbler,0.9956138,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.9894985,23.0,26.0
+Human non-vocal_Human non-vocal,0.822698,25.0,28.0
+Engine_Engine,0.11185233,25.0,28.0
+Human non-vocal_Human non-vocal,0.7526538,26.0,29.0
+Power tools_Power tools,0.21677813,26.0,29.0
+Engine_Engine,0.11052901,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.100620195,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.37176493,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.520837,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12338068,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.3521932,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2107948,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.46368387,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.15841407,33.0,36.0
+Setophaga citrina_Hooded Warbler,0.1575204,33.0,36.0
+Geothlypis philadelphia_Mourning Warbler,0.13639529,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.99327564,34.0,37.0
+Geothlypis formosa_Kentucky Warbler,0.99866307,35.0,38.0
+Geothlypis formosa_Kentucky Warbler,0.99646866,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.992773,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.2711366,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122447476,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.29652673,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.15908915,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.1262813,42.0,45.0
+Buteo platypterus_Broad-winged Hawk,0.110346496,43.0,46.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17835286,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.15478443,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.13473195,45.0,48.0
+Buteo platypterus_Broad-winged Hawk,0.102683775,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.102684066,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.19959593,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.1093988,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.95368147,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.99869114,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.9921496,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.97138983,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.34155375,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.13767163,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12228145,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.31826505,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.1268836,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114879884,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.68703127,54.0,57.0

@@ -1,0 +1,125 @@
+species,score,start_time,end_time
+Vireo solitarius_Blue-headed Vireo,0.98602,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.16947165,0.0,3.0
+Vireo solitarius_Blue-headed Vireo,0.99410605,1.0,4.0
+Vireo cassinii_Cassin's Vireo,0.14829601,1.0,4.0
+Vireo solitarius_Blue-headed Vireo,0.9939243,2.0,5.0
+Vireo solitarius_Blue-headed Vireo,0.97477496,3.0,6.0
+Vireo solitarius_Blue-headed Vireo,0.97508156,4.0,7.0
+Vireo solitarius_Blue-headed Vireo,0.9841372,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.9960443,6.0,9.0
+Vireo solitarius_Blue-headed Vireo,0.9950506,7.0,10.0
+Vireo solitarius_Blue-headed Vireo,0.9895237,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.99126047,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.12607116,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.99643755,10.0,13.0
+Vireo solitarius_Blue-headed Vireo,0.9960284,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.98194754,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.95773256,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.8763146,14.0,17.0
+Vireo cassinii_Cassin's Vireo,0.20787281,14.0,17.0
+Vireo solitarius_Blue-headed Vireo,0.96602905,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.93475604,16.0,19.0
+Vireo solitarius_Blue-headed Vireo,0.99312073,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.99822253,18.0,21.0
+Vireo solitarius_Blue-headed Vireo,0.9845578,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.15426892,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.12780903,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11649555,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15311238,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.12560591,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.12097799,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.40970844,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16520971,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.81844604,25.0,28.0
+Vireo solitarius_Blue-headed Vireo,0.6163826,26.0,29.0
+Vireo solitarius_Blue-headed Vireo,0.26875314,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.1063201,27.0,30.0
+Vireo solitarius_Blue-headed Vireo,0.6527093,28.0,31.0
+Contopus virens_Eastern Wood-Pewee,0.15890156,28.0,31.0
+Vireo solitarius_Blue-headed Vireo,0.9428654,29.0,32.0
+Vireo cassinii_Cassin's Vireo,0.11212129,29.0,32.0
+Vireo solitarius_Blue-headed Vireo,0.9883316,30.0,33.0
+Vireo cassinii_Cassin's Vireo,0.20916866,30.0,33.0
+Vireo solitarius_Blue-headed Vireo,0.9986506,31.0,34.0
+Vireo cassinii_Cassin's Vireo,0.24466963,31.0,34.0
+Vireo solitarius_Blue-headed Vireo,0.9942411,32.0,35.0
+Vireo cassinii_Cassin's Vireo,0.116931096,32.0,35.0
+Vireo solitarius_Blue-headed Vireo,0.98849773,33.0,36.0
+Vireo cassinii_Cassin's Vireo,0.59224665,33.0,36.0
+Vireo solitarius_Blue-headed Vireo,0.9733358,34.0,37.0
+Vireo cassinii_Cassin's Vireo,0.1773669,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.9458998,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.9096041,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.19536285,36.0,39.0
+Vireo solitarius_Blue-headed Vireo,0.85127574,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.16918914,37.0,40.0
+Vireo solitarius_Blue-headed Vireo,0.99532545,38.0,41.0
+Vireo solitarius_Blue-headed Vireo,0.96548045,39.0,42.0
+Vireo solitarius_Blue-headed Vireo,0.97504765,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.21744247,40.0,43.0
+Vireo solitarius_Blue-headed Vireo,0.9113154,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.17801213,41.0,44.0
+Vireo solitarius_Blue-headed Vireo,0.9519128,42.0,45.0
+Vireo solitarius_Blue-headed Vireo,0.95528525,43.0,46.0
+Vireo solitarius_Blue-headed Vireo,0.9743755,44.0,47.0
+Vireo solitarius_Blue-headed Vireo,0.86268383,45.0,48.0
+Vireo huttoni_Hutton's Vireo,0.27207106,45.0,48.0
+Vireo solitarius_Blue-headed Vireo,0.864198,46.0,49.0
+Vireo huttoni_Hutton's Vireo,0.30726305,46.0,49.0
+Vireo cassinii_Cassin's Vireo,0.14044456,46.0,49.0
+Vireo solitarius_Blue-headed Vireo,0.7448859,47.0,50.0
+Vireo cassinii_Cassin's Vireo,0.19709109,47.0,50.0
+Vireo solitarius_Blue-headed Vireo,0.769773,48.0,51.0
+Vireo solitarius_Blue-headed Vireo,0.98133343,49.0,52.0
+Vireo cassinii_Cassin's Vireo,0.10708218,49.0,52.0
+Vireo solitarius_Blue-headed Vireo,0.9961946,50.0,53.0
+Vireo solitarius_Blue-headed Vireo,0.995086,51.0,54.0
+Vireo solitarius_Blue-headed Vireo,0.99507517,52.0,55.0
+Vireo solitarius_Blue-headed Vireo,0.97611487,53.0,56.0
+Vireo solitarius_Blue-headed Vireo,0.923324,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.11710678,54.0,57.0
+Vireo solitarius_Blue-headed Vireo,0.8144265,55.0,58.0
+Vireo solitarius_Blue-headed Vireo,0.92235464,56.0,59.0
+Vireo solitarius_Blue-headed Vireo,0.9830087,57.0,60.0
+Vireo solitarius_Blue-headed Vireo,0.9880585,58.0,61.0
+Vireo solitarius_Blue-headed Vireo,0.99083775,59.0,62.0
+Vireo solitarius_Blue-headed Vireo,0.8782411,60.0,63.0
+Vireo solitarius_Blue-headed Vireo,0.9655074,61.0,64.0
+Vireo solitarius_Blue-headed Vireo,0.9932214,62.0,65.0
+Vireo solitarius_Blue-headed Vireo,0.99552625,63.0,66.0
+Vireo solitarius_Blue-headed Vireo,0.9858838,64.0,67.0
+Vireo solitarius_Blue-headed Vireo,0.9924229,65.0,68.0
+Vireo solitarius_Blue-headed Vireo,0.95840037,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.101999424,66.0,69.0
+Vireo solitarius_Blue-headed Vireo,0.997207,67.0,70.0
+Vireo solitarius_Blue-headed Vireo,0.9979498,68.0,71.0
+Vireo solitarius_Blue-headed Vireo,0.99175686,69.0,72.0
+Contopus virens_Eastern Wood-Pewee,0.66529113,70.0,73.0
+Vireo solitarius_Blue-headed Vireo,0.94647384,71.0,74.0
+Vireo solitarius_Blue-headed Vireo,0.9547589,72.0,75.0
+Vireo solitarius_Blue-headed Vireo,0.9846919,73.0,76.0
+Pellorneum tickelli_Buff-breasted Babbler,0.30316323,73.0,76.0
+Vireo solitarius_Blue-headed Vireo,0.99503434,74.0,77.0
+Vireo solitarius_Blue-headed Vireo,0.9976788,75.0,78.0
+Vireo solitarius_Blue-headed Vireo,0.9816975,76.0,79.0
+Vireo solitarius_Blue-headed Vireo,0.79777384,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.17985415,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.42683053,78.0,81.0
+Vireo solitarius_Blue-headed Vireo,0.31364098,78.0,81.0
+Vireo cassinii_Cassin's Vireo,0.102170676,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.49459243,79.0,82.0
+Vireo solitarius_Blue-headed Vireo,0.40851083,79.0,82.0
+Setophaga virens_Black-throated Green Warbler,0.211414,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.8756256,80.0,83.0
+Setophaga virens_Black-throated Green Warbler,0.103350274,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.12305635,81.0,84.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12009309,81.0,84.0
+Setophaga citrina_Hooded Warbler,0.11863945,81.0,84.0
+Granatellus sallaei_Gray-throated Chat,0.18126296,84.0,87.0
+Pheugopedius maculipectus_Spot-breasted Wren,0.14003757,85.0,88.0
+Vireo solitarius_Blue-headed Vireo,0.6873595,87.0,90.0
+Vireo solitarius_Blue-headed Vireo,0.8811808,88.0,91.0
+Vireo solitarius_Blue-headed Vireo,0.5388977,89.0,92.0
+Vireo solitarius_Blue-headed Vireo,0.2590634,90.0,93.0
+Vireo solitarius_Blue-headed Vireo,0.22014986,92.0,94.12802721088435

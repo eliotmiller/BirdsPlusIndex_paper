@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.68391776,1.0,4.0
+Colinus virginianus_Northern Bobwhite,0.8169738,2.0,5.0
+Colinus virginianus_Northern Bobwhite,0.62076473,3.0,6.0
+Colinus cristatus_Crested Bobwhite,0.18861645,3.0,6.0
+Corvus ossifragus_Fish Crow,0.29021657,17.0,20.0
+Colinus virginianus_Northern Bobwhite,0.9606057,18.0,21.0
+Colinus virginianus_Northern Bobwhite,0.9545365,19.0,22.0
+Colinus virginianus_Northern Bobwhite,0.9490116,20.0,23.0
+Corvus ossifragus_Fish Crow,0.35128888,25.0,28.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.17341216,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.15395653,25.0,28.0
+Corvus imparatus_Tamaulipas Crow,0.14451104,25.0,28.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.13592751,25.0,28.0
+Colinus virginianus_Northern Bobwhite,0.14636722,27.0,30.0
+Corvus ossifragus_Fish Crow,0.14502014,27.0,30.0
+Colinus virginianus_Northern Bobwhite,0.98426175,28.0,31.0
+Colinus virginianus_Northern Bobwhite,0.9961218,29.0,32.0
+Colinus virginianus_Northern Bobwhite,0.98565984,30.0,33.0
+Colinus virginianus_Northern Bobwhite,0.9670933,31.0,34.0
+Colinus cristatus_Crested Bobwhite,0.7104622,31.0,34.0
+Engine_Engine,0.39279053,32.0,35.0
+Engine_Engine,0.29322252,33.0,36.0
+Engine_Engine,0.3720407,34.0,37.0
+Engine_Engine,0.1555087,35.0,38.0
+Engine_Engine,0.21677527,37.0,40.0
+Corvus ossifragus_Fish Crow,0.11033309,42.0,45.0
+Engine_Engine,0.29047862,43.0,46.0
+Engine_Engine,0.13942514,44.0,47.0
+Engine_Engine,0.26206428,46.0,49.0
+Chiroxiphia linearis_Long-tailed Manakin,0.17515104,47.0,50.0
+Myophonus horsfieldii_Malabar Whistling-Thrush,0.13129763,47.0,50.0
+Colinus virginianus_Northern Bobwhite,0.98771906,48.0,51.0
+Colinus virginianus_Northern Bobwhite,0.9883456,49.0,52.0
+Colinus virginianus_Northern Bobwhite,0.9813029,50.0,53.0
+Colinus virginianus_Northern Bobwhite,0.13008381,51.0,54.0
+Engine_Engine,0.25318858,55.0,58.0
+Engine_Engine,0.5799569,56.0,59.0
+Engine_Engine,0.53289056,57.0,60.0
+Engine_Engine,0.546793,58.0,61.0
+Engine_Engine,0.54010147,59.0,62.0
+Engine_Engine,0.19541354,60.0,63.0
+Engine_Engine,0.6547166,61.0,64.0
+Engine_Engine,0.5199111,62.0,65.0
+Engine_Engine,0.6119776,63.0,66.0
+Engine_Engine,0.8853602,64.0,67.0
+Engine_Engine,0.87869734,65.0,68.0
+Engine_Engine,0.5289398,66.0,69.0
+Corvus ossifragus_Fish Crow,0.18790866,67.0,70.0
+Engine_Engine,0.38401142,68.0,71.0
+Engine_Engine,0.46726143,69.0,72.0
+Colinus virginianus_Northern Bobwhite,0.21852747,70.0,73.0
+Colinus virginianus_Northern Bobwhite,0.9897792,71.0,74.0
+Colinus virginianus_Northern Bobwhite,0.99127156,72.0,75.0
+Colinus virginianus_Northern Bobwhite,0.92418516,73.0,76.0
+Pachycephala homeyeri_White-vented Whistler,0.24350438,77.0,80.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17601804,80.0,83.0
+Sialia sialis_Eastern Bluebird,0.13634203,82.0,85.0
+Sialia sialis_Eastern Bluebird,0.11121458,83.0,86.0
+Colinus virginianus_Northern Bobwhite,0.9621508,84.0,87.0
+Colinus virginianus_Northern Bobwhite,0.96854234,85.0,88.0
+Colinus virginianus_Northern Bobwhite,0.8925831,86.0,89.0
+Colinus virginianus_Northern Bobwhite,0.964895,87.0,90.0
+Ictinia mississippiensis_Mississippi Kite,0.26455006,90.0,93.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1062815,93.0,96.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10996566,96.0,99.0
+Archilochus colubris_Ruby-throated Hummingbird,0.11379804,98.0,101.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10837605,99.0,102.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10609099,100.0,103.0
+Colinus virginianus_Northern Bobwhite,0.9678044,106.0,109.0
+Colinus virginianus_Northern Bobwhite,0.9745378,107.0,110.0
+Colinus virginianus_Northern Bobwhite,0.96214384,108.0,111.0
+Toxostoma rufum_Brown Thrasher,0.22991468,109.0,112.0
+Colinus virginianus_Northern Bobwhite,0.12495507,109.0,112.0
+Corvus ossifragus_Fish Crow,0.99403054,111.0,114.0
+Corvus ossifragus_Fish Crow,0.9857026,112.0,115.0
+Corvus ossifragus_Fish Crow,0.995436,113.0,116.0
+Corvus ossifragus_Fish Crow,0.98056096,114.0,117.0
+Corvus ossifragus_Fish Crow,0.98279876,115.0,118.0
+Engine_Engine,0.28806067,118.0,121.0
+Colinus virginianus_Northern Bobwhite,0.9710708,123.0,126.0
+Colinus virginianus_Northern Bobwhite,0.9746762,124.0,127.0
+Colinus virginianus_Northern Bobwhite,0.92655724,125.0,128.0
+Corvus ossifragus_Fish Crow,0.1069849,126.0,129.0
+Rallus crepitans_Clapper Rail,0.10586751,130.0,133.0
+Quiscalus quiscula_Common Grackle,0.12267941,131.0,134.0
+Quiscalus quiscula_Common Grackle,0.16884556,133.0,136.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13254647,134.0,137.0
+Archilochus colubris_Ruby-throated Hummingbird,0.108495265,134.0,137.0
+Colinus virginianus_Northern Bobwhite,0.9640279,138.0,141.0
+Colinus virginianus_Northern Bobwhite,0.9693536,139.0,142.0
+Colinus virginianus_Northern Bobwhite,0.9835392,140.0,143.0
+Colinus virginianus_Northern Bobwhite,0.55495596,141.0,143.01600907029479
+Toxostoma rufum_Brown Thrasher,0.24271685,141.0,143.01600907029479

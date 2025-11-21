@@ -1,0 +1,53 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.9928935,0.0,3.0
+Melospiza melodia_Song Sparrow,0.7211216,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.11214616,4.0,7.0
+Loxia leucoptera_White-winged Crossbill,0.22528303,9.0,12.0
+Emberiza calandra_Corn Bunting,0.35599732,10.0,13.0
+Cisticola juncidis_Zitting Cisticola,0.11379386,10.0,13.0
+Melospiza melodia_Song Sparrow,0.43854198,11.0,14.0
+Melospiza melodia_Song Sparrow,0.84362817,12.0,15.0
+Melospiza melodia_Song Sparrow,0.1957565,13.0,16.0
+Anthus hellmayri_Hellmayr's Pipit,0.72688335,14.0,17.0
+Saxicola rubetra_Whinchat,0.18892878,14.0,17.0
+Myadestes palmeri_Puaiohi,0.16973494,20.0,23.0
+Troglodytes troglodytes_Eurasian Wren,0.15247898,21.0,24.0
+Melospiza melodia_Song Sparrow,0.7221832,22.0,25.0
+Melospiza melodia_Song Sparrow,0.8485542,23.0,26.0
+Melospiza melodia_Song Sparrow,0.6846035,24.0,27.0
+Melospiza melodia_Song Sparrow,0.121998966,25.0,28.0
+Calcarius lapponicus_Lapland Longspur,0.13190174,26.0,29.0
+Chondestes grammacus_Lark Sparrow,0.23631665,27.0,30.0
+Pooecetes gramineus_Vesper Sparrow,0.13534917,27.0,30.0
+Pooecetes gramineus_Vesper Sparrow,0.10999677,28.0,31.0
+Melospiza melodia_Song Sparrow,0.18355678,29.0,32.0
+Pooecetes gramineus_Vesper Sparrow,0.11098425,29.0,32.0
+Chloris chloris_European Greenfinch,0.2739713,30.0,33.0
+Melospiza melodia_Song Sparrow,0.12374745,30.0,33.0
+Geothlypis trichas_Common Yellowthroat,0.38254455,31.0,34.0
+Geothlypis trichas_Common Yellowthroat,0.75555915,32.0,35.0
+Geothlypis trichas_Common Yellowthroat,0.14186628,33.0,36.0
+Melospiza melodia_Song Sparrow,0.24522991,34.0,37.0
+Melospiza melodia_Song Sparrow,0.52731574,35.0,38.0
+Melospiza melodia_Song Sparrow,0.5778124,36.0,39.0
+Melospiza melodia_Song Sparrow,0.37351155,37.0,40.0
+Spizelloides arborea_American Tree Sparrow,0.13190123,38.0,41.0
+Spinus lawrencei_Lawrence's Goldfinch,0.14129491,39.0,42.0
+Ammospiza maritima_Seaside Sparrow,0.31071988,40.0,43.0
+Spizella pallida_Clay-colored Sparrow,0.12188586,43.0,46.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11014933,43.0,46.0
+Melospiza melodia_Song Sparrow,0.42261353,45.0,48.0
+Melospiza melodia_Song Sparrow,0.895278,46.0,49.0
+Melospiza melodia_Song Sparrow,0.9282217,47.0,50.0
+Melospiza melodia_Song Sparrow,0.844418,48.0,51.0
+Melospiza melodia_Song Sparrow,0.48211128,49.0,52.0
+Melospiza melodia_Song Sparrow,0.15017132,50.0,53.0
+Empidonax traillii_Willow Flycatcher,0.12290473,52.0,55.0
+Geothlypis trichas_Common Yellowthroat,0.59363055,53.0,56.0
+Spizella pallida_Clay-colored Sparrow,0.13762614,53.0,56.0
+Geothlypis trichas_Common Yellowthroat,0.6213398,54.0,57.0
+Spizella pallida_Clay-colored Sparrow,0.16055788,54.0,57.0
+Ammospiza maritima_Seaside Sparrow,0.12020021,55.0,58.0
+Melospiza melodia_Song Sparrow,0.74760365,56.0,59.0
+Melospiza melodia_Song Sparrow,0.9699486,57.0,60.0
+Melospiza melodia_Song Sparrow,0.9404227,58.0,60.84

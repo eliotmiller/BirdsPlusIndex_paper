@@ -1,0 +1,193 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.123336144,0.0,3.0
+Buteo platypterus_Broad-winged Hawk,0.15694454,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13605905,2.0,5.0
+Empidonax virescens_Acadian Flycatcher,0.9800045,3.0,6.0
+Empidonax virescens_Acadian Flycatcher,0.9980313,4.0,7.0
+Empidonax virescens_Acadian Flycatcher,0.9979977,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.52773976,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.12370295,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11846876,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122767314,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13781244,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14433503,12.0,15.0
+Buteo platypterus_Broad-winged Hawk,0.13880953,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21564753,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.12378923,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.26845887,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13820997,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11970335,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.96885085,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.9969357,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.99745303,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13757668,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12729552,21.0,24.0
+Catharus fuscescens_Veery,0.179781,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11211526,22.0,25.0
+Empidonax virescens_Acadian Flycatcher,0.98683375,24.0,27.0
+Empidonax virescens_Acadian Flycatcher,0.9969464,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.99794453,26.0,29.0
+Catharus fuscescens_Veery,0.3672389,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.14752948,30.0,33.0
+Catharus fuscescens_Veery,0.24115695,31.0,34.0
+Empidonax virescens_Acadian Flycatcher,0.31638923,32.0,35.0
+Catharus fuscescens_Veery,0.18771999,32.0,35.0
+Xenopsaris albinucha_White-naped Xenopsaris,0.15923952,35.0,38.0
+Sterna paradisaea_Arctic Tern,0.10135304,36.0,39.0
+Catharus fuscescens_Veery,0.40503475,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.9819087,38.0,41.0
+Empidonax virescens_Acadian Flycatcher,0.9980445,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.99841297,40.0,43.0
+Catharus fuscescens_Veery,0.4698338,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1454357,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.11211816,41.0,44.0
+Catharus fuscescens_Veery,0.7693831,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.2323293,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12875469,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.12419007,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17106283,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15494208,44.0,47.0
+Catharus fuscescens_Veery,0.73312896,45.0,48.0
+Catharus fuscescens_Veery,0.75726074,46.0,49.0
+Catharus fuscescens_Veery,0.7946481,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.9981192,48.0,51.0
+Empidonax virescens_Acadian Flycatcher,0.9923177,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.9987098,50.0,53.0
+Catharus fuscescens_Veery,0.9605334,51.0,54.0
+Tamias striatus_Eastern Chipmunk,0.16613872,51.0,54.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.108382836,52.0,55.0
+Catharus fuscescens_Veery,0.8187371,53.0,56.0
+Catharus fuscescens_Veery,0.9361006,54.0,57.0
+Catharus fuscescens_Veery,0.95410395,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.85862315,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.99491173,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.9970675,58.0,61.0
+Empidonax virescens_Acadian Flycatcher,0.41993046,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2182745,60.0,63.0
+Catharus fuscescens_Veery,0.15301682,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.12501903,60.0,63.0
+Catharus fuscescens_Veery,0.9545147,61.0,64.0
+Catharus fuscescens_Veery,0.9487561,62.0,65.0
+Catharus fuscescens_Veery,0.11847276,63.0,66.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1903863,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18783781,64.0,67.0
+Empidonax virescens_Acadian Flycatcher,0.9975103,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.997664,66.0,69.0
+Empidonax virescens_Acadian Flycatcher,0.9975885,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33414534,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.1908398,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28567043,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.1656922,69.0,72.0
+Catharus fuscescens_Veery,0.95946795,70.0,73.0
+Catharus fuscescens_Veery,0.97173184,71.0,74.0
+Catharus fuscescens_Veery,0.83289486,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25998658,73.0,76.0
+Catharus fuscescens_Veery,0.969262,74.0,77.0
+Catharus fuscescens_Veery,0.94891053,75.0,78.0
+Empidonax virescens_Acadian Flycatcher,0.98751175,76.0,79.0
+Empidonax virescens_Acadian Flycatcher,0.9952443,77.0,80.0
+Empidonax virescens_Acadian Flycatcher,0.9973506,78.0,81.0
+Catharus fuscescens_Veery,0.92755604,79.0,82.0
+Tamias striatus_Eastern Chipmunk,0.11684217,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10710039,79.0,82.0
+Catharus fuscescens_Veery,0.61213493,80.0,83.0
+Piranga olivacea_Scarlet Tanager,0.18849781,80.0,83.0
+Catharus fuscescens_Veery,0.9557147,81.0,84.0
+Catharus fuscescens_Veery,0.91799116,82.0,85.0
+Catharus fuscescens_Veery,0.5248126,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.20325668,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1694727,84.0,87.0
+Catharus fuscescens_Veery,0.9080574,85.0,88.0
+Catharus fuscescens_Veery,0.8829398,86.0,89.0
+Catharus fuscescens_Veery,0.86761665,87.0,90.0
+Piranga olivacea_Scarlet Tanager,0.12031248,87.0,90.0
+Empidonax virescens_Acadian Flycatcher,0.8301918,88.0,91.0
+Empidonax virescens_Acadian Flycatcher,0.99185103,89.0,92.0
+Empidonax virescens_Acadian Flycatcher,0.98553157,90.0,93.0
+Catharus fuscescens_Veery,0.15440854,91.0,94.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1897191,92.0,95.0
+Buteo platypterus_Broad-winged Hawk,0.1612636,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1526886,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10805046,95.0,98.0
+Empidonax virescens_Acadian Flycatcher,0.99671614,96.0,99.0
+Empidonax virescens_Acadian Flycatcher,0.9818994,97.0,100.0
+Empidonax virescens_Acadian Flycatcher,0.9919208,98.0,101.0
+Catharus fuscescens_Veery,0.60505784,99.0,102.0
+Piranga olivacea_Scarlet Tanager,0.1149528,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116511434,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13379703,106.0,109.0
+Empidonax virescens_Acadian Flycatcher,0.99606127,107.0,110.0
+Empidonax virescens_Acadian Flycatcher,0.99745053,108.0,111.0
+Empidonax virescens_Acadian Flycatcher,0.99739814,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10952297,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24134596,115.0,118.0
+Setophaga cerulea_Cerulean Warbler,0.14288178,115.0,118.0
+Empidonax virescens_Acadian Flycatcher,0.9946233,116.0,119.0
+Empidonax virescens_Acadian Flycatcher,0.9976392,117.0,120.0
+Empidonax virescens_Acadian Flycatcher,0.9967372,118.0,121.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11497143,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114902034,119.0,122.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12706178,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10337302,121.0,124.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10124444,122.0,125.0
+Empidonax virescens_Acadian Flycatcher,0.9965597,124.0,127.0
+Empidonax virescens_Acadian Flycatcher,0.9987117,125.0,128.0
+Empidonax virescens_Acadian Flycatcher,0.99807405,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15749867,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24655227,128.0,131.0
+Setophaga cerulea_Cerulean Warbler,0.14320268,128.0,131.0
+Empidonax virescens_Acadian Flycatcher,0.8846643,132.0,135.0
+Empidonax virescens_Acadian Flycatcher,0.99655735,133.0,136.0
+Empidonax virescens_Acadian Flycatcher,0.99770373,134.0,137.0
+Empidonax virescens_Acadian Flycatcher,0.9362193,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1864055,136.0,139.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12621082,137.0,140.0
+Catharus fuscescens_Veery,0.1764791,140.0,143.0
+Empidonax virescens_Acadian Flycatcher,0.9970174,141.0,144.0
+Empidonax virescens_Acadian Flycatcher,0.99909866,142.0,145.0
+Empidonax virescens_Acadian Flycatcher,0.9982541,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15473965,144.0,147.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14585426,145.0,148.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19792505,146.0,149.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11400248,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108720236,148.0,151.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17494443,149.0,152.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15615094,150.0,153.0
+Empidonax virescens_Acadian Flycatcher,0.93170214,152.0,155.0
+Empidonax virescens_Acadian Flycatcher,0.9920848,153.0,156.0
+Empidonax virescens_Acadian Flycatcher,0.99784267,154.0,157.0
+Empidonax virescens_Acadian Flycatcher,0.3903294,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18150799,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13759767,161.0,164.0
+Empidonax virescens_Acadian Flycatcher,0.9973254,162.0,165.0
+Empidonax virescens_Acadian Flycatcher,0.9980252,163.0,166.0
+Empidonax virescens_Acadian Flycatcher,0.9923592,164.0,167.0
+Catharus fuscescens_Veery,0.14632772,165.0,168.0
+Catharus fuscescens_Veery,0.18009984,166.0,169.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14950264,167.0,170.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14746177,168.0,171.0
+Catharus fuscescens_Veery,0.48875332,169.0,172.0
+Falco deiroleucus_Orange-breasted Falcon,0.1589446,169.0,172.0
+Catharus fuscescens_Veery,0.75425553,170.0,173.0
+Falco deiroleucus_Orange-breasted Falcon,0.11483739,170.0,173.0
+Catharus fuscescens_Veery,0.27057174,171.0,174.0
+Tamias striatus_Eastern Chipmunk,0.2175036,171.0,174.0
+Tamias striatus_Eastern Chipmunk,0.27914792,172.0,175.0
+Falco deiroleucus_Orange-breasted Falcon,0.112078644,174.0,177.0
+Tamias striatus_Eastern Chipmunk,0.16317458,177.0,180.0
+Tamias striatus_Eastern Chipmunk,0.17280929,178.0,181.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13117214,178.0,181.0
+Tamias striatus_Eastern Chipmunk,0.11468046,179.0,182.0
+Setophaga cerulea_Cerulean Warbler,0.10623331,180.0,183.0
+Tamias striatus_Eastern Chipmunk,0.106444634,181.0,184.0
+Empidonax virescens_Acadian Flycatcher,0.13902834,182.0,185.0
+Empidonax virescens_Acadian Flycatcher,0.25541034,183.0,186.0
+Setophaga cerulea_Cerulean Warbler,0.116764836,185.0,188.0
+Tamias striatus_Eastern Chipmunk,0.2103719,186.0,189.0
+Setophaga cerulea_Cerulean Warbler,0.1250937,186.0,189.0
+Tamias striatus_Eastern Chipmunk,0.10139694,188.0,191.0
+Setophaga cerulea_Cerulean Warbler,0.24148963,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1989463,189.0,192.0
+Empidonax virescens_Acadian Flycatcher,0.67908126,190.0,193.0
+Empidonax virescens_Acadian Flycatcher,0.78228754,191.0,194.0
+Empidonax virescens_Acadian Flycatcher,0.90069014,192.0,194.20802721088435

@@ -1,0 +1,415 @@
+species,score,start_time,end_time
+Passerina cyanea_Indigo Bunting,0.5913365,0.0,3.0
+Callipepla californica_California Quail,0.12666051,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.2917551,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.17699482,3.0,6.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.10453877,3.0,6.0
+Passerina cyanea_Indigo Bunting,0.31223074,4.0,7.0
+Passerina cyanea_Indigo Bunting,0.87768567,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.7643012,6.0,9.0
+Passerina cyanea_Indigo Bunting,0.7219909,7.0,10.0
+Passerina cyanea_Indigo Bunting,0.6761611,8.0,11.0
+Passerina amoena_Lazuli Bunting,0.15389991,8.0,11.0
+Passerina cyanea_Indigo Bunting,0.668662,9.0,12.0
+Passerina amoena_Lazuli Bunting,0.16626465,9.0,12.0
+Passerina cyanea_Indigo Bunting,0.7634989,10.0,13.0
+Passerina amoena_Lazuli Bunting,0.39486846,10.0,13.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.12514585,10.0,13.0
+Passerina cyanea_Indigo Bunting,0.86472064,11.0,14.0
+Passerina amoena_Lazuli Bunting,0.45807457,11.0,14.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.2258591,11.0,14.0
+Passerina cyanea_Indigo Bunting,0.85312676,12.0,15.0
+Passerina amoena_Lazuli Bunting,0.25518695,12.0,15.0
+Passerina cyanea_Indigo Bunting,0.77594966,13.0,16.0
+Passerina amoena_Lazuli Bunting,0.29300484,13.0,16.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.13570736,13.0,16.0
+Passerina cyanea_Indigo Bunting,0.51024866,14.0,17.0
+Passerina amoena_Lazuli Bunting,0.32870862,14.0,17.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.16008268,14.0,17.0
+Passerina cyanea_Indigo Bunting,0.67677283,15.0,18.0
+Passerina amoena_Lazuli Bunting,0.18772785,15.0,18.0
+Passerina cyanea_Indigo Bunting,0.71686023,16.0,19.0
+Passerina cyanea_Indigo Bunting,0.8831872,17.0,20.0
+Passerina cyanea_Indigo Bunting,0.9463241,18.0,21.0
+Passerina amoena_Lazuli Bunting,0.1023801,18.0,21.0
+Passerina cyanea_Indigo Bunting,0.9525988,19.0,22.0
+Passerina amoena_Lazuli Bunting,0.2290141,19.0,22.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.10210051,19.0,22.0
+Passerina cyanea_Indigo Bunting,0.73401624,20.0,23.0
+Passerina amoena_Lazuli Bunting,0.20961346,20.0,23.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.17186603,20.0,23.0
+Passerina cyanea_Indigo Bunting,0.8225359,21.0,24.0
+Passerina amoena_Lazuli Bunting,0.35133022,21.0,24.0
+Passerina cyanea_Indigo Bunting,0.78945935,22.0,25.0
+Passerina amoena_Lazuli Bunting,0.61546636,22.0,25.0
+Passerina cyanea_Indigo Bunting,0.96921355,23.0,26.0
+Passerina amoena_Lazuli Bunting,0.5420163,23.0,26.0
+Passerina cyanea_Indigo Bunting,0.9875973,24.0,27.0
+Passerina amoena_Lazuli Bunting,0.22223622,24.0,27.0
+Passerina cyanea_Indigo Bunting,0.9847484,25.0,28.0
+Passerina amoena_Lazuli Bunting,0.15361533,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.9746148,26.0,29.0
+Passerina amoena_Lazuli Bunting,0.11434228,26.0,29.0
+Passerina cyanea_Indigo Bunting,0.96211714,27.0,30.0
+Passerina amoena_Lazuli Bunting,0.23279431,27.0,30.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.11412471,27.0,30.0
+Passerina cyanea_Indigo Bunting,0.9340781,28.0,31.0
+Passerina amoena_Lazuli Bunting,0.18117735,28.0,31.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.13364708,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.9677739,29.0,32.0
+Passerina amoena_Lazuli Bunting,0.6246451,29.0,32.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.15968835,29.0,32.0
+Passerina cyanea_Indigo Bunting,0.9566399,30.0,33.0
+Passerina amoena_Lazuli Bunting,0.8352746,30.0,33.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.4426019,30.0,33.0
+Passerina cyanea_Indigo Bunting,0.865401,31.0,34.0
+Passerina amoena_Lazuli Bunting,0.64592564,31.0,34.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.23380773,31.0,34.0
+Passerina cyanea_Indigo Bunting,0.8245572,32.0,35.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.2516277,32.0,35.0
+Passerina amoena_Lazuli Bunting,0.19451433,32.0,35.0
+Passerina cyanea_Indigo Bunting,0.78723395,33.0,36.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.15538977,33.0,36.0
+Passerina amoena_Lazuli Bunting,0.12677366,33.0,36.0
+Passerina cyanea_Indigo Bunting,0.9686382,34.0,37.0
+Passerina amoena_Lazuli Bunting,0.33346012,34.0,37.0
+Passerina cyanea_Indigo Bunting,0.9583385,35.0,38.0
+Passerina amoena_Lazuli Bunting,0.13303961,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.93861103,36.0,39.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.27833033,36.0,39.0
+Passerina cyanea_Indigo Bunting,0.95753425,37.0,40.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.35620067,37.0,40.0
+Passerina amoena_Lazuli Bunting,0.21554367,37.0,40.0
+Passerina cyanea_Indigo Bunting,0.9721591,38.0,41.0
+Passerina amoena_Lazuli Bunting,0.3453963,38.0,41.0
+Passerina cyanea_Indigo Bunting,0.8374917,39.0,42.0
+Passerina amoena_Lazuli Bunting,0.7468611,39.0,42.0
+Passerina amoena_Lazuli Bunting,0.58014095,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.45472905,40.0,43.0
+Passerina cyanea_Indigo Bunting,0.24846753,41.0,44.0
+Callipepla californica_California Quail,0.19057165,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.18268771,42.0,45.0
+Passerina cyanea_Indigo Bunting,0.16652884,43.0,46.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.11460418,43.0,46.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.25624782,44.0,47.0
+Passerina cyanea_Indigo Bunting,0.1001309,44.0,47.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.55242145,45.0,48.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.7463107,46.0,49.0
+Passerina cyanea_Indigo Bunting,0.12470825,46.0,49.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.21096097,47.0,50.0
+Passerina cyanea_Indigo Bunting,0.11521218,47.0,50.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.16704552,48.0,51.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.2597654,49.0,52.0
+Passerina cyanea_Indigo Bunting,0.20524159,49.0,52.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.52475035,50.0,53.0
+Passerina cyanea_Indigo Bunting,0.25884116,50.0,53.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.58646667,51.0,54.0
+Passerina cyanea_Indigo Bunting,0.48768845,51.0,54.0
+Psaltriparus minimus_Bushtit,0.27471587,51.0,54.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.9246407,52.0,55.0
+Psaltriparus minimus_Bushtit,0.41125715,52.0,55.0
+Passerina cyanea_Indigo Bunting,0.22637299,52.0,55.0
+Passerina cyanea_Indigo Bunting,0.66839665,53.0,56.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.6020662,53.0,56.0
+Passerina amoena_Lazuli Bunting,0.12356587,53.0,56.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.9052347,54.0,57.0
+Neothraupis fasciata_White-banded Tanager,0.44580436,54.0,57.0
+Passerina cyanea_Indigo Bunting,0.3857804,54.0,57.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.8707477,55.0,58.0
+Passerina cyanea_Indigo Bunting,0.5152171,55.0,58.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.70401436,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.47774032,56.0,59.0
+Passerina amoena_Lazuli Bunting,0.18595928,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.9239444,57.0,60.0
+Passerina amoena_Lazuli Bunting,0.46438512,57.0,60.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.29081672,57.0,60.0
+Passerina cyanea_Indigo Bunting,0.62847096,58.0,61.0
+Passerina amoena_Lazuli Bunting,0.40233487,58.0,61.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.124079645,58.0,61.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.26407477,59.0,62.0
+Passerina amoena_Lazuli Bunting,0.25149813,59.0,62.0
+Passerina cyanea_Indigo Bunting,0.21960884,59.0,62.0
+Psaltriparus minimus_Bushtit,0.13400903,59.0,62.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.6464694,60.0,63.0
+Passerina cyanea_Indigo Bunting,0.6012363,60.0,63.0
+Neothraupis fasciata_White-banded Tanager,0.14989322,60.0,63.0
+Passerina cyanea_Indigo Bunting,0.77906567,61.0,64.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.53150654,61.0,64.0
+Neothraupis fasciata_White-banded Tanager,0.11713501,61.0,64.0
+Passerina amoena_Lazuli Bunting,0.110014684,61.0,64.0
+Passerina cyanea_Indigo Bunting,0.949656,62.0,65.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.29962403,62.0,65.0
+Passerina amoena_Lazuli Bunting,0.2209226,62.0,65.0
+Passerina cyanea_Indigo Bunting,0.87697667,63.0,66.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.3343019,63.0,66.0
+Passerina amoena_Lazuli Bunting,0.12147353,63.0,66.0
+Passerina cyanea_Indigo Bunting,0.8058171,64.0,67.0
+Passerina amoena_Lazuli Bunting,0.3914039,64.0,67.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.32700786,64.0,67.0
+Passerina cyanea_Indigo Bunting,0.75363576,65.0,68.0
+Passerina amoena_Lazuli Bunting,0.561369,65.0,68.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.31984806,65.0,68.0
+Passerina cyanea_Indigo Bunting,0.92640823,66.0,69.0
+Passerina amoena_Lazuli Bunting,0.23730451,66.0,69.0
+Passerina cyanea_Indigo Bunting,0.93732196,67.0,70.0
+Passerina amoena_Lazuli Bunting,0.3975612,67.0,70.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.13638511,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.73591775,68.0,71.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.36647612,68.0,71.0
+Passerina amoena_Lazuli Bunting,0.20018461,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.7829425,69.0,72.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.4491612,69.0,72.0
+Passerina amoena_Lazuli Bunting,0.19660588,69.0,72.0
+Passerina cyanea_Indigo Bunting,0.7050743,70.0,73.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.43787464,70.0,73.0
+Piranga erythrocephala_Red-headed Tanager,0.13029659,70.0,73.0
+Amaurospiza concolor_Blue Seedeater,0.112395614,70.0,73.0
+Passerina cyanea_Indigo Bunting,0.8108436,71.0,74.0
+Passerina amoena_Lazuli Bunting,0.29122794,71.0,74.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.22871327,71.0,74.0
+Passerina cyanea_Indigo Bunting,0.94734496,72.0,75.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.44356528,72.0,75.0
+Passerina amoena_Lazuli Bunting,0.27139035,72.0,75.0
+Passerina cyanea_Indigo Bunting,0.91899437,73.0,76.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.5079625,73.0,76.0
+Passerina cyanea_Indigo Bunting,0.84634024,74.0,77.0
+Passerina cyanea_Indigo Bunting,0.9180858,75.0,78.0
+Passerina cyanea_Indigo Bunting,0.96945,76.0,79.0
+Passerina cyanea_Indigo Bunting,0.9895683,77.0,80.0
+Passerina amoena_Lazuli Bunting,0.14950214,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.9929765,78.0,81.0
+Passerina amoena_Lazuli Bunting,0.112363465,78.0,81.0
+Passerina cyanea_Indigo Bunting,0.9499254,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.7143741,80.0,83.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.29550365,81.0,84.0
+Passerina cyanea_Indigo Bunting,0.15764669,81.0,84.0
+Passerina cyanea_Indigo Bunting,0.23969632,82.0,85.0
+Passerina cyanea_Indigo Bunting,0.722508,83.0,86.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.28487962,83.0,86.0
+Passerina amoena_Lazuli Bunting,0.17825991,83.0,86.0
+Passerina cyanea_Indigo Bunting,0.93883795,84.0,87.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.5034971,84.0,87.0
+Passerina amoena_Lazuli Bunting,0.29049233,84.0,87.0
+Passerina cyanea_Indigo Bunting,0.8188649,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.6128198,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.61653775,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.92820233,88.0,91.0
+Passerina amoena_Lazuli Bunting,0.22939028,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.76667535,89.0,92.0
+Passerina cyanea_Indigo Bunting,0.968364,90.0,93.0
+Passerina cyanea_Indigo Bunting,0.9791269,91.0,94.0
+Passerina cyanea_Indigo Bunting,0.9647979,92.0,95.0
+Passerina amoena_Lazuli Bunting,0.30493703,92.0,95.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.13134886,92.0,95.0
+Passerina cyanea_Indigo Bunting,0.95774937,93.0,96.0
+Passerina amoena_Lazuli Bunting,0.5009286,93.0,96.0
+Passerina cyanea_Indigo Bunting,0.6238121,94.0,97.0
+Passerina cyanea_Indigo Bunting,0.870461,95.0,98.0
+Piranga erythrocephala_Red-headed Tanager,0.12663352,95.0,98.0
+Passerina cyanea_Indigo Bunting,0.55762,96.0,99.0
+Passerina cyanea_Indigo Bunting,0.7745692,97.0,100.0
+Passerina cyanea_Indigo Bunting,0.7115943,98.0,101.0
+Passerina cyanea_Indigo Bunting,0.84546465,99.0,102.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.18104425,99.0,102.0
+Passerina cyanea_Indigo Bunting,0.9456319,100.0,103.0
+Passerina cyanea_Indigo Bunting,0.8522157,101.0,104.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.55985487,101.0,104.0
+Passerina amoena_Lazuli Bunting,0.14645827,101.0,104.0
+Passerina cyanea_Indigo Bunting,0.93692625,102.0,105.0
+Passerina cyanea_Indigo Bunting,0.9603259,103.0,106.0
+Passerina cyanea_Indigo Bunting,0.9427139,104.0,107.0
+Passerina cyanea_Indigo Bunting,0.9687034,105.0,108.0
+Passerina amoena_Lazuli Bunting,0.13610718,105.0,108.0
+Passerina cyanea_Indigo Bunting,0.9445802,106.0,109.0
+Passerina amoena_Lazuli Bunting,0.2304211,106.0,109.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.122161165,106.0,109.0
+Passerina cyanea_Indigo Bunting,0.9562648,107.0,110.0
+Passerina amoena_Lazuli Bunting,0.1732119,107.0,110.0
+Passerina cyanea_Indigo Bunting,0.9442255,108.0,111.0
+Passerina amoena_Lazuli Bunting,0.104651175,108.0,111.0
+Passerina cyanea_Indigo Bunting,0.8737467,109.0,112.0
+Passerina cyanea_Indigo Bunting,0.3355237,110.0,113.0
+Passerina cyanea_Indigo Bunting,0.28299525,111.0,114.0
+Psaltriparus minimus_Bushtit,0.16420574,111.0,114.0
+Passerina cyanea_Indigo Bunting,0.22809139,112.0,115.0
+Psaltriparus minimus_Bushtit,0.18252909,112.0,115.0
+Passerina cyanea_Indigo Bunting,0.6826931,113.0,116.0
+Passerina amoena_Lazuli Bunting,0.18611072,113.0,116.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.15370235,113.0,116.0
+Passerina cyanea_Indigo Bunting,0.9122559,114.0,117.0
+Passerina cyanea_Indigo Bunting,0.9615741,115.0,118.0
+Passerina amoena_Lazuli Bunting,0.44677004,115.0,118.0
+Passerina cyanea_Indigo Bunting,0.98535556,116.0,119.0
+Passerina amoena_Lazuli Bunting,0.16829605,116.0,119.0
+Passerina cyanea_Indigo Bunting,0.9390726,117.0,120.0
+Passerina amoena_Lazuli Bunting,0.10968016,117.0,120.0
+Passerina cyanea_Indigo Bunting,0.80786353,118.0,121.0
+Passerina cyanea_Indigo Bunting,0.76987946,119.0,122.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.13961636,119.0,122.0
+Passerina cyanea_Indigo Bunting,0.57262367,120.0,123.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.12029048,120.0,123.0
+Passerina amoena_Lazuli Bunting,0.100693494,120.0,123.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.5880041,121.0,124.0
+Passerina cyanea_Indigo Bunting,0.5290974,121.0,124.0
+Passerina amoena_Lazuli Bunting,0.20829894,121.0,124.0
+Passerina cyanea_Indigo Bunting,0.93243206,122.0,125.0
+Passerina amoena_Lazuli Bunting,0.16055249,122.0,125.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.1493203,122.0,125.0
+Passerina cyanea_Indigo Bunting,0.9826873,123.0,126.0
+Passerina amoena_Lazuli Bunting,0.20338741,123.0,126.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.18436588,123.0,126.0
+Passerina cyanea_Indigo Bunting,0.98828495,124.0,127.0
+Passerina amoena_Lazuli Bunting,0.13319252,124.0,127.0
+Passerina cyanea_Indigo Bunting,0.97478896,125.0,128.0
+Passerina amoena_Lazuli Bunting,0.17506039,125.0,128.0
+Passerina cyanea_Indigo Bunting,0.98441076,126.0,129.0
+Passerina cyanea_Indigo Bunting,0.9573731,127.0,130.0
+Passerina cyanea_Indigo Bunting,0.96238965,128.0,131.0
+Passerina amoena_Lazuli Bunting,0.11916681,128.0,131.0
+Passerina cyanea_Indigo Bunting,0.9921864,129.0,132.0
+Passerina amoena_Lazuli Bunting,0.37354648,129.0,132.0
+Passerina cyanea_Indigo Bunting,0.9909354,130.0,133.0
+Passerina amoena_Lazuli Bunting,0.26399836,130.0,133.0
+Passerina cyanea_Indigo Bunting,0.9923753,131.0,134.0
+Passerina amoena_Lazuli Bunting,0.34114876,131.0,134.0
+Passerina cyanea_Indigo Bunting,0.982625,132.0,135.0
+Passerina amoena_Lazuli Bunting,0.49126032,132.0,135.0
+Passerina cyanea_Indigo Bunting,0.975966,133.0,136.0
+Passerina amoena_Lazuli Bunting,0.17135397,133.0,136.0
+Passerina cyanea_Indigo Bunting,0.9747934,134.0,137.0
+Passerina amoena_Lazuli Bunting,0.10740588,134.0,137.0
+Passerina cyanea_Indigo Bunting,0.90674704,135.0,138.0
+Passerina cyanea_Indigo Bunting,0.72451437,136.0,139.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.32349917,136.0,139.0
+Neothraupis fasciata_White-banded Tanager,0.10860831,136.0,139.0
+Microspingus melanoleucus_Black-capped Warbling Finch,0.6299219,137.0,140.0
+Passerina cyanea_Indigo Bunting,0.4082703,137.0,140.0
+Passerina cyanea_Indigo Bunting,0.24958816,138.0,141.0
+Callipepla californica_California Quail,0.15694647,138.0,141.0
+Passerina cyanea_Indigo Bunting,0.503681,139.0,142.0
+Passerina versicolor_Varied Bunting,0.16998543,139.0,142.0
+Passerina amoena_Lazuli Bunting,0.14318533,139.0,142.0
+Passerina cyanea_Indigo Bunting,0.4016841,140.0,143.0
+Passerina amoena_Lazuli Bunting,0.16093221,140.0,143.0
+Junco hyemalis_Dark-eyed Junco,0.1120106,140.0,143.0
+Passerina cyanea_Indigo Bunting,0.95947576,141.0,144.0
+Passerina amoena_Lazuli Bunting,0.3364792,141.0,144.0
+Passerina cyanea_Indigo Bunting,0.96442676,142.0,145.0
+Passerina amoena_Lazuli Bunting,0.3438136,142.0,145.0
+Passerina cyanea_Indigo Bunting,0.97189385,143.0,146.0
+Passerina amoena_Lazuli Bunting,0.27164498,143.0,146.0
+Passerina cyanea_Indigo Bunting,0.96853393,144.0,147.0
+Passerina amoena_Lazuli Bunting,0.26319367,144.0,147.0
+Passerina cyanea_Indigo Bunting,0.9870165,145.0,148.0
+Passerina amoena_Lazuli Bunting,0.28405306,145.0,148.0
+Passerina cyanea_Indigo Bunting,0.95108837,146.0,149.0
+Passerina amoena_Lazuli Bunting,0.26199076,146.0,149.0
+Passerina cyanea_Indigo Bunting,0.8999003,147.0,150.0
+Passerina cyanea_Indigo Bunting,0.8478413,148.0,151.0
+Passerina cyanea_Indigo Bunting,0.95060146,149.0,152.0
+Passerina cyanea_Indigo Bunting,0.9595551,150.0,153.0
+Passerina amoena_Lazuli Bunting,0.14729282,150.0,153.0
+Passerina cyanea_Indigo Bunting,0.91782355,151.0,154.0
+Passerina amoena_Lazuli Bunting,0.10665921,151.0,154.0
+Passerina cyanea_Indigo Bunting,0.7882711,152.0,155.0
+Passerina amoena_Lazuli Bunting,0.296509,152.0,155.0
+Passerina cyanea_Indigo Bunting,0.9255965,153.0,156.0
+Passerina amoena_Lazuli Bunting,0.26002952,153.0,156.0
+Passerina cyanea_Indigo Bunting,0.43810067,154.0,157.0
+Callipepla californica_California Quail,0.11258614,154.0,157.0
+Passerina cyanea_Indigo Bunting,0.18583588,155.0,158.0
+Passerina cyanea_Indigo Bunting,0.41248587,156.0,159.0
+Passerina cyanea_Indigo Bunting,0.95835644,157.0,160.0
+Passerina amoena_Lazuli Bunting,0.195633,157.0,160.0
+Passerina cyanea_Indigo Bunting,0.9388254,158.0,161.0
+Passerina amoena_Lazuli Bunting,0.227629,158.0,161.0
+Passerina cyanea_Indigo Bunting,0.86337036,159.0,162.0
+Passerina amoena_Lazuli Bunting,0.1515028,159.0,162.0
+Passerina cyanea_Indigo Bunting,0.7068885,160.0,163.0
+Passerina amoena_Lazuli Bunting,0.15112004,160.0,163.0
+Passerina cyanea_Indigo Bunting,0.5163341,161.0,164.0
+Passerina amoena_Lazuli Bunting,0.4509312,161.0,164.0
+Passerina cyanea_Indigo Bunting,0.9751458,162.0,165.0
+Passerina amoena_Lazuli Bunting,0.8749252,162.0,165.0
+Passerina versicolor_Varied Bunting,0.10068809,162.0,165.0
+Passerina cyanea_Indigo Bunting,0.9917542,163.0,166.0
+Passerina amoena_Lazuli Bunting,0.8840499,163.0,166.0
+Passerina cyanea_Indigo Bunting,0.9145361,164.0,167.0
+Passerina amoena_Lazuli Bunting,0.3411935,164.0,167.0
+Passerina cyanea_Indigo Bunting,0.43569046,165.0,168.0
+Passerina cyanea_Indigo Bunting,0.33983305,166.0,169.0
+Passerina cyanea_Indigo Bunting,0.57193416,167.0,170.0
+Passerina cyanea_Indigo Bunting,0.24063146,168.0,171.0
+Piranga erythrocephala_Red-headed Tanager,0.16328682,170.0,173.0
+Passerina cyanea_Indigo Bunting,0.2799563,177.0,180.0
+Passerina cyanea_Indigo Bunting,0.33498237,178.0,181.0
+Passerina cyanea_Indigo Bunting,0.3189291,179.0,182.0
+Piranga erythrocephala_Red-headed Tanager,0.2438382,180.0,183.0
+Passerina cyanea_Indigo Bunting,0.14018014,180.0,183.0
+Passerina cyanea_Indigo Bunting,0.5292623,181.0,184.0
+Passerina cyanea_Indigo Bunting,0.26948577,182.0,185.0
+Passerina cyanea_Indigo Bunting,0.4795274,183.0,186.0
+Passerina cyanea_Indigo Bunting,0.30333626,184.0,187.0
+Passerina cyanea_Indigo Bunting,0.2182919,185.0,188.0
+Passerina cyanea_Indigo Bunting,0.45240587,187.0,190.0
+Passerina cyanea_Indigo Bunting,0.4374106,188.0,191.0
+Passerina cyanea_Indigo Bunting,0.5274573,189.0,192.0
+Passerina cyanea_Indigo Bunting,0.37070987,190.0,193.0
+Passerina cyanea_Indigo Bunting,0.88090897,191.0,194.0
+Passerina cyanea_Indigo Bunting,0.13391896,192.0,195.0
+Passerina cyanea_Indigo Bunting,0.15592112,194.0,197.0
+Passerina cyanea_Indigo Bunting,0.36664775,195.0,198.0
+Passerina cyanea_Indigo Bunting,0.17362969,196.0,199.0
+Passerina cyanea_Indigo Bunting,0.2057959,197.0,200.0
+Passerina cyanea_Indigo Bunting,0.19642267,199.0,202.0
+Passerina cyanea_Indigo Bunting,0.36994177,200.0,203.0
+Passerina cyanea_Indigo Bunting,0.48665458,201.0,204.0
+Passerina cyanea_Indigo Bunting,0.4881307,202.0,205.0
+Passerina cyanea_Indigo Bunting,0.2735206,203.0,206.0
+Passerina cyanea_Indigo Bunting,0.5059927,206.0,209.0
+Piranga erythrocephala_Red-headed Tanager,0.100213036,206.0,209.0
+Passerina cyanea_Indigo Bunting,0.22145914,207.0,210.0
+Piranga erythrocephala_Red-headed Tanager,0.11126665,207.0,210.0
+Passerina cyanea_Indigo Bunting,0.29249394,210.0,213.0
+Passerina cyanea_Indigo Bunting,0.6906465,211.0,214.0
+Passerina cyanea_Indigo Bunting,0.8459234,212.0,215.0
+Passerina cyanea_Indigo Bunting,0.73342353,213.0,216.0
+Passerina cyanea_Indigo Bunting,0.3651256,214.0,217.0
+Passerina cyanea_Indigo Bunting,0.1101381,215.0,218.0
+Passerina cyanea_Indigo Bunting,0.642952,216.0,219.0
+Passerina cyanea_Indigo Bunting,0.62191623,217.0,220.0
+Passerina cyanea_Indigo Bunting,0.71658456,218.0,221.0
+Passerina cyanea_Indigo Bunting,0.80452204,219.0,222.0
+Passerina cyanea_Indigo Bunting,0.8409084,220.0,223.0
+Passerina cyanea_Indigo Bunting,0.49163646,221.0,224.0
+Passerina cyanea_Indigo Bunting,0.3110743,222.0,225.0
+Passerina cyanea_Indigo Bunting,0.31363857,223.0,226.0
+Passerina cyanea_Indigo Bunting,0.13318524,224.0,227.0
+Passerina cyanea_Indigo Bunting,0.24657935,225.0,228.0
+Passerina cyanea_Indigo Bunting,0.2045158,226.0,229.0
+Passerina cyanea_Indigo Bunting,0.3883477,227.0,230.0
+Passerina cyanea_Indigo Bunting,0.23396146,228.0,231.0
+Passerina cyanea_Indigo Bunting,0.35236055,229.0,232.0
+Passerina cyanea_Indigo Bunting,0.11435809,230.0,233.0
+Passerina cyanea_Indigo Bunting,0.20620562,231.0,234.0
+Atlapetes personatus_Tepui Brushfinch,0.12078351,231.0,234.0
+Passerina cyanea_Indigo Bunting,0.4109981,232.0,235.0
+Passerina cyanea_Indigo Bunting,0.32749352,233.0,236.0
+Passerina cyanea_Indigo Bunting,0.70156544,234.0,237.0
+Passerina cyanea_Indigo Bunting,0.5670495,235.0,238.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10224683,235.0,238.0
+Passerina cyanea_Indigo Bunting,0.81299686,236.0,239.0
+Passerina cyanea_Indigo Bunting,0.74697906,237.0,240.0
+Passerina cyanea_Indigo Bunting,0.5564997,238.0,241.0
+Passerina cyanea_Indigo Bunting,0.55784386,239.0,242.0
+Passerina cyanea_Indigo Bunting,0.62851626,240.0,243.0
+Passerina cyanea_Indigo Bunting,0.31389192,241.0,244.0
+Passerina cyanea_Indigo Bunting,0.31449556,244.0,247.0
+Passerina cyanea_Indigo Bunting,0.20566127,245.0,248.0
+Passerina cyanea_Indigo Bunting,0.66212535,246.0,249.0
+Passerina cyanea_Indigo Bunting,0.47195396,247.0,250.0
+Passerina cyanea_Indigo Bunting,0.2576899,248.0,251.0
+Pterophylla camellifolia_Common True Katydid,0.12565304,249.0,252.0
+Colibri serrirostris_White-vented Violetear,0.11697739,251.0,254.0
+Passerina cyanea_Indigo Bunting,0.14725032,253.0,256.0
+Passerina cyanea_Indigo Bunting,0.8744297,254.0,256.9680272108844

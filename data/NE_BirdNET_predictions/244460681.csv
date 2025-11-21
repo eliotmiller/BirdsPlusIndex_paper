@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.97121733,0.0,3.0
+Strix occidentalis_Spotted Owl,0.55023164,0.0,3.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3413589,0.0,3.0
+Strix varia_Barred Owl,0.97322774,1.0,4.0
+Strix occidentalis_Spotted Owl,0.7086529,1.0,4.0
+Aegolius acadicus_Northern Saw-whet Owl,0.17282778,1.0,4.0
+Strix aluco_Tawny Owl,0.31886417,2.0,5.0
+Aegolius acadicus_Northern Saw-whet Owl,0.104848355,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.11295954,3.0,6.0
+Strix varia_Barred Owl,0.93317366,4.0,7.0
+Strix occidentalis_Spotted Owl,0.43616894,4.0,7.0
+Strix varia_Barred Owl,0.9894852,5.0,8.0
+Strix occidentalis_Spotted Owl,0.82462543,5.0,8.0
+Strix varia_Barred Owl,0.9362311,6.0,9.0
+Strix occidentalis_Spotted Owl,0.8735013,6.0,9.0
+Strix varia_Barred Owl,0.257153,7.0,10.0
+Tyto alba_Barn Owl,0.112968296,7.0,10.0
+Strix varia_Barred Owl,0.7156444,8.0,11.0
+Athene noctua_Little Owl,0.4262,8.0,11.0
+Megarynchus pitangua_Boat-billed Flycatcher,0.2840785,8.0,11.0
+Ninox novaeseelandiae_Morepork,0.16000164,8.0,11.0
+Tyto alba_Barn Owl,0.11820071,8.0,11.0
+Asio flammeus_Short-eared Owl,0.10599407,8.0,11.0
+Strix varia_Barred Owl,0.7796249,9.0,12.0
+Megarynchus pitangua_Boat-billed Flycatcher,0.2658321,9.0,12.0
+Tyto alba_Barn Owl,0.26201466,9.0,12.0
+Athene noctua_Little Owl,0.25581458,9.0,12.0
+Strix varia_Barred Owl,0.4550264,10.0,13.0
+Athene noctua_Little Owl,0.26694226,10.0,13.0
+Tyto alba_Barn Owl,0.21958001,10.0,13.0
+Engine_Engine,0.14656973,12.0,15.0
+Engine_Engine,0.19137546,13.0,16.0
+Strix varia_Barred Owl,0.97430485,14.0,17.0
+Strix occidentalis_Spotted Owl,0.24801168,14.0,17.0
+Strix varia_Barred Owl,0.99679536,15.0,18.0
+Strix occidentalis_Spotted Owl,0.97281003,15.0,18.0
+Strix varia_Barred Owl,0.9845843,16.0,19.0
+Strix occidentalis_Spotted Owl,0.9589971,16.0,19.0
+Strix occidentalis_Spotted Owl,0.746047,17.0,20.0
+Strix varia_Barred Owl,0.74043614,17.0,20.0
+Strix aluco_Tawny Owl,0.24851029,17.0,20.0
+Aegolius acadicus_Northern Saw-whet Owl,0.16940945,17.0,20.0
+Athene noctua_Little Owl,0.11790112,17.0,20.0
+Strix varia_Barred Owl,0.4750095,18.0,21.0
+Athene noctua_Little Owl,0.12211547,18.0,21.0
+Strix varia_Barred Owl,0.86561364,19.0,22.0
+Athene noctua_Little Owl,0.3379091,19.0,22.0
+Tyto alba_Barn Owl,0.5695513,20.0,23.0
+Pyrrhomyias cinnamomeus_Cinnamon Flycatcher,0.30917796,22.0,25.0
+Strix varia_Barred Owl,0.12008932,22.0,25.0
+Strix varia_Barred Owl,0.9956884,23.0,26.0
+Strix occidentalis_Spotted Owl,0.9705268,23.0,26.0
+Strix varia_Barred Owl,0.99896324,24.0,27.0
+Strix occidentalis_Spotted Owl,0.97806484,24.0,27.0
+Aegolius acadicus_Northern Saw-whet Owl,0.15778188,24.0,27.0
+Strix varia_Barred Owl,0.9966377,25.0,28.0
+Strix occidentalis_Spotted Owl,0.91535074,25.0,28.0
+Aegolius acadicus_Northern Saw-whet Owl,0.26194575,25.0,28.0
+Athene noctua_Little Owl,0.8362802,27.0,30.0
+Strix varia_Barred Owl,0.28840542,27.0,30.0
+Aegolius acadicus_Northern Saw-whet Owl,0.13548568,27.0,30.0
+Strix varia_Barred Owl,0.8106258,28.0,31.0
+Athene noctua_Little Owl,0.350918,28.0,31.0
+Strix varia_Barred Owl,0.94915336,29.0,32.0
+Athene noctua_Little Owl,0.37644547,29.0,32.0
+Tyto alba_Barn Owl,0.18284747,29.0,32.0
+Asio flammeus_Short-eared Owl,0.13250308,29.0,32.0
+Tyto alba_Barn Owl,0.38839048,30.0,33.0
+Strix varia_Barred Owl,0.25575206,30.0,33.0
+Aegolius acadicus_Northern Saw-whet Owl,0.105899855,30.0,33.0
+Strix varia_Barred Owl,0.1772279,33.0,36.0
+Pyrrhomyias cinnamomeus_Cinnamon Flycatcher,0.1276876,33.0,36.0
+Strix varia_Barred Owl,0.9924044,34.0,37.0
+Strix occidentalis_Spotted Owl,0.68690056,34.0,37.0
+Surnia ulula_Northern Hawk Owl,0.24961798,34.0,37.0
+Strix varia_Barred Owl,0.9828493,35.0,38.0
+Strix occidentalis_Spotted Owl,0.84469163,35.0,38.0
+Strix varia_Barred Owl,0.96772546,36.0,39.0
+Strix occidentalis_Spotted Owl,0.61260587,36.0,39.0
+Surnia ulula_Northern Hawk Owl,0.10101293,36.0,39.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3012327,37.0,40.0
+Megascops asio_Eastern Screech-Owl,0.18890806,37.0,40.0
+Athene noctua_Little Owl,0.15863445,37.0,40.0
+Strix varia_Barred Owl,0.6902067,38.0,41.0
+Aegolius acadicus_Northern Saw-whet Owl,0.32284787,38.0,41.0
+Strix varia_Barred Owl,0.8354599,39.0,42.0
+Aegolius acadicus_Northern Saw-whet Owl,0.18647641,39.0,42.0
+Aleadryas rufinucha_Rufous-naped Bellbird,0.16921313,39.0,42.0
+Strix varia_Barred Owl,0.79952085,40.0,43.0
+Strix varia_Barred Owl,0.9795926,44.0,47.0
+Strix occidentalis_Spotted Owl,0.9508942,44.0,47.0
+Aegolius acadicus_Northern Saw-whet Owl,0.11317778,44.0,47.0
+Strix varia_Barred Owl,0.97610086,45.0,47.49600907029478
+Strix occidentalis_Spotted Owl,0.9727576,45.0,47.49600907029478

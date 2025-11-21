@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.97498614,0.0,3.0
+Setophaga townsendi_Townsend's Warbler,0.2560182,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.9833803,1.0,4.0
+Setophaga townsendi_Townsend's Warbler,0.14007814,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9883598,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.8621249,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.15122831,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.5017642,6.0,9.0
+Troglodytes hiemalis_Winter Wren,0.4775556,7.0,10.0
+Troglodytes hiemalis_Winter Wren,0.6491642,8.0,11.0
+Troglodytes hiemalis_Winter Wren,0.2505544,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.9704113,11.0,14.0
+Setophaga townsendi_Townsend's Warbler,0.17667738,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.9773572,12.0,15.0
+Setophaga townsendi_Townsend's Warbler,0.11266846,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.9688693,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.9017655,14.0,17.0
+Troglodytes hiemalis_Winter Wren,0.18687487,17.0,20.0
+Troglodytes hiemalis_Winter Wren,0.3408483,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.8754278,22.0,25.0
+Setophaga townsendi_Townsend's Warbler,0.118177906,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.97490394,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.97631514,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.1623731,25.0,28.0
+Setophaga occidentalis_Hermit Warbler,0.13705358,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.80280423,31.0,34.0
+Setophaga townsendi_Townsend's Warbler,0.40261942,31.0,34.0
+Setophaga discolor_Prairie Warbler,0.16620624,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.90648603,32.0,35.0
+Setophaga townsendi_Townsend's Warbler,0.2922111,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.90445,33.0,36.0
+Setophaga townsendi_Townsend's Warbler,0.23404962,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.6780958,34.0,37.0
+Setophaga townsendi_Townsend's Warbler,0.11614108,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.1345978,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.966271,40.0,43.0
+Setophaga townsendi_Townsend's Warbler,0.4728633,40.0,43.0
+Setophaga occidentalis_Hermit Warbler,0.108036764,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.97177786,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.97598743,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.8586712,43.0,46.0
+Troglodytes hiemalis_Winter Wren,0.5708706,44.0,47.0
+Troglodytes hiemalis_Winter Wren,0.10819663,47.0,50.0
+Troglodytes hiemalis_Winter Wren,0.15781501,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.9640248,50.0,53.0
+Setophaga townsendi_Townsend's Warbler,0.26825747,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.9738351,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.9827806,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.9467604,53.0,56.0
+Troglodytes hiemalis_Winter Wren,0.29616475,59.0,62.0
+Troglodytes hiemalis_Winter Wren,0.3561488,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.7008825,61.0,64.0
+Setophaga townsendi_Townsend's Warbler,0.43808037,61.0,64.0
+Setophaga virens_Black-throated Green Warbler,0.989056,62.0,65.0
+Setophaga virens_Black-throated Green Warbler,0.98329896,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.8885605,64.0,67.0
+Haemorhous mexicanus_House Finch,0.19511847,67.0,70.0
+Haemorhous mexicanus_House Finch,0.19999781,68.0,71.0
+Chlorodrepanis virens_Hawaii Amakihi,0.18404335,68.0,71.0
+Setophaga townsendi_Townsend's Warbler,0.12596346,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.87385476,70.0,73.0
+Setophaga townsendi_Townsend's Warbler,0.2396652,70.0,73.0
+Setophaga virens_Black-throated Green Warbler,0.9841008,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.97456396,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.5962887,73.0,76.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.22742842,73.0,76.0
+Troglodytes hiemalis_Winter Wren,0.73593014,74.0,77.0
+Troglodytes hiemalis_Winter Wren,0.14381726,75.0,78.0
+Alauda arvensis_Eurasian Skylark,0.4528549,77.0,80.0
+Chlorodrepanis virens_Hawaii Amakihi,0.2122158,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.96745735,79.0,82.0
+Setophaga virens_Black-throated Green Warbler,0.9918779,80.0,83.0
+Setophaga virens_Black-throated Green Warbler,0.98555225,81.0,84.0
+Setophaga virens_Black-throated Green Warbler,0.91788423,82.0,85.0
+Vireo cassinii_Cassin's Vireo,0.16634807,84.0,87.0
+Vireo cassinii_Cassin's Vireo,0.21163122,85.0,88.0
+Setophaga virens_Black-throated Green Warbler,0.6703633,88.0,91.0
+Setophaga townsendi_Townsend's Warbler,0.2664282,88.0,91.0
+Setophaga townsendi_Townsend's Warbler,0.42789894,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.30990067,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.98634887,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.9919363,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.86389446,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18109174,92.0,95.0
+Cyanolyca viridicyanus_White-collared Jay,0.13313405,101.0,104.0
+Regulus satrapa_Golden-crowned Kinglet,0.20478623,102.0,105.0
+Troglodytes hiemalis_Winter Wren,0.20570083,110.0,112.87201814058957

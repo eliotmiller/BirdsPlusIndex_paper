@@ -1,0 +1,397 @@
+species,score,start_time,end_time
+Helmitheros vermivorum_Worm-eating Warbler,0.3190375,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.29763225,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.1937406,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37429285,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.17057545,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.22956583,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.2289072,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17738146,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.5421904,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34525794,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.22505026,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.38117284,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.37379363,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.22656882,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.42308107,5.0,8.0
+Geothlypis formosa_Kentucky Warbler,0.2977451,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20541416,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.53002286,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12579346,7.0,10.0
+Geothlypis formosa_Kentucky Warbler,0.16766132,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.41910082,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17802434,9.0,12.0
+Geothlypis formosa_Kentucky Warbler,0.1081184,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3129247,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.12897938,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21615043,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.19572212,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.46044084,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36480102,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.18247163,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.6337678,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.49421328,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.13843271,13.0,16.0
+Geothlypis formosa_Kentucky Warbler,0.61169654,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.49362147,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41618595,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.75198174,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35109875,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.16638714,15.0,18.0
+Geothlypis formosa_Kentucky Warbler,0.58862936,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4309859,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.23175311,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.67756134,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4967794,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10041498,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.63542235,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.59815073,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.47150522,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.21003254,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.18838474,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18585801,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.5652624,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.46341375,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4382762,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.49891374,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.41615707,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.7171895,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.37237176,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17015302,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.577864,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.49315292,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.43797317,23.0,26.0
+Geothlypis formosa_Kentucky Warbler,0.6236756,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.49920607,24.0,27.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4708462,24.0,27.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12749681,24.0,27.0
+Geothlypis formosa_Kentucky Warbler,0.5058398,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.30244523,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12346493,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.40615714,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.119939625,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.5980536,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.44565308,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34315592,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.22746019,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.46282732,29.0,32.0
+Toxostoma rufum_Brown Thrasher,0.16818592,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.36104122,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.6587416,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.22659126,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14402308,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.30718988,32.0,35.0
+Geothlypis formosa_Kentucky Warbler,0.26349825,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2337947,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.65631217,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3901467,33.0,36.0
+Geothlypis formosa_Kentucky Warbler,0.21594317,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.7555517,34.0,37.0
+Trichothraupis melanops_Black-goggled Tanager,0.48138836,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.86058533,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41149646,35.0,38.0
+Geothlypis formosa_Kentucky Warbler,0.22952743,35.0,38.0
+Trichothraupis melanops_Black-goggled Tanager,0.18341137,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.7234903,36.0,39.0
+Trichothraupis melanops_Black-goggled Tanager,0.32823136,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14396262,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.11073148,36.0,39.0
+Trichothraupis melanops_Black-goggled Tanager,0.67420316,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.22952972,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.43547246,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37172806,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.22360039,38.0,41.0
+Geothlypis formosa_Kentucky Warbler,0.64196825,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3397526,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.15781002,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.57061243,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.2887048,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2513246,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.45538712,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.31843805,42.0,45.0
+Geothlypis formosa_Kentucky Warbler,0.22346601,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.810121,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.54176354,43.0,46.0
+Geothlypis formosa_Kentucky Warbler,0.29627424,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.7967371,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27194697,44.0,47.0
+Geothlypis formosa_Kentucky Warbler,0.19225416,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.77701974,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35688356,45.0,48.0
+Geothlypis formosa_Kentucky Warbler,0.13392651,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.7566566,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4540218,46.0,49.0
+Geothlypis formosa_Kentucky Warbler,0.12412718,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.677535,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.56638765,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.13976952,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.77268416,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5491867,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.28829303,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.5544247,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4389005,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.43418208,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6188291,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.5043063,50.0,53.0
+Geothlypis formosa_Kentucky Warbler,0.18886483,50.0,53.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41087097,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.38331676,51.0,54.0
+Geothlypis formosa_Kentucky Warbler,0.2043603,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.70985496,52.0,55.0
+Geothlypis formosa_Kentucky Warbler,0.6429604,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2395171,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.6111173,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36102358,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.26016513,53.0,56.0
+Geothlypis formosa_Kentucky Warbler,0.6378693,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.63553065,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.41328803,54.0,57.0
+Geothlypis formosa_Kentucky Warbler,0.67486733,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4123977,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.3760822,55.0,58.0
+Geothlypis formosa_Kentucky Warbler,0.7292752,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.58008915,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3862712,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.6371782,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.46839908,57.0,60.0
+Geothlypis formosa_Kentucky Warbler,0.43031204,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.57937354,58.0,61.0
+Geothlypis formosa_Kentucky Warbler,0.4073691,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.40446544,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.712213,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.47627592,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.72136045,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.44737008,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.13028738,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.71286684,61.0,64.0
+Geothlypis formosa_Kentucky Warbler,0.47154996,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37856525,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.7564296,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.2919655,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14567535,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.8968513,63.0,66.0
+Geothlypis formosa_Kentucky Warbler,0.16326252,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.7490667,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.39819732,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16312024,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.8184272,65.0,68.0
+Geothlypis formosa_Kentucky Warbler,0.1655709,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11830734,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.7793372,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31633484,66.0,69.0
+Geothlypis formosa_Kentucky Warbler,0.25911045,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.88860893,67.0,70.0
+Geothlypis formosa_Kentucky Warbler,0.53045976,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31936318,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.75773245,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.6760489,68.0,71.0
+Geothlypis formosa_Kentucky Warbler,0.2019405,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.8141668,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36522394,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.74192744,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.48773482,70.0,73.0
+Geothlypis formosa_Kentucky Warbler,0.23545556,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.7516831,71.0,74.0
+Geothlypis formosa_Kentucky Warbler,0.6052627,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1448175,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.8301256,72.0,75.0
+Geothlypis formosa_Kentucky Warbler,0.20599683,72.0,75.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14391014,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.6078979,73.0,76.0
+Geothlypis formosa_Kentucky Warbler,0.4113738,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30110824,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.5153783,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.46443328,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.7600802,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3800418,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.71544564,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.45869577,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.73198456,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6737599,77.0,80.0
+Geothlypis formosa_Kentucky Warbler,0.12253307,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.7701457,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.73105085,78.0,81.0
+Geothlypis formosa_Kentucky Warbler,0.12934595,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.69720936,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.639286,79.0,82.0
+Geothlypis formosa_Kentucky Warbler,0.10206482,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.7980202,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34438843,80.0,83.0
+Geothlypis formosa_Kentucky Warbler,0.12717208,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.9124026,81.0,84.0
+Geothlypis formosa_Kentucky Warbler,0.28810224,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26981762,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.9053457,82.0,85.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26926446,82.0,85.0
+Geothlypis formosa_Kentucky Warbler,0.18348448,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.77518106,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24989988,83.0,86.0
+Geothlypis formosa_Kentucky Warbler,0.13207482,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.9030342,84.0,87.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35320857,84.0,87.0
+Geothlypis formosa_Kentucky Warbler,0.20013519,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.85342485,85.0,88.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29189909,85.0,88.0
+Geothlypis formosa_Kentucky Warbler,0.22023508,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.92140305,86.0,89.0
+Geothlypis formosa_Kentucky Warbler,0.3037288,86.0,89.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25386,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.6465357,87.0,90.0
+Geothlypis formosa_Kentucky Warbler,0.1086746,87.0,90.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10508415,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.84368575,88.0,91.0
+Trichothraupis melanops_Black-goggled Tanager,0.1214149,88.0,91.0
+Geothlypis formosa_Kentucky Warbler,0.11072296,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.8090727,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.853192,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.7346645,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.43158567,91.0,94.0
+Geothlypis formosa_Kentucky Warbler,0.4018903,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.76277053,92.0,95.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3017521,92.0,95.0
+Geothlypis formosa_Kentucky Warbler,0.23919618,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.79460526,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22468169,93.0,96.0
+Geothlypis formosa_Kentucky Warbler,0.1926561,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.81007916,94.0,97.0
+Geothlypis formosa_Kentucky Warbler,0.3938355,94.0,97.0
+Helmitheros vermivorum_Worm-eating Warbler,0.33991328,94.0,97.0
+Seiurus aurocapilla_Ovenbird,0.88644314,95.0,98.0
+Trichothraupis melanops_Black-goggled Tanager,0.19043742,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.9162869,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12897485,96.0,99.0
+Geothlypis formosa_Kentucky Warbler,0.104782805,96.0,99.0
+Seiurus aurocapilla_Ovenbird,0.7697354,97.0,100.0
+Trichothraupis melanops_Black-goggled Tanager,0.12974957,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.72117496,98.0,101.0
+Seiurus aurocapilla_Ovenbird,0.664194,99.0,102.0
+Geothlypis formosa_Kentucky Warbler,0.45963264,99.0,102.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23009178,99.0,102.0
+Seiurus aurocapilla_Ovenbird,0.93360305,100.0,103.0
+Helmitheros vermivorum_Worm-eating Warbler,0.35694668,100.0,103.0
+Geothlypis formosa_Kentucky Warbler,0.27383342,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.94456863,101.0,104.0
+Geothlypis formosa_Kentucky Warbler,0.4671119,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22387238,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.67090625,102.0,105.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5664915,102.0,105.0
+Geothlypis formosa_Kentucky Warbler,0.4055808,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.9093002,103.0,106.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3427898,103.0,106.0
+Geothlypis formosa_Kentucky Warbler,0.3237492,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.9481942,104.0,107.0
+Geothlypis formosa_Kentucky Warbler,0.1932296,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.8614725,105.0,108.0
+Seiurus aurocapilla_Ovenbird,0.6886542,106.0,109.0
+Geothlypis formosa_Kentucky Warbler,0.15501803,106.0,109.0
+Seiurus aurocapilla_Ovenbird,0.54706883,107.0,110.0
+Seiurus aurocapilla_Ovenbird,0.7662808,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.6430389,109.0,112.0
+Trichothraupis melanops_Black-goggled Tanager,0.10473804,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.91616654,110.0,113.0
+Trichothraupis melanops_Black-goggled Tanager,0.5532559,110.0,113.0
+Geothlypis formosa_Kentucky Warbler,0.117567465,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.87874484,111.0,114.0
+Helmitheros vermivorum_Worm-eating Warbler,0.673263,111.0,114.0
+Geothlypis formosa_Kentucky Warbler,0.35180137,111.0,114.0
+Seiurus aurocapilla_Ovenbird,0.9545381,112.0,115.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3668908,112.0,115.0
+Geothlypis formosa_Kentucky Warbler,0.21234363,112.0,115.0
+Seiurus aurocapilla_Ovenbird,0.80380934,113.0,116.0
+Helmitheros vermivorum_Worm-eating Warbler,0.6116732,113.0,116.0
+Geothlypis formosa_Kentucky Warbler,0.2204829,113.0,116.0
+Seiurus aurocapilla_Ovenbird,0.9125724,114.0,117.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21649724,114.0,117.0
+Trichothraupis melanops_Black-goggled Tanager,0.11003791,114.0,117.0
+Seiurus aurocapilla_Ovenbird,0.9462879,115.0,118.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2319584,115.0,118.0
+Geothlypis formosa_Kentucky Warbler,0.14002784,115.0,118.0
+Seiurus aurocapilla_Ovenbird,0.91032207,116.0,119.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10652136,116.0,119.0
+Seiurus aurocapilla_Ovenbird,0.8301591,117.0,120.0
+Geothlypis formosa_Kentucky Warbler,0.16139805,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1152769,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.8558262,118.0,121.0
+Seiurus aurocapilla_Ovenbird,0.8843467,119.0,122.0
+Seiurus aurocapilla_Ovenbird,0.9704879,120.0,123.0
+Trichothraupis melanops_Black-goggled Tanager,0.17606983,120.0,123.0
+Helmitheros vermivorum_Worm-eating Warbler,0.100289404,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.9698565,121.0,124.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14226659,121.0,124.0
+Seiurus aurocapilla_Ovenbird,0.9284656,122.0,125.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37314683,122.0,125.0
+Geothlypis formosa_Kentucky Warbler,0.14527127,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.9434617,123.0,126.0
+Trichothraupis melanops_Black-goggled Tanager,0.27807793,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.8622681,124.0,127.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4297099,124.0,127.0
+Toxostoma rufum_Brown Thrasher,0.14753442,124.0,127.0
+Seiurus aurocapilla_Ovenbird,0.94337434,125.0,128.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20104884,125.0,128.0
+Seiurus aurocapilla_Ovenbird,0.9501502,126.0,129.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3795033,126.0,129.0
+Seiurus aurocapilla_Ovenbird,0.7964402,127.0,130.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25303143,127.0,130.0
+Seiurus aurocapilla_Ovenbird,0.90394676,128.0,131.0
+Helmitheros vermivorum_Worm-eating Warbler,0.5459253,128.0,131.0
+Geothlypis formosa_Kentucky Warbler,0.1114037,128.0,131.0
+Seiurus aurocapilla_Ovenbird,0.78265184,129.0,132.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2338968,129.0,132.0
+Seiurus aurocapilla_Ovenbird,0.7998695,130.0,133.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3072643,130.0,133.0
+Geothlypis formosa_Kentucky Warbler,0.22332731,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.958952,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.892745,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.9558039,133.0,136.0
+Seiurus aurocapilla_Ovenbird,0.79064953,134.0,137.0
+Trichothraupis melanops_Black-goggled Tanager,0.22087243,134.0,137.0
+Seiurus aurocapilla_Ovenbird,0.77040464,135.0,138.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3002427,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.6765619,136.0,139.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4048718,136.0,139.0
+Geothlypis formosa_Kentucky Warbler,0.1119832,136.0,139.0
+Seiurus aurocapilla_Ovenbird,0.7978085,137.0,140.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32727233,137.0,140.0
+Seiurus aurocapilla_Ovenbird,0.64405817,138.0,141.0
+Helmitheros vermivorum_Worm-eating Warbler,0.39855227,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.80104285,139.0,142.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29667044,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.70635986,140.0,143.0
+Geothlypis formosa_Kentucky Warbler,0.24353223,140.0,143.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24088489,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.76250184,141.0,144.0
+Geothlypis formosa_Kentucky Warbler,0.21578889,141.0,144.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2077056,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.81295824,142.0,145.0
+Seiurus aurocapilla_Ovenbird,0.5529947,143.0,146.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2415502,143.0,146.0
+Geothlypis formosa_Kentucky Warbler,0.2160209,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.5064225,144.0,147.0
+Geothlypis formosa_Kentucky Warbler,0.109677464,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.7108255,145.0,148.0
+Helmitheros vermivorum_Worm-eating Warbler,0.42781729,145.0,148.0
+Geothlypis formosa_Kentucky Warbler,0.4177477,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.7925438,146.0,149.0
+Geothlypis formosa_Kentucky Warbler,0.4094447,146.0,149.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18084724,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.9375576,147.0,150.0
+Geothlypis formosa_Kentucky Warbler,0.267768,147.0,150.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20833875,147.0,150.0
+Seiurus aurocapilla_Ovenbird,0.93179464,148.0,151.0
+Geothlypis formosa_Kentucky Warbler,0.3650781,148.0,151.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1492851,148.0,151.0
+Seiurus aurocapilla_Ovenbird,0.5979185,149.0,152.0
+Geothlypis formosa_Kentucky Warbler,0.3311768,149.0,152.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21816395,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.57592076,150.0,153.0
+Geothlypis formosa_Kentucky Warbler,0.27986282,150.0,153.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19953178,150.0,153.0
+Seiurus aurocapilla_Ovenbird,0.24655181,151.0,154.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18785086,151.0,154.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13941424,158.0,161.0
+Limnothlypis swainsonii_Swainson's Warbler,0.41683757,159.0,162.0
+Setophaga dominica_Yellow-throated Warbler,0.123040356,159.0,162.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10542445,170.0,173.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15822925,171.0,174.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13079397,173.0,176.0
+Sclerurus scansor_Rufous-breasted Leaftosser,0.160327,177.0,180.0

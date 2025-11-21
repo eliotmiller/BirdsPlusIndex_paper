@@ -1,0 +1,27 @@
+species,score,start_time,end_time
+Baeolophus bicolor_Tufted Titmouse,0.55062836,0.0,3.0
+Baeolophus bicolor_Tufted Titmouse,0.5697335,1.0,4.0
+Passerina caerulea_Blue Grosbeak,0.6240402,2.0,5.0
+Passerina ciris_Painted Bunting,0.28614008,2.0,5.0
+Passerina caerulea_Blue Grosbeak,0.19399364,3.0,6.0
+Empidonax traillii_Willow Flycatcher,0.106212445,3.0,6.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.12516505,6.0,9.0
+Engine_Engine,0.13183278,8.0,11.0
+Engine_Engine,0.15244733,9.0,12.0
+Engine_Engine,0.16541427,11.0,14.0
+Engine_Engine,0.114717625,13.0,16.0
+Engine_Engine,0.10993498,14.0,17.0
+Engine_Engine,0.10727594,15.0,18.0
+Sitta carolinensis_White-breasted Nuthatch,0.19496441,19.0,22.0
+Sitta carolinensis_White-breasted Nuthatch,0.6156642,20.0,23.0
+Sitta carolinensis_White-breasted Nuthatch,0.55604935,21.0,24.0
+Sitta carolinensis_White-breasted Nuthatch,0.39043048,22.0,25.0
+Thryothorus ludovicianus_Carolina Wren,0.17982008,22.0,25.0
+Thryothorus ludovicianus_Carolina Wren,0.3479047,23.0,26.0
+Baeolophus bicolor_Tufted Titmouse,0.20530014,25.0,28.0
+Poecile atricapillus_Black-capped Chickadee,0.17589395,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.21898064,26.0,29.0
+Poecile atricapillus_Black-capped Chickadee,0.196914,26.0,29.0
+Baeolophus bicolor_Tufted Titmouse,0.28352454,27.0,30.0
+Cyanocitta cristata_Blue Jay,0.2505445,28.0,31.0
+Cyanocitta cristata_Blue Jay,0.110004574,29.0,32.0

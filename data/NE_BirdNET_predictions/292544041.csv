@@ -1,0 +1,521 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.71903926,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.4910713,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.44844198,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.723741,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.66732967,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.8298243,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.18370712,7.0,10.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14497061,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10097108,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.100210994,8.0,11.0
+Empidonax virescens_Acadian Flycatcher,0.14657648,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.10348234,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.47872552,11.0,14.0
+Setophaga citrina_Hooded Warbler,0.5510354,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.9759006,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.9898722,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.99079907,15.0,18.0
+Empidonax virescens_Acadian Flycatcher,0.58031994,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.2584015,16.0,19.0
+Geothlypis formosa_Kentucky Warbler,0.11507072,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11078483,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1832025,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.16477881,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.12596744,17.0,20.0
+Geothlypis formosa_Kentucky Warbler,0.10588949,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10471064,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.15125065,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.73448104,19.0,22.0
+Geothlypis formosa_Kentucky Warbler,0.37691173,19.0,22.0
+Setophaga citrina_Hooded Warbler,0.62132376,20.0,23.0
+Setophaga citrina_Hooded Warbler,0.5096219,21.0,24.0
+Setophaga citrina_Hooded Warbler,0.36442503,22.0,25.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1946222,22.0,25.0
+Geothlypis formosa_Kentucky Warbler,0.116131596,25.0,28.0
+Empidonax virescens_Acadian Flycatcher,0.14466618,26.0,29.0
+Geothlypis formosa_Kentucky Warbler,0.13283668,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.14815472,27.0,30.0
+Empidonax virescens_Acadian Flycatcher,0.13475151,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.101009816,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.34380406,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.10045335,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.37725556,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.25523606,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.3170009,31.0,34.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11443124,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.94862753,35.0,38.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.118986994,35.0,38.0
+Empidonax virescens_Acadian Flycatcher,0.95680934,36.0,39.0
+Empidonax virescens_Acadian Flycatcher,0.9790068,37.0,40.0
+Empidonax virescens_Acadian Flycatcher,0.9181872,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.16099837,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.54642993,39.0,42.0
+Empidonax virescens_Acadian Flycatcher,0.11190404,39.0,42.0
+Setophaga citrina_Hooded Warbler,0.73333466,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17959607,41.0,44.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1450914,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.14374265,41.0,44.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18705384,42.0,45.0
+Geothlypis formosa_Kentucky Warbler,0.17647432,42.0,45.0
+Setophaga citrina_Hooded Warbler,0.13432276,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1621106,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1156194,44.0,47.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16613631,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.13601345,45.0,48.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15428402,46.0,49.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11712466,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.10850767,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.27438295,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13371004,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.10393527,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.5770054,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.1167606,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.6145133,51.0,54.0
+Setophaga citrina_Hooded Warbler,0.31098783,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12823269,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.103409395,53.0,56.0
+Setophaga citrina_Hooded Warbler,0.20349655,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18917198,54.0,57.0
+Buteo platypterus_Broad-winged Hawk,0.11767644,54.0,57.0
+Empidonax virescens_Acadian Flycatcher,0.18970846,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.43175912,56.0,59.0
+Oporornis agilis_Connecticut Warbler,0.25251806,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.2525016,58.0,61.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22259188,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.12728767,60.0,63.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11829368,60.0,63.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.13703008,61.0,64.0
+Geothlypis formosa_Kentucky Warbler,0.12529607,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11623042,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.10701809,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11349545,65.0,68.0
+Geothlypis formosa_Kentucky Warbler,0.1054771,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.9926052,67.0,70.0
+Empidonax virescens_Acadian Flycatcher,0.9965597,68.0,71.0
+Empidonax virescens_Acadian Flycatcher,0.9913434,69.0,72.0
+Setophaga citrina_Hooded Warbler,0.23665266,72.0,75.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30010638,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.27846628,73.0,76.0
+Empidonax virescens_Acadian Flycatcher,0.10658825,73.0,76.0
+Setophaga citrina_Hooded Warbler,0.2553286,74.0,77.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2330407,74.0,77.0
+Empidonax virescens_Acadian Flycatcher,0.10684237,74.0,77.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.35064623,75.0,78.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2001772,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.25071514,81.0,84.0
+Setophaga citrina_Hooded Warbler,0.39646867,82.0,85.0
+Setophaga citrina_Hooded Warbler,0.25433487,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10739283,84.0,87.0
+Empidonax virescens_Acadian Flycatcher,0.76959157,85.0,88.0
+Empidonax virescens_Acadian Flycatcher,0.9873125,86.0,89.0
+Empidonax virescens_Acadian Flycatcher,0.9936748,87.0,90.0
+Empidonax virescens_Acadian Flycatcher,0.86826044,88.0,91.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37938008,89.0,92.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.25707126,90.0,93.0
+Geothlypis formosa_Kentucky Warbler,0.18355049,91.0,94.0
+Piranga olivacea_Scarlet Tanager,0.12742984,92.0,95.0
+Empidonax virescens_Acadian Flycatcher,0.1125779,93.0,96.0
+Buteo platypterus_Broad-winged Hawk,0.10578715,93.0,96.0
+Empidonax virescens_Acadian Flycatcher,0.19083084,95.0,98.0
+Setophaga citrina_Hooded Warbler,0.10345432,95.0,98.0
+Empidonax virescens_Acadian Flycatcher,0.39250687,96.0,99.0
+Empidonax virescens_Acadian Flycatcher,0.50689155,97.0,100.0
+Empidonax virescens_Acadian Flycatcher,0.18356799,98.0,101.0
+Empidonax virescens_Acadian Flycatcher,0.1482755,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10792683,100.0,103.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13038062,102.0,105.0
+Setophaga citrina_Hooded Warbler,0.36341783,104.0,107.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.38389933,105.0,108.0
+Setophaga citrina_Hooded Warbler,0.1870436,105.0,108.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.82773906,106.0,109.0
+Setophaga citrina_Hooded Warbler,0.24646269,106.0,109.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9290277,107.0,110.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8037398,108.0,111.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.769952,109.0,112.0
+Empidonax virescens_Acadian Flycatcher,0.94683063,110.0,113.0
+Empidonax virescens_Acadian Flycatcher,0.9904356,111.0,114.0
+Empidonax virescens_Acadian Flycatcher,0.98786575,112.0,115.0
+Empidonax virescens_Acadian Flycatcher,0.31344727,113.0,116.0
+Setophaga citrina_Hooded Warbler,0.25028333,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120273456,113.0,116.0
+Setophaga citrina_Hooded Warbler,0.4218831,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11096764,114.0,117.0
+Setophaga citrina_Hooded Warbler,0.19307221,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13226554,116.0,119.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3877021,118.0,121.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.44344994,119.0,122.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9597128,120.0,123.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.94048965,121.0,124.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9436062,122.0,125.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8825974,123.0,126.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.90366507,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14632985,126.0,129.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10616407,127.0,130.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11438149,128.0,131.0
+Setophaga citrina_Hooded Warbler,0.25994697,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10938126,132.0,135.0
+Empidonax virescens_Acadian Flycatcher,0.9703855,133.0,136.0
+Empidonax virescens_Acadian Flycatcher,0.9893349,134.0,137.0
+Empidonax virescens_Acadian Flycatcher,0.9946942,135.0,138.0
+Empidonax virescens_Acadian Flycatcher,0.6128947,136.0,139.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5059617,137.0,140.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6524846,138.0,141.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43658456,139.0,142.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.36261252,140.0,143.0
+Setophaga citrina_Hooded Warbler,0.1441338,141.0,144.0
+Buteo platypterus_Broad-winged Hawk,0.11689001,143.0,146.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1013906,144.0,147.0
+Setophaga citrina_Hooded Warbler,0.14643389,147.0,150.0
+Setophaga citrina_Hooded Warbler,0.17867452,148.0,151.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23948835,149.0,152.0
+Setophaga citrina_Hooded Warbler,0.12936024,149.0,152.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.65590656,150.0,153.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.6339165,151.0,154.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8678443,152.0,155.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4789278,153.0,156.0
+Empidonax virescens_Acadian Flycatcher,0.9898441,154.0,157.0
+Empidonax virescens_Acadian Flycatcher,0.99626935,155.0,158.0
+Empidonax virescens_Acadian Flycatcher,0.99338794,156.0,159.0
+Setophaga citrina_Hooded Warbler,0.66086394,157.0,160.0
+Setophaga virens_Black-throated Green Warbler,0.10242875,159.0,162.0
+Piranga olivacea_Scarlet Tanager,0.11271026,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1099733,160.0,163.0
+Setophaga citrina_Hooded Warbler,0.12159086,162.0,165.0
+Setophaga citrina_Hooded Warbler,0.18679948,163.0,166.0
+Setophaga citrina_Hooded Warbler,0.22368187,164.0,167.0
+Setophaga magnolia_Magnolia Warbler,0.18409789,164.0,167.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.46510908,165.0,168.0
+Setophaga citrina_Hooded Warbler,0.3308052,165.0,168.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8663391,166.0,169.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.93102926,167.0,170.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8717366,168.0,171.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.69920266,169.0,172.0
+Setophaga citrina_Hooded Warbler,0.2842369,170.0,173.0
+Setophaga citrina_Hooded Warbler,0.28036115,171.0,174.0
+Setophaga magnolia_Magnolia Warbler,0.1497886,171.0,174.0
+Buteo platypterus_Broad-winged Hawk,0.10016414,171.0,174.0
+Setophaga citrina_Hooded Warbler,0.5841608,172.0,175.0
+Setophaga magnolia_Magnolia Warbler,0.16796003,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10449068,174.0,177.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13866109,175.0,178.0
+Buteo platypterus_Broad-winged Hawk,0.12709235,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12662801,176.0,179.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.11066858,177.0,180.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3888391,178.0,181.0
+Setophaga citrina_Hooded Warbler,0.10794958,178.0,181.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3710939,179.0,182.0
+Setophaga magnolia_Magnolia Warbler,0.13316844,179.0,182.0
+Setophaga citrina_Hooded Warbler,0.12246381,179.0,182.0
+Empidonax virescens_Acadian Flycatcher,0.6446663,180.0,183.0
+Empidonax virescens_Acadian Flycatcher,0.3326434,181.0,184.0
+Empidonax virescens_Acadian Flycatcher,0.43001407,182.0,185.0
+Empidonax virescens_Acadian Flycatcher,0.27651042,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12724483,185.0,188.0
+Setophaga citrina_Hooded Warbler,0.105219014,185.0,188.0
+Setophaga citrina_Hooded Warbler,0.3536967,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15244968,186.0,189.0
+Setophaga magnolia_Magnolia Warbler,0.13930692,186.0,189.0
+Setophaga citrina_Hooded Warbler,0.27296367,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10628974,187.0,190.0
+Empidonax virescens_Acadian Flycatcher,0.9912463,188.0,191.0
+Empidonax virescens_Acadian Flycatcher,0.9940211,189.0,192.0
+Empidonax virescens_Acadian Flycatcher,0.98794645,190.0,193.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.20441727,191.0,194.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5472378,192.0,195.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.41206637,193.0,196.0
+Setophaga citrina_Hooded Warbler,0.74795324,195.0,198.0
+Setophaga magnolia_Magnolia Warbler,0.14258939,195.0,198.0
+Setophaga citrina_Hooded Warbler,0.8307357,196.0,199.0
+Setophaga citrina_Hooded Warbler,0.53915435,197.0,200.0
+Setophaga magnolia_Magnolia Warbler,0.14668632,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14240608,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10675603,199.0,202.0
+Geothlypis formosa_Kentucky Warbler,0.10454719,199.0,202.0
+Geothlypis formosa_Kentucky Warbler,0.32786727,200.0,203.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10190612,201.0,204.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2260553,202.0,205.0
+Setophaga citrina_Hooded Warbler,0.3071071,204.0,207.0
+Setophaga magnolia_Magnolia Warbler,0.11415662,204.0,207.0
+Setophaga citrina_Hooded Warbler,0.42988318,205.0,208.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3653169,205.0,208.0
+Setophaga citrina_Hooded Warbler,0.502248,206.0,209.0
+Setophaga citrina_Hooded Warbler,0.1011265,207.0,210.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.121127605,209.0,212.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17017688,210.0,213.0
+Empidonax virescens_Acadian Flycatcher,0.9539807,212.0,215.0
+Empidonax virescens_Acadian Flycatcher,0.9625208,213.0,216.0
+Empidonax virescens_Acadian Flycatcher,0.9703062,214.0,217.0
+Setophaga citrina_Hooded Warbler,0.30688646,215.0,218.0
+Setophaga magnolia_Magnolia Warbler,0.28800356,215.0,218.0
+Setophaga citrina_Hooded Warbler,0.3054851,216.0,219.0
+Setophaga magnolia_Magnolia Warbler,0.1528452,216.0,219.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14148931,216.0,219.0
+Setophaga citrina_Hooded Warbler,0.41195336,217.0,220.0
+Setophaga magnolia_Magnolia Warbler,0.14046152,217.0,220.0
+Setophaga citrina_Hooded Warbler,0.229861,218.0,221.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15382919,218.0,221.0
+Setophaga citrina_Hooded Warbler,0.1293801,219.0,222.0
+Geothlypis formosa_Kentucky Warbler,0.10061308,219.0,222.0
+Setophaga citrina_Hooded Warbler,0.10112702,221.0,224.0
+Empidonax virescens_Acadian Flycatcher,0.9964541,224.0,227.0
+Empidonax virescens_Acadian Flycatcher,0.9891734,225.0,228.0
+Empidonax virescens_Acadian Flycatcher,0.9652083,226.0,229.0
+Setophaga citrina_Hooded Warbler,0.8296981,227.0,230.0
+Setophaga citrina_Hooded Warbler,0.81983703,228.0,231.0
+Limnothlypis swainsonii_Swainson's Warbler,0.103792615,228.0,231.0
+Buteo platypterus_Broad-winged Hawk,0.1379385,229.0,232.0
+Setophaga virens_Black-throated Green Warbler,0.10940347,229.0,232.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10541287,229.0,232.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1990178,230.0,233.0
+Buteo platypterus_Broad-winged Hawk,0.15466267,230.0,233.0
+Setophaga virens_Black-throated Green Warbler,0.13298921,230.0,233.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11284392,233.0,236.0
+Setophaga citrina_Hooded Warbler,0.10618379,234.0,237.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11541022,235.0,238.0
+Myioborus pictus_Painted Redstart,0.1511203,237.0,240.0
+Setophaga citrina_Hooded Warbler,0.41139188,238.0,241.0
+Setophaga citrina_Hooded Warbler,0.41779843,239.0,242.0
+Setophaga magnolia_Magnolia Warbler,0.10238575,239.0,242.0
+Setophaga citrina_Hooded Warbler,0.39593005,240.0,243.0
+Limnothlypis swainsonii_Swainson's Warbler,0.113487214,240.0,243.0
+Empidonax virescens_Acadian Flycatcher,0.112530224,240.0,243.0
+Empidonax virescens_Acadian Flycatcher,0.1681287,241.0,244.0
+Setophaga citrina_Hooded Warbler,0.13980217,241.0,244.0
+Setophaga cerulea_Cerulean Warbler,0.13882405,241.0,244.0
+Buteo platypterus_Broad-winged Hawk,0.11453736,241.0,244.0
+Empidonax virescens_Acadian Flycatcher,0.11715891,242.0,245.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1124246,242.0,245.0
+Dryocopus pileatus_Pileated Woodpecker,0.25873756,244.0,247.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.14541256,246.0,249.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.38699082,247.0,250.0
+Setophaga citrina_Hooded Warbler,0.682279,248.0,251.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30841127,248.0,251.0
+Setophaga magnolia_Magnolia Warbler,0.13942578,248.0,251.0
+Setophaga citrina_Hooded Warbler,0.5405305,249.0,252.0
+Setophaga magnolia_Magnolia Warbler,0.11672792,249.0,252.0
+Setophaga citrina_Hooded Warbler,0.4898558,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1216338,251.0,254.0
+Setophaga fusca_Blackburnian Warbler,0.10855076,251.0,254.0
+Piranga olivacea_Scarlet Tanager,0.118372135,254.0,257.0
+Empidonax virescens_Acadian Flycatcher,0.1083274,255.0,258.0
+Empidonax virescens_Acadian Flycatcher,0.98879504,256.0,259.0
+Empidonax virescens_Acadian Flycatcher,0.99154073,257.0,260.0
+Empidonax virescens_Acadian Flycatcher,0.9863621,258.0,261.0
+Setophaga citrina_Hooded Warbler,0.60588795,259.0,262.0
+Setophaga magnolia_Magnolia Warbler,0.16113593,259.0,262.0
+Setophaga citrina_Hooded Warbler,0.65397847,260.0,263.0
+Setophaga magnolia_Magnolia Warbler,0.10553832,260.0,263.0
+Setophaga citrina_Hooded Warbler,0.86241454,261.0,264.0
+Setophaga magnolia_Magnolia Warbler,0.110843495,261.0,264.0
+Empidonax virescens_Acadian Flycatcher,0.13442789,266.0,269.0
+Setophaga citrina_Hooded Warbler,0.6841758,267.0,270.0
+Geothlypis formosa_Kentucky Warbler,0.60745513,267.0,270.0
+Setophaga citrina_Hooded Warbler,0.47504023,268.0,271.0
+Empidonax virescens_Acadian Flycatcher,0.19403283,268.0,271.0
+Setophaga citrina_Hooded Warbler,0.39799133,269.0,272.0
+Empidonax virescens_Acadian Flycatcher,0.32201195,269.0,272.0
+Setophaga citrina_Hooded Warbler,0.77603114,270.0,273.0
+Empidonax virescens_Acadian Flycatcher,0.2051695,270.0,273.0
+Empidonax virescens_Acadian Flycatcher,0.20135652,271.0,274.0
+Empidonax virescens_Acadian Flycatcher,0.26278025,272.0,275.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.50429106,274.0,277.0
+Empidonax virescens_Acadian Flycatcher,0.18388817,274.0,277.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40874794,275.0,278.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.43960604,277.0,280.0
+Setophaga citrina_Hooded Warbler,0.2531567,278.0,281.0
+Setophaga magnolia_Magnolia Warbler,0.12771134,278.0,281.0
+Setophaga citrina_Hooded Warbler,0.7025458,279.0,282.0
+Setophaga citrina_Hooded Warbler,0.8070248,280.0,283.0
+Empidonax virescens_Acadian Flycatcher,0.9457759,281.0,284.0
+Empidonax virescens_Acadian Flycatcher,0.9258937,282.0,285.0
+Empidonax virescens_Acadian Flycatcher,0.8677651,283.0,286.0
+Empidonax virescens_Acadian Flycatcher,0.9376386,288.0,291.0
+Empidonax virescens_Acadian Flycatcher,0.9472954,289.0,292.0
+Empidonax virescens_Acadian Flycatcher,0.95758903,290.0,293.0
+Setophaga citrina_Hooded Warbler,0.94437104,291.0,294.0
+Setophaga citrina_Hooded Warbler,0.89897335,292.0,295.0
+Setophaga citrina_Hooded Warbler,0.92411757,293.0,296.0
+Setophaga citrina_Hooded Warbler,0.11010256,294.0,297.0
+Setophaga citrina_Hooded Warbler,0.12395872,295.0,298.0
+Buteo platypterus_Broad-winged Hawk,0.11568038,295.0,298.0
+Buteo platypterus_Broad-winged Hawk,0.123970814,296.0,299.0
+Setophaga citrina_Hooded Warbler,0.12255824,296.0,299.0
+Empidonax virescens_Acadian Flycatcher,0.98055273,297.0,300.0
+Empidonax virescens_Acadian Flycatcher,0.9871029,298.0,301.0
+Empidonax virescens_Acadian Flycatcher,0.9789392,299.0,302.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15914072,300.0,303.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22315022,301.0,304.0
+Setophaga citrina_Hooded Warbler,0.22775336,302.0,305.0
+Setophaga citrina_Hooded Warbler,0.33621782,303.0,306.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22198732,303.0,306.0
+Setophaga citrina_Hooded Warbler,0.70654035,304.0,307.0
+Setophaga citrina_Hooded Warbler,0.59939706,305.0,308.0
+Setophaga magnolia_Magnolia Warbler,0.11899585,305.0,308.0
+Buteo platypterus_Broad-winged Hawk,0.1042814,307.0,310.0
+Empidonax virescens_Acadian Flycatcher,0.10365786,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10327313,308.0,311.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10288947,308.0,311.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104397446,309.0,312.0
+Setophaga citrina_Hooded Warbler,0.91157496,310.0,313.0
+Geothlypis formosa_Kentucky Warbler,0.16076499,310.0,313.0
+Setophaga citrina_Hooded Warbler,0.72776055,311.0,314.0
+Setophaga citrina_Hooded Warbler,0.75661594,312.0,315.0
+Limnothlypis swainsonii_Swainson's Warbler,0.37928298,313.0,316.0
+Setophaga citrina_Hooded Warbler,0.2307484,313.0,316.0
+Empidonax virescens_Acadian Flycatcher,0.101937965,313.0,316.0
+Empidonax virescens_Acadian Flycatcher,0.10848676,314.0,317.0
+Empidonax virescens_Acadian Flycatcher,0.14172204,315.0,318.0
+Buteo platypterus_Broad-winged Hawk,0.12705186,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101231545,316.0,319.0
+Buteo platypterus_Broad-winged Hawk,0.101487845,317.0,320.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16400294,318.0,321.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16766691,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123656444,320.0,323.0
+Setophaga citrina_Hooded Warbler,0.85336274,321.0,324.0
+Setophaga citrina_Hooded Warbler,0.7398341,322.0,325.0
+Empidonax virescens_Acadian Flycatcher,0.73735595,323.0,326.0
+Setophaga citrina_Hooded Warbler,0.12340875,323.0,326.0
+Empidonax virescens_Acadian Flycatcher,0.9557225,324.0,327.0
+Empidonax virescens_Acadian Flycatcher,0.9665562,325.0,328.0
+Empidonax virescens_Acadian Flycatcher,0.3178101,326.0,329.0
+Empidonax virescens_Acadian Flycatcher,0.97833556,330.0,333.0
+Empidonax virescens_Acadian Flycatcher,0.9822166,331.0,334.0
+Empidonax virescens_Acadian Flycatcher,0.98837614,332.0,335.0
+Setophaga citrina_Hooded Warbler,0.4460839,333.0,336.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13105565,334.0,337.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19881853,335.0,338.0
+Buteo platypterus_Broad-winged Hawk,0.11125888,335.0,338.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17355949,336.0,339.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18326697,337.0,340.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37362385,338.0,341.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37537682,339.0,342.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37573853,340.0,343.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.3958178,341.0,344.0
+Geothlypis formosa_Kentucky Warbler,0.12270321,341.0,344.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11248337,345.0,348.0
+Geothlypis formosa_Kentucky Warbler,0.17820035,348.0,351.0
+Setophaga citrina_Hooded Warbler,0.16230875,352.0,355.0
+Setophaga citrina_Hooded Warbler,0.11213472,354.0,357.0
+Empidonax virescens_Acadian Flycatcher,0.85333604,358.0,361.0
+Empidonax virescens_Acadian Flycatcher,0.8816831,359.0,362.0
+Empidonax virescens_Acadian Flycatcher,0.89896053,360.0,363.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10550677,361.0,364.0
+Setophaga citrina_Hooded Warbler,0.18510158,362.0,365.0
+Geothlypis formosa_Kentucky Warbler,0.10907868,362.0,365.0
+Setophaga citrina_Hooded Warbler,0.13607222,364.0,367.0
+Helmitheros vermivorum_Worm-eating Warbler,0.111666486,364.0,367.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10532491,364.0,367.0
+Empidonax virescens_Acadian Flycatcher,0.10136682,364.0,367.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11167438,365.0,368.0
+Empidonax virescens_Acadian Flycatcher,0.10596595,365.0,368.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14080434,366.0,369.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.110611826,367.0,370.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101130225,367.0,370.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.16870122,368.0,371.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1352511,369.0,372.0
+Setophaga citrina_Hooded Warbler,0.12109454,369.0,372.0
+Setophaga citrina_Hooded Warbler,0.15374403,370.0,373.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12305041,370.0,373.0
+Setophaga citrina_Hooded Warbler,0.18040402,371.0,374.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110683784,372.0,375.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1130341,373.0,376.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12879117,374.0,377.0
+Geothlypis formosa_Kentucky Warbler,0.122087404,375.0,378.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10955517,375.0,378.0
+Setophaga citrina_Hooded Warbler,0.10613232,376.0,379.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103290334,376.0,379.0
+Setophaga citrina_Hooded Warbler,0.10351966,378.0,381.0
+Setophaga citrina_Hooded Warbler,0.19816808,379.0,382.0
+Geothlypis formosa_Kentucky Warbler,0.13797277,379.0,382.0
+Setophaga cerulea_Cerulean Warbler,0.11782346,379.0,382.0
+Setophaga citrina_Hooded Warbler,0.26435608,380.0,383.0
+Setophaga citrina_Hooded Warbler,0.17141029,381.0,384.0
+Setophaga citrina_Hooded Warbler,0.16567284,382.0,385.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2955649,383.0,386.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40560374,384.0,387.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.2521437,385.0,388.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.26122963,386.0,389.0
+Empidonax virescens_Acadian Flycatcher,0.12456376,386.0,389.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1529539,387.0,390.0
+Setophaga citrina_Hooded Warbler,0.17206101,388.0,391.0
+Empidonax virescens_Acadian Flycatcher,0.82321686,389.0,392.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.15038005,389.0,392.0
+Empidonax virescens_Acadian Flycatcher,0.8695793,390.0,393.0
+Empidonax virescens_Acadian Flycatcher,0.91779375,391.0,394.0
+Empidonax virescens_Acadian Flycatcher,0.8627747,392.0,395.0
+Buteo platypterus_Broad-winged Hawk,0.19368207,393.0,396.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10529149,394.0,397.0
+Buteo platypterus_Broad-winged Hawk,0.20774664,395.0,398.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10512339,395.0,398.0
+Buteo platypterus_Broad-winged Hawk,0.140157,396.0,399.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11406495,396.0,399.0
+Buteo platypterus_Broad-winged Hawk,0.15791859,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12338644,397.0,400.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10589308,398.0,401.0
+Setophaga citrina_Hooded Warbler,0.15269727,400.0,403.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12490167,400.0,403.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19512,401.0,404.0
+Empidonax virescens_Acadian Flycatcher,0.12915926,401.0,404.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15612145,402.0,405.0
+Empidonax virescens_Acadian Flycatcher,0.10503028,402.0,405.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1688998,404.0,407.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10597503,404.0,407.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15788071,405.0,408.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11357328,405.0,408.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108707815,406.0,409.0
+Setophaga citrina_Hooded Warbler,0.176858,407.0,410.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11343915,407.0,410.0
+Setophaga citrina_Hooded Warbler,0.12720343,408.0,411.0
+Setophaga citrina_Hooded Warbler,0.22746976,409.0,412.0
+Empidonax virescens_Acadian Flycatcher,0.10605836,409.0,412.0
+Buteo platypterus_Broad-winged Hawk,0.19057691,410.0,413.0
+Empidonax virescens_Acadian Flycatcher,0.113682486,411.0,414.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101835646,411.0,414.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10975129,412.0,415.0
+Empidonax virescens_Acadian Flycatcher,0.9174428,413.0,416.0
+Empidonax virescens_Acadian Flycatcher,0.9678766,414.0,417.0
+Empidonax virescens_Acadian Flycatcher,0.9107328,415.0,418.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1954187,416.0,419.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.19041893,417.0,420.0
+Geothlypis formosa_Kentucky Warbler,0.110335246,418.0,421.0
+Empidonax virescens_Acadian Flycatcher,0.10229919,418.0,421.0
+Setophaga citrina_Hooded Warbler,0.14350636,420.0,423.0
+Geothlypis formosa_Kentucky Warbler,0.10478404,420.0,423.0
+Buteo platypterus_Broad-winged Hawk,0.11195262,423.0,426.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10889883,423.0,426.0
+Setophaga citrina_Hooded Warbler,0.27761126,425.0,428.0
+Setophaga cerulea_Cerulean Warbler,0.13486426,425.0,428.0
+Setophaga citrina_Hooded Warbler,0.25525224,426.0,429.0
+Setophaga citrina_Hooded Warbler,0.34000456,427.0,430.0
+Geothlypis formosa_Kentucky Warbler,0.1573031,427.0,430.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.23452514,428.0,431.0
+Geothlypis formosa_Kentucky Warbler,0.1661329,428.0,431.0
+Empidonax virescens_Acadian Flycatcher,0.11389673,428.0,431.0
+Setophaga citrina_Hooded Warbler,0.10279586,428.0,431.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.49692407,429.0,432.0
+Empidonax virescens_Acadian Flycatcher,0.1386227,429.0,432.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.24140391,430.0,433.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.30695924,431.0,434.0
+Geothlypis formosa_Kentucky Warbler,0.26869,433.0,436.0
+Setophaga citrina_Hooded Warbler,0.2019844,433.0,436.0
+Setophaga citrina_Hooded Warbler,0.34433338,434.0,437.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1126663,434.0,437.0
+Setophaga citrina_Hooded Warbler,0.35777706,435.0,438.0
+Setophaga virens_Black-throated Green Warbler,0.28292498,435.0,438.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1585131,435.0,438.0
+Buteo platypterus_Broad-winged Hawk,0.13672124,435.0,438.0
+Setophaga citrina_Hooded Warbler,0.24824971,436.0,439.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12066015,436.0,439.0
+Empidonax virescens_Acadian Flycatcher,0.88427114,437.0,440.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.108498566,437.0,440.0
+Empidonax virescens_Acadian Flycatcher,0.96835786,438.0,441.0
+Empidonax virescens_Acadian Flycatcher,0.98270184,439.0,442.0
+Empidonax virescens_Acadian Flycatcher,0.973457,440.0,443.0
+Setophaga cerulea_Cerulean Warbler,0.123594455,441.0,444.0
+Empidonax virescens_Acadian Flycatcher,0.1099155,441.0,444.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12705033,443.0,446.0
+Empidonax virescens_Acadian Flycatcher,0.1036953,443.0,446.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12921683,444.0,447.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.12488575,455.0,458.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12272982,459.0,462.0

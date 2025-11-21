@@ -1,0 +1,143 @@
+species,score,start_time,end_time
+Leiothlypis ruficapilla_Nashville Warbler,0.18470342,1.0,4.0
+Spizella pusilla_Field Sparrow,0.39246434,2.0,5.0
+Spizella pusilla_Field Sparrow,0.74449646,3.0,6.0
+Spizella pusilla_Field Sparrow,0.78942925,4.0,7.0
+Spizella pusilla_Field Sparrow,0.44307607,5.0,8.0
+Setophaga discolor_Prairie Warbler,0.12661965,5.0,8.0
+Contopus virens_Eastern Wood-Pewee,0.11862645,5.0,8.0
+Buteo platypterus_Broad-winged Hawk,0.540264,6.0,9.0
+Zonotrichia albicollis_White-throated Sparrow,0.15046053,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16706751,9.0,12.0
+Setophaga americana_Northern Parula,0.113113314,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.2858553,12.0,15.0
+Spizella pusilla_Field Sparrow,0.15214492,19.0,22.0
+Spizella pusilla_Field Sparrow,0.7974212,20.0,23.0
+Spizella pusilla_Field Sparrow,0.71521187,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.15234846,22.0,25.0
+Spizella pusilla_Field Sparrow,0.14652313,22.0,25.0
+Buteo platypterus_Broad-winged Hawk,0.5660018,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.16446991,23.0,26.0
+Zonotrichia albicollis_White-throated Sparrow,0.1474347,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12902015,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.14359972,26.0,29.0
+Setophaga dominica_Yellow-throated Warbler,0.39914832,27.0,30.0
+Setophaga dominica_Yellow-throated Warbler,0.12341668,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10213145,28.0,31.0
+Setophaga dominica_Yellow-throated Warbler,0.2586804,29.0,32.0
+Poecile carolinensis_Carolina Chickadee,0.11819706,30.0,33.0
+Melospiza melodia_Song Sparrow,0.15237492,31.0,34.0
+Ficedula albicollis_Collared Flycatcher,0.12647593,32.0,35.0
+Ficedula parva_Red-breasted Flycatcher,0.12957679,33.0,36.0
+Spizella pusilla_Field Sparrow,0.21703763,35.0,38.0
+Spizella pusilla_Field Sparrow,0.57007545,36.0,39.0
+Spizella pusilla_Field Sparrow,0.112096444,37.0,40.0
+Buteo platypterus_Broad-winged Hawk,0.92124873,38.0,41.0
+Contopus virens_Eastern Wood-Pewee,0.31495208,38.0,41.0
+Setophaga dominica_Yellow-throated Warbler,0.11724471,40.0,43.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20946594,42.0,45.0
+Larvivora cyane_Siberian Blue Robin,0.15767588,43.0,46.0
+Larvivora cyane_Siberian Blue Robin,0.12435075,44.0,47.0
+Accipiter gentilis_Northern Goshawk,0.12107636,47.0,50.0
+Ficedula albicollis_Collared Flycatcher,0.12436933,48.0,51.0
+Cochoa viridis_Green Cochoa,0.17105828,50.0,53.0
+Zoothera aurea_White's Thrush,0.13189226,50.0,53.0
+Heterophasia gracilis_Gray Sibia,0.10564357,50.0,53.0
+Spizella pusilla_Field Sparrow,0.74112874,51.0,54.0
+Spizella pusilla_Field Sparrow,0.3711991,52.0,55.0
+Spizella pusilla_Field Sparrow,0.22290081,53.0,56.0
+Cardellina pusilla_Wilson's Warbler,0.21352349,55.0,58.0
+Leiothlypis ruficapilla_Nashville Warbler,0.14324552,55.0,58.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.430931,63.0,66.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.24234703,64.0,67.0
+Spizella pusilla_Field Sparrow,0.17088655,64.0,67.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.30252752,65.0,68.0
+Spizella pusilla_Field Sparrow,0.119724974,65.0,68.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.21910961,66.0,69.0
+Spizella pusilla_Field Sparrow,0.18837076,66.0,69.0
+Spizella pusilla_Field Sparrow,0.1523087,67.0,70.0
+Contopus virens_Eastern Wood-Pewee,0.104062654,67.0,70.0
+Buteo platypterus_Broad-winged Hawk,0.19122946,68.0,71.0
+Setophaga dominica_Yellow-throated Warbler,0.28899446,69.0,72.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10082523,70.0,73.0
+Setophaga dominica_Yellow-throated Warbler,0.11519702,76.0,79.0
+Setophaga dominica_Yellow-throated Warbler,0.100668795,77.0,80.0
+Spizella pusilla_Field Sparrow,0.28462085,81.0,84.0
+Zonotrichia albicollis_White-throated Sparrow,0.10163865,81.0,84.0
+Spizella pusilla_Field Sparrow,0.6571226,82.0,85.0
+Myiothlypis coronata_Russet-crowned Warbler,0.12009078,84.0,87.0
+Spizella pusilla_Field Sparrow,0.33954588,85.0,88.0
+Phyllergates cucullatus_Mountain Tailorbird,0.286718,85.0,88.0
+Stachyris nigriceps_Gray-throated Babbler,0.25229856,85.0,88.0
+Spizella pusilla_Field Sparrow,0.4282591,86.0,89.0
+Spizella pusilla_Field Sparrow,0.69496655,87.0,90.0
+Spizella pusilla_Field Sparrow,0.27287576,88.0,91.0
+Contopus virens_Eastern Wood-Pewee,0.16336533,89.0,92.0
+Spizella pusilla_Field Sparrow,0.1445993,89.0,92.0
+Odocoileus virginianus_White-tailed Deer,0.74234354,91.0,94.0
+Ardea herodias_Great Blue Heron,0.17710657,91.0,94.0
+Odocoileus virginianus_White-tailed Deer,0.7431577,92.0,95.0
+Ardea herodias_Great Blue Heron,0.4025342,92.0,95.0
+Ardea cinerea_Gray Heron,0.21715602,92.0,95.0
+Odocoileus virginianus_White-tailed Deer,0.7728877,93.0,96.0
+Ardea herodias_Great Blue Heron,0.4541015,93.0,96.0
+Ardea herodias_Great Blue Heron,0.6966428,94.0,97.0
+Odocoileus virginianus_White-tailed Deer,0.21208163,94.0,97.0
+Psarocolius montezuma_Montezuma Oropendola,0.46599755,95.0,98.0
+Cardellina pusilla_Wilson's Warbler,0.13165678,105.0,108.0
+Leiothlypis ruficapilla_Nashville Warbler,0.11815218,106.0,109.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.39479747,107.0,110.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.2799178,107.0,110.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.4636457,109.0,112.0
+Columba oenas_Stock Dove,0.14754213,110.0,113.0
+Corvus brachyrhynchos_American Crow,0.39513385,111.0,114.0
+Pipilo erythrophthalmus_Eastern Towhee,0.37035477,111.0,114.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.13877788,112.0,115.0
+Setophaga virens_Black-throated Green Warbler,0.112303056,119.0,122.0
+Corvus brachyrhynchos_American Crow,0.2572586,120.0,123.0
+Geothlypis formosa_Kentucky Warbler,0.12290756,120.0,123.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11131432,120.0,123.0
+Corvus brachyrhynchos_American Crow,0.50833297,121.0,124.0
+Geothlypis formosa_Kentucky Warbler,0.18751076,121.0,124.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13483216,121.0,124.0
+Geothlypis formosa_Kentucky Warbler,0.15955791,122.0,125.0
+Corvus brachyrhynchos_American Crow,0.15458818,122.0,125.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11211256,123.0,126.0
+Tesia cyaniventer_Gray-bellied Tesia,0.14782618,129.0,132.0
+Melospiza melodia_Song Sparrow,0.64514554,130.0,133.0
+Melospiza melodia_Song Sparrow,0.97527254,131.0,134.0
+Melospiza melodia_Song Sparrow,0.81651986,132.0,135.0
+Spizella pusilla_Field Sparrow,0.23602396,134.0,137.0
+Spizella pusilla_Field Sparrow,0.6589458,135.0,138.0
+Spizella pusilla_Field Sparrow,0.631387,136.0,139.0
+Buteo platypterus_Broad-winged Hawk,0.4908487,137.0,140.0
+Protonotaria citrea_Prothonotary Warbler,0.105136804,138.0,141.0
+Odocoileus virginianus_White-tailed Deer,0.35878843,140.0,143.0
+Odocoileus virginianus_White-tailed Deer,0.40804815,141.0,144.0
+Ardea herodias_Great Blue Heron,0.14707038,141.0,144.0
+Melospiza melodia_Song Sparrow,0.20987214,142.0,145.0
+Melospiza melodia_Song Sparrow,0.3222688,143.0,146.0
+Ardea herodias_Great Blue Heron,0.19041856,144.0,147.0
+Ardea herodias_Great Blue Heron,0.30776808,145.0,148.0
+Ardea herodias_Great Blue Heron,0.109641284,146.0,149.0
+Setophaga ruticilla_American Redstart,0.19890459,147.0,150.0
+Spizella pusilla_Field Sparrow,0.46958572,148.0,151.0
+Spizella pusilla_Field Sparrow,0.39268684,149.0,152.0
+Stachyris nigriceps_Gray-throated Babbler,0.29501075,150.0,153.0
+Spizella pusilla_Field Sparrow,0.24393766,150.0,153.0
+Spizella pusilla_Field Sparrow,0.11021728,151.0,154.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.13937686,152.0,155.0
+Cardellina canadensis_Canada Warbler,0.1269889,153.0,156.0
+Leiothlypis ruficapilla_Nashville Warbler,0.10656,153.0,156.0
+Geothlypis philadelphia_Mourning Warbler,0.10356479,154.0,157.0
+Passerina cyanea_Indigo Bunting,0.1450921,155.0,158.0
+Geothlypis philadelphia_Mourning Warbler,0.124209255,155.0,158.0
+Melospiza melodia_Song Sparrow,0.1435823,157.0,160.0
+Melospiza melodia_Song Sparrow,0.21018042,158.0,161.0
+Ardea herodias_Great Blue Heron,0.15165366,158.0,161.0
+Melospiza melodia_Song Sparrow,0.49030623,159.0,162.0
+Spizella pusilla_Field Sparrow,0.21881382,160.0,163.0
+Spizella pusilla_Field Sparrow,0.7265819,161.0,164.0
+Setophaga discolor_Prairie Warbler,0.11040452,161.0,164.0
+Spizella pusilla_Field Sparrow,0.45706862,162.0,165.0
+Buteo platypterus_Broad-winged Hawk,0.6370519,164.0,166.89600907029478

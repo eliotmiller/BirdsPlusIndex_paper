@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Setophaga virens_Black-throated Green Warbler,0.75085205,2.0,5.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19844659,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.8548039,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.7749092,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10997591,4.0,7.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13170332,5.0,8.0
+Ficedula parva_Red-breasted Flycatcher,0.23849165,7.0,10.0
+Columba oenas_Stock Dove,0.17243476,7.0,10.0
+Protonotaria citrea_Prothonotary Warbler,0.12728153,9.0,12.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12383675,9.0,12.0
+Protonotaria citrea_Prothonotary Warbler,0.16301486,10.0,13.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13947389,10.0,13.0
+Geothlypis formosa_Kentucky Warbler,0.11277026,10.0,13.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22580284,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.20598961,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.54146034,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12701072,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.2610508,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10885842,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.17237876,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.2990069,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.17833707,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118469484,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.1919234,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12608029,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.22887312,18.0,21.0
+Setophaga citrina_Hooded Warbler,0.123852074,18.0,21.0
+Geothlypis formosa_Kentucky Warbler,0.10883471,18.0,21.0
+Parkesia motacilla_Louisiana Waterthrush,0.10228459,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.1008409,18.0,21.0
+Protonotaria citrea_Prothonotary Warbler,0.10320781,21.0,24.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14195064,22.0,25.0
+Protonotaria citrea_Prothonotary Warbler,0.10781808,22.0,25.0
+Limnothlypis swainsonii_Swainson's Warbler,0.34508705,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.26109862,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.7838314,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.5282344,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.24967998,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10619783,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.105605096,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.7059175,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.15057883,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.6197998,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.28689376,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.37270895,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2132127,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.43244162,37.0,40.0
+Accipiter gentilis_Northern Goshawk,0.13470086,39.0,42.0
+Ficedula parva_Red-breasted Flycatcher,0.110393815,39.0,42.0
+Mniotilta varia_Black-and-white Warbler,0.11127645,41.0,44.0
+Mniotilta varia_Black-and-white Warbler,0.1877145,42.0,45.0
+Limnothlypis swainsonii_Swainson's Warbler,0.117395535,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.4139123,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10026785,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.28167084,46.0,49.0
+Limnothlypis swainsonii_Swainson's Warbler,0.112535104,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.61629236,47.0,50.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24591105,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.16218299,48.0,51.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12312649,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12703025,49.0,52.0
+Geothlypis formosa_Kentucky Warbler,0.17138454,50.0,53.0
+Hylocichla mustelina_Wood Thrush,0.17005716,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.11683298,50.0,53.0
+Ficedula parva_Red-breasted Flycatcher,0.1840715,51.0,54.0
+Ficedula parva_Red-breasted Flycatcher,0.5428854,52.0,55.0
+Accipiter gentilis_Northern Goshawk,0.25819328,52.0,55.0
+Columba oenas_Stock Dove,0.15101644,52.0,55.0
+Oriolus oriolus_Eurasian Golden Oriole,0.11295771,52.0,55.0
+Strix uralensis_Ural Owl,0.19700335,53.0,56.0
+Ficedula parva_Red-breasted Flycatcher,0.116184905,53.0,56.0
+Ficedula parva_Red-breasted Flycatcher,0.28720927,54.0,57.0
+Picus canus_Gray-headed Woodpecker,0.120585546,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.2210324,55.0,58.0
+Limnothlypis swainsonii_Swainson's Warbler,0.109540224,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.810606,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.65744036,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.82210255,58.0,61.0
+Setophaga dominica_Yellow-throated Warbler,0.10009467,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21521506,64.0,67.0
+Geothlypis formosa_Kentucky Warbler,0.104465164,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11595219,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.29014426,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1121022,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.16203131,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.3826599,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.21881886,69.0,71.71201814058956

@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.9917094,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.98726183,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.9621222,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.950818,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16232564,4.0,7.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1390547,4.0,7.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22312649,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13380028,5.0,8.0
+Tamias striatus_Eastern Chipmunk,0.31966695,6.0,9.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.26396018,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14255962,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.107706666,6.0,9.0
+Tamias striatus_Eastern Chipmunk,0.2697199,7.0,10.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22201473,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14985651,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17219323,8.0,11.0
+Tamias striatus_Eastern Chipmunk,0.16702521,8.0,11.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11897259,8.0,11.0
+Empidonax minimus_Least Flycatcher,0.11244327,8.0,11.0
+Tamias striatus_Eastern Chipmunk,0.12650396,9.0,12.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1210379,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10173345,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.99775827,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.9965113,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.994705,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.97844225,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.30379003,14.0,17.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.24551968,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18139201,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1485331,16.0,19.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13399473,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1222549,17.0,20.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14339592,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.8654067,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.98790914,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.9944581,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.9936313,22.0,25.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.25386673,24.0,27.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.24681436,25.0,28.0
+Tamias striatus_Eastern Chipmunk,0.14533465,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12072277,25.0,28.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.38291726,26.0,29.0
+Tamias striatus_Eastern Chipmunk,0.13701254,27.0,30.0
+Empidonax minimus_Least Flycatcher,0.13007322,27.0,30.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.117275216,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.19724232,28.0,31.0
+Empidonax minimus_Least Flycatcher,0.15533897,28.0,31.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.14362428,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12394524,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.708548,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.9479271,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.98408914,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.97138184,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.75853205,33.0,36.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.16609798,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101339065,34.0,37.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1326782,35.0,38.0
+Empidonax minimus_Least Flycatcher,0.11952809,36.0,39.0
+Tamias striatus_Eastern Chipmunk,0.20520617,37.0,40.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11483371,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.39018723,39.0,42.0
+Catharus fuscescens_Veery,0.20972078,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.9889732,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.9978364,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.98846406,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.93559504,43.0,46.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.27734134,44.0,47.0
+Tamias striatus_Eastern Chipmunk,0.21257088,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14161932,44.0,47.0
+Tamias striatus_Eastern Chipmunk,0.1587473,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12701952,45.0,48.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1009963,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.6287666,46.0,49.0
+Tamias striatus_Eastern Chipmunk,0.12011254,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.94940305,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.9664609,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.97431654,49.0,51.336009070294786

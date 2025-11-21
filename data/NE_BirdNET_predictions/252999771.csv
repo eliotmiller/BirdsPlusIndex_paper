@@ -1,0 +1,42 @@
+species,score,start_time,end_time
+Helmitheros vermivorum_Worm-eating Warbler,0.11555727,0.0,3.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121928535,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.119293265,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.67310864,5.0,8.0
+Bubo virginianus_Great Horned Owl,0.44030693,11.0,14.0
+Asio otus_Long-eared Owl,0.12057673,11.0,14.0
+Megascops asio_Eastern Screech-Owl,0.25861642,13.0,16.0
+Strix aluco_Tawny Owl,0.114482336,13.0,16.0
+Megascops asio_Eastern Screech-Owl,0.49275523,14.0,17.0
+Megascops kennicottii_Western Screech-Owl,0.25318417,14.0,17.0
+Megascops asio_Eastern Screech-Owl,0.18197903,15.0,18.0
+Megascops kennicottii_Western Screech-Owl,0.19061837,16.0,19.0
+Megascops gilesi_Santa Marta Screech-Owl,0.15603855,16.0,19.0
+Strix aluco_Tawny Owl,0.41621912,17.0,20.0
+Megascops kennicottii_Western Screech-Owl,0.1650326,18.0,21.0
+Megascops asio_Eastern Screech-Owl,0.10788332,18.0,21.0
+Megascops asio_Eastern Screech-Owl,0.5511976,19.0,22.0
+Strix aluco_Tawny Owl,0.27144483,19.0,22.0
+Megascops asio_Eastern Screech-Owl,0.1720433,21.0,24.0
+Haliaeetus leucocephalus_Bald Eagle,0.43158388,23.0,26.0
+Megascops asio_Eastern Screech-Owl,0.2679776,25.0,28.0
+Megascops asio_Eastern Screech-Owl,0.17076336,26.0,29.0
+Megascops asio_Eastern Screech-Owl,0.15143937,28.0,31.0
+Megascops asio_Eastern Screech-Owl,0.21404217,29.0,32.0
+Megascops kennicottii_Western Screech-Owl,0.10853709,29.0,32.0
+Megascops asio_Eastern Screech-Owl,0.13519318,32.0,35.0
+Megascops asio_Eastern Screech-Owl,0.101793125,33.0,36.0
+Megascops asio_Eastern Screech-Owl,0.23127373,44.0,47.0
+Strix aluco_Tawny Owl,0.11360302,44.0,47.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3154919,46.0,49.0
+Aegolius acadicus_Northern Saw-whet Owl,0.17327778,47.0,50.0
+Chamaeza campanisona_Short-tailed Antthrush,0.18929586,48.0,51.0
+Megascops asio_Eastern Screech-Owl,0.3726224,49.0,52.0
+Geopelia striata_Zebra Dove,0.119214885,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12051107,52.0,55.0
+Buteo platypterus_Broad-winged Hawk,0.11460919,56.0,59.0
+Buteo platypterus_Broad-winged Hawk,0.256508,57.0,60.0
+Buteo platypterus_Broad-winged Hawk,0.2819794,58.0,61.0
+Turdus migratorius_American Robin,0.1753629,58.0,61.0
+Buteo platypterus_Broad-winged Hawk,0.19137958,59.0,62.0
+Buteo platypterus_Broad-winged Hawk,0.1515301,60.0,62.11201814058957
