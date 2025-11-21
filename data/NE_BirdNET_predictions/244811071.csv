@@ -1,0 +1,264 @@
+species,score,start_time,end_time
+Zenaida macroura_Mourning Dove,0.5464285,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.21290213,1.0,4.0
+Strix varia_Barred Owl,0.108619526,1.0,4.0
+Strix varia_Barred Owl,0.912352,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.29831612,2.0,5.0
+Strix varia_Barred Owl,0.9913447,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.25078097,3.0,6.0
+Strix varia_Barred Owl,0.9544106,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.14386903,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.31432047,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13277075,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.12205654,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.11329605,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.44792554,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102890775,6.0,9.0
+Elanus leucurus_White-tailed Kite,0.15341438,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.29070842,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.39447275,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.20769282,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.20137072,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13001512,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.11907219,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.47403315,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12790893,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.33005452,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13072641,20.0,23.0
+Seiurus aurocapilla_Ovenbird,0.37760526,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.6329686,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11864882,22.0,25.0
+Strix varia_Barred Owl,0.27437618,24.0,27.0
+Strix varia_Barred Owl,0.9960633,25.0,28.0
+Strix varia_Barred Owl,0.9995912,26.0,29.0
+Strix varia_Barred Owl,0.99952006,27.0,30.0
+Strix varia_Barred Owl,0.99515474,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.11708099,29.0,32.0
+Poecile atricapillus_Black-capped Chickadee,0.37941426,36.0,39.0
+Poecile atricapillus_Black-capped Chickadee,0.50284916,37.0,40.0
+Poecile atricapillus_Black-capped Chickadee,0.6134032,38.0,41.0
+Poecile atricapillus_Black-capped Chickadee,0.24246718,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.2986481,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117326535,40.0,43.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11093319,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.109410964,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.42768455,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.13451125,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.27030206,43.0,46.0
+Mniotilta varia_Black-and-white Warbler,0.1049925,44.0,47.0
+Protonotaria citrea_Prothonotary Warbler,0.13104343,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.1937864,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.6626815,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.5575219,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.6716266,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.3986266,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.38385648,62.0,65.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10302513,62.0,65.0
+Strix varia_Barred Owl,0.99774545,65.0,68.0
+Strix varia_Barred Owl,0.9990595,66.0,69.0
+Strix varia_Barred Owl,0.9979899,67.0,70.0
+Strix varia_Barred Owl,0.9976634,68.0,71.0
+Strix varia_Barred Owl,0.8582318,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.5230752,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.3523783,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10565285,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.2809073,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.125686,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.12211766,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.17732248,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.1471784,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11387651,73.0,76.0
+Piranga olivacea_Scarlet Tanager,0.23997538,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12931377,74.0,77.0
+Setophaga virens_Black-throated Green Warbler,0.10143914,74.0,77.0
+Setophaga fusca_Blackburnian Warbler,0.12525965,76.0,79.0
+Contopus virens_Eastern Wood-Pewee,0.123552375,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.16193204,79.0,82.0
+Piranga olivacea_Scarlet Tanager,0.13388585,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.14552407,83.0,86.0
+Archilochus colubris_Ruby-throated Hummingbird,0.27726293,92.0,95.0
+Mniotilta varia_Black-and-white Warbler,0.11786327,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.6329115,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.36278728,94.0,97.0
+Archilochus colubris_Ruby-throated Hummingbird,0.21808091,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10500297,94.0,97.0
+Seiurus aurocapilla_Ovenbird,0.527357,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.17265497,96.0,99.0
+Junco hyemalis_Dark-eyed Junco,0.16903917,96.0,99.0
+Strix varia_Barred Owl,0.17207319,98.0,101.0
+Strix varia_Barred Owl,0.9830572,99.0,102.0
+Strix occidentalis_Spotted Owl,0.11850554,99.0,102.0
+Strix varia_Barred Owl,0.9983407,100.0,103.0
+Strix varia_Barred Owl,0.98550284,101.0,104.0
+Strix varia_Barred Owl,0.9978218,102.0,105.0
+Strix varia_Barred Owl,0.9996824,103.0,106.0
+Hylocichla mustelina_Wood Thrush,0.15237483,106.0,109.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12497502,108.0,111.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12496323,108.0,111.0
+Lalage melaschistos_Black-winged Cuckooshrike,0.13913108,109.0,112.0
+Turdus boulboul_Gray-winged Blackbird,0.10284302,109.0,112.0
+Poecile atricapillus_Black-capped Chickadee,0.15838817,114.0,117.0
+Poecile atricapillus_Black-capped Chickadee,0.12330203,115.0,118.0
+Junco hyemalis_Dark-eyed Junco,0.11734619,119.0,122.0
+Junco hyemalis_Dark-eyed Junco,0.31160048,120.0,123.0
+Junco phaeonotus_Yellow-eyed Junco,0.23252182,121.0,124.0
+Junco hyemalis_Dark-eyed Junco,0.15264784,121.0,124.0
+Junco hyemalis_Dark-eyed Junco,0.8831869,122.0,125.0
+Junco phaeonotus_Yellow-eyed Junco,0.5885577,122.0,125.0
+Junco hyemalis_Dark-eyed Junco,0.53837657,123.0,126.0
+Junco phaeonotus_Yellow-eyed Junco,0.1940918,123.0,126.0
+Junco hyemalis_Dark-eyed Junco,0.50870675,124.0,127.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.116722465,125.0,128.0
+Colluricincla harmonica_Gray Shrikethrush,0.19271141,128.0,131.0
+Strix varia_Barred Owl,0.85578007,135.0,138.0
+Strix occidentalis_Spotted Owl,0.18473746,135.0,138.0
+Strix varia_Barred Owl,0.99171793,136.0,139.0
+Strix varia_Barred Owl,0.99846715,137.0,140.0
+Strix varia_Barred Owl,0.9983699,138.0,141.0
+Strix varia_Barred Owl,0.9991462,139.0,142.0
+Strix varia_Barred Owl,0.99940515,140.0,143.0
+Falcunculus frontatus_Crested Shrike-tit,0.119808145,144.0,147.0
+Mniotilta varia_Black-and-white Warbler,0.16800898,149.0,152.0
+Mniotilta varia_Black-and-white Warbler,0.17824467,150.0,153.0
+Junco hyemalis_Dark-eyed Junco,0.13406427,152.0,155.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10676865,152.0,155.0
+Junco hyemalis_Dark-eyed Junco,0.22595042,153.0,156.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17256439,153.0,156.0
+Diglossa baritula_Cinnamon-bellied Flowerpiercer,0.286164,154.0,157.0
+Pipilo ocai_Collared Towhee,0.23358387,154.0,157.0
+Atlapetes tricolor_Tricolored Brushfinch,0.11490292,154.0,157.0
+Ampelioides tschudii_Scaled Fruiteater,0.24993138,156.0,159.0
+Setophaga virens_Black-throated Green Warbler,0.25192475,157.0,160.0
+Mniotilta varia_Black-and-white Warbler,0.16814785,157.0,160.0
+Setophaga townsendi_Townsend's Warbler,0.14526968,157.0,160.0
+Setophaga fusca_Blackburnian Warbler,0.10257088,157.0,160.0
+Mniotilta varia_Black-and-white Warbler,0.17836593,158.0,161.0
+Psaltriparus minimus_Bushtit,0.15155344,160.0,163.0
+Junco hyemalis_Dark-eyed Junco,0.25478306,161.0,164.0
+Colluricincla harmonica_Gray Shrikethrush,0.16336194,164.0,167.0
+Colluricincla harmonica_Gray Shrikethrush,0.1467494,165.0,168.0
+Strix varia_Barred Owl,0.9439773,169.0,172.0
+Strix occidentalis_Spotted Owl,0.19781134,169.0,172.0
+Strix varia_Barred Owl,0.9445974,170.0,173.0
+Strix occidentalis_Spotted Owl,0.14358139,170.0,173.0
+Strix varia_Barred Owl,0.9978375,171.0,174.0
+Strix varia_Barred Owl,0.99929786,172.0,175.0
+Strix varia_Barred Owl,0.99862635,173.0,176.0
+Strix varia_Barred Owl,0.81118697,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.2177765,175.0,178.0
+Strix varia_Barred Owl,0.948086,179.0,182.0
+Strix varia_Barred Owl,0.98605204,180.0,183.0
+Strix varia_Barred Owl,0.991041,181.0,184.0
+Strix varia_Barred Owl,0.9960932,182.0,185.0
+Strix varia_Barred Owl,0.99802506,183.0,186.0
+Setophaga virens_Black-throated Green Warbler,0.29027677,191.0,194.0
+Buteo platypterus_Broad-winged Hawk,0.12337959,191.0,194.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11681876,191.0,194.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10140817,191.0,194.0
+Buteo platypterus_Broad-winged Hawk,0.14754209,192.0,195.0
+Buteo platypterus_Broad-winged Hawk,0.12007633,193.0,196.0
+Falcunculus frontatus_Crested Shrike-tit,0.20464808,202.0,205.0
+Colluricincla harmonica_Gray Shrikethrush,0.10711998,202.0,205.0
+Falcunculus frontatus_Crested Shrike-tit,0.2863285,203.0,206.0
+Colluricincla harmonica_Gray Shrikethrush,0.1936181,203.0,206.0
+Falcunculus frontatus_Crested Shrike-tit,0.12034626,204.0,207.0
+Colluricincla harmonica_Gray Shrikethrush,0.23224169,206.0,209.0
+Colluricincla harmonica_Gray Shrikethrush,0.114131406,208.0,211.0
+Colluricincla harmonica_Gray Shrikethrush,0.24608625,209.0,212.0
+Melithreptus chloropsis_Gilbert's Honeyeater,0.15414295,212.0,215.0
+Catharus fuscescens_Veery,0.10164112,226.0,229.0
+Melithreptus chloropsis_Gilbert's Honeyeater,0.18803139,229.0,232.0
+Colluricincla harmonica_Gray Shrikethrush,0.106428206,229.0,232.0
+Colluricincla harmonica_Gray Shrikethrush,0.18469816,247.0,250.0
+Falco columbarius_Merlin,0.27680942,255.0,258.0
+Parvipsitta porphyrocephala_Purple-crowned Lorikeet,0.17865562,258.0,261.0
+Tamias striatus_Eastern Chipmunk,0.14629479,260.0,263.0
+Tamias striatus_Eastern Chipmunk,0.11880011,261.0,264.0
+Tamias striatus_Eastern Chipmunk,0.12054241,262.0,265.0
+Tamias striatus_Eastern Chipmunk,0.2072104,263.0,266.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10011745,265.0,268.0
+Setophaga fusca_Blackburnian Warbler,0.17270422,271.0,274.0
+Tamias striatus_Eastern Chipmunk,0.24435647,279.0,282.0
+Ptiloris magnificus_Magnificent Riflebird,0.16628367,282.0,285.0
+Strix varia_Barred Owl,0.7849753,287.0,290.0
+Strix varia_Barred Owl,0.99073327,288.0,291.0
+Strix varia_Barred Owl,0.9949715,289.0,292.0
+Strix varia_Barred Owl,0.9994561,290.0,293.0
+Strix varia_Barred Owl,0.9995753,291.0,294.0
+Strix varia_Barred Owl,0.9990601,292.0,295.0
+Strix varia_Barred Owl,0.96627665,299.0,302.0
+Strix varia_Barred Owl,0.99004877,300.0,303.0
+Strix varia_Barred Owl,0.9934282,301.0,304.0
+Strix varia_Barred Owl,0.9974367,302.0,305.0
+Strix varia_Barred Owl,0.9992774,303.0,306.0
+Strix varia_Barred Owl,0.9955776,304.0,307.0
+Piranga olivacea_Scarlet Tanager,0.18842037,308.0,311.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13513951,312.0,315.0
+Setophaga fusca_Blackburnian Warbler,0.12332639,312.0,315.0
+Setophaga virens_Black-throated Green Warbler,0.10174293,312.0,315.0
+Setophaga fusca_Blackburnian Warbler,0.13009112,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1152858,313.0,316.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10524167,313.0,316.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.104356706,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11284037,317.0,320.0
+Polytelis anthopeplus_Regent Parrot,0.10308695,324.0,327.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.20348506,325.0,328.0
+Strix varia_Barred Owl,0.83919466,327.0,330.0
+Strix varia_Barred Owl,0.97444963,328.0,331.0
+Strix varia_Barred Owl,0.9741557,329.0,332.0
+Strix varia_Barred Owl,0.99553585,330.0,333.0
+Strix varia_Barred Owl,0.99886405,331.0,334.0
+Strix varia_Barred Owl,0.9990244,332.0,335.0
+Strix varia_Barred Owl,0.38321698,333.0,336.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.3013912,345.0,348.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.13082427,345.0,348.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.3534021,350.0,353.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.1489205,351.0,354.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14674538,352.0,355.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12488605,354.0,357.0
+Piranga olivacea_Scarlet Tanager,0.12531427,359.0,362.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12716904,360.0,363.0
+Setophaga fusca_Blackburnian Warbler,0.10790365,360.0,363.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.14679495,361.0,364.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12715806,361.0,364.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.51899785,362.0,365.0
+Melanerpes chrysogenys_Golden-cheeked Woodpecker,0.29227936,362.0,365.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12655188,362.0,365.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.21934699,363.0,366.0
+Melanerpes uropygialis_Gila Woodpecker,0.11978406,363.0,366.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.11231286,363.0,366.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.30353308,364.0,367.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.19439036,365.0,368.0
+Strix varia_Barred Owl,0.8285899,371.0,374.0
+Strix varia_Barred Owl,0.96660525,372.0,375.0
+Gypsophila rufipectus_Rusty-breasted Wren-Babbler,0.339269,372.0,375.0
+Strix varia_Barred Owl,0.9908839,373.0,376.0
+Strix varia_Barred Owl,0.9970022,374.0,377.0
+Strix varia_Barred Owl,0.9937458,375.0,378.0
+Dryocopus pileatus_Pileated Woodpecker,0.12310658,376.0,379.0
+Strix varia_Barred Owl,0.1008025,376.0,379.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.52065235,377.0,380.0
+Melanerpes chrysogenys_Golden-cheeked Woodpecker,0.19475965,377.0,380.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.2745949,378.0,381.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.1248776,382.0,385.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10501162,384.0,387.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.36946437,386.0,389.0
+Ducula badia_Mountain Imperial-Pigeon,0.14462605,387.0,390.0
+Myiarchus crinitus_Great Crested Flycatcher,0.36817497,389.0,392.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13806587,391.0,394.0
+Trogon mexicanus_Mountain Trogon,0.15285812,393.0,396.0
+Trogon mexicanus_Mountain Trogon,0.18046151,394.0,397.0
+Trogon mexicanus_Mountain Trogon,0.12544198,395.0,398.0
+Colaptes auricularis_Gray-crowned Woodpecker,0.24021281,396.0,399.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.10770789,396.0,399.0
+Geokichla citrina_Orange-headed Thrush,0.111635506,400.0,403.0
+Dendrocitta leucogastra_White-bellied Treepie,0.103719875,400.0,403.0
+Cyanocitta cristata_Blue Jay,0.34486824,406.0,409.0
+Cyanocitta cristata_Blue Jay,0.4103,407.0,410.0
+Dryocopus pileatus_Pileated Woodpecker,0.10166807,408.0,411.0
+Strix varia_Barred Owl,0.95856726,422.0,425.0
+Strix varia_Barred Owl,0.9397596,423.0,426.0
+Strix varia_Barred Owl,0.9804577,424.0,427.0
+Strix varia_Barred Owl,0.997775,425.0,428.0
+Strix varia_Barred Owl,0.9980519,426.0,429.0
+Strix varia_Barred Owl,0.9962871,427.0,430.0

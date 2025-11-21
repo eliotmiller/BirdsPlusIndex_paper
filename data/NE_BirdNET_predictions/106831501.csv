@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Mniotilta varia_Black-and-white Warbler,0.9668387,0.0,3.0
+Mniotilta varia_Black-and-white Warbler,0.9751226,1.0,4.0
+Mniotilta varia_Black-and-white Warbler,0.9241391,2.0,5.0
+Mniotilta varia_Black-and-white Warbler,0.18683898,3.0,6.0
+Setophaga ruticilla_American Redstart,0.15371327,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.15421744,4.0,7.0
+Catharus fuscescens_Veery,0.27325085,8.0,11.0
+Mniotilta varia_Black-and-white Warbler,0.49951738,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.14837742,9.0,12.0
+Mniotilta varia_Black-and-white Warbler,0.6192098,10.0,13.0
+Mniotilta varia_Black-and-white Warbler,0.8154353,11.0,14.0
+Mniotilta varia_Black-and-white Warbler,0.7538961,12.0,15.0
+Mniotilta varia_Black-and-white Warbler,0.6599052,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.13125871,14.0,17.0
+Catharus fuscescens_Veery,0.10673621,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.21437117,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.12138596,15.0,18.0
+Catharus fuscescens_Veery,0.11666722,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.104739204,15.0,18.0
+Catharus fuscescens_Veery,0.121890396,16.0,19.0
+Catharus fuscescens_Veery,0.34300604,20.0,23.0
+Mniotilta varia_Black-and-white Warbler,0.40007263,21.0,24.0
+Mniotilta varia_Black-and-white Warbler,0.81274533,22.0,25.0
+Mniotilta varia_Black-and-white Warbler,0.91615194,23.0,26.0
+Setophaga castanea_Bay-breasted Warbler,0.14055584,23.0,26.0
+Mniotilta varia_Black-and-white Warbler,0.7574382,24.0,27.0
+Setophaga castanea_Bay-breasted Warbler,0.120215245,24.0,27.0
+Mniotilta varia_Black-and-white Warbler,0.8154279,25.0,28.0
+Setophaga castanea_Bay-breasted Warbler,0.10042054,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.22794181,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.17182635,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.11137023,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.23299794,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.22473145,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.48388556,31.0,34.0
+Catharus fuscescens_Veery,0.12210813,31.0,34.0
+Catharus fuscescens_Veery,0.200166,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.10012499,32.0,35.0
+Catharus fuscescens_Veery,0.10372515,34.0,37.0
+Mniotilta varia_Black-and-white Warbler,0.32750747,39.0,42.0
+Setophaga tigrina_Cape May Warbler,0.10776141,39.0,42.0
+Mniotilta varia_Black-and-white Warbler,0.7355844,40.0,43.0
+Setophaga castanea_Bay-breasted Warbler,0.12720956,40.0,43.0
+Setophaga tigrina_Cape May Warbler,0.11306126,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.11075628,40.0,43.0
+Mniotilta varia_Black-and-white Warbler,0.6660791,41.0,44.0
+Mniotilta varia_Black-and-white Warbler,0.3378313,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.14854367,43.0,46.0
+Setophaga ruticilla_American Redstart,0.14071448,43.0,46.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10513203,43.0,46.0
+Catharus fuscescens_Veery,0.1542874,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.146665,45.0,48.0
+Protonotaria citrea_Prothonotary Warbler,0.11458508,45.0,48.0
+Catharus fuscescens_Veery,0.26112005,47.0,50.0
+Catharus fuscescens_Veery,0.62409157,48.0,51.0
+Mniotilta varia_Black-and-white Warbler,0.55499154,49.0,52.0
+Mniotilta varia_Black-and-white Warbler,0.70248765,50.0,53.0
+Setophaga castanea_Bay-breasted Warbler,0.40877885,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.13152866,50.0,53.0
+Mniotilta varia_Black-and-white Warbler,0.6653418,51.0,54.0
+Setophaga castanea_Bay-breasted Warbler,0.15377256,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.113127686,51.0,54.0
+Mniotilta varia_Black-and-white Warbler,0.6383205,52.0,55.0
+Certhia familiaris_Eurasian Treecreeper,0.6379339,53.0,56.0
+Mniotilta varia_Black-and-white Warbler,0.12585111,53.0,56.0
+Certhia americana_Brown Creeper,0.11668043,53.0,56.0
+Mniotilta varia_Black-and-white Warbler,0.32703882,57.0,60.0
+Setophaga castanea_Bay-breasted Warbler,0.17011939,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.1632286,57.0,60.0
+Mniotilta varia_Black-and-white Warbler,0.8162402,58.0,61.0
+Setophaga tigrina_Cape May Warbler,0.16396968,58.0,61.0
+Setophaga fusca_Blackburnian Warbler,0.10396138,58.0,61.0
+Mniotilta varia_Black-and-white Warbler,0.951238,59.0,62.0
+Mniotilta varia_Black-and-white Warbler,0.81072843,60.0,63.0
+Setophaga tigrina_Cape May Warbler,0.12112663,60.0,63.0
+Mniotilta varia_Black-and-white Warbler,0.4411956,61.0,64.0
+Setophaga castanea_Bay-breasted Warbler,0.29189157,61.0,64.0
+Catharus fuscescens_Veery,0.19425893,64.0,67.0
+Catharus fuscescens_Veery,0.19343701,67.0,70.0
+Mniotilta varia_Black-and-white Warbler,0.5347481,68.0,71.0
+Setophaga tigrina_Cape May Warbler,0.23834157,69.0,72.0
+Mniotilta varia_Black-and-white Warbler,0.124378,69.0,72.0
+Setophaga castanea_Bay-breasted Warbler,0.10225046,69.0,72.0
+Setophaga tigrina_Cape May Warbler,0.11367796,70.0,73.0
+Mniotilta varia_Black-and-white Warbler,0.10275867,70.0,73.0
+Mniotilta varia_Black-and-white Warbler,0.2257973,71.0,74.0
+Setophaga fusca_Blackburnian Warbler,0.18506828,71.0,74.0
+Mniotilta varia_Black-and-white Warbler,0.1715339,72.0,75.0
+Mniotilta varia_Black-and-white Warbler,0.21189687,73.0,76.0
+Setophaga castanea_Bay-breasted Warbler,0.13068058,73.0,76.0
+Mniotilta varia_Black-and-white Warbler,0.41078487,74.0,77.0
+Mniotilta varia_Black-and-white Warbler,0.38750967,75.0,78.0
+Mniotilta varia_Black-and-white Warbler,0.46744698,76.0,78.57600907029479

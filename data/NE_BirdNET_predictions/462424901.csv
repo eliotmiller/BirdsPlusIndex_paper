@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.5895791,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.44510484,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9258142,1.0,4.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9880988,2.0,5.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.96256185,3.0,6.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.15262406,4.0,7.0
+Catharus fuscescens_Veery,0.12906559,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.21885452,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.14581762,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13305679,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.25693712,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21325193,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1680534,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.13009533,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.102168925,6.0,9.0
+Mniotilta varia_Black-and-white Warbler,0.44484234,7.0,10.0
+Setophaga castanea_Bay-breasted Warbler,0.19378367,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11942495,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.2051276,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15985182,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.12536411,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.22192529,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.16595687,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13925742,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1037343,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.14951064,10.0,13.0
+Setophaga castanea_Bay-breasted Warbler,0.1452697,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.12678792,10.0,13.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11951419,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.88259923,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.8680557,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10484914,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.76207393,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.3520539,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13231608,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.84065974,15.0,18.0
+Ficedula parva_Red-breasted Flycatcher,0.11695983,16.0,19.0
+Mniotilta varia_Black-and-white Warbler,0.2142443,17.0,20.0
+Setophaga castanea_Bay-breasted Warbler,0.20130259,17.0,20.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11578596,17.0,20.0
+Mniotilta varia_Black-and-white Warbler,0.36572126,18.0,21.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23319699,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.12500742,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.11507968,18.0,21.0
+Mniotilta varia_Black-and-white Warbler,0.5056232,19.0,22.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24227576,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.14162411,19.0,22.0
+Setophaga castanea_Bay-breasted Warbler,0.10260248,19.0,22.0
+Mniotilta varia_Black-and-white Warbler,0.6305211,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16246195,20.0,23.0
+Setophaga castanea_Bay-breasted Warbler,0.11892854,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10701843,20.0,23.0
+Setophaga castanea_Bay-breasted Warbler,0.17625959,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.1277652,21.0,24.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9916454,22.0,25.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9991961,23.0,26.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9973449,24.0,27.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.87883,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.49040535,26.0,29.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16796303,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.6825215,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.8524969,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17801772,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.10539336,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.10432613,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.56540656,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26996818,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10502587,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22419564,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.15785289,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3261733,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.14375867,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31529468,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.22445287,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.120792024,33.0,36.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25351813,34.0,37.0
+Mniotilta varia_Black-and-white Warbler,0.21494874,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.13930573,34.0,37.0
+Setophaga tigrina_Cape May Warbler,0.12910564,34.0,37.0
+Mniotilta varia_Black-and-white Warbler,0.5807796,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2612132,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.15908276,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11666005,35.0,38.0
+Mniotilta varia_Black-and-white Warbler,0.40363845,36.0,39.0
+Setophaga castanea_Bay-breasted Warbler,0.2314659,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.18581985,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17979908,36.0,39.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.8973826,38.0,41.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9991264,39.0,42.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.99902356,40.0,43.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.99221146,41.0,44.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.69276696,42.0,44.49600907029478

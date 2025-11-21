@@ -1,0 +1,170 @@
+species,score,start_time,end_time
+Catharus ustulatus_Swainson's Thrush,0.9668365,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.19986252,0.0,3.0
+Catharus ustulatus_Swainson's Thrush,0.13750173,1.0,4.0
+Catharus guttatus_Hermit Thrush,0.16412666,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12016003,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14173727,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19742773,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1240218,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.119156204,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20120914,6.0,9.0
+Empidonax virescens_Acadian Flycatcher,0.1565106,6.0,9.0
+Catharus ustulatus_Swainson's Thrush,0.15305302,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.16306077,9.0,12.0
+Catharus ustulatus_Swainson's Thrush,0.1481007,9.0,12.0
+Setophaga magnolia_Magnolia Warbler,0.15475835,10.0,13.0
+Catharus ustulatus_Swainson's Thrush,0.11015206,10.0,13.0
+Setophaga magnolia_Magnolia Warbler,0.17397356,11.0,14.0
+Setophaga fusca_Blackburnian Warbler,0.13423422,11.0,14.0
+Setophaga magnolia_Magnolia Warbler,0.22913548,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.13256668,12.0,15.0
+Setophaga ruticilla_American Redstart,0.1103741,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.37798628,13.0,16.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17597155,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.15464029,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.1076622,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.10185761,14.0,17.0
+Catharus ustulatus_Swainson's Thrush,0.86555076,16.0,19.0
+Catharus ustulatus_Swainson's Thrush,0.87221247,17.0,20.0
+Catharus ustulatus_Swainson's Thrush,0.7437537,18.0,21.0
+Setophaga magnolia_Magnolia Warbler,0.16095147,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.1477039,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.20211098,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.19336525,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.27512768,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.13422626,21.0,24.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1340017,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10619086,22.0,25.0
+Setophaga dominica_Yellow-throated Warbler,0.10259656,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10900107,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10774817,25.0,28.0
+Catharus ustulatus_Swainson's Thrush,0.82378036,27.0,30.0
+Catharus ustulatus_Swainson's Thrush,0.9603284,28.0,31.0
+Catharus ustulatus_Swainson's Thrush,0.9835872,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.15202008,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.18614633,31.0,34.0
+Setophaga magnolia_Magnolia Warbler,0.16262847,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10195414,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.15365298,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.124824025,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10231263,33.0,36.0
+Catharus ustulatus_Swainson's Thrush,0.15535061,34.0,37.0
+Catharus ustulatus_Swainson's Thrush,0.87335473,35.0,38.0
+Catharus ustulatus_Swainson's Thrush,0.9502268,36.0,39.0
+Catharus ustulatus_Swainson's Thrush,0.65856516,37.0,40.0
+Setophaga ruticilla_American Redstart,0.27548647,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.13027255,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15261869,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.10250683,40.0,43.0
+Catharus ustulatus_Swainson's Thrush,0.85150814,42.0,45.0
+Catharus ustulatus_Swainson's Thrush,0.9854348,43.0,46.0
+Catharus ustulatus_Swainson's Thrush,0.96957713,44.0,47.0
+Catharus ustulatus_Swainson's Thrush,0.9550429,45.0,48.0
+Setophaga magnolia_Magnolia Warbler,0.11217001,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24855688,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.16253424,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.15197746,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.21594284,49.0,52.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16192128,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10713714,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.100372754,49.0,52.0
+Catharus ustulatus_Swainson's Thrush,0.35056874,50.0,53.0
+Catharus ustulatus_Swainson's Thrush,0.92040247,51.0,54.0
+Catharus ustulatus_Swainson's Thrush,0.8144282,52.0,55.0
+Catharus ustulatus_Swainson's Thrush,0.92671365,53.0,56.0
+Catharus ustulatus_Swainson's Thrush,0.13740978,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.4477772,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32339185,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.11482145,57.0,60.0
+Catharus ustulatus_Swainson's Thrush,0.9755824,58.0,61.0
+Catharus ustulatus_Swainson's Thrush,0.9830564,59.0,62.0
+Catharus ustulatus_Swainson's Thrush,0.9969131,60.0,63.0
+Catharus ustulatus_Swainson's Thrush,0.8608688,61.0,64.0
+Setophaga ruticilla_American Redstart,0.4363458,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.111333795,62.0,65.0
+Setophaga ruticilla_American Redstart,0.15813036,63.0,66.0
+Setophaga magnolia_Magnolia Warbler,0.13738641,63.0,66.0
+Setophaga magnolia_Magnolia Warbler,0.25245067,64.0,67.0
+Setophaga ruticilla_American Redstart,0.21268417,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.1711891,64.0,67.0
+Catharus ustulatus_Swainson's Thrush,0.74568903,65.0,68.0
+Catharus ustulatus_Swainson's Thrush,0.92252994,66.0,69.0
+Catharus ustulatus_Swainson's Thrush,0.8752288,67.0,70.0
+Catharus ustulatus_Swainson's Thrush,0.4913082,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.1611616,69.0,72.0
+Setophaga ruticilla_American Redstart,0.11742763,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121062286,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112372816,71.0,74.0
+Setophaga magnolia_Magnolia Warbler,0.1212565,72.0,75.0
+Catharus ustulatus_Swainson's Thrush,0.80048996,73.0,76.0
+Catharus ustulatus_Swainson's Thrush,0.9705945,74.0,77.0
+Catharus ustulatus_Swainson's Thrush,0.951252,75.0,78.0
+Catharus ustulatus_Swainson's Thrush,0.74033254,76.0,79.0
+Mniotilta varia_Black-and-white Warbler,0.23556605,77.0,80.0
+Setophaga ruticilla_American Redstart,0.20444898,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.12713784,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.34476447,78.0,81.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16460791,78.0,81.0
+Piranga olivacea_Scarlet Tanager,0.14919548,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.10132912,78.0,81.0
+Setophaga virens_Black-throated Green Warbler,0.23896222,79.0,82.0
+Vireo olivaceus_Red-eyed Vireo,0.16867384,79.0,82.0
+Turdus merula_Eurasian Blackbird,0.31302577,80.0,83.0
+Catharus ustulatus_Swainson's Thrush,0.18987587,80.0,83.0
+Catharus ustulatus_Swainson's Thrush,0.9694109,81.0,84.0
+Catharus ustulatus_Swainson's Thrush,0.92729396,82.0,85.0
+Catharus ustulatus_Swainson's Thrush,0.7382016,83.0,86.0
+Setophaga fusca_Blackburnian Warbler,0.2943811,84.0,87.0
+Setophaga magnolia_Magnolia Warbler,0.19567811,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.22344539,85.0,88.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17651826,85.0,88.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13807033,86.0,89.0
+Setophaga virens_Black-throated Green Warbler,0.18491599,87.0,90.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18420212,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.12991689,87.0,90.0
+Setophaga citrina_Hooded Warbler,0.12525545,87.0,90.0
+Setophaga virens_Black-throated Green Warbler,0.21701437,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.17998497,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.16915362,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.2771783,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.12639128,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.21890825,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.28446323,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13954805,92.0,95.0
+Setophaga cerulea_Cerulean Warbler,0.10883416,92.0,95.0
+Setophaga virens_Black-throated Green Warbler,0.16413274,93.0,96.0
+Setophaga fusca_Blackburnian Warbler,0.115478635,93.0,96.0
+Setophaga virens_Black-throated Green Warbler,0.15548784,94.0,97.0
+Vireo solitarius_Blue-headed Vireo,0.12725867,94.0,97.0
+Setophaga virens_Black-throated Green Warbler,0.16002727,95.0,98.0
+Setophaga fusca_Blackburnian Warbler,0.15119436,95.0,98.0
+Vireo solitarius_Blue-headed Vireo,0.11796541,96.0,99.0
+Setophaga fusca_Blackburnian Warbler,0.116879314,96.0,99.0
+Setophaga fusca_Blackburnian Warbler,0.18421707,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14966996,97.0,100.0
+Setophaga virens_Black-throated Green Warbler,0.11004342,97.0,100.0
+Setophaga fusca_Blackburnian Warbler,0.19070403,98.0,101.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124770634,98.0,101.0
+Setophaga fusca_Blackburnian Warbler,0.23573168,99.0,102.0
+Catharus ustulatus_Swainson's Thrush,0.8563169,101.0,104.0
+Catharus ustulatus_Swainson's Thrush,0.86190027,102.0,105.0
+Setophaga magnolia_Magnolia Warbler,0.11856467,102.0,105.0
+Catharus ustulatus_Swainson's Thrush,0.8365993,103.0,106.0
+Setophaga magnolia_Magnolia Warbler,0.10169551,103.0,106.0
+Setophaga fusca_Blackburnian Warbler,0.21383573,104.0,107.0
+Setophaga ruticilla_American Redstart,0.10180569,104.0,107.0
+Setophaga virens_Black-throated Green Warbler,0.15554091,106.0,109.0
+Piranga olivacea_Scarlet Tanager,0.14310327,106.0,109.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12927207,106.0,109.0
+Setophaga fusca_Blackburnian Warbler,0.117081456,106.0,109.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16051468,107.0,110.0
+Piranga olivacea_Scarlet Tanager,0.14482848,107.0,110.0
+Setophaga fusca_Blackburnian Warbler,0.11974078,107.0,110.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15679131,108.0,111.0
+Setophaga fusca_Blackburnian Warbler,0.2121323,109.0,112.0
+Setophaga magnolia_Magnolia Warbler,0.17163001,109.0,112.0
+Catharus ustulatus_Swainson's Thrush,0.22639608,111.0,114.0
+Catharus ustulatus_Swainson's Thrush,0.71811193,112.0,115.0
+Catharus ustulatus_Swainson's Thrush,0.46497214,113.0,116.0
+Setophaga fusca_Blackburnian Warbler,0.104192965,114.0,116.95201814058957

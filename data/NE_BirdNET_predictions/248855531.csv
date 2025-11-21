@@ -1,0 +1,153 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.97377914,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.9850631,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.9921496,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.9899951,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.98314106,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13738894,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.10023021,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12115999,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.13551542,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1612643,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1242352,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.10147296,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.18045443,16.0,19.0
+Molothrus ater_Brown-headed Cowbird,0.102690816,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11216005,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.1026099,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10326681,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13497789,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.11180282,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10119176,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14153777,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.23148502,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.12525074,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.15004021,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10647743,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113112934,34.0,37.0
+Setophaga fusca_Blackburnian Warbler,0.11112324,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11593613,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12655497,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14640734,38.0,41.0
+Setophaga fusca_Blackburnian Warbler,0.12486282,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17359433,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103644565,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13058177,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.10009921,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19553389,46.0,49.0
+Buteo platypterus_Broad-winged Hawk,0.105962425,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1548181,47.0,50.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3469554,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.16545646,48.0,51.0
+Spinus tristis_American Goldfinch,0.12823029,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.9887949,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.99154824,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.9961777,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.98045796,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.9664061,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1361639,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10020796,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11961912,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10782665,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12888522,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.9428872,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.962375,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.9857519,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.9842114,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.97735834,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13327558,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110518046,69.0,72.0
+Tamias striatus_Eastern Chipmunk,0.10093683,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13375574,70.0,73.0
+Buteo platypterus_Broad-winged Hawk,0.13144404,70.0,73.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14664017,71.0,74.0
+Buteo platypterus_Broad-winged Hawk,0.11414764,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1717256,72.0,75.0
+Buteo platypterus_Broad-winged Hawk,0.10388256,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16322169,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12609641,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11834484,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14611207,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11241387,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10285701,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13564861,80.0,83.0
+Buteo platypterus_Broad-winged Hawk,0.15589346,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119740605,81.0,84.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11927879,81.0,84.0
+Buteo platypterus_Broad-winged Hawk,0.12331215,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.940471,107.0,110.0
+Seiurus aurocapilla_Ovenbird,0.97934943,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.9776949,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.9702248,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.94886476,111.0,114.0
+Setophaga fusca_Blackburnian Warbler,0.11285046,121.0,124.0
+Setophaga fusca_Blackburnian Warbler,0.10089511,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.95363,127.0,130.0
+Seiurus aurocapilla_Ovenbird,0.9726026,128.0,131.0
+Seiurus aurocapilla_Ovenbird,0.9905854,129.0,132.0
+Seiurus aurocapilla_Ovenbird,0.98369795,130.0,133.0
+Seiurus aurocapilla_Ovenbird,0.965375,131.0,134.0
+Seiurus aurocapilla_Ovenbird,0.8675857,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11282608,134.0,137.0
+Buteo platypterus_Broad-winged Hawk,0.12273488,135.0,138.0
+Setophaga fusca_Blackburnian Warbler,0.11799874,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114502616,135.0,138.0
+Buteo platypterus_Broad-winged Hawk,0.14108813,137.0,140.0
+Setophaga fusca_Blackburnian Warbler,0.10764048,139.0,142.0
+Setophaga cerulea_Cerulean Warbler,0.11483703,142.0,145.0
+Buteo platypterus_Broad-winged Hawk,0.11395776,142.0,145.0
+Buteo platypterus_Broad-winged Hawk,0.113406904,144.0,147.0
+Setophaga fusca_Blackburnian Warbler,0.11392953,145.0,148.0
+Buteo platypterus_Broad-winged Hawk,0.10479804,146.0,149.0
+Buteo platypterus_Broad-winged Hawk,0.10887908,148.0,151.0
+Setophaga fusca_Blackburnian Warbler,0.10463684,153.0,156.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18074293,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11707901,158.0,161.0
+Buteo platypterus_Broad-winged Hawk,0.107896924,158.0,161.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12381184,159.0,162.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11611739,159.0,162.0
+Setophaga cerulea_Cerulean Warbler,0.10596602,161.0,164.0
+Seiurus aurocapilla_Ovenbird,0.8366861,163.0,166.0
+Seiurus aurocapilla_Ovenbird,0.9955575,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.994426,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.9942352,166.0,169.0
+Seiurus aurocapilla_Ovenbird,0.98771477,167.0,170.0
+Seiurus aurocapilla_Ovenbird,0.9639636,168.0,171.0
+Setophaga cerulea_Cerulean Warbler,0.1120134,177.0,180.0
+Setophaga virens_Black-throated Green Warbler,0.107082956,177.0,180.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1575401,178.0,181.0
+Setophaga cerulea_Cerulean Warbler,0.11495807,178.0,181.0
+Seiurus aurocapilla_Ovenbird,0.9218738,195.0,198.0
+Seiurus aurocapilla_Ovenbird,0.98722607,196.0,199.0
+Seiurus aurocapilla_Ovenbird,0.99200046,197.0,200.0
+Seiurus aurocapilla_Ovenbird,0.9912744,198.0,201.0
+Seiurus aurocapilla_Ovenbird,0.98924714,199.0,202.0
+Seiurus aurocapilla_Ovenbird,0.9743716,200.0,203.0
+Tamiasciurus hudsonicus_Red Squirrel,0.26174876,204.0,207.0
+Tamiasciurus hudsonicus_Red Squirrel,0.23890086,205.0,208.0
+Tamiasciurus hudsonicus_Red Squirrel,0.36824915,206.0,209.0
+Tamias striatus_Eastern Chipmunk,0.12932523,206.0,209.0
+Todus subulatus_Broad-billed Tody,0.114814475,206.0,209.0
+Tamias striatus_Eastern Chipmunk,0.62743646,207.0,210.0
+Tamiasciurus hudsonicus_Red Squirrel,0.4172374,207.0,210.0
+Tamias striatus_Eastern Chipmunk,0.5034254,208.0,211.0
+Tamiasciurus hudsonicus_Red Squirrel,0.34033206,208.0,211.0
+Tamias striatus_Eastern Chipmunk,0.61058277,209.0,212.0
+Tamiasciurus hudsonicus_Red Squirrel,0.5301637,209.0,212.0
+Odocoileus virginianus_White-tailed Deer,0.1934587,209.0,212.0
+Tamiasciurus hudsonicus_Red Squirrel,0.38221636,210.0,213.0
+Tamias striatus_Eastern Chipmunk,0.2925661,210.0,213.0
+Tamiasciurus hudsonicus_Red Squirrel,0.25455675,211.0,214.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13193631,213.0,216.0
+Tamiasciurus hudsonicus_Red Squirrel,0.20093092,214.0,217.0
+Tamias striatus_Eastern Chipmunk,0.14785607,214.0,217.0
+Tamiasciurus hudsonicus_Red Squirrel,0.27843603,215.0,218.0
+Tamias striatus_Eastern Chipmunk,0.18222155,215.0,218.0
+Odocoileus virginianus_White-tailed Deer,0.10608665,215.0,218.0
+Tamias striatus_Eastern Chipmunk,0.50038177,216.0,219.0
+Tamiasciurus hudsonicus_Red Squirrel,0.2992332,216.0,219.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17285277,217.0,220.0
+Tamiasciurus hudsonicus_Red Squirrel,0.21637908,218.0,221.0
+Tamias striatus_Eastern Chipmunk,0.45726067,219.0,222.0
+Tamiasciurus hudsonicus_Red Squirrel,0.38784975,219.0,222.0
+Tamiasciurus hudsonicus_Red Squirrel,0.15306999,220.0,222.93600907029477

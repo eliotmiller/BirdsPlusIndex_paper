@@ -1,0 +1,38 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.12376782,0.0,3.0
+Campylopterus hemileucurus_Violet Sabrewing,0.10114304,1.0,4.0
+Vermivora cyanoptera_Blue-winged Warbler,0.20877346,3.0,6.0
+Protonotaria citrea_Prothonotary Warbler,0.18679725,3.0,6.0
+Vermivora cyanoptera_Blue-winged Warbler,0.22331688,4.0,7.0
+Protonotaria citrea_Prothonotary Warbler,0.10429297,4.0,7.0
+Vermivora cyanoptera_Blue-winged Warbler,0.19576474,5.0,8.0
+Molothrus ater_Brown-headed Cowbird,0.16986403,5.0,8.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1275106,6.0,9.0
+Vermivora cyanoptera_Blue-winged Warbler,0.14913315,11.0,14.0
+Vermivora chrysoptera_Golden-winged Warbler,0.14096951,11.0,14.0
+Protonotaria citrea_Prothonotary Warbler,0.1309182,12.0,15.0
+Vermivora cyanoptera_Blue-winged Warbler,0.109395705,12.0,15.0
+Chlorestes notata_Blue-chinned Sapphire,0.1600439,17.0,20.0
+Molothrus ater_Brown-headed Cowbird,0.19419748,19.0,22.0
+Spizella passerina_Chipping Sparrow,0.2182115,20.0,23.0
+Molothrus ater_Brown-headed Cowbird,0.14935629,20.0,23.0
+Spizella pusilla_Field Sparrow,0.23552151,21.0,24.0
+Molothrus ater_Brown-headed Cowbird,0.16816281,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.14188424,21.0,24.0
+Vermivora cyanoptera_Blue-winged Warbler,0.12888288,21.0,24.0
+Spizella passerina_Chipping Sparrow,0.1208978,22.0,25.0
+Spizella pusilla_Field Sparrow,0.12087579,22.0,25.0
+Forpus passerinus_Green-rumped Parrotlet,0.102186725,34.0,37.0
+Pygiptila stellaris_Spot-winged Antshrike,0.14374718,38.0,41.0
+Gryllus assimilis_Gryllus assimilis,0.16797242,40.0,43.0
+Geothlypis trichas_Common Yellowthroat,0.15217146,42.0,45.0
+Gryllus rubens_Southeastern Field Cricket,0.33447504,50.0,53.0
+Gryllus rubens_Southeastern Field Cricket,0.2616797,51.0,54.0
+Oecanthus exclamationis_Davis's Tree Cricket,0.11162111,51.0,54.0
+Orocharis saltator_Jumping Bush Cricket,0.16237709,62.0,65.0
+Gryllus rubens_Southeastern Field Cricket,0.26948997,63.0,66.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14573804,63.0,66.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.21278143,69.0,72.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.21811527,73.0,76.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.22836684,74.0,77.0
+Orocharis saltator_Jumping Bush Cricket,0.14562728,76.0,79.0

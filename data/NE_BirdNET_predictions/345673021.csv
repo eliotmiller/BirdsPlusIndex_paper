@@ -1,0 +1,105 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.5285484,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.599912,1.0,4.0
+Contopus virens_Eastern Wood-Pewee,0.7571589,2.0,5.0
+Contopus virens_Eastern Wood-Pewee,0.22411506,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.102330126,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.1603647,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.15714863,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10301278,5.0,8.0
+Piranga olivacea_Scarlet Tanager,0.17199558,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.12805586,6.0,9.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13670164,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1252066,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.124573424,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.1342081,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10045383,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.45405677,10.0,13.0
+Setophaga citrina_Hooded Warbler,0.100917205,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.9697261,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.9373823,12.0,15.0
+Contopus virens_Eastern Wood-Pewee,0.69075066,13.0,16.0
+Contopus virens_Eastern Wood-Pewee,0.9095721,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.19011573,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.14653143,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1559998,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1376004,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.10214083,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.5967312,17.0,20.0
+Contopus virens_Eastern Wood-Pewee,0.9487523,18.0,21.0
+Contopus virens_Eastern Wood-Pewee,0.98653215,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.9695441,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.1300395,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.12288613,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.28527424,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.11814419,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.3055572,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.1819775,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10706424,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.123092875,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.14721629,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.95331144,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.8763823,27.0,30.0
+Contopus virens_Eastern Wood-Pewee,0.9272961,28.0,31.0
+Contopus virens_Eastern Wood-Pewee,0.9504415,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.312743,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.1986113,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.4910952,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15045251,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.4425234,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20295022,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.18207376,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.10988924,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.28592604,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.20769003,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11728955,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.57596415,34.0,37.0
+Setophaga citrina_Hooded Warbler,0.13085519,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.97324985,35.0,38.0
+Contopus virens_Eastern Wood-Pewee,0.9840934,36.0,39.0
+Contopus virens_Eastern Wood-Pewee,0.9213532,37.0,40.0
+Contopus virens_Eastern Wood-Pewee,0.91584116,38.0,41.0
+Buteo platypterus_Broad-winged Hawk,0.14219786,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.2316455,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15280572,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.12596504,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.116596945,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.3854665,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12895553,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.3316905,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.14764117,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.3589274,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.11146947,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.10588514,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.1623638,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.51499665,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.9277252,46.0,49.0
+Contopus virens_Eastern Wood-Pewee,0.8353436,47.0,50.0
+Contopus virens_Eastern Wood-Pewee,0.8645988,48.0,51.0
+Buteo platypterus_Broad-winged Hawk,0.56561565,49.0,52.0
+Contopus virens_Eastern Wood-Pewee,0.46913344,49.0,52.0
+Vireo olivaceus_Red-eyed Vireo,0.1110502,50.0,53.0
+Vireo olivaceus_Red-eyed Vireo,0.24581197,51.0,54.0
+Empidonax virescens_Acadian Flycatcher,0.118990004,51.0,54.0
+Vireo olivaceus_Red-eyed Vireo,0.43417692,52.0,55.0
+Vireo solitarius_Blue-headed Vireo,0.10314201,52.0,55.0
+Contopus virens_Eastern Wood-Pewee,0.8870736,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.76299834,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.895554,55.0,58.0
+Contopus virens_Eastern Wood-Pewee,0.60566455,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.2368252,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.2511017,57.0,60.0
+Vireo philadelphicus_Philadelphia Vireo,0.19591795,57.0,60.0
+Vireo philadelphicus_Philadelphia Vireo,0.116641,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.12690346,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11793742,59.0,62.0
+Contopus virens_Eastern Wood-Pewee,0.22131757,60.0,63.0
+Contopus virens_Eastern Wood-Pewee,0.58333564,61.0,64.0
+Contopus virens_Eastern Wood-Pewee,0.29561707,62.0,65.0
+Buteo brachyurus_Short-tailed Hawk,0.10171603,62.0,65.0
+Setophaga fusca_Blackburnian Warbler,0.12038152,64.0,67.0
+Contopus virens_Eastern Wood-Pewee,0.26072505,65.0,68.0
+Contopus virens_Eastern Wood-Pewee,0.54881805,66.0,69.0
+Contopus virens_Eastern Wood-Pewee,0.5389924,67.0,70.0
+Contopus virens_Eastern Wood-Pewee,0.43666086,68.0,71.0
+Vireo philadelphicus_Philadelphia Vireo,0.10717208,69.0,71.76

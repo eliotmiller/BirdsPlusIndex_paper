@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.19665086,4.0,7.0
+Gallinula galeata_Common Gallinule,0.26348162,5.0,8.0
+Fulica americana_American Coot,0.20125307,5.0,8.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1331538,6.0,9.0
+Gallinula galeata_Common Gallinule,0.13004792,6.0,9.0
+Ixobrychus exilis_Least Bittern,0.12091742,6.0,9.0
+Zenaida macroura_Mourning Dove,0.11148958,15.0,18.0
+Ixobrychus exilis_Least Bittern,0.122955725,16.0,19.0
+Ixobrychus exilis_Least Bittern,0.24601108,17.0,20.0
+Ixobrychus exilis_Least Bittern,0.14599039,18.0,21.0
+Ixobrychus exilis_Least Bittern,0.111750744,19.0,22.0
+Zenaida macroura_Mourning Dove,0.10003582,19.0,22.0
+Ixobrychus exilis_Least Bittern,0.12198672,24.0,27.0
+Ixobrychus exilis_Least Bittern,0.20739608,25.0,28.0
+Podilymbus podiceps_Pied-billed Grebe,0.13203904,25.0,28.0
+Ixobrychus exilis_Least Bittern,0.15232365,26.0,29.0
+Podilymbus podiceps_Pied-billed Grebe,0.11991189,32.0,35.0
+Bucephala albeola_Bufflehead,0.10854668,34.0,37.0
+Ixobrychus exilis_Least Bittern,0.21065247,36.0,39.0
+Zenaida macroura_Mourning Dove,0.14742503,36.0,39.0
+Streptopelia turtur_European Turtle-Dove,0.12187407,36.0,39.0
+Podilymbus podiceps_Pied-billed Grebe,0.1323084,37.0,40.0
+Bucephala albeola_Bufflehead,0.15970168,38.0,41.0
+Podilymbus podiceps_Pied-billed Grebe,0.1410433,38.0,41.0
+Gallinula galeata_Common Gallinule,0.10404936,38.0,41.0
+Aythya collaris_Ring-necked Duck,0.10921367,39.0,42.0
+Ixobrychus exilis_Least Bittern,0.16479877,40.0,43.0
+Bucephala albeola_Bufflehead,0.11865075,40.0,43.0
+Ixobrychus exilis_Least Bittern,0.31154504,41.0,44.0
+Tyrannus verticalis_Western Kingbird,0.22599468,41.0,44.0
+Aythya collaris_Ring-necked Duck,0.31645265,42.0,45.0
+Bucephala albeola_Bufflehead,0.19837523,42.0,45.0
+Aythya collaris_Ring-necked Duck,0.13625509,43.0,46.0
+Cistothorus palustris_Marsh Wren,0.34978572,48.0,51.0
+Ixobrychus exilis_Least Bittern,0.10527603,48.0,51.0
+Ixobrychus exilis_Least Bittern,0.1584101,59.0,62.0
+Porzana carolina_Sora,0.11111483,60.0,63.0
+Ixobrychus exilis_Least Bittern,0.10817863,62.0,65.0
+Podilymbus podiceps_Pied-billed Grebe,0.24215806,63.0,66.0
+Ixobrychus exilis_Least Bittern,0.3009072,67.0,70.0
+Podilymbus podiceps_Pied-billed Grebe,0.14309536,67.0,70.0
+Hypsipetes leucocephalus_Black Bulbul,0.1566309,73.0,76.0
+Aythya ferina_Common Pochard,0.11723756,73.0,76.0
+Hypsipetes leucocephalus_Black Bulbul,0.2264935,74.0,77.0
+Ixobrychus exilis_Least Bittern,0.2059096,79.0,82.0
+Fulica americana_American Coot,0.16143304,80.0,83.0
+Tachycineta bicolor_Tree Swallow,0.10973987,83.0,86.0
+Pycnonotus sinensis_Light-vented Bulbul,0.26883152,95.0,98.0
+Ixobrychus exilis_Least Bittern,0.14625125,96.0,99.0
+Aythya collaris_Ring-necked Duck,0.11917731,96.0,99.0
+Lophodytes cucullatus_Hooded Merganser,0.1056282,96.0,99.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.41199124,98.0,101.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.28240266,99.0,102.0
+Riparia riparia_Bank Swallow,0.107110836,99.0,102.0
+Sturnia sinensis_White-shouldered Starling,0.10446479,100.0,103.0
+Lithobates clamitans_Green Frog,0.119342975,103.0,106.0
+Columba livia_Rock Pigeon,0.10843326,104.0,107.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.1121572,110.0,113.0
+Riparia riparia_Bank Swallow,0.104048364,110.0,113.0
+Aythya collaris_Ring-necked Duck,0.10888269,112.0,115.0
+Aythya collaris_Ring-necked Duck,0.10490527,113.0,116.0
+Lithobates clamitans_Green Frog,0.1606942,114.0,117.0
+Pycnonotus sinensis_Light-vented Bulbul,0.14082478,114.0,117.0
+Pycnonotus sinensis_Light-vented Bulbul,0.20324986,115.0,118.0
+Bubulcus ibis_Cattle Egret,0.11340093,115.0,118.0
+Fulica americana_American Coot,0.17945345,116.0,119.0
+Quiscalus quiscula_Common Grackle,0.62429196,117.0,120.0
+Bubulcus ibis_Cattle Egret,0.1425368,118.0,121.0
+Pycnonotus sinensis_Light-vented Bulbul,0.6904989,119.0,122.0
+Bubulcus ibis_Cattle Egret,0.34545335,119.0,122.0
+Pycnonotus sinensis_Light-vented Bulbul,0.54254436,120.0,123.0
+Pycnonotus sinensis_Light-vented Bulbul,0.7276062,121.0,124.0
+Pycnonotus sinensis_Light-vented Bulbul,0.3234824,122.0,125.0
+Buteo ridgwayi_Ridgway's Hawk,0.15552093,125.0,128.0
+Buteo ridgwayi_Ridgway's Hawk,0.123974405,126.0,129.0
+Tachycineta bicolor_Tree Swallow,0.30273253,129.0,131.01600907029479

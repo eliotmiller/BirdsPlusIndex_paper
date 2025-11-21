@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.17482758,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.15342936,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.117707044,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.16302095,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17030017,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.14342509,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.14062193,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.12774041,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1257201,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.18872732,7.0,10.0
+Buteo platypterus_Broad-winged Hawk,0.11127786,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.50084805,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.63554126,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.41367528,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.101710185,12.0,15.0
+Catharus guttatus_Hermit Thrush,0.25835192,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.10158016,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.17466944,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.14415802,15.0,18.0
+Buteo platypterus_Broad-winged Hawk,0.13244925,17.0,20.0
+Setophaga virens_Black-throated Green Warbler,0.118114084,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.2844218,18.0,21.0
+Buteo platypterus_Broad-winged Hawk,0.14821094,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.23832887,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.18137904,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.12842049,20.0,23.0
+Catharus guttatus_Hermit Thrush,0.9619321,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.9881593,22.0,25.0
+Catharus guttatus_Hermit Thrush,0.9799345,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.21435116,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.1445354,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.71014667,27.0,30.0
+Catharus guttatus_Hermit Thrush,0.97731066,28.0,31.0
+Catharus guttatus_Hermit Thrush,0.929442,29.0,32.0
+Hylocichla mustelina_Wood Thrush,0.12935115,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.14306092,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.11621656,32.0,35.0
+Catharus guttatus_Hermit Thrush,0.84089047,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.5394394,35.0,38.0
+Catharus guttatus_Hermit Thrush,0.8936979,38.0,41.0
+Catharus guttatus_Hermit Thrush,0.9126942,39.0,42.0
+Catharus guttatus_Hermit Thrush,0.6906445,40.0,43.0
+Catharus guttatus_Hermit Thrush,0.15387885,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.15427747,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.15875845,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.13224761,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12213349,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11318015,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13428892,51.0,54.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107621655,52.0,55.0
+Buteo platypterus_Broad-winged Hawk,0.13168308,54.0,57.0
+Buteo platypterus_Broad-winged Hawk,0.12066078,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18030587,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.10017016,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102345526,57.0,60.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1412649,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.10995295,58.0,61.0
+Helmitheros vermivorum_Worm-eating Warbler,0.122396335,60.0,63.0
+Setophaga cerulea_Cerulean Warbler,0.10965011,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.10846625,60.0,63.0
+Setophaga cerulea_Cerulean Warbler,0.2181591,61.0,64.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11307285,61.0,64.0
+Buteo platypterus_Broad-winged Hawk,0.14118366,62.0,65.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1529692,65.0,68.0
+Setophaga cerulea_Cerulean Warbler,0.12433661,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15181556,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.13906056,66.0,69.0
+Setophaga citrina_Hooded Warbler,0.10490782,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13761313,67.0,70.0
+Geothlypis formosa_Kentucky Warbler,0.11381945,67.0,70.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13424794,68.0,71.0
+Setophaga cerulea_Cerulean Warbler,0.11551219,68.0,71.0
+Geothlypis formosa_Kentucky Warbler,0.17151576,69.0,72.0
+Piranga olivacea_Scarlet Tanager,0.110943355,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10933953,69.0,72.0
+Setophaga cerulea_Cerulean Warbler,0.23384921,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1416436,71.0,74.0
+Setophaga cerulea_Cerulean Warbler,0.20541412,72.0,75.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12920678,72.0,75.0
+Setophaga cerulea_Cerulean Warbler,0.10153441,73.0,76.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13972077,74.0,77.0
+Setophaga cerulea_Cerulean Warbler,0.112265244,74.0,77.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16506568,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10513351,76.0,79.0
+Geothlypis formosa_Kentucky Warbler,0.12641191,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12628497,77.0,80.0
+Setophaga cerulea_Cerulean Warbler,0.1041785,81.0,84.0

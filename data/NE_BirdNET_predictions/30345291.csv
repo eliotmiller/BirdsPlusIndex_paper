@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.91068983,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19425796,0.0,3.0
+Geothlypis trichas_Common Yellowthroat,0.7601974,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13989574,1.0,4.0
+Geothlypis trichas_Common Yellowthroat,0.67597705,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11178501,2.0,5.0
+Geothlypis trichas_Common Yellowthroat,0.19676155,3.0,6.0
+Cardellina rubrifrons_Red-faced Warbler,0.23794568,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.62211174,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.10662344,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.14975928,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.10467951,7.0,10.0
+Vireo flavifrons_Yellow-throated Vireo,0.92746997,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.97712314,10.0,13.0
+Vireo flavifrons_Yellow-throated Vireo,0.94440657,11.0,14.0
+Catharus fuscescens_Veery,0.16838193,11.0,14.0
+Vireo flavifrons_Yellow-throated Vireo,0.4539008,12.0,15.0
+Vireo flavifrons_Yellow-throated Vireo,0.45359597,13.0,16.0
+Geothlypis trichas_Common Yellowthroat,0.700523,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13453406,15.0,18.0
+Geothlypis trichas_Common Yellowthroat,0.600601,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14497751,16.0,19.0
+Cardellina canadensis_Canada Warbler,0.24564923,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10035652,17.0,20.0
+Vireo flavifrons_Yellow-throated Vireo,0.232132,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.19723321,18.0,21.0
+Vireo flavifrons_Yellow-throated Vireo,0.64803195,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.9422246,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.9216018,21.0,24.0
+Vireo flavifrons_Yellow-throated Vireo,0.9713837,22.0,25.0
+Contopus virens_Eastern Wood-Pewee,0.9468274,23.0,26.0
+Vireo flavifrons_Yellow-throated Vireo,0.2741661,23.0,26.0
+Contopus virens_Eastern Wood-Pewee,0.9625849,24.0,27.0
+Vireo flavifrons_Yellow-throated Vireo,0.1454292,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.98341364,25.0,28.0
+Contopus virens_Eastern Wood-Pewee,0.39693123,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.50442594,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.42144388,28.0,31.0
+Catharus fuscescens_Veery,0.37284988,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.27024075,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.18669054,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.7046746,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.5877853,31.0,34.0
+Geothlypis trichas_Common Yellowthroat,0.16414809,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12803525,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.11163693,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.974981,34.0,37.0
+Contopus virens_Eastern Wood-Pewee,0.89836276,35.0,38.0
+Contopus virens_Eastern Wood-Pewee,0.9720081,36.0,39.0
+Catharus fuscescens_Veery,0.29317945,37.0,40.0
+Myiomela leucura_White-tailed Robin,0.21615462,37.0,40.0
+Vireo flavifrons_Yellow-throated Vireo,0.80428535,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.8459971,39.0,42.0
+Vireo flavifrons_Yellow-throated Vireo,0.9644207,40.0,42.19201814058957

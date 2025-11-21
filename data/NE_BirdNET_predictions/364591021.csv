@@ -1,0 +1,26 @@
+species,score,start_time,end_time
+Coccyzus americanus_Yellow-billed Cuckoo,0.22667831,2.0,5.0
+Rallina eurizonoides_Slaty-legged Crake,0.13459796,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.28195065,6.0,9.0
+Corvus brachyrhynchos_American Crow,0.39919797,7.0,10.0
+Corvus brachyrhynchos_American Crow,0.2614169,8.0,11.0
+Meleagris gallopavo_Wild Turkey,0.12237865,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.25816375,9.0,12.0
+Strix varia_Barred Owl,0.10294288,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.18943518,10.0,13.0
+Strix varia_Barred Owl,0.10476021,10.0,13.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10462202,10.0,13.0
+Megascops asio_Eastern Screech-Owl,0.18128525,11.0,14.0
+Strix varia_Barred Owl,0.3997785,12.0,15.0
+Megascops asio_Eastern Screech-Owl,0.24522449,12.0,15.0
+Strix varia_Barred Owl,0.24221492,17.0,20.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.16267788,17.0,20.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10224972,19.0,22.0
+Glaucidium gnoma_Northern Pygmy-Owl,0.18463586,29.0,32.0
+Meleagris gallopavo_Wild Turkey,0.16615854,37.0,40.0
+Megascops asio_Eastern Screech-Owl,0.14292528,37.0,40.0
+Megascops asio_Eastern Screech-Owl,0.1554691,38.0,41.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.10865873,38.0,41.0
+Megascops asio_Eastern Screech-Owl,0.10784668,39.0,42.0
+Gavia immer_Common Loon,0.15261202,40.0,43.0
+Megascops asio_Eastern Screech-Owl,0.13624255,40.0,43.0

@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2807747,0.0,3.0
+Riparia riparia_Bank Swallow,0.12933789,0.0,3.0
+Chlidonias niger_Black Tern,0.10871257,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10417162,0.0,3.0
+Riparia riparia_Bank Swallow,0.25442952,1.0,4.0
+Riparia riparia_Bank Swallow,0.5136685,2.0,5.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.24186116,2.0,5.0
+Riparia riparia_Bank Swallow,0.41525862,3.0,6.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.24534944,3.0,6.0
+Ixobrychus exilis_Least Bittern,0.13542368,9.0,12.0
+Lithobates clamitans_Green Frog,0.10137466,10.0,13.0
+Lithobates clamitans_Green Frog,0.20669432,11.0,14.0
+Melospiza georgiana_Swamp Sparrow,0.11136409,11.0,14.0
+Gallinago delicata_Wilson's Snipe,0.10744257,12.0,15.0
+Aegypius monachus_Cinereous Vulture,0.13090718,13.0,16.0
+Gallinago media_Great Snipe,0.1557965,22.0,25.0
+Zenaida macroura_Mourning Dove,0.13959432,32.0,35.0
+Zenaida macroura_Mourning Dove,0.106988564,33.0,36.0
+Circus hudsonius_Northern Harrier,0.13617377,35.0,38.0
+Gallinago media_Great Snipe,0.4720032,36.0,39.0
+Ixobrychus exilis_Least Bittern,0.16796845,38.0,41.0
+Cistothorus palustris_Marsh Wren,0.10306795,38.0,41.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.14908352,43.0,46.0
+Fulica americana_American Coot,0.15288526,51.0,54.0
+Ixobrychus exilis_Least Bittern,0.1335585,51.0,54.0
+Ixobrychus exilis_Least Bittern,0.21550784,52.0,55.0
+Gallinula galeata_Common Gallinule,0.124387816,53.0,56.0
+Fulica americana_American Coot,0.10146374,53.0,56.0
+Riparia riparia_Bank Swallow,0.13232951,60.0,63.0
+Picus sharpei_Iberian Green Woodpecker,0.10366514,62.0,65.0
+Melospiza georgiana_Swamp Sparrow,0.16414753,63.0,66.0
+Melospiza georgiana_Swamp Sparrow,0.10358688,64.0,67.0
+Melospiza georgiana_Swamp Sparrow,0.14416856,65.0,68.0
+Melospiza georgiana_Swamp Sparrow,0.11180803,66.0,69.0
+Ixobrychus exilis_Least Bittern,0.17522025,67.0,70.0
+Rallus limicola_Virginia Rail,0.25829953,69.0,72.0
+Botaurus lentiginosus_American Bittern,0.15275326,70.0,73.0
+Ixobrychus exilis_Least Bittern,0.10698544,70.0,73.0
+Ixobrychus exilis_Least Bittern,0.16304041,71.0,74.0
+Rallus limicola_Virginia Rail,0.15709613,71.0,74.0
+Gallinula galeata_Common Gallinule,0.15526202,74.0,77.0
+Gallinula galeata_Common Gallinule,0.2077682,79.0,82.0
+Mergus merganser_Common Merganser,0.13645189,79.0,82.0
+Ardea alba_Great Egret,0.104861625,79.0,82.0
+Gallinula galeata_Common Gallinule,0.37011698,80.0,83.0
+Gallinula galeata_Common Gallinule,0.34705028,81.0,84.0
+Mergus merganser_Common Merganser,0.121743724,81.0,84.0
+Fulica americana_American Coot,0.21244253,82.0,85.0
+Gallinula galeata_Common Gallinule,0.1683686,82.0,85.0
+Ixobrychus exilis_Least Bittern,0.12820397,82.0,85.0
+Fulica americana_American Coot,0.44543412,83.0,86.0
+Gallinula galeata_Common Gallinule,0.21302992,83.0,86.0
+Gallinula galeata_Common Gallinule,0.13559513,84.0,87.0
+Ixobrychus exilis_Least Bittern,0.11345229,84.0,87.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.5189763,86.0,89.0
+Riparia riparia_Bank Swallow,0.34040192,86.0,89.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2348221,87.0,90.0
+Melospiza georgiana_Swamp Sparrow,0.10868513,88.0,91.0
+Melospiza georgiana_Swamp Sparrow,0.17604423,89.0,92.0
+Melospiza georgiana_Swamp Sparrow,0.11967228,90.0,93.0

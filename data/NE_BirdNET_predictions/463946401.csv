@@ -1,0 +1,18 @@
+species,score,start_time,end_time
+Engine_Engine,0.61167085,1.0,4.0
+Engine_Engine,0.94106084,2.0,5.0
+Engine_Engine,0.88261765,3.0,6.0
+Engine_Engine,0.7428836,4.0,7.0
+Engine_Engine,0.21118198,6.0,9.0
+Engine_Engine,0.705668,7.0,10.0
+Engine_Engine,0.8119453,8.0,11.0
+Engine_Engine,0.49905872,9.0,12.0
+Human vocal_Human vocal,0.1721233,9.0,12.0
+Engine_Engine,0.16871254,10.0,13.0
+Human vocal_Human vocal,0.13233896,10.0,13.0
+Aplonis panayensis_Asian Glossy Starling,0.13165866,10.0,13.0
+Engine_Engine,0.14123651,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.2827492,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.85220945,13.0,16.0
+Corvus brachyrhynchos_American Crow,0.5726149,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.45021117,15.0,17.64

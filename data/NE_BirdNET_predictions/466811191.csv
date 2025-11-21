@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.1567409,0.0,3.0
+Empidonax alnorum_Alder Flycatcher,0.6812988,1.0,4.0
+Catharus ustulatus_Swainson's Thrush,0.106708206,1.0,4.0
+Empidonax alnorum_Alder Flycatcher,0.91179353,2.0,5.0
+Empidonax alnorum_Alder Flycatcher,0.68104655,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.17114297,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.12747827,4.0,7.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.12580581,4.0,7.0
+Stephanophorus diadematus_Diademed Tanager,0.101651415,4.0,7.0
+Empidonax alnorum_Alder Flycatcher,0.13356996,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.109412946,5.0,8.0
+Empidonax alnorum_Alder Flycatcher,0.43512502,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.19955008,6.0,9.0
+Stephanophorus diadematus_Diademed Tanager,0.1909066,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.5206761,7.0,10.0
+Dumetella carolinensis_Gray Catbird,0.43090796,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.1218824,9.0,12.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.22445108,12.0,15.0
+Xanthocephalus xanthocephalus_Yellow-headed Blackbird,0.11652226,14.0,17.0
+Icteria virens_Yellow-breasted Chat,0.19044487,15.0,18.0
+Pica hudsonia_Black-billed Magpie,0.19968462,16.0,19.0
+Icteria virens_Yellow-breasted Chat,0.11333433,16.0,19.0
+Dumetella carolinensis_Gray Catbird,0.8125793,17.0,20.0
+Dumetella carolinensis_Gray Catbird,0.8261495,18.0,21.0
+Empidonax alnorum_Alder Flycatcher,0.22966827,18.0,21.0
+Dumetella carolinensis_Gray Catbird,0.85228956,19.0,22.0
+Empidonax alnorum_Alder Flycatcher,0.41001537,19.0,22.0
+Empidonax alnorum_Alder Flycatcher,0.8469485,20.0,23.0
+Dumetella carolinensis_Gray Catbird,0.8827657,21.0,24.0
+Empidonax alnorum_Alder Flycatcher,0.100248426,21.0,24.0
+Dumetella carolinensis_Gray Catbird,0.9192031,22.0,25.0
+Empidonax alnorum_Alder Flycatcher,0.33779266,22.0,25.0
+Dumetella carolinensis_Gray Catbird,0.8012719,23.0,26.0
+Empidonax alnorum_Alder Flycatcher,0.113864586,23.0,26.0
+Empidonax alnorum_Alder Flycatcher,0.3583604,25.0,28.0
+Empidonax alnorum_Alder Flycatcher,0.15199383,26.0,29.0
+Dumetella carolinensis_Gray Catbird,0.98945075,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.9856909,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.9569859,30.0,33.0
+Dumetella carolinensis_Gray Catbird,0.7768343,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.94730186,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.96164674,35.0,38.0
+Empidonax alnorum_Alder Flycatcher,0.10510978,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.20527466,36.0,39.0
+Pipilo maculatus_Spotted Towhee,0.18339658,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.98615384,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.98249143,38.0,41.0
+Empidonax alnorum_Alder Flycatcher,0.23814392,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.88674754,39.0,42.0
+Dumetella carolinensis_Gray Catbird,0.93411225,40.0,43.0
+Dumetella carolinensis_Gray Catbird,0.96740204,41.0,44.0
+Dumetella carolinensis_Gray Catbird,0.9312965,42.0,45.0
+Empidonax alnorum_Alder Flycatcher,0.88996893,43.0,46.0
+Empidonax alnorum_Alder Flycatcher,0.84129214,44.0,47.0
+Empidonax alnorum_Alder Flycatcher,0.7063798,45.0,48.0
+Pterophylla camellifolia_Common True Katydid,0.2604132,47.0,50.0
+Pterophylla camellifolia_Common True Katydid,0.10404076,48.0,51.0
+Empidonax alnorum_Alder Flycatcher,0.2266558,51.0,54.0
+Empidonax alnorum_Alder Flycatcher,0.56030566,52.0,55.0
+Empidonax alnorum_Alder Flycatcher,0.8936756,53.0,56.0
+Empidonax alnorum_Alder Flycatcher,0.17234899,54.0,57.0
+Empidonax alnorum_Alder Flycatcher,0.20119777,55.0,58.0
+Bombycilla cedrorum_Cedar Waxwing,0.19566628,55.0,58.0
+Empidonax alnorum_Alder Flycatcher,0.25241134,56.0,59.0
+Empidonax alnorum_Alder Flycatcher,0.28341904,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.4302666,58.0,61.0
+Dumetella carolinensis_Gray Catbird,0.10933616,59.0,62.0
+Dumetella carolinensis_Gray Catbird,0.3587352,60.0,63.0
+Pterophylla camellifolia_Common True Katydid,0.21792002,64.0,67.0
+Atlanticus testaceus_Protean Shieldback,0.17186037,65.0,68.0
+Atlanticus testaceus_Protean Shieldback,0.20624778,66.0,69.0
+Pterophylla camellifolia_Common True Katydid,0.16398318,69.0,72.0
+Pterophylla camellifolia_Common True Katydid,0.2503218,70.0,73.0
+Brachyramphus marmoratus_Marbled Murrelet,0.43449998,71.0,74.0
+Brachyramphus marmoratus_Marbled Murrelet,0.32386726,72.0,75.0
+Tamiasciurus hudsonicus_Red Squirrel,0.12501787,72.0,75.0
+Brachyramphus marmoratus_Marbled Murrelet,0.2650513,73.0,76.0
+Tachycineta thalassina_Violet-green Swallow,0.2501375,78.0,81.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.19054662,82.0,85.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.17064938,82.0,85.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.28610447,83.0,86.0
