@@ -1,0 +1,415 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.9975648,0.0,3.0
+Calliope calliope_Siberian Rubythroat,0.11985589,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.9930693,1.0,4.0
+Icterus spurius_Orchard Oriole,0.12365534,1.0,4.0
+Dolichonyx oryzivorus_Bobolink,0.9943433,2.0,5.0
+Dolichonyx oryzivorus_Bobolink,0.9474186,3.0,6.0
+Icterus spurius_Orchard Oriole,0.10232939,3.0,6.0
+Dolichonyx oryzivorus_Bobolink,0.9322804,4.0,7.0
+Icterus spurius_Orchard Oriole,0.3888402,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.9866788,5.0,8.0
+Icterus spurius_Orchard Oriole,0.17076577,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.9971053,6.0,9.0
+Icterus spurius_Orchard Oriole,0.22891839,6.0,9.0
+Euphagus carolinus_Rusty Blackbird,0.20995376,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.96554893,7.0,10.0
+Euphagus carolinus_Rusty Blackbird,0.138445,7.0,10.0
+Icterus spurius_Orchard Oriole,0.12279775,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.99345016,8.0,11.0
+Icterus spurius_Orchard Oriole,0.15825059,8.0,11.0
+Dolichonyx oryzivorus_Bobolink,0.9367532,9.0,12.0
+Dolichonyx oryzivorus_Bobolink,0.805641,10.0,13.0
+Dolichonyx oryzivorus_Bobolink,0.9505495,11.0,14.0
+Dolichonyx oryzivorus_Bobolink,0.94586945,12.0,15.0
+Dolichonyx oryzivorus_Bobolink,0.93166775,13.0,16.0
+Euphagus carolinus_Rusty Blackbird,0.31937033,13.0,16.0
+Icterus spurius_Orchard Oriole,0.122242644,13.0,16.0
+Dolichonyx oryzivorus_Bobolink,0.933661,14.0,17.0
+Icterus spurius_Orchard Oriole,0.19744937,14.0,17.0
+Euphagus carolinus_Rusty Blackbird,0.11730796,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.94819283,15.0,18.0
+Euphagus carolinus_Rusty Blackbird,0.22354212,15.0,18.0
+Icterus spurius_Orchard Oriole,0.15666895,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.9912588,16.0,19.0
+Icterus spurius_Orchard Oriole,0.24761991,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.96966773,17.0,20.0
+Icterus spurius_Orchard Oriole,0.17333016,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.9613602,18.0,21.0
+Icterus spurius_Orchard Oriole,0.21797861,18.0,21.0
+Euphagus carolinus_Rusty Blackbird,0.21743354,18.0,21.0
+Calliope calliope_Siberian Rubythroat,0.10869019,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.9819686,19.0,22.0
+Euphagus carolinus_Rusty Blackbird,0.2639335,19.0,22.0
+Dolichonyx oryzivorus_Bobolink,0.79925853,20.0,23.0
+Euphagus carolinus_Rusty Blackbird,0.12562203,20.0,23.0
+Dolichonyx oryzivorus_Bobolink,0.759553,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.88703245,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.94958496,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.973067,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.96350026,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.96738863,26.0,29.0
+Icterus spurius_Orchard Oriole,0.1622866,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.9391945,27.0,30.0
+Icterus spurius_Orchard Oriole,0.26692107,27.0,30.0
+Euphagus carolinus_Rusty Blackbird,0.19875367,27.0,30.0
+Dolichonyx oryzivorus_Bobolink,0.9808369,28.0,31.0
+Icterus spurius_Orchard Oriole,0.24367324,28.0,31.0
+Dolichonyx oryzivorus_Bobolink,0.9427647,29.0,32.0
+Icterus spurius_Orchard Oriole,0.12839344,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.8653886,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.37463674,31.0,34.0
+Turdus migratorius_American Robin,0.33769074,32.0,35.0
+Turdus migratorius_American Robin,0.63529074,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.3115649,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.97747564,35.0,38.0
+Icterus spurius_Orchard Oriole,0.21427664,35.0,38.0
+Dolichonyx oryzivorus_Bobolink,0.9570484,36.0,39.0
+Icterus spurius_Orchard Oriole,0.102273904,36.0,39.0
+Dolichonyx oryzivorus_Bobolink,0.9439967,37.0,40.0
+Icterus spurius_Orchard Oriole,0.2605163,37.0,40.0
+Dolichonyx oryzivorus_Bobolink,0.9772752,38.0,41.0
+Icterus spurius_Orchard Oriole,0.16038598,38.0,41.0
+Dolichonyx oryzivorus_Bobolink,0.8837408,39.0,42.0
+Icterus spurius_Orchard Oriole,0.1282404,39.0,42.0
+Dolichonyx oryzivorus_Bobolink,0.7757156,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.73414814,41.0,44.0
+Dolichonyx oryzivorus_Bobolink,0.5611328,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.21962121,43.0,46.0
+Euphagus carolinus_Rusty Blackbird,0.13898487,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.18388277,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.85102457,45.0,48.0
+Icterus spurius_Orchard Oriole,0.12544453,45.0,48.0
+Euphagus carolinus_Rusty Blackbird,0.10724211,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.8893861,46.0,49.0
+Icterus spurius_Orchard Oriole,0.39719826,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.96265066,47.0,50.0
+Icterus spurius_Orchard Oriole,0.24291146,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.8866856,48.0,51.0
+Icterus spurius_Orchard Oriole,0.179435,48.0,51.0
+Dolichonyx oryzivorus_Bobolink,0.910467,49.0,52.0
+Icterus spurius_Orchard Oriole,0.4650088,49.0,52.0
+Icterus bullockii_Bullock's Oriole,0.6059792,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.46146944,50.0,53.0
+Icterus spurius_Orchard Oriole,0.21414317,50.0,53.0
+Dolichonyx oryzivorus_Bobolink,0.82651824,51.0,54.0
+Icterus spurius_Orchard Oriole,0.3194639,51.0,54.0
+Icterus bullockii_Bullock's Oriole,0.2814064,51.0,54.0
+Dolichonyx oryzivorus_Bobolink,0.97025394,52.0,55.0
+Icterus spurius_Orchard Oriole,0.19986701,52.0,55.0
+Dolichonyx oryzivorus_Bobolink,0.9337343,53.0,56.0
+Euphagus carolinus_Rusty Blackbird,0.16482458,53.0,56.0
+Dolichonyx oryzivorus_Bobolink,0.8165383,54.0,57.0
+Dolichonyx oryzivorus_Bobolink,0.59950525,55.0,58.0
+Dolichonyx oryzivorus_Bobolink,0.9156968,56.0,59.0
+Euphagus carolinus_Rusty Blackbird,0.12783177,56.0,59.0
+Dolichonyx oryzivorus_Bobolink,0.7790156,57.0,60.0
+Euphagus carolinus_Rusty Blackbird,0.14579484,57.0,60.0
+Icterus spurius_Orchard Oriole,0.12099549,57.0,60.0
+Dolichonyx oryzivorus_Bobolink,0.94854915,58.0,61.0
+Icterus spurius_Orchard Oriole,0.2884779,58.0,61.0
+Dolichonyx oryzivorus_Bobolink,0.96658236,59.0,62.0
+Icterus spurius_Orchard Oriole,0.124779955,59.0,62.0
+Dolichonyx oryzivorus_Bobolink,0.9814372,60.0,63.0
+Icterus spurius_Orchard Oriole,0.36225957,60.0,63.0
+Dolichonyx oryzivorus_Bobolink,0.9684335,61.0,64.0
+Icterus spurius_Orchard Oriole,0.24702464,61.0,64.0
+Dolichonyx oryzivorus_Bobolink,0.96420527,62.0,65.0
+Icterus spurius_Orchard Oriole,0.38792557,62.0,65.0
+Dolichonyx oryzivorus_Bobolink,0.9718655,63.0,66.0
+Icterus spurius_Orchard Oriole,0.266929,63.0,66.0
+Dolichonyx oryzivorus_Bobolink,0.6307909,64.0,67.0
+Icterus spurius_Orchard Oriole,0.13581175,64.0,67.0
+Dolichonyx oryzivorus_Bobolink,0.56743574,65.0,68.0
+Icterus spurius_Orchard Oriole,0.12033477,65.0,68.0
+Dolichonyx oryzivorus_Bobolink,0.6905205,66.0,69.0
+Dolichonyx oryzivorus_Bobolink,0.53359723,67.0,70.0
+Icterus spurius_Orchard Oriole,0.22705744,67.0,70.0
+Dolichonyx oryzivorus_Bobolink,0.8048971,68.0,71.0
+Euphagus carolinus_Rusty Blackbird,0.39001146,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.97444195,69.0,72.0
+Icterus spurius_Orchard Oriole,0.2268851,69.0,72.0
+Dolichonyx oryzivorus_Bobolink,0.98823744,70.0,73.0
+Icterus spurius_Orchard Oriole,0.12095003,70.0,73.0
+Dolichonyx oryzivorus_Bobolink,0.9750728,71.0,74.0
+Icterus spurius_Orchard Oriole,0.48247057,71.0,74.0
+Dolichonyx oryzivorus_Bobolink,0.9364429,72.0,75.0
+Icterus spurius_Orchard Oriole,0.39163953,72.0,75.0
+Dolichonyx oryzivorus_Bobolink,0.9390721,73.0,76.0
+Icterus spurius_Orchard Oriole,0.16103922,73.0,76.0
+Dolichonyx oryzivorus_Bobolink,0.9883463,74.0,77.0
+Icterus spurius_Orchard Oriole,0.10846854,74.0,77.0
+Dolichonyx oryzivorus_Bobolink,0.8132495,75.0,78.0
+Euphagus carolinus_Rusty Blackbird,0.22283733,75.0,78.0
+Icterus spurius_Orchard Oriole,0.1018296,75.0,78.0
+Dolichonyx oryzivorus_Bobolink,0.71380335,76.0,79.0
+Euphagus carolinus_Rusty Blackbird,0.2400347,76.0,79.0
+Euphagus carolinus_Rusty Blackbird,0.13585964,78.0,81.0
+Dolichonyx oryzivorus_Bobolink,0.73628676,79.0,82.0
+Euphagus carolinus_Rusty Blackbird,0.18700026,79.0,82.0
+Dolichonyx oryzivorus_Bobolink,0.92053795,80.0,83.0
+Euphagus carolinus_Rusty Blackbird,0.19908467,80.0,83.0
+Dolichonyx oryzivorus_Bobolink,0.96920633,81.0,84.0
+Euphagus carolinus_Rusty Blackbird,0.2007054,81.0,84.0
+Icterus spurius_Orchard Oriole,0.11230106,81.0,84.0
+Dolichonyx oryzivorus_Bobolink,0.96123284,82.0,85.0
+Euphagus carolinus_Rusty Blackbird,0.39657328,82.0,85.0
+Icterus spurius_Orchard Oriole,0.1194936,82.0,85.0
+Dolichonyx oryzivorus_Bobolink,0.98520374,83.0,86.0
+Icterus spurius_Orchard Oriole,0.26693544,83.0,86.0
+Dolichonyx oryzivorus_Bobolink,0.88473725,84.0,87.0
+Icterus spurius_Orchard Oriole,0.22436474,84.0,87.0
+Dolichonyx oryzivorus_Bobolink,0.9829128,85.0,88.0
+Icterus spurius_Orchard Oriole,0.18240806,85.0,88.0
+Dolichonyx oryzivorus_Bobolink,0.97455364,86.0,89.0
+Icterus spurius_Orchard Oriole,0.11510082,86.0,89.0
+Dolichonyx oryzivorus_Bobolink,0.9865122,87.0,90.0
+Dolichonyx oryzivorus_Bobolink,0.99436224,88.0,91.0
+Icterus spurius_Orchard Oriole,0.12317939,88.0,91.0
+Dolichonyx oryzivorus_Bobolink,0.9924252,89.0,92.0
+Icterus spurius_Orchard Oriole,0.24135356,89.0,92.0
+Dolichonyx oryzivorus_Bobolink,0.97514355,90.0,93.0
+Icterus spurius_Orchard Oriole,0.28437594,90.0,93.0
+Dolichonyx oryzivorus_Bobolink,0.9306754,91.0,94.0
+Icterus spurius_Orchard Oriole,0.12654309,91.0,94.0
+Dolichonyx oryzivorus_Bobolink,0.67491233,92.0,95.0
+Dolichonyx oryzivorus_Bobolink,0.48904034,93.0,96.0
+Dolichonyx oryzivorus_Bobolink,0.90985435,94.0,97.0
+Icterus spurius_Orchard Oriole,0.1605966,94.0,97.0
+Dolichonyx oryzivorus_Bobolink,0.9534995,95.0,98.0
+Icterus spurius_Orchard Oriole,0.41598794,95.0,98.0
+Dolichonyx oryzivorus_Bobolink,0.8670116,96.0,99.0
+Icterus spurius_Orchard Oriole,0.2846772,96.0,99.0
+Dolichonyx oryzivorus_Bobolink,0.98425907,97.0,100.0
+Icterus spurius_Orchard Oriole,0.25049737,97.0,100.0
+Dolichonyx oryzivorus_Bobolink,0.98788106,98.0,101.0
+Icterus spurius_Orchard Oriole,0.12381797,98.0,101.0
+Euphagus carolinus_Rusty Blackbird,0.11379924,98.0,101.0
+Dolichonyx oryzivorus_Bobolink,0.9867242,99.0,102.0
+Icterus spurius_Orchard Oriole,0.32802433,99.0,102.0
+Dolichonyx oryzivorus_Bobolink,0.9906901,100.0,103.0
+Icterus spurius_Orchard Oriole,0.37755746,100.0,103.0
+Euphagus carolinus_Rusty Blackbird,0.14407274,100.0,103.0
+Dolichonyx oryzivorus_Bobolink,0.9840785,101.0,104.0
+Icterus spurius_Orchard Oriole,0.14465192,101.0,104.0
+Dolichonyx oryzivorus_Bobolink,0.9794758,102.0,105.0
+Icterus spurius_Orchard Oriole,0.32156596,102.0,105.0
+Dolichonyx oryzivorus_Bobolink,0.9953275,103.0,106.0
+Dolichonyx oryzivorus_Bobolink,0.9943176,104.0,107.0
+Dolichonyx oryzivorus_Bobolink,0.96193457,105.0,108.0
+Euphagus carolinus_Rusty Blackbird,0.55447364,105.0,108.0
+Dolichonyx oryzivorus_Bobolink,0.90762806,106.0,109.0
+Euphagus carolinus_Rusty Blackbird,0.29437447,106.0,109.0
+Dolichonyx oryzivorus_Bobolink,0.71420515,107.0,110.0
+Dolichonyx oryzivorus_Bobolink,0.92580736,108.0,111.0
+Icterus spurius_Orchard Oriole,0.17161956,108.0,111.0
+Dolichonyx oryzivorus_Bobolink,0.6691378,109.0,112.0
+Icterus spurius_Orchard Oriole,0.38914958,109.0,112.0
+Dolichonyx oryzivorus_Bobolink,0.9336664,110.0,113.0
+Icterus spurius_Orchard Oriole,0.14389217,110.0,113.0
+Dolichonyx oryzivorus_Bobolink,0.9309949,111.0,114.0
+Icterus spurius_Orchard Oriole,0.12866665,111.0,114.0
+Dolichonyx oryzivorus_Bobolink,0.90827775,112.0,115.0
+Icterus spurius_Orchard Oriole,0.12700027,112.0,115.0
+Dolichonyx oryzivorus_Bobolink,0.9577694,113.0,116.0
+Euphagus carolinus_Rusty Blackbird,0.30030438,113.0,116.0
+Icterus spurius_Orchard Oriole,0.17620371,113.0,116.0
+Dolichonyx oryzivorus_Bobolink,0.94489396,114.0,117.0
+Euphagus carolinus_Rusty Blackbird,0.27304897,114.0,117.0
+Dolichonyx oryzivorus_Bobolink,0.9687273,115.0,118.0
+Euphagus carolinus_Rusty Blackbird,0.13464138,115.0,118.0
+Icterus spurius_Orchard Oriole,0.12386627,115.0,118.0
+Dolichonyx oryzivorus_Bobolink,0.9928665,116.0,119.0
+Dolichonyx oryzivorus_Bobolink,0.987428,117.0,120.0
+Icterus spurius_Orchard Oriole,0.2145302,117.0,120.0
+Dolichonyx oryzivorus_Bobolink,0.9299567,118.0,121.0
+Icterus spurius_Orchard Oriole,0.21231538,118.0,121.0
+Dolichonyx oryzivorus_Bobolink,0.9628655,119.0,122.0
+Icterus spurius_Orchard Oriole,0.19287784,119.0,122.0
+Dolichonyx oryzivorus_Bobolink,0.9924217,120.0,123.0
+Euphagus carolinus_Rusty Blackbird,0.15189877,120.0,123.0
+Icterus spurius_Orchard Oriole,0.1093549,120.0,123.0
+Dolichonyx oryzivorus_Bobolink,0.9959947,121.0,124.0
+Icterus spurius_Orchard Oriole,0.223581,121.0,124.0
+Dolichonyx oryzivorus_Bobolink,0.99220556,122.0,125.0
+Dolichonyx oryzivorus_Bobolink,0.9911,123.0,126.0
+Dolichonyx oryzivorus_Bobolink,0.9822504,124.0,127.0
+Icterus spurius_Orchard Oriole,0.10253241,124.0,127.0
+Dolichonyx oryzivorus_Bobolink,0.93057656,125.0,128.0
+Dolichonyx oryzivorus_Bobolink,0.7914293,126.0,129.0
+Dolichonyx oryzivorus_Bobolink,0.8015889,127.0,130.0
+Dolichonyx oryzivorus_Bobolink,0.9345148,128.0,131.0
+Dolichonyx oryzivorus_Bobolink,0.9928034,129.0,132.0
+Dolichonyx oryzivorus_Bobolink,0.89963347,130.0,133.0
+Dolichonyx oryzivorus_Bobolink,0.9364175,131.0,134.0
+Euphagus carolinus_Rusty Blackbird,0.11119299,131.0,134.0
+Dolichonyx oryzivorus_Bobolink,0.83857596,132.0,135.0
+Dolichonyx oryzivorus_Bobolink,0.9543588,133.0,136.0
+Dolichonyx oryzivorus_Bobolink,0.97309375,134.0,137.0
+Dolichonyx oryzivorus_Bobolink,0.9557749,135.0,138.0
+Dolichonyx oryzivorus_Bobolink,0.96250296,136.0,139.0
+Icterus spurius_Orchard Oriole,0.108316235,136.0,139.0
+Dolichonyx oryzivorus_Bobolink,0.9891573,137.0,140.0
+Icterus spurius_Orchard Oriole,0.17486976,137.0,140.0
+Dolichonyx oryzivorus_Bobolink,0.89778554,138.0,141.0
+Dolichonyx oryzivorus_Bobolink,0.970177,139.0,142.0
+Dolichonyx oryzivorus_Bobolink,0.89545596,140.0,143.0
+Dolichonyx oryzivorus_Bobolink,0.9659625,141.0,144.0
+Euphagus carolinus_Rusty Blackbird,0.13964958,141.0,144.0
+Icterus spurius_Orchard Oriole,0.12540576,141.0,144.0
+Dolichonyx oryzivorus_Bobolink,0.9663333,142.0,145.0
+Icterus spurius_Orchard Oriole,0.20536974,142.0,145.0
+Dolichonyx oryzivorus_Bobolink,0.9948408,143.0,146.0
+Icterus spurius_Orchard Oriole,0.10438412,143.0,146.0
+Dolichonyx oryzivorus_Bobolink,0.98544806,144.0,147.0
+Icterus spurius_Orchard Oriole,0.35310423,144.0,147.0
+Dolichonyx oryzivorus_Bobolink,0.99453837,145.0,148.0
+Icterus spurius_Orchard Oriole,0.1595513,145.0,148.0
+Dolichonyx oryzivorus_Bobolink,0.9837127,146.0,149.0
+Dolichonyx oryzivorus_Bobolink,0.9951982,147.0,150.0
+Icterus spurius_Orchard Oriole,0.10783099,147.0,150.0
+Dolichonyx oryzivorus_Bobolink,0.9745402,148.0,151.0
+Icterus spurius_Orchard Oriole,0.13507147,148.0,151.0
+Dolichonyx oryzivorus_Bobolink,0.9690994,149.0,152.0
+Icterus spurius_Orchard Oriole,0.14619243,149.0,152.0
+Dolichonyx oryzivorus_Bobolink,0.98873854,150.0,153.0
+Icterus spurius_Orchard Oriole,0.11362727,150.0,153.0
+Dolichonyx oryzivorus_Bobolink,0.9661434,151.0,154.0
+Icterus spurius_Orchard Oriole,0.12696673,151.0,154.0
+Dolichonyx oryzivorus_Bobolink,0.89996064,152.0,155.0
+Dolichonyx oryzivorus_Bobolink,0.8812285,153.0,156.0
+Dolichonyx oryzivorus_Bobolink,0.97744286,154.0,157.0
+Dolichonyx oryzivorus_Bobolink,0.9787651,155.0,158.0
+Dolichonyx oryzivorus_Bobolink,0.42857796,156.0,159.0
+Dolichonyx oryzivorus_Bobolink,0.259452,157.0,160.0
+Dolichonyx oryzivorus_Bobolink,0.5106677,158.0,161.0
+Dolichonyx oryzivorus_Bobolink,0.98801744,159.0,162.0
+Dolichonyx oryzivorus_Bobolink,0.91780996,160.0,163.0
+Colaptes auratus_Northern Flicker,0.7379753,161.0,164.0
+Colaptes auratus_Northern Flicker,0.8178871,162.0,165.0
+Colaptes auratus_Northern Flicker,0.76008385,163.0,166.0
+Colaptes auratus_Northern Flicker,0.748587,164.0,167.0
+Dolichonyx oryzivorus_Bobolink,0.43719003,165.0,168.0
+Euphagus carolinus_Rusty Blackbird,0.113611475,165.0,168.0
+Dolichonyx oryzivorus_Bobolink,0.24685773,166.0,169.0
+Dolichonyx oryzivorus_Bobolink,0.62195075,168.0,171.0
+Dolichonyx oryzivorus_Bobolink,0.69165254,169.0,172.0
+Icterus spurius_Orchard Oriole,0.11830574,169.0,172.0
+Dolichonyx oryzivorus_Bobolink,0.90292543,170.0,173.0
+Icterus spurius_Orchard Oriole,0.43406364,170.0,173.0
+Dolichonyx oryzivorus_Bobolink,0.9024015,171.0,174.0
+Icterus spurius_Orchard Oriole,0.2870575,171.0,174.0
+Dolichonyx oryzivorus_Bobolink,0.97283125,172.0,175.0
+Dolichonyx oryzivorus_Bobolink,0.901169,173.0,176.0
+Dolichonyx oryzivorus_Bobolink,0.58245933,174.0,177.0
+Dolichonyx oryzivorus_Bobolink,0.17524986,175.0,178.0
+Dolichonyx oryzivorus_Bobolink,0.76270586,176.0,179.0
+Dolichonyx oryzivorus_Bobolink,0.9636643,177.0,180.0
+Icterus spurius_Orchard Oriole,0.11523262,177.0,180.0
+Dolichonyx oryzivorus_Bobolink,0.98904324,178.0,181.0
+Icterus spurius_Orchard Oriole,0.19705953,178.0,181.0
+Dolichonyx oryzivorus_Bobolink,0.9981121,179.0,182.0
+Icterus spurius_Orchard Oriole,0.16279054,179.0,182.0
+Dolichonyx oryzivorus_Bobolink,0.9910595,180.0,183.0
+Icterus spurius_Orchard Oriole,0.22558585,180.0,183.0
+Dolichonyx oryzivorus_Bobolink,0.9467321,181.0,184.0
+Icterus spurius_Orchard Oriole,0.5176748,181.0,184.0
+Euphagus carolinus_Rusty Blackbird,0.28372642,181.0,184.0
+Dolichonyx oryzivorus_Bobolink,0.98613536,182.0,185.0
+Icterus spurius_Orchard Oriole,0.4761557,182.0,185.0
+Euphagus carolinus_Rusty Blackbird,0.19632035,182.0,185.0
+Dolichonyx oryzivorus_Bobolink,0.98555017,183.0,186.0
+Icterus spurius_Orchard Oriole,0.15275347,183.0,186.0
+Euphagus carolinus_Rusty Blackbird,0.108680256,183.0,186.0
+Dolichonyx oryzivorus_Bobolink,0.9919687,184.0,187.0
+Icterus spurius_Orchard Oriole,0.15690367,184.0,187.0
+Euphagus carolinus_Rusty Blackbird,0.13613968,184.0,187.0
+Dolichonyx oryzivorus_Bobolink,0.97338945,185.0,188.0
+Dolichonyx oryzivorus_Bobolink,0.9306699,186.0,189.0
+Icterus spurius_Orchard Oriole,0.13152708,186.0,189.0
+Dolichonyx oryzivorus_Bobolink,0.45120096,187.0,190.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.1100069,187.0,190.0
+Dolichonyx oryzivorus_Bobolink,0.42665547,188.0,191.0
+Euphagus carolinus_Rusty Blackbird,0.13878842,188.0,191.0
+Dolichonyx oryzivorus_Bobolink,0.45307776,189.0,192.0
+Icterus spurius_Orchard Oriole,0.101785235,189.0,192.0
+Dolichonyx oryzivorus_Bobolink,0.9278853,190.0,193.0
+Icterus spurius_Orchard Oriole,0.3443307,190.0,193.0
+Euphagus carolinus_Rusty Blackbird,0.10835757,190.0,193.0
+Dolichonyx oryzivorus_Bobolink,0.89308536,191.0,194.0
+Icterus spurius_Orchard Oriole,0.27804804,191.0,194.0
+Dolichonyx oryzivorus_Bobolink,0.9725812,192.0,195.0
+Euphagus carolinus_Rusty Blackbird,0.15640913,192.0,195.0
+Dolichonyx oryzivorus_Bobolink,0.8165912,193.0,196.0
+Euphagus carolinus_Rusty Blackbird,0.14507039,193.0,196.0
+Icterus spurius_Orchard Oriole,0.10517295,193.0,196.0
+Dolichonyx oryzivorus_Bobolink,0.80181724,194.0,197.0
+Icterus spurius_Orchard Oriole,0.21424206,194.0,197.0
+Dolichonyx oryzivorus_Bobolink,0.9300337,195.0,198.0
+Icterus spurius_Orchard Oriole,0.25569567,195.0,198.0
+Euphagus carolinus_Rusty Blackbird,0.13250878,195.0,198.0
+Dolichonyx oryzivorus_Bobolink,0.9781853,196.0,199.0
+Euphagus carolinus_Rusty Blackbird,0.3199342,196.0,199.0
+Icterus spurius_Orchard Oriole,0.2445064,196.0,199.0
+Dolichonyx oryzivorus_Bobolink,0.9551132,197.0,200.0
+Icterus spurius_Orchard Oriole,0.24802686,197.0,200.0
+Euphagus carolinus_Rusty Blackbird,0.1677105,197.0,200.0
+Dolichonyx oryzivorus_Bobolink,0.9203662,198.0,201.0
+Icterus spurius_Orchard Oriole,0.25554568,198.0,201.0
+Dolichonyx oryzivorus_Bobolink,0.9918794,199.0,202.0
+Dolichonyx oryzivorus_Bobolink,0.96898746,200.0,203.0
+Icterus spurius_Orchard Oriole,0.1366366,200.0,203.0
+Dolichonyx oryzivorus_Bobolink,0.96088415,201.0,204.0
+Dolichonyx oryzivorus_Bobolink,0.9349797,202.0,205.0
+Dolichonyx oryzivorus_Bobolink,0.7710458,203.0,206.0
+Icterus spurius_Orchard Oriole,0.11658684,203.0,206.0
+Dolichonyx oryzivorus_Bobolink,0.3772196,204.0,207.0
+Euphagus carolinus_Rusty Blackbird,0.16690668,204.0,207.0
+Dolichonyx oryzivorus_Bobolink,0.118358076,206.0,209.0
+Dolichonyx oryzivorus_Bobolink,0.8704554,207.0,210.0
+Dolichonyx oryzivorus_Bobolink,0.9635261,208.0,211.0
+Dolichonyx oryzivorus_Bobolink,0.83708936,209.0,212.0
+Dolichonyx oryzivorus_Bobolink,0.9010691,210.0,213.0
+Dolichonyx oryzivorus_Bobolink,0.8037392,211.0,214.0
+Icterus spurius_Orchard Oriole,0.11292703,211.0,214.0
+Dolichonyx oryzivorus_Bobolink,0.87771624,212.0,215.0
+Dolichonyx oryzivorus_Bobolink,0.8957864,213.0,216.0
+Dolichonyx oryzivorus_Bobolink,0.66623163,214.0,217.0
+Icterus spurius_Orchard Oriole,0.10130802,214.0,217.0
+Dolichonyx oryzivorus_Bobolink,0.9073031,215.0,218.0
+Dolichonyx oryzivorus_Bobolink,0.98580104,216.0,219.0
+Icterus spurius_Orchard Oriole,0.15771303,216.0,219.0
+Dolichonyx oryzivorus_Bobolink,0.9942063,217.0,220.0
+Icterus spurius_Orchard Oriole,0.34425783,217.0,220.0
+Dolichonyx oryzivorus_Bobolink,0.63056594,218.0,221.0
+Icterus spurius_Orchard Oriole,0.17215651,218.0,221.0
+Bombycilla cedrorum_Cedar Waxwing,0.30600142,225.0,228.0
+Bombycilla cedrorum_Cedar Waxwing,0.36443585,226.0,229.0
+Bombycilla cedrorum_Cedar Waxwing,0.2855623,227.0,230.0
+Lophodytes cucullatus_Hooded Merganser,0.10201113,228.0,231.0
+Bombycilla cedrorum_Cedar Waxwing,0.50452435,230.0,233.0
+Bombycilla cedrorum_Cedar Waxwing,0.59669405,231.0,234.0
+Bombycilla cedrorum_Cedar Waxwing,0.43155786,232.0,235.0
+Bombycilla cedrorum_Cedar Waxwing,0.29672202,233.0,236.0
+Bombycilla cedrorum_Cedar Waxwing,0.5633892,234.0,237.0
+Bombycilla cedrorum_Cedar Waxwing,0.5067369,235.0,238.0
+Bombycilla cedrorum_Cedar Waxwing,0.7822584,237.0,240.0
+Setophaga chrysoparia_Golden-cheeked Warbler,0.115668625,237.0,240.0
+Bombycilla cedrorum_Cedar Waxwing,0.7142377,238.0,241.0
+Bombycilla cedrorum_Cedar Waxwing,0.47349927,239.0,242.0
+Bombycilla cedrorum_Cedar Waxwing,0.3252473,240.0,243.0
+Bombycilla cedrorum_Cedar Waxwing,0.23099451,241.0,244.0
+Bombycilla cedrorum_Cedar Waxwing,0.17167142,242.0,245.0
+Bombycilla cedrorum_Cedar Waxwing,0.6615674,245.0,248.0
+Bombycilla cedrorum_Cedar Waxwing,0.6437044,246.0,249.0
+Bombycilla cedrorum_Cedar Waxwing,0.20608315,247.0,250.0
+Bombycilla cedrorum_Cedar Waxwing,0.43056154,248.0,251.0
+Glaucidium passerinum_Eurasian Pygmy-Owl,0.11543841,248.0,251.0
+Bombycilla cedrorum_Cedar Waxwing,0.7015861,249.0,252.0
+Bombycilla cedrorum_Cedar Waxwing,0.8711507,250.0,253.0
+Lophodytes cucullatus_Hooded Merganser,0.10530934,255.0,258.0
+Spatula discors_Blue-winged Teal,0.17790218,257.0,260.0
+Spatula discors_Blue-winged Teal,0.12465686,259.0,262.0
+Spatula discors_Blue-winged Teal,0.114986405,271.0,274.0
+Spatula discors_Blue-winged Teal,0.100766465,273.0,276.0
+Lophodytes cucullatus_Hooded Merganser,0.1089444,275.0,278.0

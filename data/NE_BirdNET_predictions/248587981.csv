@@ -1,0 +1,105 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.18769778,2.0,5.0
+Ardea cinerea_Gray Heron,0.11479748,2.0,5.0
+Menura alberti_Albert's Lyrebird,0.23919395,3.0,6.0
+Menura novaehollandiae_Superb Lyrebird,0.19985183,3.0,6.0
+Menura alberti_Albert's Lyrebird,0.18329109,4.0,7.0
+Ardea herodias_Great Blue Heron,0.19615681,5.0,8.0
+Menura alberti_Albert's Lyrebird,0.17903887,5.0,8.0
+Menura novaehollandiae_Superb Lyrebird,0.13708,5.0,8.0
+Ardea herodias_Great Blue Heron,0.66669774,6.0,9.0
+Ardea herodias_Great Blue Heron,0.73136014,7.0,10.0
+Ardea herodias_Great Blue Heron,0.6757437,8.0,11.0
+Dacelo novaeguineae_Laughing Kookaburra,0.23383245,9.0,12.0
+Ardea herodias_Great Blue Heron,0.4401738,10.0,13.0
+Dacelo novaeguineae_Laughing Kookaburra,0.1985329,10.0,13.0
+Ardea herodias_Great Blue Heron,0.6391054,11.0,14.0
+Dacelo novaeguineae_Laughing Kookaburra,0.2425222,11.0,14.0
+Menura alberti_Albert's Lyrebird,0.11120828,11.0,14.0
+Dacelo novaeguineae_Laughing Kookaburra,0.2179053,13.0,16.0
+Ardea herodias_Great Blue Heron,0.1246996,14.0,17.0
+Dacelo novaeguineae_Laughing Kookaburra,0.19403122,15.0,18.0
+Ardea herodias_Great Blue Heron,0.18335524,17.0,20.0
+Ardea herodias_Great Blue Heron,0.3079925,18.0,21.0
+Ortalis canicollis_Chaco Chachalaca,0.110412315,18.0,21.0
+Ardea herodias_Great Blue Heron,0.5609685,19.0,22.0
+Ortalis canicollis_Chaco Chachalaca,0.109991916,19.0,22.0
+Ardea herodias_Great Blue Heron,0.78185874,20.0,23.0
+Anas platyrhynchos_Mallard,0.11954641,20.0,23.0
+Ardea herodias_Great Blue Heron,0.12633805,22.0,25.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.35273132,23.0,26.0
+Dacelo leachii_Blue-winged Kookaburra,0.21938533,24.0,27.0
+Menura alberti_Albert's Lyrebird,0.16280158,24.0,27.0
+Dacelo leachii_Blue-winged Kookaburra,0.80339295,25.0,28.0
+Dacelo novaeguineae_Laughing Kookaburra,0.264157,25.0,28.0
+Menura alberti_Albert's Lyrebird,0.1799179,25.0,28.0
+Dacelo leachii_Blue-winged Kookaburra,0.35035595,26.0,29.0
+Menura alberti_Albert's Lyrebird,0.30235097,26.0,29.0
+Dacelo novaeguineae_Laughing Kookaburra,0.11456952,26.0,29.0
+Menura alberti_Albert's Lyrebird,0.14991839,27.0,30.0
+Ardea herodias_Great Blue Heron,0.24783441,28.0,31.0
+Menura alberti_Albert's Lyrebird,0.11098017,28.0,31.0
+Ardea herodias_Great Blue Heron,0.7033773,29.0,32.0
+Ardea herodias_Great Blue Heron,0.9386085,30.0,33.0
+Menura alberti_Albert's Lyrebird,0.104345545,30.0,33.0
+Ardea herodias_Great Blue Heron,0.8942359,31.0,34.0
+Ardea herodias_Great Blue Heron,0.2034779,32.0,35.0
+Engine_Engine,0.12123375,32.0,35.0
+Ardea herodias_Great Blue Heron,0.1425643,33.0,36.0
+Anas platyrhynchos_Mallard,0.17843093,34.0,37.0
+Cochlearius cochlearius_Boat-billed Heron,0.11932972,34.0,37.0
+Ardea herodias_Great Blue Heron,0.37929252,35.0,38.0
+Ardea herodias_Great Blue Heron,0.35689706,36.0,39.0
+Fulmarus glacialis_Northern Fulmar,0.19835034,36.0,39.0
+Ardea herodias_Great Blue Heron,0.5546883,37.0,40.0
+Ardea herodias_Great Blue Heron,0.17908123,40.0,43.0
+Ardea herodias_Great Blue Heron,0.40815067,41.0,44.0
+Ardea herodias_Great Blue Heron,0.19201267,42.0,45.0
+Ardea herodias_Great Blue Heron,0.3407797,43.0,46.0
+Ardea herodias_Great Blue Heron,0.24036969,44.0,47.0
+Penelope argyrotis_Band-tailed Guan,0.12429606,44.0,47.0
+Ibycter americanus_Red-throated Caracara,0.14523022,45.0,48.0
+Ardea herodias_Great Blue Heron,0.14284304,45.0,48.0
+Ardea herodias_Great Blue Heron,0.21278605,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.10742773,48.0,51.0
+Ardea herodias_Great Blue Heron,0.19255988,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.13568985,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.16260189,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.18782687,51.0,54.0
+Strix rufipes_Rufous-legged Owl,0.11666314,52.0,55.0
+Ardea herodias_Great Blue Heron,0.10107807,52.0,55.0
+Theristicus melanopis_Black-faced Ibis,0.10065929,52.0,55.0
+Ardea herodias_Great Blue Heron,0.16664974,55.0,58.0
+Ardea herodias_Great Blue Heron,0.25654635,56.0,59.0
+Ardea herodias_Great Blue Heron,0.29343063,57.0,60.0
+Ardea herodias_Great Blue Heron,0.17294203,58.0,61.0
+Ardea herodias_Great Blue Heron,0.8164039,59.0,62.0
+Ardea herodias_Great Blue Heron,0.73196673,60.0,63.0
+Ardea herodias_Great Blue Heron,0.79812104,61.0,64.0
+Ardea cinerea_Gray Heron,0.12651198,61.0,64.0
+Engine_Engine,0.122168936,61.0,64.0
+Ardea herodias_Great Blue Heron,0.33273897,62.0,65.0
+Ardea herodias_Great Blue Heron,0.23137416,63.0,66.0
+Dacelo novaeguineae_Laughing Kookaburra,0.15781379,63.0,66.0
+Ardea herodias_Great Blue Heron,0.11137769,65.0,68.0
+Ardea herodias_Great Blue Heron,0.111798644,75.0,78.0
+Ardea herodias_Great Blue Heron,0.17897159,76.0,79.0
+Ardea herodias_Great Blue Heron,0.62836874,77.0,80.0
+Ardea herodias_Great Blue Heron,0.58217317,78.0,81.0
+Ardea herodias_Great Blue Heron,0.3675639,79.0,82.0
+Ardea herodias_Great Blue Heron,0.29018894,80.0,83.0
+Ardea herodias_Great Blue Heron,0.1685771,81.0,84.0
+Ardea herodias_Great Blue Heron,0.11486551,83.0,86.0
+Dacelo novaeguineae_Laughing Kookaburra,0.11567502,84.0,87.0
+Human non-vocal_Human non-vocal,0.119297884,89.0,92.0
+Human non-vocal_Human non-vocal,0.13858221,90.0,93.0
+Ardea herodias_Great Blue Heron,0.10832719,91.0,94.0
+Ardea herodias_Great Blue Heron,0.4716361,92.0,95.0
+Fulmarus glacialis_Northern Fulmar,0.14581993,92.0,95.0
+Ardea herodias_Great Blue Heron,0.32782355,93.0,96.0
+Fulmarus glacialis_Northern Fulmar,0.32237223,93.0,96.0
+Fulmarus glacialis_Northern Fulmar,0.14279623,94.0,97.0
+Ardea herodias_Great Blue Heron,0.10699396,95.0,98.0
+Dacelo novaeguineae_Laughing Kookaburra,0.22813222,96.0,99.0
+Ardea herodias_Great Blue Heron,0.11147995,97.0,100.0
+Incilius valliceps_Gulf Coast Toad,0.109547034,100.0,102.19201814058957

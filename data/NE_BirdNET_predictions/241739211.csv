@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Colinus virginianus_Northern Bobwhite,0.990986,0.0,3.0
+Colinus virginianus_Northern Bobwhite,0.9146633,1.0,4.0
+Cardinalis cardinalis_Northern Cardinal,0.16266355,2.0,5.0
+Cardinalis cardinalis_Northern Cardinal,0.14024964,3.0,6.0
+Ixobrychus exilis_Least Bittern,0.36522374,4.0,7.0
+Ixobrychus exilis_Least Bittern,0.12537637,5.0,8.0
+Spizella pallida_Clay-colored Sparrow,0.23508461,10.0,13.0
+Colinus virginianus_Northern Bobwhite,0.6026475,11.0,14.0
+Icteria virens_Yellow-breasted Chat,0.115992635,11.0,14.0
+Colinus virginianus_Northern Bobwhite,0.9865927,12.0,15.0
+Colinus virginianus_Northern Bobwhite,0.9981041,13.0,16.0
+Colinus virginianus_Northern Bobwhite,0.98506564,14.0,17.0
+Spiza americana_Dickcissel,0.2567106,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.17032547,16.0,19.0
+Spizella pallida_Clay-colored Sparrow,0.13643901,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.23802175,17.0,20.0
+Phylloscopus ibericus_Iberian Chiffchaff,0.13949056,18.0,21.0
+Spiza americana_Dickcissel,0.23813261,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.15917271,19.0,22.0
+Spizella pallida_Clay-colored Sparrow,0.13597986,20.0,23.0
+Spiza americana_Dickcissel,0.10608883,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.15404114,21.0,24.0
+Spizella pallida_Clay-colored Sparrow,0.26927876,24.0,27.0
+Ixobrychus exilis_Least Bittern,0.26204157,25.0,28.0
+Spiza americana_Dickcissel,0.21953014,25.0,28.0
+Colinus virginianus_Northern Bobwhite,0.79888934,26.0,29.0
+Prosthemadera novaeseelandiae_Tui,0.28880045,26.0,29.0
+Anthornis melanura_New Zealand Bellbird,0.28329855,26.0,29.0
+Colinus virginianus_Northern Bobwhite,0.96098334,27.0,30.0
+Colinus virginianus_Northern Bobwhite,0.99210197,28.0,31.0
+Colinus virginianus_Northern Bobwhite,0.79975754,29.0,32.0
+Dumetella carolinensis_Gray Catbird,0.21436307,30.0,33.0
+Dumetella carolinensis_Gray Catbird,0.15133448,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.8246842,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.93996716,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.93426806,35.0,38.0
+Dumetella carolinensis_Gray Catbird,0.5789608,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.9139055,37.0,40.0
+Dumetella carolinensis_Gray Catbird,0.8569513,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.9921951,39.0,42.0
+Dumetella carolinensis_Gray Catbird,0.50175506,40.0,43.0
+Prosthemadera novaeseelandiae_Tui,0.14632548,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.12830314,40.0,43.0
+Colinus virginianus_Northern Bobwhite,0.8730923,41.0,44.0
+Colinus virginianus_Northern Bobwhite,0.9296132,42.0,45.0
+Colinus virginianus_Northern Bobwhite,0.87878495,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.8070009,44.0,47.0
+Dumetella carolinensis_Gray Catbird,0.8719073,45.0,48.0
+Dumetella carolinensis_Gray Catbird,0.97878075,46.0,49.0
+Dumetella carolinensis_Gray Catbird,0.99088085,47.0,50.0
+Monticola solitarius_Blue Rock-Thrush,0.10566528,47.0,50.0
+Dumetella carolinensis_Gray Catbird,0.9833386,48.0,51.0
+Dumetella carolinensis_Gray Catbird,0.9897098,49.0,52.0
+Dumetella carolinensis_Gray Catbird,0.9823757,50.0,53.0
+Dumetella carolinensis_Gray Catbird,0.9547989,51.0,54.0
+Sylvia atricapilla_Eurasian Blackcap,0.46929264,51.0,54.0
+Dumetella carolinensis_Gray Catbird,0.92097634,52.0,55.0
+Sylvia atricapilla_Eurasian Blackcap,0.18092923,52.0,55.0
+Dumetella carolinensis_Gray Catbird,0.9230204,53.0,56.0
+Dumetella carolinensis_Gray Catbird,0.7598934,54.0,57.0
+Colinus virginianus_Northern Bobwhite,0.6539692,55.0,58.0
+Colinus virginianus_Northern Bobwhite,0.85189635,56.0,59.0
+Colinus virginianus_Northern Bobwhite,0.80777496,57.0,60.0
+Dumetella carolinensis_Gray Catbird,0.8384877,58.0,61.0
+Dumetella carolinensis_Gray Catbird,0.97650903,59.0,62.0
+Dumetella carolinensis_Gray Catbird,0.948771,60.0,63.0
+Dumetella carolinensis_Gray Catbird,0.9328133,61.0,64.0
+Dumetella carolinensis_Gray Catbird,0.9096506,62.0,65.0
+Sylvia atricapilla_Eurasian Blackcap,0.16184016,62.0,65.0
+Dumetella carolinensis_Gray Catbird,0.74872804,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.5196315,64.0,67.0
+Calliope calliope_Siberian Rubythroat,0.32153568,64.0,67.0
+Dumetella carolinensis_Gray Catbird,0.64487576,65.0,68.0
+Dumetella carolinensis_Gray Catbird,0.70549566,66.0,69.0
+Sylvia atricapilla_Eurasian Blackcap,0.18809721,66.0,69.0
+Dumetella carolinensis_Gray Catbird,0.878533,67.0,70.0
+Sylvia atricapilla_Eurasian Blackcap,0.1577632,67.0,70.0
+Dumetella carolinensis_Gray Catbird,0.73887604,68.0,71.0
+Chloropsis hardwickii_Orange-bellied Leafbird,0.13151081,68.0,71.0
+Dumetella carolinensis_Gray Catbird,0.6859405,69.0,72.0
+Dumetella carolinensis_Gray Catbird,0.8083909,70.0,73.0
+Hypsipetes leucocephalus_Black Bulbul,0.20427851,71.0,74.0
+Aplonis panayensis_Asian Glossy Starling,0.11364426,71.0,74.0
+Dumetella carolinensis_Gray Catbird,0.35482976,72.0,75.0
+Dumetella carolinensis_Gray Catbird,0.9675067,73.0,76.0
+Colinus virginianus_Northern Bobwhite,0.79856277,74.0,77.0
+Dumetella carolinensis_Gray Catbird,0.2141495,74.0,77.0
+Colinus virginianus_Northern Bobwhite,0.8376996,75.0,78.0
+Colinus virginianus_Northern Bobwhite,0.86698705,76.0,78.64802721088435

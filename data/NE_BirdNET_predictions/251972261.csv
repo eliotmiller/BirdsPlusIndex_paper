@@ -1,0 +1,75 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.17347391,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13780689,0.0,3.0
+Ardea herodias_Great Blue Heron,0.5542014,1.0,4.0
+Poecile atricapillus_Black-capped Chickadee,0.2957166,2.0,5.0
+Bonasa umbellus_Ruffed Grouse,0.4842327,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.39507735,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.6004473,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.15134354,5.0,8.0
+Ortalis poliocephala_West Mexican Chachalaca,0.25373015,6.0,9.0
+Ardea herodias_Great Blue Heron,0.23327349,6.0,9.0
+Trogon elegans_Elegant Trogon,0.17483516,6.0,9.0
+Ardea herodias_Great Blue Heron,0.20424332,7.0,10.0
+Ardea herodias_Great Blue Heron,0.7682085,8.0,11.0
+Ardea herodias_Great Blue Heron,0.2693279,9.0,12.0
+Ardea herodias_Great Blue Heron,0.3306935,10.0,13.0
+Ardea herodias_Great Blue Heron,0.8337462,11.0,14.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.32571387,11.0,14.0
+Ardea herodias_Great Blue Heron,0.8643482,12.0,15.0
+Ardea herodias_Great Blue Heron,0.76611495,13.0,16.0
+Gallus gallus_Red Junglefowl,0.16823746,13.0,16.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.14612688,13.0,16.0
+Ardea herodias_Great Blue Heron,0.71813416,14.0,17.0
+Gallus gallus_Red Junglefowl,0.121797,14.0,17.0
+Ardea herodias_Great Blue Heron,0.3911741,15.0,18.0
+Dacelo novaeguineae_Laughing Kookaburra,0.109523736,15.0,18.0
+Ardea herodias_Great Blue Heron,0.54762876,16.0,19.0
+Dacelo novaeguineae_Laughing Kookaburra,0.6357755,17.0,20.0
+Ardea herodias_Great Blue Heron,0.16546208,17.0,20.0
+Ardea herodias_Great Blue Heron,0.4714466,18.0,21.0
+Ardea herodias_Great Blue Heron,0.82358634,19.0,22.0
+Ortalis poliocephala_West Mexican Chachalaca,0.14623329,19.0,22.0
+Ortalis canicollis_Chaco Chachalaca,0.12429901,20.0,23.0
+Ardea herodias_Great Blue Heron,0.112924255,20.0,23.0
+Dacelo novaeguineae_Laughing Kookaburra,0.18058614,23.0,26.0
+Ardea herodias_Great Blue Heron,0.17149743,23.0,26.0
+Ardea herodias_Great Blue Heron,0.2772094,24.0,27.0
+Fulmarus glacialis_Northern Fulmar,0.20866512,24.0,27.0
+Crotophaga major_Greater Ani,0.50628954,25.0,28.0
+Ardea herodias_Great Blue Heron,0.19320278,26.0,29.0
+Ardea herodias_Great Blue Heron,0.11145546,27.0,30.0
+Ardea herodias_Great Blue Heron,0.59164524,28.0,31.0
+Ardea herodias_Great Blue Heron,0.20432514,29.0,32.0
+Amazona oratrix_Yellow-headed Parrot,0.12570299,29.0,32.0
+Ardea herodias_Great Blue Heron,0.63590884,30.0,33.0
+Ardea herodias_Great Blue Heron,0.2211181,31.0,34.0
+Menura alberti_Albert's Lyrebird,0.13084629,31.0,34.0
+Ortalis canicollis_Chaco Chachalaca,0.12287469,34.0,37.0
+Ortalis canicollis_Chaco Chachalaca,0.5516322,35.0,38.0
+Ortalis canicollis_Chaco Chachalaca,0.29093653,36.0,39.0
+Ortalis canicollis_Chaco Chachalaca,0.18797992,37.0,40.0
+Crotophaga major_Greater Ani,0.16815178,42.0,45.0
+Ortalis canicollis_Chaco Chachalaca,0.14313959,42.0,45.0
+Tyrannus tyrannus_Eastern Kingbird,0.4258666,46.0,49.0
+Egretta thula_Snowy Egret,0.13882947,46.0,49.0
+Ardea alba_Great Egret,0.11692642,46.0,49.0
+Ardea herodias_Great Blue Heron,0.10597894,46.0,49.0
+Tyrannus tyrannus_Eastern Kingbird,0.28841797,47.0,50.0
+Egretta thula_Snowy Egret,0.17922829,47.0,50.0
+Tyrannus tyrannus_Eastern Kingbird,0.2630614,48.0,51.0
+Ardea herodias_Great Blue Heron,0.14511941,48.0,51.0
+Steatornis caripensis_Oilbird,0.17744382,49.0,52.0
+Protonotaria citrea_Prothonotary Warbler,0.16254789,56.0,59.0
+Protonotaria citrea_Prothonotary Warbler,0.11915261,57.0,60.0
+Tyrannus tyrannus_Eastern Kingbird,0.8292666,61.0,64.0
+Scolopax rusticola_Eurasian Woodcock,0.17150378,61.0,64.0
+Tyrannus tyrannus_Eastern Kingbird,0.40031472,62.0,65.0
+Tyrannus tyrannus_Eastern Kingbird,0.5664065,63.0,66.0
+Dacelo novaeguineae_Laughing Kookaburra,0.39264315,63.0,66.0
+Tyrannus tyrannus_Eastern Kingbird,0.5746051,64.0,67.0
+Dacelo novaeguineae_Laughing Kookaburra,0.34332785,64.0,67.0
+Fulmarus glacialis_Northern Fulmar,0.16137058,65.0,68.0
+Dacelo novaeguineae_Laughing Kookaburra,0.14462686,65.0,68.0
+Ardea herodias_Great Blue Heron,0.13550673,65.0,68.0
+Ardea herodias_Great Blue Heron,0.11886572,66.0,69.0

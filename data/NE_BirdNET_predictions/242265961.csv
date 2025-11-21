@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.98746175,0.0,3.0
+Catharus fuscescens_Veery,0.9851928,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.5187229,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.39580253,2.0,5.0
+Catharus fuscescens_Veery,0.114887305,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.1119765,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.75019926,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.45188758,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.32617947,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.22081389,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.37910104,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.2609395,4.0,7.0
+Pipilo erythrophthalmus_Eastern Towhee,0.24419215,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.19372204,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.13658243,4.0,7.0
+Catharus fuscescens_Veery,0.9551617,5.0,8.0
+Catharus fuscescens_Veery,0.988015,6.0,9.0
+Catharus fuscescens_Veery,0.9643663,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.101059124,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.62582266,8.0,11.0
+Catharus fuscescens_Veery,0.24177366,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.10715797,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14828092,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.12747087,9.0,12.0
+Catharus fuscescens_Veery,0.97215015,10.0,13.0
+Catharus fuscescens_Veery,0.9600688,11.0,14.0
+Catharus fuscescens_Veery,0.96574354,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.51237965,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.16781671,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.14747179,13.0,16.0
+Hylocichla mustelina_Wood Thrush,0.47716856,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.2770585,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.20822889,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.22350566,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.20790984,15.0,18.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14765583,15.0,18.0
+Catharus fuscescens_Veery,0.91970026,16.0,19.0
+Catharus fuscescens_Veery,0.9132372,17.0,20.0
+Catharus fuscescens_Veery,0.93707067,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16549057,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.15176627,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.11846029,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11145287,20.0,22.536009070294785

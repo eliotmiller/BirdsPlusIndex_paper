@@ -1,0 +1,111 @@
+species,score,start_time,end_time
+Troglodytes aedon_House Wren,0.8834361,0.0,3.0
+Cistothorus palustris_Marsh Wren,0.2020449,0.0,3.0
+Troglodytes aedon_House Wren,0.94906604,1.0,4.0
+Thryophilus sinaloa_Sinaloa Wren,0.52693385,1.0,4.0
+Troglodytes aedon_House Wren,0.7396432,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.10125483,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.2723117,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.4626464,5.0,8.0
+Archilochus colubris_Ruby-throated Hummingbird,0.19001852,6.0,9.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1275369,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.10879696,7.0,10.0
+Poecile atricapillus_Black-capped Chickadee,0.10954627,8.0,11.0
+Archilochus colubris_Ruby-throated Hummingbird,0.103280924,11.0,14.0
+Troglodytes aedon_House Wren,0.12474069,12.0,15.0
+Spinus pinus_Pine Siskin,0.10664363,16.0,19.0
+Sialia sialis_Eastern Bluebird,0.27866873,21.0,24.0
+Troglodytes aedon_House Wren,0.19326973,22.0,25.0
+Sialia sialis_Eastern Bluebird,0.103500746,22.0,25.0
+Cistothorus stellaris_Sedge Wren,0.10276502,22.0,25.0
+Cistothorus stellaris_Sedge Wren,0.49139315,23.0,26.0
+Cistothorus platensis_Grass Wren,0.18352722,23.0,26.0
+Icterus spurius_Orchard Oriole,0.17843929,23.0,26.0
+Sialia sialis_Eastern Bluebird,0.14693622,23.0,26.0
+Troglodytes aedon_House Wren,0.102086544,23.0,26.0
+Cistothorus stellaris_Sedge Wren,0.4577218,24.0,27.0
+Cistothorus platensis_Grass Wren,0.15595141,24.0,27.0
+Vireo bellii_Bell's Vireo,0.29594737,25.0,28.0
+Troglodytes aedon_House Wren,0.29526198,25.0,28.0
+Cistothorus palustris_Marsh Wren,0.16458374,25.0,28.0
+Troglodytes aedon_House Wren,0.39848983,26.0,29.0
+Iduna caligata_Booted Warbler,0.46568012,27.0,30.0
+Troglodytes aedon_House Wren,0.1447941,27.0,30.0
+Cinnyris jugularis_Olive-backed Sunbird,0.12518206,27.0,30.0
+Spinus barbatus_Black-chinned Siskin,0.20534691,28.0,31.0
+Cinnyris jugularis_Olive-backed Sunbird,0.10817568,28.0,31.0
+Troglodytes aedon_House Wren,0.13950486,29.0,32.0
+Chaetura pelagica_Chimney Swift,0.10823819,29.0,32.0
+Archilochus colubris_Ruby-throated Hummingbird,0.20114191,31.0,34.0
+Troglodytes aedon_House Wren,0.3043901,38.0,41.0
+Ardea herodias_Great Blue Heron,0.19681674,42.0,45.0
+Archilochus colubris_Ruby-throated Hummingbird,0.117660336,42.0,45.0
+Troglodytes aedon_House Wren,0.111834496,43.0,46.0
+Troglodytes aedon_House Wren,0.19188295,44.0,47.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14366803,47.0,50.0
+Tachycineta bicolor_Tree Swallow,0.116381355,47.0,50.0
+Cistothorus stellaris_Sedge Wren,0.8367367,48.0,51.0
+Cistothorus platensis_Grass Wren,0.7978857,48.0,51.0
+Troglodytes aedon_House Wren,0.15305454,48.0,51.0
+Cistothorus stellaris_Sedge Wren,0.46301585,49.0,52.0
+Cistothorus platensis_Grass Wren,0.31585404,49.0,52.0
+Iduna caligata_Booted Warbler,0.105634965,52.0,55.0
+Spinus tristis_American Goldfinch,0.23695685,53.0,56.0
+Spinus tristis_American Goldfinch,0.34398565,54.0,57.0
+Spinus tristis_American Goldfinch,0.507864,55.0,58.0
+Spinus tristis_American Goldfinch,0.16177228,56.0,59.0
+Cistothorus stellaris_Sedge Wren,0.15768279,56.0,59.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.43345156,58.0,61.0
+Cistothorus stellaris_Sedge Wren,0.2998875,58.0,61.0
+Cistothorus platensis_Grass Wren,0.12517649,58.0,61.0
+Cistothorus stellaris_Sedge Wren,0.534676,60.0,63.0
+Cistothorus platensis_Grass Wren,0.2865408,60.0,63.0
+Cistothorus stellaris_Sedge Wren,0.5847046,61.0,64.0
+Cistothorus platensis_Grass Wren,0.340052,61.0,64.0
+Cistothorus stellaris_Sedge Wren,0.18695915,62.0,65.0
+Cistothorus platensis_Grass Wren,0.10450896,62.0,65.0
+Troglodytes aedon_House Wren,0.31859288,65.0,68.0
+Archilochus colubris_Ruby-throated Hummingbird,0.10200213,67.0,70.0
+Sialia sialis_Eastern Bluebird,0.1648578,68.0,71.0
+Icterus spurius_Orchard Oriole,0.10464239,68.0,71.0
+Archilochus colubris_Ruby-throated Hummingbird,0.118091434,69.0,72.0
+Sialia sialis_Eastern Bluebird,0.11012711,69.0,72.0
+Troglodytes aedon_House Wren,0.17959917,70.0,73.0
+Troglodytes aedon_House Wren,0.14453483,73.0,76.0
+Curruca iberiae_Western Subalpine Warbler,0.20492989,74.0,77.0
+Troglodytes aedon_House Wren,0.15763226,74.0,77.0
+Curruca iberiae_Western Subalpine Warbler,0.10969134,75.0,78.0
+Curruca iberiae_Western Subalpine Warbler,0.13429962,76.0,79.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13170971,77.0,80.0
+Archilochus colubris_Ruby-throated Hummingbird,0.11426149,78.0,81.0
+Archilochus colubris_Ruby-throated Hummingbird,0.33377644,79.0,82.0
+Archilochus colubris_Ruby-throated Hummingbird,0.21400853,80.0,83.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17405921,81.0,84.0
+Archilochus colubris_Ruby-throated Hummingbird,0.106404595,82.0,85.0
+Ardea herodias_Great Blue Heron,0.28550002,83.0,86.0
+Archilochus colubris_Ruby-throated Hummingbird,0.27283528,84.0,87.0
+Spatula discors_Blue-winged Teal,0.15274,87.0,90.0
+Spatula discors_Blue-winged Teal,0.23338863,88.0,91.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13784026,91.0,94.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13983163,99.0,102.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.13408479,101.0,104.0
+Ardea herodias_Great Blue Heron,0.10845375,102.0,105.0
+Megaceryle alcyon_Belted Kingfisher,0.18582888,104.0,107.0
+Tyrannus tyrannus_Eastern Kingbird,0.2542411,111.0,114.0
+Icterus spurius_Orchard Oriole,0.101936676,117.0,120.0
+Icterus spurius_Orchard Oriole,0.17337576,118.0,121.0
+Cistothorus stellaris_Sedge Wren,0.22481412,119.0,122.0
+Acanthis flammea_Common Redpoll,0.12380195,131.0,134.0
+Acanthis flammea_Common Redpoll,0.735146,132.0,135.0
+Acanthis flammea_Common Redpoll,0.22633474,133.0,136.0
+Troglodytes aedon_House Wren,0.8691015,138.0,141.0
+Icterus spurius_Orchard Oriole,0.47900546,138.0,141.0
+Troglodytes aedon_House Wren,0.7688638,139.0,142.0
+Troglodytes aedon_House Wren,0.12579681,140.0,143.0
+Dolichonyx oryzivorus_Bobolink,0.11529903,143.0,146.0
+Troglodytes aedon_House Wren,0.13888621,145.0,148.0
+Dumetella carolinensis_Gray Catbird,0.19538927,146.0,149.0
+Calidris minutilla_Least Sandpiper,0.101553634,146.0,149.0
+Troglodytes aedon_House Wren,0.18510135,153.0,156.0
+Dumetella carolinensis_Gray Catbird,0.12242886,154.0,157.0
+Melospiza georgiana_Swamp Sparrow,0.5179317,159.0,162.0

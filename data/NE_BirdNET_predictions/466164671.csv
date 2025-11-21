@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Selasphorus rufus_Rufous Hummingbird,0.13282108,6.0,9.0
+Ixothraupis rufigula_Rufous-throated Tanager,0.25840083,9.0,12.0
+Troglodytes pacificus_Pacific Wren,0.24935451,9.0,12.0
+Urosphena squameiceps_Asian Stubtail,0.61469245,10.0,13.0
+Troglodytes pacificus_Pacific Wren,0.27677312,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.1293,10.0,13.0
+Doryfera ludovicae_Green-fronted Lancebill,0.4891004,11.0,14.0
+Calypte anna_Anna's Hummingbird,0.29412678,11.0,14.0
+Urosphena squameiceps_Asian Stubtail,0.13908413,11.0,14.0
+Urosphena squameiceps_Asian Stubtail,0.635909,12.0,15.0
+Doryfera ludovicae_Green-fronted Lancebill,0.40421182,12.0,15.0
+Calypte anna_Anna's Hummingbird,0.1147728,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.104200415,12.0,15.0
+Doryfera ludovicae_Green-fronted Lancebill,0.12483642,15.0,18.0
+Calypte anna_Anna's Hummingbird,0.10161593,15.0,18.0
+Calypte anna_Anna's Hummingbird,0.27312306,16.0,19.0
+Pseudotriccus ruficeps_Rufous-headed Pygmy-Tyrant,0.21151741,16.0,19.0
+Metallura tyrianthina_Tyrian Metaltail,0.11702479,16.0,19.0
+Pseudotriccus ruficeps_Rufous-headed Pygmy-Tyrant,0.58759665,17.0,20.0
+Doryfera ludovicae_Green-fronted Lancebill,0.4323464,17.0,20.0
+Metallura tyrianthina_Tyrian Metaltail,0.39233708,17.0,20.0
+Calypte anna_Anna's Hummingbird,0.3142587,17.0,20.0
+Urosphena squameiceps_Asian Stubtail,0.23891245,17.0,20.0
+Phylloscartes difficilis_Serra do Mar Tyrannulet,0.12847705,17.0,20.0
+Thalurania furcata_Fork-tailed Woodnymph,0.11761929,17.0,20.0
+Pseudotriccus ruficeps_Rufous-headed Pygmy-Tyrant,0.21338065,18.0,21.0
+Doryfera ludovicae_Green-fronted Lancebill,0.15416023,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116400994,21.0,24.0
+Urosphena squameiceps_Asian Stubtail,0.3013866,22.0,25.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.17785795,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1490893,22.0,25.0
+Doryfera ludovicae_Green-fronted Lancebill,0.14262341,22.0,25.0
+Myioborus brunniceps_Brown-capped Redstart,0.13243087,22.0,25.0
+Urosphena squameiceps_Asian Stubtail,0.23106045,23.0,26.0
+Doryfera ludovicae_Green-fronted Lancebill,0.20922807,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116455585,23.0,26.0
+Urosphena squameiceps_Asian Stubtail,0.29894835,25.0,28.0
+Calypte anna_Anna's Hummingbird,0.17190735,25.0,28.0
+Doryfera ludovicae_Green-fronted Lancebill,0.13661672,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.13186951,25.0,28.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.11050951,28.0,31.0
+Urosphena squameiceps_Asian Stubtail,0.5163785,29.0,32.0
+Myioborus brunniceps_Brown-capped Redstart,0.22816339,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16625403,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.1274693,29.0,32.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.12203259,29.0,32.0
+Urosphena squameiceps_Asian Stubtail,0.45366466,30.0,33.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.22033077,30.0,33.0
+Doryfera ludovicae_Green-fronted Lancebill,0.1824893,30.0,33.0
+Myioborus brunniceps_Brown-capped Redstart,0.14193916,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12839687,30.0,33.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.27908486,31.0,34.0
+Urosphena squameiceps_Asian Stubtail,0.23996615,31.0,34.0
+Dicaeum ignipectus_Fire-breasted Flowerpecker,0.15119493,31.0,34.0
+Doryfera ludovicae_Green-fronted Lancebill,0.14808704,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3089289,35.0,38.0
+Chlorospingus canigularis_Ashy-throated Chlorospingus,0.15419282,35.0,38.0
+Urosphena squameiceps_Asian Stubtail,0.10042058,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24092779,36.0,39.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.103092946,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34007633,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.10716292,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24082674,38.0,41.0
+Horornis acanthizoides_Yellowish-bellied Bush Warbler,0.126546,38.0,41.0
+Troglodytes pacificus_Pacific Wren,0.14373963,39.0,42.0
+Pseudotriccus ruficeps_Rufous-headed Pygmy-Tyrant,0.21724668,41.0,44.0

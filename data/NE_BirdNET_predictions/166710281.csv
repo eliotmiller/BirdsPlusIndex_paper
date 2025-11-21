@@ -1,0 +1,82 @@
+species,score,start_time,end_time
+Agelaius phoeniceus_Red-winged Blackbird,0.45297775,0.0,3.0
+Empidonax traillii_Willow Flycatcher,0.14671533,0.0,3.0
+Ixobrychus exilis_Least Bittern,0.10425633,0.0,3.0
+Icterus spurius_Orchard Oriole,0.13874555,2.0,5.0
+Sturnella magna_Eastern Meadowlark,0.13063063,2.0,5.0
+Ixobrychus exilis_Least Bittern,0.117269285,2.0,5.0
+Spinus psaltria_Lesser Goldfinch,0.15909573,3.0,6.0
+Spinus psaltria_Lesser Goldfinch,0.2573922,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.13023278,5.0,8.0
+Agelaius phoeniceus_Red-winged Blackbird,0.123462014,6.0,9.0
+Spinus psaltria_Lesser Goldfinch,0.1040011,6.0,9.0
+Sturnella magna_Eastern Meadowlark,0.23326083,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15039743,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.12392302,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.23788947,8.0,11.0
+Ixobrychus exilis_Least Bittern,0.20902698,9.0,12.0
+Hirundo rustica_Barn Swallow,0.17145635,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.113906145,9.0,12.0
+Hirundo rustica_Barn Swallow,0.16230932,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14240754,10.0,13.0
+Sturnella magna_Eastern Meadowlark,0.1850273,11.0,14.0
+Icterus spurius_Orchard Oriole,0.1583011,11.0,14.0
+Sturnella magna_Eastern Meadowlark,0.22978479,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17557402,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15352482,13.0,16.0
+Sturnella magna_Eastern Meadowlark,0.1371001,13.0,16.0
+Sturnella magna_Eastern Meadowlark,0.22696409,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14497349,14.0,17.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20186663,15.0,18.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19983743,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.19051966,17.0,20.0
+Quiscalus quiscula_Common Grackle,0.30045348,18.0,21.0
+Ixobrychus exilis_Least Bittern,0.10535126,18.0,21.0
+Ixobrychus exilis_Least Bittern,0.13873662,19.0,22.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1274061,19.0,22.0
+Empidonax traillii_Willow Flycatcher,0.12140618,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11413472,21.0,24.0
+Ixobrychus exilis_Least Bittern,0.11158903,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.10629201,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1529789,23.0,26.0
+Gallinago delicata_Wilson's Snipe,0.11577857,24.0,27.0
+Spizella pusilla_Field Sparrow,0.11068531,24.0,27.0
+Spinus psaltria_Lesser Goldfinch,0.15691966,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21097764,28.0,31.0
+Agelaius phoeniceus_Red-winged Blackbird,0.30688247,30.0,33.0
+Ixobrychus exilis_Least Bittern,0.1691926,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.23254715,31.0,34.0
+Ixobrychus exilis_Least Bittern,0.1926775,31.0,34.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18934216,32.0,35.0
+Sturnella magna_Eastern Meadowlark,0.14436059,32.0,35.0
+Sturnella magna_Eastern Meadowlark,0.16961467,33.0,36.0
+Ammospiza maritima_Seaside Sparrow,0.10976168,33.0,36.0
+Ixobrychus exilis_Least Bittern,0.15085493,34.0,37.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17703986,35.0,38.0
+Spinus psaltria_Lesser Goldfinch,0.11250222,35.0,38.0
+Ixobrychus exilis_Least Bittern,0.12704082,36.0,39.0
+Agelaius phoeniceus_Red-winged Blackbird,0.12870342,37.0,40.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14844325,38.0,41.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22272824,39.0,42.0
+Spinus psaltria_Lesser Goldfinch,0.115995124,39.0,42.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22326495,40.0,43.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22364016,41.0,44.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15184589,42.0,45.0
+Dolichonyx oryzivorus_Bobolink,0.2745408,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.35855144,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.67343295,45.0,48.0
+Hirundo rustica_Barn Swallow,0.13614815,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.36375028,47.0,50.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16551143,49.0,52.0
+Ixobrychus exilis_Least Bittern,0.10434331,49.0,52.0
+Agelaius phoeniceus_Red-winged Blackbird,0.15200599,50.0,53.0
+Zonotrichia atricapilla_Golden-crowned Sparrow,0.15982637,55.0,58.0
+Dolichonyx oryzivorus_Bobolink,0.12330305,56.0,59.0
+Ixobrychus exilis_Least Bittern,0.35325816,58.0,61.0
+Ixobrychus exilis_Least Bittern,0.31666028,59.0,62.0
+Empidonax traillii_Willow Flycatcher,0.10776582,59.0,62.0
+Ixobrychus exilis_Least Bittern,0.14085346,60.0,63.0
+Empidonax traillii_Willow Flycatcher,0.114329375,60.0,63.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14947702,61.0,63.43201814058957
+Ixobrychus exilis_Least Bittern,0.12602375,61.0,63.43201814058957
+Empidonax traillii_Willow Flycatcher,0.10874267,61.0,63.43201814058957
