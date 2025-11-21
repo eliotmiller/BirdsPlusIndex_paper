@@ -1,0 +1,9 @@
+species_code,score,start_offset_sec,end_offset_sec
+bird1,0.9995963,0.0,3.0
+wesmea,0.9936121,0.0,3.0
+bird1,0.9992558,1.0,4.0
+wesmea,0.98657316,1.0,4.0
+easmea,0.01088797,1.0,4.0
+bird1,0.6238723,2.0,5.0
+eurnig1,0.020042108,2.0,5.0
+cogwar1,0.1000597,2.0,5.0
