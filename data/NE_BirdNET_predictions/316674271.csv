@@ -1,0 +1,51 @@
+species,score,start_time,end_time
+Dumetella carolinensis_Gray Catbird,0.27169847,0.0,3.0
+Mergus merganser_Common Merganser,0.1726861,1.0,4.0
+Podilymbus podiceps_Pied-billed Grebe,0.19571698,3.0,6.0
+Podilymbus podiceps_Pied-billed Grebe,0.29304594,4.0,7.0
+Podilymbus podiceps_Pied-billed Grebe,0.19334297,5.0,8.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2557106,6.0,9.0
+Podilymbus podiceps_Pied-billed Grebe,0.43223047,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.14779465,7.0,10.0
+Podilymbus podiceps_Pied-billed Grebe,0.29371962,8.0,11.0
+Podilymbus podiceps_Pied-billed Grebe,0.41478062,9.0,12.0
+Melospiza melodia_Song Sparrow,0.12998435,11.0,14.0
+Melospiza melodia_Song Sparrow,0.26312792,12.0,15.0
+Melospiza melodia_Song Sparrow,0.32815945,13.0,16.0
+Icterus spurius_Orchard Oriole,0.1596956,15.0,18.0
+Icterus spurius_Orchard Oriole,0.5452291,16.0,19.0
+Melospiza melodia_Song Sparrow,0.15071622,16.0,19.0
+Icterus spurius_Orchard Oriole,0.3661198,17.0,20.0
+Vireo gilvus_Warbling Vireo,0.10849642,17.0,20.0
+Vireo philadelphicus_Philadelphia Vireo,0.364628,18.0,21.0
+Fulica americana_American Coot,0.12361802,19.0,22.0
+Podilymbus podiceps_Pied-billed Grebe,0.11299123,19.0,22.0
+Lithobates clamitans_Green Frog,0.15556693,20.0,23.0
+Fulica americana_American Coot,0.118804984,20.0,23.0
+Lithobates clamitans_Green Frog,0.3246375,21.0,24.0
+Podilymbus podiceps_Pied-billed Grebe,0.1476343,21.0,24.0
+Icterus spurius_Orchard Oriole,0.10561231,22.0,25.0
+Icterus spurius_Orchard Oriole,0.27522045,23.0,26.0
+Podilymbus podiceps_Pied-billed Grebe,0.11128882,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10329624,24.0,27.0
+Podilymbus podiceps_Pied-billed Grebe,0.3354373,27.0,30.0
+Melospiza melodia_Song Sparrow,0.14473848,29.0,32.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.12855917,29.0,32.0
+Bucephala albeola_Bufflehead,0.1671246,30.0,33.0
+Bucephala albeola_Bufflehead,0.21270977,31.0,34.0
+Melospiza melodia_Song Sparrow,0.14979342,31.0,34.0
+Mergus merganser_Common Merganser,0.32097867,32.0,35.0
+Bucephala albeola_Bufflehead,0.29156366,32.0,35.0
+Podilymbus podiceps_Pied-billed Grebe,0.14223292,32.0,35.0
+Mergus merganser_Common Merganser,0.15796098,33.0,36.0
+Bucephala albeola_Bufflehead,0.12014449,33.0,36.0
+Icterus spurius_Orchard Oriole,0.3722264,34.0,37.0
+Icterus spurius_Orchard Oriole,0.20474136,35.0,38.0
+Mergus merganser_Common Merganser,0.10449009,35.0,38.0
+Icterus spurius_Orchard Oriole,0.4457678,36.0,39.0
+Dumetella carolinensis_Gray Catbird,0.12152294,36.0,39.0
+Bucephala albeola_Bufflehead,0.15496498,38.0,41.0
+Icterus spurius_Orchard Oriole,0.15315142,40.0,43.0
+Dolichonyx oryzivorus_Bobolink,0.13362895,40.0,43.0
+Vireo vicinior_Gray Vireo,0.1397337,41.0,44.0
+Icterus spurius_Orchard Oriole,0.3024822,42.0,44.448027210884355

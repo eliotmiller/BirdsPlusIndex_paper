@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Setophaga americana_Northern Parula,0.27137098,0.0,3.0
+Leiothlypis celata_Orange-crowned Warbler,0.22470023,0.0,3.0
+Setophaga americana_Northern Parula,0.5198896,1.0,4.0
+Setophaga americana_Northern Parula,0.9853662,2.0,5.0
+Setophaga americana_Northern Parula,0.9822222,3.0,6.0
+Setophaga americana_Northern Parula,0.9854512,4.0,7.0
+Bombycilla cedrorum_Cedar Waxwing,0.44403318,5.0,8.0
+Bombycilla cedrorum_Cedar Waxwing,0.6436163,6.0,9.0
+Bonasa umbellus_Ruffed Grouse,0.3993234,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.13121657,8.0,11.0
+Bonasa umbellus_Ruffed Grouse,0.13841337,9.0,12.0
+Bombycilla cedrorum_Cedar Waxwing,0.46667644,10.0,13.0
+Setophaga americana_Northern Parula,0.18890041,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33088827,12.0,15.0
+Setophaga americana_Northern Parula,0.29736418,12.0,15.0
+Setophaga americana_Northern Parula,0.86839193,13.0,16.0
+Setophaga americana_Northern Parula,0.705544,14.0,17.0
+Setophaga americana_Northern Parula,0.79030794,15.0,18.0
+Bombycilla cedrorum_Cedar Waxwing,0.12475825,16.0,19.0
+Bombycilla cedrorum_Cedar Waxwing,0.8305783,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1082994,17.0,20.0
+Bombycilla cedrorum_Cedar Waxwing,0.88164485,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.118533574,18.0,21.0
+Bombycilla cedrorum_Cedar Waxwing,0.9172875,19.0,22.0
+Bombycilla cedrorum_Cedar Waxwing,0.9851612,20.0,23.0
+Bombycilla cedrorum_Cedar Waxwing,0.9765608,21.0,24.0
+Bombycilla cedrorum_Cedar Waxwing,0.98761976,22.0,25.0
+Bombycilla cedrorum_Cedar Waxwing,0.73422086,23.0,26.0
+Setophaga americana_Northern Parula,0.14006083,24.0,27.0
+Setophaga americana_Northern Parula,0.6878037,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11359903,25.0,28.0
+Setophaga americana_Northern Parula,0.9424123,26.0,29.0
+Setophaga americana_Northern Parula,0.8324193,27.0,30.0
+Setophaga ruticilla_American Redstart,0.15561487,28.0,31.0
+Cardellina pusilla_Wilson's Warbler,0.14533204,28.0,31.0
+Myioborus miniatus_Slate-throated Redstart,0.13170725,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.1133155,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.19071984,30.0,33.0
+Poecile rufescens_Chestnut-backed Chickadee,0.10676328,34.0,37.0
+Bombycilla cedrorum_Cedar Waxwing,0.27906534,35.0,38.0
+Bombycilla cedrorum_Cedar Waxwing,0.14988527,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10285455,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.10086634,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10214415,40.0,43.0
+Setophaga americana_Northern Parula,0.7419958,41.0,44.0
+Setophaga americana_Northern Parula,0.70586294,42.0,45.0
+Setophaga americana_Northern Parula,0.80100363,43.0,46.0
+Oreothlypis superciliosa_Crescent-chested Warbler,0.13687532,45.0,48.0
+Setophaga americana_Northern Parula,0.18823844,49.0,52.0
+Setophaga americana_Northern Parula,0.33555216,50.0,53.0
+Setophaga americana_Northern Parula,0.7056159,51.0,54.0
+Setophaga americana_Northern Parula,0.70424765,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12676702,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14530163,56.0,59.0
+Setophaga americana_Northern Parula,0.9529816,57.0,60.0
+Setophaga americana_Northern Parula,0.7909394,58.0,61.0
+Setophaga americana_Northern Parula,0.82643217,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.16861343,66.0,69.0
+Setophaga americana_Northern Parula,0.14598069,66.0,69.0
+Setophaga americana_Northern Parula,0.94235855,67.0,70.0
+Setophaga americana_Northern Parula,0.870915,68.0,71.0
+Setophaga americana_Northern Parula,0.8215377,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2322626,69.0,72.0
+Setophaga coronata_Yellow-rumped Warbler,0.1363569,70.0,73.0
+Picoides arcticus_Black-backed Woodpecker,0.10606826,70.0,73.0
+Setophaga americana_Northern Parula,0.24860479,73.0,76.0
+Setophaga americana_Northern Parula,0.26742312,74.0,77.0
+Setophaga americana_Northern Parula,0.3696055,75.0,78.0
+Setophaga americana_Northern Parula,0.52207065,76.0,79.0
+Setophaga ruticilla_American Redstart,0.116834074,76.0,79.0

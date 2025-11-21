@@ -1,0 +1,142 @@
+species,score,start_time,end_time
+Geothlypis tolmiei_MacGillivray's Warbler,0.27661473,0.0,3.0
+Setophaga coronata_Yellow-rumped Warbler,0.16943023,0.0,3.0
+Passerina cyanea_Indigo Bunting,0.32750598,1.0,4.0
+Passerina versicolor_Varied Bunting,0.110644646,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.106291234,3.0,6.0
+Empidonax minimus_Least Flycatcher,0.39415506,4.0,7.0
+Cardinalis sinuatus_Pyrrhuloxia,0.13600132,4.0,7.0
+Empidonax minimus_Least Flycatcher,0.2124097,5.0,8.0
+Passerina cyanea_Indigo Bunting,0.19206831,5.0,8.0
+Empidonax minimus_Least Flycatcher,0.22015047,7.0,10.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.1735563,8.0,11.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.23901395,9.0,12.0
+Phylloscopus borealis_Arctic Warbler,0.22181982,13.0,16.0
+Phylloscopus borealis_Arctic Warbler,0.12541889,17.0,20.0
+Corvus ossifragus_Fish Crow,0.11501533,22.0,25.0
+Corvus ossifragus_Fish Crow,0.29659066,23.0,26.0
+Engine_Engine,0.24177617,27.0,30.0
+Siren_Siren,0.13442531,27.0,30.0
+Siren_Siren,0.23305245,28.0,31.0
+Engine_Engine,0.2050158,28.0,31.0
+Siren_Siren,0.19515218,29.0,32.0
+Engine_Engine,0.187658,29.0,32.0
+Siren_Siren,0.18757598,30.0,33.0
+Engine_Engine,0.18330215,30.0,33.0
+Engine_Engine,0.27539527,31.0,34.0
+Engine_Engine,0.38118595,32.0,35.0
+Engine_Engine,0.21571286,33.0,36.0
+Engine_Engine,0.17917441,36.0,39.0
+Human vocal_Human vocal,0.17657228,36.0,39.0
+Human vocal_Human vocal,0.412659,37.0,40.0
+Engine_Engine,0.10152953,37.0,40.0
+Regulus satrapa_Golden-crowned Kinglet,0.19228962,42.0,45.0
+Engine_Engine,0.16785038,47.0,50.0
+Engine_Engine,0.29298687,48.0,51.0
+Human vocal_Human vocal,0.110957585,48.0,51.0
+Engine_Engine,0.38795003,49.0,52.0
+Engine_Engine,0.16289158,52.0,55.0
+Engine_Engine,0.24528925,53.0,56.0
+Engine_Engine,0.25211185,54.0,57.0
+Engine_Engine,0.18133906,57.0,60.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1513109,61.0,64.0
+Ictinia mississippiensis_Mississippi Kite,0.27586043,84.0,87.0
+Accipiter cooperii_Cooper's Hawk,0.13591212,84.0,87.0
+Elanoides forficatus_Swallow-tailed Kite,0.110716484,84.0,87.0
+Ictinia mississippiensis_Mississippi Kite,0.3319624,85.0,88.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.6326532,113.0,116.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.17954564,114.0,117.0
+Sayornis nigricans_Black Phoebe,0.10221784,114.0,117.0
+Elanoides forficatus_Swallow-tailed Kite,0.15453155,118.0,121.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.26445338,119.0,122.0
+Elanoides forficatus_Swallow-tailed Kite,0.1383402,119.0,122.0
+Sayornis nigricans_Black Phoebe,0.82717144,120.0,123.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.15155812,120.0,123.0
+Sayornis nigricans_Black Phoebe,0.69757503,121.0,124.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.15810308,121.0,124.0
+Sayornis nigricans_Black Phoebe,0.8544736,122.0,125.0
+Sayornis nigricans_Black Phoebe,0.6160613,123.0,126.0
+Sayornis nigricans_Black Phoebe,0.37027392,124.0,127.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.12408072,124.0,127.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.49298152,125.0,128.0
+Sayornis nigricans_Black Phoebe,0.18427211,125.0,128.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.1701825,126.0,129.0
+Sayornis nigricans_Black Phoebe,0.10745529,126.0,129.0
+Zosterops lateralis_Silvereye,0.18973473,129.0,132.0
+Zosterops lateralis_Silvereye,0.19297625,131.0,134.0
+Sayornis nigricans_Black Phoebe,0.13166264,136.0,139.0
+Sayornis nigricans_Black Phoebe,0.114424035,137.0,140.0
+Sayornis nigricans_Black Phoebe,0.20919028,138.0,141.0
+Elanoides forficatus_Swallow-tailed Kite,0.19235766,139.0,142.0
+Amaurornis moluccana_Pale-vented Bush-hen,0.12013932,141.0,144.0
+Cracticus nigrogularis_Pied Butcherbird,0.12512791,146.0,149.0
+Aegolius acadicus_Northern Saw-whet Owl,0.15922064,147.0,150.0
+Zosterops lateralis_Silvereye,0.27771765,151.0,154.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.28560743,152.0,155.0
+Sayornis nigricans_Black Phoebe,0.1041969,152.0,155.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13960762,153.0,156.0
+Chordeiles minor_Common Nighthawk,0.11881329,153.0,156.0
+Ictinia mississippiensis_Mississippi Kite,0.23849173,159.0,162.0
+Zenaida macroura_Mourning Dove,0.117891096,159.0,162.0
+Ictinia mississippiensis_Mississippi Kite,0.24600294,160.0,163.0
+Sayornis nigricans_Black Phoebe,0.44646475,161.0,164.0
+Sayornis nigricans_Black Phoebe,0.42584231,162.0,165.0
+Sayornis nigricans_Black Phoebe,0.16259015,163.0,166.0
+Engine_Engine,0.22948115,164.0,167.0
+Zosterops lateralis_Silvereye,0.14767754,167.0,170.0
+Engine_Engine,0.75356853,169.0,172.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.15168552,169.0,172.0
+Engine_Engine,0.8118447,170.0,173.0
+Sayornis nigricans_Black Phoebe,0.35978946,170.0,173.0
+Sayornis nigricans_Black Phoebe,0.5103141,171.0,174.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.3189054,171.0,174.0
+Engine_Engine,0.20220272,171.0,174.0
+Sayornis nigricans_Black Phoebe,0.7520628,172.0,175.0
+Engine_Engine,0.53289026,172.0,175.0
+Engine_Engine,0.38667443,173.0,176.0
+Sayornis nigricans_Black Phoebe,0.2616317,173.0,176.0
+Engine_Engine,0.3010444,174.0,177.0
+Sayornis nigricans_Black Phoebe,0.23258764,174.0,177.0
+Engine_Engine,0.22320844,175.0,178.0
+Engine_Engine,0.13409372,176.0,179.0
+Chordeiles minor_Common Nighthawk,0.14321567,177.0,180.0
+Engine_Engine,0.223807,178.0,181.0
+Engine_Engine,0.17430057,179.0,182.0
+Engine_Engine,0.17315777,180.0,183.0
+Engine_Engine,0.17513238,184.0,187.0
+Engine_Engine,0.51302946,186.0,189.0
+Engine_Engine,0.12838027,187.0,190.0
+Engine_Engine,0.10685035,188.0,191.0
+Engine_Engine,0.15628779,190.0,193.0
+Engine_Engine,0.28241503,191.0,194.0
+Engine_Engine,0.34934184,192.0,195.0
+Sitta pusilla_Brown-headed Nuthatch,0.13090426,196.0,199.0
+Passerina cyanea_Indigo Bunting,0.14600548,200.0,203.0
+Passerina cyanea_Indigo Bunting,0.22106998,201.0,204.0
+Passerina ciris_Painted Bunting,0.11445607,201.0,204.0
+Contopus virens_Eastern Wood-Pewee,0.12661618,203.0,206.0
+Contopus virens_Eastern Wood-Pewee,0.39060915,204.0,207.0
+Ictinia mississippiensis_Mississippi Kite,0.11605304,205.0,208.0
+Engine_Engine,0.5752355,206.0,209.0
+Engine_Engine,0.14206488,208.0,211.0
+Sayornis nigricans_Black Phoebe,0.23667066,210.0,213.0
+Engine_Engine,0.23352712,210.0,213.0
+Sayornis nigricans_Black Phoebe,0.2995842,211.0,214.0
+Columba livia_Rock Pigeon,0.1427089,212.0,215.0
+Geotrygon montana_Ruddy Quail-Dove,0.13119179,213.0,216.0
+Contopus virens_Eastern Wood-Pewee,0.55931926,220.0,223.0
+Contopus virens_Eastern Wood-Pewee,0.44683558,221.0,224.0
+Contopus virens_Eastern Wood-Pewee,0.38800332,222.0,225.0
+Engine_Engine,0.10002145,227.0,230.0
+Engine_Engine,0.1300143,228.0,231.0
+Accipiter cooperii_Cooper's Hawk,0.45713198,233.0,236.0
+Ictinia mississippiensis_Mississippi Kite,0.17142999,233.0,236.0
+Contopus virens_Eastern Wood-Pewee,0.119459845,233.0,236.0
+Accipiter cooperii_Cooper's Hawk,0.4537536,234.0,237.0
+Contopus virens_Eastern Wood-Pewee,0.13288452,234.0,237.0
+Ictinia mississippiensis_Mississippi Kite,0.82192385,235.0,238.0
+Accipiter cooperii_Cooper's Hawk,0.26753777,235.0,238.0
+Orchelimum pulchellum_Handsome Meadow Katydid,0.13352294,236.0,239.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.116148874,241.0,244.0
+Contopus virens_Eastern Wood-Pewee,0.37521574,252.0,255.0
+Contopus virens_Eastern Wood-Pewee,0.14081307,253.0,256.0

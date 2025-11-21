@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Vireo flavifrons_Yellow-throated Vireo,0.4743436,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.40497494,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17153935,0.0,3.0
+Leiothlypis peregrina_Tennessee Warbler,0.2086796,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.19005673,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.14955518,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.37891,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.7192013,3.0,6.0
+Vireo flavifrons_Yellow-throated Vireo,0.15479061,4.0,7.0
+Vireo flavifrons_Yellow-throated Vireo,0.61336994,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.114468515,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.47033483,6.0,9.0
+Catharus minimus_Gray-cheeked Thrush,0.12462899,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.29332727,7.0,10.0
+Vireo flavifrons_Yellow-throated Vireo,0.46470746,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.1228112,8.0,11.0
+Vireo flavifrons_Yellow-throated Vireo,0.3500902,9.0,12.0
+Vireo cassinii_Cassin's Vireo,0.14454715,9.0,12.0
+Catharus minimus_Gray-cheeked Thrush,0.12989908,9.0,12.0
+Vireo flavifrons_Yellow-throated Vireo,0.20641063,10.0,13.0
+Vireo flavifrons_Yellow-throated Vireo,0.4893746,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.13437663,11.0,14.0
+Vireo flavifrons_Yellow-throated Vireo,0.73886466,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.106063254,12.0,15.0
+Vireo flavifrons_Yellow-throated Vireo,0.80617064,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.16042632,13.0,16.0
+Vireo flavifrons_Yellow-throated Vireo,0.42914253,14.0,17.0
+Vireo flavifrons_Yellow-throated Vireo,0.7372743,15.0,18.0
+Vireo flavifrons_Yellow-throated Vireo,0.34935617,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.16725785,16.0,19.0
+Vireo flavifrons_Yellow-throated Vireo,0.40299287,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.3609439,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12154472,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.10162664,17.0,20.0
+Vireo flavifrons_Yellow-throated Vireo,0.2452145,18.0,21.0
+Catharus minimus_Gray-cheeked Thrush,0.11187973,18.0,21.0
+Vireo flavifrons_Yellow-throated Vireo,0.64509714,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.26825038,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.17101352,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.9457452,21.0,24.0
+Vireo flavifrons_Yellow-throated Vireo,0.8408807,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.16122243,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.11281306,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14996108,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.13790387,24.0,27.0
+Vireo flavifrons_Yellow-throated Vireo,0.47060123,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.19471668,25.0,28.0
+Vireo flavifrons_Yellow-throated Vireo,0.24551149,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.1455509,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13932702,26.0,29.0
+Vireo flavifrons_Yellow-throated Vireo,0.49631235,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.1048678,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10477495,27.0,30.0
+Vireo flavifrons_Yellow-throated Vireo,0.5122264,28.0,31.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1361548,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.8305811,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.91759306,31.0,34.0
+Vireo flavifrons_Yellow-throated Vireo,0.8028222,32.0,35.0
+Vireo flavifrons_Yellow-throated Vireo,0.9074811,33.0,36.0
+Vireo flavifrons_Yellow-throated Vireo,0.7427244,34.0,37.0
+Vireo solitarius_Blue-headed Vireo,0.125068,34.0,37.0
+Vireo flavifrons_Yellow-throated Vireo,0.89973944,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.1032241,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.1585604,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.143569,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10053955,36.0,39.0
+Piranga olivacea_Scarlet Tanager,0.24598344,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108829215,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.108557925,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.17196658,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.115748875,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113597594,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.7978508,39.0,42.0
+Vireo flavifrons_Yellow-throated Vireo,0.6908989,40.0,43.0
+Vireo flavifrons_Yellow-throated Vireo,0.6672043,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.1253787,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10879209,41.0,44.0
+Vireo flavifrons_Yellow-throated Vireo,0.8241061,42.0,45.0
+Vireo flavifrons_Yellow-throated Vireo,0.71636474,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.31192592,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21272194,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.19192928,44.0,47.0
+Vireo flavifrons_Yellow-throated Vireo,0.12184469,44.0,47.0
+Vireo flavifrons_Yellow-throated Vireo,0.30622864,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.23378417,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.21048962,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20299578,45.0,48.0
+Vireo flavifrons_Yellow-throated Vireo,0.91032314,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.25815096,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.119172804,47.0,50.0
+Vireo flavifrons_Yellow-throated Vireo,0.7153486,49.0,52.0
+Vireo flavifrons_Yellow-throated Vireo,0.7382695,50.0,53.0
+Vireo flavifrons_Yellow-throated Vireo,0.9327551,51.0,54.0

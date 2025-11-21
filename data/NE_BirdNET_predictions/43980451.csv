@@ -1,0 +1,125 @@
+species,score,start_time,end_time
+Junco phaeonotus_Yellow-eyed Junco,0.17889597,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.13080516,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.9855121,2.0,5.0
+Junco phaeonotus_Yellow-eyed Junco,0.41339365,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.9933662,3.0,6.0
+Junco phaeonotus_Yellow-eyed Junco,0.44328254,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.92538726,4.0,7.0
+Junco phaeonotus_Yellow-eyed Junco,0.32485753,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12389517,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.7332191,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.12087822,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106456235,8.0,11.0
+Junco hyemalis_Dark-eyed Junco,0.98536575,9.0,12.0
+Junco phaeonotus_Yellow-eyed Junco,0.53044456,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.9961273,10.0,13.0
+Junco phaeonotus_Yellow-eyed Junco,0.4028156,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.9939038,11.0,14.0
+Junco phaeonotus_Yellow-eyed Junco,0.5891118,11.0,14.0
+Junco phaeonotus_Yellow-eyed Junco,0.7883589,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.7151191,12.0,15.0
+Peucaea aestivalis_Bachman's Sparrow,0.32091683,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.981753,16.0,19.0
+Junco phaeonotus_Yellow-eyed Junco,0.862557,16.0,19.0
+Junco hyemalis_Dark-eyed Junco,0.99818283,17.0,20.0
+Junco phaeonotus_Yellow-eyed Junco,0.70532167,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.99792516,18.0,21.0
+Junco phaeonotus_Yellow-eyed Junco,0.53432244,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.9413962,19.0,22.0
+Junco phaeonotus_Yellow-eyed Junco,0.6298233,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.4284715,20.0,23.0
+Junco phaeonotus_Yellow-eyed Junco,0.8798529,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.12999062,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.98051894,22.0,25.0
+Junco phaeonotus_Yellow-eyed Junco,0.74546355,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.9958008,23.0,26.0
+Junco phaeonotus_Yellow-eyed Junco,0.81036574,23.0,26.0
+Junco hyemalis_Dark-eyed Junco,0.9873992,24.0,27.0
+Junco phaeonotus_Yellow-eyed Junco,0.29113132,24.0,27.0
+Junco phaeonotus_Yellow-eyed Junco,0.540917,25.0,28.0
+Empidonax occidentalis_Cordilleran Flycatcher,0.10021763,25.0,28.0
+Setophaga graciae_Grace's Warbler,0.110837415,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.65590894,29.0,32.0
+Junco phaeonotus_Yellow-eyed Junco,0.23257035,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.9874599,30.0,33.0
+Junco phaeonotus_Yellow-eyed Junco,0.50595266,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.9639062,31.0,34.0
+Junco phaeonotus_Yellow-eyed Junco,0.2380286,31.0,34.0
+Junco hyemalis_Dark-eyed Junco,0.5169587,32.0,35.0
+Peucaea aestivalis_Bachman's Sparrow,0.47195247,32.0,35.0
+Junco phaeonotus_Yellow-eyed Junco,0.23362347,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.8019857,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13958973,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.10998189,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.6556839,38.0,41.0
+Buteo platypterus_Broad-winged Hawk,0.11092887,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.83084524,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.5149053,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.18557768,40.0,43.0
+Setophaga occidentalis_Hermit Warbler,0.11097653,40.0,43.0
+Buteo platypterus_Broad-winged Hawk,0.10953115,40.0,43.0
+Buteo platypterus_Broad-winged Hawk,0.6561115,41.0,44.0
+Ixoreus naevius_Varied Thrush,0.11172974,41.0,44.0
+Certhia americana_Brown Creeper,0.10950507,41.0,44.0
+Setophaga graciae_Grace's Warbler,0.1233103,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.13601731,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.28196195,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.15091512,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.20074736,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.12600721,47.0,50.0
+Piranga olivacea_Scarlet Tanager,0.1044267,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.15873533,48.0,51.0
+Buteo platypterus_Broad-winged Hawk,0.11804226,48.0,51.0
+Buteo platypterus_Broad-winged Hawk,0.33329675,49.0,52.0
+Setophaga graciae_Grace's Warbler,0.11902074,52.0,55.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112285465,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.37384456,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.1438075,55.0,58.0
+Emberiza rustica_Rustic Bunting,0.17638561,57.0,60.0
+Buteo platypterus_Broad-winged Hawk,0.4763998,64.0,67.0
+Artemisiospiza belli_Bell's Sparrow,0.1876432,67.0,70.0
+Emberiza rustica_Rustic Bunting,0.46255434,68.0,71.0
+Artemisiospiza belli_Bell's Sparrow,0.15244164,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.36139962,72.0,75.0
+Setophaga virens_Black-throated Green Warbler,0.43269864,73.0,76.0
+Setophaga virens_Black-throated Green Warbler,0.26244774,74.0,77.0
+Piranga olivacea_Scarlet Tanager,0.20916915,78.0,81.0
+Melopyrrha violacea_Greater Antillean Bullfinch,0.15970404,79.0,82.0
+Melopyrrha violacea_Greater Antillean Bullfinch,0.12311476,80.0,83.0
+Setophaga fusca_Blackburnian Warbler,0.12316803,81.0,84.0
+Emberiza rustica_Rustic Bunting,0.15294889,84.0,87.0
+Artemisiospiza belli_Bell's Sparrow,0.4086609,86.0,89.0
+Emberiza rustica_Rustic Bunting,0.3683971,86.0,89.0
+Artemisiospiza belli_Bell's Sparrow,0.12019019,87.0,90.0
+Emberiza cirlus_Cirl Bunting,0.14692779,89.0,92.0
+Peucaea aestivalis_Bachman's Sparrow,0.118976004,89.0,92.0
+Passerculus sandwichensis_Savannah Sparrow,0.2773536,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.24430531,91.0,94.0
+Buteo platypterus_Broad-winged Hawk,0.23266268,92.0,95.0
+Emberiza cirlus_Cirl Bunting,0.20086227,96.0,99.0
+Spizella pusilla_Field Sparrow,0.18710157,96.0,99.0
+Peucaea aestivalis_Bachman's Sparrow,0.18608932,96.0,99.0
+Setophaga fusca_Blackburnian Warbler,0.3927704,97.0,100.0
+Setophaga tigrina_Cape May Warbler,0.11112689,97.0,100.0
+Setophaga fusca_Blackburnian Warbler,0.21051474,98.0,101.0
+Setophaga virens_Black-throated Green Warbler,0.31995735,99.0,102.0
+Setophaga virens_Black-throated Green Warbler,0.22783248,100.0,103.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10068477,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.38246453,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.16525412,108.0,111.0
+Setophaga virens_Black-throated Green Warbler,0.84414345,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13237767,114.0,117.0
+Setophaga virens_Black-throated Green Warbler,0.6244535,115.0,118.0
+Setophaga virens_Black-throated Green Warbler,0.63322616,116.0,119.0
+Setophaga cerulea_Cerulean Warbler,0.11668976,116.0,119.0
+Buteo platypterus_Broad-winged Hawk,0.115533344,117.0,120.0
+Setophaga virens_Black-throated Green Warbler,0.10927578,117.0,120.0
+Certhia americana_Brown Creeper,0.11310777,120.0,123.0
+Buteo ridgwayi_Ridgway's Hawk,0.1050787,129.0,132.0
+Ramphocelus bresilius_Brazilian Tanager,0.100707136,134.0,137.0
+Buteo ridgwayi_Ridgway's Hawk,0.10061855,136.0,139.0
+Tamias striatus_Eastern Chipmunk,0.11533201,138.0,141.0
+Buteo ridgwayi_Ridgway's Hawk,0.11065511,138.0,141.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24796188,139.0,141.36
+Tamias striatus_Eastern Chipmunk,0.10931088,139.0,141.36

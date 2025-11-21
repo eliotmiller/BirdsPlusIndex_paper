@@ -1,0 +1,81 @@
+species,score,start_time,end_time
+Buteo jamaicensis_Red-tailed Hawk,0.98551524,0.0,3.0
+Buteo jamaicensis_Red-tailed Hawk,0.95770895,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.16389507,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.1331162,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11151266,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.11630517,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.27711836,5.0,8.0
+Buteo platypterus_Broad-winged Hawk,0.112482496,7.0,10.0
+Buteo platypterus_Broad-winged Hawk,0.15071751,8.0,11.0
+Buteo jamaicensis_Red-tailed Hawk,0.9779047,9.0,12.0
+Buteo jamaicensis_Red-tailed Hawk,0.99132067,10.0,13.0
+Buteo jamaicensis_Red-tailed Hawk,0.99626404,11.0,14.0
+Buteo jamaicensis_Red-tailed Hawk,0.5523981,12.0,15.0
+Bombycilla cedrorum_Cedar Waxwing,0.4225179,13.0,16.0
+Bombycilla cedrorum_Cedar Waxwing,0.17533739,14.0,17.0
+Buteo jamaicensis_Red-tailed Hawk,0.9928477,15.0,18.0
+Buteo jamaicensis_Red-tailed Hawk,0.99440175,16.0,19.0
+Buteo jamaicensis_Red-tailed Hawk,0.9965455,17.0,20.0
+Cacatua galerita_Sulphur-crested Cockatoo,0.19694501,18.0,21.0
+Falcunculus frontatus_Crested Shrike-tit,0.43178058,22.0,25.0
+Cacomantis variolosus_Brush Cuckoo,0.2858992,22.0,25.0
+Buteo jamaicensis_Red-tailed Hawk,0.1590993,23.0,26.0
+Cacomantis variolosus_Brush Cuckoo,0.10508217,23.0,26.0
+Falcunculus frontatus_Crested Shrike-tit,0.473014,24.0,27.0
+Cacomantis variolosus_Brush Cuckoo,0.3212307,24.0,27.0
+Buteo jamaicensis_Red-tailed Hawk,0.5608671,25.0,28.0
+Larus delawarensis_Ring-billed Gull,0.10196086,25.0,28.0
+Buteo jamaicensis_Red-tailed Hawk,0.9679326,26.0,29.0
+Buteo jamaicensis_Red-tailed Hawk,0.98907745,27.0,30.0
+Buteo jamaicensis_Red-tailed Hawk,0.97773355,28.0,31.0
+Colluricincla harmonica_Gray Shrikethrush,0.12343841,30.0,33.0
+Buteo jamaicensis_Red-tailed Hawk,0.9878927,31.0,34.0
+Cyanocitta stelleri_Steller's Jay,0.27684778,31.0,34.0
+Buteo jamaicensis_Red-tailed Hawk,0.97837275,32.0,35.0
+Cyanocitta stelleri_Steller's Jay,0.20265456,32.0,35.0
+Buteo jamaicensis_Red-tailed Hawk,0.99218607,33.0,36.0
+Cyanocitta stelleri_Steller's Jay,0.20205197,33.0,36.0
+Buteo jamaicensis_Red-tailed Hawk,0.6486195,34.0,37.0
+Buteo jamaicensis_Red-tailed Hawk,0.921527,35.0,38.0
+Buteo jamaicensis_Red-tailed Hawk,0.9421405,36.0,39.0
+Buteo jamaicensis_Red-tailed Hawk,0.98411316,37.0,40.0
+Buteo jamaicensis_Red-tailed Hawk,0.95850724,43.0,46.0
+Buteo jamaicensis_Red-tailed Hawk,0.97570807,44.0,47.0
+Buteo jamaicensis_Red-tailed Hawk,0.88865036,45.0,48.0
+Buteo lineatus_Red-shouldered Hawk,0.1271799,45.0,48.0
+Buteo jamaicensis_Red-tailed Hawk,0.8040224,47.0,50.0
+Buteo jamaicensis_Red-tailed Hawk,0.99657,48.0,51.0
+Buteo jamaicensis_Red-tailed Hawk,0.99423134,49.0,52.0
+Buteo jamaicensis_Red-tailed Hawk,0.9959331,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12992378,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.12735547,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17942308,53.0,56.0
+Buteo jamaicensis_Red-tailed Hawk,0.9982285,54.0,57.0
+Buteo jamaicensis_Red-tailed Hawk,0.999328,55.0,58.0
+Buteo jamaicensis_Red-tailed Hawk,0.9974993,56.0,59.0
+Buteo jamaicensis_Red-tailed Hawk,0.21008335,57.0,60.0
+Buteo jamaicensis_Red-tailed Hawk,0.99564064,61.0,64.0
+Buteo jamaicensis_Red-tailed Hawk,0.9988518,62.0,65.0
+Buteo jamaicensis_Red-tailed Hawk,0.99744034,63.0,66.0
+Buteo jamaicensis_Red-tailed Hawk,0.9794596,64.0,67.0
+Buteo jamaicensis_Red-tailed Hawk,0.9670807,65.0,68.0
+Cyanocitta cristata_Blue Jay,0.51258785,65.0,68.0
+Buteo jamaicensis_Red-tailed Hawk,0.99590045,66.0,69.0
+Cyanocitta cristata_Blue Jay,0.25351492,66.0,69.0
+Buteo jamaicensis_Red-tailed Hawk,0.9972379,67.0,70.0
+Cyanocitta stelleri_Steller's Jay,0.18340431,67.0,70.0
+Cyanocitta cristata_Blue Jay,0.14012694,67.0,70.0
+Buteo jamaicensis_Red-tailed Hawk,0.99579394,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124355376,69.0,72.0
+Setophaga fusca_Blackburnian Warbler,0.1208497,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10802764,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.10774162,69.0,72.0
+Buteo jamaicensis_Red-tailed Hawk,0.9747581,72.0,75.0
+Buteo jamaicensis_Red-tailed Hawk,0.9955752,73.0,76.0
+Cyanocitta stelleri_Steller's Jay,0.14217025,73.0,76.0
+Buteo jamaicensis_Red-tailed Hawk,0.9868902,74.0,77.0
+Cyanocitta stelleri_Steller's Jay,0.18725164,74.0,77.0
+Buteo jamaicensis_Red-tailed Hawk,0.828471,75.0,77.30403628117914
+Parabuteo unicinctus_Harris's Hawk,0.16562687,75.0,77.30403628117914
+Busarellus nigricollis_Black-collared Hawk,0.13025023,75.0,77.30403628117914

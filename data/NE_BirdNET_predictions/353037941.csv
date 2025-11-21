@@ -1,0 +1,53 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.28266835,0.0,3.0
+Passer domesticus_House Sparrow,0.25368744,0.0,3.0
+Parus major_Great Tit,0.12619963,0.0,3.0
+Melospiza melodia_Song Sparrow,0.10787728,0.0,3.0
+Cardinalis cardinalis_Northern Cardinal,0.3744491,1.0,4.0
+Cardinalis cardinalis_Northern Cardinal,0.16990088,2.0,5.0
+Passer domesticus_House Sparrow,0.4831011,3.0,6.0
+Passer domesticus_House Sparrow,0.28540465,4.0,7.0
+Passer domesticus_House Sparrow,0.4147502,5.0,8.0
+Passer domesticus_House Sparrow,0.26885837,6.0,9.0
+Passer domesticus_House Sparrow,0.13920484,7.0,10.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9819464,12.0,15.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9913892,13.0,16.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9788739,14.0,17.0
+Passer domesticus_House Sparrow,0.5189559,15.0,18.0
+Passer domesticus_House Sparrow,0.38301697,16.0,19.0
+Passer domesticus_House Sparrow,0.14806896,17.0,20.0
+Passer domesticus_House Sparrow,0.22844428,18.0,21.0
+Passer domesticus_House Sparrow,0.13128898,19.0,22.0
+Haemorhous mexicanus_House Finch,0.100832246,19.0,22.0
+Passer domesticus_House Sparrow,0.3342212,20.0,23.0
+Haemorhous mexicanus_House Finch,0.16207959,20.0,23.0
+Passer domesticus_House Sparrow,0.15915935,21.0,24.0
+Passer domesticus_House Sparrow,0.12423337,22.0,25.0
+Passer domesticus_House Sparrow,0.14359942,23.0,26.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9512717,24.0,27.0
+Myiarchus crinitus_Great Crested Flycatcher,0.73168236,25.0,28.0
+Myiarchus crinitus_Great Crested Flycatcher,0.94435054,26.0,29.0
+Passer domesticus_House Sparrow,0.44338387,27.0,30.0
+Passer domesticus_House Sparrow,0.25502664,28.0,31.0
+Passer domesticus_House Sparrow,0.4146746,29.0,32.0
+Passer domesticus_House Sparrow,0.4828404,30.0,33.0
+Passer domesticus_House Sparrow,0.67468464,31.0,34.0
+Myiarchus crinitus_Great Crested Flycatcher,0.96502054,32.0,35.0
+Myiarchus crinitus_Great Crested Flycatcher,0.996473,33.0,36.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9976052,34.0,37.0
+Turdus merula_Eurasian Blackbird,0.43554983,36.0,39.0
+Regulus ignicapilla_Common Firecrest,0.32327184,36.0,39.0
+Turdus philomelos_Song Thrush,0.1075342,36.0,39.0
+Turdus merula_Eurasian Blackbird,0.42268014,37.0,40.0
+Erithacus rubecula_European Robin,0.12277389,37.0,40.0
+Turdus merula_Eurasian Blackbird,0.38611406,38.0,41.0
+Erithacus rubecula_European Robin,0.16429329,38.0,41.0
+Mareca falcata_Falcated Duck,0.10974576,40.0,43.0
+Myiarchus crinitus_Great Crested Flycatcher,0.97930247,47.0,50.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.13278398,47.0,50.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9159977,48.0,51.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9641297,49.0,52.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.16907589,49.0,52.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9927239,53.0,56.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9894462,54.0,57.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9775429,55.0,58.0
