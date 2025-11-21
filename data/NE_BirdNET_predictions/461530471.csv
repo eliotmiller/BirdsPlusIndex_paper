@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Strix varia_Barred Owl,0.12359703,0.0,3.0
+Strix varia_Barred Owl,0.15188771,1.0,4.0
+Parus minor_Japanese Tit,0.1463187,4.0,7.0
+Turdus migratorius_American Robin,0.10600621,5.0,8.0
+Catharus minimus_Gray-cheeked Thrush,0.14555475,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1279804,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.108634464,7.0,10.0
+Strix varia_Barred Owl,0.5070929,10.0,13.0
+Strix varia_Barred Owl,0.4640037,11.0,14.0
+Strix varia_Barred Owl,0.9966354,12.0,15.0
+Buteo platypterus_Broad-winged Hawk,0.23059715,14.0,17.0
+Buteo platypterus_Broad-winged Hawk,0.10969557,15.0,18.0
+Hylocichla mustelina_Wood Thrush,0.105787806,17.0,20.0
+Turdus migratorius_American Robin,0.31255737,18.0,21.0
+Turdus migratorius_American Robin,0.11638854,19.0,22.0
+Turdus migratorius_American Robin,0.1594769,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.15325168,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.13159887,23.0,26.0
+Buteo platypterus_Broad-winged Hawk,0.17663182,24.0,27.0
+Buteo platypterus_Broad-winged Hawk,0.2800431,25.0,28.0
+Atelornis crossleyi_Rufous-headed Ground-Roller,0.1947693,27.0,30.0
+Buteo platypterus_Broad-winged Hawk,0.29791012,32.0,35.0
+Buteo platypterus_Broad-winged Hawk,0.36630803,33.0,36.0
+Turdus migratorius_American Robin,0.17084782,34.0,37.0
+Buteo platypterus_Broad-winged Hawk,0.1660557,34.0,37.0
+Buteo platypterus_Broad-winged Hawk,0.19184159,35.0,38.0
+Strix occidentalis_Spotted Owl,0.20362411,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.82804155,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.8434897,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.8902684,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.82170445,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.76905745,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.65044415,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.6825039,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.10177578,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.5221473,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.13656579,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.51505995,55.0,58.0
+Ninox boobook_Southern Boobook,0.13276757,63.0,66.0
+Zoothera aurea_White's Thrush,0.18319006,65.0,68.0
+Strix varia_Barred Owl,0.5703893,72.0,75.0
+Strix varia_Barred Owl,0.33054787,73.0,76.0
+Strix varia_Barred Owl,0.7925743,74.0,77.0
+Strix varia_Barred Owl,0.9927093,75.0,78.0
+Strix varia_Barred Owl,0.99546486,76.0,79.0
+Tauraco livingstonii_Livingstone's Turaco,0.1669093,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.55538166,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15464076,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.6823395,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.10486341,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.74438775,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.6658426,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.7349536,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.64096326,86.0,89.0
+Catharus guttatus_Hermit Thrush,0.4652035,87.0,90.0
+Catharus guttatus_Hermit Thrush,0.10565107,88.0,91.0
+Catharus guttatus_Hermit Thrush,0.45518628,91.0,94.0
+Hylocichla mustelina_Wood Thrush,0.20102535,91.0,94.0
+Catharus guttatus_Hermit Thrush,0.56375086,92.0,95.0
+Catharus guttatus_Hermit Thrush,0.7302944,93.0,96.0
+Hylocichla mustelina_Wood Thrush,0.11709003,94.0,97.0
+Hylocichla mustelina_Wood Thrush,0.1793184,98.0,101.0
+Aegolius funereus_Boreal Owl,0.65894425,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.47905666,110.0,113.0
+Seiurus aurocapilla_Ovenbird,0.6417237,111.0,114.0
+Seiurus aurocapilla_Ovenbird,0.5876019,112.0,115.0
+Seiurus aurocapilla_Ovenbird,0.61593354,113.0,116.0
+Seiurus aurocapilla_Ovenbird,0.44622904,114.0,117.0
+Seiurus aurocapilla_Ovenbird,0.6272854,115.0,118.0
+Seiurus aurocapilla_Ovenbird,0.20085363,116.0,119.0

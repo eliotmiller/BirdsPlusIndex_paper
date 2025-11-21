@@ -1,0 +1,68 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.1581097,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23549818,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8425132,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.11539749,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9887143,3.0,6.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9723468,4.0,7.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9123965,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21569833,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.14125519,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1740132,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.12734276,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18421215,8.0,11.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.17858376,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15953603,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1025212,10.0,13.0
+Perisoreus canadensis_Canada Jay,0.24074145,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8688037,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.94332147,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.97017336,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.7567321,18.0,21.0
+Perisoreus canadensis_Canada Jay,0.33522364,19.0,22.0
+Lampornis sybillae_Green-breasted Mountain-gem,0.109971285,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9004034,23.0,26.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9803846,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9734297,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25329143,26.0,29.0
+Perisoreus canadensis_Canada Jay,0.15947555,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.17522433,29.0,32.0
+Tamias striatus_Eastern Chipmunk,0.11481492,33.0,36.0
+Catharus fuscescens_Veery,0.8553621,37.0,40.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.88866043,38.0,41.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.98022515,39.0,42.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9929501,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.55789065,41.0,44.0
+Catharus fuscescens_Veery,0.4743143,42.0,45.0
+Catharus fuscescens_Veery,0.9220869,43.0,46.0
+Catharus fuscescens_Veery,0.40169778,44.0,47.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.8007054,45.0,48.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99128824,46.0,49.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9948999,47.0,50.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99092335,48.0,51.0
+Catharus fuscescens_Veery,0.54507995,49.0,52.0
+Catharus fuscescens_Veery,0.8349779,50.0,53.0
+Catharus fuscescens_Veery,0.93049276,51.0,54.0
+Catharus fuscescens_Veery,0.18524577,52.0,55.0
+Ficedula zanthopygia_Yellow-rumped Flycatcher,0.11575879,52.0,55.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5789542,53.0,56.0
+Setophaga pitiayumi_Tropical Parula,0.47001585,53.0,56.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99444276,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99329835,55.0,58.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.88224065,56.0,59.0
+Setophaga petechia_Yellow Warbler,0.4124157,56.0,59.0
+Melospiza melodia_Song Sparrow,0.13690782,57.0,60.0
+Vermivora chrysoptera_Golden-winged Warbler,0.12209102,58.0,61.0
+Melospiza melodia_Song Sparrow,0.10155877,58.0,61.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9321232,60.0,63.0
+Setophaga pitiayumi_Tropical Parula,0.30071935,60.0,63.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9938704,61.0,64.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9898963,62.0,65.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9725361,63.0,66.0
+Saltator similis_Green-winged Saltator,0.18704824,66.0,69.0
+Paroaria coronata_Red-crested Cardinal,0.10226062,67.0,70.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9468159,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.96328217,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9781296,70.0,73.0
+Catharus fuscescens_Veery,0.3510392,71.0,74.0
+Catharus fuscescens_Veery,0.6663433,72.0,74.13600907029479

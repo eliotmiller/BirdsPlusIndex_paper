@@ -1,0 +1,42 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.9897398,0.0,3.0
+Ardea cinerea_Gray Heron,0.6058976,0.0,3.0
+Ardea herodias_Great Blue Heron,0.9421628,1.0,4.0
+Ardea cinerea_Gray Heron,0.10514434,1.0,4.0
+Ardea herodias_Great Blue Heron,0.5428096,2.0,5.0
+Ardea herodias_Great Blue Heron,0.26279423,3.0,6.0
+Ardea herodias_Great Blue Heron,0.80895644,4.0,7.0
+Ortalis vetula_Plain Chachalaca,0.44541937,4.0,7.0
+Ardea herodias_Great Blue Heron,0.9632863,5.0,8.0
+Ardea cinerea_Gray Heron,0.2683364,5.0,8.0
+Ardea purpurea_Purple Heron,0.14981535,5.0,8.0
+Ardea herodias_Great Blue Heron,0.99007446,6.0,9.0
+Ardea cinerea_Gray Heron,0.2880095,6.0,9.0
+Ardea purpurea_Purple Heron,0.12603745,6.0,9.0
+Ardea herodias_Great Blue Heron,0.97538674,7.0,10.0
+Ardea cinerea_Gray Heron,0.10438216,7.0,10.0
+Dumetella carolinensis_Gray Catbird,0.3949737,8.0,11.0
+Dumetella carolinensis_Gray Catbird,0.8816035,9.0,12.0
+Toxostoma rufum_Brown Thrasher,0.140027,9.0,12.0
+Dumetella carolinensis_Gray Catbird,0.61898214,10.0,13.0
+Toxostoma rufum_Brown Thrasher,0.12971404,10.0,13.0
+Dumetella carolinensis_Gray Catbird,0.7935704,11.0,14.0
+Toxostoma rufum_Brown Thrasher,0.21279833,11.0,14.0
+Dumetella carolinensis_Gray Catbird,0.5592953,12.0,15.0
+Dumetella carolinensis_Gray Catbird,0.102088965,13.0,16.0
+Dumetella carolinensis_Gray Catbird,0.13435532,18.0,21.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.27150235,19.0,22.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.3231166,20.0,23.0
+Dumetella carolinensis_Gray Catbird,0.14204448,24.0,27.0
+Pheucticus chrysopeplus_Yellow Grosbeak,0.10366136,26.0,29.0
+Petrochelidon fulva_Cave Swallow,0.32650724,28.0,31.0
+Dumetella carolinensis_Gray Catbird,0.2049512,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.40042484,33.0,36.0
+Dumetella carolinensis_Gray Catbird,0.47730595,34.0,37.0
+Dumetella carolinensis_Gray Catbird,0.30505344,38.0,41.0
+Dumetella carolinensis_Gray Catbird,0.27163342,41.0,44.0
+Dumetella carolinensis_Gray Catbird,0.1315165,42.0,45.0
+Dumetella carolinensis_Gray Catbird,0.46868837,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.15082148,45.0,48.0
+Atlapetes albinucha_White-naped Brushfinch,0.10438463,51.0,54.0
+Icterus galbula_Baltimore Oriole,0.18286571,55.0,58.0

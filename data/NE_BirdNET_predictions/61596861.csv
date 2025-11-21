@@ -1,0 +1,87 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.31266403,0.0,3.0
+Catharus fuscescens_Veery,0.9946701,1.0,4.0
+Catharus fuscescens_Veery,0.99909186,2.0,5.0
+Catharus fuscescens_Veery,0.99929893,3.0,6.0
+Catharus fuscescens_Veery,0.9952964,4.0,7.0
+Catharus fuscescens_Veery,0.98209447,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.28435987,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.6665743,6.0,9.0
+Catharus fuscescens_Veery,0.98475754,7.0,10.0
+Catharus fuscescens_Veery,0.99609864,8.0,11.0
+Catharus fuscescens_Veery,0.9951498,9.0,12.0
+Catharus fuscescens_Veery,0.98991054,10.0,13.0
+Haemorhous purpureus_Purple Finch,0.50966346,11.0,14.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.22036694,11.0,14.0
+Catharus fuscescens_Veery,0.84388113,12.0,15.0
+Catharus fuscescens_Veery,0.99566036,13.0,16.0
+Catharus fuscescens_Veery,0.9998317,14.0,17.0
+Catharus fuscescens_Veery,0.99908185,15.0,18.0
+Catharus fuscescens_Veery,0.75827605,16.0,19.0
+Catharus guttatus_Hermit Thrush,0.114974305,16.0,19.0
+Pycnonotus jocosus_Red-whiskered Bulbul,0.11273263,16.0,19.0
+Catharus fuscescens_Veery,0.96603817,18.0,21.0
+Catharus fuscescens_Veery,0.99746966,19.0,22.0
+Catharus fuscescens_Veery,0.99365085,20.0,23.0
+Catharus fuscescens_Veery,0.9678363,21.0,24.0
+Haemorhous purpureus_Purple Finch,0.103834406,22.0,25.0
+Platycercus caledonicus_Green Rosella,0.13306923,23.0,26.0
+Acridotheres tristis_Common Myna,0.12077196,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10268989,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15628064,26.0,29.0
+Piranga ludoviciana_Western Tanager,0.25977358,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.13906848,28.0,31.0
+Haemorhous purpureus_Purple Finch,0.124568716,28.0,31.0
+Turdus infuscatus_Black Thrush,0.18457113,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.16665065,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.9106849,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.22478458,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.6853716,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.1463208,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.5812498,32.0,35.0
+Vireo carmioli_Yellow-winged Vireo,0.1026668,33.0,36.0
+Catharus fuscescens_Veery,0.45265,34.0,37.0
+Catharus fuscescens_Veery,0.9927053,35.0,38.0
+Catharus fuscescens_Veery,0.9988212,36.0,39.0
+Catharus fuscescens_Veery,0.9919584,37.0,40.0
+Catharus minimus_Gray-cheeked Thrush,0.78250575,38.0,41.0
+Catharus minimus_Gray-cheeked Thrush,0.41155133,39.0,42.0
+Catharus fuscescens_Veery,0.988086,40.0,43.0
+Catharus fuscescens_Veery,0.9959131,41.0,44.0
+Catharus fuscescens_Veery,0.9939367,42.0,45.0
+Catharus fuscescens_Veery,0.9755528,43.0,46.0
+Catharus fuscescens_Veery,0.47805592,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3008494,44.0,47.0
+Catharus fuscescens_Veery,0.97468776,45.0,48.0
+Catharus fuscescens_Veery,0.98460233,46.0,49.0
+Catharus fuscescens_Veery,0.9799801,47.0,50.0
+Poecile atricapillus_Black-capped Chickadee,0.14933011,50.0,53.0
+Catharus fuscescens_Veery,0.13682318,51.0,54.0
+Orthotomus atrogularis_Dark-necked Tailorbird,0.19802903,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2968908,53.0,56.0
+Catharus fuscescens_Veery,0.18105584,53.0,56.0
+Hylocichla mustelina_Wood Thrush,0.19762582,54.0,57.0
+Setophaga ruticilla_American Redstart,0.16525616,54.0,57.0
+Setophaga magnolia_Magnolia Warbler,0.15486899,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.11740675,54.0,57.0
+Hylocichla mustelina_Wood Thrush,0.16903423,55.0,58.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1261386,55.0,58.0
+Catharus fuscescens_Veery,0.9875311,56.0,59.0
+Catharus fuscescens_Veery,0.9935406,57.0,60.0
+Catharus fuscescens_Veery,0.99368,58.0,61.0
+Catharus fuscescens_Veery,0.92465574,59.0,62.0
+Catharus fuscescens_Veery,0.9817649,60.0,63.0
+Catharus fuscescens_Veery,0.9987746,61.0,64.0
+Catharus fuscescens_Veery,0.9995247,62.0,65.0
+Catharus fuscescens_Veery,0.9704535,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.5851387,64.0,67.0
+Hylocichla mustelina_Wood Thrush,0.30429366,65.0,68.0
+Hylocichla mustelina_Wood Thrush,0.7494787,66.0,69.0
+Hylocichla mustelina_Wood Thrush,0.107024744,71.0,74.0
+Hylocichla mustelina_Wood Thrush,0.20006521,76.0,79.0
+Poecile atricapillus_Black-capped Chickadee,0.24935843,85.0,88.0
+Poecile atricapillus_Black-capped Chickadee,0.24737996,86.0,89.0
+Rhipidura albicollis_White-throated Fantail,0.16855928,87.0,90.0
+Tamiasciurus hudsonicus_Red Squirrel,0.24331044,93.0,96.0
+Poecile atricapillus_Black-capped Chickadee,0.123079695,97.0,100.0
+Tamiasciurus hudsonicus_Red Squirrel,0.102013506,98.0,100.84802721088435

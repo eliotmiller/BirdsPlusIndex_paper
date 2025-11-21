@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Poecile atricapillus_Black-capped Chickadee,0.88940924,0.0,3.0
+Poecile carolinensis_Carolina Chickadee,0.20276682,0.0,3.0
+Poecile atricapillus_Black-capped Chickadee,0.9131066,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.40199777,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.5125357,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.3698164,2.0,5.0
+Euphagus carolinus_Rusty Blackbird,0.5475188,3.0,6.0
+Poecile carolinensis_Carolina Chickadee,0.43801054,3.0,6.0
+Poecile atricapillus_Black-capped Chickadee,0.31902173,3.0,6.0
+Poecile carolinensis_Carolina Chickadee,0.61232084,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.58507943,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.6259428,5.0,8.0
+Poecile carolinensis_Carolina Chickadee,0.39843297,5.0,8.0
+Poecile atricapillus_Black-capped Chickadee,0.7544908,6.0,9.0
+Poecile carolinensis_Carolina Chickadee,0.4686217,6.0,9.0
+Poecile atricapillus_Black-capped Chickadee,0.5637444,7.0,10.0
+Poecile carolinensis_Carolina Chickadee,0.41927168,7.0,10.0
+Poecile carolinensis_Carolina Chickadee,0.9468085,9.0,12.0
+Poecile atricapillus_Black-capped Chickadee,0.19278689,9.0,12.0
+Poecile carolinensis_Carolina Chickadee,0.9366296,10.0,13.0
+Poecile atricapillus_Black-capped Chickadee,0.13300988,10.0,13.0
+Poecile carolinensis_Carolina Chickadee,0.8161136,11.0,14.0
+Poecile carolinensis_Carolina Chickadee,0.86944205,12.0,15.0
+Poecile carolinensis_Carolina Chickadee,0.7389491,13.0,16.0
+Poecile hudsonicus_Boreal Chickadee,0.10956752,13.0,16.0
+Poecile palustris_Marsh Tit,0.103177495,13.0,16.0
+Poecile carolinensis_Carolina Chickadee,0.9376193,14.0,17.0
+Poecile carolinensis_Carolina Chickadee,0.9618772,15.0,18.0
+Poecile atricapillus_Black-capped Chickadee,0.19340171,15.0,18.0
+Poecile carolinensis_Carolina Chickadee,0.9353853,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.985321,17.0,20.0
+Poecile carolinensis_Carolina Chickadee,0.9835934,18.0,21.0
+Poecile atricapillus_Black-capped Chickadee,0.108058065,18.0,21.0
+Poecile carolinensis_Carolina Chickadee,0.91058433,20.0,23.0
+Poecile atricapillus_Black-capped Chickadee,0.42742765,20.0,23.0
+Poecile carolinensis_Carolina Chickadee,0.91667426,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.44359404,21.0,24.0
+Poecile carolinensis_Carolina Chickadee,0.91083825,22.0,25.0
+Poecile atricapillus_Black-capped Chickadee,0.12405422,22.0,25.0
+Mniotilta varia_Black-and-white Warbler,0.38468957,23.0,26.0
+Setophaga tigrina_Cape May Warbler,0.123257436,23.0,26.0
+Poecile carolinensis_Carolina Chickadee,0.37207916,24.0,27.0
+Poecile palustris_Marsh Tit,0.10265713,24.0,27.0
+Poecile carolinensis_Carolina Chickadee,0.92008305,25.0,28.0
+Baeolophus bicolor_Tufted Titmouse,0.12673756,25.0,28.0
+Poecile carolinensis_Carolina Chickadee,0.9538028,26.0,29.0
+Poecile carolinensis_Carolina Chickadee,0.9098445,27.0,30.0
+Poecile carolinensis_Carolina Chickadee,0.6854098,29.0,32.0
+Poecile carolinensis_Carolina Chickadee,0.92255044,30.0,33.0
+Poecile carolinensis_Carolina Chickadee,0.96604586,31.0,34.0
+Poecile carolinensis_Carolina Chickadee,0.48964557,32.0,35.0
+Poecile carolinensis_Carolina Chickadee,0.2569098,36.0,39.0
+Poecile gambeli_Mountain Chickadee,0.15848029,36.0,39.0
+Poecile carolinensis_Carolina Chickadee,0.8320872,37.0,40.0
+Poecile carolinensis_Carolina Chickadee,0.92052037,38.0,41.0
+Poecile carolinensis_Carolina Chickadee,0.9755068,39.0,42.0
+Poecile carolinensis_Carolina Chickadee,0.99681395,40.0,43.0
+Poecile carolinensis_Carolina Chickadee,0.98161787,41.0,44.0
+Poecile carolinensis_Carolina Chickadee,0.9537307,42.0,45.0
+Baeolophus bicolor_Tufted Titmouse,0.24566728,42.0,45.0
+Erithacus rubecula_European Robin,0.15742505,43.0,46.0
+Engine_Engine,0.20773387,49.0,52.0
+Engine_Engine,0.18988472,50.0,53.0
+Engine_Engine,0.44377115,51.0,53.85600907029478
