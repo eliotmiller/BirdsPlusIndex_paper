@@ -1,0 +1,132 @@
+species,score,start_time,end_time
+Setophaga citrina_Hooded Warbler,0.112174965,0.0,3.0
+Troglodytes hiemalis_Winter Wren,0.9171433,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.16244842,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.9922001,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.99241346,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.9960622,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.9728118,5.0,8.0
+Setophaga virens_Black-throated Green Warbler,0.14769971,9.0,12.0
+Certhia americana_Brown Creeper,0.11705198,9.0,12.0
+Regulus satrapa_Golden-crowned Kinglet,0.1159862,9.0,12.0
+Certhia americana_Brown Creeper,0.18092667,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.16872567,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.294834,11.0,14.0
+Certhia americana_Brown Creeper,0.26093876,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.15062666,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.2600735,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.13309492,13.0,16.0
+Regulus satrapa_Golden-crowned Kinglet,0.112605914,13.0,16.0
+Regulus satrapa_Golden-crowned Kinglet,0.17017725,14.0,17.0
+Certhia americana_Brown Creeper,0.1136893,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.105149634,14.0,17.0
+Regulus satrapa_Golden-crowned Kinglet,0.324349,15.0,18.0
+Certhia americana_Brown Creeper,0.24132346,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.10348765,15.0,18.0
+Regulus satrapa_Golden-crowned Kinglet,0.17261823,16.0,19.0
+Certhia americana_Brown Creeper,0.1519176,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.12591335,16.0,19.0
+Troglodytes hiemalis_Winter Wren,0.81887215,17.0,20.0
+Setophaga citrina_Hooded Warbler,0.17248854,17.0,20.0
+Troglodytes hiemalis_Winter Wren,0.99087864,18.0,21.0
+Troglodytes hiemalis_Winter Wren,0.98291194,19.0,22.0
+Troglodytes hiemalis_Winter Wren,0.9944037,20.0,23.0
+Troglodytes hiemalis_Winter Wren,0.9954131,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.9916345,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.9950393,23.0,26.0
+Troglodytes hiemalis_Winter Wren,0.99927765,24.0,27.0
+Certhia americana_Brown Creeper,0.5593584,25.0,28.0
+Mniotilta varia_Black-and-white Warbler,0.499741,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.42743176,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.13997109,26.0,29.0
+Bonasa umbellus_Ruffed Grouse,0.14693922,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.9753947,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.9980033,29.0,32.0
+Troglodytes hiemalis_Winter Wren,0.9958877,30.0,33.0
+Troglodytes hiemalis_Winter Wren,0.99632543,31.0,34.0
+Troglodytes hiemalis_Winter Wren,0.9947601,32.0,35.0
+Troglodytes hiemalis_Winter Wren,0.9958824,33.0,36.0
+Troglodytes hiemalis_Winter Wren,0.99711645,34.0,37.0
+Troglodytes hiemalis_Winter Wren,0.9995204,35.0,38.0
+Certhia americana_Brown Creeper,0.45379326,36.0,39.0
+Troglodytes hiemalis_Winter Wren,0.27215207,36.0,39.0
+Mniotilta varia_Black-and-white Warbler,0.19918144,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.16195759,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.1366569,38.0,41.0
+Troglodytes hiemalis_Winter Wren,0.9985531,39.0,42.0
+Troglodytes hiemalis_Winter Wren,0.9986628,40.0,43.0
+Troglodytes hiemalis_Winter Wren,0.99839514,41.0,44.0
+Troglodytes hiemalis_Winter Wren,0.99566627,42.0,45.0
+Troglodytes hiemalis_Winter Wren,0.99695826,43.0,46.0
+Troglodytes hiemalis_Winter Wren,0.99231404,44.0,47.0
+Troglodytes hiemalis_Winter Wren,0.9995772,45.0,48.0
+Troglodytes hiemalis_Winter Wren,0.9995648,46.0,49.0
+Certhia americana_Brown Creeper,0.4187359,47.0,50.0
+Mniotilta varia_Black-and-white Warbler,0.31920514,47.0,50.0
+Setophaga castanea_Bay-breasted Warbler,0.15800984,47.0,50.0
+Setophaga fusca_Blackburnian Warbler,0.22262669,48.0,51.0
+Setophaga virens_Black-throated Green Warbler,0.13812032,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.19998112,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.108714156,49.0,52.0
+Troglodytes hiemalis_Winter Wren,0.9785209,50.0,53.0
+Troglodytes hiemalis_Winter Wren,0.99881124,51.0,54.0
+Troglodytes hiemalis_Winter Wren,0.99075913,52.0,55.0
+Troglodytes hiemalis_Winter Wren,0.9968256,53.0,56.0
+Troglodytes hiemalis_Winter Wren,0.99135077,54.0,57.0
+Troglodytes hiemalis_Winter Wren,0.9961338,55.0,58.0
+Troglodytes hiemalis_Winter Wren,0.9980762,56.0,59.0
+Troglodytes hiemalis_Winter Wren,0.9989796,57.0,60.0
+Troglodytes hiemalis_Winter Wren,0.9786372,58.0,61.0
+Certhia americana_Brown Creeper,0.14347123,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.4317932,59.0,62.0
+Buteo platypterus_Broad-winged Hawk,0.15776646,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6249911,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.2416576,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43009424,61.0,64.0
+Setophaga virens_Black-throated Green Warbler,0.21554904,61.0,64.0
+Troglodytes hiemalis_Winter Wren,0.97763413,62.0,65.0
+Troglodytes hiemalis_Winter Wren,0.9954075,63.0,66.0
+Troglodytes hiemalis_Winter Wren,0.9862489,64.0,67.0
+Troglodytes hiemalis_Winter Wren,0.98799264,65.0,68.0
+Troglodytes hiemalis_Winter Wren,0.9889353,66.0,69.0
+Troglodytes hiemalis_Winter Wren,0.99315554,67.0,70.0
+Troglodytes hiemalis_Winter Wren,0.9960032,68.0,71.0
+Troglodytes hiemalis_Winter Wren,0.99943775,69.0,72.0
+Certhia americana_Brown Creeper,0.42307538,70.0,73.0
+Troglodytes hiemalis_Winter Wren,0.34935483,70.0,73.0
+Troglodytes hiemalis_Winter Wren,0.80309,73.0,76.0
+Troglodytes hiemalis_Winter Wren,0.8723618,74.0,77.0
+Troglodytes hiemalis_Winter Wren,0.69801265,75.0,78.0
+Troglodytes hiemalis_Winter Wren,0.68237144,76.0,79.0
+Troglodytes hiemalis_Winter Wren,0.67537796,77.0,80.0
+Troglodytes hiemalis_Winter Wren,0.7309822,78.0,81.0
+Troglodytes hiemalis_Winter Wren,0.9381965,79.0,82.0
+Troglodytes hiemalis_Winter Wren,0.99574983,80.0,83.0
+Troglodytes hiemalis_Winter Wren,0.9799824,83.0,86.0
+Troglodytes hiemalis_Winter Wren,0.9925804,84.0,87.0
+Troglodytes hiemalis_Winter Wren,0.9984018,85.0,88.0
+Troglodytes hiemalis_Winter Wren,0.9959864,86.0,89.0
+Troglodytes hiemalis_Winter Wren,0.9902722,87.0,90.0
+Troglodytes hiemalis_Winter Wren,0.9961423,88.0,91.0
+Troglodytes hiemalis_Winter Wren,0.9950676,89.0,92.0
+Troglodytes hiemalis_Winter Wren,0.999318,90.0,93.0
+Certhia americana_Brown Creeper,0.7910707,91.0,94.0
+Zosterops luteus_Australian Yellow White-eye,0.12498614,96.0,99.0
+Certhia americana_Brown Creeper,0.1604075,97.0,100.0
+Certhia americana_Brown Creeper,0.12951165,98.0,101.0
+Troglodytes hiemalis_Winter Wren,0.9982303,102.0,105.0
+Troglodytes hiemalis_Winter Wren,0.99561346,103.0,106.0
+Troglodytes hiemalis_Winter Wren,0.997771,104.0,107.0
+Troglodytes hiemalis_Winter Wren,0.9910103,105.0,108.0
+Troglodytes hiemalis_Winter Wren,0.9921395,106.0,109.0
+Troglodytes hiemalis_Winter Wren,0.9980312,107.0,110.0
+Troglodytes hiemalis_Winter Wren,0.99682164,108.0,111.0
+Troglodytes hiemalis_Winter Wren,0.9987662,109.0,112.0
+Certhia americana_Brown Creeper,0.3418961,110.0,113.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22967768,110.0,113.0
+Regulus satrapa_Golden-crowned Kinglet,0.17863664,110.0,113.0
+Dryocopus pileatus_Pileated Woodpecker,0.1529023,110.0,113.0
+Setophaga fusca_Blackburnian Warbler,0.10172932,110.0,113.0
+Certhia americana_Brown Creeper,0.2277778,111.0,114.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.20346747,111.0,114.0
+Euphagus carolinus_Rusty Blackbird,0.21380974,113.0,116.0

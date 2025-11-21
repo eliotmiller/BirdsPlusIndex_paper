@@ -1,0 +1,55 @@
+species,score,start_time,end_time
+Bombycilla cedrorum_Cedar Waxwing,0.9713516,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.97469574,1.0,4.0
+Bombycilla cedrorum_Cedar Waxwing,0.95172477,2.0,5.0
+Dumetella carolinensis_Gray Catbird,0.1368538,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.9496239,3.0,6.0
+Bombycilla cedrorum_Cedar Waxwing,0.9892056,4.0,7.0
+Bombycilla cedrorum_Cedar Waxwing,0.85344785,5.0,8.0
+Vermivora cyanoptera_Blue-winged Warbler,0.7431751,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.1874363,5.0,8.0
+Dumetella carolinensis_Gray Catbird,0.35404697,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.8114267,7.0,10.0
+Bombycilla cedrorum_Cedar Waxwing,0.9835634,8.0,11.0
+Dumetella carolinensis_Gray Catbird,0.12310584,8.0,11.0
+Bombycilla cedrorum_Cedar Waxwing,0.9733902,9.0,12.0
+Dumetella carolinensis_Gray Catbird,0.12488516,9.0,12.0
+Bombycilla cedrorum_Cedar Waxwing,0.9827877,10.0,13.0
+Icterus spurius_Orchard Oriole,0.19957273,13.0,16.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.104400724,13.0,16.0
+Calliope calliope_Siberian Rubythroat,0.3061173,14.0,17.0
+Icterus spurius_Orchard Oriole,0.105499215,14.0,17.0
+Dumetella carolinensis_Gray Catbird,0.70773727,15.0,18.0
+Icterus spurius_Orchard Oriole,0.5676879,15.0,18.0
+Calliope calliope_Siberian Rubythroat,0.22698212,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.17920385,15.0,18.0
+Calliope calliope_Siberian Rubythroat,0.85407627,16.0,19.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.569574,16.0,19.0
+Catharus aurantiirostris_Orange-billed Nightingale-Thrush,0.59629893,17.0,20.0
+Dulus dominicus_Palmchat,0.12028518,18.0,21.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.10134628,18.0,21.0
+Bombycilla cedrorum_Cedar Waxwing,0.9474983,20.0,23.0
+Bombycilla cedrorum_Cedar Waxwing,0.9932505,21.0,24.0
+Bombycilla cedrorum_Cedar Waxwing,0.99424875,22.0,25.0
+Bombycilla cedrorum_Cedar Waxwing,0.9840771,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.105671324,24.0,27.0
+Icterus spurius_Orchard Oriole,0.326732,25.0,28.0
+Dolichonyx oryzivorus_Bobolink,0.23249641,25.0,28.0
+Uropsila leucogastra_White-bellied Wren,0.15425602,26.0,29.0
+Uropsila leucogastra_White-bellied Wren,0.14379278,27.0,30.0
+Bombycilla cedrorum_Cedar Waxwing,0.81924254,28.0,31.0
+Bombycilla cedrorum_Cedar Waxwing,0.68052334,29.0,32.0
+Bombycilla cedrorum_Cedar Waxwing,0.9424865,30.0,33.0
+Turdus migratorius_American Robin,0.17208764,30.0,33.0
+Bombycilla cedrorum_Cedar Waxwing,0.61124927,31.0,34.0
+Certhia himalayana_Bar-tailed Treecreeper,0.1292157,31.0,34.0
+Bombycilla cedrorum_Cedar Waxwing,0.22016437,33.0,36.0
+Bombycilla cedrorum_Cedar Waxwing,0.6483858,34.0,37.0
+Turdus migratorius_American Robin,0.39639,34.0,37.0
+Calypte costae_Costa's Hummingbird,0.52084565,35.0,38.0
+Turdus migratorius_American Robin,0.119379334,35.0,38.0
+Haemorhous purpureus_Purple Finch,0.23854135,36.0,39.0
+Sialia sialis_Eastern Bluebird,0.14993206,36.0,39.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1457183,48.0,51.0
+Chlorophonia cyanocephala_Golden-rumped Euphonia,0.16239136,53.0,56.0
+Tamiasciurus hudsonicus_Red Squirrel,0.10303974,53.0,56.0

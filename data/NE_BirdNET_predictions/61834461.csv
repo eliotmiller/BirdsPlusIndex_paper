@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Dolichonyx oryzivorus_Bobolink,0.5775547,0.0,3.0
+Passerculus sandwichensis_Savannah Sparrow,0.49951136,0.0,3.0
+Dolichonyx oryzivorus_Bobolink,0.5060799,1.0,4.0
+Rallus elegans_King Rail,0.3053196,1.0,4.0
+Bartramia longicauda_Upland Sandpiper,0.9996383,2.0,5.0
+Limnodromus griseus_Short-billed Dowitcher,0.27553302,2.0,5.0
+Bartramia longicauda_Upland Sandpiper,0.9996014,3.0,6.0
+Bartramia longicauda_Upland Sandpiper,0.9990646,4.0,7.0
+Dolichonyx oryzivorus_Bobolink,0.30663866,5.0,8.0
+Charadrius nivosus_Snowy Plover,0.14884688,5.0,8.0
+Dolichonyx oryzivorus_Bobolink,0.5074445,6.0,9.0
+Charadrius nivosus_Snowy Plover,0.23467357,6.0,9.0
+Buteo swainsoni_Swainson's Hawk,0.19288312,6.0,9.0
+Rallus elegans_King Rail,0.11845693,6.0,9.0
+Dolichonyx oryzivorus_Bobolink,0.60637796,7.0,10.0
+Dolichonyx oryzivorus_Bobolink,0.34982118,8.0,11.0
+Buteo swainsoni_Swainson's Hawk,0.13666403,8.0,11.0
+Bartramia longicauda_Upland Sandpiper,0.99650997,9.0,12.0
+Bartramia longicauda_Upland Sandpiper,0.99846613,10.0,13.0
+Bartramia longicauda_Upland Sandpiper,0.9989641,11.0,14.0
+Passerculus sandwichensis_Savannah Sparrow,0.15273741,12.0,15.0
+Bartramia longicauda_Upland Sandpiper,0.13718201,12.0,15.0
+Bartramia longicauda_Upland Sandpiper,0.21311091,13.0,16.0
+Bartramia longicauda_Upland Sandpiper,0.24398918,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.13771921,14.0,17.0
+Charadrius nivosus_Snowy Plover,0.10662531,14.0,17.0
+Dolichonyx oryzivorus_Bobolink,0.86182094,15.0,18.0
+Dolichonyx oryzivorus_Bobolink,0.5777562,16.0,19.0
+Dolichonyx oryzivorus_Bobolink,0.76939476,17.0,20.0
+Dolichonyx oryzivorus_Bobolink,0.43513775,18.0,21.0
+Dolichonyx oryzivorus_Bobolink,0.69807965,19.0,22.0
+Spatula clypeata_Northern Shoveler,0.1476773,21.0,24.0
+Dolichonyx oryzivorus_Bobolink,0.14291374,22.0,25.0
+Spatula clypeata_Northern Shoveler,0.11520005,22.0,25.0
+Dolichonyx oryzivorus_Bobolink,0.11707059,23.0,26.0
+Dolichonyx oryzivorus_Bobolink,0.37810007,24.0,27.0
+Ammospiza nelsoni_Nelson's Sparrow,0.13109328,24.0,27.0
+Dolichonyx oryzivorus_Bobolink,0.8461293,25.0,28.0
+Bartramia longicauda_Upland Sandpiper,0.9875103,26.0,29.0
+Dolichonyx oryzivorus_Bobolink,0.10788559,26.0,29.0
+Bartramia longicauda_Upland Sandpiper,0.99950397,27.0,30.0
+Bartramia longicauda_Upland Sandpiper,0.9966653,28.0,31.0
+Bartramia longicauda_Upland Sandpiper,0.98947513,29.0,32.0
+Dolichonyx oryzivorus_Bobolink,0.20586286,30.0,33.0
+Dolichonyx oryzivorus_Bobolink,0.30171785,31.0,34.0
+Dolichonyx oryzivorus_Bobolink,0.8317702,32.0,35.0
+Dolichonyx oryzivorus_Bobolink,0.940826,33.0,36.0
+Dolichonyx oryzivorus_Bobolink,0.5678078,34.0,37.0
+Dolichonyx oryzivorus_Bobolink,0.40602586,35.0,38.0
+Alaudala cheleensis_Asian Short-toed Lark,0.19686542,38.0,41.0
+Bartramia longicauda_Upland Sandpiper,0.9519179,41.0,44.0
+Numenius phaeopus_Whimbrel,0.18318278,41.0,44.0
+Bartramia longicauda_Upland Sandpiper,0.9537769,42.0,45.0
+Bartramia longicauda_Upland Sandpiper,0.86384785,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.52226186,43.0,46.0
+Dolichonyx oryzivorus_Bobolink,0.9863312,44.0,47.0
+Dolichonyx oryzivorus_Bobolink,0.9948708,45.0,48.0
+Dolichonyx oryzivorus_Bobolink,0.99228126,46.0,49.0
+Dolichonyx oryzivorus_Bobolink,0.98248845,47.0,50.0
+Dolichonyx oryzivorus_Bobolink,0.773716,48.0,51.0
+Aegypius monachus_Cinereous Vulture,0.25015622,50.0,53.0
+Bartramia longicauda_Upland Sandpiper,0.99369794,53.0,56.0
+Bartramia longicauda_Upland Sandpiper,0.9959974,54.0,57.0
+Bartramia longicauda_Upland Sandpiper,0.98480994,55.0,58.0
+Numenius phaeopus_Whimbrel,0.14883006,55.0,58.0
+Bartramia longicauda_Upland Sandpiper,0.9986933,60.0,63.0
+Limnodromus griseus_Short-billed Dowitcher,0.10524286,60.0,63.0
+Bartramia longicauda_Upland Sandpiper,0.99983394,61.0,64.0
+Bartramia longicauda_Upland Sandpiper,0.999469,62.0,65.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.11164272,63.0,66.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.16395095,64.0,67.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.10038027,65.0,68.0
+Bartramia longicauda_Upland Sandpiper,0.99720997,66.0,69.0
+Bartramia longicauda_Upland Sandpiper,0.9988657,67.0,70.0
+Bartramia longicauda_Upland Sandpiper,0.9997911,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.95104265,69.0,72.0
+Dolichonyx oryzivorus_Bobolink,0.8588981,70.0,73.0
+Dolichonyx oryzivorus_Bobolink,0.6710988,71.0,73.27201814058957
+Cinnyris habessinicus_Shining Sunbird,0.16849253,71.0,73.27201814058957

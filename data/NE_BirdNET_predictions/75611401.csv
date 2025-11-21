@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Icterus galbula_Baltimore Oriole,0.10171899,3.0,6.0
+Dryobates borealis_Red-cockaded Woodpecker,0.11443075,4.0,7.0
+Dumetella carolinensis_Gray Catbird,0.5967625,6.0,9.0
+Dumetella carolinensis_Gray Catbird,0.23543005,7.0,10.0
+Dumetella carolinensis_Gray Catbird,0.15319811,8.0,11.0
+Archilochus colubris_Ruby-throated Hummingbird,0.14679317,9.0,12.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13345696,10.0,13.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13950638,11.0,14.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.12267763,11.0,14.0
+Archilochus colubris_Ruby-throated Hummingbird,0.26144162,12.0,15.0
+Ictinia mississippiensis_Mississippi Kite,0.10225766,13.0,16.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1154558,14.0,17.0
+Ictinia mississippiensis_Mississippi Kite,0.10818089,14.0,17.0
+Archilochus colubris_Ruby-throated Hummingbird,0.16297804,20.0,23.0
+Archilochus colubris_Ruby-throated Hummingbird,0.33182856,22.0,25.0
+Coragyps atratus_Black Vulture,0.17226401,22.0,25.0
+Archilochus colubris_Ruby-throated Hummingbird,0.24531163,23.0,26.0
+Archilochus colubris_Ruby-throated Hummingbird,0.36657262,24.0,27.0
+Cistothorus stellaris_Sedge Wren,0.15037651,24.0,27.0
+Archilochus colubris_Ruby-throated Hummingbird,0.1354877,25.0,28.0
+Cistothorus stellaris_Sedge Wren,0.11894929,25.0,28.0
+Cistothorus stellaris_Sedge Wren,0.13889594,26.0,29.0
+Archilochus colubris_Ruby-throated Hummingbird,0.16451155,27.0,30.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.11731935,31.0,34.0
+Icterus galbula_Baltimore Oriole,0.21274973,32.0,35.0
+Sialia sialis_Eastern Bluebird,0.12448432,32.0,35.0
+Icterus galbula_Baltimore Oriole,0.19964585,33.0,36.0
+Icterus galbula_Baltimore Oriole,0.20107882,34.0,37.0
+Archilochus colubris_Ruby-throated Hummingbird,0.112383895,34.0,37.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15899344,35.0,38.0
+Vireo bellii_Bell's Vireo,0.28279448,37.0,40.0
+Vireo bellii_Bell's Vireo,0.28291136,38.0,41.0
+Vireo bellii_Bell's Vireo,0.4216677,39.0,42.0
+Sialia sialis_Eastern Bluebird,0.32722214,42.0,45.0
+Toxostoma rufum_Brown Thrasher,0.1005122,42.0,45.0
+Toxostoma rufum_Brown Thrasher,0.4327811,43.0,46.0
+Dumetella carolinensis_Gray Catbird,0.14544064,44.0,47.0
+Dumetella carolinensis_Gray Catbird,0.1436879,45.0,48.0
+Toxostoma rufum_Brown Thrasher,0.20823054,51.0,54.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.11830233,51.0,54.0
+Sialia sialis_Eastern Bluebird,0.13807648,53.0,56.0
+Sialia sialis_Eastern Bluebird,0.1173269,54.0,57.0
+Archilochus colubris_Ruby-throated Hummingbird,0.21234117,56.0,59.0
+Dumetella carolinensis_Gray Catbird,0.18971823,62.0,65.0
+Toxostoma rufum_Brown Thrasher,0.100844994,63.0,66.0
+Dumetella carolinensis_Gray Catbird,0.16565669,64.0,67.0
+Cyanocitta cristata_Blue Jay,0.22518167,69.0,72.0
+Cyanocitta cristata_Blue Jay,0.20178695,70.0,73.0
+Archilochus colubris_Ruby-throated Hummingbird,0.17934674,70.0,73.0
+Sialia sialis_Eastern Bluebird,0.6891426,72.0,75.0
+Sialia sialis_Eastern Bluebird,0.19379964,73.0,76.0
+Sialia sialis_Eastern Bluebird,0.2847598,74.0,77.0
+Icterus galbula_Baltimore Oriole,0.14655243,76.0,79.0
+Buteo jamaicensis_Red-tailed Hawk,0.12073677,77.0,80.0
+Archilochus colubris_Ruby-throated Hummingbird,0.109736025,77.0,80.0
+Sialia sialis_Eastern Bluebird,0.19109476,83.0,86.0
+Dolichonyx oryzivorus_Bobolink,0.11836902,83.0,86.0
+Sialia sialis_Eastern Bluebird,0.54198027,84.0,87.0
+Vireo bellii_Bell's Vireo,0.25074264,85.0,88.0
+Curruca communis_Greater Whitethroat,0.14782059,87.0,90.0
+Curruca communis_Greater Whitethroat,0.122468255,88.0,91.0
+Curruca communis_Greater Whitethroat,0.23374769,89.0,92.0
+Curruca iberiae_Western Subalpine Warbler,0.110584415,89.0,92.0
+Dolichonyx oryzivorus_Bobolink,0.13433544,90.0,93.0
+Empidonax minimus_Least Flycatcher,0.40057066,92.0,95.0
+Empidonax virescens_Acadian Flycatcher,0.34057269,92.0,95.0
+Empidonax traillii_Willow Flycatcher,0.26459277,92.0,95.0
+Dolichonyx oryzivorus_Bobolink,0.13043688,94.0,97.0
+Calliope calliope_Siberian Rubythroat,0.19249465,95.0,98.0
+Dumetella carolinensis_Gray Catbird,0.13377263,95.0,98.0
+Curruca iberiae_Western Subalpine Warbler,0.18250369,96.0,99.0
+Curruca communis_Greater Whitethroat,0.10636042,96.0,99.0
+Curruca communis_Greater Whitethroat,0.17727381,97.0,100.0
+Lanius schach_Long-tailed Shrike,0.12557638,99.0,102.0
+Dolichonyx oryzivorus_Bobolink,0.1937636,100.0,103.0
+Lanius schach_Long-tailed Shrike,0.37193963,101.0,104.0
+Dumetella carolinensis_Gray Catbird,0.24430299,102.0,105.0
+Dolichonyx oryzivorus_Bobolink,0.2602924,103.0,106.0
+Dolichonyx oryzivorus_Bobolink,0.16563284,106.0,109.0
+Dolichonyx oryzivorus_Bobolink,0.12482649,107.0,110.0
+Sialia sialis_Eastern Bluebird,0.11974666,107.0,110.0
+Calliope calliope_Siberian Rubythroat,0.143012,114.0,117.0
+Calliope calliope_Siberian Rubythroat,0.11585058,118.0,121.0
+Dolichonyx oryzivorus_Bobolink,0.17763422,120.0,123.0
+Allonemobius walkeri_Walker's Ground Cricket,0.26308858,124.0,127.0
+Allonemobius allardi_Allard's Ground Cricket,0.11957006,135.0,138.0
+Ardea herodias_Great Blue Heron,0.10883449,136.0,139.0

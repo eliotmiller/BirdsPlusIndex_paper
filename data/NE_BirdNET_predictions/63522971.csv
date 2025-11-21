@@ -1,0 +1,196 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.3685156,0.0,3.0
+Setophaga virens_Black-throated Green Warbler,0.9798599,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.1087512,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9942174,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.9938344,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.9896979,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.25991616,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10180544,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.13318808,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.1587343,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.1015659,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.15583974,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.11332372,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.10749616,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.8244305,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.15163295,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.9050432,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.9024256,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.7939865,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.13212474,19.0,22.0
+Setophaga fusca_Blackburnian Warbler,0.1079727,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.102266446,21.0,24.0
+Setophaga fusca_Blackburnian Warbler,0.18224587,22.0,25.0
+Vireo philadelphicus_Philadelphia Vireo,0.13304822,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.110686086,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.111586295,27.0,30.0
+Buteo platypterus_Broad-winged Hawk,0.107777804,27.0,30.0
+Setophaga fusca_Blackburnian Warbler,0.23502783,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.14828327,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.16184808,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.84003013,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.9759099,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.986809,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.97492266,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.11530367,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.42558962,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.22597992,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.12384029,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.104465544,45.0,48.0
+Setophaga virens_Black-throated Green Warbler,0.98864347,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.98303694,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.8881815,48.0,51.0
+Setophaga cerulea_Cerulean Warbler,0.1652412,49.0,52.0
+Setophaga ruticilla_American Redstart,0.16432717,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123073325,49.0,52.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11856176,53.0,56.0
+Buteo platypterus_Broad-winged Hawk,0.1209095,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.1086356,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.1846365,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.99360234,57.0,60.0
+Setophaga virens_Black-throated Green Warbler,0.98511374,58.0,61.0
+Setophaga virens_Black-throated Green Warbler,0.97318214,59.0,62.0
+Setophaga virens_Black-throated Green Warbler,0.75018126,60.0,63.0
+Setophaga discolor_Prairie Warbler,0.42554107,60.0,63.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1414536,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.3123341,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.23048711,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12535346,65.0,68.0
+Setophaga fusca_Blackburnian Warbler,0.20031004,66.0,69.0
+Setophaga virens_Black-throated Green Warbler,0.9942601,67.0,70.0
+Setophaga virens_Black-throated Green Warbler,0.9766997,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.97199404,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.9739609,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.10481093,71.0,74.0
+Buteo platypterus_Broad-winged Hawk,0.13152836,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1062543,75.0,78.0
+Setophaga virens_Black-throated Green Warbler,0.83914226,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.121345885,78.0,81.0
+Setophaga virens_Black-throated Green Warbler,0.96647835,79.0,82.0
+Setophaga virens_Black-throated Green Warbler,0.95035934,80.0,83.0
+Setophaga virens_Black-throated Green Warbler,0.97846895,81.0,84.0
+Setophaga fusca_Blackburnian Warbler,0.2447865,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1003894,82.0,85.0
+Setophaga fusca_Blackburnian Warbler,0.14024897,83.0,86.0
+Setophaga virens_Black-throated Green Warbler,0.3916978,88.0,91.0
+Setophaga virens_Black-throated Green Warbler,0.90885615,89.0,92.0
+Setophaga virens_Black-throated Green Warbler,0.9891801,90.0,93.0
+Setophaga virens_Black-throated Green Warbler,0.9814879,91.0,94.0
+Setophaga virens_Black-throated Green Warbler,0.9600051,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.1645127,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13131058,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1010152,94.0,97.0
+Buteo platypterus_Broad-winged Hawk,0.118021004,95.0,98.0
+Setophaga virens_Black-throated Green Warbler,0.991844,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.9931223,101.0,104.0
+Setophaga virens_Black-throated Green Warbler,0.989076,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.9948377,103.0,106.0
+Setophaga fusca_Blackburnian Warbler,0.22551455,104.0,107.0
+Setophaga fusca_Blackburnian Warbler,0.24000043,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13046472,105.0,108.0
+Setophaga fusca_Blackburnian Warbler,0.25471997,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1003132,109.0,112.0
+Setophaga fusca_Blackburnian Warbler,0.17462069,113.0,116.0
+Setophaga fusca_Blackburnian Warbler,0.2302671,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111989036,114.0,117.0
+Setophaga fusca_Blackburnian Warbler,0.14556669,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1176384,115.0,118.0
+Setophaga fusca_Blackburnian Warbler,0.17790535,116.0,119.0
+Setophaga virens_Black-throated Green Warbler,0.89358425,118.0,121.0
+Setophaga virens_Black-throated Green Warbler,0.9973398,119.0,122.0
+Setophaga virens_Black-throated Green Warbler,0.9948213,120.0,123.0
+Setophaga virens_Black-throated Green Warbler,0.99416816,121.0,124.0
+Setophaga fusca_Blackburnian Warbler,0.22545221,122.0,125.0
+Setophaga virens_Black-throated Green Warbler,0.15209886,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12105746,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14087436,124.0,127.0
+Setophaga fusca_Blackburnian Warbler,0.13962708,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13956314,125.0,128.0
+Setophaga fusca_Blackburnian Warbler,0.10971127,125.0,128.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.124908514,126.0,129.0
+Setophaga fusca_Blackburnian Warbler,0.11191165,126.0,129.0
+Setophaga virens_Black-throated Green Warbler,0.98336446,127.0,130.0
+Setophaga virens_Black-throated Green Warbler,0.99766266,128.0,131.0
+Setophaga virens_Black-throated Green Warbler,0.99628264,129.0,132.0
+Setophaga virens_Black-throated Green Warbler,0.9949587,130.0,133.0
+Setophaga fusca_Blackburnian Warbler,0.10217557,131.0,134.0
+Setophaga fusca_Blackburnian Warbler,0.2017137,132.0,135.0
+Setophaga castanea_Bay-breasted Warbler,0.100833304,132.0,135.0
+Setophaga fusca_Blackburnian Warbler,0.21335126,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1003398,133.0,136.0
+Setophaga fusca_Blackburnian Warbler,0.18902975,134.0,137.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116469674,134.0,137.0
+Setophaga fusca_Blackburnian Warbler,0.17828259,135.0,138.0
+Setophaga fusca_Blackburnian Warbler,0.10965626,136.0,139.0
+Setophaga fusca_Blackburnian Warbler,0.2612898,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13444588,137.0,140.0
+Setophaga virens_Black-throated Green Warbler,0.96908075,138.0,141.0
+Setophaga virens_Black-throated Green Warbler,0.9910329,139.0,142.0
+Setophaga virens_Black-throated Green Warbler,0.98260856,140.0,143.0
+Setophaga virens_Black-throated Green Warbler,0.987074,141.0,144.0
+Setophaga virens_Black-throated Green Warbler,0.22866905,142.0,145.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12071132,142.0,145.0
+Setophaga fusca_Blackburnian Warbler,0.2392958,144.0,147.0
+Setophaga fusca_Blackburnian Warbler,0.14161018,145.0,148.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12415592,145.0,148.0
+Setophaga fusca_Blackburnian Warbler,0.2014428,146.0,149.0
+Setophaga virens_Black-throated Green Warbler,0.31937194,147.0,150.0
+Setophaga virens_Black-throated Green Warbler,0.99143785,148.0,151.0
+Setophaga virens_Black-throated Green Warbler,0.99151176,149.0,152.0
+Setophaga virens_Black-throated Green Warbler,0.9620776,150.0,153.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35238189,151.0,154.0
+Setophaga discolor_Prairie Warbler,0.112906136,151.0,154.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12231341,157.0,160.0
+Setophaga virens_Black-throated Green Warbler,0.9801365,158.0,161.0
+Setophaga virens_Black-throated Green Warbler,0.99165255,159.0,162.0
+Setophaga virens_Black-throated Green Warbler,0.9916112,160.0,163.0
+Setophaga virens_Black-throated Green Warbler,0.98974365,161.0,164.0
+Setophaga fusca_Blackburnian Warbler,0.22981621,162.0,165.0
+Setophaga fusca_Blackburnian Warbler,0.14108895,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115449466,163.0,166.0
+Setophaga fusca_Blackburnian Warbler,0.10725507,164.0,167.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13469999,165.0,168.0
+Setophaga fusca_Blackburnian Warbler,0.10061894,167.0,170.0
+Setophaga virens_Black-throated Green Warbler,0.9973556,168.0,171.0
+Setophaga virens_Black-throated Green Warbler,0.9823399,169.0,172.0
+Setophaga virens_Black-throated Green Warbler,0.98985785,170.0,173.0
+Setophaga virens_Black-throated Green Warbler,0.9546283,171.0,174.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13086294,172.0,175.0
+Setophaga fusca_Blackburnian Warbler,0.3095395,174.0,177.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12593408,174.0,177.0
+Setophaga fusca_Blackburnian Warbler,0.2777954,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12380075,175.0,178.0
+Setophaga fusca_Blackburnian Warbler,0.17289174,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11819304,176.0,179.0
+Setophaga virens_Black-throated Green Warbler,0.9388786,177.0,180.0
+Setophaga virens_Black-throated Green Warbler,0.9963812,178.0,181.0
+Setophaga virens_Black-throated Green Warbler,0.98117816,179.0,182.0
+Setophaga virens_Black-throated Green Warbler,0.9874743,180.0,183.0
+Setophaga fusca_Blackburnian Warbler,0.14532438,181.0,184.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10414626,181.0,184.0
+Setophaga fusca_Blackburnian Warbler,0.21427585,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13671109,182.0,185.0
+Setophaga magnolia_Magnolia Warbler,0.10508397,182.0,185.0
+Setophaga virens_Black-throated Green Warbler,0.10438349,182.0,185.0
+Setophaga fusca_Blackburnian Warbler,0.14625138,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11064669,183.0,186.0
+Setophaga fusca_Blackburnian Warbler,0.10987942,184.0,187.0
+Setophaga fusca_Blackburnian Warbler,0.13996562,185.0,188.0
+Setophaga virens_Black-throated Green Warbler,0.86392725,186.0,189.0
+Setophaga virens_Black-throated Green Warbler,0.99732494,187.0,190.0
+Setophaga virens_Black-throated Green Warbler,0.99213225,188.0,191.0
+Setophaga virens_Black-throated Green Warbler,0.99081236,189.0,192.0
+Setophaga fusca_Blackburnian Warbler,0.28111562,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.6009049,195.0,198.0
+Setophaga virens_Black-throated Green Warbler,0.73387665,196.0,199.0
+Setophaga virens_Black-throated Green Warbler,0.7768329,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17651467,198.0,201.0
+Setophaga cerulea_Cerulean Warbler,0.1503147,198.0,201.0
+Setophaga virens_Black-throated Green Warbler,0.10261349,198.0,201.0
+Setophaga fusca_Blackburnian Warbler,0.11634187,199.0,202.0
+Setophaga fusca_Blackburnian Warbler,0.378646,200.0,203.0
+Setophaga fusca_Blackburnian Warbler,0.22024886,201.0,204.0
+Setophaga fusca_Blackburnian Warbler,0.17041335,202.0,205.0
+Setophaga fusca_Blackburnian Warbler,0.13465506,203.0,205.5360090702948
+Setophaga caerulescens_Black-throated Blue Warbler,0.10610273,203.0,205.5360090702948

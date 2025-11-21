@@ -1,0 +1,691 @@
+species,score,start_time,end_time
+Helmitheros vermivorum_Worm-eating Warbler,0.119084105,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.19625793,1.0,4.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10761032,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.36034054,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.11138988,2.0,5.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10946097,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.3566872,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.18192673,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14213504,3.0,6.0
+Spizella passerina_Chipping Sparrow,0.117687784,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.30806783,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.107082725,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.10450011,5.0,8.0
+Spizella passerina_Chipping Sparrow,0.151485,6.0,9.0
+Spizella passerina_Chipping Sparrow,0.16036165,7.0,10.0
+Junco hyemalis_Dark-eyed Junco,0.10239506,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10101586,7.0,10.0
+Setophaga fusca_Blackburnian Warbler,0.15292767,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117874585,10.0,13.0
+Setophaga fusca_Blackburnian Warbler,0.17029487,11.0,14.0
+Spizella passerina_Chipping Sparrow,0.10704851,11.0,14.0
+Spizella passerina_Chipping Sparrow,0.6233342,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.34886318,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.14220873,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11686432,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.32664376,13.0,16.0
+Spizella passerina_Chipping Sparrow,0.27187625,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14879623,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.13838498,14.0,17.0
+Spizella passerina_Chipping Sparrow,0.873204,15.0,18.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10627799,15.0,18.0
+Spizella passerina_Chipping Sparrow,0.8617736,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.3093175,16.0,19.0
+Spizella passerina_Chipping Sparrow,0.76592356,17.0,20.0
+Spizella passerina_Chipping Sparrow,0.69182044,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.14530462,18.0,21.0
+Spizella passerina_Chipping Sparrow,0.88514,19.0,22.0
+Spizella passerina_Chipping Sparrow,0.6188476,20.0,23.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21148315,21.0,24.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16050701,22.0,25.0
+Spizella passerina_Chipping Sparrow,0.16036662,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112933144,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.112591006,22.0,25.0
+Spizella passerina_Chipping Sparrow,0.5586099,23.0,26.0
+Helmitheros vermivorum_Worm-eating Warbler,0.3052716,23.0,26.0
+Junco hyemalis_Dark-eyed Junco,0.18049137,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.14709242,23.0,26.0
+Spizella passerina_Chipping Sparrow,0.5878015,24.0,27.0
+Setophaga fusca_Blackburnian Warbler,0.14341415,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.117157064,24.0,27.0
+Spizella passerina_Chipping Sparrow,0.40422624,25.0,28.0
+Helmitheros vermivorum_Worm-eating Warbler,0.110082395,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10403734,25.0,28.0
+Spizella passerina_Chipping Sparrow,0.54260844,26.0,29.0
+Spizella passerina_Chipping Sparrow,0.43669465,27.0,30.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25637546,28.0,31.0
+Spizella passerina_Chipping Sparrow,0.1127233,28.0,31.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22875424,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18479872,29.0,32.0
+Spizella passerina_Chipping Sparrow,0.14492291,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.30213168,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13248253,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.10757672,30.0,33.0
+Spizella passerina_Chipping Sparrow,0.17794742,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16511455,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.11493384,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.17323393,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15374054,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13246453,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115433194,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.115055956,33.0,36.0
+Spizella passerina_Chipping Sparrow,0.21168886,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16649121,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22953585,35.0,38.0
+Spizella passerina_Chipping Sparrow,0.21131217,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.16171381,35.0,38.0
+Helmitheros vermivorum_Worm-eating Warbler,0.32935506,36.0,39.0
+Buteo platypterus_Broad-winged Hawk,0.13158602,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1300477,36.0,39.0
+Spizella passerina_Chipping Sparrow,0.23699401,37.0,40.0
+Spizella passerina_Chipping Sparrow,0.19018313,38.0,41.0
+Spizella passerina_Chipping Sparrow,0.21997525,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22010656,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.14440717,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.14172004,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.119775414,40.0,43.0
+Spizella passerina_Chipping Sparrow,0.18131052,41.0,44.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14731623,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1249081,41.0,44.0
+Junco hyemalis_Dark-eyed Junco,0.10138628,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14304128,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105953254,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.1275174,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10185071,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.28942755,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.15697366,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.17833316,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.13239777,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.101603545,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1419311,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.1346826,46.0,49.0
+Setophaga fusca_Blackburnian Warbler,0.12957533,46.0,49.0
+Setophaga virens_Black-throated Green Warbler,0.14960968,47.0,50.0
+Setophaga fusca_Blackburnian Warbler,0.10540893,47.0,50.0
+Setophaga fusca_Blackburnian Warbler,0.2113785,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.20862693,49.0,52.0
+Setophaga virens_Black-throated Green Warbler,0.13199253,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.20025773,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10120331,51.0,54.0
+Setophaga virens_Black-throated Green Warbler,0.18219315,52.0,55.0
+Setophaga virens_Black-throated Green Warbler,0.19850579,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12940645,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21199968,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.121336825,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24814098,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11778686,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22657172,56.0,59.0
+Setophaga virens_Black-throated Green Warbler,0.15729067,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.13356024,56.0,59.0
+Spizella passerina_Chipping Sparrow,0.14776704,61.0,64.0
+Spizella passerina_Chipping Sparrow,0.20961678,62.0,65.0
+Spizella passerina_Chipping Sparrow,0.18268526,63.0,66.0
+Molothrus ater_Brown-headed Cowbird,0.13398123,63.0,66.0
+Molothrus ater_Brown-headed Cowbird,0.16638444,64.0,67.0
+Spizella passerina_Chipping Sparrow,0.12336069,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1061276,64.0,67.0
+Molothrus ater_Brown-headed Cowbird,0.14907265,65.0,68.0
+Spizella passerina_Chipping Sparrow,0.13113168,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10931747,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.10865355,65.0,68.0
+Setophaga virens_Black-throated Green Warbler,0.12818561,66.0,69.0
+Spizella passerina_Chipping Sparrow,0.11727368,66.0,69.0
+Spizella passerina_Chipping Sparrow,0.15806173,68.0,71.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13741688,68.0,71.0
+Spizella passerina_Chipping Sparrow,0.48087344,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14948738,69.0,72.0
+Spizella passerina_Chipping Sparrow,0.6990284,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.124846466,70.0,73.0
+Spizella passerina_Chipping Sparrow,0.73888403,71.0,74.0
+Spizella passerina_Chipping Sparrow,0.8614846,72.0,75.0
+Spizella passerina_Chipping Sparrow,0.87225425,73.0,76.0
+Molothrus ater_Brown-headed Cowbird,0.12975805,73.0,76.0
+Spizella passerina_Chipping Sparrow,0.8364665,74.0,77.0
+Spizella passerina_Chipping Sparrow,0.8618306,75.0,78.0
+Molothrus ater_Brown-headed Cowbird,0.109217204,75.0,78.0
+Spizella passerina_Chipping Sparrow,0.88585824,76.0,79.0
+Junco hyemalis_Dark-eyed Junco,0.12276388,76.0,79.0
+Spizella passerina_Chipping Sparrow,0.65897745,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11215431,77.0,80.0
+Spizella passerina_Chipping Sparrow,0.6251323,78.0,81.0
+Spizella passerina_Chipping Sparrow,0.2805569,79.0,82.0
+Spizella passerina_Chipping Sparrow,0.5471532,80.0,83.0
+Spizella passerina_Chipping Sparrow,0.5482709,81.0,84.0
+Spizella passerina_Chipping Sparrow,0.40297008,82.0,85.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12692916,82.0,85.0
+Spizella passerina_Chipping Sparrow,0.22821626,83.0,86.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15849559,83.0,86.0
+Spizella passerina_Chipping Sparrow,0.15368041,84.0,87.0
+Spizella passerina_Chipping Sparrow,0.5649085,85.0,88.0
+Spizella passerina_Chipping Sparrow,0.72670776,86.0,89.0
+Spizella passerina_Chipping Sparrow,0.7187953,87.0,90.0
+Spizella passerina_Chipping Sparrow,0.28655204,88.0,91.0
+Junco hyemalis_Dark-eyed Junco,0.14434358,88.0,91.0
+Spizella passerina_Chipping Sparrow,0.31883496,89.0,92.0
+Junco hyemalis_Dark-eyed Junco,0.12423904,89.0,92.0
+Spizella passerina_Chipping Sparrow,0.22772652,91.0,94.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10921725,91.0,94.0
+Spizella passerina_Chipping Sparrow,0.2443182,92.0,95.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14409275,92.0,95.0
+Spizella passerina_Chipping Sparrow,0.23626229,93.0,96.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15804313,93.0,96.0
+Spizella passerina_Chipping Sparrow,0.318916,94.0,97.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20643796,94.0,97.0
+Spizella passerina_Chipping Sparrow,0.22780225,95.0,98.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2982424,96.0,99.0
+Spizella passerina_Chipping Sparrow,0.25449434,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24864505,97.0,100.0
+Spizella passerina_Chipping Sparrow,0.22011428,97.0,100.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21177757,98.0,101.0
+Spizella passerina_Chipping Sparrow,0.104300626,98.0,101.0
+Helmitheros vermivorum_Worm-eating Warbler,0.26413256,99.0,102.0
+Spizella passerina_Chipping Sparrow,0.10490948,99.0,102.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11159695,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1479273,103.0,106.0
+Setophaga virens_Black-throated Green Warbler,0.1419574,103.0,106.0
+Setophaga fusca_Blackburnian Warbler,0.13016605,103.0,106.0
+Spizella passerina_Chipping Sparrow,0.45871562,104.0,107.0
+Spizella passerina_Chipping Sparrow,0.6938652,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.3229752,105.0,108.0
+Spizella passerina_Chipping Sparrow,0.61166537,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.13113637,106.0,109.0
+Spizella passerina_Chipping Sparrow,0.59463775,107.0,110.0
+Setophaga virens_Black-throated Green Warbler,0.16741516,107.0,110.0
+Molothrus ater_Brown-headed Cowbird,0.15635957,107.0,110.0
+Spizella passerina_Chipping Sparrow,0.7847808,108.0,111.0
+Molothrus ater_Brown-headed Cowbird,0.18835156,108.0,111.0
+Setophaga virens_Black-throated Green Warbler,0.12017618,108.0,111.0
+Spizella passerina_Chipping Sparrow,0.7008878,109.0,112.0
+Setophaga virens_Black-throated Green Warbler,0.17172095,109.0,112.0
+Molothrus ater_Brown-headed Cowbird,0.15727028,109.0,112.0
+Spizella passerina_Chipping Sparrow,0.78956544,110.0,113.0
+Molothrus ater_Brown-headed Cowbird,0.14478202,110.0,113.0
+Spizella passerina_Chipping Sparrow,0.51087457,111.0,114.0
+Spizella passerina_Chipping Sparrow,0.27597648,112.0,115.0
+Spizella passerina_Chipping Sparrow,0.50941503,113.0,116.0
+Setophaga virens_Black-throated Green Warbler,0.16257666,113.0,116.0
+Spizella passerina_Chipping Sparrow,0.37903285,114.0,117.0
+Setophaga virens_Black-throated Green Warbler,0.1914551,114.0,117.0
+Setophaga fusca_Blackburnian Warbler,0.14897327,114.0,117.0
+Spizella passerina_Chipping Sparrow,0.35364595,115.0,118.0
+Setophaga virens_Black-throated Green Warbler,0.14297993,115.0,118.0
+Spizella passerina_Chipping Sparrow,0.13815197,116.0,119.0
+Setophaga virens_Black-throated Green Warbler,0.10313078,116.0,119.0
+Spizella passerina_Chipping Sparrow,0.36770976,117.0,120.0
+Spizella passerina_Chipping Sparrow,0.32575458,118.0,121.0
+Setophaga virens_Black-throated Green Warbler,0.15805897,118.0,121.0
+Molothrus ater_Brown-headed Cowbird,0.15545385,118.0,121.0
+Spizella passerina_Chipping Sparrow,0.7146181,119.0,122.0
+Molothrus ater_Brown-headed Cowbird,0.15256421,119.0,122.0
+Spizella passerina_Chipping Sparrow,0.51746273,120.0,123.0
+Molothrus ater_Brown-headed Cowbird,0.17351796,120.0,123.0
+Spizella passerina_Chipping Sparrow,0.71609783,121.0,124.0
+Molothrus ater_Brown-headed Cowbird,0.27020705,121.0,124.0
+Spizella passerina_Chipping Sparrow,0.480108,122.0,125.0
+Molothrus ater_Brown-headed Cowbird,0.14733668,122.0,125.0
+Spizella passerina_Chipping Sparrow,0.72321844,123.0,126.0
+Molothrus ater_Brown-headed Cowbird,0.27207288,123.0,126.0
+Spizella passerina_Chipping Sparrow,0.43501103,124.0,127.0
+Spizella passerina_Chipping Sparrow,0.29425934,125.0,128.0
+Spizella passerina_Chipping Sparrow,0.40529415,126.0,129.0
+Spizella passerina_Chipping Sparrow,0.3166894,127.0,130.0
+Spizella passerina_Chipping Sparrow,0.384192,128.0,131.0
+Spizella passerina_Chipping Sparrow,0.2654886,129.0,132.0
+Molothrus ater_Brown-headed Cowbird,0.10038412,129.0,132.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12601072,131.0,134.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1720037,133.0,136.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1366062,133.0,136.0
+Setophaga virens_Black-throated Green Warbler,0.12328095,133.0,136.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27213436,135.0,138.0
+Setophaga cerulea_Cerulean Warbler,0.15668221,135.0,138.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10961564,139.0,142.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105114155,139.0,142.0
+Setophaga citrina_Hooded Warbler,0.15516639,141.0,144.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11139355,141.0,144.0
+Empidonax virescens_Acadian Flycatcher,0.19285852,143.0,146.0
+Setophaga citrina_Hooded Warbler,0.10842257,143.0,146.0
+Spizella passerina_Chipping Sparrow,0.14954259,146.0,149.0
+Spizella passerina_Chipping Sparrow,0.37251046,147.0,150.0
+Molothrus ater_Brown-headed Cowbird,0.1285717,147.0,150.0
+Molothrus ater_Brown-headed Cowbird,0.15733208,148.0,151.0
+Spizella passerina_Chipping Sparrow,0.3619911,151.0,154.0
+Spizella passerina_Chipping Sparrow,0.26845646,152.0,155.0
+Spizella passerina_Chipping Sparrow,0.1031625,153.0,156.0
+Spizella passerina_Chipping Sparrow,0.14878334,154.0,157.0
+Spizella passerina_Chipping Sparrow,0.2679456,156.0,159.0
+Spizella passerina_Chipping Sparrow,0.39254367,157.0,160.0
+Setophaga virens_Black-throated Green Warbler,0.10530839,157.0,160.0
+Spizella passerina_Chipping Sparrow,0.40389052,158.0,161.0
+Molothrus ater_Brown-headed Cowbird,0.19823898,158.0,161.0
+Spizella passerina_Chipping Sparrow,0.3976297,159.0,162.0
+Molothrus ater_Brown-headed Cowbird,0.23436682,159.0,162.0
+Spizella passerina_Chipping Sparrow,0.43555453,160.0,163.0
+Molothrus ater_Brown-headed Cowbird,0.1025671,160.0,163.0
+Spizella passerina_Chipping Sparrow,0.13799709,161.0,164.0
+Setophaga virens_Black-throated Green Warbler,0.115029305,161.0,164.0
+Spizella passerina_Chipping Sparrow,0.14525743,162.0,165.0
+Archilochus colubris_Ruby-throated Hummingbird,0.104321115,162.0,165.0
+Setophaga fusca_Blackburnian Warbler,0.19189198,164.0,167.0
+Helmitheros vermivorum_Worm-eating Warbler,0.104920834,164.0,167.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16989748,165.0,168.0
+Setophaga fusca_Blackburnian Warbler,0.107691675,165.0,168.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17216519,166.0,169.0
+Spizella passerina_Chipping Sparrow,0.23160355,167.0,170.0
+Spizella passerina_Chipping Sparrow,0.14884184,169.0,172.0
+Setophaga fusca_Blackburnian Warbler,0.12505318,170.0,173.0
+Setophaga tigrina_Cape May Warbler,0.1101097,170.0,173.0
+Spizella passerina_Chipping Sparrow,0.29614386,171.0,174.0
+Junco hyemalis_Dark-eyed Junco,0.1855444,171.0,174.0
+Spizella passerina_Chipping Sparrow,0.15451539,172.0,175.0
+Spizella passerina_Chipping Sparrow,0.12462529,173.0,176.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16686293,174.0,177.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15420185,176.0,179.0
+Spizella passerina_Chipping Sparrow,0.12838382,177.0,180.0
+Spizella passerina_Chipping Sparrow,0.11101754,178.0,181.0
+Setophaga virens_Black-throated Green Warbler,0.19118586,179.0,182.0
+Peucaea aestivalis_Bachman's Sparrow,0.18708107,179.0,182.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25259605,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115693524,182.0,185.0
+Setophaga fusca_Blackburnian Warbler,0.10133704,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19756627,183.0,186.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14877947,183.0,186.0
+Setophaga fusca_Blackburnian Warbler,0.13864385,183.0,186.0
+Empidonax virescens_Acadian Flycatcher,0.10312516,183.0,186.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14536418,185.0,188.0
+Setophaga fusca_Blackburnian Warbler,0.11220793,185.0,188.0
+Setophaga virens_Black-throated Green Warbler,0.107549675,186.0,189.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10088392,186.0,189.0
+Spizella passerina_Chipping Sparrow,0.14942086,187.0,190.0
+Setophaga fusca_Blackburnian Warbler,0.12983304,187.0,190.0
+Setophaga virens_Black-throated Green Warbler,0.114421174,187.0,190.0
+Helmitheros vermivorum_Worm-eating Warbler,0.111621246,187.0,190.0
+Setophaga virens_Black-throated Green Warbler,0.13540754,188.0,191.0
+Spizella passerina_Chipping Sparrow,0.635174,189.0,192.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18992509,189.0,192.0
+Setophaga virens_Black-throated Green Warbler,0.12564655,189.0,192.0
+Spizella passerina_Chipping Sparrow,0.49723116,190.0,193.0
+Setophaga virens_Black-throated Green Warbler,0.22574154,190.0,193.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14179847,190.0,193.0
+Spizella passerina_Chipping Sparrow,0.57406944,191.0,194.0
+Setophaga virens_Black-throated Green Warbler,0.11642054,191.0,194.0
+Spizella passerina_Chipping Sparrow,0.2785683,192.0,195.0
+Setophaga fusca_Blackburnian Warbler,0.12317929,192.0,195.0
+Setophaga virens_Black-throated Green Warbler,0.11228549,192.0,195.0
+Spizella passerina_Chipping Sparrow,0.31676382,193.0,196.0
+Setophaga virens_Black-throated Green Warbler,0.19037086,193.0,196.0
+Spizella passerina_Chipping Sparrow,0.49645558,194.0,197.0
+Setophaga virens_Black-throated Green Warbler,0.37859353,194.0,197.0
+Spizella passerina_Chipping Sparrow,0.14623341,195.0,198.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12101616,195.0,198.0
+Setophaga virens_Black-throated Green Warbler,0.23405902,196.0,199.0
+Setophaga fusca_Blackburnian Warbler,0.16633092,196.0,199.0
+Setophaga fusca_Blackburnian Warbler,0.32598168,197.0,200.0
+Setophaga virens_Black-throated Green Warbler,0.13663545,197.0,200.0
+Setophaga fusca_Blackburnian Warbler,0.49073935,198.0,201.0
+Setophaga virens_Black-throated Green Warbler,0.22307143,198.0,201.0
+Setophaga fusca_Blackburnian Warbler,0.12704325,199.0,202.0
+Spizella passerina_Chipping Sparrow,0.18332528,200.0,203.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15598832,200.0,203.0
+Setophaga virens_Black-throated Green Warbler,0.107175514,200.0,203.0
+Spizella passerina_Chipping Sparrow,0.24419631,201.0,204.0
+Spizella passerina_Chipping Sparrow,0.62946045,202.0,205.0
+Setophaga virens_Black-throated Green Warbler,0.118564375,202.0,205.0
+Spizella passerina_Chipping Sparrow,0.34124836,203.0,206.0
+Setophaga virens_Black-throated Green Warbler,0.1358731,203.0,206.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11094462,203.0,206.0
+Setophaga virens_Black-throated Green Warbler,0.20372698,204.0,207.0
+Spizella passerina_Chipping Sparrow,0.18081994,204.0,207.0
+Spizella passerina_Chipping Sparrow,0.3652894,205.0,208.0
+Setophaga virens_Black-throated Green Warbler,0.19958343,205.0,208.0
+Setophaga fusca_Blackburnian Warbler,0.1637528,206.0,209.0
+Setophaga virens_Black-throated Green Warbler,0.15582103,206.0,209.0
+Setophaga fusca_Blackburnian Warbler,0.13303378,207.0,210.0
+Setophaga virens_Black-throated Green Warbler,0.16407594,208.0,211.0
+Setophaga fusca_Blackburnian Warbler,0.14268306,208.0,211.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11649755,210.0,213.0
+Spizella passerina_Chipping Sparrow,0.2599448,213.0,216.0
+Spizella passerina_Chipping Sparrow,0.56615937,214.0,217.0
+Spizella passerina_Chipping Sparrow,0.4568619,215.0,218.0
+Spizella passerina_Chipping Sparrow,0.25223958,216.0,219.0
+Troglodytes hiemalis_Winter Wren,0.19269566,216.0,219.0
+Spizella passerina_Chipping Sparrow,0.58814716,217.0,220.0
+Spizella passerina_Chipping Sparrow,0.6066183,218.0,221.0
+Spizella passerina_Chipping Sparrow,0.6641553,219.0,222.0
+Spizella passerina_Chipping Sparrow,0.2969463,220.0,223.0
+Setophaga virens_Black-throated Green Warbler,0.13920522,220.0,223.0
+Setophaga fusca_Blackburnian Warbler,0.13436839,220.0,223.0
+Spizella passerina_Chipping Sparrow,0.729372,221.0,224.0
+Setophaga virens_Black-throated Green Warbler,0.3611884,221.0,224.0
+Spizella passerina_Chipping Sparrow,0.33515152,222.0,225.0
+Setophaga virens_Black-throated Green Warbler,0.14248928,222.0,225.0
+Spizella passerina_Chipping Sparrow,0.41606534,223.0,226.0
+Spizella passerina_Chipping Sparrow,0.4008069,224.0,227.0
+Setophaga virens_Black-throated Green Warbler,0.13073656,224.0,227.0
+Spizella passerina_Chipping Sparrow,0.8246236,225.0,228.0
+Molothrus ater_Brown-headed Cowbird,0.22125381,225.0,228.0
+Spizella passerina_Chipping Sparrow,0.7961841,226.0,229.0
+Molothrus ater_Brown-headed Cowbird,0.3118659,226.0,229.0
+Setophaga virens_Black-throated Green Warbler,0.10956611,226.0,229.0
+Spizella passerina_Chipping Sparrow,0.8146687,227.0,230.0
+Molothrus ater_Brown-headed Cowbird,0.30403754,227.0,230.0
+Spizella passerina_Chipping Sparrow,0.72064245,228.0,231.0
+Molothrus ater_Brown-headed Cowbird,0.20899089,228.0,231.0
+Spizella passerina_Chipping Sparrow,0.53991956,229.0,232.0
+Molothrus ater_Brown-headed Cowbird,0.15144521,229.0,232.0
+Spizella passerina_Chipping Sparrow,0.6962731,230.0,233.0
+Molothrus ater_Brown-headed Cowbird,0.14110033,230.0,233.0
+Spizella passerina_Chipping Sparrow,0.7285647,231.0,234.0
+Spizella passerina_Chipping Sparrow,0.4261682,232.0,235.0
+Spizella passerina_Chipping Sparrow,0.6781507,233.0,236.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11986533,233.0,236.0
+Spizella passerina_Chipping Sparrow,0.6868587,234.0,237.0
+Molothrus ater_Brown-headed Cowbird,0.20644087,234.0,237.0
+Spizella passerina_Chipping Sparrow,0.85640764,235.0,238.0
+Molothrus ater_Brown-headed Cowbird,0.57338345,235.0,238.0
+Spizella passerina_Chipping Sparrow,0.72910637,236.0,239.0
+Spizella passerina_Chipping Sparrow,0.7400051,237.0,240.0
+Molothrus ater_Brown-headed Cowbird,0.23536447,237.0,240.0
+Spizella passerina_Chipping Sparrow,0.78918594,238.0,241.0
+Spizella passerina_Chipping Sparrow,0.88373715,239.0,242.0
+Spizella passerina_Chipping Sparrow,0.53728694,240.0,243.0
+Setophaga fusca_Blackburnian Warbler,0.37788433,240.0,243.0
+Setophaga striata_Blackpoll Warbler,0.19869643,241.0,244.0
+Setophaga fusca_Blackburnian Warbler,0.1542676,241.0,244.0
+Setophaga fusca_Blackburnian Warbler,0.16717261,242.0,245.0
+Spizella passerina_Chipping Sparrow,0.37923822,243.0,246.0
+Setophaga virens_Black-throated Green Warbler,0.16884603,243.0,246.0
+Spizella passerina_Chipping Sparrow,0.8066205,244.0,247.0
+Setophaga virens_Black-throated Green Warbler,0.21277606,244.0,247.0
+Spizella passerina_Chipping Sparrow,0.6407488,245.0,248.0
+Setophaga virens_Black-throated Green Warbler,0.36046162,245.0,248.0
+Spizella passerina_Chipping Sparrow,0.4807234,246.0,249.0
+Molothrus ater_Brown-headed Cowbird,0.106415294,246.0,249.0
+Spizella passerina_Chipping Sparrow,0.28874758,247.0,250.0
+Spizella passerina_Chipping Sparrow,0.30782485,248.0,251.0
+Molothrus ater_Brown-headed Cowbird,0.2747826,248.0,251.0
+Spizella passerina_Chipping Sparrow,0.5072726,249.0,252.0
+Molothrus ater_Brown-headed Cowbird,0.12500475,249.0,252.0
+Spizella passerina_Chipping Sparrow,0.6816446,250.0,253.0
+Molothrus ater_Brown-headed Cowbird,0.12675221,250.0,253.0
+Spizella passerina_Chipping Sparrow,0.7335995,251.0,254.0
+Molothrus ater_Brown-headed Cowbird,0.14437854,251.0,254.0
+Spizella passerina_Chipping Sparrow,0.7280648,252.0,255.0
+Molothrus ater_Brown-headed Cowbird,0.11711012,252.0,255.0
+Spizella passerina_Chipping Sparrow,0.49377564,253.0,256.0
+Molothrus ater_Brown-headed Cowbird,0.11260846,253.0,256.0
+Spizella passerina_Chipping Sparrow,0.334879,254.0,257.0
+Molothrus ater_Brown-headed Cowbird,0.10029893,254.0,257.0
+Spizella passerina_Chipping Sparrow,0.768782,255.0,258.0
+Spizella passerina_Chipping Sparrow,0.8391961,256.0,259.0
+Helmitheros vermivorum_Worm-eating Warbler,0.104409076,256.0,259.0
+Spizella passerina_Chipping Sparrow,0.6188248,257.0,260.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19586241,257.0,260.0
+Setophaga virens_Black-throated Green Warbler,0.16100423,257.0,260.0
+Spizella passerina_Chipping Sparrow,0.62243706,258.0,261.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13402471,258.0,261.0
+Spizella passerina_Chipping Sparrow,0.8549549,259.0,262.0
+Molothrus ater_Brown-headed Cowbird,0.15101323,259.0,262.0
+Spizella passerina_Chipping Sparrow,0.7856583,260.0,263.0
+Molothrus ater_Brown-headed Cowbird,0.11704453,260.0,263.0
+Spizella passerina_Chipping Sparrow,0.8465479,261.0,264.0
+Molothrus ater_Brown-headed Cowbird,0.11091105,261.0,264.0
+Spizella passerina_Chipping Sparrow,0.9045875,262.0,265.0
+Spizella passerina_Chipping Sparrow,0.88655084,263.0,266.0
+Spizella passerina_Chipping Sparrow,0.49678886,264.0,267.0
+Spizella passerina_Chipping Sparrow,0.68314224,265.0,268.0
+Spizella passerina_Chipping Sparrow,0.25227267,266.0,269.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11596978,266.0,269.0
+Spizella passerina_Chipping Sparrow,0.60760796,267.0,270.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2109507,267.0,270.0
+Spizella passerina_Chipping Sparrow,0.563171,268.0,271.0
+Spizella passerina_Chipping Sparrow,0.3606012,269.0,272.0
+Spizella passerina_Chipping Sparrow,0.3521195,270.0,273.0
+Spizella passerina_Chipping Sparrow,0.50147176,271.0,274.0
+Spizella passerina_Chipping Sparrow,0.51770747,272.0,275.0
+Spizella passerina_Chipping Sparrow,0.18541446,273.0,276.0
+Spizella passerina_Chipping Sparrow,0.3970727,274.0,277.0
+Spizella passerina_Chipping Sparrow,0.5532127,275.0,278.0
+Spizella passerina_Chipping Sparrow,0.36412802,276.0,279.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11995559,276.0,279.0
+Spizella passerina_Chipping Sparrow,0.6795154,277.0,280.0
+Helmitheros vermivorum_Worm-eating Warbler,0.27905098,277.0,280.0
+Spizella passerina_Chipping Sparrow,0.5126175,278.0,281.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1450967,278.0,281.0
+Spizella passerina_Chipping Sparrow,0.46252334,279.0,282.0
+Spizella passerina_Chipping Sparrow,0.4996078,280.0,283.0
+Setophaga virens_Black-throated Green Warbler,0.122047044,280.0,283.0
+Spizella passerina_Chipping Sparrow,0.559813,281.0,284.0
+Setophaga virens_Black-throated Green Warbler,0.13335812,281.0,284.0
+Molothrus ater_Brown-headed Cowbird,0.11082956,281.0,284.0
+Spizella passerina_Chipping Sparrow,0.7490237,282.0,285.0
+Spizella passerina_Chipping Sparrow,0.67334485,283.0,286.0
+Spizella passerina_Chipping Sparrow,0.33769748,284.0,287.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11671391,284.0,287.0
+Spizella passerina_Chipping Sparrow,0.4212419,285.0,288.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2306337,285.0,288.0
+Spizella passerina_Chipping Sparrow,0.30913946,286.0,289.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13804705,286.0,289.0
+Spizella passerina_Chipping Sparrow,0.6645485,287.0,290.0
+Spizella passerina_Chipping Sparrow,0.11731799,288.0,291.0
+Spizella passerina_Chipping Sparrow,0.28792712,289.0,292.0
+Spizella passerina_Chipping Sparrow,0.21638352,290.0,293.0
+Spizella passerina_Chipping Sparrow,0.15327232,291.0,294.0
+Spizella passerina_Chipping Sparrow,0.6048315,294.0,297.0
+Spizella passerina_Chipping Sparrow,0.20964637,295.0,298.0
+Setophaga virens_Black-throated Green Warbler,0.13445362,295.0,298.0
+Spizella passerina_Chipping Sparrow,0.25044438,296.0,299.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12633969,297.0,300.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18132982,298.0,301.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17163189,298.0,301.0
+Empidonax virescens_Acadian Flycatcher,0.108176485,298.0,301.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23232862,299.0,302.0
+Piranga olivacea_Scarlet Tanager,0.12318686,299.0,302.0
+Empidonax virescens_Acadian Flycatcher,0.11961738,299.0,302.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11952467,299.0,302.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19742288,300.0,303.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15392952,300.0,303.0
+Setophaga fusca_Blackburnian Warbler,0.10451871,300.0,303.0
+Piranga olivacea_Scarlet Tanager,0.10342842,300.0,303.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15002844,302.0,305.0
+Bombycilla cedrorum_Cedar Waxwing,0.12014251,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11397352,304.0,307.0
+Bombycilla cedrorum_Cedar Waxwing,0.1638768,306.0,309.0
+Setophaga fusca_Blackburnian Warbler,0.12696882,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102636166,307.0,310.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13724782,309.0,312.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11512633,309.0,312.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11669435,310.0,313.0
+Setophaga fusca_Blackburnian Warbler,0.11324872,310.0,313.0
+Helmitheros vermivorum_Worm-eating Warbler,0.102297306,310.0,313.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18156372,311.0,314.0
+Empidonax virescens_Acadian Flycatcher,0.150903,311.0,314.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14233516,311.0,314.0
+Setophaga fusca_Blackburnian Warbler,0.11046755,311.0,314.0
+Piranga olivacea_Scarlet Tanager,0.1005659,311.0,314.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17555566,313.0,316.0
+Buteo platypterus_Broad-winged Hawk,0.11686293,313.0,316.0
+Setophaga fusca_Blackburnian Warbler,0.11664329,313.0,316.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1078172,313.0,316.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12501042,314.0,317.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2713642,315.0,318.0
+Setophaga fusca_Blackburnian Warbler,0.14723614,315.0,318.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14054973,315.0,318.0
+Buteo platypterus_Broad-winged Hawk,0.11485839,315.0,318.0
+Setophaga virens_Black-throated Green Warbler,0.111910254,315.0,318.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24991438,316.0,319.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2224141,316.0,319.0
+Setophaga fusca_Blackburnian Warbler,0.15617731,316.0,319.0
+Buteo platypterus_Broad-winged Hawk,0.15246749,316.0,319.0
+Setophaga virens_Black-throated Green Warbler,0.11078507,316.0,319.0
+Setophaga tigrina_Cape May Warbler,0.20021446,317.0,320.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15314662,317.0,320.0
+Setophaga fusca_Blackburnian Warbler,0.10078954,317.0,320.0
+Setophaga fusca_Blackburnian Warbler,0.163415,318.0,321.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12623882,318.0,321.0
+Setophaga tigrina_Cape May Warbler,0.21525301,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18146399,319.0,322.0
+Setophaga fusca_Blackburnian Warbler,0.1601639,319.0,322.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1216806,320.0,323.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2835361,322.0,325.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15615587,322.0,325.0
+Setophaga citrina_Hooded Warbler,0.1545989,322.0,325.0
+Setophaga tigrina_Cape May Warbler,0.12362665,323.0,326.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10565674,323.0,326.0
+Setophaga tigrina_Cape May Warbler,0.18717925,324.0,327.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18802966,326.0,329.0
+Helmitheros vermivorum_Worm-eating Warbler,0.103244424,326.0,329.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20742744,327.0,330.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20758279,328.0,331.0
+Setophaga fusca_Blackburnian Warbler,0.10657589,328.0,331.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26086384,329.0,332.0
+Setophaga fusca_Blackburnian Warbler,0.16914582,329.0,332.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16075079,329.0,332.0
+Buteo platypterus_Broad-winged Hawk,0.112982295,329.0,332.0
+Setophaga virens_Black-throated Green Warbler,0.10390392,329.0,332.0
+Certhia americana_Brown Creeper,0.11447898,330.0,333.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1002773,330.0,333.0
+Setophaga fusca_Blackburnian Warbler,0.16856965,331.0,334.0
+Setophaga fusca_Blackburnian Warbler,0.19515066,332.0,335.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13826583,332.0,335.0
+Certhia americana_Brown Creeper,0.13029642,333.0,336.0
+Certhia americana_Brown Creeper,0.108305246,334.0,337.0
+Setophaga fusca_Blackburnian Warbler,0.2014664,335.0,338.0
+Setophaga fusca_Blackburnian Warbler,0.17524411,338.0,341.0
+Spizella passerina_Chipping Sparrow,0.31595257,342.0,345.0
+Spizella passerina_Chipping Sparrow,0.54846174,343.0,346.0
+Junco hyemalis_Dark-eyed Junco,0.14293493,343.0,346.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1089456,343.0,346.0
+Setophaga virens_Black-throated Green Warbler,0.1004518,343.0,346.0
+Spizella passerina_Chipping Sparrow,0.58214307,344.0,347.0
+Junco hyemalis_Dark-eyed Junco,0.11267252,344.0,347.0
+Spizella passerina_Chipping Sparrow,0.5165203,345.0,348.0
+Spizella passerina_Chipping Sparrow,0.6048261,346.0,349.0
+Spizella passerina_Chipping Sparrow,0.2371282,347.0,350.0
+Setophaga fusca_Blackburnian Warbler,0.12197941,348.0,351.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11970961,348.0,351.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10819093,348.0,351.0
+Setophaga fusca_Blackburnian Warbler,0.12264546,349.0,352.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100395925,349.0,352.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10021794,349.0,352.0
+Helmitheros vermivorum_Worm-eating Warbler,0.25777948,350.0,353.0
+Empidonax virescens_Acadian Flycatcher,0.14355557,350.0,353.0
+Setophaga fusca_Blackburnian Warbler,0.10516642,350.0,353.0
+Setophaga fusca_Blackburnian Warbler,0.11112868,351.0,354.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18522133,352.0,355.0
+Vireo olivaceus_Red-eyed Vireo,0.17509909,353.0,356.0
+Piranga olivacea_Scarlet Tanager,0.13210759,353.0,356.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15325303,354.0,357.0
+Piranga olivacea_Scarlet Tanager,0.13268812,354.0,357.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11887255,354.0,357.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16275615,355.0,358.0
+Empidonax virescens_Acadian Flycatcher,0.13626397,355.0,358.0
+Vireo olivaceus_Red-eyed Vireo,0.11094591,357.0,360.0
+Spizella passerina_Chipping Sparrow,0.446556,358.0,361.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14526945,358.0,361.0
+Spizella passerina_Chipping Sparrow,0.59675986,359.0,362.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19550179,359.0,362.0
+Spizella passerina_Chipping Sparrow,0.41351745,360.0,363.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22390692,360.0,363.0
+Poecile gambeli_Mountain Chickadee,0.11936661,363.0,366.0
+Setophaga fusca_Blackburnian Warbler,0.11165866,365.0,368.0
+Spizella passerina_Chipping Sparrow,0.32616216,366.0,369.0
+Molothrus ater_Brown-headed Cowbird,0.15554567,366.0,369.0
+Molothrus ater_Brown-headed Cowbird,0.22285116,367.0,370.0
+Spizella passerina_Chipping Sparrow,0.21045765,367.0,370.0
+Spizella passerina_Chipping Sparrow,0.26128718,368.0,371.0
+Molothrus ater_Brown-headed Cowbird,0.19269831,368.0,371.0
+Spizella passerina_Chipping Sparrow,0.105607145,369.0,372.0
+Molothrus ater_Brown-headed Cowbird,0.25244334,370.0,373.0
+Spizella passerina_Chipping Sparrow,0.23113626,370.0,373.0
+Spizella passerina_Chipping Sparrow,0.24881592,371.0,374.0
+Teretistris fornsi_Oriente Warbler,0.17225406,371.0,374.0
+Spizella passerina_Chipping Sparrow,0.21214254,374.0,377.0
+Spizella passerina_Chipping Sparrow,0.1698171,375.0,378.0
+Spizella passerina_Chipping Sparrow,0.37017322,376.0,379.0
+Troglodytes hiemalis_Winter Wren,0.2046276,376.0,379.0
+Spizella passerina_Chipping Sparrow,0.24394691,377.0,380.0
+Spizella passerina_Chipping Sparrow,0.3950595,378.0,381.0
+Setophaga virens_Black-throated Green Warbler,0.10937129,382.0,385.0
+Spizella passerina_Chipping Sparrow,0.14011136,383.0,386.0
+Chlorospingus flavopectus_Common Chlorospingus,0.14183651,384.0,387.0
+Setophaga virens_Black-throated Green Warbler,0.15833697,387.0,390.0
+Spizella passerina_Chipping Sparrow,0.21543026,394.0,397.0
+Spizella passerina_Chipping Sparrow,0.3149169,395.0,398.0
+Spizella passerina_Chipping Sparrow,0.34670532,396.0,399.0
+Spizella passerina_Chipping Sparrow,0.40402126,397.0,400.0
+Molothrus ater_Brown-headed Cowbird,0.11253675,397.0,400.0
+Spizella passerina_Chipping Sparrow,0.37647837,398.0,401.0
+Spizella passerina_Chipping Sparrow,0.7198382,399.0,402.0
+Molothrus ater_Brown-headed Cowbird,0.18698023,399.0,402.0
+Spizella passerina_Chipping Sparrow,0.44959295,400.0,403.0
+Spizella passerina_Chipping Sparrow,0.669263,401.0,404.0
+Molothrus ater_Brown-headed Cowbird,0.3087922,401.0,404.0
+Spizella passerina_Chipping Sparrow,0.53959817,402.0,405.0
+Molothrus ater_Brown-headed Cowbird,0.27211344,402.0,405.0
+Spizella passerina_Chipping Sparrow,0.4374033,403.0,406.0
+Molothrus ater_Brown-headed Cowbird,0.36385554,403.0,406.0
+Spizella passerina_Chipping Sparrow,0.8206842,404.0,407.0
+Molothrus ater_Brown-headed Cowbird,0.32479724,404.0,407.0
+Spizella passerina_Chipping Sparrow,0.7000471,405.0,408.0
+Molothrus ater_Brown-headed Cowbird,0.22595993,405.0,408.0
+Spizella passerina_Chipping Sparrow,0.3548506,406.0,409.0
+Molothrus ater_Brown-headed Cowbird,0.10622087,406.0,409.0
+Spizella passerina_Chipping Sparrow,0.28349262,407.0,410.0
+Molothrus ater_Brown-headed Cowbird,0.17469576,408.0,411.0
+Spizella passerina_Chipping Sparrow,0.1629271,408.0,411.0
+Setophaga virens_Black-throated Green Warbler,0.12193283,408.0,411.0
+Molothrus ater_Brown-headed Cowbird,0.32599348,409.0,412.0
+Spizella passerina_Chipping Sparrow,0.23610792,409.0,412.0
+Junco phaeonotus_Yellow-eyed Junco,0.10479231,409.0,412.0
+Junco phaeonotus_Yellow-eyed Junco,0.17332518,410.0,413.0
+Spizella passerina_Chipping Sparrow,0.10600915,415.0,418.0
+Spizella passerina_Chipping Sparrow,0.24594963,416.0,419.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13185386,417.0,420.0
+Setophaga fusca_Blackburnian Warbler,0.109628625,417.0,420.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11946281,420.0,423.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13207358,424.0,427.0
+Dryobates villosus_Hairy Woodpecker,0.10233857,428.0,431.0
+Dryobates villosus_Hairy Woodpecker,0.39353517,429.0,432.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16513833,430.0,433.0
+Dryobates villosus_Hairy Woodpecker,0.12558857,430.0,433.0
+Helmitheros vermivorum_Worm-eating Warbler,0.105253376,433.0,436.0
+Vireo solitarius_Blue-headed Vireo,0.1314847,434.0,437.0
+Spizella passerina_Chipping Sparrow,0.14999051,437.0,440.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15389454,438.0,441.0
+Spizella passerina_Chipping Sparrow,0.65276474,442.0,445.0
+Spizella passerina_Chipping Sparrow,0.19811462,443.0,446.0
+Spizella passerina_Chipping Sparrow,0.43026754,444.0,447.0
+Tamiasciurus hudsonicus_Red Squirrel,0.124643825,452.0,455.0
+Setophaga fusca_Blackburnian Warbler,0.17347577,454.0,457.0
+Certhia americana_Brown Creeper,0.13943176,454.0,457.0
+Regulus satrapa_Golden-crowned Kinglet,0.10762159,454.0,457.0
+Certhia americana_Brown Creeper,0.100216195,455.0,458.0
+Ficedula parva_Red-breasted Flycatcher,0.11456316,456.0,459.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102514155,457.0,460.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10418991,458.0,461.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106354736,459.0,462.0
+Ammodramus savannarum_Grasshopper Sparrow,0.46304017,466.0,469.0
+Miogryllus saussurei_Miogryllus saussurei,0.27621746,466.0,469.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17493,467.0,470.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31168535,468.0,471.0
+Helmitheros vermivorum_Worm-eating Warbler,0.36883625,469.0,472.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22533415,470.0,473.0
+Setophaga citrina_Hooded Warbler,0.11246214,470.0,473.0
+Helmitheros vermivorum_Worm-eating Warbler,0.111241154,472.0,475.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10903567,473.0,476.0
+Setophaga striata_Blackpoll Warbler,0.32313526,474.0,477.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19862875,475.0,478.0
+Empidonax virescens_Acadian Flycatcher,0.1239781,475.0,478.0
+Setophaga fusca_Blackburnian Warbler,0.24390437,476.0,479.0
+Ficedula parva_Red-breasted Flycatcher,0.1379703,476.0,479.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1299752,476.0,479.0
+Setophaga fusca_Blackburnian Warbler,0.110228874,477.0,480.0
+Ficedula parva_Red-breasted Flycatcher,0.10120923,477.0,480.0
+Setophaga fusca_Blackburnian Warbler,0.11780965,478.0,481.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1953465,479.0,482.0
+Certhia americana_Brown Creeper,0.10720368,479.0,482.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15386721,480.0,483.0
+Setophaga fusca_Blackburnian Warbler,0.10368604,480.0,483.0
+Helmitheros vermivorum_Worm-eating Warbler,0.24197502,481.0,484.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14735682,482.0,485.0

@@ -1,0 +1,91 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.99811137,0.0,3.0
+Junco phaeonotus_Yellow-eyed Junco,0.244282,0.0,3.0
+Junco hyemalis_Dark-eyed Junco,0.9956255,1.0,4.0
+Junco phaeonotus_Yellow-eyed Junco,0.16622303,1.0,4.0
+Junco hyemalis_Dark-eyed Junco,0.9905503,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.7865787,3.0,6.0
+Junco phaeonotus_Yellow-eyed Junco,0.51844305,3.0,6.0
+Junco phaeonotus_Yellow-eyed Junco,0.44139704,9.0,12.0
+Junco hyemalis_Dark-eyed Junco,0.99207944,10.0,13.0
+Junco phaeonotus_Yellow-eyed Junco,0.35194647,10.0,13.0
+Junco hyemalis_Dark-eyed Junco,0.9979662,11.0,14.0
+Junco hyemalis_Dark-eyed Junco,0.98084086,12.0,15.0
+Spizella passerina_Chipping Sparrow,0.14661865,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.88951695,13.0,16.0
+Junco phaeonotus_Yellow-eyed Junco,0.22988111,13.0,16.0
+Cardellina rubrifrons_Red-faced Warbler,0.13243207,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.11817797,17.0,20.0
+Cardellina rubrifrons_Red-faced Warbler,0.11339345,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111525275,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17473981,25.0,28.0
+Buteo platypterus_Broad-winged Hawk,0.14021583,25.0,28.0
+Setophaga fusca_Blackburnian Warbler,0.105487764,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18148065,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.9942275,33.0,36.0
+Junco phaeonotus_Yellow-eyed Junco,0.55977535,33.0,36.0
+Junco hyemalis_Dark-eyed Junco,0.99862707,34.0,37.0
+Junco phaeonotus_Yellow-eyed Junco,0.14135836,34.0,37.0
+Junco hyemalis_Dark-eyed Junco,0.99577063,35.0,38.0
+Junco phaeonotus_Yellow-eyed Junco,0.13940069,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.97423834,36.0,39.0
+Junco phaeonotus_Yellow-eyed Junco,0.6656664,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29712668,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13301405,42.0,45.0
+Junco phaeonotus_Yellow-eyed Junco,0.8713405,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.75503117,48.0,51.0
+Junco hyemalis_Dark-eyed Junco,0.9898728,49.0,52.0
+Junco phaeonotus_Yellow-eyed Junco,0.20630129,49.0,52.0
+Junco hyemalis_Dark-eyed Junco,0.99781215,50.0,53.0
+Junco hyemalis_Dark-eyed Junco,0.9750022,51.0,54.0
+Junco hyemalis_Dark-eyed Junco,0.9118773,52.0,55.0
+Junco phaeonotus_Yellow-eyed Junco,0.3045334,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.17616329,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11321165,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.1357421,65.0,68.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12313627,65.0,68.0
+Junco hyemalis_Dark-eyed Junco,0.98015666,67.0,70.0
+Junco phaeonotus_Yellow-eyed Junco,0.34032813,67.0,70.0
+Junco hyemalis_Dark-eyed Junco,0.99587786,68.0,71.0
+Junco phaeonotus_Yellow-eyed Junco,0.11001076,68.0,71.0
+Junco hyemalis_Dark-eyed Junco,0.99900323,69.0,72.0
+Junco phaeonotus_Yellow-eyed Junco,0.100711115,69.0,72.0
+Junco hyemalis_Dark-eyed Junco,0.9908013,70.0,73.0
+Junco phaeonotus_Yellow-eyed Junco,0.18513075,70.0,73.0
+Setophaga fusca_Blackburnian Warbler,0.15384322,73.0,76.0
+Buteo platypterus_Broad-winged Hawk,0.10355308,73.0,76.0
+Setophaga fusca_Blackburnian Warbler,0.14464602,74.0,77.0
+Setophaga fusca_Blackburnian Warbler,0.12111335,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123359516,77.0,80.0
+Setophaga fusca_Blackburnian Warbler,0.15605189,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13229276,78.0,81.0
+Buteo platypterus_Broad-winged Hawk,0.12508805,78.0,81.0
+Buteo platypterus_Broad-winged Hawk,0.15529703,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.10795,84.0,87.0
+Setophaga fusca_Blackburnian Warbler,0.16647236,85.0,88.0
+Buteo platypterus_Broad-winged Hawk,0.1355497,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.10790287,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10410832,90.0,93.0
+Pnoepyga formosana_Taiwan Cupwing,0.15804337,92.0,95.0
+Junco hyemalis_Dark-eyed Junco,0.99653184,93.0,96.0
+Junco phaeonotus_Yellow-eyed Junco,0.17455274,93.0,96.0
+Junco hyemalis_Dark-eyed Junco,0.9965928,94.0,97.0
+Junco hyemalis_Dark-eyed Junco,0.9803506,95.0,98.0
+Junco hyemalis_Dark-eyed Junco,0.967159,96.0,99.0
+Junco phaeonotus_Yellow-eyed Junco,0.5300469,96.0,99.0
+Todus subulatus_Broad-billed Tody,0.1481275,101.0,104.0
+Todus subulatus_Broad-billed Tody,0.12595892,103.0,106.0
+Todus subulatus_Broad-billed Tody,0.2673097,104.0,107.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.22229025,104.0,107.0
+Buteo ridgwayi_Ridgway's Hawk,0.13439792,104.0,107.0
+Todus subulatus_Broad-billed Tody,0.13784367,105.0,108.0
+Melanerpes striatus_Hispaniolan Woodpecker,0.12909229,105.0,108.0
+Tamiasciurus hudsonicus_Red Squirrel,0.22614749,106.0,109.0
+Tamias striatus_Eastern Chipmunk,0.1204448,106.0,109.0
+Tamias striatus_Eastern Chipmunk,0.18056476,110.0,113.0
+Todus subulatus_Broad-billed Tody,0.13963366,111.0,114.0
+Buteo ridgwayi_Ridgway's Hawk,0.31305578,112.0,115.0
+Buteo ridgwayi_Ridgway's Hawk,0.1929893,113.0,116.0
+Buteo ridgwayi_Ridgway's Hawk,0.17602365,114.0,117.0
+Buteo ridgwayi_Ridgway's Hawk,0.16368061,115.0,118.0
+Buteo ridgwayi_Ridgway's Hawk,0.117999144,116.0,119.0

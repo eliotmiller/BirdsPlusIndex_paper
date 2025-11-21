@@ -1,0 +1,89 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.21304631,0.0,3.0
+Certhia americana_Brown Creeper,0.97962934,1.0,4.0
+Certhia americana_Brown Creeper,0.9889647,2.0,5.0
+Certhia americana_Brown Creeper,0.9927516,3.0,6.0
+Setophaga fusca_Blackburnian Warbler,0.102916636,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.20898461,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18024912,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.17365201,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16559054,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.11897787,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.1153969,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18844603,7.0,10.0
+Setophaga cerulea_Cerulean Warbler,0.14475924,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.102126874,7.0,10.0
+Buteo platypterus_Broad-winged Hawk,0.16746846,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11856518,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.11781059,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.10719891,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1424471,11.0,14.0
+Buteo platypterus_Broad-winged Hawk,0.13906771,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14780086,12.0,15.0
+Buteo platypterus_Broad-winged Hawk,0.12067851,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.105792925,12.0,15.0
+Certhia americana_Brown Creeper,0.31665838,13.0,16.0
+Certhia americana_Brown Creeper,0.9966738,14.0,17.0
+Certhia americana_Brown Creeper,0.9964341,15.0,18.0
+Certhia americana_Brown Creeper,0.9835226,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16031684,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.10875261,17.0,20.0
+Buteo platypterus_Broad-winged Hawk,0.10538288,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18143821,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.14209986,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18230817,19.0,22.0
+Buteo platypterus_Broad-winged Hawk,0.1254657,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.11102997,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13013987,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.124318935,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13146767,21.0,24.0
+Buteo platypterus_Broad-winged Hawk,0.105560996,21.0,24.0
+Certhia americana_Brown Creeper,0.44529277,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.14696772,22.0,25.0
+Certhia americana_Brown Creeper,0.9101065,23.0,26.0
+Certhia americana_Brown Creeper,0.99186206,24.0,27.0
+Certhia americana_Brown Creeper,0.9755047,25.0,28.0
+Setophaga magnolia_Magnolia Warbler,0.2021174,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.12122776,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17788295,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.13721196,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13720305,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.12097719,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10888081,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13198636,30.0,33.0
+Buteo platypterus_Broad-winged Hawk,0.11300673,30.0,33.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10270546,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20830189,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.1056932,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21589106,32.0,35.0
+Setophaga fusca_Blackburnian Warbler,0.1308449,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.11265884,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21157072,33.0,36.0
+Certhia americana_Brown Creeper,0.9486789,34.0,37.0
+Certhia americana_Brown Creeper,0.9698392,35.0,38.0
+Certhia americana_Brown Creeper,0.9105145,36.0,39.0
+Certhia americana_Brown Creeper,0.84079224,37.0,40.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16698028,38.0,41.0
+Setophaga citrina_Hooded Warbler,0.10100719,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17437916,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.100006625,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1513742,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12838851,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17753895,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.122541234,42.0,45.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1851331,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.12221091,43.0,46.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10118362,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15664664,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.11401997,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.10042288,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15352413,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.12854399,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.1156594,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.10245201,45.0,48.0
+Setophaga citrina_Hooded Warbler,0.110437326,46.0,49.0
+Certhia americana_Brown Creeper,0.9704872,47.0,50.0
+Certhia americana_Brown Creeper,0.9743844,48.0,51.0
+Certhia americana_Brown Creeper,0.86180323,49.0,52.0
+Certhia americana_Brown Creeper,0.966463,50.0,53.0
+Setophaga virens_Black-throated Green Warbler,0.24349637,50.0,53.0
