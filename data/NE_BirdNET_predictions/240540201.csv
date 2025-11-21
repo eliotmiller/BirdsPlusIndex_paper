@@ -1,0 +1,21 @@
+species,score,start_time,end_time
+Larus marinus_Great Black-backed Gull,0.5042546,0.0,3.0
+Larus hyperboreus_Glaucous Gull,0.27138478,0.0,3.0
+Larus argentatus_Herring Gull,0.13915293,0.0,3.0
+Larus glaucescens_Glaucous-winged Gull,0.1238016,0.0,3.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.1236088,1.0,4.0
+Larus glaucescens_Glaucous-winged Gull,0.21708347,5.0,8.0
+Larus argentatus_Herring Gull,0.2060188,5.0,8.0
+Anser erythropus_Lesser White-fronted Goose,0.116193816,5.0,8.0
+Larus glaucescens_Glaucous-winged Gull,0.1814557,6.0,9.0
+Larus argentatus_Herring Gull,0.12485237,6.0,9.0
+Larus argentatus_Herring Gull,0.12919994,7.0,10.0
+Gavia immer_Common Loon,0.104358695,7.0,10.0
+Larus argentatus_Herring Gull,0.7056233,8.0,11.0
+Larus hyperboreus_Glaucous Gull,0.21901798,8.0,11.0
+Larus argentatus_Herring Gull,0.5717219,9.0,12.0
+Larus hyperboreus_Glaucous Gull,0.3983138,9.0,12.0
+Larus dominicanus_Kelp Gull,0.10605013,9.0,12.0
+Larus argentatus_Herring Gull,0.4893677,10.0,12.552018140589569
+Larus hyperboreus_Glaucous Gull,0.370211,10.0,12.552018140589569
+Anser albifrons_Greater White-fronted Goose,0.120694794,10.0,12.552018140589569

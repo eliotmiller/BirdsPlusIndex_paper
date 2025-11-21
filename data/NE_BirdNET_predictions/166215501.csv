@@ -1,0 +1,37 @@
+species,score,start_time,end_time
+Vireo griseus_White-eyed Vireo,0.952276,0.0,3.0
+Troglodytes aedon_House Wren,0.27098745,0.0,3.0
+Vireo griseus_White-eyed Vireo,0.6850602,1.0,4.0
+Vireo griseus_White-eyed Vireo,0.8110585,2.0,5.0
+Vireo griseus_White-eyed Vireo,0.14111401,3.0,6.0
+Catharus minimus_Gray-cheeked Thrush,0.13620801,3.0,6.0
+Catharus bicknelli_Bicknell's Thrush,0.1097524,3.0,6.0
+Vireo griseus_White-eyed Vireo,0.89928466,4.0,7.0
+Vireo crassirostris_Thick-billed Vireo,0.22139451,4.0,7.0
+Vireo griseus_White-eyed Vireo,0.75293845,5.0,8.0
+Vireo crassirostris_Thick-billed Vireo,0.19072457,5.0,8.0
+Vireo griseus_White-eyed Vireo,0.7277184,6.0,9.0
+Vireo crassirostris_Thick-billed Vireo,0.24910195,6.0,9.0
+Vireo griseus_White-eyed Vireo,0.6412005,7.0,10.0
+Vireo crassirostris_Thick-billed Vireo,0.4301049,7.0,10.0
+Vireo griseus_White-eyed Vireo,0.45116198,8.0,11.0
+Vireo crassirostris_Thick-billed Vireo,0.11712765,8.0,11.0
+Vireo griseus_White-eyed Vireo,0.5083144,9.0,12.0
+Vireo crassirostris_Thick-billed Vireo,0.13788684,9.0,12.0
+Engine_Engine,0.18503106,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.13229156,10.0,13.0
+Engine_Engine,0.33858424,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.1842848,11.0,14.0
+Engine_Engine,0.25176668,12.0,15.0
+Vireo bellii_Bell's Vireo,0.29033774,13.0,16.0
+Vireo griseus_White-eyed Vireo,0.26528564,13.0,16.0
+Progne subis_Purple Martin,0.154287,13.0,16.0
+Vireo griseus_White-eyed Vireo,0.10644371,14.0,17.0
+Vireo flavifrons_Yellow-throated Vireo,0.13526194,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.3517171,16.0,19.0
+Tachycineta thalassina_Violet-green Swallow,0.117804,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.238979,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.19743448,21.0,24.0
+Vireo flavifrons_Yellow-throated Vireo,0.15112923,23.0,26.0
+Passer domesticus_House Sparrow,0.10509731,25.0,28.0
+Cynanthus latirostris_Broad-billed Hummingbird,0.1386872,26.0,28.34403628117914

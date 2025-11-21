@@ -1,0 +1,140 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.2391208,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.98832357,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.99617684,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9941658,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.67584866,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6097326,4.0,7.0
+Cardellina canadensis_Canada Warbler,0.16797866,5.0,8.0
+Vireo solitarius_Blue-headed Vireo,0.36839572,8.0,11.0
+Vireo solitarius_Blue-headed Vireo,0.16676351,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.129755,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.12109,9.0,12.0
+Vireo solitarius_Blue-headed Vireo,0.50002235,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.24430804,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.26822025,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.1377504,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13125996,12.0,15.0
+Hylocichla mustelina_Wood Thrush,0.12655345,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.11591993,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9819661,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9848107,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9944642,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8798746,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.5120993,16.0,19.0
+Dendrocopos major_Great Spotted Woodpecker,0.23600546,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.19704974,17.0,20.0
+Dryobates minor_Lesser Spotted Woodpecker,0.16644573,17.0,20.0
+Dendrocopos major_Great Spotted Woodpecker,0.30328944,18.0,21.0
+Dryobates minor_Lesser Spotted Woodpecker,0.15810217,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.21205099,19.0,22.0
+Vireo solitarius_Blue-headed Vireo,0.14967212,19.0,22.0
+Poecile atricapillus_Black-capped Chickadee,0.14790884,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.2892289,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.18857196,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18055047,20.0,23.0
+Vireo solitarius_Blue-headed Vireo,0.12105718,20.0,23.0
+Pipilo erythrophthalmus_Eastern Towhee,0.21046652,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.18642521,21.0,24.0
+Cardinalis cardinalis_Northern Cardinal,0.16326007,21.0,24.0
+Geothlypis trichas_Common Yellowthroat,0.14151113,21.0,24.0
+Poecile atricapillus_Black-capped Chickadee,0.1171043,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14119981,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.113122806,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.35848472,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.10487266,23.0,26.0
+Parkesia motacilla_Louisiana Waterthrush,0.39677393,24.0,27.0
+Cardellina canadensis_Canada Warbler,0.17716381,24.0,27.0
+Vireo solitarius_Blue-headed Vireo,0.3064652,25.0,28.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18295768,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.10882265,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.10216308,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.114182375,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.24566205,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18904036,27.0,30.0
+Geothlypis formosa_Kentucky Warbler,0.18769686,27.0,30.0
+Setophaga citrina_Hooded Warbler,0.10741439,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.11672444,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9712285,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.99441445,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9910061,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8168859,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.13807297,33.0,36.0
+Cardinalis cardinalis_Northern Cardinal,0.10025049,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.10171684,36.0,39.0
+Niltava vivida_Vivid Niltava,0.22508192,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.108811855,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.3153977,42.0,45.0
+Cardellina canadensis_Canada Warbler,0.15138666,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25126,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.97145486,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.99188566,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9845728,47.0,50.0
+Setophaga ruticilla_American Redstart,0.18956394,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.30597392,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.41556934,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.131965,50.0,53.0
+Myiarchus crinitus_Great Crested Flycatcher,0.102288574,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.37122038,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.29786474,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.67583364,52.0,55.0
+Pipilo erythrophthalmus_Eastern Towhee,0.26364052,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.20736843,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.3586802,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.13317576,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.4815158,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.22731039,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.20799312,58.0,61.0
+Cardellina canadensis_Canada Warbler,0.20604037,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.10698016,58.0,61.0
+Cardellina canadensis_Canada Warbler,0.91478723,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.23875485,59.0,62.0
+Cardellina canadensis_Canada Warbler,0.74798083,60.0,63.0
+Setophaga virens_Black-throated Green Warbler,0.1912706,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.10681284,60.0,63.0
+Cardellina canadensis_Canada Warbler,0.36747348,61.0,64.0
+Pipilo erythrophthalmus_Eastern Towhee,0.23235618,61.0,64.0
+Poecile atricapillus_Black-capped Chickadee,0.18002705,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.13222669,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.112316154,61.0,64.0
+Setophaga citrina_Hooded Warbler,0.10217822,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.77621377,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.41040945,62.0,65.0
+Cardinalis cardinalis_Northern Cardinal,0.40134108,62.0,65.0
+Poecile atricapillus_Black-capped Chickadee,0.3167253,62.0,65.0
+Setophaga ruticilla_American Redstart,0.21595451,62.0,65.0
+Hylocichla mustelina_Wood Thrush,0.18542345,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5034858,63.0,66.0
+Poecile atricapillus_Black-capped Chickadee,0.36151066,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.26279402,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.2173227,63.0,66.0
+Vireo solitarius_Blue-headed Vireo,0.15044682,63.0,66.0
+Cardinalis cardinalis_Northern Cardinal,0.121215515,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.32388473,64.0,67.0
+Poecile atricapillus_Black-capped Chickadee,0.13259119,64.0,67.0
+Turdus migratorius_American Robin,0.1191782,65.0,68.0
+Piranga olivacea_Scarlet Tanager,0.118920386,65.0,68.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13914266,66.0,69.0
+Piranga olivacea_Scarlet Tanager,0.13098429,66.0,69.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.85576,67.0,70.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9644538,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.98074347,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.79134756,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.3811609,71.0,74.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8961884,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9165646,77.0,80.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.8678898,78.0,81.0
+Setophaga cerulea_Cerulean Warbler,0.6099964,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10818026,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.11157005,86.0,89.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5701875,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7426953,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.7610037,89.0,92.0
+Setophaga citrina_Hooded Warbler,0.27821806,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1482687,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9528113,93.0,96.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9956097,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.9892452,95.0,98.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6396437,96.0,99.0
+Setophaga cerulea_Cerulean Warbler,0.26817223,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11230783,97.0,99.45600907029478

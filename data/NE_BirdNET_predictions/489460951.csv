@@ -1,0 +1,190 @@
+species,score,start_time,end_time
+Passerina cyanea_Indigo Bunting,0.8894077,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.21143107,1.0,4.0
+Limnothlypis swainsonii_Swainson's Warbler,0.15680112,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3386258,2.0,5.0
+Passerella iliaca_Fox Sparrow,0.10782367,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.10562586,2.0,5.0
+Junco hyemalis_Dark-eyed Junco,0.79771036,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30962658,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.8106248,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4273318,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.4464447,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39136958,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4269642,6.0,9.0
+Junco hyemalis_Dark-eyed Junco,0.15669188,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41114846,7.0,10.0
+Junco hyemalis_Dark-eyed Junco,0.14601319,7.0,10.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.291083,8.0,11.0
+Turdus merula_Eurasian Blackbird,0.2891081,9.0,12.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12239068,10.0,13.0
+Passerina cyanea_Indigo Bunting,0.22242317,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23132497,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.44744584,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22625342,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.50755,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.15963103,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.37787575,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.30178308,15.0,18.0
+Melospiza lincolnii_Lincoln's Sparrow,0.12779567,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27269462,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16140544,17.0,20.0
+Junco hyemalis_Dark-eyed Junco,0.6127092,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18668418,18.0,21.0
+Junco hyemalis_Dark-eyed Junco,0.71634305,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112350054,19.0,22.0
+Junco hyemalis_Dark-eyed Junco,0.8608263,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24963316,20.0,23.0
+Junco hyemalis_Dark-eyed Junco,0.79416746,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38074115,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.21453962,21.0,24.0
+Junco hyemalis_Dark-eyed Junco,0.42292148,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36731258,22.0,25.0
+Turdus merula_Eurasian Blackbird,0.10807236,22.0,25.0
+Junco hyemalis_Dark-eyed Junco,0.48770195,23.0,26.0
+Passerina cyanea_Indigo Bunting,0.3522334,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33299008,23.0,26.0
+Passerina cyanea_Indigo Bunting,0.5037979,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.6616344,25.0,28.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5032178,25.0,28.0
+Passerina cyanea_Indigo Bunting,0.14459772,25.0,28.0
+Junco hyemalis_Dark-eyed Junco,0.8713516,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5448901,26.0,29.0
+Passerella iliaca_Fox Sparrow,0.10526329,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.10278113,26.0,29.0
+Junco hyemalis_Dark-eyed Junco,0.8262269,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25747803,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.65906835,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3232118,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.1858102,28.0,31.0
+Junco hyemalis_Dark-eyed Junco,0.71974856,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24939108,29.0,32.0
+Junco hyemalis_Dark-eyed Junco,0.720047,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6796288,30.0,33.0
+Junco hyemalis_Dark-eyed Junco,0.88035375,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.47939944,31.0,34.0
+Junco hyemalis_Dark-eyed Junco,0.38104668,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11109209,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1420803,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4577648,34.0,37.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.10141426,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.6382403,35.0,38.0
+Passerina cyanea_Indigo Bunting,0.39132062,35.0,38.0
+Junco hyemalis_Dark-eyed Junco,0.16160893,35.0,38.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4107376,36.0,39.0
+Junco hyemalis_Dark-eyed Junco,0.31091163,36.0,39.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13674228,36.0,39.0
+Junco hyemalis_Dark-eyed Junco,0.39860559,37.0,40.0
+Corythopis delalandi_Southern Antpipit,0.25302413,37.0,40.0
+Junco hyemalis_Dark-eyed Junco,0.53450316,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.19026893,38.0,41.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14772101,38.0,41.0
+Junco hyemalis_Dark-eyed Junco,0.7952668,39.0,42.0
+Junco hyemalis_Dark-eyed Junco,0.17898165,40.0,43.0
+Turdus merula_Eurasian Blackbird,0.105870195,41.0,44.0
+Phylloscartes difficilis_Serra do Mar Tyrannulet,0.2337543,43.0,46.0
+Passerina cyanea_Indigo Bunting,0.40726,45.0,48.0
+Passerina cyanea_Indigo Bunting,0.6305765,46.0,49.0
+Limnothlypis swainsonii_Swainson's Warbler,0.33785057,47.0,50.0
+Passerina cyanea_Indigo Bunting,0.32343012,47.0,50.0
+Limnothlypis swainsonii_Swainson's Warbler,0.26369962,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14423633,48.0,51.0
+Passerina cyanea_Indigo Bunting,0.12751356,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.11092651,48.0,51.0
+Protonotaria citrea_Prothonotary Warbler,0.106874265,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14130168,55.0,58.0
+Setophaga virens_Black-throated Green Warbler,0.13475963,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10297198,56.0,59.0
+Passerina cyanea_Indigo Bunting,0.51643926,59.0,62.0
+Limnothlypis swainsonii_Swainson's Warbler,0.109539576,59.0,62.0
+Passerina cyanea_Indigo Bunting,0.3275247,60.0,63.0
+Setophaga dominica_Yellow-throated Warbler,0.2263213,60.0,63.0
+Parkesia motacilla_Louisiana Waterthrush,0.18657213,60.0,63.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11427326,60.0,63.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2000179,61.0,64.0
+Parkesia motacilla_Louisiana Waterthrush,0.17408885,61.0,64.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17323866,61.0,64.0
+Setophaga citrina_Hooded Warbler,0.10848173,61.0,64.0
+Vireo solitarius_Blue-headed Vireo,0.500317,63.0,66.0
+Setophaga virens_Black-throated Green Warbler,0.40527052,63.0,66.0
+Helmitheros vermivorum_Worm-eating Warbler,0.23041102,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.20494226,63.0,66.0
+Vireo solitarius_Blue-headed Vireo,0.2948458,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.27314514,64.0,67.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16873954,64.0,67.0
+Setophaga virens_Black-throated Green Warbler,0.21458517,65.0,68.0
+Turdus migratorius_American Robin,0.17572427,65.0,68.0
+Passerina cyanea_Indigo Bunting,0.16654715,67.0,70.0
+Passerina cyanea_Indigo Bunting,0.46620846,68.0,71.0
+Passerina cyanea_Indigo Bunting,0.20727618,69.0,72.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16489488,69.0,72.0
+Limnothlypis swainsonii_Swainson's Warbler,0.5502106,70.0,73.0
+Passerina cyanea_Indigo Bunting,0.12794724,70.0,73.0
+Setophaga citrina_Hooded Warbler,0.16835552,71.0,74.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1028383,71.0,74.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21246228,72.0,75.0
+Piranga olivacea_Scarlet Tanager,0.100213036,72.0,75.0
+Turdus merula_Eurasian Blackbird,0.14912441,73.0,76.0
+Turdus philomelos_Song Thrush,0.14416333,73.0,76.0
+Turdus philomelos_Song Thrush,0.20302291,74.0,77.0
+Scolopax rusticola_Eurasian Woodcock,0.13638254,74.0,77.0
+Turdus merula_Eurasian Blackbird,0.11447946,74.0,77.0
+Piranga olivacea_Scarlet Tanager,0.25214338,75.0,78.0
+Hylocichla mustelina_Wood Thrush,0.23736717,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1534398,75.0,78.0
+Turdus migratorius_American Robin,0.32212257,76.0,79.0
+Hylocichla mustelina_Wood Thrush,0.27791914,76.0,79.0
+Poecile atricapillus_Black-capped Chickadee,0.15258752,76.0,79.0
+Turdus merula_Eurasian Blackbird,0.10991942,76.0,79.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21481475,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.5207878,78.0,81.0
+Passerina cyanea_Indigo Bunting,0.6792584,79.0,82.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10081096,79.0,82.0
+Passerina cyanea_Indigo Bunting,0.5029334,80.0,83.0
+Limnothlypis swainsonii_Swainson's Warbler,0.27308905,80.0,83.0
+Parkesia motacilla_Louisiana Waterthrush,0.13966095,80.0,83.0
+Setophaga citrina_Hooded Warbler,0.37382197,81.0,84.0
+Empidonax virescens_Acadian Flycatcher,0.21218185,81.0,84.0
+Protonotaria citrea_Prothonotary Warbler,0.19898494,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29127133,82.0,85.0
+Piranga olivacea_Scarlet Tanager,0.15343167,82.0,85.0
+Setophaga virens_Black-throated Green Warbler,0.31596878,83.0,86.0
+Turdus migratorius_American Robin,0.36308944,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.29809406,84.0,87.0
+Junco hyemalis_Dark-eyed Junco,0.13386284,84.0,87.0
+Piranga olivacea_Scarlet Tanager,0.12371359,84.0,87.0
+Setophaga virens_Black-throated Green Warbler,0.58718854,85.0,88.0
+Turdus migratorius_American Robin,0.32043797,85.0,88.0
+Hylocichla mustelina_Wood Thrush,0.16682018,85.0,88.0
+Poecile atricapillus_Black-capped Chickadee,0.16053233,85.0,88.0
+Passerina cyanea_Indigo Bunting,0.10389279,86.0,89.0
+Passerina cyanea_Indigo Bunting,0.54170173,87.0,90.0
+Passerina cyanea_Indigo Bunting,0.3727173,88.0,91.0
+Passerina cyanea_Indigo Bunting,0.35685527,89.0,92.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17687747,89.0,92.0
+Setophaga dominica_Yellow-throated Warbler,0.16797811,89.0,92.0
+Protonotaria citrea_Prothonotary Warbler,0.38523763,90.0,93.0
+Limnothlypis swainsonii_Swainson's Warbler,0.20200802,90.0,93.0
+Setophaga citrina_Hooded Warbler,0.18337393,90.0,93.0
+Turdus migratorius_American Robin,0.1800308,91.0,94.0
+Turdus migratorius_American Robin,0.27008605,92.0,95.0
+Setophaga virens_Black-throated Green Warbler,0.2150099,92.0,95.0
+Turdus migratorius_American Robin,0.6379643,93.0,96.0
+Setophaga virens_Black-throated Green Warbler,0.3207247,93.0,96.0
+Setophaga virens_Black-throated Green Warbler,0.7809689,94.0,97.0
+Turdus migratorius_American Robin,0.15006292,94.0,97.0
+Piranga olivacea_Scarlet Tanager,0.14190133,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12864685,96.0,99.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10023204,97.0,100.0
+Limnothlypis swainsonii_Swainson's Warbler,0.48208418,98.0,101.0
+Passerina cyanea_Indigo Bunting,0.7707556,99.0,102.0
+Passerina cyanea_Indigo Bunting,0.6112572,100.0,103.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2358255,100.0,103.0
+Geothlypis formosa_Kentucky Warbler,0.1261967,100.0,103.0
+Limnothlypis swainsonii_Swainson's Warbler,0.7324619,101.0,104.0
+Setophaga citrina_Hooded Warbler,0.33184743,102.0,105.0
+Protonotaria citrea_Prothonotary Warbler,0.32340956,102.0,105.0
+Limnothlypis swainsonii_Swainson's Warbler,0.23043914,102.0,105.0
+Geothlypis formosa_Kentucky Warbler,0.16437249,102.0,105.0
+Setophaga virens_Black-throated Green Warbler,0.7664435,103.0,106.0
+Piranga olivacea_Scarlet Tanager,0.19568104,104.0,107.0

@@ -1,0 +1,12 @@
+species,score,start_time,end_time
+Human non-vocal_Human non-vocal,0.13974112,2.0,5.0
+Human non-vocal_Human non-vocal,0.25419763,3.0,6.0
+Human non-vocal_Human non-vocal,0.7102522,4.0,7.0
+Human non-vocal_Human non-vocal,0.47691995,5.0,8.0
+Engine_Engine,0.10295599,5.0,8.0
+Corvus corax_Common Raven,0.9005146,10.0,13.0
+Corvus brachyrhynchos_American Crow,0.33225268,10.0,13.0
+Corvus corax_Common Raven,0.79290605,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.418861,11.0,14.0
+Corvus corax_Common Raven,0.6076745,12.0,14.784036281179139
+Corvus macrorhynchos_Large-billed Crow,0.113669954,12.0,14.784036281179139

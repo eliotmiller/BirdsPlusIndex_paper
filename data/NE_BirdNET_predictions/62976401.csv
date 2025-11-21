@@ -1,0 +1,141 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.11581454,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25410816,1.0,4.0
+Setophaga tigrina_Cape May Warbler,0.18980546,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.16096036,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14373977,3.0,6.0
+Setophaga tigrina_Cape May Warbler,0.30065835,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20520139,4.0,7.0
+Sicalis flaveola_Saffron Finch,0.19449583,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18146658,5.0,8.0
+Setophaga tigrina_Cape May Warbler,0.17193666,5.0,8.0
+Sicalis flaveola_Saffron Finch,0.65865076,6.0,9.0
+Setophaga tigrina_Cape May Warbler,0.22206998,6.0,9.0
+Setophaga tigrina_Cape May Warbler,0.27453923,7.0,10.0
+Passerculus sandwichensis_Savannah Sparrow,0.16322866,8.0,11.0
+Artemisiospiza belli_Bell's Sparrow,0.34870592,9.0,12.0
+Sicalis flaveola_Saffron Finch,0.122062296,9.0,12.0
+Artemisiospiza belli_Bell's Sparrow,0.18301184,10.0,13.0
+Sicalis flaveola_Saffron Finch,0.24898747,11.0,14.0
+Artemisiospiza belli_Bell's Sparrow,0.24574102,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13878334,11.0,14.0
+Sicalis flaveola_Saffron Finch,0.31257358,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13973743,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18870196,13.0,16.0
+Sicalis flaveola_Saffron Finch,0.1254242,13.0,16.0
+Setophaga tigrina_Cape May Warbler,0.100712426,13.0,16.0
+Sicalis flaveola_Saffron Finch,0.16612206,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118988074,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26402298,18.0,21.0
+Artemisiospiza belli_Bell's Sparrow,0.19962156,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111190885,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103951246,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21020223,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13554905,25.0,28.0
+Setophaga tigrina_Cape May Warbler,0.11550822,27.0,30.0
+Artemisiospiza belli_Bell's Sparrow,0.40855753,29.0,32.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20023562,31.0,34.0
+Artemisiospiza belli_Bell's Sparrow,0.13708131,33.0,36.0
+Artemisiospiza belli_Bell's Sparrow,0.21676143,34.0,37.0
+Setophaga pinus_Pine Warbler,0.84704065,53.0,56.0
+Setophaga pinus_Pine Warbler,0.94794166,54.0,57.0
+Setophaga pinus_Pine Warbler,0.9871508,55.0,58.0
+Setophaga pinus_Pine Warbler,0.9735849,56.0,59.0
+Setophaga pinus_Pine Warbler,0.25040972,57.0,60.0
+Setophaga pinus_Pine Warbler,0.91963047,68.0,71.0
+Setophaga pinus_Pine Warbler,0.98767823,69.0,72.0
+Setophaga pinus_Pine Warbler,0.99268746,70.0,73.0
+Setophaga pinus_Pine Warbler,0.9844636,71.0,74.0
+Setophaga magnolia_Magnolia Warbler,0.18733786,72.0,75.0
+Setophaga dominica_Yellow-throated Warbler,0.15743041,72.0,75.0
+Empidonax virescens_Acadian Flycatcher,0.10702153,72.0,75.0
+Setophaga pinus_Pine Warbler,0.96694195,78.0,81.0
+Setophaga pinus_Pine Warbler,0.9792644,79.0,82.0
+Setophaga pinus_Pine Warbler,0.9898829,80.0,83.0
+Setophaga pinus_Pine Warbler,0.9867003,81.0,84.0
+Vireo solitarius_Blue-headed Vireo,0.41585338,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.33933988,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.27400652,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.27438968,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116686195,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.59761876,86.0,89.0
+Setophaga pinus_Pine Warbler,0.81212926,87.0,90.0
+Setophaga pinus_Pine Warbler,0.98224604,88.0,91.0
+Setophaga pinus_Pine Warbler,0.9883052,89.0,92.0
+Setophaga pinus_Pine Warbler,0.9910998,90.0,93.0
+Setophaga pinus_Pine Warbler,0.945398,91.0,94.0
+Vireo solitarius_Blue-headed Vireo,0.119593024,93.0,96.0
+Setophaga cerulea_Cerulean Warbler,0.104886204,93.0,96.0
+Vireo solitarius_Blue-headed Vireo,0.1020691,95.0,98.0
+Contopus virens_Eastern Wood-Pewee,0.10682221,97.0,100.0
+Contopus virens_Eastern Wood-Pewee,0.11135164,98.0,101.0
+Setophaga pinus_Pine Warbler,0.98115474,103.0,106.0
+Setophaga pinus_Pine Warbler,0.98969215,104.0,107.0
+Setophaga pinus_Pine Warbler,0.97973996,105.0,108.0
+Setophaga pinus_Pine Warbler,0.97327155,106.0,109.0
+Piranga olivacea_Scarlet Tanager,0.157359,109.0,112.0
+Setophaga pinus_Pine Warbler,0.9578928,111.0,114.0
+Setophaga pinus_Pine Warbler,0.9704037,112.0,115.0
+Setophaga pinus_Pine Warbler,0.97532153,113.0,116.0
+Setophaga pinus_Pine Warbler,0.9634818,114.0,117.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15670541,115.0,118.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23825766,117.0,120.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10317556,118.0,121.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1220568,120.0,123.0
+Setophaga pinus_Pine Warbler,0.97018975,121.0,124.0
+Setophaga pinus_Pine Warbler,0.9913264,122.0,125.0
+Setophaga pinus_Pine Warbler,0.9907899,123.0,126.0
+Setophaga pinus_Pine Warbler,0.9666627,124.0,127.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13688618,127.0,130.0
+Setophaga fusca_Blackburnian Warbler,0.10613258,127.0,130.0
+Setophaga pinus_Pine Warbler,0.9556428,128.0,131.0
+Setophaga pinus_Pine Warbler,0.9850648,129.0,132.0
+Setophaga pinus_Pine Warbler,0.98562187,130.0,133.0
+Setophaga pinus_Pine Warbler,0.9704332,131.0,134.0
+Setophaga pinus_Pine Warbler,0.8510578,139.0,142.0
+Setophaga pinus_Pine Warbler,0.9690955,140.0,143.0
+Setophaga pinus_Pine Warbler,0.97960544,141.0,144.0
+Setophaga pinus_Pine Warbler,0.9595967,142.0,145.0
+Setophaga pinus_Pine Warbler,0.8277003,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.36460432,144.0,147.0
+Setophaga pinus_Pine Warbler,0.27534604,153.0,156.0
+Spizella passerina_Chipping Sparrow,0.2663202,153.0,156.0
+Setophaga palmarum_Palm Warbler,0.164362,153.0,156.0
+Setophaga pinus_Pine Warbler,0.8602872,154.0,157.0
+Leiothlypis celata_Orange-crowned Warbler,0.17821482,154.0,157.0
+Setophaga palmarum_Palm Warbler,0.107478276,154.0,157.0
+Setophaga pinus_Pine Warbler,0.8695167,155.0,158.0
+Leiothlypis celata_Orange-crowned Warbler,0.12835522,155.0,158.0
+Setophaga pinus_Pine Warbler,0.9373598,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.47031322,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.43378827,158.0,161.0
+Seiurus aurocapilla_Ovenbird,0.64628214,159.0,162.0
+Seiurus aurocapilla_Ovenbird,0.2773537,160.0,163.0
+Setophaga pinus_Pine Warbler,0.8801567,162.0,165.0
+Setophaga pinus_Pine Warbler,0.9308891,163.0,166.0
+Junco hyemalis_Dark-eyed Junco,0.10210281,163.0,166.0
+Setophaga pinus_Pine Warbler,0.9165219,164.0,167.0
+Junco hyemalis_Dark-eyed Junco,0.2075415,164.0,167.0
+Setophaga pinus_Pine Warbler,0.92596537,165.0,168.0
+Leiothlypis celata_Orange-crowned Warbler,0.13882864,165.0,168.0
+Junco hyemalis_Dark-eyed Junco,0.12433007,165.0,168.0
+Empidonax oberholseri_Dusky Flycatcher,0.32050747,170.0,173.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.20898047,170.0,173.0
+Setophaga pinus_Pine Warbler,0.9643725,171.0,174.0
+Setophaga pinus_Pine Warbler,0.98596305,172.0,175.0
+Setophaga pinus_Pine Warbler,0.98045886,173.0,176.0
+Setophaga pinus_Pine Warbler,0.8346339,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.38234016,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103403695,175.0,178.0
+Seiurus aurocapilla_Ovenbird,0.35544384,176.0,179.0
+Setophaga pinus_Pine Warbler,0.95192116,177.0,180.0
+Setophaga pinus_Pine Warbler,0.97019535,178.0,181.0
+Setophaga pinus_Pine Warbler,0.97677463,179.0,182.0
+Setophaga pinus_Pine Warbler,0.97062105,180.0,183.0
+Setophaga pinus_Pine Warbler,0.6616435,184.0,187.0
+Setophaga pinus_Pine Warbler,0.4608425,185.0,188.0
+Setophaga pinus_Pine Warbler,0.49336848,186.0,189.0
+Setophaga pinus_Pine Warbler,0.32123968,190.0,193.0
+Setophaga pinus_Pine Warbler,0.4537096,191.0,194.0
+Setophaga pinus_Pine Warbler,0.5070654,192.0,195.0
+Setophaga pinus_Pine Warbler,0.36875907,193.0,196.0

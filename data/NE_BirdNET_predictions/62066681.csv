@@ -1,0 +1,102 @@
+species,score,start_time,end_time
+Ardea alba_Great Egret,0.34818545,0.0,3.0
+Bombycilla cedrorum_Cedar Waxwing,0.12159708,2.0,5.0
+Bombycilla cedrorum_Cedar Waxwing,0.16198733,3.0,6.0
+Bombycilla cedrorum_Cedar Waxwing,0.2041748,4.0,7.0
+Bombycilla cedrorum_Cedar Waxwing,0.5782589,5.0,8.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13071091,5.0,8.0
+Lophodytes cucullatus_Hooded Merganser,0.16581851,6.0,9.0
+Eudocimus albus_White Ibis,0.1080704,6.0,9.0
+Eudocimus albus_White Ibis,0.57545775,7.0,10.0
+Eudocimus albus_White Ibis,0.49488875,8.0,11.0
+Lophodytes cucullatus_Hooded Merganser,0.27712893,8.0,11.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.20094983,8.0,11.0
+Nannopterum auritum_Double-crested Cormorant,0.13039449,9.0,12.0
+Nannopterum auritum_Double-crested Cormorant,0.334747,10.0,13.0
+Bucephala albeola_Bufflehead,0.15399952,10.0,13.0
+Aythya valisineria_Canvasback,0.39019105,11.0,14.0
+Nannopterum auritum_Double-crested Cormorant,0.30703503,11.0,14.0
+Bucephala albeola_Bufflehead,0.2174723,11.0,14.0
+Bucephala albeola_Bufflehead,0.25284806,12.0,15.0
+Aythya valisineria_Canvasback,0.23076665,12.0,15.0
+Spatula cyanoptera_Cinnamon Teal,0.12138974,12.0,15.0
+Podiceps auritus_Horned Grebe,0.24091737,15.0,18.0
+Podiceps auritus_Horned Grebe,0.9122698,16.0,19.0
+Podiceps auritus_Horned Grebe,0.90885687,17.0,20.0
+Gavia immer_Common Loon,0.12260941,17.0,20.0
+Podiceps auritus_Horned Grebe,0.37660944,18.0,21.0
+Podiceps auritus_Horned Grebe,0.4242057,19.0,22.0
+Pterorhinus davidi_Pere David's Laughingthrush,0.14066687,22.0,25.0
+Nannopterum auritum_Double-crested Cormorant,0.109717794,26.0,29.0
+Podiceps auritus_Horned Grebe,0.6101463,27.0,30.0
+Podiceps auritus_Horned Grebe,0.44709766,28.0,31.0
+Podiceps auritus_Horned Grebe,0.34076747,29.0,32.0
+Nannopterum auritum_Double-crested Cormorant,0.10901895,33.0,36.0
+Gavia immer_Common Loon,0.5303284,35.0,38.0
+Podiceps auritus_Horned Grebe,0.446514,35.0,38.0
+Aix sponsa_Wood Duck,0.10394437,35.0,38.0
+Gavia immer_Common Loon,0.84039104,36.0,39.0
+Aix sponsa_Wood Duck,0.14496315,36.0,39.0
+Numenius arquata_Eurasian Curlew,0.13569692,36.0,39.0
+Podiceps auritus_Horned Grebe,0.26651812,37.0,40.0
+Gavia immer_Common Loon,0.23983297,37.0,40.0
+Aix sponsa_Wood Duck,0.2344304,37.0,40.0
+Podiceps auritus_Horned Grebe,0.13776399,41.0,44.0
+Anas acuta_Northern Pintail,0.12344363,41.0,44.0
+Perisoreus canadensis_Canada Jay,0.5031004,42.0,45.0
+Pterorhinus davidi_Pere David's Laughingthrush,0.12064304,42.0,45.0
+Anas acuta_Northern Pintail,0.15946347,43.0,46.0
+Colinus virginianus_Northern Bobwhite,0.107704625,46.0,49.0
+Aythya collaris_Ring-necked Duck,0.23189737,47.0,50.0
+Perisoreus canadensis_Canada Jay,0.19891128,49.0,52.0
+Perisoreus canadensis_Canada Jay,0.30011258,50.0,53.0
+Gavia immer_Common Loon,0.16041057,50.0,53.0
+Perisoreus canadensis_Canada Jay,0.10930093,51.0,54.0
+Gavia immer_Common Loon,0.10114273,52.0,55.0
+Anas acuta_Northern Pintail,0.17817263,53.0,56.0
+Anas acuta_Northern Pintail,0.69951445,54.0,57.0
+Anas acuta_Northern Pintail,0.4200557,55.0,58.0
+Podiceps auritus_Horned Grebe,0.34223813,57.0,60.0
+Fulica americana_American Coot,0.23082076,58.0,61.0
+Spatula discors_Blue-winged Teal,0.20562938,58.0,61.0
+Bucephala albeola_Bufflehead,0.16156705,58.0,61.0
+Aix sponsa_Wood Duck,0.122231044,58.0,61.0
+Bucephala albeola_Bufflehead,0.40253636,59.0,62.0
+Spatula discors_Blue-winged Teal,0.18536094,59.0,62.0
+Fulica americana_American Coot,0.1575636,59.0,62.0
+Bucephala albeola_Bufflehead,0.11419247,60.0,63.0
+Spatula discors_Blue-winged Teal,0.10837839,60.0,63.0
+Bucephala albeola_Bufflehead,0.23718913,61.0,64.0
+Bucephala albeola_Bufflehead,0.16191947,62.0,65.0
+Arenaria interpres_Ruddy Turnstone,0.17736167,65.0,68.0
+Calidris pusilla_Semipalmated Sandpiper,0.17553352,65.0,68.0
+Podiceps auritus_Horned Grebe,0.14951251,65.0,68.0
+Limnodromus griseus_Short-billed Dowitcher,0.12497742,65.0,68.0
+Calidris bairdii_Baird's Sandpiper,0.1182415,65.0,68.0
+Calidris pusilla_Semipalmated Sandpiper,0.17587364,69.0,72.0
+Gavia immer_Common Loon,0.11355779,70.0,73.0
+Mergus merganser_Common Merganser,0.11001194,70.0,73.0
+Pterorhinus davidi_Pere David's Laughingthrush,0.22741142,71.0,74.0
+Pandion haliaetus_Osprey,0.11619052,77.0,80.0
+Lithobates clamitans_Green Frog,0.10108986,77.0,80.0
+Nannopterum auritum_Double-crested Cormorant,0.12792777,78.0,81.0
+Bombycilla cedrorum_Cedar Waxwing,0.17464261,92.0,95.0
+Bombycilla cedrorum_Cedar Waxwing,0.45449722,93.0,96.0
+Bombycilla cedrorum_Cedar Waxwing,0.42986274,94.0,97.0
+Bombycilla cedrorum_Cedar Waxwing,0.779254,95.0,98.0
+Bombycilla cedrorum_Cedar Waxwing,0.67461693,96.0,99.0
+Bombycilla cedrorum_Cedar Waxwing,0.9236817,97.0,100.0
+Bombycilla cedrorum_Cedar Waxwing,0.9605954,98.0,101.0
+Bombycilla cedrorum_Cedar Waxwing,0.5265866,99.0,102.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.13809505,100.0,103.0
+Calidris canutus_Red Knot,0.10506899,102.0,105.0
+Barnardius zonarius_Australian Ringneck,0.10536786,103.0,106.0
+Aythya valisineria_Canvasback,0.22469278,110.0,113.0
+Bucephala albeola_Bufflehead,0.16519636,110.0,113.0
+Sialia currucoides_Mountain Bluebird,0.16488427,114.0,117.0
+Sialia currucoides_Mountain Bluebird,0.22445181,115.0,118.0
+Toxostoma redivivum_California Thrasher,0.10655426,115.0,118.0
+Toxostoma redivivum_California Thrasher,0.3888523,116.0,119.0
+Gavicalis virescens_Singing Honeyeater,0.15935978,116.0,119.0
+Toxostoma lecontei_LeConte's Thrasher,0.12422637,116.0,119.0
+Toxostoma redivivum_California Thrasher,0.23811212,117.0,120.0

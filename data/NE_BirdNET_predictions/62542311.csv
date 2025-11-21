@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Geothlypis semiflava_Olive-crowned Yellowthroat,0.112592675,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.12519805,5.0,8.0
+Vireo leucophrys_Brown-capped Vireo,0.23839752,6.0,9.0
+Setophaga citrina_Hooded Warbler,0.13386391,6.0,9.0
+Vireo gilvus_Warbling Vireo,0.6584495,7.0,10.0
+Vireo leucophrys_Brown-capped Vireo,0.1601549,7.0,10.0
+Engine_Engine,0.2608202,21.0,24.0
+Power tools_Power tools,0.21489331,21.0,24.0
+Engine_Engine,0.28373763,22.0,25.0
+Power tools_Power tools,0.17454816,22.0,25.0
+Engine_Engine,0.18482523,23.0,26.0
+Power tools_Power tools,0.17993948,23.0,26.0
+Bubo virginianus_Great Horned Owl,0.10528813,26.0,29.0
+Engine_Engine,0.17901373,28.0,31.0
+Geothlypis formosa_Kentucky Warbler,0.20487858,29.0,32.0
+Setophaga citrina_Hooded Warbler,0.20147191,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.50582236,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.19399048,30.0,33.0
+Geothlypis formosa_Kentucky Warbler,0.28578055,31.0,34.0
+Setophaga citrina_Hooded Warbler,0.20258032,31.0,34.0
+Haemorhous purpureus_Purple Finch,0.111576155,31.0,34.0
+Geothlypis formosa_Kentucky Warbler,0.13859603,32.0,35.0
+Engine_Engine,0.19016322,33.0,36.0
+Engine_Engine,0.2781224,34.0,37.0
+Engine_Engine,0.23093371,36.0,39.0
+Engine_Engine,0.20355509,37.0,40.0
+Engine_Engine,0.39284152,38.0,41.0
+Engine_Engine,0.124246426,39.0,42.0
+Engine_Engine,0.2387998,40.0,43.0
+Engine_Engine,0.15491666,41.0,44.0
+Engine_Engine,0.18810752,42.0,45.0
+Strix aluco_Tawny Owl,0.19273753,43.0,46.0
+Engine_Engine,0.122027546,43.0,46.0
+Passerina caerulea_Blue Grosbeak,0.40863627,45.0,48.0
+Haemorhous purpureus_Purple Finch,0.124938846,45.0,48.0
+Passerina caerulea_Blue Grosbeak,0.3860949,46.0,49.0
+Haemorhous purpureus_Purple Finch,0.17432904,47.0,50.0
+Strix aluco_Tawny Owl,0.34461927,48.0,51.0
+Aegolius funereus_Boreal Owl,0.19394077,48.0,51.0
+Engine_Engine,0.14219178,48.0,51.0
+Strix aluco_Tawny Owl,0.23185691,49.0,52.0
+Engine_Engine,0.18728782,49.0,52.0
+Aegolius acadicus_Northern Saw-whet Owl,0.15642294,49.0,52.0
+Aegolius funereus_Boreal Owl,0.10195724,49.0,52.0
+Aegolius acadicus_Northern Saw-whet Owl,0.27964053,50.0,53.0
+Aegolius funereus_Boreal Owl,0.16026406,50.0,53.0
+Strix aluco_Tawny Owl,0.11534845,50.0,53.0
+Engine_Engine,0.19114459,51.0,54.0
+Engine_Engine,0.18615012,52.0,55.0
+Engine_Engine,0.29841635,53.0,56.0
+Engine_Engine,0.42135918,54.0,57.0
+Spizella passerina_Chipping Sparrow,0.79456836,55.0,58.0
+Setophaga palmarum_Palm Warbler,0.11635485,55.0,58.0
+Setophaga pinus_Pine Warbler,0.10402009,55.0,58.0
+Spizella passerina_Chipping Sparrow,0.74936783,56.0,59.0
+Engine_Engine,0.13796897,56.0,59.0
+Spizella passerina_Chipping Sparrow,0.6849919,57.0,60.0
+Gavia immer_Common Loon,0.14846471,57.0,60.0
+Spizella passerina_Chipping Sparrow,0.16248135,58.0,61.0
+Gavia immer_Common Loon,0.10151766,58.0,61.0
+Haemorhous purpureus_Purple Finch,0.14641865,59.0,62.0
+Spizella passerina_Chipping Sparrow,0.44527802,60.0,63.0
+Spizella passerina_Chipping Sparrow,0.687309,61.0,64.0
+Engine_Engine,0.1435399,61.0,64.0
+Spizella passerina_Chipping Sparrow,0.77923316,62.0,65.0
+Engine_Engine,0.21080574,62.0,65.0
+Spizella passerina_Chipping Sparrow,0.90243345,63.0,66.0
+Spizella passerina_Chipping Sparrow,0.6295906,64.0,67.0
+Engine_Engine,0.123675555,65.0,68.0
+Engine_Engine,0.42290515,66.0,69.0
+Engine_Engine,0.40617654,67.0,70.0
+Vireo leucophrys_Brown-capped Vireo,0.64449054,68.0,71.0
+Vireo leucophrys_Brown-capped Vireo,0.23724718,69.0,72.0
+Spizella passerina_Chipping Sparrow,0.121345475,70.0,73.0
+Spizella passerina_Chipping Sparrow,0.6378607,71.0,74.0
+Engine_Engine,0.2882252,71.0,74.0
+Geothlypis formosa_Kentucky Warbler,0.12958208,72.0,75.0
+Geothlypis formosa_Kentucky Warbler,0.1822561,75.0,78.0
+Hylophilus thoracicus_Lemon-chested Greenlet,0.10854058,75.0,78.0
+Spizella passerina_Chipping Sparrow,0.1892794,76.0,79.0
+Setophaga pinus_Pine Warbler,0.14724402,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.10994798,77.0,80.0
+Geothlypis philadelphia_Mourning Warbler,0.1488469,78.0,81.0
+Haemorhous purpureus_Purple Finch,0.33225593,79.0,82.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.48751125,81.0,84.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.22100332,82.0,85.0
+Engine_Engine,0.1154209,84.0,86.16

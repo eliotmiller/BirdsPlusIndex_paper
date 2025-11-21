@@ -1,0 +1,61 @@
+species,score,start_time,end_time
+Ixobrychus exilis_Least Bittern,0.2070146,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13484582,0.0,3.0
+Rallus limicola_Virginia Rail,0.11698465,0.0,3.0
+Quiscalus quiscula_Common Grackle,0.10695237,1.0,4.0
+Rallus limicola_Virginia Rail,0.61849254,2.0,5.0
+Porzana carolina_Sora,0.17592645,2.0,5.0
+Ixobrychus exilis_Least Bittern,0.10238134,2.0,5.0
+Porzana carolina_Sora,0.19538905,3.0,6.0
+Rallus limicola_Virginia Rail,0.112890966,3.0,6.0
+Rallus limicola_Virginia Rail,0.92859554,4.0,7.0
+Porzana carolina_Sora,0.17061825,4.0,7.0
+Haliaeetus leucocephalus_Bald Eagle,0.15614271,4.0,7.0
+Rallus limicola_Virginia Rail,0.30457538,5.0,8.0
+Rallus limicola_Virginia Rail,0.156512,7.0,10.0
+Rallus limicola_Virginia Rail,0.23829356,8.0,11.0
+Porzana carolina_Sora,0.19226967,8.0,11.0
+Ixobrychus exilis_Least Bittern,0.12932791,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.11345279,9.0,12.0
+Rallus limicola_Virginia Rail,0.20162739,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16483328,11.0,14.0
+Rallus limicola_Virginia Rail,0.13693473,11.0,14.0
+Rallus limicola_Virginia Rail,0.6415422,12.0,15.0
+Porzana carolina_Sora,0.28537357,12.0,15.0
+Porzana carolina_Sora,0.21756713,13.0,16.0
+Rallus limicola_Virginia Rail,0.13568863,13.0,16.0
+Rallus limicola_Virginia Rail,0.17099634,14.0,17.0
+Gallinula galeata_Common Gallinule,0.19246882,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14801228,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3574804,19.0,22.0
+Ixobrychus exilis_Least Bittern,0.18022129,19.0,22.0
+Gallinula galeata_Common Gallinule,0.14644787,19.0,22.0
+Ixobrychus exilis_Least Bittern,0.14136262,20.0,23.0
+Agelaius phoeniceus_Red-winged Blackbird,0.13880397,20.0,23.0
+Tachycineta bicolor_Tree Swallow,0.1433552,21.0,24.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14845917,23.0,26.0
+Ixobrychus exilis_Least Bittern,0.115113094,24.0,27.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10218462,24.0,27.0
+Agelaius phoeniceus_Red-winged Blackbird,0.2306112,25.0,28.0
+Rallus limicola_Virginia Rail,0.1334148,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.117678694,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1671957,27.0,30.0
+Rallus limicola_Virginia Rail,0.1268889,27.0,30.0
+Agelaius phoeniceus_Red-winged Blackbird,0.119170554,28.0,31.0
+Rallus limicola_Virginia Rail,0.15986578,29.0,32.0
+Porzana carolina_Sora,0.13344042,29.0,32.0
+Ixobrychus exilis_Least Bittern,0.13331638,33.0,36.0
+Porzana carolina_Sora,0.111856945,33.0,36.0
+Ixobrychus exilis_Least Bittern,0.14971565,34.0,37.0
+Rallus limicola_Virginia Rail,0.13026436,34.0,37.0
+Psophodes nigrogularis_Western Whipbird,0.52556604,36.0,39.0
+Pycnonotus sinensis_Light-vented Bulbul,0.2698233,41.0,44.0
+Psophodes nigrogularis_Western Whipbird,0.12614864,42.0,45.0
+Rallus limicola_Virginia Rail,0.10803814,43.0,46.0
+Rallus limicola_Virginia Rail,0.1966762,44.0,47.0
+Porzana carolina_Sora,0.12805036,44.0,47.0
+Icterus spurius_Orchard Oriole,0.168695,45.0,48.0
+Asthenes coryi_Ochre-browed Thistletail,0.12860261,51.0,54.0
+Asthenes coryi_Ochre-browed Thistletail,0.15994264,52.0,55.0
+Asthenes coryi_Ochre-browed Thistletail,0.13870487,57.0,60.0
+Lophodytes cucullatus_Hooded Merganser,0.14944959,62.0,65.0
