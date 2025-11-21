@@ -1,0 +1,27 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.22836863,0.0,3.0
+Melospiza melodia_Song Sparrow,0.20647483,1.0,4.0
+Carduelis carduelis_European Goldfinch,0.10166751,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17735031,5.0,8.0
+Empidonax traillii_Willow Flycatcher,0.14667617,6.0,9.0
+Agelaius phoeniceus_Red-winged Blackbird,0.31336388,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.34953722,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10817805,9.0,12.0
+Carduelis carduelis_European Goldfinch,0.19964539,10.0,13.0
+Carduelis carduelis_European Goldfinch,0.14740677,11.0,14.0
+Ardea cinerea_Gray Heron,0.39299154,14.0,17.0
+Branta leucopsis_Barnacle Goose,0.25688732,14.0,17.0
+Ardea purpurea_Purple Heron,0.1593305,14.0,17.0
+Ardea cinerea_Gray Heron,0.36566868,15.0,18.0
+Branta leucopsis_Barnacle Goose,0.22033796,15.0,18.0
+Ixobrychus minutus_Little Bittern,0.16411047,15.0,18.0
+Ardea purpurea_Purple Heron,0.11581341,15.0,18.0
+Lophodytes cucullatus_Hooded Merganser,0.12138027,19.0,22.0
+Lophodytes cucullatus_Hooded Merganser,0.11471252,20.0,23.0
+Icteria virens_Yellow-breasted Chat,0.5081515,23.0,26.0
+Icteria virens_Yellow-breasted Chat,0.94632274,24.0,27.0
+Icteria virens_Yellow-breasted Chat,0.9583061,25.0,28.0
+Icteria virens_Yellow-breasted Chat,0.25919825,26.0,29.0
+Sitta carolinensis_White-breasted Nuthatch,0.18155959,26.0,29.0
+Icteria virens_Yellow-breasted Chat,0.1279691,27.0,30.0
+Icterus wagleri_Black-vented Oriole,0.123040386,28.0,31.0

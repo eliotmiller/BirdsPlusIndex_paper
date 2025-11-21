@@ -1,0 +1,48 @@
+species,score,start_time,end_time
+Mimus polyglottos_Northern Mockingbird,0.18849693,0.0,3.0
+Pandion haliaetus_Osprey,0.26947236,2.0,5.0
+Pandion haliaetus_Osprey,0.807961,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.23664439,3.0,6.0
+Haliaeetus leucocephalus_Bald Eagle,0.17323129,3.0,6.0
+Pandion haliaetus_Osprey,0.94341,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.24731039,4.0,7.0
+Pandion haliaetus_Osprey,0.9517384,5.0,8.0
+Haliaeetus leucocephalus_Bald Eagle,0.33948857,5.0,8.0
+Buteo jamaicensis_Red-tailed Hawk,0.30553114,5.0,8.0
+Pandion haliaetus_Osprey,0.95764214,6.0,9.0
+Haliaeetus leucocephalus_Bald Eagle,0.49600318,6.0,9.0
+Pandion haliaetus_Osprey,0.89275515,7.0,10.0
+Haliaeetus leucocephalus_Bald Eagle,0.27213106,7.0,10.0
+Mimus polyglottos_Northern Mockingbird,0.13679701,7.0,10.0
+Pandion haliaetus_Osprey,0.70981264,8.0,11.0
+Mimus polyglottos_Northern Mockingbird,0.30788913,8.0,11.0
+Haliaeetus leucocephalus_Bald Eagle,0.19937824,8.0,11.0
+Buteo jamaicensis_Red-tailed Hawk,0.14273489,8.0,11.0
+Haliaeetus leucocephalus_Bald Eagle,0.21796605,9.0,12.0
+Pandion haliaetus_Osprey,0.16742036,9.0,12.0
+Buteo jamaicensis_Red-tailed Hawk,0.15350437,9.0,12.0
+Arremonops conirostris_Black-striped Sparrow,0.15822853,11.0,14.0
+Mimus polyglottos_Northern Mockingbird,0.13260211,13.0,16.0
+Toxostoma rufum_Brown Thrasher,0.61942595,14.0,17.0
+Mimus polyglottos_Northern Mockingbird,0.17165296,14.0,17.0
+Toxostoma rufum_Brown Thrasher,0.86329424,15.0,18.0
+Mimus polyglottos_Northern Mockingbird,0.40483576,15.0,18.0
+Icteria virens_Yellow-breasted Chat,0.11986101,15.0,18.0
+Colinus virginianus_Northern Bobwhite,0.110182025,15.0,18.0
+Toxostoma rufum_Brown Thrasher,0.78675276,16.0,19.0
+Icteria virens_Yellow-breasted Chat,0.33254382,16.0,19.0
+Mimus polyglottos_Northern Mockingbird,0.13205819,16.0,19.0
+Icteria virens_Yellow-breasted Chat,0.38202697,17.0,20.0
+Toxostoma rufum_Brown Thrasher,0.34444603,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.1022486,17.0,20.0
+Toxostoma rufum_Brown Thrasher,0.10073297,18.0,21.0
+Icteria virens_Yellow-breasted Chat,0.16969617,19.0,22.0
+Icteria virens_Yellow-breasted Chat,0.10863659,21.0,24.0
+Icteria virens_Yellow-breasted Chat,0.19553663,22.0,25.0
+Rallus elegans_King Rail,0.23240145,24.0,27.0
+Rallus elegans_King Rail,0.14958246,26.0,29.0
+Quiscalus quiscula_Common Grackle,0.2823196,27.0,30.0
+Quiscalus quiscula_Common Grackle,0.35538986,28.0,31.0
+Spinus tristis_American Goldfinch,0.19794448,28.0,31.0
+Spinus tristis_American Goldfinch,0.42944145,29.0,32.0
+Spinus tristis_American Goldfinch,0.28406465,30.0,33.0

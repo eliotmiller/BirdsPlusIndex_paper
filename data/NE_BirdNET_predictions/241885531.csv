@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Setophaga discolor_Prairie Warbler,0.6939087,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11723035,0.0,3.0
+Setophaga discolor_Prairie Warbler,0.22868429,1.0,4.0
+Vermivora chrysoptera_Golden-winged Warbler,0.18343289,2.0,5.0
+Setophaga discolor_Prairie Warbler,0.11829427,2.0,5.0
+Vermivora chrysoptera_Golden-winged Warbler,0.23872426,3.0,6.0
+Setophaga discolor_Prairie Warbler,0.11102985,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115347534,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.102075115,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.16613217,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.10006877,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14071141,6.0,9.0
+Setophaga cerulea_Cerulean Warbler,0.1193037,8.0,11.0
+Setophaga discolor_Prairie Warbler,0.7692343,12.0,15.0
+Vermivora chrysoptera_Golden-winged Warbler,0.15670867,12.0,15.0
+Setophaga discolor_Prairie Warbler,0.2618631,13.0,16.0
+Setophaga discolor_Prairie Warbler,0.44490078,14.0,17.0
+Setophaga discolor_Prairie Warbler,0.68986386,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16096345,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.2153895,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.13600864,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.12386565,17.0,20.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1064532,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.10139408,17.0,20.0
+Vermivora chrysoptera_Golden-winged Warbler,0.20095368,18.0,21.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1071729,18.0,21.0
+Geothlypis philadelphia_Mourning Warbler,0.10382848,18.0,21.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1523169,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.12176343,19.0,22.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11177303,19.0,22.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11302004,21.0,24.0
+Setophaga discolor_Prairie Warbler,0.5072177,24.0,27.0
+Vermivora chrysoptera_Golden-winged Warbler,0.118582316,24.0,27.0
+Setophaga virens_Black-throated Green Warbler,0.10772667,24.0,27.0
+Setophaga discolor_Prairie Warbler,0.33005658,25.0,28.0
+Vermivora chrysoptera_Golden-winged Warbler,0.2680041,25.0,28.0
+Setophaga discolor_Prairie Warbler,0.69030684,26.0,29.0
+Vermivora chrysoptera_Golden-winged Warbler,0.2100533,26.0,29.0
+Vermivora chrysoptera_Golden-winged Warbler,0.7100013,27.0,30.0
+Setophaga discolor_Prairie Warbler,0.31620005,27.0,30.0
+Cardellina canadensis_Canada Warbler,0.12489259,29.0,32.0
+Limnothlypis swainsonii_Swainson's Warbler,0.46304846,30.0,33.0
+Setophaga dominica_Yellow-throated Warbler,0.20912467,30.0,33.0
+Setophaga citrina_Hooded Warbler,0.14484775,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.12035612,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11911884,31.0,34.0
+Mniotilta varia_Black-and-white Warbler,0.10981158,31.0,34.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10043477,31.0,34.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12654972,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.23080134,33.0,36.0
+Setophaga fusca_Blackburnian Warbler,0.1535898,33.0,36.0
+Vermivora cyanoptera_Blue-winged Warbler,0.14714584,34.0,37.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13403976,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.112723805,34.0,37.0
+Vermivora chrysoptera_Golden-winged Warbler,0.109629326,35.0,38.0
+Setophaga discolor_Prairie Warbler,0.2821736,36.0,39.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1596678,37.0,40.0
+Setophaga discolor_Prairie Warbler,0.1454724,37.0,40.0
+Vermivora chrysoptera_Golden-winged Warbler,0.11527376,38.0,41.0
+Setophaga discolor_Prairie Warbler,0.15479352,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.109134845,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.29552507,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.22797708,40.0,43.0
+Setophaga ruticilla_American Redstart,0.16489112,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.1254255,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114776015,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.22525127,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.16610399,41.0,44.0
+Setophaga ruticilla_American Redstart,0.15042694,41.0,44.0
+Canachites canadensis_Spruce Grouse,0.12802821,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1171173,47.0,49.2

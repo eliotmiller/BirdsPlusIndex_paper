@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.567031,0.0,3.0
+Catharus fuscater_Slaty-backed Nightingale-Thrush,0.17648453,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.52681375,1.0,4.0
+Oriolus oriolus_Eurasian Golden Oriole,0.25056225,1.0,4.0
+Bubo virginianus_Great Horned Owl,0.68364394,2.0,5.0
+Oriolus oriolus_Eurasian Golden Oriole,0.13197415,2.0,5.0
+Engine_Engine,0.15533435,3.0,6.0
+Engine_Engine,0.6427327,4.0,7.0
+Siren_Siren,0.12884454,4.0,7.0
+Engine_Engine,0.9332184,5.0,8.0
+Siren_Siren,0.11370079,5.0,8.0
+Engine_Engine,0.97030145,6.0,9.0
+Siren_Siren,0.12596379,6.0,9.0
+Pipilo maculatus_Spotted Towhee,0.36274844,7.0,10.0
+Bubo virginianus_Great Horned Owl,0.14271347,7.0,10.0
+Bubo virginianus_Great Horned Owl,0.6203424,8.0,11.0
+Bubo virginianus_Great Horned Owl,0.36440656,9.0,12.0
+Otus elegans_Ryukyu Scops-Owl,0.39886758,10.0,13.0
+Siren_Siren,0.44453567,11.0,14.0
+Engine_Engine,0.2752262,11.0,14.0
+Bubo virginianus_Great Horned Owl,0.5477554,12.0,15.0
+Oriolus oriolus_Eurasian Golden Oriole,0.17405432,12.0,15.0
+Bubo virginianus_Great Horned Owl,0.7727164,13.0,16.0
+Pipilo maculatus_Spotted Towhee,0.2882627,13.0,16.0
+Bubo virginianus_Great Horned Owl,0.8671665,14.0,17.0
+Pipilo maculatus_Spotted Towhee,0.26044038,14.0,17.0
+Engine_Engine,0.63174546,15.0,18.0
+Engine_Engine,0.6554939,16.0,19.0
+Engine_Engine,0.8469902,17.0,20.0
+Bubo virginianus_Great Horned Owl,0.71775687,18.0,21.0
+Bubo virginianus_Great Horned Owl,0.70814425,19.0,22.0
+Pipilo maculatus_Spotted Towhee,0.20823134,19.0,22.0
+Bubo virginianus_Great Horned Owl,0.79108137,20.0,23.0
+Engine_Engine,0.72510177,21.0,24.0
+Engine_Engine,0.6985326,22.0,25.0
+Engine_Engine,0.5628004,23.0,26.0
+Siren_Siren,0.11797942,23.0,26.0
+Engine_Engine,0.57028985,24.0,27.0
+Human vocal_Human vocal,0.27032998,24.0,27.0
+Siren_Siren,0.12192863,24.0,27.0
+Bubo virginianus_Great Horned Owl,0.7038634,25.0,28.0
+Bubo virginianus_Great Horned Owl,0.66516423,26.0,29.0
+Bubo virginianus_Great Horned Owl,0.6861941,27.0,30.0
+Engine_Engine,0.81929874,28.0,31.0
+Engine_Engine,0.5603425,29.0,32.0
+Engine_Engine,0.44973856,30.0,33.0
+Siren_Siren,0.4466007,30.0,33.0
+Strix aluco_Tawny Owl,0.10741942,30.0,33.0
+Bubo virginianus_Great Horned Owl,0.7152367,31.0,34.0
+Bubo virginianus_Great Horned Owl,0.81103647,32.0,35.0
+Bubo virginianus_Great Horned Owl,0.2695162,33.0,36.0
+Engine_Engine,0.72363347,34.0,37.0
+Siren_Siren,0.14877157,34.0,37.0
+Engine_Engine,0.7666122,35.0,38.0
+Siren_Siren,0.10105336,35.0,38.0
+Bubo virginianus_Great Horned Owl,0.14670533,37.0,40.0
+Bubo virginianus_Great Horned Owl,0.18862575,38.0,41.0
+Engine_Engine,0.50211674,39.0,42.0
+Engine_Engine,0.59138876,40.0,43.0
+Engine_Engine,0.6800812,41.0,44.0
+Siren_Siren,0.13165271,41.0,44.0
+Engine_Engine,0.23889881,42.0,45.0
+Bubo virginianus_Great Horned Owl,0.4495523,43.0,46.0
+Pipilo maculatus_Spotted Towhee,0.39939412,43.0,46.0
+Bubo virginianus_Great Horned Owl,0.21313114,44.0,47.0
+Pipilo maculatus_Spotted Towhee,0.11286853,44.0,47.0
+Oriolus oriolus_Eurasian Golden Oriole,0.15207219,45.0,48.0
+Human non-vocal_Human non-vocal,0.25123844,46.0,49.0
+Power tools_Power tools,0.11531402,46.0,49.0
+Human non-vocal_Human non-vocal,0.19850709,47.0,50.0

@@ -1,0 +1,53 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.9993793,0.0,3.0
+Corvus corax_Common Raven,0.9874572,1.0,4.0
+Corvus corax_Common Raven,0.664703,3.0,6.0
+Corvus corax_Common Raven,0.8444204,4.0,7.0
+Corvus corax_Common Raven,0.75650775,5.0,8.0
+Corvus corax_Common Raven,0.64966536,6.0,9.0
+Corvus corax_Common Raven,0.8717449,7.0,10.0
+Corvus corax_Common Raven,0.80629325,8.0,11.0
+Corvus corax_Common Raven,0.90713876,9.0,12.0
+Corvus corax_Common Raven,0.25274527,10.0,13.0
+Corvus corax_Common Raven,0.3913705,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.6725588,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.46591216,13.0,16.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.11111528,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.8562088,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13063666,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.10348014,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.28049183,15.0,18.0
+Protonotaria citrea_Prothonotary Warbler,0.11752762,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.9182496,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.9445752,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.9515053,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.18934986,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.9040596,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.8278744,30.0,33.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10447348,30.0,33.0
+Setophaga cerulea_Cerulean Warbler,0.42358,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.90928257,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.933533,37.0,40.0
+Setophaga cerulea_Cerulean Warbler,0.7010879,38.0,41.0
+Setophaga cerulea_Cerulean Warbler,0.8298102,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.9892046,43.0,46.0
+Setophaga cerulea_Cerulean Warbler,0.9770786,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.61321384,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.3229117,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.6389923,52.0,55.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10683047,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.8560798,53.0,56.0
+Setophaga cerulea_Cerulean Warbler,0.98734206,58.0,61.0
+Setophaga cerulea_Cerulean Warbler,0.9886635,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.97442055,60.0,63.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.10229663,62.0,65.0
+Amblycorypha longinicta_Common Virtuoso Katydid,0.2275009,63.0,66.0
+Gryllus rubens_Southeastern Field Cricket,0.10016887,63.0,66.0
+Gryllus rubens_Southeastern Field Cricket,0.10792194,64.0,67.0
+Setophaga cerulea_Cerulean Warbler,0.92379946,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.7366743,67.0,70.0
+Setophaga cerulea_Cerulean Warbler,0.473368,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1356235,68.0,71.0
+Pterophylla camellifolia_Common True Katydid,0.27029222,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.9074811,75.0,78.0
+Setophaga cerulea_Cerulean Warbler,0.9915236,76.0,78.31201814058957

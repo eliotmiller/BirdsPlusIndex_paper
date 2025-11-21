@@ -1,0 +1,69 @@
+species,score,start_time,end_time
+Rallus limicola_Virginia Rail,0.8122755,0.0,3.0
+Chlidonias niger_Black Tern,0.2523437,0.0,3.0
+Peucaea aestivalis_Bachman's Sparrow,0.38227955,2.0,5.0
+Colinus virginianus_Northern Bobwhite,0.16137688,2.0,5.0
+Peucaea aestivalis_Bachman's Sparrow,0.45872074,3.0,6.0
+Rallus limicola_Virginia Rail,0.33327746,5.0,8.0
+Rallus limicola_Virginia Rail,0.40558633,6.0,9.0
+Passerina ciris_Painted Bunting,0.11404163,8.0,11.0
+Peucaea aestivalis_Bachman's Sparrow,0.1899577,9.0,12.0
+Colinus virginianus_Northern Bobwhite,0.1261377,9.0,12.0
+Peucaea aestivalis_Bachman's Sparrow,0.3272879,10.0,13.0
+Dryobates borealis_Red-cockaded Woodpecker,0.14151774,10.0,13.0
+Peucaea aestivalis_Bachman's Sparrow,0.70549613,11.0,14.0
+Dryobates borealis_Red-cockaded Woodpecker,0.13427778,11.0,14.0
+Aramus guarauna_Limpkin,0.31469062,12.0,15.0
+Peucaea aestivalis_Bachman's Sparrow,0.12739864,12.0,15.0
+Peucaea aestivalis_Bachman's Sparrow,0.108585164,13.0,16.0
+Aramus guarauna_Limpkin,0.33211398,14.0,17.0
+Ardea herodias_Great Blue Heron,0.218905,14.0,17.0
+Passerina ciris_Painted Bunting,0.12647866,15.0,18.0
+Porphyrio martinica_Purple Gallinule,0.10197767,17.0,20.0
+Ixobrychus exilis_Least Bittern,0.16337198,18.0,21.0
+Peucaea aestivalis_Bachman's Sparrow,0.18293001,20.0,23.0
+Colinus virginianus_Northern Bobwhite,0.15748155,20.0,23.0
+Passerina ciris_Painted Bunting,0.13980824,20.0,23.0
+Passerina ciris_Painted Bunting,0.13239026,21.0,24.0
+Peucaea aestivalis_Bachman's Sparrow,0.11766274,22.0,25.0
+Passerina ciris_Painted Bunting,0.10954631,22.0,25.0
+Rallus limicola_Virginia Rail,0.79002833,23.0,26.0
+Rallus crepitans_Clapper Rail,0.21447189,23.0,26.0
+Rallus elegans_King Rail,0.14798315,23.0,26.0
+Rallus limicola_Virginia Rail,0.7326984,24.0,27.0
+Rallus crepitans_Clapper Rail,0.12457584,24.0,27.0
+Rallus limicola_Virginia Rail,0.16341719,25.0,28.0
+Neoconocephalus bivocatus_False Robust Conehead,0.10407797,26.0,29.0
+Peucaea aestivalis_Bachman's Sparrow,0.18768637,27.0,30.0
+Peucaea aestivalis_Bachman's Sparrow,0.10916451,28.0,31.0
+Aramus guarauna_Limpkin,0.24126762,31.0,34.0
+Aramus guarauna_Limpkin,0.3001354,33.0,36.0
+Peucaea aestivalis_Bachman's Sparrow,0.15481134,33.0,36.0
+Colinus virginianus_Northern Bobwhite,0.10387335,33.0,36.0
+Rallus limicola_Virginia Rail,0.3462144,34.0,37.0
+Sternula antillarum_Least Tern,0.11662714,34.0,37.0
+Rallus limicola_Virginia Rail,0.844545,35.0,38.0
+Rallus limicola_Virginia Rail,0.8527724,36.0,39.0
+Sternula antillarum_Least Tern,0.11515953,36.0,39.0
+Otus scops_Eurasian Scops-Owl,0.19231865,41.0,44.0
+Otus scops_Eurasian Scops-Owl,0.10799788,42.0,45.0
+Rallus limicola_Virginia Rail,0.10442215,45.0,48.0
+Rallus limicola_Virginia Rail,0.20077302,46.0,49.0
+Rallus limicola_Virginia Rail,0.14022288,47.0,50.0
+Ixobrychus exilis_Least Bittern,0.10969733,48.0,51.0
+Ixobrychus exilis_Least Bittern,0.10888503,50.0,53.0
+Neoconocephalus bivocatus_False Robust Conehead,0.32364053,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1515286,53.0,56.0
+Peucaea aestivalis_Bachman's Sparrow,0.58257604,54.0,57.0
+Ammodramus savannarum_Grasshopper Sparrow,0.113608696,54.0,57.0
+Peucaea aestivalis_Bachman's Sparrow,0.21769625,55.0,58.0
+Ixobrychus exilis_Least Bittern,0.2384055,57.0,60.0
+Ixobrychus exilis_Least Bittern,0.13861099,58.0,61.0
+Ixobrychus exilis_Least Bittern,0.214265,59.0,62.0
+Ixobrychus exilis_Least Bittern,0.20447783,60.0,63.0
+Passerina ciris_Painted Bunting,0.17245924,60.0,63.0
+Colinus virginianus_Northern Bobwhite,0.12532553,60.0,63.0
+Ixobrychus exilis_Least Bittern,0.121251225,61.0,64.0
+Neoconocephalus bivocatus_False Robust Conehead,0.13804245,62.0,65.0
+Rallus limicola_Virginia Rail,0.17700514,64.0,67.0
+Galbula ruficauda_Rufous-tailed Jacamar,0.4996574,66.0,68.68802721088436

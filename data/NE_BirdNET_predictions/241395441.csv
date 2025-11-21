@@ -1,0 +1,830 @@
+species,score,start_time,end_time
+Regulus satrapa_Golden-crowned Kinglet,0.8211724,0.0,3.0
+Regulus satrapa_Golden-crowned Kinglet,0.9865643,1.0,4.0
+Regulus satrapa_Golden-crowned Kinglet,0.98046494,2.0,5.0
+Regulus satrapa_Golden-crowned Kinglet,0.5480423,3.0,6.0
+Lophophanes cristatus_Crested Tit,0.17476977,4.0,7.0
+Regulus satrapa_Golden-crowned Kinglet,0.5432617,9.0,12.0
+Regulus satrapa_Golden-crowned Kinglet,0.9282214,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.97142,11.0,14.0
+Regulus satrapa_Golden-crowned Kinglet,0.77515584,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.20913376,14.0,17.0
+Regulus satrapa_Golden-crowned Kinglet,0.40622053,15.0,18.0
+Certhia americana_Brown Creeper,0.2919556,15.0,18.0
+Regulus satrapa_Golden-crowned Kinglet,0.7915725,16.0,19.0
+Regulus satrapa_Golden-crowned Kinglet,0.98991334,17.0,20.0
+Regulus satrapa_Golden-crowned Kinglet,0.9836469,18.0,21.0
+Poecile gambeli_Mountain Chickadee,0.14897464,18.0,21.0
+Regulus satrapa_Golden-crowned Kinglet,0.9056535,19.0,22.0
+Poecile gambeli_Mountain Chickadee,0.6443517,20.0,23.0
+Poecile atricapillus_Black-capped Chickadee,0.2513438,20.0,23.0
+Geothlypis trichas_Common Yellowthroat,0.10576735,22.0,25.0
+Geothlypis trichas_Common Yellowthroat,0.12574819,24.0,27.0
+Pseudacris crucifer_Spring Peeper,0.30585244,27.0,30.0
+Pseudacris crucifer_Spring Peeper,0.1942307,28.0,31.0
+Pseudacris crucifer_Spring Peeper,0.14715408,29.0,32.0
+Pandion haliaetus_Osprey,0.1417965,35.0,38.0
+Regulus satrapa_Golden-crowned Kinglet,0.57134455,36.0,39.0
+Certhia americana_Brown Creeper,0.108217396,36.0,39.0
+Regulus satrapa_Golden-crowned Kinglet,0.41940448,37.0,40.0
+Certhia americana_Brown Creeper,0.19931142,37.0,40.0
+Regulus satrapa_Golden-crowned Kinglet,0.77169716,38.0,41.0
+Certhia americana_Brown Creeper,0.15231909,38.0,41.0
+Engine_Engine,0.13878754,41.0,44.0
+Engine_Engine,0.22808513,42.0,45.0
+Regulus satrapa_Golden-crowned Kinglet,0.65650475,43.0,46.0
+Certhia americana_Brown Creeper,0.5742415,43.0,46.0
+Regulus satrapa_Golden-crowned Kinglet,0.8994213,44.0,47.0
+Regulus satrapa_Golden-crowned Kinglet,0.9879782,45.0,48.0
+Regulus satrapa_Golden-crowned Kinglet,0.9873226,46.0,49.0
+Regulus satrapa_Golden-crowned Kinglet,0.79544175,47.0,50.0
+Regulus satrapa_Golden-crowned Kinglet,0.60254914,52.0,55.0
+Certhia americana_Brown Creeper,0.1398993,52.0,55.0
+Regulus satrapa_Golden-crowned Kinglet,0.9258577,53.0,56.0
+Regulus satrapa_Golden-crowned Kinglet,0.9757732,54.0,57.0
+Regulus satrapa_Golden-crowned Kinglet,0.9819885,55.0,58.0
+Regulus satrapa_Golden-crowned Kinglet,0.862615,56.0,59.0
+Poecile atricapillus_Black-capped Chickadee,0.18076515,56.0,59.0
+Poecile atricapillus_Black-capped Chickadee,0.4963372,57.0,60.0
+Certhia americana_Brown Creeper,0.9341762,62.0,65.0
+Regulus satrapa_Golden-crowned Kinglet,0.1151676,62.0,65.0
+Poecile carolinensis_Carolina Chickadee,0.106646724,62.0,65.0
+Regulus satrapa_Golden-crowned Kinglet,0.83791536,63.0,66.0
+Regulus satrapa_Golden-crowned Kinglet,0.8922315,64.0,67.0
+Certhia americana_Brown Creeper,0.20977272,64.0,67.0
+Regulus satrapa_Golden-crowned Kinglet,0.85166955,65.0,68.0
+Certhia americana_Brown Creeper,0.10077653,65.0,68.0
+Regulus satrapa_Golden-crowned Kinglet,0.65430665,66.0,69.0
+Certhia americana_Brown Creeper,0.34314737,66.0,69.0
+Pseudacris crucifer_Spring Peeper,0.4515949,67.0,70.0
+Lithobates palustris_Pickerel Frog,0.11037396,67.0,70.0
+Poecile carolinensis_Carolina Chickadee,0.23521009,68.0,71.0
+Certhia americana_Brown Creeper,0.10814075,68.0,71.0
+Regulus satrapa_Golden-crowned Kinglet,0.66833085,69.0,72.0
+Regulus satrapa_Golden-crowned Kinglet,0.9656881,70.0,73.0
+Regulus satrapa_Golden-crowned Kinglet,0.9667004,71.0,74.0
+Regulus satrapa_Golden-crowned Kinglet,0.8996129,72.0,75.0
+Poecile atricapillus_Black-capped Chickadee,0.4131764,73.0,76.0
+Regulus satrapa_Golden-crowned Kinglet,0.10786902,73.0,76.0
+Limnothlypis swainsonii_Swainson's Warbler,0.21225591,75.0,78.0
+Protonotaria citrea_Prothonotary Warbler,0.21373324,76.0,79.0
+Limnothlypis swainsonii_Swainson's Warbler,0.103179134,76.0,79.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10231761,77.0,80.0
+Vireo olivaceus_Red-eyed Vireo,0.16809602,79.0,82.0
+Geothlypis formosa_Kentucky Warbler,0.12971586,79.0,82.0
+Regulus satrapa_Golden-crowned Kinglet,0.6452324,80.0,83.0
+Regulus satrapa_Golden-crowned Kinglet,0.5929545,81.0,84.0
+Certhia americana_Brown Creeper,0.32954207,81.0,84.0
+Regulus satrapa_Golden-crowned Kinglet,0.41052496,82.0,85.0
+Certhia americana_Brown Creeper,0.31030914,82.0,85.0
+Certhia americana_Brown Creeper,0.79883367,83.0,86.0
+Regulus satrapa_Golden-crowned Kinglet,0.5250952,83.0,86.0
+Regulus satrapa_Golden-crowned Kinglet,0.1639531,84.0,87.0
+Certhia americana_Brown Creeper,0.1489706,84.0,87.0
+Regulus satrapa_Golden-crowned Kinglet,0.39817873,85.0,88.0
+Regulus satrapa_Golden-crowned Kinglet,0.9559367,86.0,89.0
+Regulus satrapa_Golden-crowned Kinglet,0.96145517,87.0,90.0
+Regulus satrapa_Golden-crowned Kinglet,0.97514457,88.0,91.0
+Regulus satrapa_Golden-crowned Kinglet,0.31468922,89.0,92.0
+Poecile atricapillus_Black-capped Chickadee,0.20374474,89.0,92.0
+Pipilo erythrophthalmus_Eastern Towhee,0.5515834,92.0,95.0
+Pipilo erythrophthalmus_Eastern Towhee,0.6615848,93.0,96.0
+Regulus satrapa_Golden-crowned Kinglet,0.61659694,94.0,97.0
+Regulus satrapa_Golden-crowned Kinglet,0.8535885,95.0,98.0
+Regulus satrapa_Golden-crowned Kinglet,0.99384093,96.0,99.0
+Poecile gambeli_Mountain Chickadee,0.15050757,96.0,99.0
+Regulus satrapa_Golden-crowned Kinglet,0.9909293,97.0,100.0
+Poecile gambeli_Mountain Chickadee,0.117627524,97.0,100.0
+Regulus satrapa_Golden-crowned Kinglet,0.9690151,98.0,101.0
+Pipilo erythrophthalmus_Eastern Towhee,0.46355337,101.0,104.0
+Pipilo erythrophthalmus_Eastern Towhee,0.56006575,102.0,105.0
+Regulus satrapa_Golden-crowned Kinglet,0.7638439,103.0,106.0
+Regulus satrapa_Golden-crowned Kinglet,0.8852558,104.0,107.0
+Regulus satrapa_Golden-crowned Kinglet,0.9814932,105.0,108.0
+Regulus satrapa_Golden-crowned Kinglet,0.9249517,106.0,109.0
+Poecile atricapillus_Black-capped Chickadee,0.11483063,107.0,110.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25513598,113.0,116.0
+Regulus satrapa_Golden-crowned Kinglet,0.49828926,115.0,118.0
+Regulus satrapa_Golden-crowned Kinglet,0.5261414,116.0,119.0
+Certhia americana_Brown Creeper,0.1078831,116.0,119.0
+Regulus satrapa_Golden-crowned Kinglet,0.64727193,117.0,120.0
+Certhia americana_Brown Creeper,0.35317224,117.0,120.0
+Certhia americana_Brown Creeper,0.9204413,118.0,121.0
+Regulus satrapa_Golden-crowned Kinglet,0.42038283,118.0,121.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1264014,119.0,122.0
+Regulus satrapa_Golden-crowned Kinglet,0.4144918,121.0,124.0
+Regulus satrapa_Golden-crowned Kinglet,0.82229793,122.0,125.0
+Certhia americana_Brown Creeper,0.15908389,122.0,125.0
+Regulus satrapa_Golden-crowned Kinglet,0.9590455,123.0,126.0
+Regulus satrapa_Golden-crowned Kinglet,0.96852577,124.0,127.0
+Regulus satrapa_Golden-crowned Kinglet,0.76410544,125.0,128.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25967044,126.0,129.0
+Buteo platypterus_Broad-winged Hawk,0.111127265,130.0,133.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19208856,131.0,134.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12872347,132.0,135.0
+Pipilo erythrophthalmus_Eastern Towhee,0.16302593,133.0,136.0
+Pipilo erythrophthalmus_Eastern Towhee,0.49232504,137.0,140.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19337371,138.0,141.0
+Icterus chrysater_Yellow-backed Oriole,0.1435636,142.0,145.0
+Icterus chrysater_Yellow-backed Oriole,0.2363349,143.0,146.0
+Regulus satrapa_Golden-crowned Kinglet,0.33735052,150.0,153.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10130027,162.0,165.0
+Regulus satrapa_Golden-crowned Kinglet,0.10764576,165.0,168.0
+Regulus satrapa_Golden-crowned Kinglet,0.3919777,166.0,169.0
+Brachyramphus marmoratus_Marbled Murrelet,0.19641522,166.0,169.0
+Gryllus rubens_Southeastern Field Cricket,0.21223292,167.0,170.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.19250293,167.0,170.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.28289345,168.0,171.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11453434,168.0,171.0
+Gryllus rubens_Southeastern Field Cricket,0.112812966,168.0,171.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.53672457,169.0,172.0
+Icterus cucullatus_Hooded Oriole,0.17023605,169.0,172.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.17339745,170.0,173.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.43840116,171.0,174.0
+Setophaga fusca_Blackburnian Warbler,0.15125836,172.0,175.0
+Regulus satrapa_Golden-crowned Kinglet,0.31263942,173.0,176.0
+Regulus satrapa_Golden-crowned Kinglet,0.31584957,174.0,177.0
+Gryllus rubens_Southeastern Field Cricket,0.38373828,175.0,178.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.17180839,175.0,178.0
+Gryllus rubens_Southeastern Field Cricket,0.24925555,176.0,179.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.18150821,178.0,181.0
+Gryllus rubens_Southeastern Field Cricket,0.12091521,178.0,181.0
+Canachites canadensis_Spruce Grouse,0.1292662,179.0,182.0
+Regulus satrapa_Golden-crowned Kinglet,0.1265103,180.0,183.0
+Regulus satrapa_Golden-crowned Kinglet,0.19271658,181.0,184.0
+Pterophylla camellifolia_Common True Katydid,0.12091463,185.0,188.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.37041786,186.0,189.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.2984593,186.0,189.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.23789187,186.0,189.0
+Pterophylla camellifolia_Common True Katydid,0.17283982,186.0,189.0
+Allonemobius tinnulus_Tinkling Ground Cricket,0.13379167,186.0,189.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.32058787,187.0,190.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.31232068,187.0,190.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.20303148,187.0,190.0
+Gryllus rubens_Southeastern Field Cricket,0.11055726,187.0,190.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.22919524,194.0,197.0
+Gryllus rubens_Southeastern Field Cricket,0.18256964,194.0,197.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.16501832,194.0,197.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.12742338,194.0,197.0
+Regulus satrapa_Golden-crowned Kinglet,0.108462684,196.0,199.0
+Gryllus rubens_Southeastern Field Cricket,0.21782888,198.0,201.0
+Gryllus rubens_Southeastern Field Cricket,0.2745127,199.0,202.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.11887878,199.0,202.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.49674132,200.0,203.0
+Gryllus rubens_Southeastern Field Cricket,0.106195785,200.0,203.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.56855506,201.0,204.0
+Gryllus rubens_Southeastern Field Cricket,0.1002363,201.0,204.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.43631202,202.0,205.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.41687277,203.0,206.0
+Gryllus rubens_Southeastern Field Cricket,0.17420945,203.0,206.0
+Pseudacris crucifer_Spring Peeper,0.17148867,205.0,208.0
+Regulus satrapa_Golden-crowned Kinglet,0.65538794,206.0,209.0
+Regulus satrapa_Golden-crowned Kinglet,0.9328162,207.0,210.0
+Regulus satrapa_Golden-crowned Kinglet,0.8052486,208.0,211.0
+Regulus satrapa_Golden-crowned Kinglet,0.39623585,209.0,212.0
+Certhia americana_Brown Creeper,0.13965409,209.0,212.0
+Pseudacris crucifer_Spring Peeper,0.1121,211.0,214.0
+Certhia americana_Brown Creeper,0.76361465,212.0,215.0
+Poecile carolinensis_Carolina Chickadee,0.67081815,212.0,215.0
+Regulus satrapa_Golden-crowned Kinglet,0.6707869,213.0,216.0
+Regulus satrapa_Golden-crowned Kinglet,0.9737221,214.0,217.0
+Regulus satrapa_Golden-crowned Kinglet,0.92654014,215.0,218.0
+Regulus satrapa_Golden-crowned Kinglet,0.8632012,216.0,219.0
+Regulus satrapa_Golden-crowned Kinglet,0.57962376,217.0,220.0
+Melospiza melodia_Song Sparrow,0.21941827,218.0,221.0
+Melospiza melodia_Song Sparrow,0.25790793,219.0,222.0
+Regulus satrapa_Golden-crowned Kinglet,0.7742302,222.0,225.0
+Regulus satrapa_Golden-crowned Kinglet,0.908311,223.0,226.0
+Regulus satrapa_Golden-crowned Kinglet,0.8792197,224.0,227.0
+Regulus satrapa_Golden-crowned Kinglet,0.47357938,225.0,228.0
+Regulus ignicapilla_Common Firecrest,0.1496741,226.0,229.0
+Melospiza melodia_Song Sparrow,0.10444039,229.0,232.0
+Regulus satrapa_Golden-crowned Kinglet,0.21743424,230.0,233.0
+Regulus satrapa_Golden-crowned Kinglet,0.72672117,231.0,234.0
+Regulus satrapa_Golden-crowned Kinglet,0.7053256,232.0,235.0
+Regulus satrapa_Golden-crowned Kinglet,0.41655603,233.0,236.0
+Certhia americana_Brown Creeper,0.13206296,233.0,236.0
+Poecile atricapillus_Black-capped Chickadee,0.13123523,234.0,237.0
+Regulus satrapa_Golden-crowned Kinglet,0.58686054,238.0,241.0
+Certhia americana_Brown Creeper,0.106856816,238.0,241.0
+Regulus satrapa_Golden-crowned Kinglet,0.78493613,239.0,242.0
+Regulus satrapa_Golden-crowned Kinglet,0.954094,240.0,243.0
+Regulus satrapa_Golden-crowned Kinglet,0.87049097,241.0,244.0
+Regulus satrapa_Golden-crowned Kinglet,0.44637987,242.0,245.0
+Regulus satrapa_Golden-crowned Kinglet,0.64751905,247.0,250.0
+Certhia americana_Brown Creeper,0.12712194,247.0,250.0
+Regulus satrapa_Golden-crowned Kinglet,0.9633542,248.0,251.0
+Regulus satrapa_Golden-crowned Kinglet,0.9915697,249.0,252.0
+Poecile gambeli_Mountain Chickadee,0.104548015,249.0,252.0
+Regulus satrapa_Golden-crowned Kinglet,0.9778652,250.0,253.0
+Poecile gambeli_Mountain Chickadee,0.12627223,250.0,253.0
+Poecile atricapillus_Black-capped Chickadee,0.55031466,251.0,254.0
+Regulus satrapa_Golden-crowned Kinglet,0.2800313,251.0,254.0
+Microcerculus marginatus_Scaly-breasted Wren,0.12395945,253.0,256.0
+Certhia americana_Brown Creeper,0.39935163,255.0,258.0
+Poecile carolinensis_Carolina Chickadee,0.15497467,255.0,258.0
+Regulus satrapa_Golden-crowned Kinglet,0.7110416,256.0,259.0
+Regulus satrapa_Golden-crowned Kinglet,0.9866131,257.0,260.0
+Regulus satrapa_Golden-crowned Kinglet,0.9876439,258.0,261.0
+Regulus satrapa_Golden-crowned Kinglet,0.96717805,259.0,262.0
+Regulus satrapa_Golden-crowned Kinglet,0.57839936,260.0,263.0
+Poecile atricapillus_Black-capped Chickadee,0.20805727,260.0,263.0
+Pseudacris crucifer_Spring Peeper,0.14847517,265.0,268.0
+Certhia americana_Brown Creeper,0.74288267,271.0,274.0
+Poecile carolinensis_Carolina Chickadee,0.4770843,271.0,274.0
+Regulus satrapa_Golden-crowned Kinglet,0.80079836,272.0,275.0
+Certhia americana_Brown Creeper,0.21151122,272.0,275.0
+Regulus satrapa_Golden-crowned Kinglet,0.9725146,273.0,276.0
+Certhia americana_Brown Creeper,0.24667732,273.0,276.0
+Regulus satrapa_Golden-crowned Kinglet,0.99169636,274.0,277.0
+Regulus satrapa_Golden-crowned Kinglet,0.97024184,275.0,278.0
+Regulus ignicapilla_Common Firecrest,0.7475752,276.0,279.0
+Regulus satrapa_Golden-crowned Kinglet,0.17723309,276.0,279.0
+Phyllergates cucullatus_Mountain Tailorbird,0.24416628,278.0,281.0
+Catharus fuscater_Slaty-backed Nightingale-Thrush,0.1463135,278.0,281.0
+Regulus satrapa_Golden-crowned Kinglet,0.5279795,279.0,282.0
+Certhia americana_Brown Creeper,0.41313642,279.0,282.0
+Regulus satrapa_Golden-crowned Kinglet,0.7978473,280.0,283.0
+Regulus satrapa_Golden-crowned Kinglet,0.9941334,281.0,284.0
+Regulus satrapa_Golden-crowned Kinglet,0.9952728,282.0,285.0
+Regulus satrapa_Golden-crowned Kinglet,0.9565531,283.0,286.0
+Poecile atricapillus_Black-capped Chickadee,0.20772947,283.0,286.0
+Poecile gambeli_Mountain Chickadee,0.20442322,284.0,287.0
+Poecile atricapillus_Black-capped Chickadee,0.20238352,284.0,287.0
+Regulus satrapa_Golden-crowned Kinglet,0.11062372,284.0,287.0
+Icterus chrysater_Yellow-backed Oriole,0.13362098,290.0,293.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21270373,291.0,294.0
+Euphagus carolinus_Rusty Blackbird,0.14377546,291.0,294.0
+Certhia americana_Brown Creeper,0.53974605,294.0,297.0
+Regulus satrapa_Golden-crowned Kinglet,0.42899123,294.0,297.0
+Certhia americana_Brown Creeper,0.76797205,295.0,298.0
+Regulus satrapa_Golden-crowned Kinglet,0.16360825,295.0,298.0
+Certhia americana_Brown Creeper,0.7349746,296.0,299.0
+Regulus satrapa_Golden-crowned Kinglet,0.10460689,296.0,299.0
+Pseudacris crucifer_Spring Peeper,0.2601068,299.0,302.0
+Pseudacris crucifer_Spring Peeper,0.17947258,304.0,307.0
+Pseudacris crucifer_Spring Peeper,0.2104668,305.0,308.0
+Regulus satrapa_Golden-crowned Kinglet,0.7769614,310.0,313.0
+Regulus satrapa_Golden-crowned Kinglet,0.9652844,311.0,314.0
+Regulus satrapa_Golden-crowned Kinglet,0.94565547,312.0,315.0
+Poecile gambeli_Mountain Chickadee,0.11009375,312.0,315.0
+Regulus satrapa_Golden-crowned Kinglet,0.9516968,313.0,316.0
+Regulus satrapa_Golden-crowned Kinglet,0.9216324,314.0,317.0
+Poecile atricapillus_Black-capped Chickadee,0.15985814,314.0,317.0
+Icterus chrysater_Yellow-backed Oriole,0.13235885,317.0,320.0
+Icteria virens_Yellow-breasted Chat,0.14924331,322.0,325.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1328057,322.0,325.0
+Pipilo erythrophthalmus_Eastern Towhee,0.17430818,323.0,326.0
+Regulus satrapa_Golden-crowned Kinglet,0.49710304,327.0,330.0
+Regulus satrapa_Golden-crowned Kinglet,0.81351894,328.0,331.0
+Regulus satrapa_Golden-crowned Kinglet,0.97010493,329.0,332.0
+Regulus satrapa_Golden-crowned Kinglet,0.9488531,330.0,333.0
+Regulus satrapa_Golden-crowned Kinglet,0.7403053,331.0,334.0
+Poecile atricapillus_Black-capped Chickadee,0.2519959,332.0,335.0
+Cacomantis variolosus_Brush Cuckoo,0.122028925,334.0,337.0
+Icterus chrysater_Yellow-backed Oriole,0.44901425,349.0,352.0
+Cacomantis variolosus_Brush Cuckoo,0.43638572,350.0,353.0
+Turdus falcklandii_Austral Thrush,0.102214314,350.0,353.0
+Cacomantis merulinus_Plaintive Cuckoo,0.10038974,350.0,353.0
+Regulus satrapa_Golden-crowned Kinglet,0.57863986,354.0,357.0
+Certhia americana_Brown Creeper,0.25091904,354.0,357.0
+Regulus satrapa_Golden-crowned Kinglet,0.7173095,355.0,358.0
+Regulus satrapa_Golden-crowned Kinglet,0.9677385,356.0,359.0
+Regulus satrapa_Golden-crowned Kinglet,0.84690326,357.0,360.0
+Regulus satrapa_Golden-crowned Kinglet,0.9173811,358.0,361.0
+Regulus regulus_Goldcrest,0.13966836,359.0,362.0
+Regulus satrapa_Golden-crowned Kinglet,0.11025713,359.0,362.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15438987,362.0,365.0
+Protonotaria citrea_Prothonotary Warbler,0.1350726,365.0,368.0
+Regulus satrapa_Golden-crowned Kinglet,0.5366607,369.0,372.0
+Regulus satrapa_Golden-crowned Kinglet,0.93898225,370.0,373.0
+Regulus satrapa_Golden-crowned Kinglet,0.9283301,371.0,374.0
+Regulus satrapa_Golden-crowned Kinglet,0.8667993,372.0,375.0
+Protonotaria citrea_Prothonotary Warbler,0.112760864,375.0,378.0
+Certhia americana_Brown Creeper,0.61617523,376.0,379.0
+Regulus satrapa_Golden-crowned Kinglet,0.10766791,376.0,379.0
+Regulus satrapa_Golden-crowned Kinglet,0.4269461,377.0,380.0
+Certhia americana_Brown Creeper,0.18739027,377.0,380.0
+Regulus satrapa_Golden-crowned Kinglet,0.87741005,378.0,381.0
+Regulus satrapa_Golden-crowned Kinglet,0.91735524,379.0,382.0
+Regulus satrapa_Golden-crowned Kinglet,0.3755121,380.0,383.0
+Regulus satrapa_Golden-crowned Kinglet,0.62682396,384.0,387.0
+Certhia americana_Brown Creeper,0.123746864,384.0,387.0
+Regulus satrapa_Golden-crowned Kinglet,0.9452322,385.0,388.0
+Regulus satrapa_Golden-crowned Kinglet,0.96996135,386.0,389.0
+Regulus satrapa_Golden-crowned Kinglet,0.9489386,387.0,390.0
+Regulus satrapa_Golden-crowned Kinglet,0.5627593,392.0,395.0
+Regulus satrapa_Golden-crowned Kinglet,0.91041267,393.0,396.0
+Regulus satrapa_Golden-crowned Kinglet,0.9864934,394.0,397.0
+Regulus satrapa_Golden-crowned Kinglet,0.9864738,395.0,398.0
+Regulus satrapa_Golden-crowned Kinglet,0.7533061,396.0,399.0
+Certhia americana_Brown Creeper,0.2699738,401.0,404.0
+Certhia americana_Brown Creeper,0.109306745,408.0,411.0
+Pterophylla camellifolia_Common True Katydid,0.10792983,409.0,412.0
+Pterophylla camellifolia_Common True Katydid,0.11728308,418.0,421.0
+Gryllus rubens_Southeastern Field Cricket,0.3351878,419.0,422.0
+Gryllus rubens_Southeastern Field Cricket,0.5959772,420.0,423.0
+Pterophylla camellifolia_Common True Katydid,0.12411678,420.0,423.0
+Gryllus rubens_Southeastern Field Cricket,0.32925016,421.0,424.0
+Regulus satrapa_Golden-crowned Kinglet,0.1582125,423.0,426.0
+Regulus satrapa_Golden-crowned Kinglet,0.22012107,424.0,427.0
+Brachyramphus marmoratus_Marbled Murrelet,0.25785664,425.0,428.0
+Regulus satrapa_Golden-crowned Kinglet,0.40382,428.0,431.0
+Certhia americana_Brown Creeper,0.40220353,428.0,431.0
+Regulus satrapa_Golden-crowned Kinglet,0.82088256,429.0,432.0
+Regulus satrapa_Golden-crowned Kinglet,0.9859811,430.0,433.0
+Regulus satrapa_Golden-crowned Kinglet,0.9531867,431.0,434.0
+Regulus satrapa_Golden-crowned Kinglet,0.50368935,432.0,435.0
+Regulus ignicapilla_Common Firecrest,0.14389433,432.0,435.0
+Regulus satrapa_Golden-crowned Kinglet,0.39050722,435.0,438.0
+Regulus satrapa_Golden-crowned Kinglet,0.7972434,436.0,439.0
+Regulus satrapa_Golden-crowned Kinglet,0.9929589,437.0,440.0
+Regulus satrapa_Golden-crowned Kinglet,0.97161543,438.0,441.0
+Setophaga tigrina_Cape May Warbler,0.7201383,439.0,442.0
+Regulus satrapa_Golden-crowned Kinglet,0.13338454,439.0,442.0
+Corvus brachyrhynchos_American Crow,0.14964353,441.0,444.0
+Regulus satrapa_Golden-crowned Kinglet,0.7851441,442.0,445.0
+Regulus satrapa_Golden-crowned Kinglet,0.8657054,443.0,446.0
+Regulus satrapa_Golden-crowned Kinglet,0.9896953,444.0,447.0
+Regulus satrapa_Golden-crowned Kinglet,0.9841908,445.0,448.0
+Certhia americana_Brown Creeper,0.1258137,445.0,448.0
+Regulus satrapa_Golden-crowned Kinglet,0.5526493,446.0,449.0
+Poecile atricapillus_Black-capped Chickadee,0.11406827,446.0,449.0
+Spizella passerina_Chipping Sparrow,0.5794592,447.0,450.0
+Peucaea botterii_Botteri's Sparrow,0.20809695,447.0,450.0
+Asthenes pyrrholeuca_Sharp-billed Canastero,0.1873645,447.0,450.0
+Regulus satrapa_Golden-crowned Kinglet,0.48147035,450.0,453.0
+Regulus satrapa_Golden-crowned Kinglet,0.97096586,451.0,454.0
+Regulus satrapa_Golden-crowned Kinglet,0.98609495,452.0,455.0
+Regulus satrapa_Golden-crowned Kinglet,0.24787648,453.0,456.0
+Certhia americana_Brown Creeper,0.46249783,457.0,460.0
+Certhia americana_Brown Creeper,0.76484215,458.0,461.0
+Regulus satrapa_Golden-crowned Kinglet,0.733676,459.0,462.0
+Certhia americana_Brown Creeper,0.60442406,459.0,462.0
+Regulus satrapa_Golden-crowned Kinglet,0.94112724,460.0,463.0
+Regulus satrapa_Golden-crowned Kinglet,0.9392295,461.0,464.0
+Regulus satrapa_Golden-crowned Kinglet,0.92274976,462.0,465.0
+Poecile atricapillus_Black-capped Chickadee,0.13346447,463.0,466.0
+Geothlypis formosa_Kentucky Warbler,0.102633774,466.0,469.0
+Regulus satrapa_Golden-crowned Kinglet,0.62876934,467.0,470.0
+Certhia americana_Brown Creeper,0.14508761,467.0,470.0
+Regulus satrapa_Golden-crowned Kinglet,0.90939057,468.0,471.0
+Certhia americana_Brown Creeper,0.115981735,468.0,471.0
+Regulus satrapa_Golden-crowned Kinglet,0.959032,469.0,472.0
+Regulus satrapa_Golden-crowned Kinglet,0.93544525,470.0,473.0
+Regulus satrapa_Golden-crowned Kinglet,0.23816988,471.0,474.0
+Poecile atricapillus_Black-capped Chickadee,0.20555711,471.0,474.0
+Formicivora erythronotos_Black-hooded Antwren,0.12685095,474.0,477.0
+Regulus satrapa_Golden-crowned Kinglet,0.19380812,475.0,478.0
+Regulus satrapa_Golden-crowned Kinglet,0.6243326,476.0,479.0
+Setophaga fusca_Blackburnian Warbler,0.14241333,476.0,479.0
+Regulus satrapa_Golden-crowned Kinglet,0.69872355,477.0,480.0
+Setophaga tigrina_Cape May Warbler,0.19250089,477.0,480.0
+Setophaga striata_Blackpoll Warbler,0.14229746,477.0,480.0
+Regulus satrapa_Golden-crowned Kinglet,0.5422265,478.0,481.0
+Setophaga striata_Blackpoll Warbler,0.28983518,479.0,482.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.1338748,481.0,484.0
+Gryllus fultoni_Southern Wood Cricket,0.274717,483.0,486.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.13197435,483.0,486.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.23215613,485.0,488.0
+Gryllus rubens_Southeastern Field Cricket,0.12521073,485.0,488.0
+Gryllus fultoni_Southern Wood Cricket,0.123590715,485.0,488.0
+Regulus satrapa_Golden-crowned Kinglet,0.31438357,489.0,492.0
+Regulus satrapa_Golden-crowned Kinglet,0.6262681,490.0,493.0
+Regulus satrapa_Golden-crowned Kinglet,0.91246915,491.0,494.0
+Poecile gambeli_Mountain Chickadee,0.29219842,491.0,494.0
+Regulus satrapa_Golden-crowned Kinglet,0.9871365,492.0,495.0
+Poecile gambeli_Mountain Chickadee,0.22198647,492.0,495.0
+Regulus satrapa_Golden-crowned Kinglet,0.94855505,493.0,496.0
+Poecile gambeli_Mountain Chickadee,0.14214112,493.0,496.0
+Poecile atricapillus_Black-capped Chickadee,0.68782,494.0,497.0
+Poecile gambeli_Mountain Chickadee,0.27337316,494.0,497.0
+Vireo olivaceus_Red-eyed Vireo,0.10070096,495.0,498.0
+Regulus satrapa_Golden-crowned Kinglet,0.47962365,496.0,499.0
+Regulus satrapa_Golden-crowned Kinglet,0.8520572,497.0,500.0
+Setophaga fusca_Blackburnian Warbler,0.14053647,497.0,500.0
+Setophaga tigrina_Cape May Warbler,0.11295608,497.0,500.0
+Regulus satrapa_Golden-crowned Kinglet,0.99234116,498.0,501.0
+Poecile gambeli_Mountain Chickadee,0.111006975,498.0,501.0
+Regulus satrapa_Golden-crowned Kinglet,0.96621966,499.0,502.0
+Setophaga fusca_Blackburnian Warbler,0.23074757,499.0,502.0
+Regulus satrapa_Golden-crowned Kinglet,0.72918427,500.0,503.0
+Poecile atricapillus_Black-capped Chickadee,0.35450053,500.0,503.0
+Regulus satrapa_Golden-crowned Kinglet,0.6265419,501.0,504.0
+Regulus satrapa_Golden-crowned Kinglet,0.9623773,502.0,505.0
+Regulus satrapa_Golden-crowned Kinglet,0.9770512,503.0,506.0
+Regulus satrapa_Golden-crowned Kinglet,0.9760744,504.0,507.0
+Poecile gambeli_Mountain Chickadee,0.15932949,504.0,507.0
+Regulus satrapa_Golden-crowned Kinglet,0.7077867,505.0,508.0
+Poecile atricapillus_Black-capped Chickadee,0.2739119,505.0,508.0
+Vireo philadelphicus_Philadelphia Vireo,0.171634,506.0,509.0
+Vireo olivaceus_Red-eyed Vireo,0.114044175,506.0,509.0
+Vireo olivaceus_Red-eyed Vireo,0.4341153,507.0,510.0
+Vireo philadelphicus_Philadelphia Vireo,0.19761483,507.0,510.0
+Regulus satrapa_Golden-crowned Kinglet,0.85499376,509.0,512.0
+Setophaga fusca_Blackburnian Warbler,0.40328625,509.0,512.0
+Regulus satrapa_Golden-crowned Kinglet,0.9557247,510.0,513.0
+Setophaga fusca_Blackburnian Warbler,0.106648475,510.0,513.0
+Regulus satrapa_Golden-crowned Kinglet,0.95551807,511.0,514.0
+Regulus satrapa_Golden-crowned Kinglet,0.77724576,512.0,515.0
+Poecile atricapillus_Black-capped Chickadee,0.48878258,513.0,516.0
+Vireo olivaceus_Red-eyed Vireo,0.179727,514.0,517.0
+Vireo olivaceus_Red-eyed Vireo,0.16058989,515.0,518.0
+Vireo olivaceus_Red-eyed Vireo,0.5029419,516.0,519.0
+Vireo philadelphicus_Philadelphia Vireo,0.26805413,516.0,519.0
+Regulus satrapa_Golden-crowned Kinglet,0.7430683,517.0,520.0
+Regulus satrapa_Golden-crowned Kinglet,0.8992618,518.0,521.0
+Vireo philadelphicus_Philadelphia Vireo,0.5571322,518.0,521.0
+Setophaga fusca_Blackburnian Warbler,0.24581641,518.0,521.0
+Regulus satrapa_Golden-crowned Kinglet,0.95809245,519.0,522.0
+Setophaga fusca_Blackburnian Warbler,0.14860912,519.0,522.0
+Regulus satrapa_Golden-crowned Kinglet,0.9178629,520.0,523.0
+Regulus satrapa_Golden-crowned Kinglet,0.28604865,521.0,524.0
+Setophaga fusca_Blackburnian Warbler,0.12485937,521.0,524.0
+Vireo olivaceus_Red-eyed Vireo,0.49690035,523.0,526.0
+Vireo olivaceus_Red-eyed Vireo,0.59231585,524.0,527.0
+Vireo philadelphicus_Philadelphia Vireo,0.11641283,524.0,527.0
+Vireo olivaceus_Red-eyed Vireo,0.6378544,525.0,528.0
+Vireo philadelphicus_Philadelphia Vireo,0.14674717,525.0,528.0
+Vireo olivaceus_Red-eyed Vireo,0.5759075,526.0,529.0
+Vireo philadelphicus_Philadelphia Vireo,0.36176074,526.0,529.0
+Vireo olivaceus_Red-eyed Vireo,0.4177849,527.0,530.0
+Vireo philadelphicus_Philadelphia Vireo,0.36104023,527.0,530.0
+Regulus satrapa_Golden-crowned Kinglet,0.34048882,528.0,531.0
+Vireo philadelphicus_Philadelphia Vireo,0.18802819,528.0,531.0
+Regulus satrapa_Golden-crowned Kinglet,0.42588833,529.0,532.0
+Regulus satrapa_Golden-crowned Kinglet,0.61939496,530.0,533.0
+Regulus satrapa_Golden-crowned Kinglet,0.511003,536.0,539.0
+Regulus satrapa_Golden-crowned Kinglet,0.8409971,537.0,540.0
+Regulus satrapa_Golden-crowned Kinglet,0.9285835,538.0,541.0
+Regulus satrapa_Golden-crowned Kinglet,0.86585176,539.0,542.0
+Regulus satrapa_Golden-crowned Kinglet,0.16289394,540.0,543.0
+Poecile atricapillus_Black-capped Chickadee,0.15881522,540.0,543.0
+Tiaris olivaceus_Yellow-faced Grassquit,0.39196298,546.0,549.0
+Tiaris olivaceus_Yellow-faced Grassquit,0.21733037,547.0,550.0
+Setophaga striata_Blackpoll Warbler,0.6047273,548.0,551.0
+Setophaga tigrina_Cape May Warbler,0.21835011,548.0,551.0
+Vireo plumbeus_Plumbeous Vireo,0.6850465,550.0,553.0
+Regulus satrapa_Golden-crowned Kinglet,0.6324145,552.0,555.0
+Regulus satrapa_Golden-crowned Kinglet,0.95013607,553.0,556.0
+Regulus satrapa_Golden-crowned Kinglet,0.9774588,554.0,557.0
+Regulus satrapa_Golden-crowned Kinglet,0.86958957,555.0,558.0
+Regulus satrapa_Golden-crowned Kinglet,0.16537128,556.0,559.0
+Poecile atricapillus_Black-capped Chickadee,0.10911648,556.0,559.0
+Regulus satrapa_Golden-crowned Kinglet,0.5167805,559.0,562.0
+Regulus satrapa_Golden-crowned Kinglet,0.83598536,560.0,563.0
+Regulus satrapa_Golden-crowned Kinglet,0.8880463,561.0,564.0
+Regulus satrapa_Golden-crowned Kinglet,0.80244225,562.0,565.0
+Certhia americana_Brown Creeper,0.24067949,562.0,565.0
+Poecile atricapillus_Black-capped Chickadee,0.121084765,562.0,565.0
+Poecile atricapillus_Black-capped Chickadee,0.3891134,563.0,566.0
+Ammodramus savannarum_Grasshopper Sparrow,0.20339693,564.0,567.0
+Setophaga striata_Blackpoll Warbler,0.13920024,565.0,568.0
+Setophaga striata_Blackpoll Warbler,0.38057333,566.0,569.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1443515,566.0,569.0
+Setophaga striata_Blackpoll Warbler,0.5568149,567.0,570.0
+Setophaga striata_Blackpoll Warbler,0.3045538,568.0,571.0
+Ammodramus savannarum_Grasshopper Sparrow,0.118737355,568.0,571.0
+Setophaga striata_Blackpoll Warbler,0.61385477,569.0,572.0
+Regulus satrapa_Golden-crowned Kinglet,0.35466525,570.0,573.0
+Regulus satrapa_Golden-crowned Kinglet,0.50689733,571.0,574.0
+Regulus satrapa_Golden-crowned Kinglet,0.64162934,572.0,575.0
+Setophaga striata_Blackpoll Warbler,0.16040243,572.0,575.0
+Regulus satrapa_Golden-crowned Kinglet,0.71360546,573.0,576.0
+Lithobates palustris_Pickerel Frog,0.3572814,573.0,576.0
+Setophaga striata_Blackpoll Warbler,0.39448974,574.0,577.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.13027777,575.0,578.0
+Regulus satrapa_Golden-crowned Kinglet,0.1880868,576.0,579.0
+Regulus satrapa_Golden-crowned Kinglet,0.7564067,577.0,580.0
+Regulus satrapa_Golden-crowned Kinglet,0.5703864,578.0,581.0
+Lithobates palustris_Pickerel Frog,0.47176906,578.0,581.0
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad,0.20564836,578.0,581.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.104806945,578.0,581.0
+Regulus satrapa_Golden-crowned Kinglet,0.22800772,579.0,582.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.16959989,579.0,582.0
+Lithobates palustris_Pickerel Frog,0.15641454,579.0,582.0
+Poecile atricapillus_Black-capped Chickadee,0.16706666,580.0,583.0
+Regulus satrapa_Golden-crowned Kinglet,0.9458648,581.0,584.0
+Regulus satrapa_Golden-crowned Kinglet,0.82835,582.0,585.0
+Regulus satrapa_Golden-crowned Kinglet,0.8360465,583.0,586.0
+Regulus satrapa_Golden-crowned Kinglet,0.93207926,584.0,587.0
+Regulus regulus_Goldcrest,0.52355903,585.0,588.0
+Regulus satrapa_Golden-crowned Kinglet,0.37994355,585.0,588.0
+Vireo philadelphicus_Philadelphia Vireo,0.20064865,585.0,588.0
+Vireo olivaceus_Red-eyed Vireo,0.18206747,585.0,588.0
+Regulus satrapa_Golden-crowned Kinglet,0.84027964,586.0,589.0
+Vireo olivaceus_Red-eyed Vireo,0.35469213,586.0,589.0
+Vireo philadelphicus_Philadelphia Vireo,0.22502235,586.0,589.0
+Regulus regulus_Goldcrest,0.11279832,586.0,589.0
+Regulus satrapa_Golden-crowned Kinglet,0.96680015,587.0,590.0
+Vireo olivaceus_Red-eyed Vireo,0.37043107,587.0,590.0
+Sitta canadensis_Red-breasted Nuthatch,0.3539984,587.0,590.0
+Vireo philadelphicus_Philadelphia Vireo,0.21328998,587.0,590.0
+Setophaga striata_Blackpoll Warbler,0.1681613,587.0,590.0
+Regulus satrapa_Golden-crowned Kinglet,0.91377866,588.0,591.0
+Vireo philadelphicus_Philadelphia Vireo,0.19220021,588.0,591.0
+Setophaga striata_Blackpoll Warbler,0.14325295,588.0,591.0
+Vireo olivaceus_Red-eyed Vireo,0.13315456,588.0,591.0
+Regulus satrapa_Golden-crowned Kinglet,0.9652997,589.0,592.0
+Vireo philadelphicus_Philadelphia Vireo,0.13497093,589.0,592.0
+Regulus satrapa_Golden-crowned Kinglet,0.93791735,590.0,593.0
+Vireo philadelphicus_Philadelphia Vireo,0.10510038,590.0,593.0
+Regulus satrapa_Golden-crowned Kinglet,0.8353188,591.0,594.0
+Vireo philadelphicus_Philadelphia Vireo,0.10366144,591.0,594.0
+Regulus satrapa_Golden-crowned Kinglet,0.45832497,592.0,595.0
+Vireo philadelphicus_Philadelphia Vireo,0.36196998,593.0,596.0
+Regulus satrapa_Golden-crowned Kinglet,0.30239812,594.0,597.0
+Regulus satrapa_Golden-crowned Kinglet,0.6765541,595.0,598.0
+Regulus satrapa_Golden-crowned Kinglet,0.921035,596.0,599.0
+Regulus satrapa_Golden-crowned Kinglet,0.960404,597.0,600.0
+Regulus satrapa_Golden-crowned Kinglet,0.847158,598.0,601.0
+Setophaga fusca_Blackburnian Warbler,0.24794312,598.0,601.0
+Vireo philadelphicus_Philadelphia Vireo,0.30277637,599.0,602.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10007283,599.0,602.0
+Certhia americana_Brown Creeper,0.4400934,601.0,604.0
+Regulus satrapa_Golden-crowned Kinglet,0.33204132,601.0,604.0
+Regulus satrapa_Golden-crowned Kinglet,0.5192601,602.0,605.0
+Certhia americana_Brown Creeper,0.2242903,602.0,605.0
+Regulus satrapa_Golden-crowned Kinglet,0.8753809,603.0,606.0
+Regulus satrapa_Golden-crowned Kinglet,0.8773696,604.0,607.0
+Certhia americana_Brown Creeper,0.2615562,604.0,607.0
+Poecile atricapillus_Black-capped Chickadee,0.27024785,605.0,608.0
+Regulus satrapa_Golden-crowned Kinglet,0.18827853,605.0,608.0
+Regulus satrapa_Golden-crowned Kinglet,0.6455434,607.0,610.0
+Regulus satrapa_Golden-crowned Kinglet,0.7997152,608.0,611.0
+Lithobates palustris_Pickerel Frog,0.34791487,608.0,611.0
+Regulus satrapa_Golden-crowned Kinglet,0.8038995,609.0,612.0
+Regulus satrapa_Golden-crowned Kinglet,0.24266599,610.0,613.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.14938207,610.0,613.0
+Regulus satrapa_Golden-crowned Kinglet,0.6624778,611.0,614.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.5627205,611.0,614.0
+Regulus satrapa_Golden-crowned Kinglet,0.7300824,612.0,615.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.1853376,612.0,615.0
+Dryophytes versicolor_Gray Treefrog,0.11889207,612.0,615.0
+Regulus satrapa_Golden-crowned Kinglet,0.7738014,613.0,616.0
+Regulus satrapa_Golden-crowned Kinglet,0.90734476,614.0,617.0
+Regulus satrapa_Golden-crowned Kinglet,0.88785774,615.0,618.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.142797,615.0,618.0
+Regulus satrapa_Golden-crowned Kinglet,0.76299685,616.0,619.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.3529124,616.0,619.0
+Regulus satrapa_Golden-crowned Kinglet,0.575806,617.0,620.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.38427353,617.0,620.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.439674,618.0,621.0
+Regulus satrapa_Golden-crowned Kinglet,0.19912837,618.0,621.0
+Regulus satrapa_Golden-crowned Kinglet,0.18981105,619.0,622.0
+Setophaga striata_Blackpoll Warbler,0.10621987,619.0,622.0
+Setophaga striata_Blackpoll Warbler,0.33304405,620.0,623.0
+Setophaga striata_Blackpoll Warbler,0.32700816,621.0,624.0
+Regulus regulus_Goldcrest,0.25707737,621.0,624.0
+Regulus satrapa_Golden-crowned Kinglet,0.38615602,622.0,625.0
+Setophaga striata_Blackpoll Warbler,0.34014884,622.0,625.0
+Regulus regulus_Goldcrest,0.18172877,622.0,625.0
+Setophaga tigrina_Cape May Warbler,0.13483645,623.0,626.0
+Regulus satrapa_Golden-crowned Kinglet,0.1219618,623.0,626.0
+Setophaga tigrina_Cape May Warbler,0.18715249,624.0,627.0
+Regulus satrapa_Golden-crowned Kinglet,0.18243358,624.0,627.0
+Regulus satrapa_Golden-crowned Kinglet,0.89045286,625.0,628.0
+Regulus satrapa_Golden-crowned Kinglet,0.82298636,626.0,629.0
+Regulus satrapa_Golden-crowned Kinglet,0.891943,627.0,630.0
+Regulus satrapa_Golden-crowned Kinglet,0.8425102,628.0,631.0
+Regulus satrapa_Golden-crowned Kinglet,0.8689874,629.0,632.0
+Poecile carolinensis_Carolina Chickadee,0.28826863,630.0,633.0
+Regulus satrapa_Golden-crowned Kinglet,0.58201325,631.0,634.0
+Regulus satrapa_Golden-crowned Kinglet,0.81928563,632.0,635.0
+Regulus satrapa_Golden-crowned Kinglet,0.8200997,633.0,636.0
+Lithobates palustris_Pickerel Frog,0.6849073,633.0,636.0
+Lithobates palustris_Pickerel Frog,0.43427315,634.0,637.0
+Regulus satrapa_Golden-crowned Kinglet,0.42724875,634.0,637.0
+Scytalopus stilesi_Stiles's Tapaculo,0.5143198,635.0,638.0
+Lithobates palustris_Pickerel Frog,0.19523191,635.0,638.0
+Regulus satrapa_Golden-crowned Kinglet,0.10029416,635.0,638.0
+Lithobates palustris_Pickerel Frog,0.21392824,636.0,639.0
+Progne subis_Purple Martin,0.123292044,637.0,640.0
+Regulus satrapa_Golden-crowned Kinglet,0.15703204,638.0,641.0
+Regulus satrapa_Golden-crowned Kinglet,0.27953324,639.0,642.0
+Regulus satrapa_Golden-crowned Kinglet,0.17375167,640.0,643.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.10451929,640.0,643.0
+Dryophytes chrysoscelis_Cope's Gray Treefrog,0.12068995,641.0,644.0
+Gryllus rubens_Southeastern Field Cricket,0.27331883,643.0,646.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11943874,643.0,646.0
+Gryllus rubens_Southeastern Field Cricket,0.25703713,644.0,647.0
+Gryllus rubens_Southeastern Field Cricket,0.29189807,645.0,648.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.16263194,645.0,648.0
+Gryllus rubens_Southeastern Field Cricket,0.1639924,647.0,650.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.10869843,647.0,650.0
+Regulus satrapa_Golden-crowned Kinglet,0.56755275,649.0,652.0
+Regulus satrapa_Golden-crowned Kinglet,0.26827705,650.0,653.0
+Certhia americana_Brown Creeper,0.1631535,650.0,653.0
+Regulus satrapa_Golden-crowned Kinglet,0.15037666,651.0,654.0
+Brachyramphus marmoratus_Marbled Murrelet,0.2595595,659.0,662.0
+Regulus satrapa_Golden-crowned Kinglet,0.14896324,659.0,662.0
+Brachyramphus marmoratus_Marbled Murrelet,0.30609164,660.0,663.0
+Regulus satrapa_Golden-crowned Kinglet,0.13063416,660.0,663.0
+Brachyramphus marmoratus_Marbled Murrelet,0.24712999,665.0,668.0
+Gryllus rubens_Southeastern Field Cricket,0.13931082,665.0,668.0
+Brachyramphus marmoratus_Marbled Murrelet,0.2074743,670.0,673.0
+Vireo olivaceus_Red-eyed Vireo,0.1422425,671.0,674.0
+Vireo olivaceus_Red-eyed Vireo,0.20067488,672.0,675.0
+Vireo olivaceus_Red-eyed Vireo,0.57478327,673.0,676.0
+Vireo olivaceus_Red-eyed Vireo,0.22726615,674.0,677.0
+Vireo olivaceus_Red-eyed Vireo,0.30341154,675.0,678.0
+Vireo philadelphicus_Philadelphia Vireo,0.2066438,675.0,678.0
+Vireo altiloquus_Black-whiskered Vireo,0.1732905,676.0,679.0
+Regulus satrapa_Golden-crowned Kinglet,0.5917612,678.0,681.0
+Regulus satrapa_Golden-crowned Kinglet,0.22950375,679.0,682.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1437749,679.0,682.0
+Regulus satrapa_Golden-crowned Kinglet,0.46977532,680.0,683.0
+Regulus regulus_Goldcrest,0.20785812,680.0,683.0
+Setophaga castanea_Bay-breasted Warbler,0.10296143,680.0,683.0
+Regulus regulus_Goldcrest,0.45122916,681.0,684.0
+Regulus satrapa_Golden-crowned Kinglet,0.15724754,681.0,684.0
+Regulus satrapa_Golden-crowned Kinglet,0.8595966,682.0,685.0
+Regulus regulus_Goldcrest,0.20864569,682.0,685.0
+Regulus satrapa_Golden-crowned Kinglet,0.71957684,683.0,686.0
+Regulus regulus_Goldcrest,0.64483213,683.0,686.0
+Regulus ignicapilla_Common Firecrest,0.100313514,683.0,686.0
+Regulus satrapa_Golden-crowned Kinglet,0.8488337,684.0,687.0
+Regulus satrapa_Golden-crowned Kinglet,0.9511883,685.0,688.0
+Spizella pusilla_Field Sparrow,0.10944477,686.0,689.0
+Oporornis agilis_Connecticut Warbler,0.11284057,687.0,690.0
+Spizella pallida_Clay-colored Sparrow,0.16823584,688.0,691.0
+Regulus regulus_Goldcrest,0.100800134,693.0,696.0
+Hylocichla mustelina_Wood Thrush,0.11674424,694.0,697.0
+Pipilo erythrophthalmus_Eastern Towhee,0.34471807,695.0,698.0
+Pipilo erythrophthalmus_Eastern Towhee,0.56087,696.0,699.0
+Regulus ignicapilla_Common Firecrest,0.16782784,697.0,700.0
+Poecile atricapillus_Black-capped Chickadee,0.2472326,698.0,701.0
+Regulus satrapa_Golden-crowned Kinglet,0.10266968,698.0,701.0
+Poecile atricapillus_Black-capped Chickadee,0.44397625,699.0,702.0
+Regulus satrapa_Golden-crowned Kinglet,0.15453495,699.0,702.0
+Poecile atricapillus_Black-capped Chickadee,0.7578027,700.0,703.0
+Regulus satrapa_Golden-crowned Kinglet,0.44735044,700.0,703.0
+Pipilo erythrophthalmus_Eastern Towhee,0.13715269,701.0,704.0
+Setophaga discolor_Prairie Warbler,0.11849697,701.0,704.0
+Vermivora cyanoptera_Blue-winged Warbler,0.1107889,701.0,704.0
+Pipilo erythrophthalmus_Eastern Towhee,0.2112404,702.0,705.0
+Melospiza melodia_Song Sparrow,0.55660164,704.0,707.0
+Melospiza melodia_Song Sparrow,0.50102204,705.0,708.0
+Dolichonyx oryzivorus_Bobolink,0.10749222,713.0,716.0
+Myadestes occidentalis_Brown-backed Solitaire,0.15239806,714.0,717.0
+Gryllus rubens_Southeastern Field Cricket,0.35085756,720.0,723.0
+Gryllus rubens_Southeastern Field Cricket,0.3631705,721.0,724.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.100547485,721.0,724.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10766154,723.0,726.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.50158477,724.0,727.0
+Atlanticus testaceus_Protean Shieldback,0.30461824,724.0,727.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.13852893,724.0,727.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.3588874,725.0,728.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.42875987,726.0,729.0
+Gryllus rubens_Southeastern Field Cricket,0.2945153,726.0,729.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.1687983,726.0,729.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.103934795,726.0,729.0
+Gryllus rubens_Southeastern Field Cricket,0.3798451,727.0,730.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.19010566,727.0,730.0
+Gryllus rubens_Southeastern Field Cricket,0.29116338,728.0,731.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.21738696,728.0,731.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19359426,728.0,731.0
+Gryllus rubens_Southeastern Field Cricket,0.41337776,729.0,732.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.13954605,729.0,732.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.12774031,729.0,732.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.3120836,730.0,733.0
+Gryllus rubens_Southeastern Field Cricket,0.11379568,730.0,733.0
+Gryllus rubens_Southeastern Field Cricket,0.24055591,731.0,734.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19243616,731.0,734.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.24063016,732.0,735.0
+Gryllus fultoni_Southern Wood Cricket,0.11440527,732.0,735.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.118526824,733.0,736.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.5548951,734.0,737.0
+Gryllus rubens_Southeastern Field Cricket,0.15935057,734.0,737.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.43793783,735.0,738.0
+Gryllus rubens_Southeastern Field Cricket,0.40763387,735.0,738.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.23620361,736.0,739.0
+Gryllus rubens_Southeastern Field Cricket,0.13580403,736.0,739.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.4436786,737.0,740.0
+Gryllus rubens_Southeastern Field Cricket,0.25793007,737.0,740.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.10489225,737.0,740.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19700466,738.0,741.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.16983934,738.0,741.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.42174026,739.0,742.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.17854138,739.0,742.0
+Gryllus fultoni_Southern Wood Cricket,0.10086329,739.0,742.0
+Eunemobius confusus_Confused Ground Cricket,0.10044722,739.0,742.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.5151822,740.0,743.0
+Gryllus fultoni_Southern Wood Cricket,0.25606948,740.0,743.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.6383817,741.0,744.0
+Gryllus rubens_Southeastern Field Cricket,0.20897226,741.0,744.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.4354349,742.0,745.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.3745499,743.0,746.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.14959896,744.0,747.0
+Gryllus rubens_Southeastern Field Cricket,0.12215785,745.0,748.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10669707,745.0,748.0
+Gryllus fultoni_Southern Wood Cricket,0.27359176,751.0,754.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.10648412,751.0,754.0
+Gryllus rubens_Southeastern Field Cricket,0.43548498,752.0,755.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.25324634,752.0,755.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.21005501,752.0,755.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.5185166,753.0,756.0
+Gryllus rubens_Southeastern Field Cricket,0.33659512,753.0,756.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.24658968,753.0,756.0
+Oecanthus fultoni_Snowy Tree Cricket,0.11951816,753.0,756.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.54001355,754.0,757.0
+Gryllus rubens_Southeastern Field Cricket,0.11012671,754.0,757.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.5591777,755.0,758.0
+Gryllus rubens_Southeastern Field Cricket,0.18849345,755.0,758.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.24087045,756.0,759.0
+Lithobates palustris_Pickerel Frog,0.10267921,761.0,764.0
+Regulus satrapa_Golden-crowned Kinglet,0.23221925,765.0,768.0
+Regulus regulus_Goldcrest,0.14721017,765.0,768.0
+Regulus satrapa_Golden-crowned Kinglet,0.1941193,766.0,769.0
+Regulus satrapa_Golden-crowned Kinglet,0.545917,767.0,770.0
+Certhia americana_Brown Creeper,0.1395061,767.0,770.0
+Regulus satrapa_Golden-crowned Kinglet,0.7649256,768.0,771.0
+Regulus satrapa_Golden-crowned Kinglet,0.7648776,769.0,772.0
+Certhia americana_Brown Creeper,0.27671698,769.0,772.0
+Regulus satrapa_Golden-crowned Kinglet,0.7236399,770.0,773.0
+Certhia americana_Brown Creeper,0.71141016,770.0,773.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12921676,775.0,778.0
+Regulus satrapa_Golden-crowned Kinglet,0.1253941,775.0,778.0
+Setophaga striata_Blackpoll Warbler,0.12514749,775.0,778.0
+Certhia americana_Brown Creeper,0.39696154,776.0,779.0
+Regulus satrapa_Golden-crowned Kinglet,0.3882295,776.0,779.0
+Regulus satrapa_Golden-crowned Kinglet,0.7881594,777.0,780.0
+Regulus satrapa_Golden-crowned Kinglet,0.94743913,778.0,781.0
+Certhia americana_Brown Creeper,0.13566548,778.0,781.0
+Regulus satrapa_Golden-crowned Kinglet,0.87916636,779.0,782.0
+Certhia americana_Brown Creeper,0.412716,779.0,782.0
+Regulus satrapa_Golden-crowned Kinglet,0.123479955,783.0,786.0
+Hylocharis chrysura_Gilded Hummingbird,0.10574769,783.0,786.0
+Regulus satrapa_Golden-crowned Kinglet,0.21764381,784.0,787.0
+Regulus satrapa_Golden-crowned Kinglet,0.24236171,785.0,788.0
+Regulus satrapa_Golden-crowned Kinglet,0.31611395,787.0,790.0
+Regulus satrapa_Golden-crowned Kinglet,0.34056503,788.0,791.0
+Regulus regulus_Goldcrest,0.14842781,788.0,791.0
+Regulus satrapa_Golden-crowned Kinglet,0.5199657,789.0,792.0
+Regulus satrapa_Golden-crowned Kinglet,0.80330586,790.0,793.0
+Sicalis flaveola_Saffron Finch,0.106802896,790.0,793.0
+Regulus satrapa_Golden-crowned Kinglet,0.4928663,791.0,794.0
+Regulus satrapa_Golden-crowned Kinglet,0.5199479,792.0,795.0
+Regulus satrapa_Golden-crowned Kinglet,0.9719319,793.0,796.0
+Regulus satrapa_Golden-crowned Kinglet,0.9735648,794.0,797.0
+Certhia americana_Brown Creeper,0.1337268,794.0,797.0
+Regulus satrapa_Golden-crowned Kinglet,0.9151692,795.0,798.0
+Certhia americana_Brown Creeper,0.5443167,795.0,798.0
+Regulus satrapa_Golden-crowned Kinglet,0.66990286,796.0,799.0
+Regulus regulus_Goldcrest,0.17245476,796.0,799.0
+Sicalis flaveola_Saffron Finch,0.37372157,797.0,800.0
+Regulus satrapa_Golden-crowned Kinglet,0.36547333,798.0,801.0
+Regulus regulus_Goldcrest,0.16891891,798.0,801.0
+Setophaga striata_Blackpoll Warbler,0.16684641,800.0,803.0
+Regulus satrapa_Golden-crowned Kinglet,0.32797983,802.0,805.0
+Regulus regulus_Goldcrest,0.18617669,802.0,805.0
+Regulus satrapa_Golden-crowned Kinglet,0.118578054,803.0,806.0
+Regulus satrapa_Golden-crowned Kinglet,0.12893581,804.0,807.0
+Setophaga tigrina_Cape May Warbler,0.14399329,809.0,812.0
+Sicalis flaveola_Saffron Finch,0.12107594,809.0,812.0
+Ammodramus savannarum_Grasshopper Sparrow,0.16222702,810.0,813.0
+Setophaga tigrina_Cape May Warbler,0.10157653,810.0,813.0
+Ammodramus savannarum_Grasshopper Sparrow,0.25244576,811.0,814.0
+Sicalis flaveola_Saffron Finch,0.18290769,811.0,814.0
+Myiothlypis leucophrys_White-striped Warbler,0.15151918,811.0,814.0
+Sicalis flaveola_Saffron Finch,0.6736865,812.0,815.0
+Regulus satrapa_Golden-crowned Kinglet,0.20004971,812.0,815.0
+Regulus satrapa_Golden-crowned Kinglet,0.96723294,813.0,816.0
+Certhia americana_Brown Creeper,0.115569375,813.0,816.0
+Regulus satrapa_Golden-crowned Kinglet,0.9500659,814.0,817.0
+Regulus satrapa_Golden-crowned Kinglet,0.841052,815.0,818.0
+Regulus satrapa_Golden-crowned Kinglet,0.92407125,816.0,819.0
+Regulus satrapa_Golden-crowned Kinglet,0.44030482,817.0,820.0
+Regulus satrapa_Golden-crowned Kinglet,0.26302844,818.0,821.0
+Regulus satrapa_Golden-crowned Kinglet,0.45438161,819.0,822.0
+Arremon costaricensis_Costa Rican Brushfinch,0.19898733,822.0,825.0
+Setophaga striata_Blackpoll Warbler,0.14718655,824.0,827.0
+Setophaga striata_Blackpoll Warbler,0.3235788,826.0,829.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10554494,834.0,837.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10136864,836.0,839.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.28440875,843.0,846.0
+Gryllus rubens_Southeastern Field Cricket,0.17083575,843.0,846.0
+Gryllus fultoni_Southern Wood Cricket,0.115710184,843.0,846.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.452587,844.0,847.0
+Gryllus fultoni_Southern Wood Cricket,0.24761459,844.0,847.0
+Atlanticus testaceus_Protean Shieldback,0.12316803,844.0,847.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.46045712,845.0,848.0
+Gryllus fultoni_Southern Wood Cricket,0.2798592,845.0,848.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.18694901,845.0,848.0
+Gryllus rubens_Southeastern Field Cricket,0.111656554,845.0,848.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.19247271,846.0,849.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.6976043,847.0,850.0
+Gryllus rubens_Southeastern Field Cricket,0.21165706,847.0,850.0
+Oecanthus nigricornis_Blackhorned Tree Cricket,0.14960065,847.0,850.0
+Gryllus fultoni_Southern Wood Cricket,0.14019313,847.0,850.0
+Atlanticus testaceus_Protean Shieldback,0.11280998,847.0,850.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.38618162,848.0,851.0
+Gryllus rubens_Southeastern Field Cricket,0.24018726,848.0,851.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.37569624,849.0,852.0
+Gryllus rubens_Southeastern Field Cricket,0.15517797,849.0,852.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.29716426,850.0,853.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.4652406,851.0,854.0
+Amblycorypha rotundifolia_Rattler Round-winged Katydid,0.29845864,852.0,855.0
+Gryllus fultoni_Southern Wood Cricket,0.15417121,852.0,855.0
+Atlanticus testaceus_Protean Shieldback,0.11270379,852.0,855.0
+Oecanthus celerinictus_Fast-calling Tree Cricket,0.11032364,852.0,855.0

@@ -1,0 +1,113 @@
+species,score,start_time,end_time
+Spiza americana_Dickcissel,0.6075404,0.0,3.0
+Emberiza calandra_Corn Bunting,0.103118494,0.0,3.0
+Spiza americana_Dickcissel,0.1607142,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.14048614,1.0,4.0
+Spizella pallida_Clay-colored Sparrow,0.1546746,2.0,5.0
+Spizella pallida_Clay-colored Sparrow,0.11205934,3.0,6.0
+Lullula arborea_Wood Lark,0.10016067,4.0,7.0
+Spiza americana_Dickcissel,0.5493093,5.0,8.0
+Zenaida macroura_Mourning Dove,0.31626946,5.0,8.0
+Spiza americana_Dickcissel,0.5142282,6.0,9.0
+Zenaida macroura_Mourning Dove,0.27461436,6.0,9.0
+Spiza americana_Dickcissel,0.31634116,7.0,10.0
+Emberiza calandra_Corn Bunting,0.25058088,7.0,10.0
+Zenaida macroura_Mourning Dove,0.20472267,7.0,10.0
+Spiza americana_Dickcissel,0.609519,9.0,12.0
+Zenaida macroura_Mourning Dove,0.19567941,9.0,12.0
+Spiza americana_Dickcissel,0.9155018,10.0,13.0
+Zenaida macroura_Mourning Dove,0.18728128,10.0,13.0
+Spizella pallida_Clay-colored Sparrow,0.2403348,11.0,14.0
+Spiza americana_Dickcissel,0.23848747,11.0,14.0
+Spizella pallida_Clay-colored Sparrow,0.384819,12.0,15.0
+Spiza americana_Dickcissel,0.34786117,12.0,15.0
+Spiza americana_Dickcissel,0.80657977,13.0,16.0
+Spizella pallida_Clay-colored Sparrow,0.2523903,13.0,16.0
+Spiza americana_Dickcissel,0.90865296,14.0,17.0
+Spiza americana_Dickcissel,0.86319387,15.0,18.0
+Sturnella magna_Eastern Meadowlark,0.115568995,15.0,18.0
+Spiza americana_Dickcissel,0.6686779,19.0,22.0
+Spiza americana_Dickcissel,0.634599,20.0,23.0
+Spizella pallida_Clay-colored Sparrow,0.16070993,20.0,23.0
+Spiza americana_Dickcissel,0.38757202,21.0,24.0
+Melospiza melodia_Song Sparrow,0.42655325,23.0,26.0
+Ammodramus savannarum_Grasshopper Sparrow,0.10803582,24.0,27.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11390431,25.0,28.0
+Spiza americana_Dickcissel,0.17617078,26.0,29.0
+Tachycineta bicolor_Tree Swallow,0.11176471,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.3459741,27.0,30.0
+Spiza americana_Dickcissel,0.11888363,27.0,30.0
+Spizella pallida_Clay-colored Sparrow,0.10023934,28.0,31.0
+Spiza americana_Dickcissel,0.22190122,29.0,32.0
+Spiza americana_Dickcissel,0.13691846,31.0,34.0
+Spiza americana_Dickcissel,0.7168675,32.0,35.0
+Spiza americana_Dickcissel,0.7998778,33.0,36.0
+Spiza americana_Dickcissel,0.65156937,34.0,37.0
+Melospiza melodia_Song Sparrow,0.21395825,35.0,38.0
+Melospiza melodia_Song Sparrow,0.22631817,36.0,39.0
+Spiza americana_Dickcissel,0.8602254,37.0,40.0
+Ammodramus savannarum_Grasshopper Sparrow,0.113265455,37.0,40.0
+Spiza americana_Dickcissel,0.9643515,38.0,41.0
+Spiza americana_Dickcissel,0.9411391,39.0,42.0
+Zenaida macroura_Mourning Dove,0.13808349,41.0,44.0
+Spiza americana_Dickcissel,0.11002402,41.0,44.0
+Spiza americana_Dickcissel,0.7851961,42.0,45.0
+Zenaida macroura_Mourning Dove,0.12576596,42.0,45.0
+Spiza americana_Dickcissel,0.8412486,43.0,46.0
+Spizella pallida_Clay-colored Sparrow,0.11914163,43.0,46.0
+Spiza americana_Dickcissel,0.77889705,44.0,47.0
+Spizella pallida_Clay-colored Sparrow,0.108913735,44.0,47.0
+Melospiza georgiana_Swamp Sparrow,0.22029051,46.0,49.0
+Melospiza melodia_Song Sparrow,0.13625726,48.0,51.0
+Spizella pallida_Clay-colored Sparrow,0.12403724,48.0,51.0
+Spiza americana_Dickcissel,0.1061832,48.0,51.0
+Spiza americana_Dickcissel,0.5700199,49.0,52.0
+Spizella pallida_Clay-colored Sparrow,0.22539479,49.0,52.0
+Spiza americana_Dickcissel,0.82342756,50.0,53.0
+Spizella pallida_Clay-colored Sparrow,0.41886032,50.0,53.0
+Spiza americana_Dickcissel,0.8795779,51.0,54.0
+Centronyx henslowii_Henslow's Sparrow,0.3473526,51.0,54.0
+Spizella pallida_Clay-colored Sparrow,0.29177406,51.0,54.0
+Ammodramus savannarum_Grasshopper Sparrow,0.12164432,51.0,54.0
+Spiza americana_Dickcissel,0.8159169,52.0,55.0
+Centronyx henslowii_Henslow's Sparrow,0.33746263,52.0,55.0
+Spizella pallida_Clay-colored Sparrow,0.20395966,52.0,55.0
+Ammodramus savannarum_Grasshopper Sparrow,0.1882101,52.0,55.0
+Spiza americana_Dickcissel,0.89803255,53.0,56.0
+Ammodramus savannarum_Grasshopper Sparrow,0.19912061,53.0,56.0
+Centronyx henslowii_Henslow's Sparrow,0.14368176,53.0,56.0
+Spiza americana_Dickcissel,0.22102757,54.0,57.0
+Spiza americana_Dickcissel,0.10565745,57.0,60.0
+Melospiza melodia_Song Sparrow,0.27239308,60.0,63.0
+Spizella pallida_Clay-colored Sparrow,0.11471291,61.0,64.0
+Melospiza melodia_Song Sparrow,0.13000534,63.0,66.0
+Melospiza melodia_Song Sparrow,0.14920017,64.0,67.0
+Spiza americana_Dickcissel,0.71256316,65.0,68.0
+Spiza americana_Dickcissel,0.73137635,66.0,69.0
+Emberiza schoeniclus_Reed Bunting,0.13816185,66.0,69.0
+Spiza americana_Dickcissel,0.30348742,67.0,70.0
+Spiza americana_Dickcissel,0.11839027,71.0,74.0
+Spiza americana_Dickcissel,0.8144745,72.0,75.0
+Spiza americana_Dickcissel,0.9231352,73.0,76.0
+Acanthis cabaret_Lesser Redpoll,0.71540326,74.0,77.0
+Spiza americana_Dickcissel,0.10272812,74.0,77.0
+Spiza americana_Dickcissel,0.6237607,76.0,79.0
+Spiza americana_Dickcissel,0.74667776,77.0,80.0
+Spiza americana_Dickcissel,0.9585478,78.0,81.0
+Spiza americana_Dickcissel,0.19667614,79.0,82.0
+Spiza americana_Dickcissel,0.22825623,86.0,89.0
+Spiza americana_Dickcissel,0.61597085,87.0,90.0
+Ammodramus savannarum_Grasshopper Sparrow,0.11375169,87.0,90.0
+Cistothorus stellaris_Sedge Wren,0.1458674,88.0,91.0
+Centronyx henslowii_Henslow's Sparrow,0.116877854,88.0,91.0
+Spiza americana_Dickcissel,0.3759223,89.0,92.0
+Tyrannus tyrannus_Eastern Kingbird,0.12564754,89.0,92.0
+Spiza americana_Dickcissel,0.72969216,90.0,93.0
+Melospiza melodia_Song Sparrow,0.32080725,90.0,93.0
+Melospiza melodia_Song Sparrow,0.37058872,91.0,94.0
+Spiza americana_Dickcissel,0.147267,91.0,94.0
+Melospiza melodia_Song Sparrow,0.22610404,92.0,95.0
+Melospiza melodia_Song Sparrow,0.122259445,93.0,96.0
+Melospiza georgiana_Swamp Sparrow,0.20765431,94.0,97.0
+Spizella pallida_Clay-colored Sparrow,0.16766804,99.0,102.0
+Melospiza melodia_Song Sparrow,0.13265197,100.0,102.96

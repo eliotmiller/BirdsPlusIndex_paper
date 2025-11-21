@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Setophaga caerulescens_Black-throated Blue Warbler,0.20092386,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.11782482,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16130894,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.1228202,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10223453,4.0,7.0
+Vermivora cyanoptera_Blue-winged Warbler,0.13664365,5.0,8.0
+Molothrus ater_Brown-headed Cowbird,0.17419703,6.0,9.0
+Molothrus ater_Brown-headed Cowbird,0.4478917,7.0,10.0
+Molothrus ater_Brown-headed Cowbird,0.20618205,8.0,11.0
+Molothrus ater_Brown-headed Cowbird,0.33147797,9.0,12.0
+Molothrus ater_Brown-headed Cowbird,0.12370975,10.0,13.0
+Molothrus ater_Brown-headed Cowbird,0.2617176,11.0,14.0
+Molothrus ater_Brown-headed Cowbird,0.1225258,12.0,15.0
+Sayornis phoebe_Eastern Phoebe,0.81630623,15.0,18.0
+Sayornis phoebe_Eastern Phoebe,0.6593031,16.0,19.0
+Molothrus ater_Brown-headed Cowbird,0.25656503,18.0,21.0
+Molothrus ater_Brown-headed Cowbird,0.4185872,20.0,23.0
+Sayornis phoebe_Eastern Phoebe,0.11175353,22.0,25.0
+Sayornis phoebe_Eastern Phoebe,0.5545595,23.0,26.0
+Baeolophus bicolor_Tufted Titmouse,0.12258918,25.0,28.0
+Sayornis phoebe_Eastern Phoebe,0.13323116,30.0,33.0
+Setophaga magnolia_Magnolia Warbler,0.19856411,31.0,34.0
+Tamias striatus_Eastern Chipmunk,0.15307964,31.0,34.0
+Tamias striatus_Eastern Chipmunk,0.3602118,32.0,35.0
+Sayornis phoebe_Eastern Phoebe,0.11346658,33.0,36.0
+Tamias striatus_Eastern Chipmunk,0.2335937,35.0,38.0
+Tamias striatus_Eastern Chipmunk,0.37264907,36.0,39.0
+Tamias striatus_Eastern Chipmunk,0.28713116,37.0,40.0
+Tamias striatus_Eastern Chipmunk,0.15225887,38.0,41.0
+Tamias striatus_Eastern Chipmunk,0.14324464,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.12988576,39.0,42.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10612295,39.0,42.0
+Tamias striatus_Eastern Chipmunk,0.2447829,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.16975364,40.0,43.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10797032,40.0,43.0
+Tamias striatus_Eastern Chipmunk,0.19313431,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.15368803,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12574865,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14345002,42.0,45.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.1300156,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.1113792,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.11335912,43.0,46.0
+Molothrus ater_Brown-headed Cowbird,0.11042459,44.0,47.0
+Molothrus ater_Brown-headed Cowbird,0.20945075,45.0,48.0
+Molothrus ater_Brown-headed Cowbird,0.1899248,46.0,49.0
+Molothrus ater_Brown-headed Cowbird,0.22063662,47.0,50.0
+Molothrus ater_Brown-headed Cowbird,0.6181421,48.0,51.0
+Molothrus ater_Brown-headed Cowbird,0.71810097,49.0,52.0
+Molothrus ater_Brown-headed Cowbird,0.9038544,50.0,53.0
+Molothrus ater_Brown-headed Cowbird,0.9147132,51.0,54.0
+Molothrus ater_Brown-headed Cowbird,0.88468033,52.0,55.0
+Molothrus ater_Brown-headed Cowbird,0.4429383,53.0,56.0
+Molothrus ater_Brown-headed Cowbird,0.23041666,54.0,57.0
+Molothrus ater_Brown-headed Cowbird,0.10521965,55.0,58.0
+Molothrus ater_Brown-headed Cowbird,0.5680631,57.0,60.0
+Molothrus ater_Brown-headed Cowbird,0.49275187,58.0,61.0
+Molothrus ater_Brown-headed Cowbird,0.42280293,59.0,62.0
+Molothrus ater_Brown-headed Cowbird,0.5232306,60.0,63.0
+Molothrus ater_Brown-headed Cowbird,0.6199148,61.0,64.0
+Molothrus ater_Brown-headed Cowbird,0.66532546,62.0,65.0
+Molothrus ater_Brown-headed Cowbird,0.37347198,63.0,66.0
+Molothrus ater_Brown-headed Cowbird,0.15446886,64.0,67.0
+Molothrus ater_Brown-headed Cowbird,0.22235313,68.0,71.0
+Molothrus ater_Brown-headed Cowbird,0.123921834,69.0,72.0
+Molothrus ater_Brown-headed Cowbird,0.22254845,70.0,73.0
+Poecile rufescens_Chestnut-backed Chickadee,0.12072969,70.0,73.0
+Molothrus ater_Brown-headed Cowbird,0.665217,71.0,74.0
+Poecile rufescens_Chestnut-backed Chickadee,0.11047242,71.0,74.0
+Molothrus ater_Brown-headed Cowbird,0.2904053,72.0,75.0
+Poecile rufescens_Chestnut-backed Chickadee,0.117012486,72.0,75.0
+Molothrus ater_Brown-headed Cowbird,0.79394263,73.0,76.0
+Molothrus ater_Brown-headed Cowbird,0.47144344,74.0,77.0
+Molothrus ater_Brown-headed Cowbird,0.677571,75.0,78.0
+Molothrus ater_Brown-headed Cowbird,0.59053314,76.0,79.0
+Molothrus ater_Brown-headed Cowbird,0.7492634,77.0,80.0
+Molothrus ater_Brown-headed Cowbird,0.70105004,78.0,81.0
+Molothrus ater_Brown-headed Cowbird,0.81679636,79.0,82.0
+Molothrus ater_Brown-headed Cowbird,0.79657406,80.0,83.0
+Molothrus ater_Brown-headed Cowbird,0.67386204,81.0,84.0
+Molothrus ater_Brown-headed Cowbird,0.44776085,82.0,85.0
+Molothrus ater_Brown-headed Cowbird,0.45052317,83.0,86.0
+Molothrus ater_Brown-headed Cowbird,0.72850424,84.0,87.0
+Molothrus ater_Brown-headed Cowbird,0.7550556,85.0,88.0
+Molothrus ater_Brown-headed Cowbird,0.6159255,86.0,89.0
+Molothrus ater_Brown-headed Cowbird,0.759825,87.0,90.0
+Setophaga magnolia_Magnolia Warbler,0.2522337,88.0,91.0
+Sericornis frontalis_White-browed Scrubwren,0.1028346,88.0,91.0
+Setophaga magnolia_Magnolia Warbler,0.3707638,89.0,92.0
+Setophaga magnolia_Magnolia Warbler,0.45167527,90.0,93.0
+Setophaga magnolia_Magnolia Warbler,0.25382462,91.0,94.0
+Colibri thalassinus_Mexican Violetear,0.43565327,92.0,95.0
+Lampornis sybillae_Green-breasted Mountain-gem,0.2552633,92.0,95.0
+Lampornis sybillae_Green-breasted Mountain-gem,0.23051503,93.0,96.0

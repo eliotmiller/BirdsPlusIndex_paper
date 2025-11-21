@@ -1,0 +1,759 @@
+species,score,start_time,end_time
+Junco hyemalis_Dark-eyed Junco,0.37162316,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.113659605,0.0,3.0
+Selasphorus rufus_Rufous Hummingbird,0.1053518,0.0,3.0
+Calypte anna_Anna's Hummingbird,0.20230676,1.0,4.0
+Thalurania glaucopis_Violet-capped Woodnymph,0.1272023,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.110181,7.0,10.0
+Basilinna leucotis_White-eared Hummingbird,0.10777226,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.10829288,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.3018536,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.47091994,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.35610205,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.11667437,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.17583047,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.14045614,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.13642246,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.23831013,20.0,23.0
+Basilinna leucotis_White-eared Hummingbird,0.10803387,20.0,23.0
+Basilinna leucotis_White-eared Hummingbird,0.17740077,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.18559279,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.18029621,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.22638379,25.0,28.0
+Basilinna leucotis_White-eared Hummingbird,0.19890518,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.11652552,27.0,30.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.10093824,28.0,31.0
+Basilinna leucotis_White-eared Hummingbird,0.1746358,30.0,33.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.16597354,30.0,33.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.11949297,31.0,34.0
+Basilinna leucotis_White-eared Hummingbird,0.107549556,31.0,34.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.39966452,32.0,35.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.45846513,33.0,36.0
+Basilinna leucotis_White-eared Hummingbird,0.14256261,33.0,36.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.12247765,33.0,36.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.2836298,34.0,37.0
+Basilinna leucotis_White-eared Hummingbird,0.22620398,34.0,37.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.19871612,34.0,37.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.31218356,35.0,38.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.25933993,35.0,38.0
+Basilinna leucotis_White-eared Hummingbird,0.1722571,35.0,38.0
+Basilinna leucotis_White-eared Hummingbird,0.22165744,36.0,39.0
+Basilinna leucotis_White-eared Hummingbird,0.34409776,37.0,40.0
+Calypte anna_Anna's Hummingbird,0.10897259,37.0,40.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.703204,39.0,42.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.49520242,39.0,42.0
+Basilinna leucotis_White-eared Hummingbird,0.22380266,39.0,42.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.118169755,40.0,43.0
+Basilinna leucotis_White-eared Hummingbird,0.11472312,40.0,43.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.21994635,41.0,44.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.1507686,41.0,44.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.17963877,42.0,45.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.17185888,43.0,46.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.36054993,44.0,47.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.34010816,44.0,47.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.25141236,45.0,48.0
+Basilinna leucotis_White-eared Hummingbird,0.20561701,45.0,48.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.13553427,45.0,48.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.17785749,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.30086967,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.29902908,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.25520822,49.0,52.0
+Basilinna leucotis_White-eared Hummingbird,0.2125532,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.16581322,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.2527425,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.5944179,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.41261214,53.0,56.0
+Basilinna leucotis_White-eared Hummingbird,0.16460606,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1366312,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.35937175,54.0,57.0
+Basilinna leucotis_White-eared Hummingbird,0.26848426,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22678044,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.32407796,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23176843,55.0,58.0
+Basilinna leucotis_White-eared Hummingbird,0.19484814,55.0,58.0
+Basilinna leucotis_White-eared Hummingbird,0.42377675,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.23530006,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.21153376,57.0,60.0
+Basilinna leucotis_White-eared Hummingbird,0.21112064,57.0,60.0
+Seiurus aurocapilla_Ovenbird,0.32831147,58.0,61.0
+Basilinna leucotis_White-eared Hummingbird,0.1829595,58.0,61.0
+Seiurus aurocapilla_Ovenbird,0.82818776,59.0,62.0
+Seiurus aurocapilla_Ovenbird,0.46773028,60.0,63.0
+Stilpnia larvata_Golden-hooded Tanager,0.21640475,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.46892622,61.0,64.0
+Stilpnia larvata_Golden-hooded Tanager,0.14486478,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.59825015,62.0,65.0
+Stilpnia larvata_Golden-hooded Tanager,0.18490249,62.0,65.0
+Seiurus aurocapilla_Ovenbird,0.4462305,63.0,66.0
+Saucerottia cyanocephala_Azure-crowned Hummingbird,0.13440211,63.0,66.0
+Basilinna leucotis_White-eared Hummingbird,0.10776717,63.0,66.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.104878366,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.47634938,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.45422077,65.0,68.0
+Stilpnia larvata_Golden-hooded Tanager,0.19221185,65.0,68.0
+Seiurus aurocapilla_Ovenbird,0.38800108,66.0,69.0
+Stilpnia larvata_Golden-hooded Tanager,0.13501963,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.40124854,67.0,70.0
+Stilpnia larvata_Golden-hooded Tanager,0.2554381,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.46508336,68.0,71.0
+Stilpnia larvata_Golden-hooded Tanager,0.12421655,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.43387666,69.0,72.0
+Stilpnia larvata_Golden-hooded Tanager,0.23624729,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.6576728,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.6906995,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.658212,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.46194175,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.81740886,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.7860266,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.8725349,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.86490375,77.0,80.0
+Seiurus aurocapilla_Ovenbird,0.93932676,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.8664892,79.0,82.0
+Seiurus aurocapilla_Ovenbird,0.71146685,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.79176235,81.0,84.0
+Seiurus aurocapilla_Ovenbird,0.86773294,82.0,85.0
+Stilpnia larvata_Golden-hooded Tanager,0.10011209,82.0,85.0
+Seiurus aurocapilla_Ovenbird,0.6937139,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.8199523,84.0,87.0
+Seiurus aurocapilla_Ovenbird,0.6847045,85.0,88.0
+Seiurus aurocapilla_Ovenbird,0.53789574,86.0,89.0
+Stilpnia larvata_Golden-hooded Tanager,0.1274028,86.0,89.0
+Seiurus aurocapilla_Ovenbird,0.6593619,87.0,90.0
+Stilpnia larvata_Golden-hooded Tanager,0.23163265,87.0,90.0
+Troglodytes pacificus_Pacific Wren,0.1103775,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.85012937,88.0,91.0
+Stilpnia larvata_Golden-hooded Tanager,0.34276578,88.0,91.0
+Troglodytes pacificus_Pacific Wren,0.110395685,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.76202214,89.0,92.0
+Stilpnia larvata_Golden-hooded Tanager,0.5261951,89.0,92.0
+Stagonopleura bella_Beautiful Firetail,0.1137241,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.76741207,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.76279145,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.8836861,92.0,95.0
+Troglodytes pacificus_Pacific Wren,0.17123151,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.783443,93.0,96.0
+Troglodytes pacificus_Pacific Wren,0.38079363,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.95725626,94.0,97.0
+Seiurus aurocapilla_Ovenbird,0.9630957,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.85267484,96.0,99.0
+Stilpnia larvata_Golden-hooded Tanager,0.18924728,96.0,99.0
+Seiurus aurocapilla_Ovenbird,0.9155516,97.0,100.0
+Stilpnia larvata_Golden-hooded Tanager,0.1471028,97.0,100.0
+Seiurus aurocapilla_Ovenbird,0.59440863,98.0,101.0
+Stilpnia larvata_Golden-hooded Tanager,0.56569105,98.0,101.0
+Stagonopleura bella_Beautiful Firetail,0.1524514,98.0,101.0
+Seiurus aurocapilla_Ovenbird,0.94315696,99.0,102.0
+Stilpnia larvata_Golden-hooded Tanager,0.15243709,99.0,102.0
+Seiurus aurocapilla_Ovenbird,0.87135375,100.0,103.0
+Stilpnia larvata_Golden-hooded Tanager,0.6228015,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.93588454,101.0,104.0
+Stilpnia larvata_Golden-hooded Tanager,0.20849994,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.91980714,102.0,105.0
+Stilpnia larvata_Golden-hooded Tanager,0.214714,102.0,105.0
+Seiurus aurocapilla_Ovenbird,0.91114277,103.0,106.0
+Stilpnia larvata_Golden-hooded Tanager,0.18384326,103.0,106.0
+Seiurus aurocapilla_Ovenbird,0.56123173,104.0,107.0
+Seiurus aurocapilla_Ovenbird,0.36729115,105.0,108.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12631127,105.0,108.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.118770175,105.0,108.0
+Stilpnia larvata_Golden-hooded Tanager,0.12812887,106.0,109.0
+Tamias striatus_Eastern Chipmunk,0.12875615,107.0,110.0
+Tamias striatus_Eastern Chipmunk,0.38226956,108.0,111.0
+Todus subulatus_Broad-billed Tody,0.15850715,108.0,111.0
+Tamias striatus_Eastern Chipmunk,0.13871448,109.0,112.0
+Tamias striatus_Eastern Chipmunk,0.4126248,110.0,113.0
+Tamias striatus_Eastern Chipmunk,0.11862399,111.0,114.0
+Tamias striatus_Eastern Chipmunk,0.30913252,112.0,115.0
+Tamias striatus_Eastern Chipmunk,0.12205182,113.0,116.0
+Tamias striatus_Eastern Chipmunk,0.11495232,115.0,118.0
+Tamias striatus_Eastern Chipmunk,0.22480473,116.0,119.0
+Todus subulatus_Broad-billed Tody,0.18207124,116.0,119.0
+Todus subulatus_Broad-billed Tody,0.22725578,117.0,120.0
+Todus subulatus_Broad-billed Tody,0.10952369,118.0,121.0
+Tamias striatus_Eastern Chipmunk,0.3666142,119.0,122.0
+Seiurus aurocapilla_Ovenbird,0.1922411,119.0,122.0
+Tamias striatus_Eastern Chipmunk,0.3769238,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.34171438,120.0,123.0
+Seiurus aurocapilla_Ovenbird,0.25096023,121.0,124.0
+Tamias striatus_Eastern Chipmunk,0.2327793,121.0,124.0
+Tamias striatus_Eastern Chipmunk,0.42181152,122.0,125.0
+Seiurus aurocapilla_Ovenbird,0.22323118,122.0,125.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1199116,122.0,125.0
+Tamias striatus_Eastern Chipmunk,0.37925783,123.0,126.0
+Seiurus aurocapilla_Ovenbird,0.13073917,123.0,126.0
+Tamias striatus_Eastern Chipmunk,0.8880244,124.0,127.0
+Tamias striatus_Eastern Chipmunk,0.16297951,125.0,128.0
+Tamias striatus_Eastern Chipmunk,0.34769633,126.0,129.0
+Tamias striatus_Eastern Chipmunk,0.49641034,127.0,130.0
+Tamias striatus_Eastern Chipmunk,0.9304434,128.0,131.0
+Tamias striatus_Eastern Chipmunk,0.12608626,129.0,132.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.39577705,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.16061698,132.0,135.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123212665,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.72252524,133.0,136.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.30385113,133.0,136.0
+Seiurus aurocapilla_Ovenbird,0.5416692,134.0,137.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.11456965,134.0,137.0
+Seiurus aurocapilla_Ovenbird,0.6311987,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.8975824,136.0,139.0
+Seiurus aurocapilla_Ovenbird,0.8841756,137.0,140.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2788339,137.0,140.0
+Seiurus aurocapilla_Ovenbird,0.8833582,138.0,141.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15413564,138.0,141.0
+Seiurus aurocapilla_Ovenbird,0.8383866,139.0,142.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26180467,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.8446731,140.0,143.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19796355,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.6203526,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.27074447,142.0,145.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10148448,143.0,146.0
+Stilpnia larvata_Golden-hooded Tanager,0.23923515,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.1501609,144.0,147.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12226783,144.0,147.0
+Seiurus aurocapilla_Ovenbird,0.17027539,145.0,148.0
+Troglodytes pacificus_Pacific Wren,0.11368842,145.0,148.0
+Seiurus aurocapilla_Ovenbird,0.11713423,146.0,149.0
+Seiurus aurocapilla_Ovenbird,0.21346927,149.0,152.0
+Seiurus aurocapilla_Ovenbird,0.37028885,150.0,153.0
+Geothlypis formosa_Kentucky Warbler,0.2308012,150.0,153.0
+Seiurus aurocapilla_Ovenbird,0.3051777,151.0,154.0
+Seiurus aurocapilla_Ovenbird,0.30504888,152.0,155.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20990126,153.0,156.0
+Seiurus aurocapilla_Ovenbird,0.20224348,153.0,156.0
+Junco hyemalis_Dark-eyed Junco,0.18064427,153.0,156.0
+Basilinna leucotis_White-eared Hummingbird,0.106331624,153.0,156.0
+Basilinna leucotis_White-eared Hummingbird,0.10180277,154.0,157.0
+Seiurus aurocapilla_Ovenbird,0.528215,155.0,158.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2586595,155.0,158.0
+Seiurus aurocapilla_Ovenbird,0.7333704,156.0,159.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5265553,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.7817564,157.0,160.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3065335,157.0,160.0
+Seiurus aurocapilla_Ovenbird,0.7418066,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.46383202,158.0,161.0
+Seiurus aurocapilla_Ovenbird,0.85532963,159.0,162.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.39211673,159.0,162.0
+Seiurus aurocapilla_Ovenbird,0.9646297,160.0,163.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28191477,160.0,163.0
+Seiurus aurocapilla_Ovenbird,0.88501626,161.0,164.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22802626,161.0,164.0
+Seiurus aurocapilla_Ovenbird,0.91144866,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11023338,162.0,165.0
+Seiurus aurocapilla_Ovenbird,0.7838671,163.0,166.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.33496967,163.0,166.0
+Seiurus aurocapilla_Ovenbird,0.95909494,164.0,167.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15913573,164.0,167.0
+Seiurus aurocapilla_Ovenbird,0.92846584,165.0,168.0
+Seiurus aurocapilla_Ovenbird,0.9739406,166.0,169.0
+Seiurus aurocapilla_Ovenbird,0.94701415,167.0,170.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.16202997,167.0,170.0
+Seiurus aurocapilla_Ovenbird,0.94022137,168.0,171.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29806128,168.0,171.0
+Seiurus aurocapilla_Ovenbird,0.58569765,169.0,172.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.40927705,169.0,172.0
+Seiurus aurocapilla_Ovenbird,0.708175,170.0,173.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2639263,170.0,173.0
+Cardellina canadensis_Canada Warbler,0.20068598,170.0,173.0
+Tamias striatus_Eastern Chipmunk,0.27081794,171.0,174.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19585297,171.0,174.0
+Basilinna leucotis_White-eared Hummingbird,0.17712297,171.0,174.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22482497,172.0,175.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2947821,173.0,176.0
+Seiurus aurocapilla_Ovenbird,0.11442415,173.0,176.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115575165,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.11400072,174.0,177.0
+Myioborus brunniceps_Brown-capped Redstart,0.28147626,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21623352,175.0,178.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24340537,176.0,179.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3567536,177.0,180.0
+Seiurus aurocapilla_Ovenbird,0.32305336,177.0,180.0
+Myioborus brunniceps_Brown-capped Redstart,0.1857394,177.0,180.0
+Basilinna leucotis_White-eared Hummingbird,0.12445093,178.0,181.0
+Seiurus aurocapilla_Ovenbird,0.99713045,179.0,182.0
+Seiurus aurocapilla_Ovenbird,0.97339636,180.0,183.0
+Seiurus aurocapilla_Ovenbird,0.9790303,181.0,184.0
+Seiurus aurocapilla_Ovenbird,0.99173236,182.0,185.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2750033,183.0,186.0
+Seiurus aurocapilla_Ovenbird,0.24285553,183.0,186.0
+Cardellina canadensis_Canada Warbler,0.23199785,183.0,186.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32253924,184.0,187.0
+Seiurus aurocapilla_Ovenbird,0.109322,184.0,187.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41305295,185.0,188.0
+Seiurus aurocapilla_Ovenbird,0.2823794,185.0,188.0
+Seiurus aurocapilla_Ovenbird,0.2747588,186.0,189.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15320732,186.0,189.0
+Seiurus aurocapilla_Ovenbird,0.4145562,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20478857,187.0,190.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.36642465,188.0,191.0
+Seiurus aurocapilla_Ovenbird,0.26987663,188.0,191.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22617121,189.0,192.0
+Seiurus aurocapilla_Ovenbird,0.1062065,189.0,192.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35178,190.0,193.0
+Seiurus aurocapilla_Ovenbird,0.1625943,190.0,193.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4152459,191.0,194.0
+Seiurus aurocapilla_Ovenbird,0.28608108,191.0,194.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41581282,192.0,195.0
+Seiurus aurocapilla_Ovenbird,0.34584045,192.0,195.0
+Seiurus aurocapilla_Ovenbird,0.3941001,193.0,196.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23646097,193.0,196.0
+Seiurus aurocapilla_Ovenbird,0.68920267,194.0,197.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.29053727,194.0,197.0
+Seiurus aurocapilla_Ovenbird,0.76982486,195.0,198.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24316718,195.0,198.0
+Seiurus aurocapilla_Ovenbird,0.7385339,196.0,199.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16731939,196.0,199.0
+Seiurus aurocapilla_Ovenbird,0.6732253,197.0,200.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.3112259,197.0,200.0
+Seiurus aurocapilla_Ovenbird,0.61492515,198.0,201.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23699623,198.0,201.0
+Seiurus aurocapilla_Ovenbird,0.44325548,199.0,202.0
+Seiurus aurocapilla_Ovenbird,0.34090313,200.0,203.0
+Seiurus aurocapilla_Ovenbird,0.19912133,201.0,204.0
+Seiurus aurocapilla_Ovenbird,0.10125344,202.0,205.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.14955822,203.0,206.0
+Seiurus aurocapilla_Ovenbird,0.115609035,203.0,206.0
+Seiurus aurocapilla_Ovenbird,0.1918061,204.0,207.0
+Seiurus aurocapilla_Ovenbird,0.7914881,205.0,208.0
+Tamias striatus_Eastern Chipmunk,0.11932,205.0,208.0
+Seiurus aurocapilla_Ovenbird,0.55293226,206.0,209.0
+Tamias striatus_Eastern Chipmunk,0.53431225,206.0,209.0
+Tamias striatus_Eastern Chipmunk,0.69011587,207.0,210.0
+Seiurus aurocapilla_Ovenbird,0.32011762,207.0,210.0
+Tamias striatus_Eastern Chipmunk,0.45826066,208.0,211.0
+Seiurus aurocapilla_Ovenbird,0.45163554,208.0,211.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11604054,208.0,211.0
+Seiurus aurocapilla_Ovenbird,0.6605495,209.0,212.0
+Tamias striatus_Eastern Chipmunk,0.37419543,209.0,212.0
+Chlorestes candida_White-bellied Emerald,0.11299349,210.0,213.0
+Seiurus aurocapilla_Ovenbird,0.4750709,211.0,214.0
+Tamias striatus_Eastern Chipmunk,0.4137931,211.0,214.0
+Seiurus aurocapilla_Ovenbird,0.4117455,212.0,215.0
+Seiurus aurocapilla_Ovenbird,0.4049376,213.0,216.0
+Seiurus aurocapilla_Ovenbird,0.45540494,214.0,217.0
+Tamias striatus_Eastern Chipmunk,0.34037906,214.0,217.0
+Seiurus aurocapilla_Ovenbird,0.21947867,215.0,218.0
+Seiurus aurocapilla_Ovenbird,0.46409175,216.0,219.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25152543,216.0,219.0
+Basilinna leucotis_White-eared Hummingbird,0.119200796,216.0,219.0
+Seiurus aurocapilla_Ovenbird,0.31864724,217.0,220.0
+Seiurus aurocapilla_Ovenbird,0.9542443,218.0,221.0
+Seiurus aurocapilla_Ovenbird,0.91978174,219.0,222.0
+Seiurus aurocapilla_Ovenbird,0.95439184,220.0,223.0
+Stagonopleura bella_Beautiful Firetail,0.110058226,220.0,223.0
+Seiurus aurocapilla_Ovenbird,0.9797958,221.0,224.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.14475034,221.0,224.0
+Seiurus aurocapilla_Ovenbird,0.93288445,222.0,225.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.11749009,222.0,225.0
+Seiurus aurocapilla_Ovenbird,0.9338954,223.0,226.0
+Seiurus aurocapilla_Ovenbird,0.8870958,224.0,227.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.19338118,224.0,227.0
+Seiurus aurocapilla_Ovenbird,0.87086385,225.0,228.0
+Seiurus aurocapilla_Ovenbird,0.84084654,226.0,229.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.18514976,226.0,229.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100893244,226.0,229.0
+Seiurus aurocapilla_Ovenbird,0.926651,227.0,230.0
+Seiurus aurocapilla_Ovenbird,0.6279765,228.0,231.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1920651,228.0,231.0
+Seiurus aurocapilla_Ovenbird,0.930519,229.0,232.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.15511689,229.0,232.0
+Saucerottia cyanocephala_Azure-crowned Hummingbird,0.122991115,229.0,232.0
+Seiurus aurocapilla_Ovenbird,0.93693274,230.0,233.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.18845768,230.0,233.0
+Seiurus aurocapilla_Ovenbird,0.9905173,231.0,234.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13602489,231.0,234.0
+Seiurus aurocapilla_Ovenbird,0.9598958,232.0,235.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.10158716,232.0,235.0
+Seiurus aurocapilla_Ovenbird,0.9620776,233.0,236.0
+Seiurus aurocapilla_Ovenbird,0.9635558,234.0,237.0
+Seiurus aurocapilla_Ovenbird,0.9793579,235.0,238.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.19776331,235.0,238.0
+Seiurus aurocapilla_Ovenbird,0.9326859,236.0,239.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.16351007,236.0,239.0
+Seiurus aurocapilla_Ovenbird,0.92920655,237.0,240.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27504438,237.0,240.0
+Seiurus aurocapilla_Ovenbird,0.7507824,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28737602,238.0,241.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.44453913,239.0,242.0
+Basilinna leucotis_White-eared Hummingbird,0.3315383,239.0,242.0
+Seiurus aurocapilla_Ovenbird,0.19009198,239.0,242.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2732715,240.0,243.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14421602,241.0,244.0
+Seiurus aurocapilla_Ovenbird,0.245988,242.0,245.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11416882,242.0,245.0
+Seiurus aurocapilla_Ovenbird,0.49664658,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105022825,243.0,246.0
+Seiurus aurocapilla_Ovenbird,0.4863779,244.0,247.0
+Seiurus aurocapilla_Ovenbird,0.46702284,245.0,248.0
+Seiurus aurocapilla_Ovenbird,0.6768918,246.0,249.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14598651,246.0,249.0
+Seiurus aurocapilla_Ovenbird,0.81879985,247.0,250.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20182303,247.0,250.0
+Seiurus aurocapilla_Ovenbird,0.36352375,248.0,251.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.27129406,248.0,251.0
+Basilinna leucotis_White-eared Hummingbird,0.11160744,248.0,251.0
+Seiurus aurocapilla_Ovenbird,0.28780395,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14922373,249.0,252.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23460722,250.0,253.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17051773,251.0,254.0
+Seiurus aurocapilla_Ovenbird,0.14738134,251.0,254.0
+Seiurus aurocapilla_Ovenbird,0.40474176,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17644124,252.0,255.0
+Seiurus aurocapilla_Ovenbird,0.10698938,253.0,256.0
+Basilinna leucotis_White-eared Hummingbird,0.114291295,264.0,267.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.23292936,266.0,269.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.40580705,267.0,270.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.18904184,268.0,271.0
+Seiurus aurocapilla_Ovenbird,0.13694899,275.0,278.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.12297258,275.0,278.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.25259578,276.0,279.0
+Seiurus aurocapilla_Ovenbird,0.1830365,276.0,279.0
+Basilinna leucotis_White-eared Hummingbird,0.30727035,278.0,281.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.23843275,279.0,282.0
+Phrygilus gayi_Gray-hooded Sierra Finch,0.11402693,279.0,282.0
+Seiurus aurocapilla_Ovenbird,0.23351344,280.0,283.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.15423022,280.0,283.0
+Dicaeum minullum_Plain Flowerpecker,0.121072836,280.0,283.0
+Seiurus aurocapilla_Ovenbird,0.35201856,281.0,284.0
+Seiurus aurocapilla_Ovenbird,0.41723973,282.0,285.0
+Seiurus aurocapilla_Ovenbird,0.5605722,283.0,286.0
+Seiurus aurocapilla_Ovenbird,0.49777195,284.0,287.0
+Seiurus aurocapilla_Ovenbird,0.8077853,285.0,288.0
+Seiurus aurocapilla_Ovenbird,0.9339618,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11666813,286.0,289.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10337408,286.0,289.0
+Seiurus aurocapilla_Ovenbird,0.8852135,287.0,290.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.115923405,287.0,290.0
+Seiurus aurocapilla_Ovenbird,0.91496325,288.0,291.0
+Seiurus aurocapilla_Ovenbird,0.4337895,289.0,292.0
+Stagonopleura bella_Beautiful Firetail,0.28452545,289.0,292.0
+Stilpnia larvata_Golden-hooded Tanager,0.13019045,289.0,292.0
+Seiurus aurocapilla_Ovenbird,0.7391094,290.0,293.0
+Seiurus aurocapilla_Ovenbird,0.5234558,291.0,294.0
+Seiurus aurocapilla_Ovenbird,0.7179416,292.0,295.0
+Stilpnia larvata_Golden-hooded Tanager,0.1336727,292.0,295.0
+Seiurus aurocapilla_Ovenbird,0.7976416,293.0,296.0
+Stilpnia larvata_Golden-hooded Tanager,0.1303211,293.0,296.0
+Seiurus aurocapilla_Ovenbird,0.85729396,294.0,297.0
+Seiurus aurocapilla_Ovenbird,0.7912668,295.0,298.0
+Seiurus aurocapilla_Ovenbird,0.6426201,296.0,299.0
+Seiurus aurocapilla_Ovenbird,0.59792846,297.0,300.0
+Stagonopleura bella_Beautiful Firetail,0.1609762,297.0,300.0
+Seiurus aurocapilla_Ovenbird,0.5984929,298.0,301.0
+Stagonopleura bella_Beautiful Firetail,0.3415562,298.0,301.0
+Seiurus aurocapilla_Ovenbird,0.3077655,299.0,302.0
+Stagonopleura bella_Beautiful Firetail,0.14981116,299.0,302.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.115735665,299.0,302.0
+Seiurus aurocapilla_Ovenbird,0.86900115,300.0,303.0
+Seiurus aurocapilla_Ovenbird,0.86713797,301.0,304.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11390169,301.0,304.0
+Seiurus aurocapilla_Ovenbird,0.8229408,302.0,305.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2015347,302.0,305.0
+Seiurus aurocapilla_Ovenbird,0.9329822,303.0,306.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.123177275,303.0,306.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10052403,303.0,306.0
+Seiurus aurocapilla_Ovenbird,0.95286727,304.0,307.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10023557,304.0,307.0
+Seiurus aurocapilla_Ovenbird,0.7365027,305.0,308.0
+Seiurus aurocapilla_Ovenbird,0.7677512,306.0,309.0
+Stagonopleura bella_Beautiful Firetail,0.36651513,306.0,309.0
+Seiurus aurocapilla_Ovenbird,0.6311698,307.0,310.0
+Stagonopleura bella_Beautiful Firetail,0.42281035,307.0,310.0
+Seiurus aurocapilla_Ovenbird,0.86674315,308.0,311.0
+Stagonopleura bella_Beautiful Firetail,0.112577185,308.0,311.0
+Seiurus aurocapilla_Ovenbird,0.82781476,309.0,312.0
+Stagonopleura bella_Beautiful Firetail,0.14108777,309.0,312.0
+Seiurus aurocapilla_Ovenbird,0.6722616,310.0,313.0
+Seiurus aurocapilla_Ovenbird,0.62179416,311.0,314.0
+Stilpnia larvata_Golden-hooded Tanager,0.17047034,311.0,314.0
+Seiurus aurocapilla_Ovenbird,0.6421829,312.0,315.0
+Seiurus aurocapilla_Ovenbird,0.9410318,313.0,316.0
+Seiurus aurocapilla_Ovenbird,0.93285435,314.0,317.0
+Seiurus aurocapilla_Ovenbird,0.9697319,315.0,318.0
+Seiurus aurocapilla_Ovenbird,0.9550985,316.0,319.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108778834,316.0,319.0
+Seiurus aurocapilla_Ovenbird,0.9799795,317.0,320.0
+Seiurus aurocapilla_Ovenbird,0.5676988,318.0,321.0
+Stagonopleura bella_Beautiful Firetail,0.39792287,318.0,321.0
+Stagonopleura bella_Beautiful Firetail,0.33322498,319.0,322.0
+Seiurus aurocapilla_Ovenbird,0.2320328,319.0,322.0
+Seiurus aurocapilla_Ovenbird,0.40339738,320.0,323.0
+Stagonopleura bella_Beautiful Firetail,0.3252767,320.0,323.0
+Seiurus aurocapilla_Ovenbird,0.7986328,321.0,324.0
+Stagonopleura bella_Beautiful Firetail,0.32687676,321.0,324.0
+Seiurus aurocapilla_Ovenbird,0.837417,322.0,325.0
+Stagonopleura bella_Beautiful Firetail,0.19998318,322.0,325.0
+Seiurus aurocapilla_Ovenbird,0.7567743,323.0,326.0
+Stagonopleura bella_Beautiful Firetail,0.14491038,323.0,326.0
+Seiurus aurocapilla_Ovenbird,0.8336886,324.0,327.0
+Stagonopleura bella_Beautiful Firetail,0.2502148,324.0,327.0
+Seiurus aurocapilla_Ovenbird,0.80844396,325.0,328.0
+Stagonopleura bella_Beautiful Firetail,0.1653025,325.0,328.0
+Seiurus aurocapilla_Ovenbird,0.94922405,326.0,329.0
+Seiurus aurocapilla_Ovenbird,0.97502804,327.0,330.0
+Seiurus aurocapilla_Ovenbird,0.952091,328.0,331.0
+Seiurus aurocapilla_Ovenbird,0.98193663,329.0,332.0
+Seiurus aurocapilla_Ovenbird,0.9902676,330.0,333.0
+Seiurus aurocapilla_Ovenbird,0.79978997,331.0,334.0
+Stagonopleura bella_Beautiful Firetail,0.1784418,331.0,334.0
+Seiurus aurocapilla_Ovenbird,0.67524654,332.0,335.0
+Stagonopleura bella_Beautiful Firetail,0.33852,332.0,335.0
+Seiurus aurocapilla_Ovenbird,0.5792782,333.0,336.0
+Stilpnia larvata_Golden-hooded Tanager,0.16273229,333.0,336.0
+Stagonopleura bella_Beautiful Firetail,0.15788147,333.0,336.0
+Seiurus aurocapilla_Ovenbird,0.63763434,334.0,337.0
+Stilpnia larvata_Golden-hooded Tanager,0.1806853,334.0,337.0
+Stagonopleura bella_Beautiful Firetail,0.10238099,334.0,337.0
+Seiurus aurocapilla_Ovenbird,0.7446707,335.0,338.0
+Seiurus aurocapilla_Ovenbird,0.7812604,336.0,339.0
+Stilpnia larvata_Golden-hooded Tanager,0.14190818,336.0,339.0
+Seiurus aurocapilla_Ovenbird,0.7818623,337.0,340.0
+Stagonopleura bella_Beautiful Firetail,0.28259045,337.0,340.0
+Stilpnia larvata_Golden-hooded Tanager,0.15103804,337.0,340.0
+Seiurus aurocapilla_Ovenbird,0.7618644,338.0,341.0
+Stagonopleura bella_Beautiful Firetail,0.19348545,338.0,341.0
+Seiurus aurocapilla_Ovenbird,0.82023907,339.0,342.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.10776415,339.0,342.0
+Seiurus aurocapilla_Ovenbird,0.4429021,340.0,343.0
+Stagonopleura bella_Beautiful Firetail,0.17213939,340.0,343.0
+Stilpnia larvata_Golden-hooded Tanager,0.123797156,340.0,343.0
+Stilpnia larvata_Golden-hooded Tanager,0.20476541,341.0,344.0
+Seiurus aurocapilla_Ovenbird,0.16495778,341.0,344.0
+Stagonopleura bella_Beautiful Firetail,0.14822607,341.0,344.0
+Stagonopleura bella_Beautiful Firetail,0.5515411,342.0,345.0
+Seiurus aurocapilla_Ovenbird,0.39401436,342.0,345.0
+Seiurus aurocapilla_Ovenbird,0.69332063,343.0,346.0
+Stagonopleura bella_Beautiful Firetail,0.16447768,343.0,346.0
+Seiurus aurocapilla_Ovenbird,0.7554735,344.0,347.0
+Stagonopleura bella_Beautiful Firetail,0.52432126,344.0,347.0
+Seiurus aurocapilla_Ovenbird,0.76283425,345.0,348.0
+Stagonopleura bella_Beautiful Firetail,0.74055165,345.0,348.0
+Seiurus aurocapilla_Ovenbird,0.5432311,346.0,349.0
+Stagonopleura bella_Beautiful Firetail,0.3444575,346.0,349.0
+Stilpnia larvata_Golden-hooded Tanager,0.29268146,346.0,349.0
+Seiurus aurocapilla_Ovenbird,0.41065496,347.0,350.0
+Seiurus aurocapilla_Ovenbird,0.6726437,348.0,351.0
+Stagonopleura bella_Beautiful Firetail,0.10843924,348.0,351.0
+Seiurus aurocapilla_Ovenbird,0.97951484,349.0,352.0
+Seiurus aurocapilla_Ovenbird,0.93775547,350.0,353.0
+Seiurus aurocapilla_Ovenbird,0.95674944,351.0,354.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1611891,351.0,354.0
+Seiurus aurocapilla_Ovenbird,0.98816365,352.0,355.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116659194,352.0,355.0
+Seiurus aurocapilla_Ovenbird,0.9969223,353.0,356.0
+Seiurus aurocapilla_Ovenbird,0.73655224,354.0,357.0
+Stagonopleura bella_Beautiful Firetail,0.15205589,354.0,357.0
+Seiurus aurocapilla_Ovenbird,0.63994384,355.0,358.0
+Stagonopleura bella_Beautiful Firetail,0.35307539,355.0,358.0
+Stagonopleura bella_Beautiful Firetail,0.4532553,356.0,359.0
+Seiurus aurocapilla_Ovenbird,0.2449576,356.0,359.0
+Seiurus aurocapilla_Ovenbird,0.70832837,357.0,360.0
+Stagonopleura bella_Beautiful Firetail,0.107706256,357.0,360.0
+Seiurus aurocapilla_Ovenbird,0.68551755,358.0,361.0
+Seiurus aurocapilla_Ovenbird,0.83745307,359.0,362.0
+Seiurus aurocapilla_Ovenbird,0.80611145,360.0,363.0
+Stagonopleura bella_Beautiful Firetail,0.2599928,360.0,363.0
+Seiurus aurocapilla_Ovenbird,0.85781157,361.0,364.0
+Stagonopleura bella_Beautiful Firetail,0.5831335,361.0,364.0
+Stilpnia larvata_Golden-hooded Tanager,0.22279032,361.0,364.0
+Seiurus aurocapilla_Ovenbird,0.98558134,362.0,365.0
+Seiurus aurocapilla_Ovenbird,0.9746591,363.0,366.0
+Seiurus aurocapilla_Ovenbird,0.90760005,364.0,367.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1833698,364.0,367.0
+Seiurus aurocapilla_Ovenbird,0.9576817,365.0,368.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28382242,365.0,368.0
+Seiurus aurocapilla_Ovenbird,0.9822662,366.0,369.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.26822633,366.0,369.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.3979208,367.0,370.0
+Seiurus aurocapilla_Ovenbird,0.12535864,367.0,370.0
+Todus subulatus_Broad-billed Tody,0.13541144,373.0,376.0
+Tamias striatus_Eastern Chipmunk,0.103694655,373.0,376.0
+Seiurus aurocapilla_Ovenbird,0.6606876,377.0,380.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.41090092,377.0,380.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.13546011,377.0,380.0
+Seiurus aurocapilla_Ovenbird,0.45970657,378.0,381.0
+Topaza pella_Crimson Topaz,0.13449442,378.0,381.0
+Seiurus aurocapilla_Ovenbird,0.49203417,379.0,382.0
+Seiurus aurocapilla_Ovenbird,0.57013947,380.0,383.0
+Topaza pella_Crimson Topaz,0.14600281,380.0,383.0
+Seiurus aurocapilla_Ovenbird,0.7697946,381.0,384.0
+Seiurus aurocapilla_Ovenbird,0.88787174,382.0,385.0
+Seiurus aurocapilla_Ovenbird,0.7195118,383.0,386.0
+Seiurus aurocapilla_Ovenbird,0.9996952,384.0,387.0
+Saltatricula atricollis_Black-throated Saltator,0.3874677,384.0,387.0
+Topaza pella_Crimson Topaz,0.24145155,384.0,387.0
+Seiurus aurocapilla_Ovenbird,0.9992417,385.0,388.0
+Seiurus aurocapilla_Ovenbird,0.97474265,386.0,389.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.33022657,387.0,390.0
+Seiurus aurocapilla_Ovenbird,0.18346702,387.0,390.0
+Seiurus aurocapilla_Ovenbird,0.44313043,388.0,391.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1094213,388.0,391.0
+Seiurus aurocapilla_Ovenbird,0.52444685,389.0,392.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14921382,389.0,392.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.1470436,389.0,392.0
+Seiurus aurocapilla_Ovenbird,0.21908432,390.0,393.0
+Seiurus aurocapilla_Ovenbird,0.5344438,391.0,394.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.29558772,391.0,394.0
+Seiurus aurocapilla_Ovenbird,0.38372365,392.0,395.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2898603,393.0,396.0
+Seiurus aurocapilla_Ovenbird,0.18657248,393.0,396.0
+Seiurus aurocapilla_Ovenbird,0.19521287,394.0,397.0
+Seiurus aurocapilla_Ovenbird,0.26080665,395.0,398.0
+Seiurus aurocapilla_Ovenbird,0.58576155,396.0,399.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12556385,396.0,399.0
+Seiurus aurocapilla_Ovenbird,0.35525566,397.0,400.0
+Seiurus aurocapilla_Ovenbird,0.31517652,398.0,401.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.2880972,398.0,401.0
+Seiurus aurocapilla_Ovenbird,0.50445735,399.0,402.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17990488,399.0,402.0
+Seiurus aurocapilla_Ovenbird,0.3780005,401.0,404.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11610368,401.0,404.0
+Seiurus aurocapilla_Ovenbird,0.36234298,402.0,405.0
+Seiurus aurocapilla_Ovenbird,0.42205763,403.0,406.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20459709,403.0,406.0
+Cardellina canadensis_Canada Warbler,0.115831144,403.0,406.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1264656,405.0,408.0
+Seiurus aurocapilla_Ovenbird,0.19637999,406.0,409.0
+Seiurus aurocapilla_Ovenbird,0.5637359,407.0,410.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.38302034,407.0,410.0
+Seiurus aurocapilla_Ovenbird,0.2831952,408.0,411.0
+Seiurus aurocapilla_Ovenbird,0.4737664,409.0,412.0
+Seiurus aurocapilla_Ovenbird,0.23831503,410.0,413.0
+Seiurus aurocapilla_Ovenbird,0.6756119,411.0,414.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.15833624,411.0,414.0
+Seiurus aurocapilla_Ovenbird,0.529402,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28130284,412.0,415.0
+Seiurus aurocapilla_Ovenbird,0.54476994,413.0,416.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19176024,413.0,416.0
+Seiurus aurocapilla_Ovenbird,0.59606904,414.0,417.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14906676,414.0,417.0
+Seiurus aurocapilla_Ovenbird,0.46763876,415.0,418.0
+Seiurus aurocapilla_Ovenbird,0.5584308,416.0,419.0
+Seiurus aurocapilla_Ovenbird,0.7801125,417.0,420.0
+Seiurus aurocapilla_Ovenbird,0.70376474,418.0,421.0
+Seiurus aurocapilla_Ovenbird,0.6012184,419.0,422.0
+Seiurus aurocapilla_Ovenbird,0.547222,420.0,423.0
+Seiurus aurocapilla_Ovenbird,0.7854568,421.0,424.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17143081,421.0,424.0
+Seiurus aurocapilla_Ovenbird,0.8256908,422.0,425.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1433892,422.0,425.0
+Seiurus aurocapilla_Ovenbird,0.5742812,423.0,426.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116393834,423.0,426.0
+Seiurus aurocapilla_Ovenbird,0.60559,424.0,427.0
+Seiurus aurocapilla_Ovenbird,0.527181,425.0,428.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23967676,425.0,428.0
+Seiurus aurocapilla_Ovenbird,0.76664037,426.0,429.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14715949,426.0,429.0
+Seiurus aurocapilla_Ovenbird,0.43144113,427.0,430.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.28887734,427.0,430.0
+Seiurus aurocapilla_Ovenbird,0.31013626,428.0,431.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.117003314,428.0,431.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115381576,428.0,431.0
+Phrygilus patagonicus_Patagonian Sierra Finch,0.15505244,429.0,432.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34478113,430.0,433.0
+Seiurus aurocapilla_Ovenbird,0.3137779,430.0,433.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17176476,432.0,435.0
+Seiurus aurocapilla_Ovenbird,0.15861747,432.0,435.0
+Seiurus aurocapilla_Ovenbird,0.31895798,434.0,437.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12078828,434.0,437.0
+Seiurus aurocapilla_Ovenbird,0.16408402,435.0,438.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15907536,435.0,438.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112677544,436.0,439.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.34242845,437.0,440.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19451466,438.0,441.0
+Seiurus aurocapilla_Ovenbird,0.14705607,438.0,441.0
+Basilinna leucotis_White-eared Hummingbird,0.45285964,439.0,442.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12235466,439.0,442.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.25162897,440.0,443.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.10833019,445.0,448.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.12090462,446.0,449.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.11875573,452.0,455.0
+Chlorestes candida_White-bellied Emerald,0.1075775,458.0,461.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.1439675,460.0,463.0
+Tamias striatus_Eastern Chipmunk,0.117845364,460.0,463.0
+Seiurus aurocapilla_Ovenbird,0.28587812,462.0,465.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11843743,462.0,465.0
+Seiurus aurocapilla_Ovenbird,0.3348408,463.0,466.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15306862,467.0,470.0
+Junco hyemalis_Dark-eyed Junco,0.1467987,467.0,470.0
+Seiurus aurocapilla_Ovenbird,0.21030466,472.0,475.0
+Seiurus aurocapilla_Ovenbird,0.17247067,473.0,476.0
+Seiurus aurocapilla_Ovenbird,0.15263759,474.0,477.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.14332637,474.0,477.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1178918,474.0,477.0
+Seiurus aurocapilla_Ovenbird,0.42239043,475.0,478.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.1760559,475.0,478.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15795445,475.0,478.0
+Amazilia luciae_Honduran Emerald,0.14465493,475.0,478.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.31183845,476.0,479.0
+Seiurus aurocapilla_Ovenbird,0.16340408,476.0,479.0
+Seiurus aurocapilla_Ovenbird,0.22418194,477.0,480.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120195374,477.0,480.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19680132,478.0,481.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13731314,480.0,483.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14928891,485.0,488.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13917968,486.0,489.0
+Seiurus aurocapilla_Ovenbird,0.1871435,487.0,490.0
+Seiurus aurocapilla_Ovenbird,0.44835097,488.0,491.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4108976,488.0,491.0
+Seiurus aurocapilla_Ovenbird,0.31841817,489.0,492.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2483365,489.0,492.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.158509,491.0,494.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17327721,493.0,496.0
+Seiurus aurocapilla_Ovenbird,0.47345257,494.0,497.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.4370876,494.0,497.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.43696564,495.0,498.0
+Seiurus aurocapilla_Ovenbird,0.35624784,495.0,498.0
+Seiurus aurocapilla_Ovenbird,0.25285646,496.0,499.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19684814,496.0,499.0
+Seiurus aurocapilla_Ovenbird,0.23181506,497.0,500.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12624136,497.0,500.0
+Seiurus aurocapilla_Ovenbird,0.47534952,498.0,501.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16704091,498.0,501.0
+Seiurus aurocapilla_Ovenbird,0.14275792,499.0,502.0
+Seiurus aurocapilla_Ovenbird,0.23742346,502.0,505.0
+Seiurus aurocapilla_Ovenbird,0.42555895,503.0,506.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.14164351,503.0,506.0
+Seiurus aurocapilla_Ovenbird,0.15595546,504.0,507.0
+Seiurus aurocapilla_Ovenbird,0.16236335,506.0,509.0
+Seiurus aurocapilla_Ovenbird,0.3374215,507.0,510.0
+Seiurus aurocapilla_Ovenbird,0.4056779,508.0,511.0
+Seiurus aurocapilla_Ovenbird,0.51020426,509.0,512.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14464274,509.0,512.0
+Seiurus aurocapilla_Ovenbird,0.46912858,510.0,513.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1121211,510.0,513.0
+Seiurus aurocapilla_Ovenbird,0.24747434,511.0,514.0
+Seiurus aurocapilla_Ovenbird,0.16453463,512.0,515.0
+Seiurus aurocapilla_Ovenbird,0.44336873,513.0,516.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13896374,513.0,516.0
+Seiurus aurocapilla_Ovenbird,0.14101803,514.0,517.0
+Seiurus aurocapilla_Ovenbird,0.29283354,515.0,518.0
+Seiurus aurocapilla_Ovenbird,0.6065121,516.0,519.0
+Seiurus aurocapilla_Ovenbird,0.2577635,517.0,520.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.37235576,518.0,521.0
+Junco hyemalis_Dark-eyed Junco,0.1241956,518.0,521.0
+Seiurus aurocapilla_Ovenbird,0.84577125,519.0,522.0
+Geothlypis philadelphia_Mourning Warbler,0.1322303,519.0,522.0
+Seiurus aurocapilla_Ovenbird,0.8508543,520.0,523.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22901508,520.0,523.0
+Seiurus aurocapilla_Ovenbird,0.9379448,521.0,524.0
+Geothlypis philadelphia_Mourning Warbler,0.10030006,521.0,524.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18315248,522.0,525.0
+Seiurus aurocapilla_Ovenbird,0.1828621,522.0,525.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10367048,524.0,527.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32119083,526.0,529.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.2652302,528.0,531.0
+Seiurus aurocapilla_Ovenbird,0.24937595,531.0,534.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16595307,531.0,534.0
+Seiurus aurocapilla_Ovenbird,0.13705109,533.0,536.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12012022,534.0,537.0
+Junco hyemalis_Dark-eyed Junco,0.10790285,534.0,537.0
+Sericornis citreogularis_Yellow-throated Scrubwren,0.10521473,536.0,539.0
+Stilpnia larvata_Golden-hooded Tanager,0.17138371,538.0,541.0
+Todus subulatus_Broad-billed Tody,0.10531969,543.0,546.0
+Todus subulatus_Broad-billed Tody,0.15799412,548.0,551.0
+Todus subulatus_Broad-billed Tody,0.12996781,549.0,552.0
+Todus subulatus_Broad-billed Tody,0.2927476,550.0,553.0
+Buteo ridgwayi_Ridgway's Hawk,0.10246295,553.0,556.0
+Buteo ridgwayi_Ridgway's Hawk,0.1446816,554.0,557.0
+Todus subulatus_Broad-billed Tody,0.10161681,558.0,561.0
+Todus subulatus_Broad-billed Tody,0.11260505,563.0,566.0

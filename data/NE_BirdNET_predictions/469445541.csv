@@ -1,0 +1,26 @@
+species,score,start_time,end_time
+Sitta carolinensis_White-breasted Nuthatch,0.54391104,0.0,3.0
+Sitta canadensis_Red-breasted Nuthatch,0.10068788,0.0,3.0
+Pipilo erythrophthalmus_Eastern Towhee,0.4898614,1.0,4.0
+Pipilo erythrophthalmus_Eastern Towhee,0.99407023,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9940095,3.0,6.0
+Pipilo erythrophthalmus_Eastern Towhee,0.89821213,4.0,7.0
+Sitta carolinensis_White-breasted Nuthatch,0.21441159,5.0,8.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9915611,9.0,12.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9942095,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.997322,11.0,14.0
+Buteo platypterus_Broad-winged Hawk,0.13843927,12.0,15.0
+Engine_Engine,0.114137456,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.103884205,13.0,16.0
+Engine_Engine,0.22548586,14.0,17.0
+Engine_Engine,0.15401852,16.0,19.0
+Ramphocelus dimidiatus_Crimson-backed Tanager,0.16015665,17.0,20.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9940842,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9956891,19.0,22.0
+Pipilo erythrophthalmus_Eastern Towhee,0.99861145,20.0,23.0
+Thryothorus ludovicianus_Carolina Wren,0.16727588,22.0,25.0
+Thryothorus ludovicianus_Carolina Wren,0.30873615,23.0,26.0
+Catharus ustulatus_Swainson's Thrush,0.16493891,24.0,27.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9946195,26.0,29.0
+Pipilo erythrophthalmus_Eastern Towhee,0.98851776,27.0,30.0
+Pipilo erythrophthalmus_Eastern Towhee,0.9976387,28.0,30.24

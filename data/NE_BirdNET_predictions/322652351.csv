@@ -1,0 +1,93 @@
+species,score,start_time,end_time
+Melospiza melodia_Song Sparrow,0.23031211,0.0,3.0
+Mimus polyglottos_Northern Mockingbird,0.11846493,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.6014582,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.18871923,4.0,7.0
+Mimus polyglottos_Northern Mockingbird,0.13617583,4.0,7.0
+Rallus crepitans_Clapper Rail,0.118907094,4.0,7.0
+Rallus crepitans_Clapper Rail,0.36452582,5.0,8.0
+Baeolophus atricristatus_Black-crested Titmouse,0.1636053,8.0,11.0
+Rallus crepitans_Clapper Rail,0.5466285,10.0,13.0
+Rallus crepitans_Clapper Rail,0.4474737,11.0,14.0
+Rallus limicola_Virginia Rail,0.10468872,11.0,14.0
+Quiscalus major_Boat-tailed Grackle,0.30747542,12.0,15.0
+Furnarius figulus_Wing-banded Hornero,0.11950791,13.0,16.0
+Myiarchus crinitus_Great Crested Flycatcher,0.13724943,14.0,17.0
+Myiarchus crinitus_Great Crested Flycatcher,0.47201398,15.0,18.0
+Mimus polyglottos_Northern Mockingbird,0.10170813,15.0,18.0
+Mimus polyglottos_Northern Mockingbird,0.34333184,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.20502265,16.0,19.0
+Mimus polyglottos_Northern Mockingbird,0.5008784,17.0,20.0
+Mimus polyglottos_Northern Mockingbird,0.27886027,18.0,21.0
+Mimus polyglottos_Northern Mockingbird,0.5432004,19.0,22.0
+Quiscalus major_Boat-tailed Grackle,0.1172701,19.0,22.0
+Mimus polyglottos_Northern Mockingbird,0.34552634,20.0,23.0
+Quiscalus major_Boat-tailed Grackle,0.1254644,20.0,23.0
+Mimus polyglottos_Northern Mockingbird,0.35125464,21.0,24.0
+Chordeiles gundlachii_Antillean Nighthawk,0.30096558,22.0,25.0
+Mimus polyglottos_Northern Mockingbird,0.2541475,22.0,25.0
+Piranga flava_Hepatic Tanager,0.10575972,22.0,25.0
+Mimus polyglottos_Northern Mockingbird,0.23209606,25.0,28.0
+Mimus polyglottos_Northern Mockingbird,0.2965294,26.0,29.0
+Mimus polyglottos_Northern Mockingbird,0.54297876,27.0,30.0
+Manorina melanocephala_Noisy Miner,0.28217617,28.0,31.0
+Mimus polyglottos_Northern Mockingbird,0.1448382,28.0,31.0
+Mimus polyglottos_Northern Mockingbird,0.2803579,29.0,32.0
+Icterus galbula_Baltimore Oriole,0.20172583,29.0,32.0
+Icterus galbula_Baltimore Oriole,0.5773436,30.0,33.0
+Mimus polyglottos_Northern Mockingbird,0.35321182,30.0,33.0
+Melospiza melodia_Song Sparrow,0.21825463,30.0,33.0
+Icterus galbula_Baltimore Oriole,0.4477712,31.0,34.0
+Mimus polyglottos_Northern Mockingbird,0.40076226,31.0,34.0
+Mimus polyglottos_Northern Mockingbird,0.49964786,32.0,35.0
+Icterus galbula_Baltimore Oriole,0.11340894,32.0,35.0
+Mimus polyglottos_Northern Mockingbird,0.43475834,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.323769,35.0,38.0
+Icterus galbula_Baltimore Oriole,0.21182182,35.0,38.0
+Baeolophus bicolor_Tufted Titmouse,0.17796175,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.800164,36.0,39.0
+Icterus galbula_Baltimore Oriole,0.10330641,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.7600457,37.0,40.0
+Turdus pelios_African Thrush,0.5326272,37.0,40.0
+Mimus polyglottos_Northern Mockingbird,0.8398782,38.0,41.0
+Turdus pelios_African Thrush,0.5418462,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.8439763,39.0,42.0
+Turdus pelios_African Thrush,0.12559882,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.79540044,40.0,43.0
+Turdus philomelos_Song Thrush,0.16298534,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.3395184,41.0,44.0
+Turdus philomelos_Song Thrush,0.30854103,41.0,44.0
+Melospiza melodia_Song Sparrow,0.25706938,43.0,46.0
+Melospiza melodia_Song Sparrow,0.14914007,44.0,47.0
+Turdus albicollis_White-necked Thrush,0.16616261,45.0,48.0
+Pitta nympha_Fairy Pitta,0.47592357,46.0,49.0
+Turdus merula_Eurasian Blackbird,0.1957135,47.0,50.0
+Turdus grayi_Clay-colored Thrush,0.15862109,48.0,51.0
+Lanius ludovicianus_Loggerhead Shrike,0.2506182,49.0,52.0
+Mimus polyglottos_Northern Mockingbird,0.10729793,49.0,52.0
+Lanius ludovicianus_Loggerhead Shrike,0.5119451,50.0,53.0
+Dicrurus paradiseus_Greater Racket-tailed Drongo,0.11111069,51.0,54.0
+Dicrurus paradiseus_Greater Racket-tailed Drongo,0.15322283,52.0,55.0
+Dicrurus paradiseus_Greater Racket-tailed Drongo,0.14300491,53.0,56.0
+Dicrurus paradiseus_Greater Racket-tailed Drongo,0.10787706,55.0,58.0
+Melospiza melodia_Song Sparrow,0.10988134,56.0,59.0
+Turdus grayi_Clay-colored Thrush,0.2798191,59.0,62.0
+Mimus polyglottos_Northern Mockingbird,0.7954294,60.0,63.0
+Mimus polyglottos_Northern Mockingbird,0.8000152,61.0,64.0
+Mimus polyglottos_Northern Mockingbird,0.7480409,62.0,65.0
+Mimus polyglottos_Northern Mockingbird,0.61433977,63.0,66.0
+Anurolimnas viridis_Russet-crowned Crake,0.1913792,64.0,67.0
+Colaptes auratus_Northern Flicker,0.38243213,68.0,71.0
+Pandion haliaetus_Osprey,0.20674144,73.0,76.0
+Haliaeetus leucocephalus_Bald Eagle,0.20341602,73.0,76.0
+Haliaeetus leucocephalus_Bald Eagle,0.28279963,74.0,77.0
+Buteo jamaicensis_Red-tailed Hawk,0.12767704,74.0,77.0
+Melospiza melodia_Song Sparrow,0.14229864,76.0,79.0
+Melospiza melodia_Song Sparrow,0.174613,77.0,80.0
+Peucaea aestivalis_Bachman's Sparrow,0.1560027,78.0,81.0
+Oporornis agilis_Connecticut Warbler,0.11703275,86.0,89.0
+Melospiza melodia_Song Sparrow,0.2587612,90.0,93.0
+Peucaea aestivalis_Bachman's Sparrow,0.36906525,91.0,94.0
+Mimus polyglottos_Northern Mockingbird,0.111815974,104.0,107.0
+Geothlypis formosa_Kentucky Warbler,0.16140531,105.0,108.0
+Melospiza melodia_Song Sparrow,0.10505261,109.0,111.72

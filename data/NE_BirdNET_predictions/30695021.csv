@@ -1,0 +1,88 @@
+species,score,start_time,end_time
+Dryocopus pileatus_Pileated Woodpecker,0.11931011,1.0,4.0
+Delichon urbicum_Common House-Martin,0.14236547,6.0,9.0
+Delichon urbicum_Common House-Martin,0.3056145,7.0,10.0
+Petrochelidon spilodera_South African Swallow,0.15333514,7.0,10.0
+Delichon urbicum_Common House-Martin,0.20344236,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.12977998,9.0,12.0
+Contopus virens_Eastern Wood-Pewee,0.17646621,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.26790333,11.0,14.0
+Delichon urbicum_Common House-Martin,0.1201864,15.0,18.0
+Sitta pusilla_Brown-headed Nuthatch,0.10597394,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.12060021,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17367177,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.14705938,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.104774155,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11707595,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19577807,21.0,24.0
+Buteo platypterus_Broad-winged Hawk,0.13774313,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.100416444,23.0,26.0
+Tamiasciurus hudsonicus_Red Squirrel,0.18895394,26.0,29.0
+Tamiasciurus hudsonicus_Red Squirrel,0.13274454,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.1023508,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14783731,29.0,32.0
+Tamias striatus_Eastern Chipmunk,0.13538307,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.12551044,29.0,32.0
+Tamiasciurus hudsonicus_Red Squirrel,0.1240614,29.0,32.0
+Tamiasciurus hudsonicus_Red Squirrel,0.11235243,30.0,33.0
+Tamias striatus_Eastern Chipmunk,0.101198845,30.0,33.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16553621,31.0,34.0
+Myiarchus stolidus_Stolid Flycatcher,0.10073102,31.0,34.0
+Delichon urbicum_Common House-Martin,0.12724352,39.0,42.0
+Delichon urbicum_Common House-Martin,0.36305657,40.0,43.0
+Delichon urbicum_Common House-Martin,0.1585975,41.0,44.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.11124036,43.0,46.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.20982538,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.104514584,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.19883049,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.13219838,52.0,55.0
+Tamias striatus_Eastern Chipmunk,0.12132179,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10569332,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.11474666,56.0,59.0
+Tamiasciurus hudsonicus_Red Squirrel,0.16906525,57.0,60.0
+Myiarchus stolidus_Stolid Flycatcher,0.70576423,58.0,61.0
+Myiarchus stolidus_Stolid Flycatcher,0.2768045,59.0,62.0
+Loxia sinesciuris_Cassia Crossbill,0.35154477,65.0,68.0
+Loxia sinesciuris_Cassia Crossbill,0.2529209,66.0,69.0
+Pampa curvipennis_Wedge-tailed Sabrewing,0.17006971,66.0,69.0
+Myiarchus stolidus_Stolid Flycatcher,0.1068001,68.0,71.0
+Contopus virens_Eastern Wood-Pewee,0.39106235,69.0,72.0
+Myiarchus stolidus_Stolid Flycatcher,0.1997529,69.0,72.0
+Contopus virens_Eastern Wood-Pewee,0.48976308,70.0,73.0
+Contopus virens_Eastern Wood-Pewee,0.22719292,71.0,74.0
+Buteo brachyurus_Short-tailed Hawk,0.18011524,71.0,74.0
+Myiarchus stolidus_Stolid Flycatcher,0.7870287,72.0,75.0
+Contopus virens_Eastern Wood-Pewee,0.44357434,72.0,75.0
+Myiarchus stolidus_Stolid Flycatcher,0.49291912,73.0,76.0
+Contopus virens_Eastern Wood-Pewee,0.22963704,73.0,76.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.1352049,73.0,76.0
+Myiarchus stolidus_Stolid Flycatcher,0.35761487,74.0,77.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.16553248,74.0,77.0
+Legatus leucophaius_Piratic Flycatcher,0.10098879,74.0,77.0
+Contopus virens_Eastern Wood-Pewee,0.153615,75.0,78.0
+Sitta carolinensis_White-breasted Nuthatch,0.22058167,76.0,79.0
+Contopus virens_Eastern Wood-Pewee,0.11120401,76.0,79.0
+Contopus virens_Eastern Wood-Pewee,0.86244947,77.0,80.0
+Myiarchus stolidus_Stolid Flycatcher,0.24245824,77.0,80.0
+Sitta carolinensis_White-breasted Nuthatch,0.38987297,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.29520658,79.0,82.0
+Contopus virens_Eastern Wood-Pewee,0.8375574,81.0,84.0
+Contopus virens_Eastern Wood-Pewee,0.86712795,82.0,85.0
+Contopus virens_Eastern Wood-Pewee,0.94193655,83.0,86.0
+Contopus virens_Eastern Wood-Pewee,0.20356292,84.0,87.0
+Ornithion brunneicapillus_Brown-capped Tyrannulet,0.22066781,85.0,88.0
+Camptostoma obsoletum_Southern Beardless-Tyrannulet,0.11746224,85.0,88.0
+Ornithion brunneicapillus_Brown-capped Tyrannulet,0.4049925,86.0,89.0
+Ornithion brunneicapillus_Brown-capped Tyrannulet,0.35438946,87.0,90.0
+Sitta pusilla_Brown-headed Nuthatch,0.11570195,89.0,92.0
+Contopus virens_Eastern Wood-Pewee,0.95242923,90.0,93.0
+Contopus virens_Eastern Wood-Pewee,0.8855778,91.0,94.0
+Contopus virens_Eastern Wood-Pewee,0.74839556,92.0,95.0
+Buteo platypterus_Broad-winged Hawk,0.16459979,100.0,103.0
+Setophaga virens_Black-throated Green Warbler,0.12206421,100.0,103.0
+Piranga olivacea_Scarlet Tanager,0.40544003,101.0,104.0
+Vireo philadelphicus_Philadelphia Vireo,0.1000092,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.23739088,118.0,121.0
+Seiurus aurocapilla_Ovenbird,0.134457,119.0,122.0
+Vireo chivi_Chivi Vireo,0.16941318,129.0,132.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15297145,143.0,146.0
