@@ -1,0 +1,941 @@
+species,score,start_time,end_time
+Regulus satrapa_Golden-crowned Kinglet,0.74397445,0.0,3.0
+Certhia americana_Brown Creeper,0.60676986,0.0,3.0
+Regulus satrapa_Golden-crowned Kinglet,0.8509504,1.0,4.0
+Certhia americana_Brown Creeper,0.30697736,1.0,4.0
+Regulus satrapa_Golden-crowned Kinglet,0.9674421,2.0,5.0
+Certhia americana_Brown Creeper,0.3181377,2.0,5.0
+Regulus satrapa_Golden-crowned Kinglet,0.9611206,3.0,6.0
+Certhia americana_Brown Creeper,0.5435166,3.0,6.0
+Setophaga tigrina_Cape May Warbler,0.3787526,4.0,7.0
+Setophaga fusca_Blackburnian Warbler,0.29656667,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.12591836,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10634755,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12218075,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.10687094,6.0,9.0
+Pachyramphus major_Gray-collared Becard,0.12029838,8.0,11.0
+Myadestes unicolor_Slate-colored Solitaire,0.1028769,8.0,11.0
+Regulus satrapa_Golden-crowned Kinglet,0.85401654,9.0,12.0
+Certhia americana_Brown Creeper,0.42380095,9.0,12.0
+Regulus satrapa_Golden-crowned Kinglet,0.9727989,10.0,13.0
+Regulus satrapa_Golden-crowned Kinglet,0.9831008,11.0,14.0
+Regulus satrapa_Golden-crowned Kinglet,0.98202777,12.0,15.0
+Regulus satrapa_Golden-crowned Kinglet,0.9704958,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.19431415,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.10073772,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.15332006,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.11233962,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.23422758,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13395387,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.10473208,17.0,20.0
+Regulus satrapa_Golden-crowned Kinglet,0.70390946,18.0,21.0
+Certhia americana_Brown Creeper,0.65848887,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.16648209,18.0,21.0
+Regulus satrapa_Golden-crowned Kinglet,0.9485133,19.0,22.0
+Certhia americana_Brown Creeper,0.14080222,19.0,22.0
+Regulus satrapa_Golden-crowned Kinglet,0.99193364,20.0,23.0
+Regulus satrapa_Golden-crowned Kinglet,0.9929096,21.0,24.0
+Regulus satrapa_Golden-crowned Kinglet,0.9561633,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18124293,24.0,27.0
+Pachyramphus major_Gray-collared Becard,0.62421083,25.0,28.0
+Pachyramphus major_Gray-collared Becard,0.23847602,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.12706836,26.0,29.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120598555,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.16483031,27.0,30.0
+Regulus satrapa_Golden-crowned Kinglet,0.7667254,28.0,31.0
+Certhia americana_Brown Creeper,0.6858327,28.0,31.0
+Regulus satrapa_Golden-crowned Kinglet,0.9354225,29.0,32.0
+Certhia americana_Brown Creeper,0.25358555,29.0,32.0
+Regulus satrapa_Golden-crowned Kinglet,0.9907058,30.0,33.0
+Regulus satrapa_Golden-crowned Kinglet,0.9913141,31.0,34.0
+Regulus satrapa_Golden-crowned Kinglet,0.9602906,32.0,35.0
+Regulus satrapa_Golden-crowned Kinglet,0.80885494,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13435818,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.107135125,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.17761381,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10355162,36.0,39.0
+Certhia americana_Brown Creeper,0.74850357,37.0,40.0
+Regulus satrapa_Golden-crowned Kinglet,0.9598734,38.0,41.0
+Regulus satrapa_Golden-crowned Kinglet,0.99344265,39.0,42.0
+Regulus satrapa_Golden-crowned Kinglet,0.99592364,40.0,43.0
+Regulus satrapa_Golden-crowned Kinglet,0.98694825,41.0,44.0
+Regulus satrapa_Golden-crowned Kinglet,0.46588567,42.0,45.0
+Pachyramphus major_Gray-collared Becard,0.2543787,43.0,46.0
+Basileuterus belli_Golden-browed Warbler,0.101785734,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.1868367,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.23962635,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.26646954,46.0,49.0
+Geothlypis philadelphia_Mourning Warbler,0.113171786,46.0,49.0
+Certhia americana_Brown Creeper,0.85188866,47.0,50.0
+Regulus satrapa_Golden-crowned Kinglet,0.9461278,48.0,51.0
+Certhia americana_Brown Creeper,0.33046633,48.0,51.0
+Regulus satrapa_Golden-crowned Kinglet,0.9949798,49.0,52.0
+Regulus satrapa_Golden-crowned Kinglet,0.99208426,50.0,53.0
+Regulus satrapa_Golden-crowned Kinglet,0.9856133,51.0,54.0
+Regulus satrapa_Golden-crowned Kinglet,0.67950594,52.0,55.0
+Poecile atricapillus_Black-capped Chickadee,0.2703683,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.3267999,53.0,56.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17881325,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.13985315,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.44025204,54.0,57.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23545419,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.15355974,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.35934153,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.32507655,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.15828018,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.18066417,56.0,59.0
+Setophaga fusca_Blackburnian Warbler,0.12337314,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11290327,56.0,59.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10338889,56.0,59.0
+Regulus satrapa_Golden-crowned Kinglet,0.7542578,57.0,60.0
+Certhia americana_Brown Creeper,0.3820951,57.0,60.0
+Regulus satrapa_Golden-crowned Kinglet,0.94201744,58.0,61.0
+Certhia americana_Brown Creeper,0.41526338,58.0,61.0
+Regulus satrapa_Golden-crowned Kinglet,0.9866854,59.0,62.0
+Regulus satrapa_Golden-crowned Kinglet,0.9959416,60.0,63.0
+Regulus satrapa_Golden-crowned Kinglet,0.8594401,61.0,64.0
+Seiurus aurocapilla_Ovenbird,0.21084966,63.0,66.0
+Setophaga fusca_Blackburnian Warbler,0.155436,63.0,66.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11040016,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.21440452,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.14233157,64.0,67.0
+Seiurus aurocapilla_Ovenbird,0.12832308,65.0,68.0
+Setophaga fusca_Blackburnian Warbler,0.103994206,65.0,68.0
+Certhia americana_Brown Creeper,0.30564222,66.0,69.0
+Malurus elegans_Red-winged Fairywren,0.3003273,66.0,69.0
+Elliotomyia chionogaster_White-bellied Hummingbird,0.1899074,66.0,69.0
+Certhia americana_Brown Creeper,0.450549,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.27333602,69.0,72.0
+Setophaga castanea_Bay-breasted Warbler,0.24839868,69.0,72.0
+Mniotilta varia_Black-and-white Warbler,0.15356913,69.0,72.0
+Regulus satrapa_Golden-crowned Kinglet,0.9163911,70.0,73.0
+Certhia americana_Brown Creeper,0.50713706,70.0,73.0
+Regulus satrapa_Golden-crowned Kinglet,0.99382704,71.0,74.0
+Regulus satrapa_Golden-crowned Kinglet,0.9951461,72.0,75.0
+Regulus satrapa_Golden-crowned Kinglet,0.93819493,73.0,76.0
+Poecile atricapillus_Black-capped Chickadee,0.11203056,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.22267096,75.0,78.0
+Setophaga fusca_Blackburnian Warbler,0.14212272,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13011791,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.314266,76.0,79.0
+Bombycilla cedrorum_Cedar Waxwing,0.25691864,77.0,80.0
+Bombycilla cedrorum_Cedar Waxwing,0.49537987,78.0,81.0
+Regulus satrapa_Golden-crowned Kinglet,0.2217753,79.0,82.0
+Certhia americana_Brown Creeper,0.20065093,79.0,82.0
+Bombycilla cedrorum_Cedar Waxwing,0.16119832,79.0,82.0
+Setophaga fusca_Blackburnian Warbler,0.17029332,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13726865,83.0,86.0
+Setophaga fusca_Blackburnian Warbler,0.11047202,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103327505,83.0,86.0
+Setophaga fusca_Blackburnian Warbler,0.12215991,84.0,87.0
+Regulus satrapa_Golden-crowned Kinglet,0.85212094,85.0,88.0
+Certhia americana_Brown Creeper,0.6637681,85.0,88.0
+Regulus satrapa_Golden-crowned Kinglet,0.93339133,86.0,89.0
+Certhia americana_Brown Creeper,0.18584852,86.0,89.0
+Regulus satrapa_Golden-crowned Kinglet,0.98465294,87.0,90.0
+Certhia americana_Brown Creeper,0.1311876,87.0,90.0
+Regulus satrapa_Golden-crowned Kinglet,0.9915461,88.0,91.0
+Certhia americana_Brown Creeper,0.19076124,88.0,91.0
+Regulus satrapa_Golden-crowned Kinglet,0.947134,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.40479398,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13103591,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.4013472,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.114077106,92.0,95.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103751555,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.10206192,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.1769896,93.0,96.0
+Setophaga castanea_Bay-breasted Warbler,0.106619544,93.0,96.0
+Regulus satrapa_Golden-crowned Kinglet,0.8732308,94.0,97.0
+Certhia americana_Brown Creeper,0.75877523,94.0,97.0
+Regulus satrapa_Golden-crowned Kinglet,0.97813296,95.0,98.0
+Regulus satrapa_Golden-crowned Kinglet,0.9960561,96.0,99.0
+Regulus satrapa_Golden-crowned Kinglet,0.99044037,97.0,100.0
+Regulus satrapa_Golden-crowned Kinglet,0.9602591,98.0,101.0
+Poecile atricapillus_Black-capped Chickadee,0.4617644,99.0,102.0
+Regulus satrapa_Golden-crowned Kinglet,0.2128539,99.0,102.0
+Seiurus aurocapilla_Ovenbird,0.2343811,100.0,103.0
+Setophaga fusca_Blackburnian Warbler,0.10872419,100.0,103.0
+Seiurus aurocapilla_Ovenbird,0.24107833,101.0,104.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16730593,101.0,104.0
+Setophaga fusca_Blackburnian Warbler,0.14128752,101.0,104.0
+Seiurus aurocapilla_Ovenbird,0.3570856,102.0,105.0
+Setophaga fusca_Blackburnian Warbler,0.13405454,102.0,105.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12970237,102.0,105.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10894683,102.0,105.0
+Certhia americana_Brown Creeper,0.8772261,103.0,106.0
+Regulus satrapa_Golden-crowned Kinglet,0.51366615,103.0,106.0
+Regulus satrapa_Golden-crowned Kinglet,0.96167254,104.0,107.0
+Certhia americana_Brown Creeper,0.17360294,104.0,107.0
+Regulus satrapa_Golden-crowned Kinglet,0.9923725,105.0,108.0
+Regulus satrapa_Golden-crowned Kinglet,0.99653995,106.0,109.0
+Regulus satrapa_Golden-crowned Kinglet,0.9940692,107.0,110.0
+Regulus satrapa_Golden-crowned Kinglet,0.38034874,108.0,111.0
+Poecile atricapillus_Black-capped Chickadee,0.32554352,108.0,111.0
+Seiurus aurocapilla_Ovenbird,0.68775046,109.0,112.0
+Seiurus aurocapilla_Ovenbird,0.5033116,110.0,113.0
+Certhia americana_Brown Creeper,0.8932998,111.0,114.0
+Regulus satrapa_Golden-crowned Kinglet,0.68901956,111.0,114.0
+Regulus satrapa_Golden-crowned Kinglet,0.9499792,112.0,115.0
+Certhia americana_Brown Creeper,0.56733686,112.0,115.0
+Regulus satrapa_Golden-crowned Kinglet,0.96754783,113.0,116.0
+Certhia americana_Brown Creeper,0.106466524,113.0,116.0
+Regulus satrapa_Golden-crowned Kinglet,0.9729168,114.0,117.0
+Regulus satrapa_Golden-crowned Kinglet,0.94812137,115.0,118.0
+Poecile atricapillus_Black-capped Chickadee,0.20346849,116.0,119.0
+Seiurus aurocapilla_Ovenbird,0.2474151,117.0,120.0
+Zenaida macroura_Mourning Dove,0.13749678,117.0,120.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12248631,117.0,120.0
+Setophaga cerulea_Cerulean Warbler,0.11981187,117.0,120.0
+Seiurus aurocapilla_Ovenbird,0.29325458,118.0,121.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11575168,118.0,121.0
+Certhia americana_Brown Creeper,0.69373256,119.0,122.0
+Regulus satrapa_Golden-crowned Kinglet,0.49799007,119.0,122.0
+Regulus satrapa_Golden-crowned Kinglet,0.8736591,120.0,123.0
+Certhia americana_Brown Creeper,0.12536006,120.0,123.0
+Regulus satrapa_Golden-crowned Kinglet,0.97518265,121.0,124.0
+Regulus satrapa_Golden-crowned Kinglet,0.95658994,122.0,125.0
+Regulus satrapa_Golden-crowned Kinglet,0.9857649,123.0,126.0
+Regulus satrapa_Golden-crowned Kinglet,0.3867747,124.0,127.0
+Setophaga tigrina_Cape May Warbler,0.3713739,124.0,127.0
+Setophaga castanea_Bay-breasted Warbler,0.13388847,124.0,127.0
+Setophaga fusca_Blackburnian Warbler,0.37281084,125.0,128.0
+Mniotilta varia_Black-and-white Warbler,0.1054955,125.0,128.0
+Setophaga fusca_Blackburnian Warbler,0.23659062,126.0,129.0
+Regulus satrapa_Golden-crowned Kinglet,0.7889688,127.0,130.0
+Certhia americana_Brown Creeper,0.75306517,127.0,130.0
+Regulus satrapa_Golden-crowned Kinglet,0.9739621,128.0,131.0
+Certhia americana_Brown Creeper,0.15355265,128.0,131.0
+Regulus satrapa_Golden-crowned Kinglet,0.9867943,129.0,132.0
+Regulus satrapa_Golden-crowned Kinglet,0.9776348,130.0,133.0
+Regulus satrapa_Golden-crowned Kinglet,0.9261881,131.0,134.0
+Regulus satrapa_Golden-crowned Kinglet,0.26399195,132.0,135.0
+Seiurus aurocapilla_Ovenbird,0.47958604,133.0,136.0
+Certhia americana_Brown Creeper,0.96733,134.0,137.0
+Regulus satrapa_Golden-crowned Kinglet,0.28715405,134.0,137.0
+Certhia americana_Brown Creeper,0.7688827,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.10168214,135.0,138.0
+Regulus satrapa_Golden-crowned Kinglet,0.88465124,136.0,139.0
+Certhia americana_Brown Creeper,0.47428364,136.0,139.0
+Regulus satrapa_Golden-crowned Kinglet,0.98627406,137.0,140.0
+Regulus satrapa_Golden-crowned Kinglet,0.98484194,138.0,141.0
+Regulus satrapa_Golden-crowned Kinglet,0.9368127,139.0,142.0
+Certhia americana_Brown Creeper,0.10541193,139.0,142.0
+Poecile atricapillus_Black-capped Chickadee,0.36133546,140.0,143.0
+Setophaga fusca_Blackburnian Warbler,0.20421699,141.0,144.0
+Setophaga tigrina_Cape May Warbler,0.12384548,141.0,144.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1119189,142.0,145.0
+Setophaga cerulea_Cerulean Warbler,0.13586633,143.0,146.0
+Hylocichla mustelina_Wood Thrush,0.14521945,144.0,147.0
+Piranga olivacea_Scarlet Tanager,0.12842377,145.0,148.0
+Certhia americana_Brown Creeper,0.2792178,146.0,149.0
+Mniotilta varia_Black-and-white Warbler,0.1085919,146.0,149.0
+Certhia americana_Brown Creeper,0.6553435,147.0,150.0
+Hylocichla mustelina_Wood Thrush,0.19716707,147.0,150.0
+Poecile carolinensis_Carolina Chickadee,0.10893204,147.0,150.0
+Certhia americana_Brown Creeper,0.92931163,148.0,151.0
+Regulus satrapa_Golden-crowned Kinglet,0.773445,148.0,151.0
+Regulus satrapa_Golden-crowned Kinglet,0.94774663,149.0,152.0
+Regulus satrapa_Golden-crowned Kinglet,0.97590023,150.0,153.0
+Regulus satrapa_Golden-crowned Kinglet,0.97829723,151.0,154.0
+Regulus satrapa_Golden-crowned Kinglet,0.78249925,152.0,155.0
+Poecile atricapillus_Black-capped Chickadee,0.13898589,152.0,155.0
+Seiurus aurocapilla_Ovenbird,0.14992677,155.0,158.0
+Setophaga fusca_Blackburnian Warbler,0.13280563,155.0,158.0
+Certhia americana_Brown Creeper,0.7434442,156.0,159.0
+Certhia americana_Brown Creeper,0.86333513,157.0,160.0
+Regulus satrapa_Golden-crowned Kinglet,0.6202299,157.0,160.0
+Regulus satrapa_Golden-crowned Kinglet,0.95662856,158.0,161.0
+Certhia americana_Brown Creeper,0.30568507,158.0,161.0
+Regulus satrapa_Golden-crowned Kinglet,0.9922714,159.0,162.0
+Regulus satrapa_Golden-crowned Kinglet,0.9633867,160.0,163.0
+Regulus satrapa_Golden-crowned Kinglet,0.8993161,161.0,164.0
+Poecile atricapillus_Black-capped Chickadee,0.35530937,162.0,165.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.24460925,163.0,166.0
+Setophaga virens_Black-throated Green Warbler,0.2420403,163.0,166.0
+Setophaga cerulea_Cerulean Warbler,0.12350937,163.0,166.0
+Seiurus aurocapilla_Ovenbird,0.1106846,163.0,166.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10680717,164.0,167.0
+Certhia americana_Brown Creeper,0.77490294,166.0,169.0
+Regulus satrapa_Golden-crowned Kinglet,0.79239345,167.0,170.0
+Certhia americana_Brown Creeper,0.27127624,167.0,170.0
+Regulus satrapa_Golden-crowned Kinglet,0.9279146,168.0,171.0
+Certhia americana_Brown Creeper,0.21292207,168.0,171.0
+Regulus satrapa_Golden-crowned Kinglet,0.9460344,169.0,172.0
+Certhia americana_Brown Creeper,0.11387125,169.0,172.0
+Regulus satrapa_Golden-crowned Kinglet,0.98272794,170.0,173.0
+Regulus satrapa_Golden-crowned Kinglet,0.76769453,171.0,174.0
+Regulus satrapa_Golden-crowned Kinglet,0.3138802,172.0,175.0
+Certhia americana_Brown Creeper,0.16154028,172.0,175.0
+Regulus satrapa_Golden-crowned Kinglet,0.7895386,173.0,176.0
+Certhia americana_Brown Creeper,0.47756207,173.0,176.0
+Regulus satrapa_Golden-crowned Kinglet,0.98548985,174.0,177.0
+Regulus satrapa_Golden-crowned Kinglet,0.99752694,175.0,178.0
+Regulus satrapa_Golden-crowned Kinglet,0.99680847,176.0,179.0
+Poecile gambeli_Mountain Chickadee,0.116207235,176.0,179.0
+Regulus satrapa_Golden-crowned Kinglet,0.9016293,177.0,180.0
+Poecile gambeli_Mountain Chickadee,0.4390758,177.0,180.0
+Certhia americana_Brown Creeper,0.25794482,180.0,183.0
+Certhia americana_Brown Creeper,0.8185146,181.0,184.0
+Regulus satrapa_Golden-crowned Kinglet,0.75276923,181.0,184.0
+Regulus satrapa_Golden-crowned Kinglet,0.9880292,182.0,185.0
+Regulus satrapa_Golden-crowned Kinglet,0.9909841,183.0,186.0
+Regulus satrapa_Golden-crowned Kinglet,0.9881293,184.0,187.0
+Regulus satrapa_Golden-crowned Kinglet,0.92180103,185.0,188.0
+Poecile atricapillus_Black-capped Chickadee,0.2702024,185.0,188.0
+Regulus satrapa_Golden-crowned Kinglet,0.4186657,186.0,189.0
+Certhia americana_Brown Creeper,0.3057111,186.0,189.0
+Certhia americana_Brown Creeper,0.971312,187.0,190.0
+Regulus satrapa_Golden-crowned Kinglet,0.91263264,187.0,190.0
+Regulus satrapa_Golden-crowned Kinglet,0.9730568,188.0,191.0
+Certhia americana_Brown Creeper,0.48708913,188.0,191.0
+Regulus satrapa_Golden-crowned Kinglet,0.99591994,189.0,192.0
+Regulus satrapa_Golden-crowned Kinglet,0.99369216,190.0,193.0
+Regulus satrapa_Golden-crowned Kinglet,0.992178,191.0,194.0
+Regulus satrapa_Golden-crowned Kinglet,0.8443459,192.0,195.0
+Poecile atricapillus_Black-capped Chickadee,0.23647512,192.0,195.0
+Certhia americana_Brown Creeper,0.71641433,194.0,197.0
+Regulus satrapa_Golden-crowned Kinglet,0.32810387,194.0,197.0
+Regulus satrapa_Golden-crowned Kinglet,0.8671226,195.0,198.0
+Certhia americana_Brown Creeper,0.42062244,195.0,198.0
+Regulus satrapa_Golden-crowned Kinglet,0.9900388,196.0,199.0
+Regulus satrapa_Golden-crowned Kinglet,0.99043006,197.0,200.0
+Regulus satrapa_Golden-crowned Kinglet,0.9897251,198.0,201.0
+Regulus satrapa_Golden-crowned Kinglet,0.83632296,199.0,202.0
+Setophaga castanea_Bay-breasted Warbler,0.25322035,200.0,203.0
+Certhia americana_Brown Creeper,0.90711266,201.0,204.0
+Regulus satrapa_Golden-crowned Kinglet,0.2726642,201.0,204.0
+Regulus satrapa_Golden-crowned Kinglet,0.894807,202.0,205.0
+Certhia americana_Brown Creeper,0.4379787,202.0,205.0
+Regulus satrapa_Golden-crowned Kinglet,0.96421856,203.0,206.0
+Regulus satrapa_Golden-crowned Kinglet,0.99317354,204.0,207.0
+Regulus satrapa_Golden-crowned Kinglet,0.9941784,205.0,208.0
+Regulus satrapa_Golden-crowned Kinglet,0.9871306,206.0,209.0
+Poecile atricapillus_Black-capped Chickadee,0.4698423,206.0,209.0
+Regulus satrapa_Golden-crowned Kinglet,0.37067038,207.0,210.0
+Spizella passerina_Chipping Sparrow,0.10022114,207.0,210.0
+Regulus satrapa_Golden-crowned Kinglet,0.35063145,208.0,211.0
+Setophaga occidentalis_Hermit Warbler,0.10096639,208.0,211.0
+Regulus satrapa_Golden-crowned Kinglet,0.9633213,209.0,212.0
+Certhia americana_Brown Creeper,0.36834875,209.0,212.0
+Regulus satrapa_Golden-crowned Kinglet,0.94892025,210.0,213.0
+Certhia americana_Brown Creeper,0.35239044,210.0,213.0
+Regulus satrapa_Golden-crowned Kinglet,0.97569793,211.0,214.0
+Regulus satrapa_Golden-crowned Kinglet,0.9506205,212.0,215.0
+Regulus satrapa_Golden-crowned Kinglet,0.9750835,213.0,216.0
+Regulus satrapa_Golden-crowned Kinglet,0.6314518,214.0,217.0
+Certhia americana_Brown Creeper,0.90229785,215.0,218.0
+Regulus satrapa_Golden-crowned Kinglet,0.4170037,215.0,218.0
+Certhia americana_Brown Creeper,0.9008769,216.0,219.0
+Regulus satrapa_Golden-crowned Kinglet,0.78683186,216.0,219.0
+Regulus satrapa_Golden-crowned Kinglet,0.9474935,217.0,220.0
+Certhia americana_Brown Creeper,0.5437537,217.0,220.0
+Regulus satrapa_Golden-crowned Kinglet,0.9860043,218.0,221.0
+Certhia americana_Brown Creeper,0.12560265,218.0,221.0
+Regulus satrapa_Golden-crowned Kinglet,0.9899748,219.0,222.0
+Regulus satrapa_Golden-crowned Kinglet,0.9907566,220.0,223.0
+Regulus satrapa_Golden-crowned Kinglet,0.85658437,221.0,224.0
+Poecile atricapillus_Black-capped Chickadee,0.2388939,221.0,224.0
+Certhia americana_Brown Creeper,0.16076629,222.0,225.0
+Certhia americana_Brown Creeper,0.97759205,223.0,226.0
+Regulus satrapa_Golden-crowned Kinglet,0.1797061,223.0,226.0
+Certhia americana_Brown Creeper,0.9268636,224.0,227.0
+Regulus satrapa_Golden-crowned Kinglet,0.8730705,224.0,227.0
+Regulus satrapa_Golden-crowned Kinglet,0.9738184,225.0,228.0
+Certhia americana_Brown Creeper,0.16944279,225.0,228.0
+Regulus satrapa_Golden-crowned Kinglet,0.9358054,226.0,229.0
+Regulus satrapa_Golden-crowned Kinglet,0.9489958,227.0,230.0
+Regulus satrapa_Golden-crowned Kinglet,0.7374559,228.0,231.0
+Poecile atricapillus_Black-capped Chickadee,0.1907644,228.0,231.0
+Setophaga occidentalis_Hermit Warbler,0.11578587,229.0,232.0
+Certhia americana_Brown Creeper,0.10703677,229.0,232.0
+Setophaga occidentalis_Hermit Warbler,0.10315714,230.0,233.0
+Certhia americana_Brown Creeper,0.69560164,231.0,234.0
+Regulus satrapa_Golden-crowned Kinglet,0.672053,231.0,234.0
+Regulus satrapa_Golden-crowned Kinglet,0.930746,232.0,235.0
+Certhia americana_Brown Creeper,0.10476639,232.0,235.0
+Regulus satrapa_Golden-crowned Kinglet,0.9937405,233.0,236.0
+Regulus satrapa_Golden-crowned Kinglet,0.9870984,234.0,237.0
+Certhia americana_Brown Creeper,0.105971865,234.0,237.0
+Regulus satrapa_Golden-crowned Kinglet,0.7630965,235.0,238.0
+Setophaga castanea_Bay-breasted Warbler,0.11213035,236.0,239.0
+Seiurus aurocapilla_Ovenbird,0.26061487,238.0,241.0
+Seiurus aurocapilla_Ovenbird,0.10286474,239.0,242.0
+Seiurus aurocapilla_Ovenbird,0.16777746,240.0,243.0
+Setophaga fusca_Blackburnian Warbler,0.14273159,240.0,243.0
+Seiurus aurocapilla_Ovenbird,0.25109613,241.0,244.0
+Setophaga fusca_Blackburnian Warbler,0.17904437,241.0,244.0
+Regulus satrapa_Golden-crowned Kinglet,0.30904296,242.0,245.0
+Setophaga fusca_Blackburnian Warbler,0.1711703,242.0,245.0
+Setophaga fusca_Blackburnian Warbler,0.11759277,243.0,246.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11673886,243.0,246.0
+Setophaga fusca_Blackburnian Warbler,0.2577848,244.0,247.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19633186,244.0,247.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14938115,244.0,247.0
+Setophaga occidentalis_Hermit Warbler,0.15205838,247.0,250.0
+Junco hyemalis_Dark-eyed Junco,0.11038925,247.0,250.0
+Junco hyemalis_Dark-eyed Junco,0.1644403,248.0,251.0
+Certhia americana_Brown Creeper,0.14066948,248.0,251.0
+Piranga olivacea_Scarlet Tanager,0.13352941,251.0,254.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12518844,253.0,256.0
+Certhia americana_Brown Creeper,0.80539525,255.0,258.0
+Certhia americana_Brown Creeper,0.73129123,256.0,259.0
+Regulus satrapa_Golden-crowned Kinglet,0.34821978,256.0,259.0
+Regulus satrapa_Golden-crowned Kinglet,0.9047761,257.0,260.0
+Regulus satrapa_Golden-crowned Kinglet,0.96164113,258.0,261.0
+Regulus satrapa_Golden-crowned Kinglet,0.9723341,259.0,262.0
+Regulus satrapa_Golden-crowned Kinglet,0.8623567,260.0,263.0
+Poecile atricapillus_Black-capped Chickadee,0.49019963,260.0,263.0
+Seiurus aurocapilla_Ovenbird,0.19038683,265.0,268.0
+Piranga olivacea_Scarlet Tanager,0.11793488,265.0,268.0
+Setophaga fusca_Blackburnian Warbler,0.105366044,267.0,270.0
+Setophaga fusca_Blackburnian Warbler,0.2765583,268.0,271.0
+Setophaga castanea_Bay-breasted Warbler,0.23819509,268.0,271.0
+Mniotilta varia_Black-and-white Warbler,0.14137731,268.0,271.0
+Setophaga occidentalis_Hermit Warbler,0.11719762,269.0,272.0
+Certhia americana_Brown Creeper,0.10011537,269.0,272.0
+Regulus satrapa_Golden-crowned Kinglet,0.22659317,270.0,273.0
+Setophaga occidentalis_Hermit Warbler,0.18177032,270.0,273.0
+Certhia americana_Brown Creeper,0.16280815,270.0,273.0
+Regulus satrapa_Golden-crowned Kinglet,0.3169349,271.0,274.0
+Certhia americana_Brown Creeper,0.18933202,271.0,274.0
+Setophaga occidentalis_Hermit Warbler,0.1123677,271.0,274.0
+Turdus migratorius_American Robin,0.22571015,278.0,281.0
+Turdus migratorius_American Robin,0.21121277,279.0,282.0
+Seiurus aurocapilla_Ovenbird,0.30608904,289.0,292.0
+Seiurus aurocapilla_Ovenbird,0.60028315,290.0,293.0
+Seiurus aurocapilla_Ovenbird,0.37479985,291.0,294.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13553448,291.0,294.0
+Seiurus aurocapilla_Ovenbird,0.32462275,292.0,295.0
+Seiurus aurocapilla_Ovenbird,0.23346514,293.0,296.0
+Certhia americana_Brown Creeper,0.6966409,295.0,298.0
+Regulus satrapa_Golden-crowned Kinglet,0.36213925,295.0,298.0
+Regulus satrapa_Golden-crowned Kinglet,0.94662124,296.0,299.0
+Regulus satrapa_Golden-crowned Kinglet,0.99349266,297.0,300.0
+Poecile gambeli_Mountain Chickadee,0.12760781,297.0,300.0
+Regulus satrapa_Golden-crowned Kinglet,0.9888742,298.0,301.0
+Regulus satrapa_Golden-crowned Kinglet,0.9469887,299.0,302.0
+Poecile atricapillus_Black-capped Chickadee,0.12738453,299.0,302.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12570767,300.0,303.0
+Seiurus aurocapilla_Ovenbird,0.10104008,300.0,303.0
+Regulus satrapa_Golden-crowned Kinglet,0.6806631,303.0,306.0
+Certhia americana_Brown Creeper,0.60069746,303.0,306.0
+Regulus satrapa_Golden-crowned Kinglet,0.89653796,304.0,307.0
+Certhia americana_Brown Creeper,0.2532516,304.0,307.0
+Regulus satrapa_Golden-crowned Kinglet,0.9869163,305.0,308.0
+Regulus satrapa_Golden-crowned Kinglet,0.9796029,306.0,309.0
+Regulus satrapa_Golden-crowned Kinglet,0.53753716,307.0,310.0
+Poecile atricapillus_Black-capped Chickadee,0.13982284,307.0,310.0
+Seiurus aurocapilla_Ovenbird,0.19923301,308.0,311.0
+Seiurus aurocapilla_Ovenbird,0.3671615,309.0,312.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12234392,309.0,312.0
+Certhia americana_Brown Creeper,0.84257454,310.0,313.0
+Regulus satrapa_Golden-crowned Kinglet,0.7971621,310.0,313.0
+Regulus satrapa_Golden-crowned Kinglet,0.9640539,311.0,314.0
+Regulus satrapa_Golden-crowned Kinglet,0.98754895,312.0,315.0
+Regulus satrapa_Golden-crowned Kinglet,0.9867966,313.0,316.0
+Regulus satrapa_Golden-crowned Kinglet,0.98594046,314.0,317.0
+Poecile atricapillus_Black-capped Chickadee,0.8368366,315.0,318.0
+Regulus satrapa_Golden-crowned Kinglet,0.5846751,315.0,318.0
+Certhia americana_Brown Creeper,0.5042875,316.0,319.0
+Certhia americana_Brown Creeper,0.14259462,317.0,320.0
+Certhia americana_Brown Creeper,0.8543136,318.0,321.0
+Regulus satrapa_Golden-crowned Kinglet,0.7023015,318.0,321.0
+Regulus satrapa_Golden-crowned Kinglet,0.8338066,319.0,322.0
+Certhia americana_Brown Creeper,0.5591593,319.0,322.0
+Regulus satrapa_Golden-crowned Kinglet,0.9828188,320.0,323.0
+Regulus satrapa_Golden-crowned Kinglet,0.9895459,321.0,324.0
+Regulus satrapa_Golden-crowned Kinglet,0.98058504,322.0,325.0
+Regulus satrapa_Golden-crowned Kinglet,0.4109254,323.0,326.0
+Poecile rufescens_Chestnut-backed Chickadee,0.1678594,323.0,326.0
+Seiurus aurocapilla_Ovenbird,0.35251716,324.0,327.0
+Regulus satrapa_Golden-crowned Kinglet,0.12769823,324.0,327.0
+Seiurus aurocapilla_Ovenbird,0.10644748,325.0,328.0
+Regulus satrapa_Golden-crowned Kinglet,0.2572383,326.0,329.0
+Certhia americana_Brown Creeper,0.8410179,327.0,330.0
+Regulus satrapa_Golden-crowned Kinglet,0.3811463,327.0,330.0
+Poecile carolinensis_Carolina Chickadee,0.17940886,327.0,330.0
+Regulus satrapa_Golden-crowned Kinglet,0.9710627,328.0,331.0
+Certhia americana_Brown Creeper,0.6519251,328.0,331.0
+Certhia americana_Brown Creeper,0.894366,329.0,332.0
+Regulus satrapa_Golden-crowned Kinglet,0.85366774,329.0,332.0
+Certhia americana_Brown Creeper,0.9569384,330.0,333.0
+Regulus satrapa_Golden-crowned Kinglet,0.5924871,330.0,333.0
+Certhia americana_Brown Creeper,0.5262358,331.0,334.0
+Regulus satrapa_Golden-crowned Kinglet,0.13830486,331.0,334.0
+Setophaga fusca_Blackburnian Warbler,0.12482634,331.0,334.0
+Seiurus aurocapilla_Ovenbird,0.4587733,332.0,335.0
+Quiscalus quiscula_Common Grackle,0.120123796,338.0,341.0
+Regulus satrapa_Golden-crowned Kinglet,0.63531846,339.0,342.0
+Certhia americana_Brown Creeper,0.3588671,339.0,342.0
+Regulus satrapa_Golden-crowned Kinglet,0.95122975,340.0,343.0
+Regulus satrapa_Golden-crowned Kinglet,0.98828053,341.0,344.0
+Regulus satrapa_Golden-crowned Kinglet,0.97039783,342.0,345.0
+Seiurus aurocapilla_Ovenbird,0.43755132,344.0,347.0
+Seiurus aurocapilla_Ovenbird,0.41419202,345.0,348.0
+Seiurus aurocapilla_Ovenbird,0.6704392,346.0,349.0
+Certhia americana_Brown Creeper,0.42864257,347.0,350.0
+Regulus satrapa_Golden-crowned Kinglet,0.94401467,348.0,351.0
+Certhia americana_Brown Creeper,0.4231721,348.0,351.0
+Regulus satrapa_Golden-crowned Kinglet,0.99314064,349.0,352.0
+Regulus satrapa_Golden-crowned Kinglet,0.99442106,350.0,353.0
+Regulus satrapa_Golden-crowned Kinglet,0.9915798,351.0,354.0
+Poecile gambeli_Mountain Chickadee,0.66582996,352.0,355.0
+Chaetura vauxi_Vaux's Swift,0.23624435,353.0,356.0
+Bombycilla cedrorum_Cedar Waxwing,0.15941477,353.0,356.0
+Certhia americana_Brown Creeper,0.9227118,355.0,358.0
+Poecile carolinensis_Carolina Chickadee,0.5147954,355.0,358.0
+Regulus satrapa_Golden-crowned Kinglet,0.12454937,355.0,358.0
+Regulus satrapa_Golden-crowned Kinglet,0.82323205,356.0,359.0
+Certhia americana_Brown Creeper,0.801933,356.0,359.0
+Regulus satrapa_Golden-crowned Kinglet,0.98422563,357.0,360.0
+Regulus satrapa_Golden-crowned Kinglet,0.98159146,358.0,361.0
+Regulus satrapa_Golden-crowned Kinglet,0.9664981,359.0,362.0
+Setophaga fusca_Blackburnian Warbler,0.19667174,360.0,363.0
+Setophaga tigrina_Cape May Warbler,0.17221549,360.0,363.0
+Setophaga castanea_Bay-breasted Warbler,0.1659148,360.0,363.0
+Setophaga striata_Blackpoll Warbler,0.115140095,360.0,363.0
+Mniotilta varia_Black-and-white Warbler,0.10063545,360.0,363.0
+Seiurus aurocapilla_Ovenbird,0.6293273,361.0,364.0
+Certhia americana_Brown Creeper,0.20604245,362.0,365.0
+Regulus satrapa_Golden-crowned Kinglet,0.13733023,362.0,365.0
+Setophaga tigrina_Cape May Warbler,0.10928006,362.0,365.0
+Regulus satrapa_Golden-crowned Kinglet,0.9276201,363.0,366.0
+Certhia americana_Brown Creeper,0.88401896,363.0,366.0
+Regulus satrapa_Golden-crowned Kinglet,0.9862379,364.0,367.0
+Certhia americana_Brown Creeper,0.18696444,364.0,367.0
+Regulus satrapa_Golden-crowned Kinglet,0.9931657,365.0,368.0
+Regulus satrapa_Golden-crowned Kinglet,0.9934243,366.0,369.0
+Regulus satrapa_Golden-crowned Kinglet,0.9067484,367.0,370.0
+Poecile atricapillus_Black-capped Chickadee,0.16051465,367.0,370.0
+Seiurus aurocapilla_Ovenbird,0.31497616,368.0,371.0
+Certhia americana_Brown Creeper,0.5310323,371.0,374.0
+Regulus satrapa_Golden-crowned Kinglet,0.276448,371.0,374.0
+Regulus satrapa_Golden-crowned Kinglet,0.69107187,372.0,375.0
+Certhia americana_Brown Creeper,0.5528247,372.0,375.0
+Regulus satrapa_Golden-crowned Kinglet,0.93782234,373.0,376.0
+Regulus satrapa_Golden-crowned Kinglet,0.9822482,374.0,377.0
+Regulus satrapa_Golden-crowned Kinglet,0.9346879,375.0,378.0
+Seiurus aurocapilla_Ovenbird,0.3340931,376.0,379.0
+Regulus satrapa_Golden-crowned Kinglet,0.16553117,376.0,379.0
+Setophaga fusca_Blackburnian Warbler,0.10070992,376.0,379.0
+Seiurus aurocapilla_Ovenbird,0.21501732,377.0,380.0
+Setophaga tigrina_Cape May Warbler,0.12870008,377.0,380.0
+Certhia americana_Brown Creeper,0.81036377,378.0,381.0
+Regulus satrapa_Golden-crowned Kinglet,0.7960454,378.0,381.0
+Regulus satrapa_Golden-crowned Kinglet,0.97887075,379.0,382.0
+Certhia americana_Brown Creeper,0.21024537,379.0,382.0
+Regulus satrapa_Golden-crowned Kinglet,0.9841935,380.0,383.0
+Regulus satrapa_Golden-crowned Kinglet,0.9614985,381.0,384.0
+Regulus satrapa_Golden-crowned Kinglet,0.8836476,382.0,385.0
+Poecile atricapillus_Black-capped Chickadee,0.11459033,382.0,385.0
+Seiurus aurocapilla_Ovenbird,0.18168494,383.0,386.0
+Certhia americana_Brown Creeper,0.1265918,383.0,386.0
+Setophaga tigrina_Cape May Warbler,0.3480105,384.0,387.0
+Seiurus aurocapilla_Ovenbird,0.31347445,384.0,387.0
+Certhia americana_Brown Creeper,0.26948696,384.0,387.0
+Regulus satrapa_Golden-crowned Kinglet,0.13473508,384.0,387.0
+Regulus satrapa_Golden-crowned Kinglet,0.9211495,385.0,388.0
+Certhia americana_Brown Creeper,0.8765967,385.0,388.0
+Regulus satrapa_Golden-crowned Kinglet,0.97506803,386.0,389.0
+Certhia americana_Brown Creeper,0.3299597,386.0,389.0
+Regulus satrapa_Golden-crowned Kinglet,0.9871716,387.0,390.0
+Regulus satrapa_Golden-crowned Kinglet,0.9934727,388.0,391.0
+Regulus satrapa_Golden-crowned Kinglet,0.94203705,389.0,392.0
+Poecile atricapillus_Black-capped Chickadee,0.28441733,389.0,392.0
+Seiurus aurocapilla_Ovenbird,0.29404032,391.0,394.0
+Seiurus aurocapilla_Ovenbird,0.6205731,392.0,395.0
+Seiurus aurocapilla_Ovenbird,0.34117296,393.0,396.0
+Setophaga fusca_Blackburnian Warbler,0.30425495,393.0,396.0
+Certhia americana_Brown Creeper,0.10244642,393.0,396.0
+Certhia americana_Brown Creeper,0.80653495,394.0,397.0
+Regulus satrapa_Golden-crowned Kinglet,0.23265567,394.0,397.0
+Seiurus aurocapilla_Ovenbird,0.15626362,394.0,397.0
+Certhia americana_Brown Creeper,0.7808958,395.0,398.0
+Regulus satrapa_Golden-crowned Kinglet,0.12657268,395.0,398.0
+Setophaga fusca_Blackburnian Warbler,0.119518764,395.0,398.0
+Certhia americana_Brown Creeper,0.8061739,396.0,399.0
+Certhia americana_Brown Creeper,0.8829669,397.0,400.0
+Certhia americana_Brown Creeper,0.9576576,398.0,401.0
+Certhia americana_Brown Creeper,0.89020306,399.0,402.0
+Regulus satrapa_Golden-crowned Kinglet,0.6171989,400.0,403.0
+Certhia americana_Brown Creeper,0.3877723,400.0,403.0
+Regulus satrapa_Golden-crowned Kinglet,0.96498924,401.0,404.0
+Regulus satrapa_Golden-crowned Kinglet,0.98418945,402.0,405.0
+Regulus satrapa_Golden-crowned Kinglet,0.97218406,403.0,406.0
+Regulus satrapa_Golden-crowned Kinglet,0.285931,404.0,407.0
+Poecile atricapillus_Black-capped Chickadee,0.17908598,404.0,407.0
+Seiurus aurocapilla_Ovenbird,0.40730375,405.0,408.0
+Seiurus aurocapilla_Ovenbird,0.44011673,406.0,409.0
+Regulus satrapa_Golden-crowned Kinglet,0.68198746,407.0,410.0
+Certhia americana_Brown Creeper,0.43716702,407.0,410.0
+Certhia hodgsoni_Hodgson's Treecreeper,0.11349829,407.0,410.0
+Regulus satrapa_Golden-crowned Kinglet,0.94137377,408.0,411.0
+Regulus satrapa_Golden-crowned Kinglet,0.9859784,409.0,412.0
+Regulus satrapa_Golden-crowned Kinglet,0.99160165,410.0,413.0
+Regulus satrapa_Golden-crowned Kinglet,0.6074934,411.0,414.0
+Seiurus aurocapilla_Ovenbird,0.4697579,412.0,415.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10648762,412.0,415.0
+Certhia americana_Brown Creeper,0.5677123,413.0,416.0
+Seiurus aurocapilla_Ovenbird,0.101581134,413.0,416.0
+Certhia americana_Brown Creeper,0.9066489,414.0,417.0
+Regulus satrapa_Golden-crowned Kinglet,0.60871947,414.0,417.0
+Regulus satrapa_Golden-crowned Kinglet,0.95151365,415.0,418.0
+Certhia americana_Brown Creeper,0.45894068,415.0,418.0
+Regulus satrapa_Golden-crowned Kinglet,0.99468505,416.0,419.0
+Certhia americana_Brown Creeper,0.1674395,416.0,419.0
+Regulus satrapa_Golden-crowned Kinglet,0.97804147,417.0,420.0
+Certhia americana_Brown Creeper,0.24684253,417.0,420.0
+Regulus satrapa_Golden-crowned Kinglet,0.2585137,418.0,421.0
+Setophaga tigrina_Cape May Warbler,0.17196749,418.0,421.0
+Seiurus aurocapilla_Ovenbird,0.3936708,419.0,422.0
+Sitta carolinensis_White-breasted Nuthatch,0.7204634,420.0,423.0
+Sitta canadensis_Red-breasted Nuthatch,0.25904983,420.0,423.0
+Sitta carolinensis_White-breasted Nuthatch,0.16143993,421.0,424.0
+Seiurus aurocapilla_Ovenbird,0.11846908,421.0,424.0
+Sitta carolinensis_White-breasted Nuthatch,0.20903675,422.0,425.0
+Seiurus aurocapilla_Ovenbird,0.13498886,422.0,425.0
+Seiurus aurocapilla_Ovenbird,0.11453196,424.0,427.0
+Sitta canadensis_Red-breasted Nuthatch,0.21220118,425.0,428.0
+Sitta canadensis_Red-breasted Nuthatch,0.1785395,426.0,429.0
+Sitta canadensis_Red-breasted Nuthatch,0.28513432,427.0,430.0
+Certhia americana_Brown Creeper,0.22171445,427.0,430.0
+Certhia americana_Brown Creeper,0.8035629,428.0,431.0
+Sitta canadensis_Red-breasted Nuthatch,0.30355752,428.0,431.0
+Regulus satrapa_Golden-crowned Kinglet,0.2982715,428.0,431.0
+Certhia americana_Brown Creeper,0.76297396,429.0,432.0
+Sitta canadensis_Red-breasted Nuthatch,0.5285128,429.0,432.0
+Regulus satrapa_Golden-crowned Kinglet,0.1782008,429.0,432.0
+Certhia americana_Brown Creeper,0.8621792,430.0,433.0
+Regulus satrapa_Golden-crowned Kinglet,0.16200557,430.0,433.0
+Sitta canadensis_Red-breasted Nuthatch,0.10932541,430.0,433.0
+Sitta canadensis_Red-breasted Nuthatch,0.7974838,431.0,434.0
+Certhia americana_Brown Creeper,0.47122887,432.0,435.0
+Regulus satrapa_Golden-crowned Kinglet,0.9286655,433.0,436.0
+Regulus satrapa_Golden-crowned Kinglet,0.98135126,434.0,437.0
+Regulus satrapa_Golden-crowned Kinglet,0.9847574,435.0,438.0
+Regulus satrapa_Golden-crowned Kinglet,0.97250926,436.0,439.0
+Regulus satrapa_Golden-crowned Kinglet,0.6825275,437.0,440.0
+Poecile atricapillus_Black-capped Chickadee,0.37287614,437.0,440.0
+Seiurus aurocapilla_Ovenbird,0.28031334,437.0,440.0
+Sitta canadensis_Red-breasted Nuthatch,0.10846701,437.0,440.0
+Seiurus aurocapilla_Ovenbird,0.24366395,438.0,441.0
+Sitta canadensis_Red-breasted Nuthatch,0.17327589,438.0,441.0
+Setophaga citrina_Hooded Warbler,0.13176095,438.0,441.0
+Sitta canadensis_Red-breasted Nuthatch,0.81052804,439.0,442.0
+Sitta canadensis_Red-breasted Nuthatch,0.47638553,440.0,443.0
+Certhia americana_Brown Creeper,0.95375204,441.0,444.0
+Regulus satrapa_Golden-crowned Kinglet,0.34046167,441.0,444.0
+Sitta canadensis_Red-breasted Nuthatch,0.10509206,441.0,444.0
+Regulus satrapa_Golden-crowned Kinglet,0.9649575,442.0,445.0
+Certhia americana_Brown Creeper,0.11146486,442.0,445.0
+Regulus satrapa_Golden-crowned Kinglet,0.9802831,443.0,446.0
+Regulus satrapa_Golden-crowned Kinglet,0.99535525,444.0,447.0
+Regulus satrapa_Golden-crowned Kinglet,0.9802951,445.0,448.0
+Poecile gambeli_Mountain Chickadee,0.17712913,446.0,449.0
+Sitta canadensis_Red-breasted Nuthatch,0.7763015,447.0,450.0
+Certhia americana_Brown Creeper,0.9715953,449.0,452.0
+Regulus satrapa_Golden-crowned Kinglet,0.3428422,449.0,452.0
+Regulus satrapa_Golden-crowned Kinglet,0.905049,450.0,453.0
+Certhia americana_Brown Creeper,0.33581865,450.0,453.0
+Certhia americana_Brown Creeper,0.9057918,451.0,454.0
+Regulus satrapa_Golden-crowned Kinglet,0.87364787,451.0,454.0
+Certhia americana_Brown Creeper,0.9186572,452.0,455.0
+Regulus satrapa_Golden-crowned Kinglet,0.88496834,452.0,455.0
+Certhia americana_Brown Creeper,0.57076156,453.0,456.0
+Regulus satrapa_Golden-crowned Kinglet,0.4290654,453.0,456.0
+Setophaga fusca_Blackburnian Warbler,0.111007355,453.0,456.0
+Sitta canadensis_Red-breasted Nuthatch,0.6858027,455.0,458.0
+Certhia americana_Brown Creeper,0.9325835,456.0,459.0
+Regulus satrapa_Golden-crowned Kinglet,0.47943494,456.0,459.0
+Regulus satrapa_Golden-crowned Kinglet,0.97343713,457.0,460.0
+Regulus satrapa_Golden-crowned Kinglet,0.9908825,458.0,461.0
+Regulus satrapa_Golden-crowned Kinglet,0.986318,459.0,462.0
+Regulus satrapa_Golden-crowned Kinglet,0.70498943,460.0,463.0
+Seiurus aurocapilla_Ovenbird,0.15650125,461.0,464.0
+Setophaga fusca_Blackburnian Warbler,0.121675774,461.0,464.0
+Seiurus aurocapilla_Ovenbird,0.15233289,462.0,465.0
+Sitta canadensis_Red-breasted Nuthatch,0.22934744,463.0,466.0
+Sitta canadensis_Red-breasted Nuthatch,0.3108613,464.0,467.0
+Certhia americana_Brown Creeper,0.26395977,465.0,468.0
+Sitta canadensis_Red-breasted Nuthatch,0.11633337,465.0,468.0
+Certhia americana_Brown Creeper,0.43841293,466.0,469.0
+Regulus satrapa_Golden-crowned Kinglet,0.17450732,466.0,469.0
+Setophaga tigrina_Cape May Warbler,0.15319516,466.0,469.0
+Certhia americana_Brown Creeper,0.7415029,467.0,470.0
+Regulus satrapa_Golden-crowned Kinglet,0.72284347,467.0,470.0
+Regulus satrapa_Golden-crowned Kinglet,0.91643983,468.0,471.0
+Certhia americana_Brown Creeper,0.85827297,468.0,471.0
+Regulus satrapa_Golden-crowned Kinglet,0.89027095,469.0,472.0
+Certhia americana_Brown Creeper,0.7554468,469.0,472.0
+Regulus satrapa_Golden-crowned Kinglet,0.89494854,470.0,473.0
+Certhia americana_Brown Creeper,0.41076183,470.0,473.0
+Regulus ignicapilla_Common Firecrest,0.13900594,471.0,474.0
+Setophaga castanea_Bay-breasted Warbler,0.12894805,471.0,474.0
+Regulus satrapa_Golden-crowned Kinglet,0.12284314,471.0,474.0
+Seiurus aurocapilla_Ovenbird,0.18513322,472.0,475.0
+Seiurus aurocapilla_Ovenbird,0.19546254,473.0,476.0
+Seiurus aurocapilla_Ovenbird,0.18807486,474.0,477.0
+Certhia americana_Brown Creeper,0.105248526,474.0,477.0
+Certhia americana_Brown Creeper,0.7625874,475.0,478.0
+Regulus satrapa_Golden-crowned Kinglet,0.5082417,475.0,478.0
+Regulus satrapa_Golden-crowned Kinglet,0.8713422,476.0,479.0
+Certhia americana_Brown Creeper,0.3007134,476.0,479.0
+Regulus satrapa_Golden-crowned Kinglet,0.96007496,477.0,480.0
+Regulus satrapa_Golden-crowned Kinglet,0.97205734,478.0,481.0
+Regulus satrapa_Golden-crowned Kinglet,0.6267729,479.0,482.0
+Poecile atricapillus_Black-capped Chickadee,0.11998502,479.0,482.0
+Sitta canadensis_Red-breasted Nuthatch,0.26421383,480.0,483.0
+Mniotilta varia_Black-and-white Warbler,0.18652692,480.0,483.0
+Setophaga fusca_Blackburnian Warbler,0.13942517,480.0,483.0
+Setophaga fusca_Blackburnian Warbler,0.26457146,481.0,484.0
+Setophaga fusca_Blackburnian Warbler,0.7054282,482.0,485.0
+Setophaga tigrina_Cape May Warbler,0.21635503,482.0,485.0
+Sitta canadensis_Red-breasted Nuthatch,0.8887562,483.0,486.0
+Sitta canadensis_Red-breasted Nuthatch,0.36341733,484.0,487.0
+Sitta canadensis_Red-breasted Nuthatch,0.5454016,485.0,488.0
+Seiurus aurocapilla_Ovenbird,0.12569796,485.0,488.0
+Regulus satrapa_Golden-crowned Kinglet,0.90016735,486.0,489.0
+Certhia americana_Brown Creeper,0.5729782,486.0,489.0
+Regulus satrapa_Golden-crowned Kinglet,0.98644036,487.0,490.0
+Certhia americana_Brown Creeper,0.14384839,487.0,490.0
+Regulus satrapa_Golden-crowned Kinglet,0.9939365,488.0,491.0
+Regulus satrapa_Golden-crowned Kinglet,0.9919789,489.0,492.0
+Regulus satrapa_Golden-crowned Kinglet,0.8171064,490.0,493.0
+Poecile atricapillus_Black-capped Chickadee,0.1574861,490.0,493.0
+Poecile atricapillus_Black-capped Chickadee,0.36565557,491.0,494.0
+Regulus satrapa_Golden-crowned Kinglet,0.22522788,491.0,494.0
+Sitta canadensis_Red-breasted Nuthatch,0.12242157,491.0,494.0
+Regulus satrapa_Golden-crowned Kinglet,0.107682765,492.0,495.0
+Regulus satrapa_Golden-crowned Kinglet,0.424003,493.0,496.0
+Certhia americana_Brown Creeper,0.14263672,493.0,496.0
+Setophaga tigrina_Cape May Warbler,0.12074607,493.0,496.0
+Regulus satrapa_Golden-crowned Kinglet,0.13099895,495.0,498.0
+Sitta carolinensis_White-breasted Nuthatch,0.26187697,496.0,499.0
+Sitta canadensis_Red-breasted Nuthatch,0.16005713,496.0,499.0
+Sitta carolinensis_White-breasted Nuthatch,0.22834033,497.0,500.0
+Sitta canadensis_Red-breasted Nuthatch,0.1616846,497.0,500.0
+Certhia americana_Brown Creeper,0.10410052,497.0,500.0
+Seiurus aurocapilla_Ovenbird,0.21268539,498.0,501.0
+Seiurus aurocapilla_Ovenbird,0.28408924,499.0,502.0
+Sitta carolinensis_White-breasted Nuthatch,0.13642155,499.0,502.0
+Seiurus aurocapilla_Ovenbird,0.46257332,500.0,503.0
+Seiurus aurocapilla_Ovenbird,0.28026503,501.0,504.0
+Seiurus aurocapilla_Ovenbird,0.2589623,502.0,505.0
+Seiurus aurocapilla_Ovenbird,0.26678434,503.0,506.0
+Piranga olivacea_Scarlet Tanager,0.10930296,503.0,506.0
+Seiurus aurocapilla_Ovenbird,0.3787925,504.0,507.0
+Seiurus aurocapilla_Ovenbird,0.1600682,505.0,508.0
+Seiurus aurocapilla_Ovenbird,0.20411026,506.0,509.0
+Seiurus aurocapilla_Ovenbird,0.10294309,507.0,510.0
+Certhia americana_Brown Creeper,0.13179864,508.0,511.0
+Setophaga virens_Black-throated Green Warbler,0.14075592,509.0,512.0
+Certhia americana_Brown Creeper,0.12692152,509.0,512.0
+Setophaga virens_Black-throated Green Warbler,0.12439866,510.0,513.0
+Mniotilta varia_Black-and-white Warbler,0.10306748,510.0,513.0
+Setophaga virens_Black-throated Green Warbler,0.13152695,511.0,514.0
+Sitta canadensis_Red-breasted Nuthatch,0.20996846,513.0,516.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10377778,515.0,518.0
+Poecile carolinensis_Carolina Chickadee,0.10348942,516.0,519.0
+Certhia americana_Brown Creeper,0.8332019,517.0,520.0
+Regulus satrapa_Golden-crowned Kinglet,0.96035236,518.0,521.0
+Certhia americana_Brown Creeper,0.7215731,518.0,521.0
+Regulus satrapa_Golden-crowned Kinglet,0.9943587,519.0,522.0
+Regulus satrapa_Golden-crowned Kinglet,0.9922644,520.0,523.0
+Regulus satrapa_Golden-crowned Kinglet,0.9599444,521.0,524.0
+Regulus satrapa_Golden-crowned Kinglet,0.1671194,523.0,526.0
+Regulus satrapa_Golden-crowned Kinglet,0.44393775,524.0,527.0
+Setophaga tigrina_Cape May Warbler,0.17343104,524.0,527.0
+Certhia americana_Brown Creeper,0.11314635,524.0,527.0
+Setophaga fusca_Blackburnian Warbler,0.110100314,524.0,527.0
+Certhia americana_Brown Creeper,0.21954773,525.0,528.0
+Regulus satrapa_Golden-crowned Kinglet,0.12646505,525.0,528.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11300465,525.0,528.0
+Certhia americana_Brown Creeper,0.16977143,526.0,529.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10395325,526.0,529.0
+Seiurus aurocapilla_Ovenbird,0.17021835,527.0,530.0
+Certhia americana_Brown Creeper,0.13975145,527.0,530.0
+Seiurus aurocapilla_Ovenbird,0.31639406,528.0,531.0
+Certhia americana_Brown Creeper,0.9523184,529.0,532.0
+Regulus satrapa_Golden-crowned Kinglet,0.86779195,529.0,532.0
+Regulus satrapa_Golden-crowned Kinglet,0.9704021,530.0,533.0
+Certhia americana_Brown Creeper,0.5856694,530.0,533.0
+Regulus satrapa_Golden-crowned Kinglet,0.9652184,531.0,534.0
+Certhia americana_Brown Creeper,0.2205491,531.0,534.0
+Regulus satrapa_Golden-crowned Kinglet,0.944057,532.0,535.0
+Sitta canadensis_Red-breasted Nuthatch,0.45637724,533.0,536.0
+Poecile atricapillus_Black-capped Chickadee,0.2777269,533.0,536.0
+Regulus satrapa_Golden-crowned Kinglet,0.11390268,533.0,536.0
+Sitta canadensis_Red-breasted Nuthatch,0.7540129,534.0,537.0
+Sitta canadensis_Red-breasted Nuthatch,0.85495496,535.0,538.0
+Sitta canadensis_Red-breasted Nuthatch,0.87006956,536.0,539.0
+Certhia americana_Brown Creeper,0.24010396,536.0,539.0
+Regulus satrapa_Golden-crowned Kinglet,0.8667098,537.0,540.0
+Sitta canadensis_Red-breasted Nuthatch,0.4090916,537.0,540.0
+Regulus satrapa_Golden-crowned Kinglet,0.98458177,538.0,541.0
+Sitta canadensis_Red-breasted Nuthatch,0.52816767,538.0,541.0
+Regulus satrapa_Golden-crowned Kinglet,0.9897227,539.0,542.0
+Sitta canadensis_Red-breasted Nuthatch,0.4073718,539.0,542.0
+Regulus satrapa_Golden-crowned Kinglet,0.9570996,540.0,543.0
+Sitta canadensis_Red-breasted Nuthatch,0.437996,540.0,543.0
+Poecile sclateri_Mexican Chickadee,0.33965644,541.0,544.0
+Sitta carolinensis_White-breasted Nuthatch,0.19293451,541.0,544.0
+Poecile gambeli_Mountain Chickadee,0.102701135,541.0,544.0
+Certhia americana_Brown Creeper,0.91495174,543.0,546.0
+Regulus satrapa_Golden-crowned Kinglet,0.25510383,543.0,546.0
+Certhia americana_Brown Creeper,0.8895481,544.0,547.0
+Regulus satrapa_Golden-crowned Kinglet,0.6725385,544.0,547.0
+Regulus satrapa_Golden-crowned Kinglet,0.97955966,545.0,548.0
+Regulus satrapa_Golden-crowned Kinglet,0.9884113,546.0,549.0
+Regulus satrapa_Golden-crowned Kinglet,0.99531674,547.0,550.0
+Regulus satrapa_Golden-crowned Kinglet,0.82663894,548.0,551.0
+Poecile carolinensis_Carolina Chickadee,0.40859917,548.0,551.0
+Poecile atricapillus_Black-capped Chickadee,0.12390542,548.0,551.0
+Sitta canadensis_Red-breasted Nuthatch,0.10822335,549.0,552.0
+Sitta canadensis_Red-breasted Nuthatch,0.3940296,550.0,553.0
+Sicalis flaveola_Saffron Finch,0.12593529,550.0,553.0
+Sitta canadensis_Red-breasted Nuthatch,0.39064452,551.0,554.0
+Regulus satrapa_Golden-crowned Kinglet,0.18131122,551.0,554.0
+Certhia americana_Brown Creeper,0.88801914,552.0,555.0
+Regulus satrapa_Golden-crowned Kinglet,0.45128837,552.0,555.0
+Sitta canadensis_Red-breasted Nuthatch,0.15255268,552.0,555.0
+Certhia americana_Brown Creeper,0.8443012,553.0,556.0
+Regulus satrapa_Golden-crowned Kinglet,0.4081047,553.0,556.0
+Regulus satrapa_Golden-crowned Kinglet,0.92346656,554.0,557.0
+Certhia americana_Brown Creeper,0.16561094,554.0,557.0
+Regulus satrapa_Golden-crowned Kinglet,0.9880497,555.0,558.0
+Regulus satrapa_Golden-crowned Kinglet,0.99422556,556.0,559.0
+Regulus satrapa_Golden-crowned Kinglet,0.7320254,557.0,560.0
+Poecile atricapillus_Black-capped Chickadee,0.14560279,557.0,560.0
+Poecile carolinensis_Carolina Chickadee,0.12709069,557.0,560.0
+Setophaga tigrina_Cape May Warbler,0.3590966,558.0,561.0
+Regulus satrapa_Golden-crowned Kinglet,0.21132216,558.0,561.0
+Certhia americana_Brown Creeper,0.1671085,558.0,561.0
+Setophaga tigrina_Cape May Warbler,0.24451514,559.0,562.0
+Regulus satrapa_Golden-crowned Kinglet,0.16609675,559.0,562.0
+Regulus satrapa_Golden-crowned Kinglet,0.4464121,560.0,563.0
+Certhia americana_Brown Creeper,0.23151931,560.0,563.0
+Setophaga tigrina_Cape May Warbler,0.14646323,560.0,563.0
+Regulus satrapa_Golden-crowned Kinglet,0.33147272,561.0,564.0
+Sitta canadensis_Red-breasted Nuthatch,0.20984249,561.0,564.0
+Certhia americana_Brown Creeper,0.10245744,561.0,564.0
+Certhia americana_Brown Creeper,0.9076967,562.0,565.0
+Regulus satrapa_Golden-crowned Kinglet,0.8229804,562.0,565.0
+Regulus satrapa_Golden-crowned Kinglet,0.9165979,563.0,566.0
+Certhia americana_Brown Creeper,0.47098953,563.0,566.0
+Regulus satrapa_Golden-crowned Kinglet,0.9381994,564.0,567.0
+Regulus satrapa_Golden-crowned Kinglet,0.9789234,565.0,568.0
+Regulus satrapa_Golden-crowned Kinglet,0.69847596,566.0,569.0
+Sitta canadensis_Red-breasted Nuthatch,0.2758469,567.0,570.0
+Regulus satrapa_Golden-crowned Kinglet,0.15451428,567.0,570.0
+Baeolophus atricristatus_Black-crested Titmouse,0.10354688,567.0,570.0
+Regulus satrapa_Golden-crowned Kinglet,0.22907023,568.0,571.0
+Certhia americana_Brown Creeper,0.14682035,568.0,571.0
+Sitta canadensis_Red-breasted Nuthatch,0.43804935,569.0,572.0
+Regulus satrapa_Golden-crowned Kinglet,0.11507285,569.0,572.0
+Regulus satrapa_Golden-crowned Kinglet,0.58307284,570.0,573.0
+Sitta canadensis_Red-breasted Nuthatch,0.39881557,570.0,573.0
+Certhia americana_Brown Creeper,0.33677,570.0,573.0
+Certhia americana_Brown Creeper,0.8426134,571.0,574.0
+Regulus satrapa_Golden-crowned Kinglet,0.6167827,571.0,574.0
+Certhia americana_Brown Creeper,0.9620355,572.0,575.0
+Regulus satrapa_Golden-crowned Kinglet,0.55072135,572.0,575.0
+Regulus satrapa_Golden-crowned Kinglet,0.9472483,573.0,576.0
+Certhia americana_Brown Creeper,0.89760625,573.0,576.0
+Regulus satrapa_Golden-crowned Kinglet,0.9844646,574.0,577.0
+Regulus satrapa_Golden-crowned Kinglet,0.9816985,575.0,578.0
+Regulus satrapa_Golden-crowned Kinglet,0.9692481,576.0,579.0
+Poecile atricapillus_Black-capped Chickadee,0.41681206,577.0,580.0
+Regulus satrapa_Golden-crowned Kinglet,0.34735432,577.0,580.0
+Baeolophus wollweberi_Bridled Titmouse,0.23190309,577.0,580.0
+Poecile carolinensis_Carolina Chickadee,0.14303276,577.0,580.0
+Sitta canadensis_Red-breasted Nuthatch,0.31618834,578.0,581.0
+Regulus satrapa_Golden-crowned Kinglet,0.29277763,578.0,581.0
+Certhia americana_Brown Creeper,0.18155476,578.0,581.0
+Certhia americana_Brown Creeper,0.48919505,579.0,582.0
+Regulus satrapa_Golden-crowned Kinglet,0.34660742,579.0,582.0
+Setophaga tigrina_Cape May Warbler,0.17550388,579.0,582.0
+Setophaga tigrina_Cape May Warbler,0.2314252,580.0,583.0
+Regulus satrapa_Golden-crowned Kinglet,0.1457412,580.0,583.0
+Sitta canadensis_Red-breasted Nuthatch,0.59168047,581.0,584.0
+Regulus satrapa_Golden-crowned Kinglet,0.2217542,581.0,584.0
+Certhia americana_Brown Creeper,0.15582162,581.0,584.0
+Certhia americana_Brown Creeper,0.874246,582.0,585.0
+Regulus satrapa_Golden-crowned Kinglet,0.22675176,582.0,585.0
+Baeolophus atricristatus_Black-crested Titmouse,0.16298258,582.0,585.0
+Sitta canadensis_Red-breasted Nuthatch,0.1578805,582.0,585.0
+Regulus satrapa_Golden-crowned Kinglet,0.9229757,583.0,586.0
+Certhia americana_Brown Creeper,0.2971482,583.0,586.0
+Regulus satrapa_Golden-crowned Kinglet,0.9820197,584.0,587.0
+Certhia americana_Brown Creeper,0.14224906,584.0,587.0
+Regulus satrapa_Golden-crowned Kinglet,0.98278874,585.0,588.0
+Regulus satrapa_Golden-crowned Kinglet,0.99553466,586.0,589.0
+Regulus satrapa_Golden-crowned Kinglet,0.9489339,587.0,590.0
+Setophaga tigrina_Cape May Warbler,0.16120854,587.0,590.0
+Seiurus aurocapilla_Ovenbird,0.1981719,588.0,591.0
+Seiurus aurocapilla_Ovenbird,0.1445992,589.0,592.0
+Seiurus aurocapilla_Ovenbird,0.17136747,590.0,593.0
+Certhia americana_Brown Creeper,0.86638147,591.0,594.0
+Regulus satrapa_Golden-crowned Kinglet,0.84997326,591.0,594.0
+Regulus satrapa_Golden-crowned Kinglet,0.9736907,592.0,595.0
+Certhia americana_Brown Creeper,0.31615075,592.0,595.0
+Regulus satrapa_Golden-crowned Kinglet,0.9890854,593.0,596.0
+Regulus satrapa_Golden-crowned Kinglet,0.9843435,594.0,597.0
+Regulus satrapa_Golden-crowned Kinglet,0.45601583,595.0,598.0
+Sitta canadensis_Red-breasted Nuthatch,0.59282535,596.0,599.0
+Regulus satrapa_Golden-crowned Kinglet,0.21922714,596.0,599.0
+Certhia americana_Brown Creeper,0.77671635,597.0,600.0
+Regulus satrapa_Golden-crowned Kinglet,0.42776427,597.0,600.0
+Sitta canadensis_Red-breasted Nuthatch,0.13034064,597.0,600.0
+Certhia americana_Brown Creeper,0.9391136,598.0,601.0
+Regulus satrapa_Golden-crowned Kinglet,0.24017012,598.0,601.0
+Regulus satrapa_Golden-crowned Kinglet,0.88760364,599.0,602.0
+Certhia americana_Brown Creeper,0.5786749,599.0,602.0
+Regulus satrapa_Golden-crowned Kinglet,0.9809919,600.0,603.0
+Regulus satrapa_Golden-crowned Kinglet,0.9930092,601.0,604.0
+Regulus satrapa_Golden-crowned Kinglet,0.99661785,602.0,605.0
+Regulus satrapa_Golden-crowned Kinglet,0.7978306,603.0,606.0
+Poecile atricapillus_Black-capped Chickadee,0.32711712,603.0,606.0
+Regulus satrapa_Golden-crowned Kinglet,0.4112953,604.0,607.0
+Setophaga tigrina_Cape May Warbler,0.24863058,604.0,607.0
+Certhia americana_Brown Creeper,0.16275023,604.0,607.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.117787674,604.0,607.0
+Regulus satrapa_Golden-crowned Kinglet,0.14339666,605.0,608.0
+Certhia americana_Brown Creeper,0.12133968,605.0,608.0
+Sitta canadensis_Red-breasted Nuthatch,0.10036139,605.0,608.0
+Regulus satrapa_Golden-crowned Kinglet,0.23408847,606.0,609.0
+Sitta canadensis_Red-breasted Nuthatch,0.18102905,606.0,609.0
+Certhia americana_Brown Creeper,0.15337186,606.0,609.0
+Seiurus aurocapilla_Ovenbird,0.118953004,606.0,609.0
+Certhia americana_Brown Creeper,0.45444375,607.0,610.0
+Regulus satrapa_Golden-crowned Kinglet,0.29973885,607.0,610.0
+Baeolophus atricristatus_Black-crested Titmouse,0.17718562,607.0,610.0
+Sitta canadensis_Red-breasted Nuthatch,0.14548877,607.0,610.0
+Regulus satrapa_Golden-crowned Kinglet,0.8753652,608.0,611.0
+Certhia americana_Brown Creeper,0.8247251,608.0,611.0
+Regulus satrapa_Golden-crowned Kinglet,0.9619181,609.0,612.0
+Certhia americana_Brown Creeper,0.3426817,609.0,612.0
+Regulus satrapa_Golden-crowned Kinglet,0.99327224,610.0,613.0
+Regulus satrapa_Golden-crowned Kinglet,0.9846119,611.0,614.0
+Regulus satrapa_Golden-crowned Kinglet,0.5439435,612.0,615.0
+Sitta canadensis_Red-breasted Nuthatch,0.30759418,613.0,616.0
+Regulus satrapa_Golden-crowned Kinglet,0.272308,613.0,616.0
+Certhia americana_Brown Creeper,0.20021725,613.0,616.0
+Regulus satrapa_Golden-crowned Kinglet,0.518719,614.0,617.0
+Certhia americana_Brown Creeper,0.37056005,614.0,617.0
+Regulus satrapa_Golden-crowned Kinglet,0.69956094,615.0,618.0
+Certhia americana_Brown Creeper,0.48930994,615.0,618.0
+Regulus satrapa_Golden-crowned Kinglet,0.48993087,616.0,619.0
+Certhia americana_Brown Creeper,0.28927857,616.0,619.0
+Regulus satrapa_Golden-crowned Kinglet,0.6710121,617.0,620.0
+Certhia americana_Brown Creeper,0.18979041,617.0,620.0
+Setophaga tigrina_Cape May Warbler,0.12304431,617.0,620.0
+Certhia americana_Brown Creeper,0.10684223,619.0,622.0
+Seiurus aurocapilla_Ovenbird,0.1270962,620.0,623.0
+Seiurus aurocapilla_Ovenbird,0.21582806,621.0,624.0
+Seiurus aurocapilla_Ovenbird,0.37138003,622.0,625.0
+Sitta canadensis_Red-breasted Nuthatch,0.21924987,622.0,625.0
+Sitta canadensis_Red-breasted Nuthatch,0.6255341,623.0,626.0
+Sitta canadensis_Red-breasted Nuthatch,0.25069875,624.0,627.0
+Sitta carolinensis_White-breasted Nuthatch,0.11804243,624.0,627.0
+Seiurus aurocapilla_Ovenbird,0.19602975,626.0,629.0
+Nannopterum auritum_Double-crested Cormorant,0.13412213,629.0,632.0

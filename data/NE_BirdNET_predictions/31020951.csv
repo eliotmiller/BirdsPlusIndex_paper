@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.7427568,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.31385598,1.0,4.0
+Vireo olivaceus_Red-eyed Vireo,0.47069862,2.0,5.0
+Vireo olivaceus_Red-eyed Vireo,0.60678583,3.0,6.0
+Vireo olivaceus_Red-eyed Vireo,0.5469964,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13916224,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.13128409,4.0,7.0
+Vireo olivaceus_Red-eyed Vireo,0.33921984,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.19622889,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1577651,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21443163,7.0,10.0
+Setophaga ruticilla_American Redstart,0.18362027,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.1255671,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.22934286,8.0,11.0
+Vireo olivaceus_Red-eyed Vireo,0.148351,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.5043729,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.12983377,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.123254575,10.0,13.0
+Piranga olivacea_Scarlet Tanager,0.10963398,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.49131742,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19639918,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.34309068,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.24621737,13.0,16.0
+Junco phaeonotus_Yellow-eyed Junco,0.19380261,14.0,17.0
+Cardellina rubrifrons_Red-faced Warbler,0.17429015,14.0,17.0
+Vireo olivaceus_Red-eyed Vireo,0.2533202,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.2584105,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10222916,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.5558589,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.17174387,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.5338253,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14042874,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.6004958,19.0,22.0
+Piranga olivacea_Scarlet Tanager,0.1471767,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.57864726,20.0,23.0
+Vireo olivaceus_Red-eyed Vireo,0.661047,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.24093376,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.11790933,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.17659836,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.13482232,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.538173,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.6729911,26.0,29.0
+Empidonax virescens_Acadian Flycatcher,0.17851177,26.0,29.0
+Vireo olivaceus_Red-eyed Vireo,0.3731297,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.4744177,28.0,31.0
+Vireo olivaceus_Red-eyed Vireo,0.74623686,29.0,32.0
+Vireo chivi_Chivi Vireo,0.100450285,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.46682155,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.22438927,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.24632984,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1057986,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.10398617,33.0,36.0
+Vireo olivaceus_Red-eyed Vireo,0.7065605,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.8283669,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.88630927,36.0,39.0
+Vireo chivi_Chivi Vireo,0.16427648,36.0,39.0
+Vireo olivaceus_Red-eyed Vireo,0.47607315,37.0,40.0
+Vireo chivi_Chivi Vireo,0.34760246,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.4601479,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.2645621,39.0,42.0
+Vireo chivi_Chivi Vireo,0.12832497,39.0,42.0
+Vireo olivaceus_Red-eyed Vireo,0.52968067,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.76082927,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.43414012,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.18707456,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.14716484,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.109706745,44.0,47.0
+Setophaga fusca_Blackburnian Warbler,0.10896669,45.0,48.0
+Junco phaeonotus_Yellow-eyed Junco,0.15519482,51.0,54.0
+Junco phaeonotus_Yellow-eyed Junco,0.105135925,52.0,55.0
+Junco phaeonotus_Yellow-eyed Junco,0.18576348,58.0,60.28802721088435
+Atlapetes pileatus_Rufous-capped Brushfinch,0.12975523,58.0,60.28802721088435

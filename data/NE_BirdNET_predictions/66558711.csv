@@ -1,0 +1,107 @@
+species,score,start_time,end_time
+Porzana carolina_Sora,0.98725885,0.0,3.0
+Porzana carolina_Sora,0.9342101,1.0,4.0
+Gallinula galeata_Common Gallinule,0.12587471,1.0,4.0
+Porzana carolina_Sora,0.31711313,2.0,5.0
+Porzana carolina_Sora,0.26440087,6.0,9.0
+Porzana carolina_Sora,0.4731933,8.0,11.0
+Porzana carolina_Sora,0.191048,9.0,12.0
+Porzana carolina_Sora,0.22553067,10.0,13.0
+Porzana carolina_Sora,0.18400052,11.0,14.0
+Gallinula galeata_Common Gallinule,0.23121984,12.0,15.0
+Porzana carolina_Sora,0.20262001,12.0,15.0
+Porzana carolina_Sora,0.34693995,13.0,16.0
+Gallinula galeata_Common Gallinule,0.16474779,13.0,16.0
+Gallinula galeata_Common Gallinule,0.3236691,15.0,18.0
+Porzana carolina_Sora,0.29301953,15.0,18.0
+Gallinula galeata_Common Gallinule,0.37955907,16.0,19.0
+Porzana carolina_Sora,0.3732492,16.0,19.0
+Zapornia tabuensis_Spotless Crake,0.118349314,16.0,19.0
+Porphyrio martinica_Purple Gallinule,0.112923995,16.0,19.0
+Porzana carolina_Sora,0.21603553,17.0,20.0
+Porzana carolina_Sora,0.26958278,18.0,21.0
+Porzana carolina_Sora,0.78368384,19.0,22.0
+Gallinula galeata_Common Gallinule,0.21491843,19.0,22.0
+Porzana carolina_Sora,0.74882203,20.0,23.0
+Gallinula galeata_Common Gallinule,0.1254455,20.0,23.0
+Porzana carolina_Sora,0.22922695,21.0,24.0
+Gallinula galeata_Common Gallinule,0.1340112,21.0,24.0
+Porzana carolina_Sora,0.53814775,22.0,25.0
+Porzana carolina_Sora,0.14240235,23.0,26.0
+Porzana carolina_Sora,0.33292174,24.0,27.0
+Porzana carolina_Sora,0.46067354,25.0,28.0
+Laterallus jamaicensis_Black Rail,0.10477847,25.0,28.0
+Spiza americana_Dickcissel,0.33233508,26.0,29.0
+Empidonax traillii_Willow Flycatcher,0.14408302,26.0,29.0
+Centronyx henslowii_Henslow's Sparrow,0.10576782,27.0,30.0
+Porzana carolina_Sora,0.18781449,28.0,31.0
+Porzana carolina_Sora,0.3078033,29.0,32.0
+Porzana carolina_Sora,0.21260178,30.0,33.0
+Falco sparverius_American Kestrel,0.108898506,36.0,39.0
+Spiza americana_Dickcissel,0.1911375,38.0,41.0
+Centronyx henslowii_Henslow's Sparrow,0.11810456,38.0,41.0
+Centronyx henslowii_Henslow's Sparrow,0.17414956,39.0,42.0
+Spiza americana_Dickcissel,0.12291107,39.0,42.0
+Centronyx henslowii_Henslow's Sparrow,0.25171754,40.0,43.0
+Centronyx henslowii_Henslow's Sparrow,0.11968764,41.0,44.0
+Ictinia mississippiensis_Mississippi Kite,0.1082129,41.0,44.0
+Gallinula galeata_Common Gallinule,0.1773595,42.0,45.0
+Porzana carolina_Sora,0.13459049,42.0,45.0
+Porphyrio martinica_Purple Gallinule,0.13215154,43.0,46.0
+Porzana carolina_Sora,0.11224462,43.0,46.0
+Gallinula galeata_Common Gallinule,0.10787416,43.0,46.0
+Gallinula galeata_Common Gallinule,0.27220392,44.0,47.0
+Porphyrio martinica_Purple Gallinule,0.24895422,44.0,47.0
+Porzana carolina_Sora,0.18588017,44.0,47.0
+Porphyrio martinica_Purple Gallinule,0.107275374,48.0,51.0
+Porphyrio martinica_Purple Gallinule,0.11290378,50.0,53.0
+Gallinula galeata_Common Gallinule,0.28936118,52.0,55.0
+Porphyrio martinica_Purple Gallinule,0.12698139,52.0,55.0
+Tringa semipalmata_Willet,0.15697119,61.0,64.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.14225638,63.0,66.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.15048522,64.0,67.0
+Gallinula galeata_Common Gallinule,0.14653304,67.0,70.0
+Porphyrio martinica_Purple Gallinule,0.16494721,69.0,72.0
+Porphyrio martinica_Purple Gallinule,0.1774011,71.0,74.0
+Porphyrio martinica_Purple Gallinule,0.10887338,72.0,75.0
+Gallinula galeata_Common Gallinule,0.1665475,76.0,79.0
+Porzana carolina_Sora,0.1098055,76.0,79.0
+Porzana carolina_Sora,0.23157224,82.0,85.0
+Porzana carolina_Sora,0.16122207,83.0,86.0
+Porphyrio martinica_Purple Gallinule,0.16994773,90.0,93.0
+Porzana carolina_Sora,0.1254452,90.0,93.0
+Tyrannus verticalis_Western Kingbird,0.15029188,92.0,95.0
+Tyrannus verticalis_Western Kingbird,0.100536615,94.0,97.0
+Porphyrio martinica_Purple Gallinule,0.2266235,96.0,99.0
+Porzana carolina_Sora,0.12298716,96.0,99.0
+Haliaeetus leucocephalus_Bald Eagle,0.11539369,96.0,99.0
+Haliaeetus leucocephalus_Bald Eagle,0.21558127,97.0,100.0
+Porzana carolina_Sora,0.29077247,98.0,101.0
+Haliaeetus leucocephalus_Bald Eagle,0.13155374,98.0,101.0
+Porphyrio martinica_Purple Gallinule,0.22223772,100.0,103.0
+Porzana carolina_Sora,0.11809338,100.0,103.0
+Porzana carolina_Sora,0.12512733,101.0,104.0
+Centronyx henslowii_Henslow's Sparrow,0.107041895,102.0,105.0
+Haliaeetus leucocephalus_Bald Eagle,0.46039784,108.0,111.0
+Gallinula galeata_Common Gallinule,0.10007766,108.0,111.0
+Haliaeetus leucocephalus_Bald Eagle,0.11096974,109.0,112.0
+Gallinula galeata_Common Gallinule,0.11035585,109.0,112.0
+Porzana carolina_Sora,0.18561547,111.0,114.0
+Porphyrio martinica_Purple Gallinule,0.18454611,111.0,114.0
+Tringa semipalmata_Willet,0.15070434,111.0,114.0
+Porzana carolina_Sora,0.12046622,112.0,115.0
+Haliaeetus leucocephalus_Bald Eagle,0.11463615,113.0,116.0
+Himantopus mexicanus_Black-necked Stilt,0.3482751,114.0,117.0
+Gallinula galeata_Common Gallinule,0.12495248,114.0,117.0
+Gallinula galeata_Common Gallinule,0.12109981,115.0,118.0
+Haliaeetus leucocephalus_Bald Eagle,0.1063735,115.0,118.0
+Porzana carolina_Sora,0.16076972,117.0,120.0
+Gallinula galeata_Common Gallinule,0.11038185,117.0,120.0
+Porphyrio martinica_Purple Gallinule,0.1011715,117.0,120.0
+Porphyrio martinica_Purple Gallinule,0.22058353,118.0,121.0
+Porzana carolina_Sora,0.1450695,118.0,121.0
+Porphyrio martinica_Purple Gallinule,0.12136591,119.0,122.0
+Tyrannus verticalis_Western Kingbird,0.101279974,122.0,125.0
+Himantopus mexicanus_Black-necked Stilt,0.20283362,123.0,126.0
+Porphyrio martinica_Purple Gallinule,0.24127953,124.0,127.0
+Ammospiza maritima_Seaside Sparrow,0.10061025,125.0,128.0

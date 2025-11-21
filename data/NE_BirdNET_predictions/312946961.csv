@@ -1,0 +1,714 @@
+species,score,start_time,end_time
+Troglodytes hiemalis_Winter Wren,0.98416024,0.0,3.0
+Troglodytes hiemalis_Winter Wren,0.9790896,1.0,4.0
+Troglodytes hiemalis_Winter Wren,0.99561924,2.0,5.0
+Troglodytes hiemalis_Winter Wren,0.99650514,3.0,6.0
+Troglodytes hiemalis_Winter Wren,0.99273723,4.0,7.0
+Troglodytes hiemalis_Winter Wren,0.99314016,5.0,8.0
+Troglodytes hiemalis_Winter Wren,0.93609565,6.0,9.0
+Geothlypis trichas_Common Yellowthroat,0.20558038,7.0,10.0
+Geothlypis trichas_Common Yellowthroat,0.27852932,8.0,11.0
+Geothlypis formosa_Kentucky Warbler,0.38686392,10.0,13.0
+Empidonax minimus_Least Flycatcher,0.51168156,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.16505456,11.0,14.0
+Vireo solitarius_Blue-headed Vireo,0.1974733,12.0,15.0
+Vireo solitarius_Blue-headed Vireo,0.17362861,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12829986,14.0,17.0
+Catharus fuscescens_Veery,0.12431787,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.14866002,15.0,18.0
+Catharus fuscescens_Veery,0.12840925,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.119168416,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14486387,16.0,19.0
+Catharus fuscescens_Veery,0.107892886,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.1444985,18.0,21.0
+Geothlypis trichas_Common Yellowthroat,0.10541518,19.0,22.0
+Geothlypis trichas_Common Yellowthroat,0.21205989,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.3359741,21.0,24.0
+Troglodytes hiemalis_Winter Wren,0.66788936,22.0,25.0
+Troglodytes hiemalis_Winter Wren,0.8441237,23.0,26.0
+Troglodytes hiemalis_Winter Wren,0.9848704,24.0,27.0
+Troglodytes hiemalis_Winter Wren,0.995226,25.0,28.0
+Troglodytes hiemalis_Winter Wren,0.98944914,26.0,29.0
+Troglodytes hiemalis_Winter Wren,0.99708277,27.0,30.0
+Troglodytes hiemalis_Winter Wren,0.99591523,28.0,31.0
+Troglodytes hiemalis_Winter Wren,0.9145347,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.10815121,29.0,32.0
+Geothlypis trichas_Common Yellowthroat,0.15077758,31.0,34.0
+Catharus fuscescens_Veery,0.116216496,33.0,36.0
+Empidonax virescens_Acadian Flycatcher,0.1155166,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12158642,34.0,37.0
+Empidonax virescens_Acadian Flycatcher,0.106925234,34.0,37.0
+Geothlypis philadelphia_Mourning Warbler,0.12199804,35.0,38.0
+Catharus fuscescens_Veery,0.14572737,36.0,39.0
+Geothlypis formosa_Kentucky Warbler,0.1207273,36.0,39.0
+Troglodytes hiemalis_Winter Wren,0.8805776,37.0,40.0
+Troglodytes hiemalis_Winter Wren,0.9803044,38.0,41.0
+Troglodytes hiemalis_Winter Wren,0.9702627,39.0,42.0
+Troglodytes hiemalis_Winter Wren,0.98189455,40.0,43.0
+Troglodytes hiemalis_Winter Wren,0.94291645,41.0,44.0
+Troglodytes hiemalis_Winter Wren,0.97612005,42.0,45.0
+Troglodytes hiemalis_Winter Wren,0.9920902,43.0,46.0
+Troglodytes hiemalis_Winter Wren,0.9892932,44.0,47.0
+Troglodytes hiemalis_Winter Wren,0.8122834,45.0,48.0
+Certhia americana_Brown Creeper,0.30647787,45.0,48.0
+Geothlypis formosa_Kentucky Warbler,0.10462355,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.17316462,48.0,51.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15430346,48.0,51.0
+Geothlypis formosa_Kentucky Warbler,0.1668573,49.0,52.0
+Empidonax virescens_Acadian Flycatcher,0.12985665,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12618372,50.0,53.0
+Setophaga magnolia_Magnolia Warbler,0.13257156,51.0,54.0
+Geothlypis trichas_Common Yellowthroat,0.10974082,53.0,56.0
+Troglodytes hiemalis_Winter Wren,0.5025123,54.0,57.0
+Troglodytes hiemalis_Winter Wren,0.7391826,55.0,58.0
+Troglodytes hiemalis_Winter Wren,0.96226436,56.0,59.0
+Troglodytes hiemalis_Winter Wren,0.9738002,57.0,60.0
+Troglodytes hiemalis_Winter Wren,0.6352869,58.0,61.0
+Spizella pusilla_Field Sparrow,0.15365507,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107907064,59.0,62.0
+Geothlypis philadelphia_Mourning Warbler,0.12446727,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.11219467,62.0,65.0
+Geothlypis trichas_Common Yellowthroat,0.18424731,64.0,67.0
+Troglodytes hiemalis_Winter Wren,0.7528775,66.0,69.0
+Troglodytes hiemalis_Winter Wren,0.97133386,67.0,70.0
+Troglodytes hiemalis_Winter Wren,0.9885544,68.0,71.0
+Troglodytes hiemalis_Winter Wren,0.9929074,69.0,72.0
+Troglodytes hiemalis_Winter Wren,0.9900996,70.0,73.0
+Troglodytes hiemalis_Winter Wren,0.9948244,71.0,74.0
+Troglodytes hiemalis_Winter Wren,0.9951514,72.0,75.0
+Troglodytes hiemalis_Winter Wren,0.9961302,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.16286126,74.0,77.0
+Geothlypis trichas_Common Yellowthroat,0.11651041,75.0,78.0
+Geothlypis trichas_Common Yellowthroat,0.10077465,76.0,79.0
+Geothlypis formosa_Kentucky Warbler,0.111393645,77.0,80.0
+Odocoileus virginianus_White-tailed Deer,0.14730798,78.0,81.0
+Empidonax virescens_Acadian Flycatcher,0.11557104,78.0,81.0
+Geothlypis formosa_Kentucky Warbler,0.12611046,79.0,82.0
+Empidonax virescens_Acadian Flycatcher,0.15683198,80.0,83.0
+Setophaga citrina_Hooded Warbler,0.28502735,81.0,84.0
+Troglodytes hiemalis_Winter Wren,0.5280572,82.0,85.0
+Troglodytes hiemalis_Winter Wren,0.9715798,83.0,86.0
+Troglodytes hiemalis_Winter Wren,0.9645373,84.0,87.0
+Troglodytes hiemalis_Winter Wren,0.9605119,85.0,88.0
+Troglodytes hiemalis_Winter Wren,0.8622952,86.0,89.0
+Troglodytes hiemalis_Winter Wren,0.97555655,87.0,90.0
+Troglodytes hiemalis_Winter Wren,0.9643693,88.0,91.0
+Troglodytes hiemalis_Winter Wren,0.99206924,89.0,92.0
+Troglodytes hiemalis_Winter Wren,0.9701864,90.0,93.0
+Troglodytes hiemalis_Winter Wren,0.33651522,91.0,94.0
+Passerina cyanea_Indigo Bunting,0.11697666,91.0,94.0
+Troglodytes hiemalis_Winter Wren,0.14534022,92.0,95.0
+Empidonax minimus_Least Flycatcher,0.33789706,93.0,96.0
+Empidonax minimus_Least Flycatcher,0.27288133,94.0,97.0
+Empidonax minimus_Least Flycatcher,0.3449282,95.0,98.0
+Catharus fuscescens_Veery,0.15186615,96.0,99.0
+Empidonax virescens_Acadian Flycatcher,0.112658165,96.0,99.0
+Geothlypis trichas_Common Yellowthroat,0.10934475,97.0,100.0
+Setophaga magnolia_Magnolia Warbler,0.10196373,97.0,100.0
+Catharus fuscescens_Veery,0.113479644,98.0,101.0
+Troglodytes hiemalis_Winter Wren,0.20402606,101.0,104.0
+Troglodytes hiemalis_Winter Wren,0.9874412,102.0,105.0
+Troglodytes hiemalis_Winter Wren,0.96204257,103.0,106.0
+Troglodytes hiemalis_Winter Wren,0.9948683,104.0,107.0
+Troglodytes hiemalis_Winter Wren,0.9704283,105.0,108.0
+Troglodytes hiemalis_Winter Wren,0.994591,106.0,109.0
+Troglodytes hiemalis_Winter Wren,0.9943304,107.0,110.0
+Troglodytes hiemalis_Winter Wren,0.97622037,108.0,111.0
+Troglodytes hiemalis_Winter Wren,0.8965302,109.0,112.0
+Setophaga magnolia_Magnolia Warbler,0.11310777,111.0,114.0
+Setophaga cerulea_Cerulean Warbler,0.11211208,111.0,114.0
+Troglodytes hiemalis_Winter Wren,0.99925894,114.0,117.0
+Troglodytes hiemalis_Winter Wren,0.9080228,115.0,118.0
+Troglodytes hiemalis_Winter Wren,0.9690712,116.0,119.0
+Troglodytes hiemalis_Winter Wren,0.94388694,117.0,120.0
+Troglodytes hiemalis_Winter Wren,0.64445466,118.0,121.0
+Setophaga citrina_Hooded Warbler,0.112986416,118.0,121.0
+Setophaga cerulea_Cerulean Warbler,0.12142002,121.0,124.0
+Setophaga magnolia_Magnolia Warbler,0.33464915,122.0,125.0
+Troglodytes hiemalis_Winter Wren,0.2811475,124.0,127.0
+Troglodytes hiemalis_Winter Wren,0.95492584,125.0,128.0
+Troglodytes hiemalis_Winter Wren,0.98060256,126.0,129.0
+Troglodytes hiemalis_Winter Wren,0.9954679,127.0,130.0
+Troglodytes hiemalis_Winter Wren,0.9991499,128.0,131.0
+Troglodytes hiemalis_Winter Wren,0.9990397,129.0,132.0
+Troglodytes hiemalis_Winter Wren,0.9985978,130.0,133.0
+Troglodytes hiemalis_Winter Wren,0.9979417,131.0,134.0
+Troglodytes hiemalis_Winter Wren,0.9968346,132.0,135.0
+Setophaga castanea_Bay-breasted Warbler,0.21368119,133.0,136.0
+Setophaga fusca_Blackburnian Warbler,0.16774021,133.0,136.0
+Certhia americana_Brown Creeper,0.10225945,133.0,136.0
+Geothlypis trichas_Common Yellowthroat,0.19537123,134.0,137.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10716365,134.0,137.0
+Geothlypis trichas_Common Yellowthroat,0.15536864,135.0,138.0
+Troglodytes hiemalis_Winter Wren,0.9518096,136.0,139.0
+Troglodytes hiemalis_Winter Wren,0.995038,137.0,140.0
+Troglodytes hiemalis_Winter Wren,0.99626017,138.0,141.0
+Troglodytes hiemalis_Winter Wren,0.99145246,139.0,142.0
+Troglodytes hiemalis_Winter Wren,0.9959991,140.0,143.0
+Troglodytes hiemalis_Winter Wren,0.9982217,141.0,144.0
+Troglodytes hiemalis_Winter Wren,0.99670094,142.0,145.0
+Troglodytes hiemalis_Winter Wren,0.99599564,143.0,146.0
+Troglodytes hiemalis_Winter Wren,0.9955568,144.0,147.0
+Empidonax minimus_Least Flycatcher,0.28535694,145.0,148.0
+Setophaga ruticilla_American Redstart,0.11860903,146.0,149.0
+Troglodytes hiemalis_Winter Wren,0.999006,147.0,150.0
+Troglodytes hiemalis_Winter Wren,0.9935713,148.0,151.0
+Troglodytes hiemalis_Winter Wren,0.99871886,149.0,152.0
+Troglodytes hiemalis_Winter Wren,0.9990957,150.0,153.0
+Troglodytes hiemalis_Winter Wren,0.9970534,151.0,154.0
+Troglodytes hiemalis_Winter Wren,0.99913776,152.0,155.0
+Troglodytes hiemalis_Winter Wren,0.9995159,153.0,156.0
+Troglodytes hiemalis_Winter Wren,0.57919365,154.0,157.0
+Parkesia motacilla_Louisiana Waterthrush,0.26483738,154.0,157.0
+Setophaga fusca_Blackburnian Warbler,0.7776361,155.0,158.0
+Catharus fuscescens_Veery,0.82201475,156.0,159.0
+Setophaga fusca_Blackburnian Warbler,0.13245964,156.0,159.0
+Catharus fuscescens_Veery,0.5472873,157.0,160.0
+Catharus fuscescens_Veery,0.567942,158.0,161.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17243513,160.0,163.0
+Empidonax virescens_Acadian Flycatcher,0.10189166,160.0,163.0
+Empidonax virescens_Acadian Flycatcher,0.11762778,161.0,164.0
+Catharus fuscescens_Veery,0.86124367,162.0,165.0
+Empidonax virescens_Acadian Flycatcher,0.10489043,162.0,165.0
+Catharus fuscescens_Veery,0.62800694,163.0,166.0
+Catharus fuscescens_Veery,0.5763031,164.0,167.0
+Setophaga magnolia_Magnolia Warbler,0.67936295,166.0,169.0
+Cardellina canadensis_Canada Warbler,0.1868458,166.0,169.0
+Troglodytes hiemalis_Winter Wren,0.9432522,167.0,170.0
+Troglodytes hiemalis_Winter Wren,0.97281784,168.0,171.0
+Troglodytes hiemalis_Winter Wren,0.9944523,169.0,172.0
+Troglodytes hiemalis_Winter Wren,0.99959844,170.0,173.0
+Troglodytes hiemalis_Winter Wren,0.99966,171.0,174.0
+Troglodytes hiemalis_Winter Wren,0.99958485,172.0,175.0
+Troglodytes hiemalis_Winter Wren,0.9997321,173.0,176.0
+Troglodytes hiemalis_Winter Wren,0.99830854,174.0,177.0
+Certhia americana_Brown Creeper,0.5770287,175.0,178.0
+Setophaga fusca_Blackburnian Warbler,0.15531707,175.0,178.0
+Catharus fuscescens_Veery,0.7632132,176.0,179.0
+Catharus fuscescens_Veery,0.6029788,177.0,180.0
+Catharus fuscescens_Veery,0.7389695,178.0,181.0
+Setophaga fusca_Blackburnian Warbler,0.17696041,179.0,182.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10853764,179.0,182.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10226913,179.0,182.0
+Empidonax virescens_Acadian Flycatcher,0.123002626,180.0,183.0
+Catharus fuscescens_Veery,0.117587455,181.0,184.0
+Setophaga magnolia_Magnolia Warbler,0.11283827,181.0,184.0
+Geothlypis trichas_Common Yellowthroat,0.10314043,181.0,184.0
+Geothlypis trichas_Common Yellowthroat,0.27885807,182.0,185.0
+Geothlypis trichas_Common Yellowthroat,0.39368752,183.0,186.0
+Geothlypis trichas_Common Yellowthroat,0.19489415,184.0,187.0
+Troglodytes hiemalis_Winter Wren,0.99506617,185.0,188.0
+Troglodytes hiemalis_Winter Wren,0.99002224,186.0,189.0
+Troglodytes hiemalis_Winter Wren,0.9983997,187.0,190.0
+Troglodytes hiemalis_Winter Wren,0.9990532,188.0,191.0
+Troglodytes hiemalis_Winter Wren,0.9989147,189.0,192.0
+Troglodytes hiemalis_Winter Wren,0.99943644,190.0,193.0
+Troglodytes hiemalis_Winter Wren,0.9997906,191.0,194.0
+Troglodytes hiemalis_Winter Wren,0.9994717,192.0,195.0
+Certhia americana_Brown Creeper,0.17618006,193.0,196.0
+Setophaga magnolia_Magnolia Warbler,0.24901898,195.0,198.0
+Geothlypis trichas_Common Yellowthroat,0.45860946,196.0,199.0
+Geothlypis trichas_Common Yellowthroat,0.34266618,197.0,200.0
+Geothlypis trichas_Common Yellowthroat,0.43526462,198.0,201.0
+Setophaga magnolia_Magnolia Warbler,0.19436105,199.0,202.0
+Setophaga citrina_Hooded Warbler,0.19335538,199.0,202.0
+Troglodytes hiemalis_Winter Wren,0.9961164,200.0,203.0
+Troglodytes hiemalis_Winter Wren,0.9956365,201.0,204.0
+Troglodytes hiemalis_Winter Wren,0.9983271,202.0,205.0
+Troglodytes hiemalis_Winter Wren,0.99902487,203.0,206.0
+Troglodytes hiemalis_Winter Wren,0.9981192,204.0,207.0
+Troglodytes hiemalis_Winter Wren,0.9985862,205.0,208.0
+Troglodytes hiemalis_Winter Wren,0.9998394,206.0,209.0
+Troglodytes hiemalis_Winter Wren,0.99986315,207.0,210.0
+Troglodytes hiemalis_Winter Wren,0.99588555,208.0,211.0
+Certhia americana_Brown Creeper,0.59768057,208.0,211.0
+Piranga olivacea_Scarlet Tanager,0.120739326,211.0,214.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11079319,212.0,215.0
+Setophaga ruticilla_American Redstart,0.142777,213.0,216.0
+Geothlypis trichas_Common Yellowthroat,0.31461135,214.0,217.0
+Cardellina canadensis_Canada Warbler,0.20699635,214.0,217.0
+Setophaga magnolia_Magnolia Warbler,0.15673839,214.0,217.0
+Geothlypis trichas_Common Yellowthroat,0.43934104,215.0,218.0
+Troglodytes hiemalis_Winter Wren,0.9959869,216.0,219.0
+Troglodytes hiemalis_Winter Wren,0.9939513,217.0,220.0
+Troglodytes hiemalis_Winter Wren,0.99733585,218.0,221.0
+Troglodytes hiemalis_Winter Wren,0.9983991,219.0,222.0
+Troglodytes hiemalis_Winter Wren,0.99965346,220.0,223.0
+Troglodytes hiemalis_Winter Wren,0.99923,221.0,224.0
+Troglodytes hiemalis_Winter Wren,0.99986076,222.0,225.0
+Troglodytes hiemalis_Winter Wren,0.9998915,223.0,226.0
+Troglodytes hiemalis_Winter Wren,0.99988914,224.0,227.0
+Setophaga magnolia_Magnolia Warbler,0.23058291,225.0,228.0
+Setophaga castanea_Bay-breasted Warbler,0.10516649,225.0,228.0
+Geothlypis trichas_Common Yellowthroat,0.2778867,226.0,229.0
+Geothlypis trichas_Common Yellowthroat,0.3788812,227.0,230.0
+Geothlypis trichas_Common Yellowthroat,0.16841249,228.0,231.0
+Cardellina canadensis_Canada Warbler,0.16642022,228.0,231.0
+Setophaga ruticilla_American Redstart,0.30220702,229.0,232.0
+Setophaga cerulea_Cerulean Warbler,0.15781121,229.0,232.0
+Empidonax virescens_Acadian Flycatcher,0.118900724,230.0,233.0
+Setophaga citrina_Hooded Warbler,0.31701413,232.0,235.0
+Buteo platypterus_Broad-winged Hawk,0.14199218,232.0,235.0
+Troglodytes hiemalis_Winter Wren,0.998657,233.0,236.0
+Troglodytes hiemalis_Winter Wren,0.998223,234.0,237.0
+Troglodytes hiemalis_Winter Wren,0.99736494,235.0,238.0
+Troglodytes hiemalis_Winter Wren,0.9974948,236.0,239.0
+Troglodytes hiemalis_Winter Wren,0.9977822,237.0,240.0
+Troglodytes hiemalis_Winter Wren,0.9993475,238.0,241.0
+Troglodytes hiemalis_Winter Wren,0.9996749,239.0,242.0
+Troglodytes hiemalis_Winter Wren,0.9994061,240.0,243.0
+Troglodytes hiemalis_Winter Wren,0.9997578,241.0,244.0
+Setophaga ruticilla_American Redstart,0.36944643,242.0,245.0
+Setophaga cerulea_Cerulean Warbler,0.16042522,242.0,245.0
+Setophaga ruticilla_American Redstart,0.4783366,243.0,246.0
+Setophaga cerulea_Cerulean Warbler,0.10704374,243.0,246.0
+Empidonax minimus_Least Flycatcher,0.16749106,245.0,248.0
+Empidonax virescens_Acadian Flycatcher,0.104983926,246.0,249.0
+Empidonax virescens_Acadian Flycatcher,0.110217184,247.0,250.0
+Troglodytes hiemalis_Winter Wren,0.99963737,248.0,251.0
+Troglodytes hiemalis_Winter Wren,0.9983735,249.0,252.0
+Troglodytes hiemalis_Winter Wren,0.99784577,250.0,253.0
+Troglodytes hiemalis_Winter Wren,0.9945919,251.0,254.0
+Troglodytes hiemalis_Winter Wren,0.99757665,252.0,255.0
+Troglodytes hiemalis_Winter Wren,0.99943,253.0,256.0
+Troglodytes hiemalis_Winter Wren,0.99991846,254.0,257.0
+Troglodytes hiemalis_Winter Wren,0.9995766,255.0,258.0
+Troglodytes hiemalis_Winter Wren,0.9995091,256.0,259.0
+Empidonax virescens_Acadian Flycatcher,0.14717083,257.0,260.0
+Empidonax virescens_Acadian Flycatcher,0.16900691,258.0,261.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.34871423,260.0,263.0
+Setophaga magnolia_Magnolia Warbler,0.30419904,260.0,263.0
+Geothlypis trichas_Common Yellowthroat,0.6896982,261.0,264.0
+Geothlypis trichas_Common Yellowthroat,0.651518,262.0,265.0
+Geothlypis trichas_Common Yellowthroat,0.71033025,263.0,266.0
+Geothlypis trichas_Common Yellowthroat,0.322765,264.0,267.0
+Setophaga citrina_Hooded Warbler,0.25126168,264.0,267.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11028356,266.0,269.0
+Troglodytes hiemalis_Winter Wren,0.98608947,267.0,270.0
+Setophaga magnolia_Magnolia Warbler,0.3059282,267.0,270.0
+Troglodytes hiemalis_Winter Wren,0.99748635,268.0,271.0
+Troglodytes hiemalis_Winter Wren,0.9946038,269.0,272.0
+Troglodytes hiemalis_Winter Wren,0.9963838,270.0,273.0
+Troglodytes hiemalis_Winter Wren,0.9976279,271.0,274.0
+Troglodytes hiemalis_Winter Wren,0.9966473,272.0,275.0
+Troglodytes hiemalis_Winter Wren,0.99906784,273.0,276.0
+Troglodytes hiemalis_Winter Wren,0.99926037,274.0,277.0
+Troglodytes hiemalis_Winter Wren,0.99947876,275.0,278.0
+Troglodytes hiemalis_Winter Wren,0.9996232,276.0,279.0
+Troglodytes hiemalis_Winter Wren,0.9994809,277.0,280.0
+Setophaga castanea_Bay-breasted Warbler,0.3267086,278.0,281.0
+Setophaga fusca_Blackburnian Warbler,0.22071916,278.0,281.0
+Certhia americana_Brown Creeper,0.21465187,278.0,281.0
+Buteo platypterus_Broad-winged Hawk,0.1452881,279.0,282.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1401327,279.0,282.0
+Empidonax virescens_Acadian Flycatcher,0.12058024,279.0,282.0
+Geothlypis trichas_Common Yellowthroat,0.21621506,282.0,285.0
+Setophaga magnolia_Magnolia Warbler,0.15212514,282.0,285.0
+Geothlypis trichas_Common Yellowthroat,0.7687425,283.0,286.0
+Geothlypis trichas_Common Yellowthroat,0.7207591,284.0,287.0
+Geothlypis trichas_Common Yellowthroat,0.640748,285.0,288.0
+Setophaga citrina_Hooded Warbler,0.14683433,286.0,289.0
+Geothlypis formosa_Kentucky Warbler,0.14206763,286.0,289.0
+Empidonax virescens_Acadian Flycatcher,0.13494538,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10255018,286.0,289.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103831485,287.0,290.0
+Setophaga cerulea_Cerulean Warbler,0.5170212,293.0,296.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12079706,293.0,296.0
+Geothlypis trichas_Common Yellowthroat,0.45207453,294.0,297.0
+Geothlypis trichas_Common Yellowthroat,0.48948535,295.0,298.0
+Geothlypis trichas_Common Yellowthroat,0.5184741,296.0,299.0
+Geothlypis trichas_Common Yellowthroat,0.44786727,297.0,300.0
+Setophaga fusca_Blackburnian Warbler,0.15165094,298.0,301.0
+Setophaga ruticilla_American Redstart,0.17344473,302.0,305.0
+Setophaga ruticilla_American Redstart,0.28415582,303.0,306.0
+Geothlypis formosa_Kentucky Warbler,0.10599547,303.0,306.0
+Setophaga ruticilla_American Redstart,0.407251,304.0,307.0
+Geothlypis trichas_Common Yellowthroat,0.15576415,305.0,308.0
+Geothlypis trichas_Common Yellowthroat,0.6980525,306.0,309.0
+Geothlypis trichas_Common Yellowthroat,0.79435265,307.0,310.0
+Geothlypis trichas_Common Yellowthroat,0.76341134,308.0,311.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10204757,310.0,313.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12563789,315.0,318.0
+Cardellina canadensis_Canada Warbler,0.27232057,316.0,319.0
+Geothlypis trichas_Common Yellowthroat,0.44845867,317.0,320.0
+Geothlypis trichas_Common Yellowthroat,0.69184303,318.0,321.0
+Geothlypis trichas_Common Yellowthroat,0.45876572,319.0,322.0
+Setophaga citrina_Hooded Warbler,0.1611498,320.0,323.0
+Geothlypis formosa_Kentucky Warbler,0.14825656,320.0,323.0
+Piranga olivacea_Scarlet Tanager,0.10382904,323.0,326.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18094115,325.0,328.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10186171,326.0,329.0
+Setophaga magnolia_Magnolia Warbler,0.21736975,327.0,330.0
+Geothlypis philadelphia_Mourning Warbler,0.11425882,327.0,330.0
+Geothlypis trichas_Common Yellowthroat,0.22696425,328.0,331.0
+Geothlypis trichas_Common Yellowthroat,0.83444905,329.0,332.0
+Geothlypis trichas_Common Yellowthroat,0.6707463,330.0,333.0
+Geothlypis trichas_Common Yellowthroat,0.32093248,331.0,334.0
+Troglodytes hiemalis_Winter Wren,0.7017254,333.0,336.0
+Cardellina canadensis_Canada Warbler,0.14677422,333.0,336.0
+Troglodytes hiemalis_Winter Wren,0.99842346,334.0,337.0
+Troglodytes hiemalis_Winter Wren,0.98853815,335.0,338.0
+Troglodytes hiemalis_Winter Wren,0.9964611,336.0,339.0
+Troglodytes hiemalis_Winter Wren,0.9989254,337.0,340.0
+Troglodytes hiemalis_Winter Wren,0.99909365,338.0,341.0
+Troglodytes hiemalis_Winter Wren,0.9984718,339.0,342.0
+Troglodytes hiemalis_Winter Wren,0.9987859,340.0,343.0
+Troglodytes hiemalis_Winter Wren,0.9996854,341.0,344.0
+Troglodytes hiemalis_Winter Wren,0.9989562,342.0,345.0
+Troglodytes hiemalis_Winter Wren,0.99423873,343.0,346.0
+Certhia americana_Brown Creeper,0.67301077,344.0,347.0
+Setophaga castanea_Bay-breasted Warbler,0.16823475,344.0,347.0
+Setophaga fusca_Blackburnian Warbler,0.16597386,344.0,347.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13748272,348.0,351.0
+Empidonax virescens_Acadian Flycatcher,0.12283525,349.0,352.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11340741,349.0,352.0
+Setophaga ruticilla_American Redstart,0.12704857,350.0,353.0
+Setophaga magnolia_Magnolia Warbler,0.4607573,351.0,354.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31400096,351.0,354.0
+Setophaga cerulea_Cerulean Warbler,0.17414558,351.0,354.0
+Geothlypis trichas_Common Yellowthroat,0.66008526,352.0,355.0
+Geothlypis trichas_Common Yellowthroat,0.65443695,353.0,356.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10381906,353.0,356.0
+Geothlypis trichas_Common Yellowthroat,0.7427622,354.0,357.0
+Cardellina canadensis_Canada Warbler,0.20983413,355.0,358.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.120282,356.0,359.0
+Helmitheros vermivorum_Worm-eating Warbler,0.110243395,356.0,359.0
+Empidonax virescens_Acadian Flycatcher,0.100895815,356.0,359.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1386691,357.0,360.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1214064,357.0,360.0
+Piranga olivacea_Scarlet Tanager,0.12665232,359.0,362.0
+Setophaga ruticilla_American Redstart,0.17877741,360.0,363.0
+Empidonax minimus_Least Flycatcher,0.17294464,360.0,363.0
+Setophaga ruticilla_American Redstart,0.10336385,361.0,364.0
+Setophaga ruticilla_American Redstart,0.14150594,362.0,365.0
+Setophaga ruticilla_American Redstart,0.11761845,363.0,366.0
+Geothlypis trichas_Common Yellowthroat,0.39678392,364.0,367.0
+Setophaga magnolia_Magnolia Warbler,0.21036485,364.0,367.0
+Geothlypis trichas_Common Yellowthroat,0.7185267,365.0,368.0
+Geothlypis trichas_Common Yellowthroat,0.6771387,366.0,369.0
+Troglodytes hiemalis_Winter Wren,0.971439,367.0,370.0
+Troglodytes hiemalis_Winter Wren,0.9926053,368.0,371.0
+Troglodytes hiemalis_Winter Wren,0.9931896,369.0,372.0
+Troglodytes hiemalis_Winter Wren,0.9976215,370.0,373.0
+Troglodytes hiemalis_Winter Wren,0.99812263,371.0,374.0
+Troglodytes hiemalis_Winter Wren,0.9993291,372.0,375.0
+Troglodytes hiemalis_Winter Wren,0.9986451,373.0,376.0
+Troglodytes hiemalis_Winter Wren,0.9995266,374.0,377.0
+Troglodytes hiemalis_Winter Wren,0.9982016,375.0,378.0
+Troglodytes hiemalis_Winter Wren,0.9971312,376.0,379.0
+Troglodytes hiemalis_Winter Wren,0.98853344,377.0,380.0
+Troglodytes troglodytes_Eurasian Wren,0.68401617,377.0,380.0
+Certhia americana_Brown Creeper,0.30269384,377.0,380.0
+Piranga olivacea_Scarlet Tanager,0.1778198,378.0,381.0
+Troglodytes hiemalis_Winter Wren,0.7364783,379.0,382.0
+Troglodytes hiemalis_Winter Wren,0.998304,380.0,383.0
+Troglodytes hiemalis_Winter Wren,0.997965,381.0,384.0
+Troglodytes hiemalis_Winter Wren,0.99879277,382.0,385.0
+Troglodytes hiemalis_Winter Wren,0.99600923,383.0,386.0
+Troglodytes hiemalis_Winter Wren,0.9911806,384.0,387.0
+Troglodytes hiemalis_Winter Wren,0.99374044,385.0,388.0
+Troglodytes hiemalis_Winter Wren,0.9995722,386.0,389.0
+Troglodytes hiemalis_Winter Wren,0.9970017,387.0,390.0
+Troglodytes hiemalis_Winter Wren,0.991546,388.0,391.0
+Empidonax virescens_Acadian Flycatcher,0.127598,389.0,392.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102029495,389.0,392.0
+Setophaga magnolia_Magnolia Warbler,0.16036609,391.0,394.0
+Geothlypis trichas_Common Yellowthroat,0.31119257,392.0,395.0
+Geothlypis trichas_Common Yellowthroat,0.10192212,393.0,396.0
+Geothlypis trichas_Common Yellowthroat,0.26100147,394.0,397.0
+Troglodytes hiemalis_Winter Wren,0.88671654,397.0,400.0
+Troglodytes hiemalis_Winter Wren,0.9956191,398.0,401.0
+Troglodytes hiemalis_Winter Wren,0.9984811,399.0,402.0
+Troglodytes hiemalis_Winter Wren,0.995059,400.0,403.0
+Troglodytes hiemalis_Winter Wren,0.9863404,401.0,404.0
+Troglodytes hiemalis_Winter Wren,0.9912641,402.0,405.0
+Troglodytes hiemalis_Winter Wren,0.9850236,403.0,406.0
+Troglodytes hiemalis_Winter Wren,0.987181,404.0,407.0
+Troglodytes hiemalis_Winter Wren,0.27717146,405.0,408.0
+Empidonax minimus_Least Flycatcher,0.11753518,406.0,409.0
+Piranga olivacea_Scarlet Tanager,0.13424,408.0,411.0
+Empidonax virescens_Acadian Flycatcher,0.2735498,410.0,413.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114861436,410.0,413.0
+Empidonax virescens_Acadian Flycatcher,0.16407008,411.0,414.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10042674,411.0,414.0
+Geothlypis trichas_Common Yellowthroat,0.11782473,412.0,415.0
+Geothlypis trichas_Common Yellowthroat,0.23352166,413.0,416.0
+Geothlypis trichas_Common Yellowthroat,0.18591464,414.0,417.0
+Troglodytes hiemalis_Winter Wren,0.6092779,415.0,418.0
+Troglodytes hiemalis_Winter Wren,0.95316154,416.0,419.0
+Troglodytes hiemalis_Winter Wren,0.9855267,417.0,420.0
+Troglodytes hiemalis_Winter Wren,0.9925385,418.0,421.0
+Troglodytes hiemalis_Winter Wren,0.9950787,419.0,422.0
+Troglodytes hiemalis_Winter Wren,0.99509335,420.0,423.0
+Troglodytes hiemalis_Winter Wren,0.9970626,421.0,424.0
+Troglodytes hiemalis_Winter Wren,0.9722201,422.0,425.0
+Troglodytes hiemalis_Winter Wren,0.9497299,423.0,426.0
+Geothlypis trichas_Common Yellowthroat,0.10006129,424.0,427.0
+Geothlypis philadelphia_Mourning Warbler,0.14282739,425.0,428.0
+Geothlypis formosa_Kentucky Warbler,0.11439466,425.0,428.0
+Empidonax virescens_Acadian Flycatcher,0.11079359,426.0,429.0
+Empidonax virescens_Acadian Flycatcher,0.12804675,427.0,430.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11233707,429.0,432.0
+Setophaga magnolia_Magnolia Warbler,0.21578106,431.0,434.0
+Setophaga cerulea_Cerulean Warbler,0.16901454,431.0,434.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12921771,431.0,434.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.116202444,431.0,434.0
+Troglodytes hiemalis_Winter Wren,0.9644069,433.0,436.0
+Troglodytes hiemalis_Winter Wren,0.92264956,434.0,437.0
+Troglodytes hiemalis_Winter Wren,0.9820104,435.0,438.0
+Troglodytes hiemalis_Winter Wren,0.98754764,436.0,439.0
+Troglodytes hiemalis_Winter Wren,0.9922282,437.0,440.0
+Troglodytes hiemalis_Winter Wren,0.988744,438.0,441.0
+Troglodytes hiemalis_Winter Wren,0.9826574,439.0,442.0
+Troglodytes hiemalis_Winter Wren,0.82152086,440.0,443.0
+Troglodytes hiemalis_Winter Wren,0.8846713,441.0,444.0
+Troglodytes hiemalis_Winter Wren,0.96330804,442.0,445.0
+Troglodytes hiemalis_Winter Wren,0.98927325,443.0,446.0
+Troglodytes hiemalis_Winter Wren,0.9029851,444.0,447.0
+Troglodytes hiemalis_Winter Wren,0.98761344,445.0,448.0
+Troglodytes hiemalis_Winter Wren,0.9929721,446.0,449.0
+Troglodytes hiemalis_Winter Wren,0.997969,447.0,450.0
+Troglodytes hiemalis_Winter Wren,0.995135,448.0,451.0
+Troglodytes hiemalis_Winter Wren,0.9484498,449.0,452.0
+Catharus fuscescens_Veery,0.23583002,450.0,453.0
+Certhia americana_Brown Creeper,0.23327966,450.0,453.0
+Edolisoma montanum_Black-bellied Cicadabird,0.16854009,454.0,457.0
+Geothlypis philadelphia_Mourning Warbler,0.10181674,455.0,458.0
+Troglodytes hiemalis_Winter Wren,0.9136312,456.0,459.0
+Troglodytes hiemalis_Winter Wren,0.8249242,457.0,460.0
+Troglodytes hiemalis_Winter Wren,0.8659059,458.0,461.0
+Troglodytes hiemalis_Winter Wren,0.89441085,459.0,462.0
+Troglodytes hiemalis_Winter Wren,0.98127365,460.0,463.0
+Troglodytes hiemalis_Winter Wren,0.9970521,461.0,464.0
+Troglodytes hiemalis_Winter Wren,0.99395186,462.0,465.0
+Troglodytes hiemalis_Winter Wren,0.9369934,463.0,466.0
+Catharus fuscescens_Veery,0.1633354,464.0,467.0
+Catharus fuscescens_Veery,0.307897,465.0,468.0
+Catharus fuscescens_Veery,0.10805705,468.0,471.0
+Catharus fuscescens_Veery,0.38582242,469.0,472.0
+Catharus fuscescens_Veery,0.16580352,470.0,473.0
+Accipiter gentilis_Northern Goshawk,0.1134489,470.0,473.0
+Troglodytes hiemalis_Winter Wren,0.9861844,471.0,474.0
+Troglodytes hiemalis_Winter Wren,0.9927912,472.0,475.0
+Troglodytes hiemalis_Winter Wren,0.98307484,473.0,476.0
+Troglodytes hiemalis_Winter Wren,0.98981255,474.0,477.0
+Troglodytes hiemalis_Winter Wren,0.976138,475.0,478.0
+Troglodytes hiemalis_Winter Wren,0.96888936,476.0,479.0
+Catharus fuscescens_Veery,0.24661572,478.0,481.0
+Catharus fuscescens_Veery,0.2955547,479.0,482.0
+Accipiter gentilis_Northern Goshawk,0.25696063,480.0,483.0
+Troglodytes hiemalis_Winter Wren,0.5629518,482.0,485.0
+Troglodytes hiemalis_Winter Wren,0.98457575,483.0,486.0
+Troglodytes hiemalis_Winter Wren,0.975631,484.0,487.0
+Troglodytes hiemalis_Winter Wren,0.99294007,485.0,488.0
+Troglodytes hiemalis_Winter Wren,0.9965462,486.0,489.0
+Troglodytes hiemalis_Winter Wren,0.99948883,487.0,490.0
+Troglodytes hiemalis_Winter Wren,0.9998031,488.0,491.0
+Troglodytes hiemalis_Winter Wren,0.99869376,489.0,492.0
+Troglodytes hiemalis_Winter Wren,0.9990994,490.0,493.0
+Geothlypis formosa_Kentucky Warbler,0.27172247,494.0,497.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1642427,494.0,497.0
+Geothlypis formosa_Kentucky Warbler,0.1028086,496.0,499.0
+Troglodytes hiemalis_Winter Wren,0.99133694,498.0,501.0
+Troglodytes hiemalis_Winter Wren,0.96390814,499.0,502.0
+Troglodytes hiemalis_Winter Wren,0.98603916,500.0,503.0
+Troglodytes hiemalis_Winter Wren,0.99623054,501.0,504.0
+Troglodytes hiemalis_Winter Wren,0.9908195,502.0,505.0
+Troglodytes hiemalis_Winter Wren,0.99686265,503.0,506.0
+Troglodytes hiemalis_Winter Wren,0.9978023,504.0,507.0
+Troglodytes hiemalis_Winter Wren,0.9963452,505.0,508.0
+Certhia americana_Brown Creeper,0.21694107,506.0,509.0
+Setophaga fusca_Blackburnian Warbler,0.13005042,506.0,509.0
+Setophaga ruticilla_American Redstart,0.10746619,506.0,509.0
+Oporornis agilis_Connecticut Warbler,0.25577435,508.0,511.0
+Geothlypis formosa_Kentucky Warbler,0.124779105,510.0,513.0
+Troglodytes hiemalis_Winter Wren,0.91847426,512.0,515.0
+Troglodytes hiemalis_Winter Wren,0.9416602,513.0,516.0
+Troglodytes hiemalis_Winter Wren,0.9865789,514.0,517.0
+Troglodytes hiemalis_Winter Wren,0.99510854,515.0,518.0
+Troglodytes hiemalis_Winter Wren,0.9957253,516.0,519.0
+Troglodytes hiemalis_Winter Wren,0.9951624,517.0,520.0
+Troglodytes hiemalis_Winter Wren,0.99897003,518.0,521.0
+Troglodytes hiemalis_Winter Wren,0.9981704,519.0,522.0
+Troglodytes hiemalis_Winter Wren,0.9914833,520.0,523.0
+Geothlypis philadelphia_Mourning Warbler,0.16922298,522.0,525.0
+Troglodytes hiemalis_Winter Wren,0.22118059,528.0,531.0
+Troglodytes hiemalis_Winter Wren,0.8493295,529.0,532.0
+Troglodytes hiemalis_Winter Wren,0.97244745,530.0,533.0
+Troglodytes hiemalis_Winter Wren,0.99184316,531.0,534.0
+Troglodytes hiemalis_Winter Wren,0.9918609,532.0,535.0
+Troglodytes hiemalis_Winter Wren,0.99832124,533.0,536.0
+Troglodytes hiemalis_Winter Wren,0.9979426,534.0,537.0
+Troglodytes hiemalis_Winter Wren,0.9988452,535.0,538.0
+Troglodytes hiemalis_Winter Wren,0.9963045,536.0,539.0
+Certhia americana_Brown Creeper,0.29978454,537.0,540.0
+Setophaga fusca_Blackburnian Warbler,0.14931178,537.0,540.0
+Setophaga virens_Black-throated Green Warbler,0.10740689,537.0,540.0
+Geothlypis philadelphia_Mourning Warbler,0.13589655,538.0,541.0
+Vireo solitarius_Blue-headed Vireo,0.17112267,542.0,545.0
+Geothlypis philadelphia_Mourning Warbler,0.217293,543.0,546.0
+Geothlypis formosa_Kentucky Warbler,0.11416265,543.0,546.0
+Geothlypis philadelphia_Mourning Warbler,0.14708777,544.0,547.0
+Geothlypis philadelphia_Mourning Warbler,0.51008636,545.0,548.0
+Troglodytes hiemalis_Winter Wren,0.16316189,546.0,549.0
+Troglodytes hiemalis_Winter Wren,0.9974606,547.0,550.0
+Troglodytes hiemalis_Winter Wren,0.99584216,548.0,551.0
+Troglodytes hiemalis_Winter Wren,0.991122,549.0,552.0
+Troglodytes hiemalis_Winter Wren,0.9970657,550.0,553.0
+Troglodytes hiemalis_Winter Wren,0.9957074,551.0,554.0
+Troglodytes hiemalis_Winter Wren,0.99849737,552.0,555.0
+Troglodytes hiemalis_Winter Wren,0.9995869,553.0,556.0
+Troglodytes hiemalis_Winter Wren,0.99796057,554.0,557.0
+Setophaga castanea_Bay-breasted Warbler,0.2922533,555.0,558.0
+Setophaga fusca_Blackburnian Warbler,0.19883965,555.0,558.0
+Certhia americana_Brown Creeper,0.13255298,555.0,558.0
+Catharus fuscescens_Veery,0.20066117,556.0,559.0
+Geothlypis philadelphia_Mourning Warbler,0.11701175,556.0,559.0
+Catharus fuscescens_Veery,0.118245244,557.0,560.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10690308,557.0,560.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17041402,559.0,562.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11079829,560.0,563.0
+Troglodytes hiemalis_Winter Wren,0.9162405,562.0,565.0
+Troglodytes hiemalis_Winter Wren,0.99027073,563.0,566.0
+Troglodytes hiemalis_Winter Wren,0.99172664,564.0,567.0
+Troglodytes hiemalis_Winter Wren,0.99607396,565.0,568.0
+Troglodytes hiemalis_Winter Wren,0.9897619,566.0,569.0
+Troglodytes hiemalis_Winter Wren,0.9984779,567.0,570.0
+Troglodytes hiemalis_Winter Wren,0.9995252,568.0,571.0
+Troglodytes hiemalis_Winter Wren,0.998359,569.0,572.0
+Troglodytes hiemalis_Winter Wren,0.9901398,570.0,573.0
+Catharus fuscescens_Veery,0.67724526,571.0,574.0
+Catharus fuscescens_Veery,0.78087425,572.0,575.0
+Geothlypis philadelphia_Mourning Warbler,0.14021717,577.0,580.0
+Geothlypis formosa_Kentucky Warbler,0.13953122,577.0,580.0
+Troglodytes hiemalis_Winter Wren,0.2634026,578.0,581.0
+Setophaga citrina_Hooded Warbler,0.15097544,578.0,581.0
+Troglodytes hiemalis_Winter Wren,0.96970546,579.0,582.0
+Troglodytes hiemalis_Winter Wren,0.9895096,580.0,583.0
+Troglodytes hiemalis_Winter Wren,0.9866007,581.0,584.0
+Troglodytes hiemalis_Winter Wren,0.94458616,582.0,585.0
+Troglodytes hiemalis_Winter Wren,0.9768612,583.0,586.0
+Troglodytes hiemalis_Winter Wren,0.9859255,584.0,587.0
+Troglodytes hiemalis_Winter Wren,0.99921846,585.0,588.0
+Troglodytes hiemalis_Winter Wren,0.99759954,586.0,589.0
+Troglodytes hiemalis_Winter Wren,0.9831729,587.0,590.0
+Certhia americana_Brown Creeper,0.28316832,587.0,590.0
+Catharus fuscescens_Veery,0.43882158,588.0,591.0
+Catharus fuscescens_Veery,0.6924663,589.0,592.0
+Catharus fuscescens_Veery,0.55035126,590.0,593.0
+Catharus fuscescens_Veery,0.7779308,591.0,594.0
+Geothlypis philadelphia_Mourning Warbler,0.17225908,592.0,595.0
+Catharus fuscescens_Veery,0.101136185,592.0,595.0
+Geothlypis philadelphia_Mourning Warbler,0.13507606,593.0,596.0
+Oporornis agilis_Connecticut Warbler,0.1837253,594.0,597.0
+Geothlypis philadelphia_Mourning Warbler,0.14056589,594.0,597.0
+Troglodytes hiemalis_Winter Wren,0.9883625,595.0,598.0
+Troglodytes hiemalis_Winter Wren,0.9811832,596.0,599.0
+Troglodytes hiemalis_Winter Wren,0.9944185,597.0,600.0
+Troglodytes hiemalis_Winter Wren,0.9969409,598.0,601.0
+Troglodytes hiemalis_Winter Wren,0.9985448,599.0,602.0
+Troglodytes hiemalis_Winter Wren,0.9987423,600.0,603.0
+Troglodytes hiemalis_Winter Wren,0.9992409,601.0,604.0
+Troglodytes hiemalis_Winter Wren,0.99905723,602.0,605.0
+Bombycilla cedrorum_Cedar Waxwing,0.123251684,603.0,606.0
+Catharus fuscescens_Veery,0.12668364,604.0,607.0
+Catharus fuscescens_Veery,0.4844046,605.0,608.0
+Catharus fuscescens_Veery,0.14105594,606.0,609.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13488734,607.0,610.0
+Catharus fuscescens_Veery,0.5274712,610.0,613.0
+Troglodytes hiemalis_Winter Wren,0.55681187,611.0,614.0
+Troglodytes hiemalis_Winter Wren,0.98409593,612.0,615.0
+Troglodytes hiemalis_Winter Wren,0.9940112,613.0,616.0
+Troglodytes hiemalis_Winter Wren,0.9946242,614.0,617.0
+Troglodytes hiemalis_Winter Wren,0.99678457,615.0,618.0
+Troglodytes hiemalis_Winter Wren,0.99963045,616.0,619.0
+Troglodytes hiemalis_Winter Wren,0.9941683,617.0,620.0
+Catharus fuscescens_Veery,0.41879743,619.0,622.0
+Catharus minimus_Gray-cheeked Thrush,0.14980617,619.0,622.0
+Catharus fuscescens_Veery,0.240869,621.0,624.0
+Catharus fuscescens_Veery,0.6387405,622.0,625.0
+Catharus fuscescens_Veery,0.7099367,623.0,626.0
+Catharus fuscescens_Veery,0.2252432,624.0,627.0
+Troglodytes hiemalis_Winter Wren,0.17817138,624.0,627.0
+Troglodytes hiemalis_Winter Wren,0.9757739,625.0,628.0
+Troglodytes hiemalis_Winter Wren,0.9781277,626.0,629.0
+Troglodytes hiemalis_Winter Wren,0.9951251,627.0,630.0
+Troglodytes hiemalis_Winter Wren,0.99736893,628.0,631.0
+Troglodytes hiemalis_Winter Wren,0.99907696,629.0,632.0
+Troglodytes hiemalis_Winter Wren,0.9997991,630.0,633.0
+Troglodytes hiemalis_Winter Wren,0.9988807,631.0,634.0
+Troglodytes hiemalis_Winter Wren,0.996564,632.0,635.0
+Certhia americana_Brown Creeper,0.10200281,632.0,635.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11500462,633.0,636.0
+Catharus fuscescens_Veery,0.43846375,634.0,637.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11238292,634.0,637.0
+Catharus fuscescens_Veery,0.24669103,635.0,638.0
+Catharus fuscescens_Veery,0.21257976,636.0,639.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14194089,636.0,639.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13205624,637.0,640.0
+Empidonax virescens_Acadian Flycatcher,0.107904635,637.0,640.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11945976,638.0,641.0
+Troglodytes hiemalis_Winter Wren,0.9387455,639.0,642.0
+Troglodytes hiemalis_Winter Wren,0.9913009,640.0,643.0
+Troglodytes hiemalis_Winter Wren,0.98332006,641.0,644.0
+Troglodytes hiemalis_Winter Wren,0.9970245,642.0,645.0
+Troglodytes hiemalis_Winter Wren,0.9968754,643.0,646.0
+Troglodytes hiemalis_Winter Wren,0.9994419,644.0,647.0
+Troglodytes hiemalis_Winter Wren,0.99975234,645.0,648.0
+Troglodytes hiemalis_Winter Wren,0.9966138,646.0,649.0
+Troglodytes hiemalis_Winter Wren,0.9939348,647.0,650.0
+Certhia americana_Brown Creeper,0.111445546,647.0,650.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.111715406,653.0,656.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10729778,655.0,658.0
+Troglodytes hiemalis_Winter Wren,0.1044403,656.0,659.0
+Troglodytes hiemalis_Winter Wren,0.9964079,657.0,660.0
+Troglodytes hiemalis_Winter Wren,0.9815963,658.0,661.0
+Troglodytes hiemalis_Winter Wren,0.99650687,659.0,662.0
+Troglodytes hiemalis_Winter Wren,0.9990625,660.0,663.0
+Troglodytes hiemalis_Winter Wren,0.9990067,661.0,664.0
+Troglodytes hiemalis_Winter Wren,0.99907047,662.0,665.0
+Troglodytes hiemalis_Winter Wren,0.99923,663.0,666.0
+Troglodytes hiemalis_Winter Wren,0.99018747,664.0,667.0
+Geothlypis formosa_Kentucky Warbler,0.10272385,666.0,669.0
+Catharus fuscescens_Veery,0.54039264,667.0,670.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10689008,667.0,670.0
+Catharus fuscescens_Veery,0.1791671,668.0,671.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12623005,668.0,671.0
+Catharus fuscescens_Veery,0.56250536,669.0,672.0
+Troglodytes hiemalis_Winter Wren,0.9723891,670.0,673.0
+Troglodytes hiemalis_Winter Wren,0.9952669,671.0,674.0
+Troglodytes hiemalis_Winter Wren,0.9894443,672.0,675.0
+Troglodytes hiemalis_Winter Wren,0.99641174,673.0,676.0
+Troglodytes hiemalis_Winter Wren,0.9988619,674.0,677.0
+Troglodytes hiemalis_Winter Wren,0.99919254,675.0,678.0
+Troglodytes hiemalis_Winter Wren,0.9993749,676.0,679.0
+Troglodytes hiemalis_Winter Wren,0.999146,677.0,680.0
+Troglodytes hiemalis_Winter Wren,0.99043137,678.0,681.0
+Certhia americana_Brown Creeper,0.4544135,678.0,681.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1141113,679.0,682.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10493359,680.0,683.0
+Catharus fuscescens_Veery,0.17881715,681.0,684.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1244905,681.0,684.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18142332,682.0,685.0
+Catharus fuscescens_Veery,0.16708282,683.0,686.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12611775,683.0,686.0
+Troglodytes hiemalis_Winter Wren,0.8280372,684.0,687.0
+Setophaga citrina_Hooded Warbler,0.18036522,684.0,687.0
+Empidonax virescens_Acadian Flycatcher,0.11563774,684.0,687.0
+Troglodytes hiemalis_Winter Wren,0.98895407,685.0,688.0
+Troglodytes hiemalis_Winter Wren,0.99048597,686.0,689.0
+Troglodytes hiemalis_Winter Wren,0.9936737,687.0,690.0
+Troglodytes hiemalis_Winter Wren,0.99560404,688.0,691.0
+Troglodytes hiemalis_Winter Wren,0.99410206,689.0,692.0
+Troglodytes hiemalis_Winter Wren,0.99813724,690.0,693.0
+Troglodytes hiemalis_Winter Wren,0.9998022,691.0,694.0
+Troglodytes hiemalis_Winter Wren,0.99921966,692.0,695.0
+Troglodytes hiemalis_Winter Wren,0.99865985,693.0,696.0
+Certhia americana_Brown Creeper,0.1274499,693.0,696.0
+Geothlypis trichas_Common Yellowthroat,0.196854,703.0,706.0
+Geothlypis trichas_Common Yellowthroat,0.30869722,704.0,707.0
+Geothlypis trichas_Common Yellowthroat,0.10382418,705.0,708.0
+Cardellina canadensis_Canada Warbler,0.48837498,709.0,712.0
+Geothlypis trichas_Common Yellowthroat,0.19797039,710.0,713.0
+Geothlypis trichas_Common Yellowthroat,0.14693092,711.0,714.0
+Geothlypis trichas_Common Yellowthroat,0.16786984,712.0,714.4320181405895

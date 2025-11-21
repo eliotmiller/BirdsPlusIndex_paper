@@ -1,0 +1,21 @@
+species,score,start_time,end_time
+Carduelis carduelis_European Goldfinch,0.70676416,0.0,3.0
+Cardellina canadensis_Canada Warbler,0.11683578,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16760522,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.12594737,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.32790416,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.17906061,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.20366564,7.0,10.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.28351378,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.20998923,16.0,19.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.28619015,20.0,23.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.50689864,21.0,24.0
+Canachites canadensis_Spruce Grouse,0.10912311,21.0,24.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.22506142,22.0,25.0
+Setophaga ruticilla_American Redstart,0.1876061,23.0,26.0
+Setophaga magnolia_Magnolia Warbler,0.11448282,23.0,26.0
+Geothlypis tolmiei_MacGillivray's Warbler,0.10589819,24.0,27.0
+Contopus virens_Eastern Wood-Pewee,0.3834499,26.0,29.0
+Contopus cooperi_Olive-sided Flycatcher,0.37562943,26.0,29.0
+Contopus virens_Eastern Wood-Pewee,0.37273246,27.0,30.0
+Human non-vocal_Human non-vocal,0.2773761,29.0,31.968027210884355

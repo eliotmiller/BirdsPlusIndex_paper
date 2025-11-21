@@ -1,0 +1,134 @@
+species,score,start_time,end_time
+Lithobates palustris_Pickerel Frog,0.54334515,0.0,3.0
+Lithobates clamitans_Green Frog,0.3295014,0.0,3.0
+Lithobates palustris_Pickerel Frog,0.54494035,1.0,4.0
+Lithobates clamitans_Green Frog,0.3179235,1.0,4.0
+Gavia immer_Common Loon,0.1323212,1.0,4.0
+Lithobates palustris_Pickerel Frog,0.48179135,2.0,5.0
+Lithobates clamitans_Green Frog,0.41909763,2.0,5.0
+Lithobates palustris_Pickerel Frog,0.8992633,3.0,6.0
+Aegolius acadicus_Northern Saw-whet Owl,0.5619509,3.0,6.0
+Lithobates palustris_Pickerel Frog,0.8566101,4.0,7.0
+Aegolius acadicus_Northern Saw-whet Owl,0.47232297,4.0,7.0
+Aegolius acadicus_Northern Saw-whet Owl,0.8690971,5.0,8.0
+Lithobates palustris_Pickerel Frog,0.67826164,5.0,8.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7263646,6.0,9.0
+Lithobates palustris_Pickerel Frog,0.54134023,6.0,9.0
+Aegolius acadicus_Northern Saw-whet Owl,0.85036516,7.0,10.0
+Lithobates palustris_Pickerel Frog,0.36727512,7.0,10.0
+Aegolius acadicus_Northern Saw-whet Owl,0.47491437,8.0,11.0
+Lithobates palustris_Pickerel Frog,0.4218902,8.0,11.0
+Pseudacris crucifer_Spring Peeper,0.11941511,8.0,11.0
+Lithobates palustris_Pickerel Frog,0.66740644,9.0,12.0
+Pseudacris crucifer_Spring Peeper,0.50281507,9.0,12.0
+Aegolius acadicus_Northern Saw-whet Owl,0.12962544,9.0,12.0
+Lithobates palustris_Pickerel Frog,0.4540575,10.0,13.0
+Pseudacris crucifer_Spring Peeper,0.23470278,10.0,13.0
+Aegolius acadicus_Northern Saw-whet Owl,0.15948057,10.0,13.0
+Lithobates palustris_Pickerel Frog,0.46312606,11.0,14.0
+Pseudacris crucifer_Spring Peeper,0.17245775,11.0,14.0
+Lithobates clamitans_Green Frog,0.38286614,12.0,15.0
+Lithobates palustris_Pickerel Frog,0.29042828,12.0,15.0
+Pseudacris crucifer_Spring Peeper,0.12463954,12.0,15.0
+Lithobates palustris_Pickerel Frog,0.25281227,13.0,16.0
+Lithobates clamitans_Green Frog,0.15226069,13.0,16.0
+Pseudacris crucifer_Spring Peeper,0.10820655,13.0,16.0
+Lithobates clamitans_Green Frog,0.6690804,14.0,17.0
+Lithobates palustris_Pickerel Frog,0.5402969,14.0,17.0
+Pseudacris crucifer_Spring Peeper,0.13503209,14.0,17.0
+Aegolius acadicus_Northern Saw-whet Owl,0.10824109,14.0,17.0
+Lithobates palustris_Pickerel Frog,0.42036545,15.0,18.0
+Lithobates palustris_Pickerel Frog,0.36002705,16.0,19.0
+Aegolius acadicus_Northern Saw-whet Owl,0.29556933,16.0,19.0
+Lithobates clamitans_Green Frog,0.16305251,16.0,19.0
+Lithobates palustris_Pickerel Frog,0.3302554,17.0,20.0
+Lithobates clamitans_Green Frog,0.22439438,17.0,20.0
+Aegolius acadicus_Northern Saw-whet Owl,0.20316823,17.0,20.0
+Lithobates palustris_Pickerel Frog,0.79351807,18.0,21.0
+Aegolius acadicus_Northern Saw-whet Owl,0.62546223,18.0,21.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7448557,19.0,22.0
+Lithobates palustris_Pickerel Frog,0.63956743,19.0,22.0
+Gavia immer_Common Loon,0.1347996,19.0,22.0
+Lithobates palustris_Pickerel Frog,0.38814515,20.0,23.0
+Aegolius acadicus_Northern Saw-whet Owl,0.3069913,20.0,23.0
+Pseudacris crucifer_Spring Peeper,0.110381104,20.0,23.0
+Aegolius acadicus_Northern Saw-whet Owl,0.45872197,21.0,24.0
+Lithobates palustris_Pickerel Frog,0.44574958,21.0,24.0
+Aegolius acadicus_Northern Saw-whet Owl,0.6120814,22.0,25.0
+Lithobates palustris_Pickerel Frog,0.4101343,22.0,25.0
+Gavia immer_Common Loon,0.16003676,22.0,25.0
+Lithobates palustris_Pickerel Frog,0.33892447,23.0,26.0
+Lithobates clamitans_Green Frog,0.30651018,23.0,26.0
+Lithobates palustris_Pickerel Frog,0.23746718,24.0,27.0
+Pseudacris crucifer_Spring Peeper,0.19625129,24.0,27.0
+Lithobates clamitans_Green Frog,0.17822787,24.0,27.0
+Lithobates palustris_Pickerel Frog,0.2310835,25.0,28.0
+Pseudacris crucifer_Spring Peeper,0.18145917,25.0,28.0
+Aegolius acadicus_Northern Saw-whet Owl,0.51246446,26.0,29.0
+Lithobates palustris_Pickerel Frog,0.45547763,26.0,29.0
+Gavia immer_Common Loon,0.18673216,26.0,29.0
+Lithobates palustris_Pickerel Frog,0.7509077,27.0,30.0
+Aegolius acadicus_Northern Saw-whet Owl,0.39081377,27.0,30.0
+Lithobates palustris_Pickerel Frog,0.7963071,28.0,31.0
+Aegolius acadicus_Northern Saw-whet Owl,0.59242475,28.0,31.0
+Gavia immer_Common Loon,0.15463358,28.0,31.0
+Lithobates palustris_Pickerel Frog,0.5560871,29.0,32.0
+Aegolius acadicus_Northern Saw-whet Owl,0.18771195,29.0,32.0
+Lithobates clamitans_Green Frog,0.108957455,29.0,32.0
+Lithobates palustris_Pickerel Frog,0.4703858,30.0,33.0
+Aegolius acadicus_Northern Saw-whet Owl,0.2047836,30.0,33.0
+Lithobates clamitans_Green Frog,0.1997273,30.0,33.0
+Lithobates palustris_Pickerel Frog,0.72938544,31.0,34.0
+Aegolius acadicus_Northern Saw-whet Owl,0.31493416,31.0,34.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7095739,32.0,35.0
+Lithobates palustris_Pickerel Frog,0.6649802,32.0,35.0
+Aegolius acadicus_Northern Saw-whet Owl,0.8779705,33.0,36.0
+Lithobates palustris_Pickerel Frog,0.34201995,33.0,36.0
+Aegolius acadicus_Northern Saw-whet Owl,0.9124941,34.0,37.0
+Lithobates palustris_Pickerel Frog,0.33705217,34.0,37.0
+Aegolius acadicus_Northern Saw-whet Owl,0.86782384,35.0,38.0
+Lithobates palustris_Pickerel Frog,0.15738541,35.0,38.0
+Aegolius acadicus_Northern Saw-whet Owl,0.8478569,36.0,39.0
+Lithobates palustris_Pickerel Frog,0.3418805,36.0,39.0
+Lithobates clamitans_Green Frog,0.6825938,37.0,40.0
+Lithobates palustris_Pickerel Frog,0.41764447,37.0,40.0
+Lithobates palustris_Pickerel Frog,0.19206129,38.0,41.0
+Lithobates clamitans_Green Frog,0.18986428,38.0,41.0
+Lithobates clamitans_Green Frog,0.48417863,39.0,42.0
+Lithobates palustris_Pickerel Frog,0.46178445,39.0,42.0
+Aegolius acadicus_Northern Saw-whet Owl,0.83960193,40.0,43.0
+Lithobates palustris_Pickerel Frog,0.626294,40.0,43.0
+Aegolius acadicus_Northern Saw-whet Owl,0.6012994,41.0,44.0
+Lithobates palustris_Pickerel Frog,0.5722065,41.0,44.0
+Lithobates palustris_Pickerel Frog,0.87007725,42.0,45.0
+Aegolius acadicus_Northern Saw-whet Owl,0.42530006,42.0,45.0
+Gavia immer_Common Loon,0.12164658,42.0,45.0
+Lithobates palustris_Pickerel Frog,0.72504586,43.0,46.0
+Aegolius acadicus_Northern Saw-whet Owl,0.5602598,43.0,46.0
+Lithobates palustris_Pickerel Frog,0.5891882,44.0,47.0
+Aegolius acadicus_Northern Saw-whet Owl,0.507092,44.0,47.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7108522,45.0,48.0
+Lithobates palustris_Pickerel Frog,0.66981226,45.0,48.0
+Gavia immer_Common Loon,0.12461676,45.0,48.0
+Lithobates palustris_Pickerel Frog,0.77604234,46.0,49.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7221028,46.0,49.0
+Lithobates palustris_Pickerel Frog,0.84245783,47.0,50.0
+Aegolius acadicus_Northern Saw-whet Owl,0.8212876,47.0,50.0
+Aegolius acadicus_Northern Saw-whet Owl,0.808436,48.0,51.0
+Lithobates palustris_Pickerel Frog,0.76800513,48.0,51.0
+Aegolius acadicus_Northern Saw-whet Owl,0.7730786,49.0,52.0
+Lithobates palustris_Pickerel Frog,0.7450119,49.0,52.0
+Lithobates palustris_Pickerel Frog,0.61187845,50.0,53.0
+Aegolius acadicus_Northern Saw-whet Owl,0.59572273,50.0,53.0
+Aegolius acadicus_Northern Saw-whet Owl,0.5056127,51.0,54.0
+Lithobates palustris_Pickerel Frog,0.45091295,51.0,54.0
+Lithobates palustris_Pickerel Frog,0.84659684,52.0,55.0
+Pseudacris crucifer_Spring Peeper,0.26263523,52.0,55.0
+Aegolius acadicus_Northern Saw-whet Owl,0.1874528,52.0,55.0
+Lithobates palustris_Pickerel Frog,0.8825849,53.0,56.0
+Pseudacris crucifer_Spring Peeper,0.17304695,53.0,56.0
+Lithobates palustris_Pickerel Frog,0.75411683,54.0,57.0
+Pseudacris crucifer_Spring Peeper,0.11765358,54.0,57.0
+Lithobates palustris_Pickerel Frog,0.87022156,55.0,58.0
+Lithobates palustris_Pickerel Frog,0.9705156,56.0,59.0
+Lithobates palustris_Pickerel Frog,0.91551536,57.0,59.448027210884355

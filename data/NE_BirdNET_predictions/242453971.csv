@@ -1,0 +1,128 @@
+species,score,start_time,end_time
+Rallus limicola_Virginia Rail,0.98318845,0.0,3.0
+Rallus limicola_Virginia Rail,0.8999598,1.0,4.0
+Sternula antillarum_Least Tern,0.20011477,1.0,4.0
+Melospiza georgiana_Swamp Sparrow,0.6962419,2.0,5.0
+Rallus limicola_Virginia Rail,0.99371415,3.0,6.0
+Porzana carolina_Sora,0.2553648,3.0,6.0
+Rallus limicola_Virginia Rail,0.85609967,4.0,7.0
+Rallus limicola_Virginia Rail,0.77687013,5.0,8.0
+Sternula antillarum_Least Tern,0.35411036,7.0,10.0
+Rallus limicola_Virginia Rail,0.35027796,7.0,10.0
+Rallus limicola_Virginia Rail,0.62591517,8.0,11.0
+Sternula antillarum_Least Tern,0.16899614,8.0,11.0
+Rallus limicola_Virginia Rail,0.8689145,9.0,12.0
+Sternula antillarum_Least Tern,0.1991955,9.0,12.0
+Rallus limicola_Virginia Rail,0.48086444,10.0,13.0
+Rallus limicola_Virginia Rail,0.94562155,11.0,14.0
+Rallus limicola_Virginia Rail,0.92901254,12.0,15.0
+Rallus limicola_Virginia Rail,0.9953302,13.0,16.0
+Haliaeetus leucocephalus_Bald Eagle,0.18950237,13.0,16.0
+Rallus limicola_Virginia Rail,0.9930482,14.0,17.0
+Haliaeetus leucocephalus_Bald Eagle,0.2994342,14.0,17.0
+Porzana carolina_Sora,0.22334848,14.0,17.0
+Rallus limicola_Virginia Rail,0.98906624,15.0,18.0
+Porzana carolina_Sora,0.24919413,15.0,18.0
+Haliaeetus leucocephalus_Bald Eagle,0.11113603,15.0,18.0
+Rallus limicola_Virginia Rail,0.98962104,16.0,19.0
+Rallus limicola_Virginia Rail,0.9409165,17.0,20.0
+Rallus limicola_Virginia Rail,0.89413744,18.0,21.0
+Rallus limicola_Virginia Rail,0.9929143,19.0,22.0
+Rallus limicola_Virginia Rail,0.9812118,20.0,23.0
+Rallus limicola_Virginia Rail,0.9964528,21.0,24.0
+Haliaeetus leucocephalus_Bald Eagle,0.23189329,21.0,24.0
+Rallus limicola_Virginia Rail,0.98878163,22.0,25.0
+Haliaeetus leucocephalus_Bald Eagle,0.1512966,22.0,25.0
+Rallus limicola_Virginia Rail,0.99142456,23.0,26.0
+Rallus limicola_Virginia Rail,0.99100447,24.0,27.0
+Rallus limicola_Virginia Rail,0.9955843,25.0,28.0
+Rallus limicola_Virginia Rail,0.7583783,27.0,30.0
+Rallus limicola_Virginia Rail,0.8400789,28.0,31.0
+Ixobrychus exilis_Least Bittern,0.15289362,28.0,31.0
+Rallus limicola_Virginia Rail,0.9282048,29.0,32.0
+Rallus limicola_Virginia Rail,0.9440131,30.0,33.0
+Porzana carolina_Sora,0.109632045,30.0,33.0
+Rallus limicola_Virginia Rail,0.98841107,31.0,34.0
+Haliaeetus leucocephalus_Bald Eagle,0.19015479,31.0,34.0
+Rallus limicola_Virginia Rail,0.99496233,32.0,35.0
+Haliaeetus leucocephalus_Bald Eagle,0.30105022,32.0,35.0
+Rallus limicola_Virginia Rail,0.572723,33.0,36.0
+Haliaeetus leucocephalus_Bald Eagle,0.23819077,33.0,36.0
+Rallus limicola_Virginia Rail,0.93081117,35.0,38.0
+Rallus limicola_Virginia Rail,0.8973773,36.0,39.0
+Rallus limicola_Virginia Rail,0.9550601,37.0,40.0
+Pardirallus maculatus_Spotted Rail,0.15014309,37.0,40.0
+Rallus limicola_Virginia Rail,0.6623697,38.0,41.0
+Rallus limicola_Virginia Rail,0.6525226,39.0,42.0
+Lanius excubitor_Great Gray Shrike,0.11666939,39.0,42.0
+Pardirallus maculatus_Spotted Rail,0.10220302,39.0,42.0
+Rallus limicola_Virginia Rail,0.78532064,40.0,43.0
+Rallus limicola_Virginia Rail,0.71517247,41.0,44.0
+Rallus limicola_Virginia Rail,0.9905545,42.0,45.0
+Perdix perdix_Gray Partridge,0.22656405,42.0,45.0
+Rallus limicola_Virginia Rail,0.9924581,43.0,46.0
+Rallus limicola_Virginia Rail,0.665661,44.0,47.0
+Melospiza georgiana_Swamp Sparrow,0.10178467,44.0,47.0
+Botaurus lentiginosus_American Bittern,0.10065751,44.0,47.0
+Ixobrychus minutus_Little Bittern,0.9173839,45.0,48.0
+Rallus limicola_Virginia Rail,0.19993787,46.0,49.0
+Rallus limicola_Virginia Rail,0.6671441,47.0,50.0
+Rallus limicola_Virginia Rail,0.91553265,48.0,51.0
+Sternula antillarum_Least Tern,0.3011804,48.0,51.0
+Rallus limicola_Virginia Rail,0.6421697,49.0,52.0
+Acrocephalus scirpaceus_Eurasian Reed Warbler,0.33275995,50.0,53.0
+Acrocephalus schoenobaenus_Sedge Warbler,0.25136268,50.0,53.0
+Rallus limicola_Virginia Rail,0.16595538,50.0,53.0
+Strix varia_Barred Owl,0.15799518,51.0,54.0
+Rallus limicola_Virginia Rail,0.81685966,52.0,55.0
+Rallus limicola_Virginia Rail,0.80645096,53.0,56.0
+Rallus limicola_Virginia Rail,0.938956,54.0,57.0
+Rallus limicola_Virginia Rail,0.77496725,55.0,58.0
+Rallus limicola_Virginia Rail,0.94033813,56.0,59.0
+Rallus limicola_Virginia Rail,0.62771493,57.0,60.0
+Cygnus columbianus_Tundra Swan,0.11643373,59.0,62.0
+Rallus limicola_Virginia Rail,0.9887917,60.0,63.0
+Porzana carolina_Sora,0.123260014,60.0,63.0
+Rallus limicola_Virginia Rail,0.99602157,61.0,64.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18913767,61.0,64.0
+Pardirallus maculatus_Spotted Rail,0.11619267,61.0,64.0
+Porzana carolina_Sora,0.1086307,61.0,64.0
+Rallus limicola_Virginia Rail,0.95079774,62.0,65.0
+Rallus limicola_Virginia Rail,0.9188363,63.0,66.0
+Pardirallus maculatus_Spotted Rail,0.19355568,63.0,66.0
+Rallus limicola_Virginia Rail,0.8554935,64.0,67.0
+Rallus limicola_Virginia Rail,0.9310952,65.0,68.0
+Rallus limicola_Virginia Rail,0.5643497,66.0,69.0
+Rallus limicola_Virginia Rail,0.991704,67.0,70.0
+Porzana carolina_Sora,0.10699647,67.0,70.0
+Rallus limicola_Virginia Rail,0.9992304,68.0,71.0
+Porzana carolina_Sora,0.13632889,68.0,71.0
+Rallus limicola_Virginia Rail,0.9976999,69.0,72.0
+Rallus limicola_Virginia Rail,0.99754995,70.0,73.0
+Pardirallus maculatus_Spotted Rail,0.11694383,70.0,73.0
+Rallus limicola_Virginia Rail,0.9980774,71.0,74.0
+Rallus limicola_Virginia Rail,0.9628418,72.0,75.0
+Rallus limicola_Virginia Rail,0.99915254,73.0,76.0
+Rallus limicola_Virginia Rail,0.9994783,74.0,77.0
+Rallus limicola_Virginia Rail,0.99925774,75.0,78.0
+Haliaeetus leucocephalus_Bald Eagle,0.21289366,75.0,78.0
+Rallus limicola_Virginia Rail,0.992254,76.0,79.0
+Haliaeetus leucocephalus_Bald Eagle,0.27577737,76.0,79.0
+Rallus limicola_Virginia Rail,0.9972372,77.0,80.0
+Haliaeetus leucocephalus_Bald Eagle,0.34728706,77.0,80.0
+Porzana carolina_Sora,0.12162477,77.0,80.0
+Rallus limicola_Virginia Rail,0.98443246,78.0,81.0
+Rallus limicola_Virginia Rail,0.99630463,79.0,82.0
+Rallus limicola_Virginia Rail,0.99525297,80.0,83.0
+Rallus aquaticus_Water Rail,0.13510725,80.0,83.0
+Rallus limicola_Virginia Rail,0.9622672,81.0,84.0
+Haliaeetus leucocephalus_Bald Eagle,0.16009052,81.0,84.0
+Rallus limicola_Virginia Rail,0.9793666,82.0,85.0
+Rallus limicola_Virginia Rail,0.9978556,83.0,86.0
+Haliaeetus leucocephalus_Bald Eagle,0.15425332,83.0,86.0
+Rallus limicola_Virginia Rail,0.6588893,84.0,87.0
+Agelaius phoeniceus_Red-winged Blackbird,0.31769982,84.0,87.0
+Rallus limicola_Virginia Rail,0.4948482,85.0,88.0
+Agelaius phoeniceus_Red-winged Blackbird,0.31094182,85.0,88.0
+Rallus limicola_Virginia Rail,0.9483424,86.0,89.0
+Rallus limicola_Virginia Rail,0.98559165,87.0,89.42403628117914

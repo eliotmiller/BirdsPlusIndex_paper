@@ -1,0 +1,74 @@
+species,score,start_time,end_time
+Falco sparverius_American Kestrel,0.20828238,2.0,5.0
+Rhipidura fuliginosa_New Zealand Fantail,0.1596418,2.0,5.0
+Melozone fusca_Canyon Towhee,0.10103142,2.0,5.0
+Rhipidura fuliginosa_New Zealand Fantail,0.1108173,3.0,6.0
+Troglodytes aedon_House Wren,0.1661985,4.0,7.0
+Troglodytes aedon_House Wren,0.11653784,5.0,8.0
+Falco sparverius_American Kestrel,0.40945095,7.0,10.0
+Troglodytes aedon_House Wren,0.8215581,8.0,11.0
+Troglodytes aedon_House Wren,0.99356973,9.0,12.0
+Troglodytes aedon_House Wren,0.9968682,10.0,13.0
+Troglodytes aedon_House Wren,0.99650156,11.0,14.0
+Troglodytes aedon_House Wren,0.6148046,12.0,15.0
+Spinus tristis_American Goldfinch,0.27641675,44.0,47.0
+Spinus tristis_American Goldfinch,0.4880765,45.0,48.0
+Spinus tristis_American Goldfinch,0.5313207,46.0,49.0
+Spinus tristis_American Goldfinch,0.40322712,47.0,50.0
+Spinus tristis_American Goldfinch,0.12843685,48.0,51.0
+Chordeiles minor_Common Nighthawk,0.22735043,49.0,52.0
+Spinus tristis_American Goldfinch,0.16901474,53.0,56.0
+Bombycilla cedrorum_Cedar Waxwing,0.19215296,60.0,63.0
+Bombycilla cedrorum_Cedar Waxwing,0.14785746,62.0,65.0
+Bombycilla cedrorum_Cedar Waxwing,0.24952187,63.0,66.0
+Certhia americana_Brown Creeper,0.103088334,66.0,69.0
+Rhipidura fuliginosa_New Zealand Fantail,0.20546038,71.0,74.0
+Troglodytes aedon_House Wren,0.8703248,72.0,75.0
+Troglodytes aedon_House Wren,0.9913065,73.0,76.0
+Troglodytes aedon_House Wren,0.99696606,74.0,77.0
+Troglodytes aedon_House Wren,0.992767,75.0,78.0
+Troglodytes aedon_House Wren,0.5578201,76.0,79.0
+Spinus tristis_American Goldfinch,0.15026137,80.0,83.0
+Spinus tristis_American Goldfinch,0.31602594,81.0,84.0
+Bombycilla cedrorum_Cedar Waxwing,0.106401704,81.0,84.0
+Spinus tristis_American Goldfinch,0.24715538,82.0,85.0
+Spinus tristis_American Goldfinch,0.11157499,86.0,89.0
+Bombycilla cedrorum_Cedar Waxwing,0.20042188,87.0,90.0
+Troglodytes aedon_House Wren,0.2618704,88.0,91.0
+Troglodytes aedon_House Wren,0.98987234,89.0,92.0
+Troglodytes aedon_House Wren,0.9976986,90.0,93.0
+Troglodytes aedon_House Wren,0.99876773,91.0,94.0
+Troglodytes aedon_House Wren,0.9971765,92.0,95.0
+Troglodytes aedon_House Wren,0.22619364,93.0,96.0
+Haemorhous purpureus_Purple Finch,0.175959,93.0,96.0
+Ptilotula ornata_Yellow-plumed Honeyeater,0.13530065,101.0,104.0
+Melithreptus validirostris_Strong-billed Honeyeater,0.10343018,103.0,106.0
+Troglodytes aedon_House Wren,0.742165,104.0,107.0
+Troglodytes aedon_House Wren,0.9917007,105.0,108.0
+Troglodytes aedon_House Wren,0.9979517,106.0,109.0
+Troglodytes aedon_House Wren,0.98895323,107.0,110.0
+Troglodytes aedon_House Wren,0.4587093,108.0,111.0
+Iduna pallida_Eastern Olivaceous Warbler,0.1079084,113.0,116.0
+Troglodytes aedon_House Wren,0.102622524,113.0,116.0
+Troglodytes aedon_House Wren,0.98023486,114.0,117.0
+Troglodytes aedon_House Wren,0.9988815,115.0,118.0
+Troglodytes aedon_House Wren,0.99910504,116.0,119.0
+Troglodytes aedon_House Wren,0.993419,117.0,120.0
+Troglodytes aedon_House Wren,0.62219447,118.0,121.0
+Passer domesticus_House Sparrow,0.10314894,119.0,122.0
+Haemorhous cassinii_Cassin's Finch,0.100021675,120.0,123.0
+Troglodytes aedon_House Wren,0.17459004,121.0,124.0
+Troglodytes aedon_House Wren,0.9751325,122.0,125.0
+Troglodytes aedon_House Wren,0.9969529,123.0,126.0
+Troglodytes aedon_House Wren,0.99785835,124.0,127.0
+Troglodytes aedon_House Wren,0.98856574,125.0,128.0
+Troglodytes aedon_House Wren,0.13583145,126.0,129.0
+Spizella passerina_Chipping Sparrow,0.7113897,127.0,130.0
+Spizella passerina_Chipping Sparrow,0.5882427,128.0,131.0
+Spizella passerina_Chipping Sparrow,0.117638096,129.0,132.0
+Rhipidura fuliginosa_New Zealand Fantail,0.29402295,132.0,135.0
+Troglodytes aedon_House Wren,0.13770314,132.0,135.0
+Troglodytes aedon_House Wren,0.87328464,133.0,136.0
+Troglodytes aedon_House Wren,0.9965675,134.0,137.0
+Troglodytes aedon_House Wren,0.99683446,135.0,138.0
+Troglodytes aedon_House Wren,0.98816526,136.0,139.0
