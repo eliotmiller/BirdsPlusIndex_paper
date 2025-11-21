@@ -1,0 +1,106 @@
+species,score,start_time,end_time
+Engine_Engine,0.10637063,0.0,3.0
+Human non-vocal_Human non-vocal,0.10564244,0.0,3.0
+Engine_Engine,0.20520583,1.0,4.0
+Human non-vocal_Human non-vocal,0.14477357,1.0,4.0
+Power tools_Power tools,0.13638492,1.0,4.0
+Power tools_Power tools,0.30888054,2.0,5.0
+Engine_Engine,0.25521088,2.0,5.0
+Human non-vocal_Human non-vocal,0.1324114,2.0,5.0
+Power tools_Power tools,0.16364443,3.0,6.0
+Power tools_Power tools,0.12608698,4.0,7.0
+Alouatta pigra_Mexican Black Howler Monkey,0.102642596,4.0,7.0
+Power tools_Power tools,0.54893243,5.0,8.0
+Engine_Engine,0.26235408,5.0,8.0
+Alouatta pigra_Mexican Black Howler Monkey,0.12979518,5.0,8.0
+Human non-vocal_Human non-vocal,0.100274004,5.0,8.0
+Power tools_Power tools,0.61861366,6.0,9.0
+Engine_Engine,0.38153931,6.0,9.0
+Alouatta pigra_Mexican Black Howler Monkey,0.26559702,6.0,9.0
+Power tools_Power tools,0.5169286,7.0,10.0
+Engine_Engine,0.32376152,7.0,10.0
+Power tools_Power tools,0.12588401,8.0,11.0
+Engine_Engine,0.11048383,8.0,11.0
+Power tools_Power tools,0.20386656,9.0,12.0
+Engine_Engine,0.122032076,9.0,12.0
+Power tools_Power tools,0.3975985,10.0,13.0
+Engine_Engine,0.16372824,10.0,13.0
+Human non-vocal_Human non-vocal,0.11669661,10.0,13.0
+Alouatta pigra_Mexican Black Howler Monkey,0.10535501,10.0,13.0
+Power tools_Power tools,0.506555,11.0,14.0
+Human non-vocal_Human non-vocal,0.41601264,11.0,14.0
+Engine_Engine,0.403017,11.0,14.0
+Human non-vocal_Human non-vocal,0.4371702,12.0,15.0
+Power tools_Power tools,0.40215972,12.0,15.0
+Engine_Engine,0.16288145,12.0,15.0
+Engine_Engine,0.22643264,13.0,16.0
+Power tools_Power tools,0.15560837,13.0,16.0
+Power tools_Power tools,0.16430326,14.0,17.0
+Engine_Engine,0.15151018,14.0,17.0
+Power tools_Power tools,0.3788191,15.0,18.0
+Engine_Engine,0.26681828,15.0,18.0
+Power tools_Power tools,0.42413813,16.0,19.0
+Human non-vocal_Human non-vocal,0.3605361,16.0,19.0
+Engine_Engine,0.27870068,16.0,19.0
+Power tools_Power tools,0.32616234,17.0,20.0
+Engine_Engine,0.30804056,17.0,20.0
+Human non-vocal_Human non-vocal,0.21946107,17.0,20.0
+Engine_Engine,0.45364964,18.0,21.0
+Power tools_Power tools,0.29186657,18.0,21.0
+Human non-vocal_Human non-vocal,0.1573591,18.0,21.0
+Engine_Engine,0.12953153,19.0,22.0
+Power tools_Power tools,0.12544522,20.0,23.0
+Engine_Engine,0.11514457,20.0,23.0
+Power tools_Power tools,0.34560657,21.0,24.0
+Human non-vocal_Human non-vocal,0.15370098,21.0,24.0
+Engine_Engine,0.12662476,21.0,24.0
+Power tools_Power tools,0.3597591,22.0,25.0
+Engine_Engine,0.2116037,22.0,25.0
+Human non-vocal_Human non-vocal,0.14206243,22.0,25.0
+Power tools_Power tools,0.38725922,23.0,26.0
+Engine_Engine,0.15122892,23.0,26.0
+Engine_Engine,0.24138042,24.0,27.0
+Power tools_Power tools,0.20311034,24.0,27.0
+Power tools_Power tools,0.28457123,26.0,29.0
+Engine_Engine,0.19389836,26.0,29.0
+Power tools_Power tools,0.22701113,27.0,30.0
+Engine_Engine,0.12346517,27.0,30.0
+Alouatta pigra_Mexican Black Howler Monkey,0.14377923,29.0,32.0
+Power tools_Power tools,0.13153873,29.0,32.0
+Engine_Engine,0.11296004,29.0,32.0
+Power tools_Power tools,0.36248508,30.0,33.0
+Engine_Engine,0.2735263,30.0,33.0
+Human non-vocal_Human non-vocal,0.17392763,30.0,33.0
+Human non-vocal_Human non-vocal,0.59802306,31.0,34.0
+Power tools_Power tools,0.22911206,31.0,34.0
+Human non-vocal_Human non-vocal,0.949404,32.0,35.0
+Passerina ciris_Painted Bunting,0.16109239,37.0,40.0
+Passerina ciris_Painted Bunting,0.28354028,43.0,46.0
+Passerina ciris_Painted Bunting,0.8178673,44.0,47.0
+Passerina ciris_Painted Bunting,0.2526068,45.0,48.0
+Parkesia motacilla_Louisiana Waterthrush,0.1916414,46.0,49.0
+Human non-vocal_Human non-vocal,0.5781993,48.0,51.0
+Human non-vocal_Human non-vocal,0.88660866,49.0,52.0
+Engine_Engine,0.33801338,49.0,52.0
+Power tools_Power tools,0.21473521,49.0,52.0
+Engine_Engine,0.27450344,50.0,53.0
+Power tools_Power tools,0.21160983,50.0,53.0
+Power tools_Power tools,0.22355925,52.0,55.0
+Engine_Engine,0.16333513,52.0,55.0
+Human non-vocal_Human non-vocal,0.6381699,53.0,56.0
+Power tools_Power tools,0.22763892,53.0,56.0
+Human non-vocal_Human non-vocal,0.9305522,54.0,57.0
+Human non-vocal_Human non-vocal,0.3156716,61.0,64.0
+Human non-vocal_Human non-vocal,0.69128174,62.0,65.0
+Engine_Engine,0.21948695,62.0,65.0
+Human non-vocal_Human non-vocal,0.5841333,63.0,66.0
+Engine_Engine,0.20701388,63.0,66.0
+Engine_Engine,0.20593922,64.0,67.0
+Human non-vocal_Human non-vocal,0.116535015,67.0,70.0
+Power tools_Power tools,0.110722445,67.0,70.0
+Human non-vocal_Human non-vocal,0.8049997,68.0,71.0
+Power tools_Power tools,0.33504426,68.0,71.0
+Human non-vocal_Human non-vocal,0.77523345,69.0,72.0
+Human non-vocal_Human non-vocal,0.10884845,71.0,74.0
+Human non-vocal_Human non-vocal,0.48009923,72.0,75.0
+Power tools_Power tools,0.28176227,72.0,75.0

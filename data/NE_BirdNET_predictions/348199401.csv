@@ -1,0 +1,98 @@
+species,score,start_time,end_time
+Gallinago delicata_Wilson's Snipe,0.13000162,0.0,3.0
+Porzana carolina_Sora,0.7654568,1.0,4.0
+Porzana carolina_Sora,0.5783666,2.0,5.0
+Porzana carolina_Sora,0.9499642,3.0,6.0
+Gallinula galeata_Common Gallinule,0.1340105,3.0,6.0
+Scytalopus magellanicus_Magellanic Tapaculo,0.13020499,3.0,6.0
+Porzana carolina_Sora,0.8694674,4.0,7.0
+Scytalopus magellanicus_Magellanic Tapaculo,0.19447426,4.0,7.0
+Porzana carolina_Sora,0.573304,5.0,8.0
+Agelaius phoeniceus_Red-winged Blackbird,0.10288628,5.0,8.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20300828,6.0,9.0
+Porzana carolina_Sora,0.776675,8.0,11.0
+Porzana carolina_Sora,0.48518613,9.0,12.0
+Porzana carolina_Sora,0.9560201,10.0,13.0
+Gallinago delicata_Wilson's Snipe,0.15414836,10.0,13.0
+Porzana carolina_Sora,0.7934379,11.0,14.0
+Porzana carolina_Sora,0.86908895,12.0,15.0
+Gallinago delicata_Wilson's Snipe,0.11053834,12.0,15.0
+Porzana carolina_Sora,0.61062795,13.0,16.0
+Gallinago delicata_Wilson's Snipe,0.124820285,13.0,16.0
+Porzana carolina_Sora,0.2457434,14.0,17.0
+Synallaxis hypochondriaca_Great Spinetail,0.17921884,14.0,17.0
+Porzana carolina_Sora,0.43635204,15.0,18.0
+Porzana carolina_Sora,0.26635116,16.0,19.0
+Porzana carolina_Sora,0.24365531,17.0,20.0
+Porzana carolina_Sora,0.12861258,18.0,21.0
+Fulica americana_American Coot,0.13283513,19.0,22.0
+Porzana carolina_Sora,0.13062462,19.0,22.0
+Fulica americana_American Coot,0.12841792,20.0,23.0
+Porzana carolina_Sora,0.6738155,21.0,24.0
+Porzana carolina_Sora,0.72161835,22.0,25.0
+Porzana carolina_Sora,0.29581788,23.0,26.0
+Porzana carolina_Sora,0.276401,24.0,27.0
+Gallinago delicata_Wilson's Snipe,0.258026,24.0,27.0
+Gallinula galeata_Common Gallinule,0.20775498,24.0,27.0
+Geothlypis trichas_Common Yellowthroat,0.106086195,24.0,27.0
+Porzana carolina_Sora,0.68922174,25.0,28.0
+Gallinula galeata_Common Gallinule,0.27584016,25.0,28.0
+Porzana carolina_Sora,0.5232371,26.0,29.0
+Gallinula galeata_Common Gallinule,0.26288998,26.0,29.0
+Porzana carolina_Sora,0.4366194,27.0,30.0
+Porzana carolina_Sora,0.72426635,28.0,31.0
+Porzana carolina_Sora,0.8014754,29.0,32.0
+Porzana carolina_Sora,0.40405372,30.0,33.0
+Aythya collaris_Ring-necked Duck,0.122263126,30.0,33.0
+Porzana carolina_Sora,0.72662956,31.0,34.0
+Porzana carolina_Sora,0.15472071,32.0,35.0
+Porzana carolina_Sora,0.7202125,33.0,36.0
+Porzana carolina_Sora,0.77057695,34.0,37.0
+Porzana carolina_Sora,0.8045771,35.0,38.0
+Laterallus jamaicensis_Black Rail,0.18080707,35.0,38.0
+Porzana carolina_Sora,0.55151236,36.0,39.0
+Porzana carolina_Sora,0.48655438,37.0,40.0
+Porzana carolina_Sora,0.34584457,38.0,41.0
+Porzana carolina_Sora,0.8803237,39.0,42.0
+Gallinula galeata_Common Gallinule,0.124029025,39.0,42.0
+Porzana carolina_Sora,0.832897,40.0,43.0
+Gallinula galeata_Common Gallinule,0.11703872,40.0,43.0
+Porzana carolina_Sora,0.7525667,41.0,44.0
+Porzana carolina_Sora,0.94201493,42.0,45.0
+Porzana carolina_Sora,0.6712592,43.0,46.0
+Gallinago delicata_Wilson's Snipe,0.11099101,43.0,46.0
+Porzana carolina_Sora,0.4225924,44.0,47.0
+Porzana carolina_Sora,0.28054377,45.0,48.0
+Porzana carolina_Sora,0.39821166,46.0,49.0
+Porzana carolina_Sora,0.33875287,47.0,50.0
+Porzana carolina_Sora,0.16316776,48.0,51.0
+Porzana carolina_Sora,0.190069,49.0,52.0
+Porzana carolina_Sora,0.8941083,50.0,53.0
+Gallinula galeata_Common Gallinule,0.10227134,50.0,53.0
+Porzana carolina_Sora,0.9629536,51.0,54.0
+Gallinula galeata_Common Gallinule,0.17548035,51.0,54.0
+Neopelma chrysocephalum_Saffron-crested Tyrant-Manakin,0.13097979,51.0,54.0
+Porzana carolina_Sora,0.5125927,52.0,55.0
+Porzana carolina_Sora,0.89838916,53.0,56.0
+Gallinula galeata_Common Gallinule,0.17094739,53.0,56.0
+Porzana carolina_Sora,0.9368555,54.0,57.0
+Gallinula galeata_Common Gallinule,0.1410136,54.0,57.0
+Porzana carolina_Sora,0.9624958,55.0,58.0
+Porzana carolina_Sora,0.64336425,56.0,59.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.3126114,57.0,60.0
+Ptiliogonys cinereus_Gray Silky-flycatcher,0.27771568,57.0,60.0
+Porzana carolina_Sora,0.24260199,57.0,60.0
+Ptiliogonys cinereus_Gray Silky-flycatcher,0.21050043,58.0,61.0
+Tyrannus forficatus_Scissor-tailed Flycatcher,0.16460711,58.0,61.0
+Tyrannus verticalis_Western Kingbird,0.15177225,58.0,61.0
+Porzana carolina_Sora,0.1471242,58.0,61.0
+Tyrannus verticalis_Western Kingbird,0.103797965,59.0,62.0
+Ammospiza maritima_Seaside Sparrow,0.1306778,60.0,63.0
+Empidonax traillii_Willow Flycatcher,0.1265401,60.0,63.0
+Gallinago delicata_Wilson's Snipe,0.116681494,61.0,64.0
+Tyrannus verticalis_Western Kingbird,0.34219116,63.0,66.0
+Gallinago delicata_Wilson's Snipe,0.108192965,63.0,66.0
+Ptiliogonys cinereus_Gray Silky-flycatcher,0.15351243,64.0,67.0
+Spiza americana_Dickcissel,0.13392024,67.0,70.0
+Melospiza melodia_Song Sparrow,0.36629647,68.0,71.0
+Dolichonyx oryzivorus_Bobolink,0.13223904,69.0,71.44802721088435

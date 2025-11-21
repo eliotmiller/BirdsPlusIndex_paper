@@ -1,0 +1,535 @@
+species,score,start_time,end_time
+Sitta frontalis_Velvet-fronted Nuthatch,0.2027397,0.0,3.0
+Sitta frontalis_Velvet-fronted Nuthatch,0.20220959,1.0,4.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.15183942,1.0,4.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.18393753,2.0,5.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.5629616,3.0,6.0
+Cardellina canadensis_Canada Warbler,0.14136246,7.0,10.0
+Setophaga palmarum_Palm Warbler,0.13694164,7.0,10.0
+Baeolophus bicolor_Tufted Titmouse,0.112759806,8.0,11.0
+Cardellina canadensis_Canada Warbler,0.54331833,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.5091753,10.0,13.0
+Cardellina canadensis_Canada Warbler,0.7396675,11.0,14.0
+Cardellina canadensis_Canada Warbler,0.10408967,12.0,15.0
+Cardellina canadensis_Canada Warbler,0.8029938,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13330983,13.0,16.0
+Cardellina canadensis_Canada Warbler,0.8967391,14.0,17.0
+Cardellina canadensis_Canada Warbler,0.9654735,15.0,18.0
+Cardellina canadensis_Canada Warbler,0.95289737,16.0,19.0
+Cardellina canadensis_Canada Warbler,0.92494476,17.0,20.0
+Cardellina canadensis_Canada Warbler,0.7330513,18.0,21.0
+Colibri coruscans_Sparkling Violetear,0.11973151,18.0,21.0
+Cardellina canadensis_Canada Warbler,0.73667604,19.0,22.0
+Colibri coruscans_Sparkling Violetear,0.2536367,19.0,22.0
+Cardellina canadensis_Canada Warbler,0.51071954,20.0,23.0
+Colibri coruscans_Sparkling Violetear,0.33874735,20.0,23.0
+Cardellina canadensis_Canada Warbler,0.9660588,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1271531,21.0,24.0
+Cardellina canadensis_Canada Warbler,0.20600541,22.0,25.0
+Cardellina canadensis_Canada Warbler,0.38107628,23.0,26.0
+Cardellina canadensis_Canada Warbler,0.41427615,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.24165596,24.0,27.0
+Cardellina canadensis_Canada Warbler,0.62846965,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.13118654,25.0,28.0
+Cardellina canadensis_Canada Warbler,0.4971647,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.2103203,26.0,29.0
+Cardellina canadensis_Canada Warbler,0.48042473,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.12419382,27.0,30.0
+Cardellina canadensis_Canada Warbler,0.7117276,28.0,31.0
+Cardellina canadensis_Canada Warbler,0.5814882,29.0,32.0
+Troglodytes hiemalis_Winter Wren,0.51119906,29.0,32.0
+Troglodytes hiemalis_Winter Wren,0.5903379,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.3746953,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.5328328,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.16021822,31.0,34.0
+Troglodytes hiemalis_Winter Wren,0.13068654,31.0,34.0
+Cardellina canadensis_Canada Warbler,0.9604536,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.11020114,32.0,35.0
+Cardellina canadensis_Canada Warbler,0.95748705,33.0,36.0
+Cardellina canadensis_Canada Warbler,0.83335316,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21557194,34.0,37.0
+Cardellina canadensis_Canada Warbler,0.92215765,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.13446507,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.6642607,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.10585629,36.0,39.0
+Cardellina canadensis_Canada Warbler,0.827565,37.0,40.0
+Cardellina canadensis_Canada Warbler,0.9393982,38.0,41.0
+Cardellina canadensis_Canada Warbler,0.38522956,39.0,42.0
+Colibri coruscans_Sparkling Violetear,0.19084075,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.6270051,40.0,43.0
+Colibri coruscans_Sparkling Violetear,0.1602804,40.0,43.0
+Cardellina canadensis_Canada Warbler,0.47801867,41.0,44.0
+Cardellina canadensis_Canada Warbler,0.8272411,42.0,45.0
+Tamias striatus_Eastern Chipmunk,0.10799831,42.0,45.0
+Cardellina canadensis_Canada Warbler,0.73491544,43.0,46.0
+Cardellina canadensis_Canada Warbler,0.6663181,44.0,47.0
+Acanthiza chrysorrhoa_Yellow-rumped Thornbill,0.13300207,44.0,47.0
+Cardellina canadensis_Canada Warbler,0.59414613,45.0,48.0
+Cardellina canadensis_Canada Warbler,0.739425,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.10002442,46.0,49.0
+Cardellina canadensis_Canada Warbler,0.79926133,47.0,50.0
+Cardellina canadensis_Canada Warbler,0.91291285,48.0,51.0
+Cardellina canadensis_Canada Warbler,0.98817563,49.0,52.0
+Cardellina canadensis_Canada Warbler,0.91869324,50.0,53.0
+Cardellina canadensis_Canada Warbler,0.4067885,51.0,54.0
+Cardellina canadensis_Canada Warbler,0.51196575,52.0,55.0
+Cardellina canadensis_Canada Warbler,0.52837545,53.0,56.0
+Tamias striatus_Eastern Chipmunk,0.17104137,53.0,56.0
+Cardellina canadensis_Canada Warbler,0.9144238,54.0,57.0
+Cardellina canadensis_Canada Warbler,0.9647092,55.0,58.0
+Cardellina canadensis_Canada Warbler,0.71651554,56.0,59.0
+Cardellina canadensis_Canada Warbler,0.14394575,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.13550302,58.0,61.0
+Cardellina canadensis_Canada Warbler,0.27990213,59.0,62.0
+Cardellina canadensis_Canada Warbler,0.8434883,60.0,63.0
+Cardellina canadensis_Canada Warbler,0.7685383,61.0,64.0
+Cardellina canadensis_Canada Warbler,0.80345327,62.0,65.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.18289533,63.0,66.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.20752351,64.0,67.0
+Thryophilus pleurostictus_Banded Wren,0.12514003,64.0,67.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.18411514,65.0,68.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.2085794,66.0,69.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.32168695,67.0,70.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.1528166,67.0,70.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.35954487,68.0,71.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.22986816,68.0,71.0
+Cardellina canadensis_Canada Warbler,0.4021315,69.0,72.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.17880403,69.0,72.0
+Ammospiza leconteii_LeConte's Sparrow,0.10878951,69.0,72.0
+Acanthiza chrysorrhoa_Yellow-rumped Thornbill,0.10363094,69.0,72.0
+Cardellina canadensis_Canada Warbler,0.2042331,70.0,73.0
+Ammospiza leconteii_LeConte's Sparrow,0.106873766,70.0,73.0
+Cardellina canadensis_Canada Warbler,0.49471623,71.0,74.0
+Cardellina canadensis_Canada Warbler,0.21849449,72.0,75.0
+Basilinna leucotis_White-eared Hummingbird,0.1429272,72.0,75.0
+Cardellina canadensis_Canada Warbler,0.36713794,73.0,76.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.14934182,74.0,77.0
+Basilinna leucotis_White-eared Hummingbird,0.15309148,75.0,78.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.12307415,77.0,80.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.36599842,80.0,83.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.66282326,81.0,84.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.17511488,82.0,85.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.18702012,83.0,86.0
+Seiurus aurocapilla_Ovenbird,0.22287676,85.0,88.0
+Cardellina canadensis_Canada Warbler,0.15525882,86.0,89.0
+Cardellina canadensis_Canada Warbler,0.20477301,87.0,90.0
+Cardellina canadensis_Canada Warbler,0.8245287,88.0,91.0
+Cardellina canadensis_Canada Warbler,0.77765656,89.0,92.0
+Cardellina canadensis_Canada Warbler,0.8674486,90.0,93.0
+Cardellina canadensis_Canada Warbler,0.9319152,91.0,94.0
+Cardellina canadensis_Canada Warbler,0.44879213,92.0,95.0
+Cardellina canadensis_Canada Warbler,0.3826736,93.0,96.0
+Cardellina canadensis_Canada Warbler,0.57697403,94.0,97.0
+Cardellina canadensis_Canada Warbler,0.8503233,95.0,98.0
+Cardellina canadensis_Canada Warbler,0.20377904,96.0,99.0
+Cardellina canadensis_Canada Warbler,0.54067785,97.0,100.0
+Cardellina canadensis_Canada Warbler,0.7602611,98.0,101.0
+Cardellina canadensis_Canada Warbler,0.7467362,99.0,102.0
+Atlapetes pileatus_Rufous-capped Brushfinch,0.11496738,99.0,102.0
+Cardellina canadensis_Canada Warbler,0.81361973,100.0,103.0
+Atlapetes pileatus_Rufous-capped Brushfinch,0.15755148,100.0,103.0
+Cardellina canadensis_Canada Warbler,0.59771955,101.0,104.0
+Troglodytes hiemalis_Winter Wren,0.11290017,101.0,104.0
+Cardellina canadensis_Canada Warbler,0.8680761,102.0,105.0
+Cardellina canadensis_Canada Warbler,0.81713897,103.0,106.0
+Cardellina canadensis_Canada Warbler,0.84129786,104.0,107.0
+Cardellina canadensis_Canada Warbler,0.5243112,105.0,108.0
+Cardellina canadensis_Canada Warbler,0.6877675,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.107451744,106.0,109.0
+Cardellina canadensis_Canada Warbler,0.8685891,107.0,110.0
+Cardellina canadensis_Canada Warbler,0.84937847,108.0,111.0
+Colibri coruscans_Sparkling Violetear,0.11736177,108.0,111.0
+Cardellina canadensis_Canada Warbler,0.89772594,109.0,112.0
+Colibri coruscans_Sparkling Violetear,0.23427251,109.0,112.0
+Cardellina canadensis_Canada Warbler,0.8744166,110.0,113.0
+Cardellina canadensis_Canada Warbler,0.9197673,111.0,114.0
+Colibri coruscans_Sparkling Violetear,0.17161275,111.0,114.0
+Cardellina canadensis_Canada Warbler,0.84251004,112.0,115.0
+Cardellina canadensis_Canada Warbler,0.81573594,113.0,116.0
+Colibri coruscans_Sparkling Violetear,0.11150338,113.0,116.0
+Colibri coruscans_Sparkling Violetear,0.6521384,114.0,117.0
+Chlorospingus flavopectus_Common Chlorospingus,0.17150316,114.0,117.0
+Cardellina canadensis_Canada Warbler,0.14972138,114.0,117.0
+Colibri delphinae_Brown Violetear,0.13392302,114.0,117.0
+Cardellina canadensis_Canada Warbler,0.9525959,115.0,118.0
+Cardellina canadensis_Canada Warbler,0.7510425,116.0,119.0
+Colibri coruscans_Sparkling Violetear,0.14914107,116.0,119.0
+Cardellina canadensis_Canada Warbler,0.5725981,117.0,120.0
+Colibri coruscans_Sparkling Violetear,0.15453142,117.0,120.0
+Cardellina canadensis_Canada Warbler,0.60935956,118.0,121.0
+Colibri coruscans_Sparkling Violetear,0.2451052,118.0,121.0
+Cardellina canadensis_Canada Warbler,0.7023343,119.0,122.0
+Cardellina canadensis_Canada Warbler,0.7390141,120.0,123.0
+Cardellina canadensis_Canada Warbler,0.8496949,121.0,124.0
+Cardellina canadensis_Canada Warbler,0.5778557,122.0,125.0
+Colibri coruscans_Sparkling Violetear,0.1844668,122.0,125.0
+Cardellina canadensis_Canada Warbler,0.8453502,123.0,126.0
+Colibri coruscans_Sparkling Violetear,0.5912064,123.0,126.0
+Cardellina canadensis_Canada Warbler,0.9447816,124.0,127.0
+Colibri coruscans_Sparkling Violetear,0.1385285,124.0,127.0
+Cardellina canadensis_Canada Warbler,0.9079788,125.0,128.0
+Colibri coruscans_Sparkling Violetear,0.3112683,125.0,128.0
+Cardellina canadensis_Canada Warbler,0.9098667,126.0,129.0
+Colibri coruscans_Sparkling Violetear,0.14928645,126.0,129.0
+Cardellina canadensis_Canada Warbler,0.8330154,127.0,130.0
+Cardellina canadensis_Canada Warbler,0.53690064,128.0,131.0
+Cardellina canadensis_Canada Warbler,0.8022204,129.0,132.0
+Cardellina canadensis_Canada Warbler,0.55687284,130.0,133.0
+Colibri coruscans_Sparkling Violetear,0.35109636,130.0,133.0
+Chlorospingus flavopectus_Common Chlorospingus,0.10679145,130.0,133.0
+Cardellina canadensis_Canada Warbler,0.88121444,131.0,134.0
+Colibri coruscans_Sparkling Violetear,0.102465935,131.0,134.0
+Cardellina canadensis_Canada Warbler,0.85343874,132.0,135.0
+Colibri coruscans_Sparkling Violetear,0.1951568,132.0,135.0
+Chlorospingus flavopectus_Common Chlorospingus,0.1031734,132.0,135.0
+Cardellina canadensis_Canada Warbler,0.7759454,133.0,136.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12711117,133.0,136.0
+Cardellina canadensis_Canada Warbler,0.7328319,134.0,137.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.19120622,134.0,137.0
+Myiothlypis signata_Pale-legged Warbler,0.13268553,134.0,137.0
+Cardellina canadensis_Canada Warbler,0.9634738,135.0,138.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.114703774,135.0,138.0
+Cardellina canadensis_Canada Warbler,0.9150813,136.0,139.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10776523,136.0,139.0
+Cardellina canadensis_Canada Warbler,0.975132,137.0,140.0
+Cardellina canadensis_Canada Warbler,0.61263245,138.0,141.0
+Colibri coruscans_Sparkling Violetear,0.3710175,138.0,141.0
+Cardellina canadensis_Canada Warbler,0.43675363,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.22863963,139.0,142.0
+Seiurus aurocapilla_Ovenbird,0.30188128,140.0,143.0
+Seiurus aurocapilla_Ovenbird,0.5997711,141.0,144.0
+Seiurus aurocapilla_Ovenbird,0.6824673,142.0,145.0
+Cardellina canadensis_Canada Warbler,0.117439955,142.0,145.0
+Cardellina canadensis_Canada Warbler,0.86546665,143.0,146.0
+Seiurus aurocapilla_Ovenbird,0.2798575,143.0,146.0
+Cardellina canadensis_Canada Warbler,0.57454187,144.0,147.0
+Colibri coruscans_Sparkling Violetear,0.38866904,144.0,147.0
+Cardellina canadensis_Canada Warbler,0.6402679,145.0,148.0
+Colibri coruscans_Sparkling Violetear,0.37955475,145.0,148.0
+Colibri coruscans_Sparkling Violetear,0.67824835,146.0,149.0
+Cardellina canadensis_Canada Warbler,0.5441511,146.0,149.0
+Chlorospingus flavopectus_Common Chlorospingus,0.15385164,146.0,149.0
+Colibri serrirostris_White-vented Violetear,0.10264863,146.0,149.0
+Colibri coruscans_Sparkling Violetear,0.5923062,147.0,150.0
+Colibri serrirostris_White-vented Violetear,0.15738033,147.0,150.0
+Chlorospingus flavopectus_Common Chlorospingus,0.11646639,147.0,150.0
+Colibri coruscans_Sparkling Violetear,0.70377344,148.0,151.0
+Colibri coruscans_Sparkling Violetear,0.27488804,149.0,152.0
+Colibri serrirostris_White-vented Violetear,0.11001993,149.0,152.0
+Colibri coruscans_Sparkling Violetear,0.4313954,150.0,153.0
+Cardellina canadensis_Canada Warbler,0.41610286,150.0,153.0
+Cardellina canadensis_Canada Warbler,0.5746579,151.0,154.0
+Colibri coruscans_Sparkling Violetear,0.15949935,151.0,154.0
+Cardellina canadensis_Canada Warbler,0.91948956,152.0,155.0
+Cardellina canadensis_Canada Warbler,0.9281894,153.0,156.0
+Cardellina canadensis_Canada Warbler,0.9753014,154.0,157.0
+Cardellina canadensis_Canada Warbler,0.8599766,155.0,158.0
+Tamias striatus_Eastern Chipmunk,0.10231135,155.0,158.0
+Cardellina canadensis_Canada Warbler,0.6965179,156.0,159.0
+Tamias striatus_Eastern Chipmunk,0.42656523,156.0,159.0
+Colibri coruscans_Sparkling Violetear,0.101780705,156.0,159.0
+Cardellina canadensis_Canada Warbler,0.96355075,157.0,160.0
+Cardellina canadensis_Canada Warbler,0.82441026,158.0,161.0
+Colibri coruscans_Sparkling Violetear,0.3560711,158.0,161.0
+Cardellina canadensis_Canada Warbler,0.820146,159.0,162.0
+Colibri coruscans_Sparkling Violetear,0.17862923,159.0,162.0
+Cardellina canadensis_Canada Warbler,0.75337434,160.0,163.0
+Colibri coruscans_Sparkling Violetear,0.36490712,160.0,163.0
+Chlorospingus flavopectus_Common Chlorospingus,0.15725322,160.0,163.0
+Cardellina canadensis_Canada Warbler,0.8037512,161.0,164.0
+Colibri coruscans_Sparkling Violetear,0.11706685,161.0,164.0
+Cardellina canadensis_Canada Warbler,0.8272033,162.0,165.0
+Cardellina canadensis_Canada Warbler,0.790065,163.0,166.0
+Colibri coruscans_Sparkling Violetear,0.12714697,163.0,166.0
+Cardellina canadensis_Canada Warbler,0.646687,164.0,167.0
+Colibri coruscans_Sparkling Violetear,0.13002658,164.0,167.0
+Cardellina canadensis_Canada Warbler,0.8769305,165.0,168.0
+Colibri coruscans_Sparkling Violetear,0.11046795,165.0,168.0
+Cardellina canadensis_Canada Warbler,0.80990356,166.0,169.0
+Cardellina canadensis_Canada Warbler,0.8242922,167.0,170.0
+Myiothlypis signata_Pale-legged Warbler,0.14727663,167.0,170.0
+Cardellina canadensis_Canada Warbler,0.7533348,168.0,171.0
+Troglodytes hiemalis_Winter Wren,0.15770316,168.0,171.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.11238106,168.0,171.0
+Cardellina canadensis_Canada Warbler,0.61806816,169.0,172.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.2827398,169.0,172.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.15116103,169.0,172.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.26653683,170.0,173.0
+Myiothlypis signata_Pale-legged Warbler,0.13563025,170.0,173.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.12680729,170.0,173.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.6543573,171.0,174.0
+Myiothlypis signata_Pale-legged Warbler,0.18290856,171.0,174.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.13527298,171.0,174.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.3474976,172.0,175.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.15257613,172.0,175.0
+Myiothlypis signata_Pale-legged Warbler,0.112909004,172.0,175.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.49632034,173.0,176.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.16667,173.0,176.0
+Myiothlypis signata_Pale-legged Warbler,0.13018192,173.0,176.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.17497262,174.0,177.0
+Myiothlypis signata_Pale-legged Warbler,0.12954697,174.0,177.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.20957673,175.0,178.0
+Myiothlypis signata_Pale-legged Warbler,0.2080165,175.0,178.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.2881925,176.0,179.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.1504866,177.0,180.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.11879167,178.0,181.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.3917445,179.0,182.0
+Thlypopsis superciliaris_Superciliaried Hemispingus,0.19470944,179.0,182.0
+Myiothlypis signata_Pale-legged Warbler,0.16300125,179.0,182.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.32605022,180.0,183.0
+Sylviorthorhynchus yanacensis_Tawny Tit-Spinetail,0.120303236,183.0,186.0
+Sitta frontalis_Velvet-fronted Nuthatch,0.10041907,183.0,186.0
+Myiothlypis signata_Pale-legged Warbler,0.3635398,184.0,187.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.23867318,184.0,187.0
+Basilinna leucotis_White-eared Hummingbird,0.10838946,188.0,191.0
+Myiothlypis signata_Pale-legged Warbler,0.15364178,189.0,192.0
+Cardellina canadensis_Canada Warbler,0.112489395,189.0,192.0
+Cardellina canadensis_Canada Warbler,0.19541298,190.0,193.0
+Myiothlypis signata_Pale-legged Warbler,0.18918861,190.0,193.0
+Myiothlypis signata_Pale-legged Warbler,0.26918054,191.0,194.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.23625393,192.0,195.0
+Myiothlypis signata_Pale-legged Warbler,0.15775919,192.0,195.0
+Basilinna leucotis_White-eared Hummingbird,0.23732728,193.0,196.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13602807,193.0,196.0
+Myiothlypis signata_Pale-legged Warbler,0.1268455,193.0,196.0
+Cardellina canadensis_Canada Warbler,0.16722986,194.0,197.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.1064538,194.0,197.0
+Cardellina canadensis_Canada Warbler,0.2999226,195.0,198.0
+Troglodytes hiemalis_Winter Wren,0.2472134,195.0,198.0
+Myiothlypis signata_Pale-legged Warbler,0.13440819,195.0,198.0
+Cardellina canadensis_Canada Warbler,0.69417614,196.0,199.0
+Troglodytes hiemalis_Winter Wren,0.16719836,196.0,199.0
+Cardellina canadensis_Canada Warbler,0.1420389,197.0,200.0
+Troglodytes hiemalis_Winter Wren,0.12122692,197.0,200.0
+Myiothlypis signata_Pale-legged Warbler,0.17445134,198.0,201.0
+Peucaea ruficauda_Stripe-headed Sparrow,0.27772036,199.0,202.0
+Cardellina canadensis_Canada Warbler,0.12070006,200.0,203.0
+Myiothlypis signata_Pale-legged Warbler,0.22605583,201.0,204.0
+Cardellina canadensis_Canada Warbler,0.10546224,201.0,204.0
+Cardellina canadensis_Canada Warbler,0.23955014,202.0,205.0
+Acanthiza chrysorrhoa_Yellow-rumped Thornbill,0.118855365,202.0,205.0
+Cardellina canadensis_Canada Warbler,0.21558267,204.0,207.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13358499,204.0,207.0
+Myiothlypis signata_Pale-legged Warbler,0.12433273,204.0,207.0
+Myiothlypis signata_Pale-legged Warbler,0.25093263,205.0,208.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12477753,205.0,208.0
+Basilinna leucotis_White-eared Hummingbird,0.13657422,206.0,209.0
+Cardellina canadensis_Canada Warbler,0.107184574,206.0,209.0
+Basilinna leucotis_White-eared Hummingbird,0.18829009,207.0,210.0
+Troglodytes hiemalis_Winter Wren,0.18586509,207.0,210.0
+Myiothlypis signata_Pale-legged Warbler,0.15050708,207.0,210.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12067343,207.0,210.0
+Atlapetes pileatus_Rufous-capped Brushfinch,0.11000672,207.0,210.0
+Myiothlypis signata_Pale-legged Warbler,0.42092717,208.0,211.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.29286498,208.0,211.0
+Basilinna leucotis_White-eared Hummingbird,0.138728,208.0,211.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.31380656,209.0,212.0
+Cardellina canadensis_Canada Warbler,0.11847805,209.0,212.0
+Troglodytes hiemalis_Winter Wren,0.10871784,209.0,212.0
+Cardellina canadensis_Canada Warbler,0.48130882,210.0,213.0
+Troglodytes hiemalis_Winter Wren,0.13020277,210.0,213.0
+Cardellina canadensis_Canada Warbler,0.8227,211.0,214.0
+Seiurus aurocapilla_Ovenbird,0.13865422,211.0,214.0
+Cardellina canadensis_Canada Warbler,0.8298411,212.0,215.0
+Cardellina canadensis_Canada Warbler,0.6312189,213.0,216.0
+Myiothlypis signata_Pale-legged Warbler,0.11000961,213.0,216.0
+Cardellina canadensis_Canada Warbler,0.29312733,214.0,217.0
+Cardellina canadensis_Canada Warbler,0.7589584,215.0,218.0
+Cardellina canadensis_Canada Warbler,0.27277288,216.0,219.0
+Seiurus aurocapilla_Ovenbird,0.17948818,216.0,219.0
+Cardellina canadensis_Canada Warbler,0.64213187,217.0,220.0
+Cardellina canadensis_Canada Warbler,0.6760892,218.0,221.0
+Seiurus aurocapilla_Ovenbird,0.17081235,218.0,221.0
+Cardellina canadensis_Canada Warbler,0.36316338,219.0,222.0
+Seiurus aurocapilla_Ovenbird,0.20323399,219.0,222.0
+Cardellina canadensis_Canada Warbler,0.6097921,220.0,223.0
+Seiurus aurocapilla_Ovenbird,0.43639645,220.0,223.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14380834,220.0,223.0
+Cardellina canadensis_Canada Warbler,0.5767865,221.0,224.0
+Cardellina canadensis_Canada Warbler,0.5943487,222.0,225.0
+Cardellina canadensis_Canada Warbler,0.6387208,223.0,226.0
+Cardellina canadensis_Canada Warbler,0.7394253,224.0,227.0
+Myiothlypis signata_Pale-legged Warbler,0.13526131,224.0,227.0
+Cardellina canadensis_Canada Warbler,0.6767632,225.0,228.0
+Myiothlypis signata_Pale-legged Warbler,0.20281571,225.0,228.0
+Cardellina canadensis_Canada Warbler,0.82135487,226.0,229.0
+Myiothlypis signata_Pale-legged Warbler,0.19389772,226.0,229.0
+Cardellina canadensis_Canada Warbler,0.7347261,227.0,230.0
+Myiothlypis signata_Pale-legged Warbler,0.18806244,227.0,230.0
+Cardellina canadensis_Canada Warbler,0.5868821,228.0,231.0
+Myiothlypis signata_Pale-legged Warbler,0.20013714,228.0,231.0
+Troglodytes hiemalis_Winter Wren,0.113136984,228.0,231.0
+Cardellina canadensis_Canada Warbler,0.29115134,229.0,232.0
+Cardellina canadensis_Canada Warbler,0.75884855,230.0,233.0
+Cardellina canadensis_Canada Warbler,0.5254064,231.0,234.0
+Cardellina canadensis_Canada Warbler,0.35301036,232.0,235.0
+Myiothlypis signata_Pale-legged Warbler,0.18191952,232.0,235.0
+Chlorospingus flavopectus_Common Chlorospingus,0.10483492,232.0,235.0
+Cardellina canadensis_Canada Warbler,0.5606899,233.0,236.0
+Myiothlypis signata_Pale-legged Warbler,0.13863921,233.0,236.0
+Cardellina canadensis_Canada Warbler,0.6030761,234.0,237.0
+Myiothlypis signata_Pale-legged Warbler,0.18706517,234.0,237.0
+Cardellina canadensis_Canada Warbler,0.7969335,235.0,238.0
+Cardellina canadensis_Canada Warbler,0.7049667,236.0,239.0
+Myiothlypis signata_Pale-legged Warbler,0.111787535,236.0,239.0
+Cardellina canadensis_Canada Warbler,0.37949535,237.0,240.0
+Troglodytes hiemalis_Winter Wren,0.10068701,237.0,240.0
+Cardellina canadensis_Canada Warbler,0.5621573,238.0,241.0
+Troglodytes hiemalis_Winter Wren,0.31949586,238.0,241.0
+Cardellina canadensis_Canada Warbler,0.8175736,239.0,242.0
+Seiurus aurocapilla_Ovenbird,0.24127042,239.0,242.0
+Cardellina canadensis_Canada Warbler,0.86965644,240.0,243.0
+Seiurus aurocapilla_Ovenbird,0.124563985,240.0,243.0
+Cardellina canadensis_Canada Warbler,0.2649553,241.0,244.0
+Myiothlypis signata_Pale-legged Warbler,0.23860307,241.0,244.0
+Cardellina canadensis_Canada Warbler,0.3150309,242.0,245.0
+Cardellina canadensis_Canada Warbler,0.26834098,243.0,246.0
+Myiothlypis signata_Pale-legged Warbler,0.17774191,243.0,246.0
+Cardellina canadensis_Canada Warbler,0.4128358,244.0,247.0
+Myiothlypis signata_Pale-legged Warbler,0.20644328,244.0,247.0
+Cardellina canadensis_Canada Warbler,0.46571755,245.0,248.0
+Seiurus aurocapilla_Ovenbird,0.24695987,245.0,248.0
+Seiurus aurocapilla_Ovenbird,0.41331533,246.0,249.0
+Cardellina canadensis_Canada Warbler,0.21174893,246.0,249.0
+Myiothlypis signata_Pale-legged Warbler,0.1440313,246.0,249.0
+Seiurus aurocapilla_Ovenbird,0.46850315,247.0,250.0
+Cardellina canadensis_Canada Warbler,0.2919348,247.0,250.0
+Cardellina canadensis_Canada Warbler,0.61031216,248.0,251.0
+Seiurus aurocapilla_Ovenbird,0.4714871,248.0,251.0
+Cardellina canadensis_Canada Warbler,0.7210536,249.0,252.0
+Seiurus aurocapilla_Ovenbird,0.15427864,249.0,252.0
+Cardellina canadensis_Canada Warbler,0.5206249,250.0,253.0
+Seiurus aurocapilla_Ovenbird,0.22223395,250.0,253.0
+Cardellina canadensis_Canada Warbler,0.51753366,251.0,254.0
+Seiurus aurocapilla_Ovenbird,0.118163764,251.0,254.0
+Seiurus aurocapilla_Ovenbird,0.833759,252.0,255.0
+Cardellina canadensis_Canada Warbler,0.43734264,252.0,255.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11703236,252.0,255.0
+Seiurus aurocapilla_Ovenbird,0.68164355,253.0,256.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10851936,253.0,256.0
+Cardellina canadensis_Canada Warbler,0.103644185,253.0,256.0
+Seiurus aurocapilla_Ovenbird,0.45025223,254.0,257.0
+Cardellina canadensis_Canada Warbler,0.19559668,254.0,257.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10466016,254.0,257.0
+Seiurus aurocapilla_Ovenbird,0.49568096,255.0,258.0
+Cardellina canadensis_Canada Warbler,0.20767048,255.0,258.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13428178,255.0,258.0
+Seiurus aurocapilla_Ovenbird,0.4668637,256.0,259.0
+Cardellina canadensis_Canada Warbler,0.3840788,256.0,259.0
+Colibri thalassinus_Mexican Violetear,0.26261953,256.0,259.0
+Basileuterus culicivorus_Golden-crowned Warbler,0.11702096,256.0,259.0
+Colibri thalassinus_Mexican Violetear,0.5005608,257.0,260.0
+Seiurus aurocapilla_Ovenbird,0.26536343,257.0,260.0
+Myiothlypis signata_Pale-legged Warbler,0.19091904,258.0,261.0
+Cardellina canadensis_Canada Warbler,0.1824967,258.0,261.0
+Myiothlypis signata_Pale-legged Warbler,0.40094745,259.0,262.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.15736055,259.0,262.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.3147254,260.0,263.0
+Myiothlypis signata_Pale-legged Warbler,0.3145276,260.0,263.0
+Cardellina canadensis_Canada Warbler,0.2301036,260.0,263.0
+Myiothlypis signata_Pale-legged Warbler,0.41964033,261.0,264.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.26829383,261.0,264.0
+Cardellina canadensis_Canada Warbler,0.11849872,261.0,264.0
+Myiothlypis signata_Pale-legged Warbler,0.5337388,262.0,265.0
+Atlapetes pileatus_Rufous-capped Brushfinch,0.11029495,262.0,265.0
+Myiothlypis signata_Pale-legged Warbler,0.45788366,263.0,266.0
+Cardellina canadensis_Canada Warbler,0.13569605,263.0,266.0
+Troglodytes hiemalis_Winter Wren,0.10606935,263.0,266.0
+Myiothlypis signata_Pale-legged Warbler,0.4070344,264.0,267.0
+Troglodytes hiemalis_Winter Wren,0.29101625,264.0,267.0
+Troglodytes hiemalis_Winter Wren,0.58616924,265.0,268.0
+Myiothlypis signata_Pale-legged Warbler,0.50566,265.0,268.0
+Troglodytes hiemalis_Winter Wren,0.4236973,266.0,269.0
+Cardellina canadensis_Canada Warbler,0.3541185,266.0,269.0
+Myiothlypis signata_Pale-legged Warbler,0.24190067,266.0,269.0
+Cardellina canadensis_Canada Warbler,0.514875,267.0,270.0
+Troglodytes hiemalis_Winter Wren,0.37985876,267.0,270.0
+Seiurus aurocapilla_Ovenbird,0.10595282,267.0,270.0
+Myiothlypis signata_Pale-legged Warbler,0.19702412,268.0,271.0
+Seiurus aurocapilla_Ovenbird,0.18186343,268.0,271.0
+Cardellina canadensis_Canada Warbler,0.13468279,268.0,271.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.1336209,268.0,271.0
+Seiurus aurocapilla_Ovenbird,0.12361805,269.0,272.0
+Cardellina canadensis_Canada Warbler,0.28818122,270.0,273.0
+Cardellina canadensis_Canada Warbler,0.46353912,271.0,274.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.16036257,271.0,274.0
+Colibri thalassinus_Mexican Violetear,0.1143927,272.0,275.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12891544,273.0,276.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.19255835,274.0,277.0
+Cardellina canadensis_Canada Warbler,0.10156347,274.0,277.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.34451917,275.0,278.0
+Cardellina canadensis_Canada Warbler,0.2653241,275.0,278.0
+Myiothlypis signata_Pale-legged Warbler,0.14399864,275.0,278.0
+Cardellina canadensis_Canada Warbler,0.36228406,276.0,279.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.12084489,276.0,279.0
+Myiothlypis signata_Pale-legged Warbler,0.10646194,276.0,279.0
+Cardellina canadensis_Canada Warbler,0.2069031,277.0,280.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.13846216,277.0,280.0
+Myiothlypis signata_Pale-legged Warbler,0.114534155,277.0,280.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.22040132,278.0,281.0
+Myiothlypis signata_Pale-legged Warbler,0.14769818,278.0,281.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.35766378,279.0,282.0
+Myiothlypis signata_Pale-legged Warbler,0.17742926,279.0,282.0
+Chlorospingus flavopectus_Common Chlorospingus,0.2770833,280.0,283.0
+Myiothlypis signata_Pale-legged Warbler,0.17360163,280.0,283.0
+Chlorospingus flavopectus_Common Chlorospingus,0.30384982,281.0,284.0
+Myiothlypis signata_Pale-legged Warbler,0.17366427,281.0,284.0
+Cardellina canadensis_Canada Warbler,0.16975968,281.0,284.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.107779324,281.0,284.0
+Cardellina canadensis_Canada Warbler,0.3326604,282.0,285.0
+Myiothlypis signata_Pale-legged Warbler,0.1390704,282.0,285.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10750501,282.0,285.0
+Cardellina canadensis_Canada Warbler,0.6461577,283.0,286.0
+Seiurus aurocapilla_Ovenbird,0.241459,283.0,286.0
+Cardellina canadensis_Canada Warbler,0.13018449,284.0,287.0
+Cardellina canadensis_Canada Warbler,0.20402871,285.0,288.0
+Myiothlypis signata_Pale-legged Warbler,0.25694245,286.0,289.0
+Chlorospingus flavopectus_Common Chlorospingus,0.12491144,286.0,289.0
+Cardellina canadensis_Canada Warbler,0.24527824,287.0,290.0
+Cardellina canadensis_Canada Warbler,0.13251843,288.0,291.0
+Cardellina canadensis_Canada Warbler,0.43066624,289.0,292.0
+Seiurus aurocapilla_Ovenbird,0.16645618,289.0,292.0
+Cardellina canadensis_Canada Warbler,0.6630721,290.0,293.0
+Cardellina canadensis_Canada Warbler,0.21226865,291.0,294.0
+Seiurus aurocapilla_Ovenbird,0.14881916,291.0,294.0
+Cardellina canadensis_Canada Warbler,0.19075994,292.0,295.0
+Myiothlypis nigrocristata_Black-crested Warbler,0.10238555,292.0,295.0
+Cardellina canadensis_Canada Warbler,0.48903778,293.0,296.0
+Cardellina canadensis_Canada Warbler,0.57016355,294.0,297.0
+Seiurus aurocapilla_Ovenbird,0.21382509,294.0,297.0
+Cardellina canadensis_Canada Warbler,0.5236362,295.0,298.0
+Cardellina canadensis_Canada Warbler,0.41208288,296.0,299.0
+Cardellina canadensis_Canada Warbler,0.46413547,297.0,300.0
+Cardellina canadensis_Canada Warbler,0.70742637,298.0,301.0
+Cardellina canadensis_Canada Warbler,0.30206847,299.0,302.0
+Cardellina canadensis_Canada Warbler,0.50605315,300.0,303.0
+Cardellina canadensis_Canada Warbler,0.34923837,301.0,304.0
+Cardellina canadensis_Canada Warbler,0.8114923,302.0,305.0
+Cardellina canadensis_Canada Warbler,0.74912035,303.0,306.0
+Cardellina canadensis_Canada Warbler,0.5814213,304.0,307.0
+Cardellina canadensis_Canada Warbler,0.45480996,305.0,308.0
+Seiurus aurocapilla_Ovenbird,0.10716197,305.0,308.0
+Myiothlypis signata_Pale-legged Warbler,0.10377483,305.0,308.0
+Cardellina canadensis_Canada Warbler,0.24622737,306.0,309.0
+Seiurus aurocapilla_Ovenbird,0.16255632,306.0,309.0
+Cardellina canadensis_Canada Warbler,0.3617235,307.0,310.0
+Myiothlypis signata_Pale-legged Warbler,0.22308709,307.0,310.0
+Cardellina canadensis_Canada Warbler,0.66709536,308.0,311.0
+Seiurus aurocapilla_Ovenbird,0.124333024,308.0,311.0
+Cardellina canadensis_Canada Warbler,0.5531377,309.0,312.0
+Cardellina canadensis_Canada Warbler,0.3613484,310.0,313.0
+Cardellina canadensis_Canada Warbler,0.60275525,311.0,314.0
+Cardellina canadensis_Canada Warbler,0.3066555,312.0,315.0
+Cardellina canadensis_Canada Warbler,0.6839454,313.0,316.0
+Cardellina canadensis_Canada Warbler,0.48164353,314.0,317.0
+Cardellina canadensis_Canada Warbler,0.3142061,315.0,318.0
+Cardellina canadensis_Canada Warbler,0.33304587,316.0,319.0
+Cardellina canadensis_Canada Warbler,0.29223445,317.0,320.0
+Chlorospingus flavopectus_Common Chlorospingus,0.10114891,317.0,320.0
+Chlorospingus flavopectus_Common Chlorospingus,0.14048082,318.0,321.0
+Colibri thalassinus_Mexican Violetear,0.123173416,318.0,321.0
+Cardellina canadensis_Canada Warbler,0.14472324,319.0,322.0
+Cardellina canadensis_Canada Warbler,0.17275436,320.0,323.0
+Cardellina canadensis_Canada Warbler,0.118839525,321.0,324.0
+Cardellina canadensis_Canada Warbler,0.25003678,322.0,325.0
+Cardellina canadensis_Canada Warbler,0.47319812,323.0,325.72802721088436

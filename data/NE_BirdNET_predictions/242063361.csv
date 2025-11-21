@@ -1,0 +1,281 @@
+species,score,start_time,end_time
+Vireo olivaceus_Red-eyed Vireo,0.32935396,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.17896026,0.0,3.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8892737,1.0,4.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9754488,2.0,5.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.21872407,2.0,5.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19686177,2.0,5.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.986046,3.0,6.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.4996874,3.0,6.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.38629672,3.0,6.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98805237,4.0,7.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.4051677,4.0,7.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1745739,4.0,7.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97987866,5.0,8.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.5464075,5.0,8.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.29010057,5.0,8.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97745836,6.0,9.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.4724009,6.0,9.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.25857076,6.0,9.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98475283,7.0,10.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.38194522,7.0,10.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.24419068,7.0,10.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9713723,8.0,11.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.33815563,8.0,11.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.14268388,8.0,11.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9581757,9.0,12.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.106282994,9.0,12.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9582612,10.0,13.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.22977076,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.20982625,12.0,15.0
+Empidonax virescens_Acadian Flycatcher,0.15007466,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1321733,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.10430621,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.19965607,13.0,16.0
+Empidonax virescens_Acadian Flycatcher,0.12111001,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.117520966,13.0,16.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1113665,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.17688623,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1233202,14.0,17.0
+Empidonax virescens_Acadian Flycatcher,0.10720632,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13508654,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.108046554,15.0,18.0
+Bonasa umbellus_Ruffed Grouse,0.10025375,15.0,18.0
+Vireo olivaceus_Red-eyed Vireo,0.12660247,16.0,19.0
+Empidonax virescens_Acadian Flycatcher,0.10230199,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.13282426,18.0,21.0
+Empidonax virescens_Acadian Flycatcher,0.13015735,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10443143,18.0,21.0
+Vireo olivaceus_Red-eyed Vireo,0.11972056,19.0,22.0
+Vireo olivaceus_Red-eyed Vireo,0.17103009,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.140202,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.11540067,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19079202,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.15117471,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.1404865,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.103240184,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.22919734,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.12898882,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.12076843,23.0,26.0
+Setophaga fusca_Blackburnian Warbler,0.11810148,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19414772,24.0,27.0
+Setophaga cerulea_Cerulean Warbler,0.11152472,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.1077492,24.0,27.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.49589726,25.0,28.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.89593774,26.0,29.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.14498928,26.0,29.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.95948815,27.0,30.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.26732418,27.0,30.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.17448133,27.0,30.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9792402,28.0,31.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.4652839,28.0,31.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.39212632,28.0,31.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9833288,29.0,32.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.43747625,29.0,32.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.25864458,29.0,32.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97584075,30.0,33.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.50075716,30.0,33.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.18254635,30.0,33.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9833187,31.0,34.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.48765704,31.0,34.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.124415904,31.0,34.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9736701,32.0,35.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.45121953,32.0,35.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19140127,32.0,35.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9591153,33.0,36.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5008745,34.0,37.0
+Meleagris gallopavo_Wild Turkey,0.2394452,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.15760705,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.18794522,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.16537699,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.23313014,39.0,42.0
+Vireo olivaceus_Red-eyed Vireo,0.18105252,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.20268703,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.103158884,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.2804495,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.14153077,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.18561691,44.0,47.0
+Empidonax virescens_Acadian Flycatcher,0.15887177,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.11916981,44.0,47.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.12383315,45.0,48.0
+Meleagris gallopavo_Wild Turkey,0.10592889,45.0,48.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.848943,46.0,49.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.13351439,46.0,49.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.95738214,47.0,50.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.37221935,47.0,50.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.33401465,47.0,50.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98161006,48.0,51.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.44406322,48.0,51.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.37964243,48.0,51.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98495805,49.0,52.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.51487714,49.0,52.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.4034198,49.0,52.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9759016,50.0,53.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.38655168,50.0,53.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.2639548,50.0,53.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97698796,51.0,54.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.37913412,51.0,54.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.17610031,51.0,54.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9703874,52.0,55.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.26807994,52.0,55.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1619596,52.0,55.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9300399,53.0,56.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.15482959,53.0,56.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1143624,53.0,56.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9224314,54.0,57.0
+Vireo olivaceus_Red-eyed Vireo,0.13726865,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.111996315,55.0,58.0
+Vireo olivaceus_Red-eyed Vireo,0.118659936,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.20777984,57.0,60.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11690567,57.0,60.0
+Vireo olivaceus_Red-eyed Vireo,0.15430629,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14911404,58.0,61.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1334884,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.12683687,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.10463391,59.0,62.0
+Setophaga cerulea_Cerulean Warbler,0.10013271,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.12888512,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11106393,65.0,68.0
+Vireo olivaceus_Red-eyed Vireo,0.10454672,65.0,68.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8950665,66.0,69.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97400755,67.0,70.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.20945045,67.0,70.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.15546325,67.0,70.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9843166,68.0,71.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.60235685,68.0,71.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.5730406,68.0,71.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97582394,69.0,72.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.5480753,69.0,72.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.45096037,69.0,72.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97439325,70.0,73.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.42254668,70.0,73.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.21998884,70.0,73.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.93892473,71.0,74.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.38533893,71.0,74.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.35415557,71.0,74.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9643439,72.0,75.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.4540909,72.0,75.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.34830523,72.0,75.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.94410753,73.0,76.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8786197,74.0,77.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17216119,75.0,78.0
+Vireo olivaceus_Red-eyed Vireo,0.24544095,76.0,79.0
+Vireo olivaceus_Red-eyed Vireo,0.23301575,77.0,80.0
+Vireo olivaceus_Red-eyed Vireo,0.15589109,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10925843,78.0,81.0
+Vireo olivaceus_Red-eyed Vireo,0.13983929,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10948884,79.0,82.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11617701,81.0,84.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13092344,82.0,85.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1338021,83.0,86.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108547084,84.0,87.0
+Empidonax virescens_Acadian Flycatcher,0.1161547,85.0,88.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10475342,86.0,89.0
+Empidonax virescens_Acadian Flycatcher,0.13086036,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10156527,87.0,90.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.89838827,88.0,91.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.92441505,89.0,92.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.108827926,89.0,92.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98191136,90.0,93.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.29976535,90.0,93.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19548541,90.0,93.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98835945,91.0,94.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.53312546,91.0,94.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.41749007,91.0,94.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9828569,92.0,95.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.44895783,92.0,95.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.2597368,92.0,95.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.96528137,93.0,96.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.3527701,93.0,96.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.22338538,93.0,96.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9340108,94.0,97.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.117443085,94.0,97.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.21594779,95.0,98.0
+Meleagris gallopavo_Wild Turkey,0.12411731,95.0,98.0
+Setophaga cerulea_Cerulean Warbler,0.11236632,95.0,98.0
+Setophaga cerulea_Cerulean Warbler,0.1471368,96.0,99.0
+Vireo olivaceus_Red-eyed Vireo,0.29203013,97.0,100.0
+Empidonax virescens_Acadian Flycatcher,0.13754769,97.0,100.0
+Piranga olivacea_Scarlet Tanager,0.10358894,97.0,100.0
+Vireo olivaceus_Red-eyed Vireo,0.14189632,98.0,101.0
+Vireo olivaceus_Red-eyed Vireo,0.18107696,99.0,102.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.115411244,99.0,102.0
+Vireo olivaceus_Red-eyed Vireo,0.16368179,100.0,103.0
+Vireo olivaceus_Red-eyed Vireo,0.1821659,101.0,104.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100506246,101.0,104.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.83792096,102.0,105.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9716437,103.0,106.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.23359491,103.0,106.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.19005963,103.0,106.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9864981,104.0,107.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.47518924,104.0,107.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.32206818,104.0,107.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.98290837,105.0,108.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.41899812,105.0,108.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.20931624,105.0,108.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.94669527,106.0,109.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.33394432,106.0,109.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.14206193,106.0,109.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9413143,107.0,110.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.3048531,107.0,110.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9707412,108.0,111.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.13113086,108.0,111.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9548257,109.0,112.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.29863536,110.0,113.0
+Meleagris gallopavo_Wild Turkey,0.12939692,110.0,113.0
+Empidonax virescens_Acadian Flycatcher,0.17607298,111.0,114.0
+Vireo olivaceus_Red-eyed Vireo,0.1576178,111.0,114.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10828482,111.0,114.0
+Vireo olivaceus_Red-eyed Vireo,0.21205492,112.0,115.0
+Empidonax virescens_Acadian Flycatcher,0.19912788,112.0,115.0
+Empidonax virescens_Acadian Flycatcher,0.37833026,113.0,116.0
+Setophaga cerulea_Cerulean Warbler,0.15469316,113.0,116.0
+Vireo olivaceus_Red-eyed Vireo,0.126696,113.0,116.0
+Geothlypis formosa_Kentucky Warbler,0.10529676,113.0,116.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110946074,115.0,118.0
+Vireo olivaceus_Red-eyed Vireo,0.12710729,116.0,119.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10928416,117.0,120.0
+Empidonax virescens_Acadian Flycatcher,0.10319394,117.0,120.0
+Vireo olivaceus_Red-eyed Vireo,0.1503993,118.0,121.0
+Geothlypis formosa_Kentucky Warbler,0.12338398,118.0,121.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1605734,119.0,122.0
+Setophaga cerulea_Cerulean Warbler,0.118338846,119.0,122.0
+Setophaga fusca_Blackburnian Warbler,0.10131399,119.0,122.0
+Vireo olivaceus_Red-eyed Vireo,0.15257859,120.0,123.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11287687,120.0,123.0
+Setophaga cerulea_Cerulean Warbler,0.10920475,120.0,123.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.8862399,121.0,124.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9628356,122.0,125.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9818325,123.0,126.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.39399213,123.0,126.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.28423494,123.0,126.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9858914,124.0,127.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.5249923,124.0,127.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.22155997,124.0,127.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9668832,125.0,128.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.33417326,125.0,128.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1875379,125.0,128.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.88899344,126.0,129.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.20088752,126.0,129.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1319368,126.0,129.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.5519512,127.0,130.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.11163781,127.0,130.0
+Bonasa umbellus_Ruffed Grouse,0.12690848,135.0,138.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.64427733,138.0,141.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.20539407,138.0,141.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.19848529,138.0,141.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.97586274,139.0,142.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.2538384,139.0,142.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.23127533,139.0,142.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9434509,140.0,143.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.22480053,140.0,143.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9436081,141.0,144.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.108091414,141.0,144.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9635659,142.0,145.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9463092,143.0,146.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.90507185,144.0,147.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.92777246,145.0,148.0
+Sphyrapicus ruber_Red-breasted Sapsucker,0.10872223,145.0,148.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.93354475,146.0,149.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.9036678,147.0,150.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11281479,149.0,152.0

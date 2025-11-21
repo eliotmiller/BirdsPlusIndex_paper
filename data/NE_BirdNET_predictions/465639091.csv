@@ -1,0 +1,43 @@
+species,score,start_time,end_time
+Ardea herodias_Great Blue Heron,0.9963839,0.0,3.0
+Ardea cinerea_Gray Heron,0.83245605,0.0,3.0
+Ardea cocoi_Cocoi Heron,0.80978256,0.0,3.0
+Ardea herodias_Great Blue Heron,0.9879352,1.0,4.0
+Ardea cinerea_Gray Heron,0.5184658,1.0,4.0
+Ardea cocoi_Cocoi Heron,0.373034,1.0,4.0
+Ardea herodias_Great Blue Heron,0.9975127,2.0,5.0
+Ardea cinerea_Gray Heron,0.49658406,2.0,5.0
+Ardea cocoi_Cocoi Heron,0.46352446,2.0,5.0
+Ardea herodias_Great Blue Heron,0.9834626,3.0,6.0
+Ardea cinerea_Gray Heron,0.58619463,3.0,6.0
+Fulmarus glacialis_Northern Fulmar,0.25472316,3.0,6.0
+Ardea herodias_Great Blue Heron,0.9628537,4.0,7.0
+Ardea cinerea_Gray Heron,0.43138227,4.0,7.0
+Ardea herodias_Great Blue Heron,0.22347076,5.0,8.0
+Ardea cinerea_Gray Heron,0.12749527,5.0,8.0
+Ara macao_Scarlet Macaw,0.11204759,5.0,8.0
+Ardea herodias_Great Blue Heron,0.50897926,9.0,12.0
+Ardea cinerea_Gray Heron,0.3883778,9.0,12.0
+Ardea herodias_Great Blue Heron,0.9674634,10.0,13.0
+Ardea cinerea_Gray Heron,0.89421827,10.0,13.0
+Egretta garzetta_Little Egret,0.15678361,10.0,13.0
+Ardea alba_Great Egret,0.13555409,10.0,13.0
+Ardea cinerea_Gray Heron,0.8924016,11.0,14.0
+Ardea herodias_Great Blue Heron,0.88394475,11.0,14.0
+Ardea herodias_Great Blue Heron,0.9674192,12.0,15.0
+Ardea cinerea_Gray Heron,0.5499804,12.0,15.0
+Ardea alba_Great Egret,0.3492504,12.0,15.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.30938515,12.0,15.0
+Ardea herodias_Great Blue Heron,0.94340944,13.0,16.0
+Ardea cinerea_Gray Heron,0.4631682,13.0,16.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.2088794,13.0,16.0
+Ardea alba_Great Egret,0.19455317,13.0,16.0
+Ardea herodias_Great Blue Heron,0.98173976,14.0,17.0
+Ardea cinerea_Gray Heron,0.6383626,14.0,17.0
+Ardea alba_Great Egret,0.23748504,14.0,17.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.18251215,14.0,17.0
+Egretta thula_Snowy Egret,0.13642122,14.0,17.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.116321735,14.0,17.0
+Ardea herodias_Great Blue Heron,0.33578968,15.0,18.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.16677593,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.10003157,16.0,19.0

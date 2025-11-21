@@ -1,0 +1,36 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.8158437,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.69149584,0.0,3.0
+Icterus galbula_Baltimore Oriole,0.28391263,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.1418311,0.0,3.0
+Icteria virens_Yellow-breasted Chat,0.5658659,1.0,4.0
+Catharus fuscescens_Veery,0.5112371,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.25569832,1.0,4.0
+Passerina cyanea_Indigo Bunting,0.34288105,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.44236457,5.0,8.0
+Grallaria blakei_Chestnut Antpitta,0.20406969,5.0,8.0
+Icteria virens_Yellow-breasted Chat,0.97472894,6.0,9.0
+Icteria virens_Yellow-breasted Chat,0.9844051,7.0,10.0
+Icteria virens_Yellow-breasted Chat,0.8416125,8.0,11.0
+Cacomantis pallidus_Pallid Cuckoo,0.3653618,8.0,11.0
+Pyriglena leuconota_East Amazonian Fire-eye,0.22952269,8.0,11.0
+Pyriglena maura_Western Fire-eye,0.15597895,8.0,11.0
+Spizella pusilla_Field Sparrow,0.25430936,9.0,12.0
+Colinus virginianus_Northern Bobwhite,0.13330685,9.0,12.0
+Peucaea aestivalis_Bachman's Sparrow,0.17011961,10.0,13.0
+Spizella pusilla_Field Sparrow,0.1343328,10.0,13.0
+Colinus virginianus_Northern Bobwhite,0.101842076,10.0,13.0
+Spizella pusilla_Field Sparrow,0.1404951,11.0,14.0
+Thamnophilus atrinucha_Black-crowned Antshrike,0.12513253,11.0,14.0
+Spizella pusilla_Field Sparrow,0.24207099,12.0,15.0
+Spizella pusilla_Field Sparrow,0.20662561,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.12449731,18.0,21.0
+Thamnophilus pelzelni_Planalto Slaty-Antshrike,0.11980564,19.0,22.0
+Dysithamnus mentalis_Plain Antvireo,0.10082455,19.0,22.0
+Icteria virens_Yellow-breasted Chat,0.1753007,21.0,24.0
+Icteria virens_Yellow-breasted Chat,0.27886215,22.0,25.0
+Icteria virens_Yellow-breasted Chat,0.6141092,23.0,26.0
+Pyriglena leuconota_East Amazonian Fire-eye,0.64634526,24.0,26.23201814058957
+Pyriglena maura_Western Fire-eye,0.29424864,24.0,26.23201814058957
+Formicarius moniliger_Mayan Antthrush,0.19639692,24.0,26.23201814058957
+Cacomantis pallidus_Pallid Cuckoo,0.16634202,24.0,26.23201814058957

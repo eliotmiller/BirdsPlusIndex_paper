@@ -1,0 +1,23 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.49667627,0.0,3.0
+Cyanocitta cristata_Blue Jay,0.27746934,1.0,4.0
+Buteo jamaicensis_Red-tailed Hawk,0.104246736,1.0,4.0
+Cyanocitta cristata_Blue Jay,0.4927233,2.0,5.0
+Buteo jamaicensis_Red-tailed Hawk,0.29742113,2.0,5.0
+Cyanocitta cristata_Blue Jay,0.23303823,3.0,6.0
+Buteo jamaicensis_Red-tailed Hawk,0.14631887,3.0,6.0
+Cyanocitta cristata_Blue Jay,0.27801487,4.0,7.0
+Buteo jamaicensis_Red-tailed Hawk,0.14409384,6.0,9.0
+Cyanocitta cristata_Blue Jay,0.2108855,8.0,11.0
+Cyanocitta cristata_Blue Jay,0.38269696,9.0,12.0
+Cyanocitta cristata_Blue Jay,0.62605274,10.0,13.0
+Cyanocitta cristata_Blue Jay,0.2936677,11.0,14.0
+Turdus migratorius_American Robin,0.10361391,12.0,15.0
+Strix varia_Barred Owl,0.111959696,13.0,16.0
+Turdus migratorius_American Robin,0.29935253,18.0,21.0
+Turdus migratorius_American Robin,0.10673311,19.0,22.0
+Buteo jamaicensis_Red-tailed Hawk,0.12014231,21.0,24.0
+Turdus migratorius_American Robin,0.11327216,24.0,27.0
+Bubo virginianus_Great Horned Owl,0.1531652,27.0,30.0
+Bubo virginianus_Great Horned Owl,0.30617994,28.0,31.0
+Pitangus sulphuratus_Great Kiskadee,0.11657882,28.0,31.0

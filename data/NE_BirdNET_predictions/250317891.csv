@@ -1,0 +1,50 @@
+species,score,start_time,end_time
+Setophaga cerulea_Cerulean Warbler,0.15805584,0.0,3.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15481666,0.0,3.0
+Setophaga graciae_Grace's Warbler,0.115523934,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.1064939,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.6915322,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.29577684,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.5121007,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.85458255,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10067915,6.0,9.0
+Setophaga fusca_Blackburnian Warbler,0.12784505,16.0,19.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.122460775,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.113401964,19.0,22.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.102731034,19.0,22.0
+Vireo cassinii_Cassin's Vireo,0.21190903,22.0,25.0
+Vireo solitarius_Blue-headed Vireo,0.15326393,22.0,25.0
+Setophaga fusca_Blackburnian Warbler,0.11677833,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10572388,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105137214,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.10007651,36.0,39.0
+Setophaga graciae_Grace's Warbler,0.23174979,42.0,45.0
+Setophaga graciae_Grace's Warbler,0.17572138,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.46374267,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.27019817,45.0,48.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11074603,45.0,48.0
+Seiurus aurocapilla_Ovenbird,0.4730718,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.2285231,47.0,50.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13973503,47.0,50.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11767574,48.0,51.0
+Setophaga fusca_Blackburnian Warbler,0.10004458,48.0,51.0
+Vireo cassinii_Cassin's Vireo,0.12854102,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.11091156,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23078461,65.0,68.0
+Setophaga graciae_Grace's Warbler,0.20817359,66.0,69.0
+Setophaga coronata_Yellow-rumped Warbler,0.10451423,66.0,69.0
+Setophaga graciae_Grace's Warbler,0.12922876,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.4727358,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.41377255,69.0,72.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11144446,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1088168,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.78680336,70.0,73.0
+Setophaga graciae_Grace's Warbler,0.13909027,89.0,92.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13528556,89.0,92.0
+Setophaga coronata_Yellow-rumped Warbler,0.12985976,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.10968617,89.0,92.0
+Setophaga graciae_Grace's Warbler,0.15453808,90.0,93.0
+Seiurus aurocapilla_Ovenbird,0.7848503,91.0,94.0
+Seiurus aurocapilla_Ovenbird,0.4900506,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.74143034,93.0,96.0
+Seiurus aurocapilla_Ovenbird,0.9045037,94.0,96.55201814058957

@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Seiurus aurocapilla_Ovenbird,0.71063733,0.0,3.0
+Tangara chilensis_Paradise Tanager,0.1505593,0.0,3.0
+Tangara chilensis_Paradise Tanager,0.39240903,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.48753697,2.0,5.0
+Tangara chilensis_Paradise Tanager,0.13005373,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.5959408,3.0,6.0
+Geothlypis formosa_Kentucky Warbler,0.1538336,3.0,6.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11802662,3.0,6.0
+Tangara chilensis_Paradise Tanager,0.11281877,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.7963751,4.0,7.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13532606,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.111794315,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.2777941,5.0,8.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16677134,5.0,8.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12914827,5.0,8.0
+Tangara chilensis_Paradise Tanager,0.11975066,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.42565805,6.0,9.0
+Geothlypis philadelphia_Mourning Warbler,0.23854303,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.21907881,7.0,10.0
+Tangara chilensis_Paradise Tanager,0.3483291,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.34686556,8.0,11.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15672126,8.0,11.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10383075,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.13615589,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.19040996,11.0,14.0
+Geothlypis formosa_Kentucky Warbler,0.16501787,11.0,14.0
+Tamias striatus_Eastern Chipmunk,0.1265721,12.0,15.0
+Tamias striatus_Eastern Chipmunk,0.25117654,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.43354502,14.0,17.0
+Thripadectes rufobrunneus_Streak-breasted Treehunter,0.23507895,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.110133976,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.522066,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.4703917,16.0,19.0
+Piranga olivacea_Scarlet Tanager,0.28042838,16.0,19.0
+Tamias striatus_Eastern Chipmunk,0.59662783,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12139808,17.0,20.0
+Tamias striatus_Eastern Chipmunk,0.59656507,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12362289,18.0,21.0
+Tamias striatus_Eastern Chipmunk,0.21431066,19.0,22.0
+Tamias striatus_Eastern Chipmunk,0.3558149,20.0,23.0
+Setophaga cerulea_Cerulean Warbler,0.13557476,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10830435,20.0,23.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21900667,21.0,24.0
+Tamias striatus_Eastern Chipmunk,0.1625173,21.0,24.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13960376,22.0,25.0
+Tamias striatus_Eastern Chipmunk,0.13872612,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.3099732,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16737103,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.60943234,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.8787892,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.76587564,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.8084055,27.0,30.0
+Tamias striatus_Eastern Chipmunk,0.51354086,28.0,31.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10162645,28.0,31.0
+Tamias striatus_Eastern Chipmunk,0.6064728,29.0,32.0
+Empidonax minimus_Least Flycatcher,0.11199459,29.0,32.0
+Tamias striatus_Eastern Chipmunk,0.45782927,30.0,33.0
+Tamias striatus_Eastern Chipmunk,0.3730553,31.0,34.0
+Tamias striatus_Eastern Chipmunk,0.36488712,32.0,35.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13003282,32.0,35.0
+Tamias striatus_Eastern Chipmunk,0.72809565,33.0,36.0
+Tamias striatus_Eastern Chipmunk,0.7153234,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12171804,34.0,37.0
+Tamias striatus_Eastern Chipmunk,0.67270076,35.0,38.0

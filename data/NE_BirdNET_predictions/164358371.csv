@@ -1,0 +1,198 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.42776436,1.0,4.0
+Dryocopus pileatus_Pileated Woodpecker,0.24021782,1.0,4.0
+Catharus fuscescens_Veery,0.11409106,2.0,5.0
+Catharus fuscescens_Veery,0.30041495,3.0,6.0
+Catharus fuscescens_Veery,0.36200055,4.0,7.0
+Dryocopus pileatus_Pileated Woodpecker,0.123304136,4.0,7.0
+Catharus fuscescens_Veery,0.4985244,5.0,8.0
+Catharus fuscescens_Veery,0.7649579,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14282024,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13829565,7.0,10.0
+Catharus fuscescens_Veery,0.16994199,8.0,11.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11080696,8.0,11.0
+Catharus fuscescens_Veery,0.25160348,9.0,12.0
+Ramphastos vitellinus_Channel-billed Toucan,0.10759181,9.0,12.0
+Catharus fuscescens_Veery,0.4638668,10.0,13.0
+Catharus fuscescens_Veery,0.63507485,11.0,14.0
+Catharus fuscescens_Veery,0.5575538,12.0,15.0
+Catharus fuscescens_Veery,0.48839232,13.0,16.0
+Vermivora cyanoptera_Blue-winged Warbler,0.104497336,13.0,16.0
+Protonotaria citrea_Prothonotary Warbler,0.25567585,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1939314,14.0,17.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4537535,15.0,18.0
+Setophaga ruticilla_American Redstart,0.10101996,15.0,18.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.46747667,16.0,19.0
+Setophaga ruticilla_American Redstart,0.11170453,16.0,19.0
+Geothlypis philadelphia_Mourning Warbler,0.11147066,16.0,19.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.5481681,17.0,20.0
+Catharus fuscescens_Veery,0.24804594,17.0,20.0
+Setophaga ruticilla_American Redstart,0.1480504,17.0,20.0
+Catharus fuscescens_Veery,0.23987074,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.115822405,18.0,21.0
+Catharus fuscescens_Veery,0.34886435,19.0,22.0
+Catharus fuscescens_Veery,0.12514037,21.0,24.0
+Protonotaria citrea_Prothonotary Warbler,0.137835,22.0,25.0
+Catharus fuscescens_Veery,0.10102896,22.0,25.0
+Catharus fuscescens_Veery,0.26779217,23.0,26.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1480646,23.0,26.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23055254,24.0,27.0
+Catharus fuscescens_Veery,0.36832973,25.0,28.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12823811,25.0,28.0
+Catharus fuscescens_Veery,0.24870951,26.0,29.0
+Catharus fuscescens_Veery,0.5732871,28.0,31.0
+Catharus fuscescens_Veery,0.56992984,29.0,32.0
+Catharus fuscescens_Veery,0.7883134,30.0,33.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.4321837,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2666899,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.30169353,34.0,37.0
+Setophaga ruticilla_American Redstart,0.25194564,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10436272,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.12690791,38.0,41.0
+Catharus fuscescens_Veery,0.4507692,40.0,43.0
+Catharus fuscescens_Veery,0.50904846,41.0,44.0
+Catharus fuscescens_Veery,0.590925,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12500209,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11306922,52.0,55.0
+Setophaga citrina_Hooded Warbler,0.10630424,53.0,56.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.100519374,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10480549,54.0,57.0
+Setophaga fusca_Blackburnian Warbler,0.10155977,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10002889,54.0,57.0
+Catharus fuscescens_Veery,0.616023,56.0,59.0
+Catharus fuscescens_Veery,0.7639134,57.0,60.0
+Cardellina canadensis_Canada Warbler,0.13062443,57.0,60.0
+Catharus fuscescens_Veery,0.7067784,58.0,61.0
+Setophaga ruticilla_American Redstart,0.42223692,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16431527,63.0,66.0
+Setophaga ruticilla_American Redstart,0.15475,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11190929,66.0,69.0
+Setophaga ruticilla_American Redstart,0.3710801,67.0,70.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1037177,67.0,70.0
+Setophaga ruticilla_American Redstart,0.5633741,68.0,71.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15276133,68.0,71.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11766851,68.0,71.0
+Setophaga ruticilla_American Redstart,0.16649996,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11765346,70.0,73.0
+Setophaga virens_Black-throated Green Warbler,0.11552537,71.0,74.0
+Setophaga ruticilla_American Redstart,0.19966085,79.0,82.0
+Setophaga ruticilla_American Redstart,0.10567748,80.0,83.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1024053,80.0,83.0
+Setophaga ruticilla_American Redstart,0.1959959,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12904802,81.0,84.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12445294,83.0,86.0
+Setophaga ruticilla_American Redstart,0.1592638,85.0,88.0
+Setophaga ruticilla_American Redstart,0.11069949,86.0,89.0
+Setophaga ruticilla_American Redstart,0.27444398,88.0,91.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2416762,88.0,91.0
+Setophaga cerulea_Cerulean Warbler,0.100530304,88.0,91.0
+Setophaga ruticilla_American Redstart,0.36888385,89.0,92.0
+Helmitheros vermivorum_Worm-eating Warbler,0.320147,89.0,92.0
+Setophaga cerulea_Cerulean Warbler,0.10416304,89.0,92.0
+Setophaga ruticilla_American Redstart,0.41513923,90.0,93.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28497055,90.0,93.0
+Setophaga cerulea_Cerulean Warbler,0.13815476,90.0,93.0
+Setophaga ruticilla_American Redstart,0.3342214,91.0,94.0
+Setophaga cerulea_Cerulean Warbler,0.14106211,91.0,94.0
+Piranga olivacea_Scarlet Tanager,0.104155384,91.0,94.0
+Setophaga ruticilla_American Redstart,0.14915247,92.0,95.0
+Setophaga ruticilla_American Redstart,0.11753333,93.0,96.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10983322,95.0,98.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17040454,98.0,101.0
+Setophaga ruticilla_American Redstart,0.13609132,98.0,101.0
+Setophaga citrina_Hooded Warbler,0.13021737,98.0,101.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10622809,98.0,101.0
+Setophaga ruticilla_American Redstart,0.35635245,99.0,102.0
+Setophaga fusca_Blackburnian Warbler,0.25907406,99.0,102.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17186123,99.0,102.0
+Setophaga cerulea_Cerulean Warbler,0.13445346,99.0,102.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11984928,103.0,106.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1142385,109.0,112.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1106985,109.0,112.0
+Setophaga citrina_Hooded Warbler,0.10356622,109.0,112.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11701834,110.0,113.0
+Bombycilla cedrorum_Cedar Waxwing,0.4530115,111.0,114.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16256736,111.0,114.0
+Bombycilla cedrorum_Cedar Waxwing,0.4694662,112.0,115.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12140537,112.0,115.0
+Bombycilla cedrorum_Cedar Waxwing,0.6366026,113.0,116.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14214155,118.0,121.0
+Vermivora chrysoptera_Golden-winged Warbler,0.10920095,118.0,121.0
+Setophaga ruticilla_American Redstart,0.15402786,119.0,122.0
+Setophaga castanea_Bay-breasted Warbler,0.13182,119.0,122.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11695881,119.0,122.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12671602,120.0,123.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13013396,124.0,127.0
+Setophaga ruticilla_American Redstart,0.22673246,125.0,128.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1389405,125.0,128.0
+Setophaga castanea_Bay-breasted Warbler,0.12691234,125.0,128.0
+Setophaga ruticilla_American Redstart,0.2344339,126.0,129.0
+Setophaga cerulea_Cerulean Warbler,0.11648859,126.0,129.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10448502,126.0,129.0
+Setophaga ruticilla_American Redstart,0.15483145,127.0,130.0
+Bombycilla cedrorum_Cedar Waxwing,0.38879225,128.0,131.0
+Bombycilla cedrorum_Cedar Waxwing,0.3982601,129.0,132.0
+Bombycilla cedrorum_Cedar Waxwing,0.7031622,130.0,133.0
+Bombycilla cedrorum_Cedar Waxwing,0.6582238,131.0,134.0
+Setophaga ruticilla_American Redstart,0.15383485,132.0,135.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10700165,132.0,135.0
+Setophaga ruticilla_American Redstart,0.30981925,133.0,136.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13837363,133.0,136.0
+Setophaga ruticilla_American Redstart,0.2446323,134.0,137.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18140985,134.0,137.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15295956,135.0,138.0
+Vermivora chrysoptera_Golden-winged Warbler,0.15118308,135.0,138.0
+Setophaga ruticilla_American Redstart,0.13733178,135.0,138.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.30857882,136.0,139.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16293232,137.0,140.0
+Setophaga ruticilla_American Redstart,0.11455226,139.0,142.0
+Setophaga cerulea_Cerulean Warbler,0.110415995,139.0,142.0
+Setophaga ruticilla_American Redstart,0.15038781,140.0,143.0
+Bombycilla cedrorum_Cedar Waxwing,0.34478992,141.0,144.0
+Setophaga ruticilla_American Redstart,0.12591423,141.0,144.0
+Bombycilla cedrorum_Cedar Waxwing,0.43975616,142.0,145.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.27872962,143.0,146.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3850054,144.0,147.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.31071958,145.0,148.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.32503447,146.0,149.0
+Setophaga ruticilla_American Redstart,0.15971018,146.0,149.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11064291,147.0,150.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12339616,149.0,152.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11029139,152.0,155.0
+Setophaga ruticilla_American Redstart,0.15290053,153.0,156.0
+Setophaga ruticilla_American Redstart,0.3295372,154.0,157.0
+Setophaga ruticilla_American Redstart,0.6312237,155.0,158.0
+Setophaga cerulea_Cerulean Warbler,0.124150105,155.0,158.0
+Setophaga ruticilla_American Redstart,0.2552701,156.0,159.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14561966,162.0,165.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2124521,163.0,166.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3418081,164.0,167.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.115271024,165.0,168.0
+Setophaga fusca_Blackburnian Warbler,0.11477677,169.0,172.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13819383,170.0,173.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3025957,171.0,174.0
+Setophaga cerulea_Cerulean Warbler,0.14930256,171.0,174.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.23999691,172.0,175.0
+Setophaga cerulea_Cerulean Warbler,0.13465425,172.0,175.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.21212687,173.0,176.0
+Setophaga cerulea_Cerulean Warbler,0.16539952,173.0,176.0
+Setophaga cerulea_Cerulean Warbler,0.15447545,174.0,177.0
+Setophaga ruticilla_American Redstart,0.13438758,174.0,177.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19206785,177.0,180.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16293855,178.0,181.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12036397,179.0,182.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12592037,181.0,184.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10104521,182.0,185.0
+Setophaga ruticilla_American Redstart,0.18348098,184.0,187.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22518699,186.0,189.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16884013,187.0,190.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14111024,188.0,191.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.12312029,189.0,192.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22012694,190.0,193.0
+Setophaga cerulea_Cerulean Warbler,0.20133787,190.0,193.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2783722,191.0,194.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24007608,192.0,195.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15249665,193.0,196.0
+Bombycilla cedrorum_Cedar Waxwing,0.19647698,194.0,197.0
+Ficedula parva_Red-breasted Flycatcher,0.1213688,194.0,197.0
+Bombycilla cedrorum_Cedar Waxwing,0.13463551,196.0,199.0

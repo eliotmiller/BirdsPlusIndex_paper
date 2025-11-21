@@ -1,0 +1,49 @@
+species,score,start_time,end_time
+Certhia americana_Brown Creeper,0.9644631,0.0,3.0
+Certhia americana_Brown Creeper,0.9723848,1.0,4.0
+Certhia americana_Brown Creeper,0.993127,2.0,5.0
+Certhia americana_Brown Creeper,0.88245606,3.0,6.0
+Setophaga magnolia_Magnolia Warbler,0.2993553,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.105075,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.5642905,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.7761195,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.34048074,7.0,10.0
+Certhia americana_Brown Creeper,0.98126113,11.0,14.0
+Certhia familiaris_Eurasian Treecreeper,0.13302597,11.0,14.0
+Certhia americana_Brown Creeper,0.994166,12.0,15.0
+Certhia americana_Brown Creeper,0.99781656,13.0,16.0
+Certhia americana_Brown Creeper,0.95672023,14.0,17.0
+Setophaga citrina_Hooded Warbler,0.22253287,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.18011506,15.0,18.0
+Catharus guttatus_Hermit Thrush,0.104392424,19.0,22.0
+Catharus guttatus_Hermit Thrush,0.16292861,20.0,23.0
+Corvus brachyrhynchos_American Crow,0.45029357,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.10067735,21.0,24.0
+Corvus brachyrhynchos_American Crow,0.48253074,22.0,25.0
+Corvus brachyrhynchos_American Crow,0.15705554,23.0,26.0
+Certhia americana_Brown Creeper,0.8317185,25.0,28.0
+Certhia americana_Brown Creeper,0.9718026,26.0,29.0
+Certhia americana_Brown Creeper,0.9848859,27.0,30.0
+Certhia americana_Brown Creeper,0.5212266,28.0,31.0
+Rhipidura albiscapa_Gray Fantail,0.118340716,28.0,31.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1500204,29.0,32.0
+Parkesia motacilla_Louisiana Waterthrush,0.13503619,29.0,32.0
+Corvus brachyrhynchos_American Crow,0.12760593,33.0,36.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.15154411,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.13202997,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.28512034,35.0,38.0
+Corvus brachyrhynchos_American Crow,0.2729253,36.0,39.0
+Certhia americana_Brown Creeper,0.88970834,37.0,40.0
+Ficedula hyperythra_Snowy-browed Flycatcher,0.21194662,37.0,40.0
+Certhia americana_Brown Creeper,0.9403465,38.0,41.0
+Certhia americana_Brown Creeper,0.9768156,39.0,42.0
+Certhia americana_Brown Creeper,0.5759743,40.0,43.0
+Setophaga occidentalis_Hermit Warbler,0.119807355,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.15035301,41.0,44.0
+Catharus guttatus_Hermit Thrush,0.18096314,51.0,54.0
+Tamiasciurus hudsonicus_Red Squirrel,0.17762968,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.13187928,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.12816003,53.0,56.0
+Seiurus aurocapilla_Ovenbird,0.15588567,54.0,57.0
+Seiurus aurocapilla_Ovenbird,0.27099177,55.0,58.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14352793,55.0,58.0
