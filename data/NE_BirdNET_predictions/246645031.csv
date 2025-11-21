@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.24463487,0.0,3.0
+Euphonia hirundinacea_Yellow-throated Euphonia,0.121731736,0.0,3.0
+Poecile carolinensis_Carolina Chickadee,0.8746652,1.0,4.0
+Poecile carolinensis_Carolina Chickadee,0.9477326,2.0,5.0
+Poecile carolinensis_Carolina Chickadee,0.892899,3.0,6.0
+Poecile carolinensis_Carolina Chickadee,0.20426242,4.0,7.0
+Muscicapa striata_Spotted Flycatcher,0.41598892,5.0,8.0
+Ficedula parva_Red-breasted Flycatcher,0.1684166,5.0,8.0
+Muscicapa striata_Spotted Flycatcher,0.5758272,6.0,9.0
+Ficedula parva_Red-breasted Flycatcher,0.27754083,6.0,9.0
+Muscicapa striata_Spotted Flycatcher,0.42474085,8.0,11.0
+Coccothraustes coccothraustes_Hawfinch,0.41064718,8.0,11.0
+Muscicapa striata_Spotted Flycatcher,0.6232277,9.0,12.0
+Coccothraustes coccothraustes_Hawfinch,0.26117736,9.0,12.0
+Ficedula parva_Red-breasted Flycatcher,0.11195243,9.0,12.0
+Muscicapa striata_Spotted Flycatcher,0.12141434,10.0,13.0
+Poecile carolinensis_Carolina Chickadee,0.4512053,15.0,18.0
+Poecile carolinensis_Carolina Chickadee,0.5798611,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.44332224,17.0,20.0
+Poecile carolinensis_Carolina Chickadee,0.14377809,18.0,21.0
+Poecile rufescens_Chestnut-backed Chickadee,0.29711354,19.0,22.0
+Poecile carolinensis_Carolina Chickadee,0.13699464,19.0,22.0
+Protonotaria citrea_Prothonotary Warbler,0.11498391,19.0,22.0
+Poecile carolinensis_Carolina Chickadee,0.5058043,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.20649882,20.0,23.0
+Protonotaria citrea_Prothonotary Warbler,0.24922326,21.0,24.0
+Coccothraustes coccothraustes_Hawfinch,0.20587397,21.0,24.0
+Protonotaria citrea_Prothonotary Warbler,0.19257927,22.0,25.0
+Coccothraustes coccothraustes_Hawfinch,0.18839061,22.0,25.0
+Coccothraustes coccothraustes_Hawfinch,0.5162257,23.0,26.0
+Muscicapa striata_Spotted Flycatcher,0.8383567,24.0,27.0
+Coccothraustes coccothraustes_Hawfinch,0.29659367,24.0,27.0
+Ficedula parva_Red-breasted Flycatcher,0.18037617,24.0,27.0
+Coccothraustes coccothraustes_Hawfinch,0.5958334,25.0,28.0
+Campylopterus hemileucurus_Violet Sabrewing,0.19103812,25.0,28.0
+Coccothraustes coccothraustes_Hawfinch,0.6103539,26.0,29.0
+Coccothraustes coccothraustes_Hawfinch,0.32791838,27.0,30.0
+Poecile carolinensis_Carolina Chickadee,0.63288265,28.0,31.0
+Poecile carolinensis_Carolina Chickadee,0.6662025,29.0,32.0
+Protonotaria citrea_Prothonotary Warbler,0.18802425,29.0,32.0
+Coccothraustes coccothraustes_Hawfinch,0.4588173,30.0,33.0
+Muscicapa striata_Spotted Flycatcher,0.40112552,30.0,33.0
+Aegithalos caudatus_Long-tailed Tit,0.19270922,30.0,33.0
+Aegithalos caudatus_Long-tailed Tit,0.5252018,31.0,34.0
+Muscicapa striata_Spotted Flycatcher,0.5181524,31.0,34.0
+Coccothraustes coccothraustes_Hawfinch,0.16448231,31.0,34.0
+Aegithalos caudatus_Long-tailed Tit,0.3287704,32.0,35.0
+Muscicapa striata_Spotted Flycatcher,0.28105834,32.0,35.0
+Aegithalos caudatus_Long-tailed Tit,0.7663763,33.0,36.0
+Muscicapa striata_Spotted Flycatcher,0.5502679,33.0,36.0
+Coccothraustes coccothraustes_Hawfinch,0.28154406,33.0,36.0
+Aegithalos caudatus_Long-tailed Tit,0.67626977,34.0,37.0
+Muscicapa striata_Spotted Flycatcher,0.111826085,34.0,37.0
+Poecile carolinensis_Carolina Chickadee,0.109121,34.0,37.0
+Coccothraustes coccothraustes_Hawfinch,0.6815885,35.0,38.0
+Muscicapa striata_Spotted Flycatcher,0.43743256,35.0,38.0
+Aegithalos caudatus_Long-tailed Tit,0.2088356,35.0,38.0
+Coccothraustes coccothraustes_Hawfinch,0.68647903,36.0,39.0
+Muscicapa striata_Spotted Flycatcher,0.3960254,36.0,39.0
+Aegithalos caudatus_Long-tailed Tit,0.34111163,36.0,39.0
+Coccothraustes coccothraustes_Hawfinch,0.48294285,37.0,40.0
+Aegithalos caudatus_Long-tailed Tit,0.40078637,37.0,40.0
+Muscicapa striata_Spotted Flycatcher,0.17121705,37.0,40.0
+Coccothraustes coccothraustes_Hawfinch,0.38909444,38.0,41.0
+Aegithalos caudatus_Long-tailed Tit,0.29439363,38.0,41.0
+Poecile carolinensis_Carolina Chickadee,0.4846531,39.0,42.0
+Coccothraustes coccothraustes_Hawfinch,0.27021262,40.0,43.0
+Aegithalos caudatus_Long-tailed Tit,0.204272,40.0,43.0
+Coccothraustes coccothraustes_Hawfinch,0.12013362,41.0,44.0
+Protonotaria citrea_Prothonotary Warbler,0.21589983,42.0,44.95201814058957
+Coccothraustes coccothraustes_Hawfinch,0.15383597,42.0,44.95201814058957

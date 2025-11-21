@@ -1,0 +1,40 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.14062485,0.0,3.0
+Engine_Engine,0.17149201,1.0,4.0
+Selasphorus rufus_Rufous Hummingbird,0.22459413,5.0,8.0
+Archilochus colubris_Ruby-throated Hummingbird,0.13540933,5.0,8.0
+Junco hyemalis_Dark-eyed Junco,0.22377843,6.0,9.0
+Selasphorus rufus_Rufous Hummingbird,0.17038667,6.0,9.0
+Calypte anna_Anna's Hummingbird,0.16995038,6.0,9.0
+Selasphorus rufus_Rufous Hummingbird,0.2839572,7.0,10.0
+Calypte anna_Anna's Hummingbird,0.26541847,7.0,10.0
+Cyanocitta cristata_Blue Jay,0.10904632,8.0,11.0
+Cyanocitta cristata_Blue Jay,0.13179219,9.0,12.0
+Corvus mellori_Little Raven,0.12479637,11.0,14.0
+Corvus tasmanicus_Forest Raven,0.116597034,11.0,14.0
+Corvus tasmanicus_Forest Raven,0.43537292,12.0,15.0
+Corvus corax_Common Raven,0.2701656,13.0,16.0
+Corvus tasmanicus_Forest Raven,0.20164365,13.0,16.0
+Ardea herodias_Great Blue Heron,0.14478984,13.0,16.0
+Garrulus glandarius_Eurasian Jay,0.13835844,14.0,17.0
+Melanerpes formicivorus_Acorn Woodpecker,0.12108405,15.0,18.0
+Garrulus glandarius_Eurasian Jay,0.11513281,15.0,18.0
+Accipiter cooperii_Cooper's Hawk,0.12278727,16.0,19.0
+Cardinalis cardinalis_Northern Cardinal,0.10741137,19.0,22.0
+Colaptes auratus_Northern Flicker,0.100884415,19.0,22.0
+Cardinalis cardinalis_Northern Cardinal,0.30515182,20.0,23.0
+Poecile atricapillus_Black-capped Chickadee,0.12108033,20.0,23.0
+Buteo platypterus_Broad-winged Hawk,0.12486912,22.0,25.0
+Cyanocitta cristata_Blue Jay,0.34212834,23.0,26.0
+Cyanocitta cristata_Blue Jay,0.18025568,24.0,27.0
+Cyanocitta cristata_Blue Jay,0.4178082,25.0,28.0
+Turdus cardis_Japanese Thrush,0.29541808,30.0,33.0
+Turdus mandarinus_Chinese Blackbird,0.13628966,30.0,33.0
+Turdus mandarinus_Chinese Blackbird,0.123526275,32.0,35.0
+Engine_Engine,0.3652616,41.0,44.0
+Engine_Engine,0.25669044,42.0,45.0
+Setophaga dominica_Yellow-throated Warbler,0.14097795,46.0,49.0
+Protonotaria citrea_Prothonotary Warbler,0.10669366,46.0,49.0
+Corvus ossifragus_Fish Crow,0.15785931,48.0,51.0
+Corvus ossifragus_Fish Crow,0.15786372,49.0,52.0
+Corvus ossifragus_Fish Crow,0.12878992,50.0,53.0

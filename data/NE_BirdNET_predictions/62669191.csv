@@ -1,0 +1,154 @@
+species,score,start_time,end_time
+Catharus fuscescens_Veery,0.79691356,1.0,4.0
+Catharus fuscescens_Veery,0.68683517,2.0,5.0
+Catharus fuscescens_Veery,0.823453,3.0,6.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.20841552,4.0,7.0
+Catharus fuscescens_Veery,0.63401777,6.0,9.0
+Vireo olivaceus_Red-eyed Vireo,0.29422078,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.10046272,6.0,9.0
+Catharus fuscescens_Veery,0.6347519,7.0,10.0
+Vireo olivaceus_Red-eyed Vireo,0.114790626,7.0,10.0
+Catharus fuscescens_Veery,0.27281448,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.15658687,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.3995184,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18988207,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.16371816,9.0,12.0
+Catharus fuscescens_Veery,0.13005507,9.0,12.0
+Setophaga virens_Black-throated Green Warbler,0.12612015,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.5881615,10.0,13.0
+Tamias striatus_Eastern Chipmunk,0.31168422,10.0,13.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18010172,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.1446637,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.40551382,11.0,14.0
+Vireo olivaceus_Red-eyed Vireo,0.18883243,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.15887909,11.0,14.0
+Tamias striatus_Eastern Chipmunk,0.15160592,11.0,14.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1152985,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.6902922,12.0,15.0
+Vireo olivaceus_Red-eyed Vireo,0.41909814,12.0,15.0
+Poecile atricapillus_Black-capped Chickadee,0.15271273,12.0,15.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14114155,12.0,15.0
+Setophaga ruticilla_American Redstart,0.120636545,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.10709827,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.4343909,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.20936225,13.0,16.0
+Piranga olivacea_Scarlet Tanager,0.13952696,13.0,16.0
+Vireo olivaceus_Red-eyed Vireo,0.102036946,13.0,16.0
+Catharus fuscescens_Veery,0.72752845,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.12436411,14.0,17.0
+Catharus fuscescens_Veery,0.928376,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.28661612,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.10965448,15.0,18.0
+Catharus fuscescens_Veery,0.8641945,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.59124124,17.0,20.0
+Piranga olivacea_Scarlet Tanager,0.2782923,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.11759309,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.6337777,18.0,21.0
+Piranga olivacea_Scarlet Tanager,0.31001833,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.15708077,18.0,21.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12750494,18.0,21.0
+Catharus fuscescens_Veery,0.9581994,19.0,22.0
+Catharus fuscescens_Veery,0.9310286,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.20658784,20.0,23.0
+Catharus fuscescens_Veery,0.95096284,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.39430475,21.0,24.0
+Seiurus aurocapilla_Ovenbird,0.2086057,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.60362977,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.2250819,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.21007483,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.3186733,23.0,26.0
+Vireo olivaceus_Red-eyed Vireo,0.26766896,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.15926275,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.100946136,23.0,26.0
+Setophaga virens_Black-throated Green Warbler,0.5526478,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.28935832,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13508062,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.12068844,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.53618383,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.46806586,25.0,28.0
+Piranga olivacea_Scarlet Tanager,0.22006729,25.0,28.0
+Vireo olivaceus_Red-eyed Vireo,0.686176,26.0,29.0
+Setophaga virens_Black-throated Green Warbler,0.51563555,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.11378849,26.0,29.0
+Catharus fuscescens_Veery,0.941054,27.0,30.0
+Piranga olivacea_Scarlet Tanager,0.6395128,27.0,30.0
+Vireo olivaceus_Red-eyed Vireo,0.1294961,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.100221574,27.0,30.0
+Catharus fuscescens_Veery,0.9632135,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.2001039,28.0,31.0
+Pipilo erythrophthalmus_Eastern Towhee,0.1545209,28.0,31.0
+Vireo olivaceus_Red-eyed Vireo,0.13778934,28.0,31.0
+Catharus fuscescens_Veery,0.9496226,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.9098811,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.35134047,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.21413009,30.0,33.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19913347,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.16803429,30.0,33.0
+Vireo olivaceus_Red-eyed Vireo,0.6911412,31.0,34.0
+Pipilo erythrophthalmus_Eastern Towhee,0.18258336,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.17007335,31.0,34.0
+Poecile atricapillus_Black-capped Chickadee,0.12907134,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.4848083,32.0,35.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14361979,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.1169354,32.0,35.0
+Poecile atricapillus_Black-capped Chickadee,0.102602944,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.10096858,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.44460133,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.18605651,33.0,36.0
+Poecile atricapillus_Black-capped Chickadee,0.13747476,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.11430713,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.51755077,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.33036748,34.0,37.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2569042,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.16097094,34.0,37.0
+Poecile atricapillus_Black-capped Chickadee,0.11319888,34.0,37.0
+Catharus fuscescens_Veery,0.697998,35.0,38.0
+Piranga olivacea_Scarlet Tanager,0.6270899,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.16056973,35.0,38.0
+Poecile atricapillus_Black-capped Chickadee,0.13855676,35.0,38.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10890925,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.101488195,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.10003648,35.0,38.0
+Catharus fuscescens_Veery,0.89284194,36.0,39.0
+Catharus fuscescens_Veery,0.910237,37.0,40.0
+Catharus guttatus_Hermit Thrush,0.13480844,37.0,40.0
+Pipilo erythrophthalmus_Eastern Towhee,0.11855775,37.0,40.0
+Catharus fuscescens_Veery,0.46851858,38.0,41.0
+Catharus guttatus_Hermit Thrush,0.23143388,38.0,41.0
+Vireo olivaceus_Red-eyed Vireo,0.573836,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.14959094,39.0,42.0
+Piranga olivacea_Scarlet Tanager,0.14772719,39.0,42.0
+Vireo olivaceus_Red-eyed Vireo,0.28918692,40.0,43.0
+Piranga olivacea_Scarlet Tanager,0.25675806,40.0,43.0
+Poecile atricapillus_Black-capped Chickadee,0.18506208,40.0,43.0
+Setophaga virens_Black-throated Green Warbler,0.15666182,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.10405054,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.5786365,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.2097346,41.0,44.0
+Poecile atricapillus_Black-capped Chickadee,0.11556785,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.1077382,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.4616646,42.0,45.0
+Poecile atricapillus_Black-capped Chickadee,0.15999882,42.0,45.0
+Piranga olivacea_Scarlet Tanager,0.14255871,42.0,45.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14210851,42.0,45.0
+Pipilo erythrophthalmus_Eastern Towhee,0.27101758,43.0,46.0
+Vireo olivaceus_Red-eyed Vireo,0.23573603,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.21558197,43.0,46.0
+Poecile atricapillus_Black-capped Chickadee,0.13380398,43.0,46.0
+Catharus fuscescens_Veery,0.9167852,44.0,47.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10784032,44.0,47.0
+Catharus fuscescens_Veery,0.7464437,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.4991314,45.0,48.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10298797,45.0,48.0
+Catharus fuscescens_Veery,0.88571626,46.0,49.0
+Piranga olivacea_Scarlet Tanager,0.26742172,47.0,50.0
+Setophaga virens_Black-throated Green Warbler,0.15569791,47.0,50.0
+Vireo solitarius_Blue-headed Vireo,0.13354903,47.0,50.0
+Vireo olivaceus_Red-eyed Vireo,0.12535232,47.0,50.0
+Poecile atricapillus_Black-capped Chickadee,0.11378532,47.0,50.0
+Setophaga citrina_Hooded Warbler,0.107502244,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12373752,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1435651,55.0,58.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112050526,55.0,58.0
+Catharus fuscescens_Veery,0.76839954,56.0,59.0
+Catharus fuscescens_Veery,0.6727553,57.0,59.4

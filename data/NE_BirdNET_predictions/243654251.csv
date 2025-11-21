@@ -1,0 +1,113 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.13486148,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.37166855,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.1842863,2.0,5.0
+Setophaga citrina_Hooded Warbler,0.8139436,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.16413991,3.0,6.0
+Setophaga citrina_Hooded Warbler,0.9265807,4.0,7.0
+Setophaga citrina_Hooded Warbler,0.32847828,5.0,8.0
+Geothlypis trichas_Common Yellowthroat,0.1540914,5.0,8.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10623938,5.0,8.0
+Cardinalis cardinalis_Northern Cardinal,0.18495044,7.0,10.0
+Cardinalis cardinalis_Northern Cardinal,0.16879807,8.0,11.0
+Setophaga fusca_Blackburnian Warbler,0.11161362,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.10173062,13.0,16.0
+Mniotilta varia_Black-and-white Warbler,0.10093073,13.0,16.0
+Setophaga citrina_Hooded Warbler,0.8346202,15.0,18.0
+Limnothlypis swainsonii_Swainson's Warbler,0.24368352,15.0,18.0
+Setophaga citrina_Hooded Warbler,0.81636244,16.0,19.0
+Limnothlypis swainsonii_Swainson's Warbler,0.2829328,16.0,19.0
+Setophaga citrina_Hooded Warbler,0.8827493,17.0,20.0
+Basileuterus lachrymosus_Fan-tailed Warbler,0.20998815,17.0,20.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13415681,17.0,20.0
+Pachycephala pectoralis_Golden Whistler,0.48517373,18.0,21.0
+Caryothraustes poliogaster_Black-faced Grosbeak,0.18700086,18.0,21.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11382596,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.23946166,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.19696735,25.0,28.0
+Setophaga citrina_Hooded Warbler,0.65613455,26.0,29.0
+Limnothlypis swainsonii_Swainson's Warbler,0.19192445,26.0,29.0
+Setophaga petechia_Yellow Warbler,0.11118222,26.0,29.0
+Setophaga citrina_Hooded Warbler,0.6593489,27.0,30.0
+Limnothlypis swainsonii_Swainson's Warbler,0.30117336,27.0,30.0
+Setophaga petechia_Yellow Warbler,0.11198277,27.0,30.0
+Sporophila torqueola_Cinnamon-rumped Seedeater,0.1121979,28.0,31.0
+Passerina cyanea_Indigo Bunting,0.10330149,28.0,31.0
+Buteo platypterus_Broad-winged Hawk,0.10467739,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.17504784,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.14423756,35.0,38.0
+Setophaga ruticilla_American Redstart,0.12607802,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.13476107,37.0,40.0
+Setophaga citrina_Hooded Warbler,0.83130425,40.0,43.0
+Setophaga magnolia_Magnolia Warbler,0.17067683,40.0,43.0
+Setophaga citrina_Hooded Warbler,0.97269934,41.0,44.0
+Setophaga citrina_Hooded Warbler,0.9690699,42.0,45.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16242094,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.1503173,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.2295975,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.16856508,44.0,47.0
+Setophaga castanea_Bay-breasted Warbler,0.112624064,44.0,47.0
+Seiurus aurocapilla_Ovenbird,0.31746265,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.15061714,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14261422,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.17393857,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17357187,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109568626,46.0,49.0
+Cardinalis cardinalis_Northern Cardinal,0.1909206,48.0,51.0
+Setophaga citrina_Hooded Warbler,0.8481917,49.0,52.0
+Passerina ciris_Painted Bunting,0.11493158,49.0,52.0
+Setophaga citrina_Hooded Warbler,0.9285923,50.0,53.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10165716,50.0,53.0
+Setophaga citrina_Hooded Warbler,0.9003861,51.0,54.0
+Limnothlypis swainsonii_Swainson's Warbler,0.43604067,52.0,55.0
+Setophaga citrina_Hooded Warbler,0.4168433,52.0,55.0
+Setophaga ruticilla_American Redstart,0.21612059,53.0,56.0
+Cardinalis cardinalis_Northern Cardinal,0.13708328,54.0,57.0
+Setophaga ruticilla_American Redstart,0.32565576,55.0,58.0
+Setophaga fusca_Blackburnian Warbler,0.11682397,55.0,58.0
+Setophaga castanea_Bay-breasted Warbler,0.108181275,55.0,58.0
+Cardinalis cardinalis_Northern Cardinal,0.18977046,57.0,60.0
+Cardinalis cardinalis_Northern Cardinal,0.13414896,58.0,61.0
+Vermivora cyanoptera_Blue-winged Warbler,0.11224462,62.0,65.0
+Vermivora cyanoptera_Blue-winged Warbler,0.10650465,64.0,67.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12331833,67.0,70.0
+Setophaga ruticilla_American Redstart,0.122411154,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.1177591,67.0,70.0
+Seiurus aurocapilla_Ovenbird,0.31182772,68.0,71.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13355072,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.3136609,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18398723,69.0,72.0
+Buteo platypterus_Broad-winged Hawk,0.141875,69.0,72.0
+Cardinalis cardinalis_Northern Cardinal,0.122882694,72.0,75.0
+Bombycilla cedrorum_Cedar Waxwing,0.11801006,74.0,77.0
+Bombycilla cedrorum_Cedar Waxwing,0.20162663,75.0,78.0
+Setophaga citrina_Hooded Warbler,0.36282367,76.0,79.0
+Setophaga citrina_Hooded Warbler,0.7640585,77.0,80.0
+Limnothlypis swainsonii_Swainson's Warbler,0.1384289,77.0,80.0
+Passerina cyanea_Indigo Bunting,0.104161985,77.0,80.0
+Setophaga citrina_Hooded Warbler,0.97382945,78.0,81.0
+Setophaga citrina_Hooded Warbler,0.8294569,79.0,82.0
+Limnothlypis swainsonii_Swainson's Warbler,0.36274076,79.0,82.0
+Setophaga citrina_Hooded Warbler,0.2518149,80.0,83.0
+Setophaga magnolia_Magnolia Warbler,0.17159827,80.0,83.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14790341,80.0,83.0
+Limnothlypis swainsonii_Swainson's Warbler,0.13480195,80.0,83.0
+Seiurus aurocapilla_Ovenbird,0.14237358,87.0,90.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.114917755,87.0,90.0
+Setophaga fusca_Blackburnian Warbler,0.11275741,87.0,90.0
+Seiurus aurocapilla_Ovenbird,0.34046146,88.0,91.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14294481,88.0,91.0
+Seiurus aurocapilla_Ovenbird,0.2329661,89.0,92.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.19369008,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.1281597,89.0,92.0
+Seiurus aurocapilla_Ovenbird,0.14704655,90.0,93.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14161028,90.0,93.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1109919,90.0,93.0
+Setophaga citrina_Hooded Warbler,0.25196284,91.0,94.0
+Setophaga magnolia_Magnolia Warbler,0.18958655,91.0,94.0
+Setophaga citrina_Hooded Warbler,0.4013778,92.0,95.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12643947,92.0,95.0
+Setophaga citrina_Hooded Warbler,0.38242102,93.0,96.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12579398,93.0,96.0
+Setophaga citrina_Hooded Warbler,0.21906865,94.0,97.0
+Setophaga magnolia_Magnolia Warbler,0.1815156,94.0,97.0

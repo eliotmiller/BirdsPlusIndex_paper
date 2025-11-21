@@ -1,0 +1,73 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.9728611,0.0,3.0
+Setophaga coronata_Yellow-rumped Warbler,0.97736585,1.0,4.0
+Setophaga coronata_Yellow-rumped Warbler,0.97275823,2.0,5.0
+Setophaga coronata_Yellow-rumped Warbler,0.2417929,3.0,6.0
+Leiothlypis virginiae_Virginia's Warbler,0.1037064,3.0,6.0
+Setophaga coronata_Yellow-rumped Warbler,0.78765136,10.0,13.0
+Setophaga graciae_Grace's Warbler,0.49364144,10.0,13.0
+Setophaga coronata_Yellow-rumped Warbler,0.987998,11.0,14.0
+Setophaga coronata_Yellow-rumped Warbler,0.9974796,12.0,15.0
+Setophaga coronata_Yellow-rumped Warbler,0.99252254,13.0,16.0
+Vireo solitarius_Blue-headed Vireo,0.3807785,15.0,18.0
+Vireo solitarius_Blue-headed Vireo,0.34663585,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.15148796,17.0,20.0
+Vireo solitarius_Blue-headed Vireo,0.104926296,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.2755509,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.2109356,19.0,22.0
+Setophaga coronata_Yellow-rumped Warbler,0.71746343,23.0,26.0
+Setophaga graciae_Grace's Warbler,0.35680857,23.0,26.0
+Setophaga coronata_Yellow-rumped Warbler,0.98563206,24.0,27.0
+Setophaga coronata_Yellow-rumped Warbler,0.9952236,25.0,28.0
+Setophaga coronata_Yellow-rumped Warbler,0.9880163,26.0,29.0
+Setophaga fusca_Blackburnian Warbler,0.121775985,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11649172,30.0,33.0
+Seiurus aurocapilla_Ovenbird,0.22493261,31.0,34.0
+Setophaga fusca_Blackburnian Warbler,0.105241746,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.11784632,32.0,35.0
+Setophaga graciae_Grace's Warbler,0.13501933,35.0,38.0
+Cardellina rubrifrons_Red-faced Warbler,0.12502983,35.0,38.0
+Cardellina rubrifrons_Red-faced Warbler,0.1175164,39.0,42.0
+Setophaga graciae_Grace's Warbler,0.3185598,40.0,43.0
+Setophaga coronata_Yellow-rumped Warbler,0.27594727,40.0,43.0
+Emberiza citrinella_Yellowhammer,0.14383891,40.0,43.0
+Setophaga coronata_Yellow-rumped Warbler,0.9657616,41.0,44.0
+Setophaga coronata_Yellow-rumped Warbler,0.9306619,42.0,45.0
+Setophaga coronata_Yellow-rumped Warbler,0.96715385,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18226886,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.20258498,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.28577906,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.34483644,48.0,51.0
+Setophaga coronata_Yellow-rumped Warbler,0.6042357,52.0,55.0
+Setophaga coronata_Yellow-rumped Warbler,0.87734604,53.0,56.0
+Setophaga coronata_Yellow-rumped Warbler,0.9796419,54.0,57.0
+Setophaga coronata_Yellow-rumped Warbler,0.8588653,55.0,58.0
+Seiurus aurocapilla_Ovenbird,0.21604379,59.0,62.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12505373,59.0,62.0
+Setophaga fusca_Blackburnian Warbler,0.11345267,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.106130004,59.0,62.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108636454,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.10006383,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10520807,61.0,64.0
+Setophaga coronata_Yellow-rumped Warbler,0.7910415,62.0,65.0
+Setophaga cerulea_Cerulean Warbler,0.12489459,62.0,65.0
+Setophaga coronata_Yellow-rumped Warbler,0.96140116,63.0,66.0
+Setophaga coronata_Yellow-rumped Warbler,0.95597553,64.0,67.0
+Setophaga coronata_Yellow-rumped Warbler,0.95279884,65.0,68.0
+Helmitheros vermivorum_Worm-eating Warbler,0.21352401,66.0,69.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12586692,67.0,70.0
+Setophaga coronata_Yellow-rumped Warbler,0.5478805,71.0,74.0
+Setophaga graciae_Grace's Warbler,0.23120351,71.0,74.0
+Setophaga coronata_Yellow-rumped Warbler,0.8049872,72.0,75.0
+Setophaga coronata_Yellow-rumped Warbler,0.9677151,73.0,76.0
+Setophaga coronata_Yellow-rumped Warbler,0.883596,74.0,77.0
+Setophaga pinus_Pine Warbler,0.1007593,75.0,78.0
+Seiurus aurocapilla_Ovenbird,0.19685644,76.0,79.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10874491,76.0,79.0
+Setophaga fusca_Blackburnian Warbler,0.10446501,76.0,79.0
+Setophaga virens_Black-throated Green Warbler,0.22407095,79.0,82.0
+Setophaga coronata_Yellow-rumped Warbler,0.44751835,81.0,84.0
+Setophaga graciae_Grace's Warbler,0.10669291,81.0,84.0
+Setophaga coronata_Yellow-rumped Warbler,0.9275243,82.0,85.0
+Setophaga coronata_Yellow-rumped Warbler,0.9720222,83.0,86.0
+Setophaga coronata_Yellow-rumped Warbler,0.97914165,84.0,86.52

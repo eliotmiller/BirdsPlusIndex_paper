@@ -1,0 +1,71 @@
+species,score,start_time,end_time
+Haemorhous mexicanus_House Finch,0.12341479,1.0,4.0
+Quiscalus major_Boat-tailed Grackle,0.32976568,5.0,8.0
+Passer domesticus_House Sparrow,0.27019247,6.0,9.0
+Progne subis_Purple Martin,0.46415168,8.0,11.0
+Quiscalus major_Boat-tailed Grackle,0.143092,9.0,12.0
+Quiscalus major_Boat-tailed Grackle,0.38250265,10.0,13.0
+Mimus saturninus_Chalk-browed Mockingbird,0.12532489,14.0,17.0
+Mimus polyglottos_Northern Mockingbird,0.44451982,19.0,22.0
+Toxostoma rufum_Brown Thrasher,0.18340936,19.0,22.0
+Sturnella magna_Eastern Meadowlark,0.10077895,19.0,22.0
+Sturnella magna_Eastern Meadowlark,0.24024253,20.0,23.0
+Mimus polyglottos_Northern Mockingbird,0.14054735,20.0,23.0
+Sturnella magna_Eastern Meadowlark,0.55586827,21.0,24.0
+Mimus polyglottos_Northern Mockingbird,0.4495366,22.0,25.0
+Mimus gilvus_Tropical Mockingbird,0.15221694,24.0,27.0
+Mimus polyglottos_Northern Mockingbird,0.15036288,24.0,27.0
+Porphyrio porphyrio_Western Swamphen,0.1263918,28.0,31.0
+Engine_Engine,0.14741543,29.0,32.0
+Mimus saturninus_Chalk-browed Mockingbird,0.39936948,31.0,34.0
+Mimus triurus_White-banded Mockingbird,0.116307944,31.0,34.0
+Mimus saturninus_Chalk-browed Mockingbird,0.49924096,32.0,35.0
+Poecile lugubris_Sombre Tit,0.366334,32.0,35.0
+Salpinctes obsoletus_Rock Wren,0.14783725,32.0,35.0
+Mimus saturninus_Chalk-browed Mockingbird,0.28627962,33.0,36.0
+Toxostoma rufum_Brown Thrasher,0.10623511,33.0,36.0
+Mimus polyglottos_Northern Mockingbird,0.124176085,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.10305728,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.3356938,36.0,39.0
+Mimus polyglottos_Northern Mockingbird,0.386426,37.0,40.0
+Acrocephalus australis_Australian Reed Warbler,0.22989668,37.0,40.0
+Mimus polyglottos_Northern Mockingbird,0.6838858,38.0,41.0
+Acrocephalus australis_Australian Reed Warbler,0.108562455,38.0,41.0
+Mimus polyglottos_Northern Mockingbird,0.54884076,39.0,42.0
+Haemorhous mexicanus_House Finch,0.30464867,39.0,42.0
+Progne subis_Purple Martin,0.24277931,39.0,42.0
+Progne subis_Purple Martin,0.70900726,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.4338348,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.60557854,41.0,44.0
+Progne subis_Purple Martin,0.4565038,41.0,44.0
+Acridotheres cristatellus_Crested Myna,0.33704835,42.0,45.0
+Acridotheres tristis_Common Myna,0.27764896,42.0,45.0
+Progne subis_Purple Martin,0.26535943,42.0,45.0
+Piranga ludoviciana_Western Tanager,0.25403956,43.0,46.0
+Contopus pertinax_Greater Pewee,0.12722665,46.0,49.0
+Acridotheres tristis_Common Myna,0.10756331,47.0,50.0
+Haliaeetus leucocephalus_Bald Eagle,0.71411437,48.0,51.0
+Pernis ptilorhynchus_Oriental Honey-buzzard,0.20034346,48.0,51.0
+Pandion haliaetus_Osprey,0.1369683,48.0,51.0
+Podiceps major_Great Grebe,0.13491839,48.0,51.0
+Pernis apivorus_European Honey-buzzard,0.102897175,48.0,51.0
+Haliaeetus leucocephalus_Bald Eagle,0.43236837,49.0,52.0
+Pernis ptilorhynchus_Oriental Honey-buzzard,0.308573,49.0,52.0
+Haliaeetus leucocephalus_Bald Eagle,0.19659361,50.0,53.0
+Pernis ptilorhynchus_Oriental Honey-buzzard,0.1369655,50.0,53.0
+Haemorhous mexicanus_House Finch,0.38613996,52.0,55.0
+Passer melanurus_Cape Sparrow,0.118805215,52.0,55.0
+Haemorhous mexicanus_House Finch,0.31434596,53.0,56.0
+Thryothorus ludovicianus_Carolina Wren,0.95716006,54.0,57.0
+Thryothorus ludovicianus_Carolina Wren,0.77608204,55.0,58.0
+Thryothorus ludovicianus_Carolina Wren,0.8961093,56.0,59.0
+Thryothorus ludovicianus_Carolina Wren,0.7179249,57.0,60.0
+Laterallus melanophaius_Rufous-sided Crake,0.16226713,57.0,60.0
+Thryothorus ludovicianus_Carolina Wren,0.39963344,58.0,61.0
+Laterallus melanophaius_Rufous-sided Crake,0.25097084,58.0,61.0
+Thryothorus ludovicianus_Carolina Wren,0.8600958,59.0,62.0
+Laterallus melanophaius_Rufous-sided Crake,0.31100434,59.0,62.0
+Thryothorus ludovicianus_Carolina Wren,0.23431845,60.0,63.0
+Laterallus melanophaius_Rufous-sided Crake,0.21058398,60.0,63.0
+Engine_Engine,0.134355,62.0,65.0
+Engine_Engine,0.101683594,63.0,66.0

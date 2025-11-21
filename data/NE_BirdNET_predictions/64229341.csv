@@ -1,0 +1,83 @@
+species,score,start_time,end_time
+Pandion haliaetus_Osprey,0.99549156,0.0,3.0
+Pandion haliaetus_Osprey,0.9997471,1.0,4.0
+Pandion haliaetus_Osprey,0.9999244,2.0,5.0
+Pandion haliaetus_Osprey,0.999859,3.0,6.0
+Pandion haliaetus_Osprey,0.9992436,4.0,7.0
+Pandion haliaetus_Osprey,0.99010056,5.0,8.0
+Icterus spurius_Orchard Oriole,0.3829356,7.0,10.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18621793,7.0,10.0
+Icterus spurius_Orchard Oriole,0.823559,8.0,11.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16686504,8.0,11.0
+Amblyramphus holosericeus_Scarlet-headed Blackbird,0.14059383,8.0,11.0
+Icterus spurius_Orchard Oriole,0.5798125,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.40119934,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.16310002,10.0,13.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17408203,11.0,14.0
+Icterus spurius_Orchard Oriole,0.1693486,11.0,14.0
+Spiza americana_Dickcissel,0.105723925,11.0,14.0
+Icterus spurius_Orchard Oriole,0.33142826,12.0,15.0
+Agelaius phoeniceus_Red-winged Blackbird,0.22078836,12.0,15.0
+Sialia sialis_Eastern Bluebird,0.15497969,12.0,15.0
+Pandion haliaetus_Osprey,0.99803203,13.0,16.0
+Pandion haliaetus_Osprey,0.99992573,14.0,17.0
+Pandion haliaetus_Osprey,0.9999349,15.0,18.0
+Pandion haliaetus_Osprey,0.9991177,16.0,19.0
+Pandion haliaetus_Osprey,0.9987556,17.0,20.0
+Pandion haliaetus_Osprey,0.9980063,18.0,21.0
+Cistothorus stellaris_Sedge Wren,0.11015515,20.0,23.0
+Cistothorus palustris_Marsh Wren,0.10880034,21.0,24.0
+Cistothorus stellaris_Sedge Wren,0.36379066,22.0,25.0
+Cistothorus platensis_Grass Wren,0.20714003,22.0,25.0
+Colinus virginianus_Northern Bobwhite,0.104488164,23.0,26.0
+Colinus virginianus_Northern Bobwhite,0.13506608,25.0,28.0
+Hirundo rustica_Barn Swallow,0.13515857,26.0,29.0
+Agelaius phoeniceus_Red-winged Blackbird,0.18629658,29.0,32.0
+Agelaius phoeniceus_Red-winged Blackbird,0.38382915,30.0,33.0
+Agelaius phoeniceus_Red-winged Blackbird,0.49309435,31.0,34.0
+Icterus spurius_Orchard Oriole,0.1572896,31.0,34.0
+Icterus spurius_Orchard Oriole,0.27184975,32.0,35.0
+Icteria virens_Yellow-breasted Chat,0.19684257,32.0,35.0
+Passerina ciris_Painted Bunting,0.12622912,33.0,36.0
+Pandion haliaetus_Osprey,0.95904124,34.0,37.0
+Pandion haliaetus_Osprey,0.9947713,35.0,38.0
+Pandion haliaetus_Osprey,0.99808913,36.0,39.0
+Pandion haliaetus_Osprey,0.99907875,37.0,40.0
+Pandion haliaetus_Osprey,0.9964748,38.0,41.0
+Pandion haliaetus_Osprey,0.938054,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.11494803,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.38392743,40.0,43.0
+Mimus polyglottos_Northern Mockingbird,0.411187,41.0,44.0
+Piranga flava_Hepatic Tanager,0.3078695,41.0,44.0
+Mimus gilvus_Tropical Mockingbird,0.12413832,41.0,44.0
+Megaceryle alcyon_Belted Kingfisher,0.3231407,42.0,45.0
+Engine_Engine,0.11016812,42.0,45.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.106903315,42.0,45.0
+Agelaius phoeniceus_Red-winged Blackbird,0.53317934,44.0,47.0
+Ammospiza maritima_Seaside Sparrow,0.114504114,44.0,47.0
+Agelaius phoeniceus_Red-winged Blackbird,0.66808087,45.0,48.0
+Agelaius phoeniceus_Red-winged Blackbird,0.75074834,46.0,49.0
+Agelaius phoeniceus_Red-winged Blackbird,0.66091067,47.0,50.0
+Sialia sialis_Eastern Bluebird,0.5857726,48.0,51.0
+Icterus spurius_Orchard Oriole,0.4091977,48.0,51.0
+Sialia sialis_Eastern Bluebird,0.31653687,49.0,52.0
+Pandion haliaetus_Osprey,0.99057066,50.0,53.0
+Pandion haliaetus_Osprey,0.9997149,51.0,54.0
+Pandion haliaetus_Osprey,0.9993931,52.0,55.0
+Pandion haliaetus_Osprey,0.9993723,53.0,56.0
+Pandion haliaetus_Osprey,0.9984615,54.0,57.0
+Pandion haliaetus_Osprey,0.99700016,55.0,58.0
+Icterus spurius_Orchard Oriole,0.16715984,56.0,59.0
+Icterus spurius_Orchard Oriole,0.1343516,57.0,60.0
+Colinus virginianus_Northern Bobwhite,0.13958755,59.0,62.0
+Passerina caerulea_Blue Grosbeak,0.119196646,59.0,62.0
+Sialia sialis_Eastern Bluebird,0.12747656,60.0,63.0
+Pandion haliaetus_Osprey,0.8268643,61.0,64.0
+Haliaeetus leucocephalus_Bald Eagle,0.22465965,61.0,64.0
+Pandion haliaetus_Osprey,0.9991979,62.0,65.0
+Pandion haliaetus_Osprey,0.9992162,63.0,66.0
+Agelaius phoeniceus_Red-winged Blackbird,0.17558318,63.0,66.0
+Pandion haliaetus_Osprey,0.9981509,64.0,67.0
+Pandion haliaetus_Osprey,0.9970168,65.0,68.0
+Pandion haliaetus_Osprey,0.99229276,66.0,69.0
+Pandion haliaetus_Osprey,0.9631969,67.0,69.86403628117914

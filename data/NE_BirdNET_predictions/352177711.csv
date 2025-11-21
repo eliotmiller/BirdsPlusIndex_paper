@@ -1,0 +1,100 @@
+species,score,start_time,end_time
+Contopus virens_Eastern Wood-Pewee,0.94357294,0.0,3.0
+Contopus virens_Eastern Wood-Pewee,0.92152876,1.0,4.0
+Sitta carolinensis_White-breasted Nuthatch,0.16393876,2.0,5.0
+Sitta carolinensis_White-breasted Nuthatch,0.17680512,5.0,8.0
+Sitta carolinensis_White-breasted Nuthatch,0.20247282,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.1484687,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.30027324,8.0,11.0
+Contopus virens_Eastern Wood-Pewee,0.9439109,10.0,13.0
+Contopus virens_Eastern Wood-Pewee,0.97778875,11.0,14.0
+Contopus virens_Eastern Wood-Pewee,0.9728325,12.0,15.0
+Buteo platypterus_Broad-winged Hawk,0.47900283,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.15279248,13.0,16.0
+Sitta carolinensis_White-breasted Nuthatch,0.74616,14.0,17.0
+Sitta carolinensis_White-breasted Nuthatch,0.13284314,15.0,18.0
+Contopus virens_Eastern Wood-Pewee,0.10025047,16.0,19.0
+Contopus virens_Eastern Wood-Pewee,0.9778811,19.0,22.0
+Contopus virens_Eastern Wood-Pewee,0.9521202,20.0,23.0
+Contopus virens_Eastern Wood-Pewee,0.9441051,21.0,24.0
+Contopus virens_Eastern Wood-Pewee,0.8317417,22.0,25.0
+Sitta carolinensis_White-breasted Nuthatch,0.18214549,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.11583491,27.0,30.0
+Empidonax virescens_Acadian Flycatcher,0.12285672,29.0,32.0
+Contopus virens_Eastern Wood-Pewee,0.89000934,30.0,33.0
+Contopus virens_Eastern Wood-Pewee,0.9159812,31.0,34.0
+Contopus virens_Eastern Wood-Pewee,0.90340316,32.0,35.0
+Buteo platypterus_Broad-winged Hawk,0.73844296,33.0,36.0
+Contopus virens_Eastern Wood-Pewee,0.10241253,33.0,36.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12471992,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11791989,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.104436144,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18464018,37.0,40.0
+Setophaga fusca_Blackburnian Warbler,0.11405769,37.0,40.0
+Seiurus aurocapilla_Ovenbird,0.2440052,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13378268,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.38611972,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11181756,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.32949767,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.40972087,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.30274197,42.0,45.0
+Vireo olivaceus_Red-eyed Vireo,0.111339375,42.0,45.0
+Contopus virens_Eastern Wood-Pewee,0.85215425,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1480858,43.0,46.0
+Setophaga citrina_Hooded Warbler,0.106102094,43.0,46.0
+Contopus virens_Eastern Wood-Pewee,0.84659994,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.1909072,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11143148,44.0,47.0
+Contopus virens_Eastern Wood-Pewee,0.8885821,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.11425737,45.0,48.0
+Contopus virens_Eastern Wood-Pewee,0.9050717,46.0,49.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13156676,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1020999,48.0,51.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13872312,51.0,54.0
+Contopus virens_Eastern Wood-Pewee,0.102568634,51.0,54.0
+Contopus virens_Eastern Wood-Pewee,0.95242316,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11847342,53.0,56.0
+Contopus virens_Eastern Wood-Pewee,0.9592999,54.0,57.0
+Contopus virens_Eastern Wood-Pewee,0.9445444,55.0,58.0
+Contopus virens_Eastern Wood-Pewee,0.8439334,56.0,59.0
+Ictinia mississippiensis_Mississippi Kite,0.15549925,56.0,59.0
+Sitta carolinensis_White-breasted Nuthatch,0.19324157,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.11160409,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.10302857,58.0,61.0
+Contopus virens_Eastern Wood-Pewee,0.15186563,60.0,63.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14845148,60.0,63.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13296716,60.0,63.0
+Setophaga fusca_Blackburnian Warbler,0.13123271,60.0,63.0
+Sitta carolinensis_White-breasted Nuthatch,0.26970318,63.0,66.0
+Certhia americana_Brown Creeper,0.10265432,63.0,66.0
+Empidonax virescens_Acadian Flycatcher,0.13856362,64.0,67.0
+Sitta carolinensis_White-breasted Nuthatch,0.17706977,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.13544807,65.0,68.0
+Certhia americana_Brown Creeper,0.16290934,66.0,69.0
+Seiurus aurocapilla_Ovenbird,0.39011726,69.0,72.0
+Setophaga fusca_Blackburnian Warbler,0.16079564,69.0,72.0
+Helmitheros vermivorum_Worm-eating Warbler,0.15092365,69.0,72.0
+Setophaga fusca_Blackburnian Warbler,0.18698263,70.0,73.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10166866,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.31353346,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.17472655,72.0,75.0
+Contopus virens_Eastern Wood-Pewee,0.60000116,73.0,76.0
+Contopus virens_Eastern Wood-Pewee,0.75670785,74.0,77.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14771204,74.0,77.0
+Piranga olivacea_Scarlet Tanager,0.11752351,74.0,77.0
+Setophaga citrina_Hooded Warbler,0.10797714,74.0,77.0
+Contopus virens_Eastern Wood-Pewee,0.6684533,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11209001,75.0,78.0
+Contopus virens_Eastern Wood-Pewee,0.2099206,76.0,79.0
+Buteo platypterus_Broad-winged Hawk,0.16624004,76.0,79.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12977938,77.0,80.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12442376,78.0,81.0
+Setophaga citrina_Hooded Warbler,0.11043499,78.0,81.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.101802506,78.0,81.0
+Contopus virens_Eastern Wood-Pewee,0.24117939,80.0,83.0
+Setophaga fusca_Blackburnian Warbler,0.106116064,80.0,83.0
+Contopus virens_Eastern Wood-Pewee,0.5713622,81.0,84.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1184554,81.0,84.0
+Setophaga fusca_Blackburnian Warbler,0.10709125,81.0,84.0
+Setophaga citrina_Hooded Warbler,0.10679289,81.0,84.0
+Contopus virens_Eastern Wood-Pewee,0.28204983,82.0,85.0

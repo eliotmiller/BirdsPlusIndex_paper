@@ -1,0 +1,65 @@
+species,score,start_time,end_time
+Poecile carolinensis_Carolina Chickadee,0.76527494,3.0,6.0
+Poecile carolinensis_Carolina Chickadee,0.6000331,4.0,7.0
+Poecile carolinensis_Carolina Chickadee,0.65370196,5.0,8.0
+Poecile carolinensis_Carolina Chickadee,0.59156764,11.0,14.0
+Poecile carolinensis_Carolina Chickadee,0.6870824,12.0,15.0
+Poecile carolinensis_Carolina Chickadee,0.8073777,13.0,16.0
+Poecile carolinensis_Carolina Chickadee,0.8097977,16.0,19.0
+Poecile carolinensis_Carolina Chickadee,0.8037441,17.0,20.0
+Poecile carolinensis_Carolina Chickadee,0.54941463,18.0,21.0
+Periparus elegans_Elegant Tit,0.11275159,18.0,21.0
+Poecile carolinensis_Carolina Chickadee,0.53297526,20.0,23.0
+Poecile carolinensis_Carolina Chickadee,0.7231003,21.0,24.0
+Poecile carolinensis_Carolina Chickadee,0.8648621,22.0,25.0
+Poecile carolinensis_Carolina Chickadee,0.752215,23.0,26.0
+Poecile carolinensis_Carolina Chickadee,0.7039099,24.0,27.0
+Poecile carolinensis_Carolina Chickadee,0.11997725,25.0,28.0
+Poecile carolinensis_Carolina Chickadee,0.41612607,26.0,29.0
+Poecile carolinensis_Carolina Chickadee,0.6381432,27.0,30.0
+Poecile carolinensis_Carolina Chickadee,0.7883183,28.0,31.0
+Poecile atricapillus_Black-capped Chickadee,0.14102243,28.0,31.0
+Poecile atricapillus_Black-capped Chickadee,0.25867128,29.0,32.0
+Poecile carolinensis_Carolina Chickadee,0.23383304,29.0,32.0
+Copsychus albiventris_Andaman Shama,0.2749709,30.0,33.0
+Copsychus albiventris_Andaman Shama,0.17125893,31.0,34.0
+Chordeiles minor_Common Nighthawk,0.12063952,32.0,35.0
+Poecile carolinensis_Carolina Chickadee,0.57005596,33.0,36.0
+Poecile carolinensis_Carolina Chickadee,0.58905494,34.0,37.0
+Poecile carolinensis_Carolina Chickadee,0.6511668,35.0,38.0
+Poecile carolinensis_Carolina Chickadee,0.2231829,37.0,40.0
+Poecile carolinensis_Carolina Chickadee,0.50489867,38.0,41.0
+Poecile carolinensis_Carolina Chickadee,0.3796289,39.0,42.0
+Progne chalybea_Gray-breasted Martin,0.11156282,40.0,43.0
+Psilorhinus morio_Brown Jay,0.25007674,54.0,57.0
+Fringilla coelebs_Common Chaffinch,0.24171823,63.0,66.0
+Euphonia hirundinacea_Yellow-throated Euphonia,0.20516674,64.0,67.0
+Oriolus oriolus_Eurasian Golden Oriole,0.10100474,67.0,70.0
+Oriolus oriolus_Eurasian Golden Oriole,0.12533481,68.0,71.0
+Thamnophilus ruficapillus_Rufous-capped Antshrike,0.12026675,68.0,71.0
+Corvus florensis_Flores Crow,0.15102687,70.0,73.0
+Corvus florensis_Flores Crow,0.15151066,71.0,74.0
+Piranga roseogularis_Rose-throated Tanager,0.102126524,74.0,77.0
+Corvus florensis_Flores Crow,0.14310618,78.0,81.0
+Elaenia flavogaster_Yellow-bellied Elaenia,0.15650862,79.0,82.0
+Poecile carolinensis_Carolina Chickadee,0.14382261,81.0,84.0
+Poecile carolinensis_Carolina Chickadee,0.25935888,82.0,85.0
+Carpodacus dubius_Chinese White-browed Rosefinch,0.11000195,82.0,85.0
+Poecile carolinensis_Carolina Chickadee,0.25527966,83.0,86.0
+Ocyceros gingalensis_Sri Lanka Gray Hornbill,0.47288972,88.0,91.0
+Bycanistes bucinator_Trumpeter Hornbill,0.16025199,88.0,91.0
+Corvus florensis_Flores Crow,0.17842014,89.0,92.0
+Phapitreron leucotis_White-eared Brown-Dove,0.11371363,93.0,96.0
+Copsychus albiventris_Andaman Shama,0.10466371,97.0,100.0
+Corvus corone_Carrion Crow,0.16522774,98.0,101.0
+Corvus florensis_Flores Crow,0.10185795,103.0,106.0
+Corvus florensis_Flores Crow,0.1931997,105.0,108.0
+Bycanistes bucinator_Trumpeter Hornbill,0.106265865,106.0,109.0
+Corvus florensis_Flores Crow,0.17307965,107.0,110.0
+Geothlypis semiflava_Olive-crowned Yellowthroat,0.104634896,108.0,111.0
+Corvus florensis_Flores Crow,0.17522149,111.0,114.0
+Corvus florensis_Flores Crow,0.23102413,112.0,115.0
+Hypsipetes philippinus_Philippine Bulbul,0.16379024,112.0,115.0
+Hypsipetes philippinus_Philippine Bulbul,0.15002963,114.0,117.0
+Phapitreron leucotis_White-eared Brown-Dove,0.10048575,116.0,119.0
+Pithecophaga jefferyi_Philippine Eagle,0.124802664,117.0,120.0
