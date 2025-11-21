@@ -1,0 +1,91 @@
+species,score,start_time,end_time
+Leiothlypis ruficapilla_Nashville Warbler,0.6337142,0.0,3.0
+Setophaga magnolia_Magnolia Warbler,0.9344228,1.0,4.0
+Setophaga magnolia_Magnolia Warbler,0.86082256,2.0,5.0
+Setophaga magnolia_Magnolia Warbler,0.96756685,3.0,6.0
+Myadestes unicolor_Slate-colored Solitaire,0.13095182,4.0,7.0
+Setophaga magnolia_Magnolia Warbler,0.93868685,7.0,10.0
+Setophaga magnolia_Magnolia Warbler,0.9740122,8.0,11.0
+Setophaga magnolia_Magnolia Warbler,0.9293421,9.0,12.0
+Setophaga citrina_Hooded Warbler,0.12111138,10.0,13.0
+Setophaga dominica_Yellow-throated Warbler,0.10151949,10.0,13.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.40095857,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.29390147,12.0,15.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1272863,12.0,15.0
+Seiurus aurocapilla_Ovenbird,0.18795407,13.0,16.0
+Setophaga magnolia_Magnolia Warbler,0.6185108,14.0,17.0
+Setophaga magnolia_Magnolia Warbler,0.58394134,15.0,18.0
+Setophaga magnolia_Magnolia Warbler,0.5081839,16.0,19.0
+Setophaga magnolia_Magnolia Warbler,0.82482964,20.0,23.0
+Setophaga magnolia_Magnolia Warbler,0.98167557,21.0,24.0
+Setophaga magnolia_Magnolia Warbler,0.98483294,22.0,25.0
+Setophaga magnolia_Magnolia Warbler,0.8797286,23.0,26.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.18011566,26.0,29.0
+Setophaga magnolia_Magnolia Warbler,0.7663129,27.0,30.0
+Setophaga magnolia_Magnolia Warbler,0.94935995,28.0,31.0
+Setophaga magnolia_Magnolia Warbler,0.95831746,29.0,32.0
+Setophaga magnolia_Magnolia Warbler,0.8311725,30.0,33.0
+Cardellina canadensis_Canada Warbler,0.32958543,30.0,33.0
+Helmitheros vermivorum_Worm-eating Warbler,0.2771468,31.0,34.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11142803,32.0,35.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11130116,32.0,35.0
+Empidonax virescens_Acadian Flycatcher,0.10779461,32.0,35.0
+Setophaga citrina_Hooded Warbler,0.10739964,32.0,35.0
+Cyanocitta cristata_Blue Jay,0.18807271,33.0,36.0
+Cyanocitta cristata_Blue Jay,0.20343192,34.0,37.0
+Accipiter gentilis_Northern Goshawk,0.1759844,34.0,37.0
+Setophaga magnolia_Magnolia Warbler,0.95830804,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.9619791,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.87769455,37.0,40.0
+Setophaga magnolia_Magnolia Warbler,0.52400666,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.32728502,39.0,42.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11718272,40.0,43.0
+Leiothlypis ruficapilla_Nashville Warbler,0.21375081,41.0,44.0
+Accipiter gentilis_Northern Goshawk,0.14820106,41.0,44.0
+Leiothlypis ruficapilla_Nashville Warbler,0.19754952,42.0,45.0
+Leiothlypis ruficapilla_Nashville Warbler,0.2698426,43.0,46.0
+Setophaga magnolia_Magnolia Warbler,0.96912336,44.0,47.0
+Setophaga magnolia_Magnolia Warbler,0.98936594,45.0,48.0
+Setophaga magnolia_Magnolia Warbler,0.98250824,46.0,49.0
+Setophaga magnolia_Magnolia Warbler,0.9890376,51.0,54.0
+Setophaga magnolia_Magnolia Warbler,0.98381996,52.0,55.0
+Setophaga magnolia_Magnolia Warbler,0.9601086,53.0,56.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12700564,56.0,59.0
+Seiurus aurocapilla_Ovenbird,0.10897481,56.0,59.0
+Setophaga magnolia_Magnolia Warbler,0.3996452,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.225654,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.18439336,57.0,60.0
+Setophaga magnolia_Magnolia Warbler,0.82520247,58.0,61.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19030291,58.0,61.0
+Sitta canadensis_Red-breasted Nuthatch,0.18322912,58.0,61.0
+Setophaga magnolia_Magnolia Warbler,0.8704603,59.0,62.0
+Sitta canadensis_Red-breasted Nuthatch,0.18543394,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.10607774,59.0,62.0
+Setophaga magnolia_Magnolia Warbler,0.7659004,60.0,63.0
+Cardellina canadensis_Canada Warbler,0.10073707,60.0,63.0
+Seiurus aurocapilla_Ovenbird,0.2579238,61.0,64.0
+Parkesia motacilla_Louisiana Waterthrush,0.121189624,61.0,64.0
+Certhia americana_Brown Creeper,0.24323475,62.0,65.0
+Sitta canadensis_Red-breasted Nuthatch,0.5368107,64.0,67.0
+Sitta canadensis_Red-breasted Nuthatch,0.21657708,65.0,68.0
+Setophaga magnolia_Magnolia Warbler,0.15938906,65.0,68.0
+Setophaga magnolia_Magnolia Warbler,0.99198216,66.0,69.0
+Setophaga magnolia_Magnolia Warbler,0.98956966,67.0,70.0
+Setophaga magnolia_Magnolia Warbler,0.9554143,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.12551723,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.10235528,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.1524624,71.0,74.0
+Setophaga virens_Black-throated Green Warbler,0.12654933,71.0,74.0
+Setophaga fusca_Blackburnian Warbler,0.10277382,72.0,75.0
+Catharus fuscescens_Veery,0.100422,72.0,75.0
+Setophaga magnolia_Magnolia Warbler,0.96575946,73.0,76.0
+Setophaga magnolia_Magnolia Warbler,0.97196215,74.0,77.0
+Setophaga magnolia_Magnolia Warbler,0.9756034,75.0,78.0
+Setophaga magnolia_Magnolia Warbler,0.2415821,76.0,79.0
+Setophaga dominica_Yellow-throated Warbler,0.10332909,76.0,79.0
+Seiurus aurocapilla_Ovenbird,0.121660665,78.0,81.0
+Seiurus aurocapilla_Ovenbird,0.21270007,79.0,82.0
+Setophaga magnolia_Magnolia Warbler,0.9220794,80.0,83.0
+Setophaga magnolia_Magnolia Warbler,0.96591806,81.0,84.0
+Setophaga magnolia_Magnolia Warbler,0.9625291,82.0,85.0
+Setophaga magnolia_Magnolia Warbler,0.6457413,83.0,86.0

@@ -1,0 +1,104 @@
+species,score,start_time,end_time
+Catharus guttatus_Hermit Thrush,0.9692798,0.0,3.0
+Catharus guttatus_Hermit Thrush,0.78536737,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.5816977,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.34625414,1.0,4.0
+Pipilo erythrophthalmus_Eastern Towhee,0.22223672,1.0,4.0
+Hylocichla mustelina_Wood Thrush,0.6909272,2.0,5.0
+Geothlypis formosa_Kentucky Warbler,0.2838711,2.0,5.0
+Pipilo erythrophthalmus_Eastern Towhee,0.19844642,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.14342396,2.0,5.0
+Piranga olivacea_Scarlet Tanager,0.13914685,2.0,5.0
+Catharus guttatus_Hermit Thrush,0.7088177,3.0,6.0
+Catharus guttatus_Hermit Thrush,0.86190253,4.0,7.0
+Catharus guttatus_Hermit Thrush,0.25017363,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.15724157,5.0,8.0
+Catharus guttatus_Hermit Thrush,0.5490573,6.0,9.0
+Catharus guttatus_Hermit Thrush,0.96021247,7.0,10.0
+Catharus guttatus_Hermit Thrush,0.89193624,8.0,11.0
+Catharus ustulatus_Swainson's Thrush,0.17514974,8.0,11.0
+Catharus guttatus_Hermit Thrush,0.8397625,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.17727154,9.0,12.0
+Catharus guttatus_Hermit Thrush,0.6213833,10.0,13.0
+Hylocichla mustelina_Wood Thrush,0.15164195,10.0,13.0
+Catharus guttatus_Hermit Thrush,0.75843394,11.0,14.0
+Catharus guttatus_Hermit Thrush,0.52502877,12.0,15.0
+Catharus guttatus_Hermit Thrush,0.89770067,13.0,16.0
+Catharus guttatus_Hermit Thrush,0.9188078,14.0,17.0
+Catharus guttatus_Hermit Thrush,0.9523158,15.0,18.0
+Seiurus aurocapilla_Ovenbird,0.79130703,16.0,19.0
+Catharus guttatus_Hermit Thrush,0.7466565,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.86015177,17.0,20.0
+Catharus guttatus_Hermit Thrush,0.38144988,17.0,20.0
+Seiurus aurocapilla_Ovenbird,0.8102077,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.7614764,19.0,22.0
+Seiurus aurocapilla_Ovenbird,0.554912,20.0,23.0
+Geothlypis formosa_Kentucky Warbler,0.15403016,21.0,24.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10043038,21.0,24.0
+Catharus guttatus_Hermit Thrush,0.8997815,22.0,25.0
+Catharus guttatus_Hermit Thrush,0.18924561,23.0,26.0
+Hylocichla mustelina_Wood Thrush,0.13053986,23.0,26.0
+Catharus guttatus_Hermit Thrush,0.7264526,24.0,27.0
+Catharus guttatus_Hermit Thrush,0.870254,25.0,28.0
+Catharus guttatus_Hermit Thrush,0.721751,26.0,29.0
+Catharus guttatus_Hermit Thrush,0.14598796,27.0,30.0
+Catharus guttatus_Hermit Thrush,0.8114898,28.0,31.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.33089462,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.27132025,29.0,32.0
+Contopus virens_Eastern Wood-Pewee,0.14592548,29.0,32.0
+Catharus guttatus_Hermit Thrush,0.73013264,30.0,33.0
+Catharus guttatus_Hermit Thrush,0.41649556,31.0,34.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.12198038,31.0,34.0
+Catharus guttatus_Hermit Thrush,0.91861814,32.0,35.0
+Catharus guttatus_Hermit Thrush,0.47138494,33.0,36.0
+Catharus guttatus_Hermit Thrush,0.49460492,34.0,37.0
+Catharus guttatus_Hermit Thrush,0.44017673,35.0,38.0
+Catharus guttatus_Hermit Thrush,0.20471232,36.0,39.0
+Catharus fuscescens_Veery,0.16788463,37.0,40.0
+Catharus guttatus_Hermit Thrush,0.1294149,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.1010369,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.2509416,39.0,42.0
+Cardellina canadensis_Canada Warbler,0.108259484,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.24469036,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.22127257,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.100973554,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.15208066,42.0,45.0
+Peucaea aestivalis_Bachman's Sparrow,0.12149202,43.0,46.0
+Catharus guttatus_Hermit Thrush,0.11156355,43.0,46.0
+Catharus guttatus_Hermit Thrush,0.93088627,44.0,47.0
+Catharus guttatus_Hermit Thrush,0.92188656,45.0,48.0
+Catharus guttatus_Hermit Thrush,0.75247794,46.0,49.0
+Catharus guttatus_Hermit Thrush,0.37278214,47.0,50.0
+Hylocichla mustelina_Wood Thrush,0.10527008,47.0,50.0
+Catharus guttatus_Hermit Thrush,0.33271173,48.0,51.0
+Hylocichla mustelina_Wood Thrush,0.23172238,48.0,51.0
+Catharus guttatus_Hermit Thrush,0.6388211,49.0,52.0
+Catharus guttatus_Hermit Thrush,0.6599413,50.0,53.0
+Catharus guttatus_Hermit Thrush,0.40084183,51.0,54.0
+Catharus guttatus_Hermit Thrush,0.9611527,52.0,55.0
+Catharus guttatus_Hermit Thrush,0.95302296,53.0,56.0
+Catharus guttatus_Hermit Thrush,0.93415725,54.0,57.0
+Catharus guttatus_Hermit Thrush,0.8180777,55.0,58.0
+Catharus guttatus_Hermit Thrush,0.72475725,56.0,59.0
+Catharus guttatus_Hermit Thrush,0.9091314,57.0,60.0
+Catharus guttatus_Hermit Thrush,0.2751211,58.0,61.0
+Catharus guttatus_Hermit Thrush,0.37494567,59.0,62.0
+Catharus guttatus_Hermit Thrush,0.75106305,60.0,63.0
+Catharus guttatus_Hermit Thrush,0.83181435,61.0,64.0
+Catharus guttatus_Hermit Thrush,0.58973527,62.0,65.0
+Catharus guttatus_Hermit Thrush,0.37399596,63.0,66.0
+Catharus guttatus_Hermit Thrush,0.48061875,64.0,67.0
+Catharus guttatus_Hermit Thrush,0.15818596,65.0,68.0
+Catharus guttatus_Hermit Thrush,0.5182926,66.0,69.0
+Catharus guttatus_Hermit Thrush,0.5214362,67.0,70.0
+Catharus guttatus_Hermit Thrush,0.5748074,68.0,71.0
+Seiurus aurocapilla_Ovenbird,0.20731449,68.0,71.0
+Hylocichla mustelina_Wood Thrush,0.124846734,68.0,71.0
+Catharus guttatus_Hermit Thrush,0.3762099,69.0,72.0
+Hylocichla mustelina_Wood Thrush,0.1273349,69.0,72.0
+Seiurus aurocapilla_Ovenbird,0.10874503,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.101609774,69.0,72.0
+Catharus guttatus_Hermit Thrush,0.3029947,70.0,73.0
+Seiurus aurocapilla_Ovenbird,0.16172911,70.0,73.0
+Hylocichla mustelina_Wood Thrush,0.14736244,70.0,73.0
+Catharus guttatus_Hermit Thrush,0.12716919,71.0,73.24802721088436

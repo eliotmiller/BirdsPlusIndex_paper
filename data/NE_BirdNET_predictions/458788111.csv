@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Setophaga coronata_Yellow-rumped Warbler,0.56317097,0.0,3.0
+Setophaga coronata_Yellow-rumped Warbler,0.1705903,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.15987904,1.0,4.0
+Leiothlypis celata_Orange-crowned Warbler,0.31156877,2.0,5.0
+Setophaga pinus_Pine Warbler,0.29943633,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.114675306,2.0,5.0
+Setophaga pinus_Pine Warbler,0.46797782,3.0,6.0
+Junco hyemalis_Dark-eyed Junco,0.116434105,3.0,6.0
+Engine_Engine,0.1060263,3.0,6.0
+Setophaga pinus_Pine Warbler,0.49830487,4.0,7.0
+Junco hyemalis_Dark-eyed Junco,0.4001075,4.0,7.0
+Engine_Engine,0.22557473,4.0,7.0
+Leiothlypis celata_Orange-crowned Warbler,0.13116218,4.0,7.0
+Setophaga pinus_Pine Warbler,0.6435356,5.0,8.0
+Engine_Engine,0.5220467,5.0,8.0
+Engine_Engine,0.28169933,6.0,9.0
+Engine_Engine,0.12796246,7.0,10.0
+Engine_Engine,0.12421599,8.0,11.0
+Poecile atricapillus_Black-capped Chickadee,0.10377401,8.0,11.0
+Basileuterus rufifrons_Rufous-capped Warbler,0.45799735,12.0,15.0
+Junco hyemalis_Dark-eyed Junco,0.2496222,13.0,16.0
+Setophaga pinus_Pine Warbler,0.19670269,13.0,16.0
+Setophaga pinus_Pine Warbler,0.47424093,14.0,17.0
+Junco hyemalis_Dark-eyed Junco,0.12810595,14.0,17.0
+Setophaga pinus_Pine Warbler,0.8818321,15.0,18.0
+Setophaga pinus_Pine Warbler,0.15278181,16.0,19.0
+Tyrannus melancholicus_Tropical Kingbird,0.11700923,16.0,19.0
+Setophaga pinus_Pine Warbler,0.42544582,24.0,27.0
+Junco hyemalis_Dark-eyed Junco,0.10304529,24.0,27.0
+Setophaga pinus_Pine Warbler,0.7538897,25.0,28.0
+Setophaga pinus_Pine Warbler,0.7001735,26.0,29.0
+Setophaga pinus_Pine Warbler,0.22536431,27.0,30.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1898763,27.0,30.0
+Junco hyemalis_Dark-eyed Junco,0.16954423,27.0,30.0
+Parkesia motacilla_Louisiana Waterthrush,0.117479585,28.0,31.0
+Setophaga coronata_Yellow-rumped Warbler,0.30842122,29.0,32.0
+Setophaga coronata_Yellow-rumped Warbler,0.18928383,30.0,33.0
+Setophaga coronata_Yellow-rumped Warbler,0.35613012,31.0,34.0
+Seiurus aurocapilla_Ovenbird,0.1300214,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.14374265,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.109813035,34.0,37.0
+Empidonax minimus_Least Flycatcher,0.16059503,35.0,38.0
+Setophaga pinus_Pine Warbler,0.21546559,36.0,39.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15458834,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.15237801,36.0,39.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12707871,36.0,39.0
+Setophaga pinus_Pine Warbler,0.49420536,37.0,40.0
+Setophaga pinus_Pine Warbler,0.643707,38.0,41.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10960966,38.0,41.0
+Setophaga pinus_Pine Warbler,0.3971368,39.0,42.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1208074,39.0,42.0
+Setophaga petechia_Yellow Warbler,0.16086635,40.0,43.0
+Setophaga ruticilla_American Redstart,0.12224414,42.0,45.0
+Setophaga cerulea_Cerulean Warbler,0.22090441,43.0,46.0
+Setophaga ruticilla_American Redstart,0.12964623,43.0,46.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12586904,43.0,46.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11988463,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.10225125,44.0,47.0
+Setophaga pinus_Pine Warbler,0.39263374,45.0,48.0
+Junco hyemalis_Dark-eyed Junco,0.18780755,45.0,48.0
+Setophaga pinus_Pine Warbler,0.6176491,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12788108,46.0,49.0
+Setophaga pinus_Pine Warbler,0.74081063,47.0,50.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11864559,47.0,50.0
+Setophaga pinus_Pine Warbler,0.53500026,48.0,51.0
+Empidonax minimus_Least Flycatcher,0.16593191,50.0,53.0
+Empidonax minimus_Least Flycatcher,0.10759515,51.0,54.0
+Parkesia motacilla_Louisiana Waterthrush,0.32950142,54.0,57.0
+Helmitheros vermivorum_Worm-eating Warbler,0.42753592,55.0,58.0
+Setophaga pinus_Pine Warbler,0.19819565,55.0,58.0
+Setophaga americana_Northern Parula,0.13309725,55.0,58.0
+Setophaga pinus_Pine Warbler,0.56280965,56.0,59.0
+Helmitheros vermivorum_Worm-eating Warbler,0.22748649,56.0,59.0
+Setophaga pinus_Pine Warbler,0.35453916,57.0,60.0
+Setophaga cerulea_Cerulean Warbler,0.21121205,57.0,60.0
+Junco hyemalis_Dark-eyed Junco,0.2748574,58.0,61.0
+Setophaga pinus_Pine Warbler,0.24484445,58.0,61.0
+Setophaga coronata_Yellow-rumped Warbler,0.19676165,59.0,62.0
+Setophaga coronata_Yellow-rumped Warbler,0.32277828,60.0,62.25600907029479

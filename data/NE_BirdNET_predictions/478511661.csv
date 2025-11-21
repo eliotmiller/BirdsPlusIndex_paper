@@ -1,0 +1,64 @@
+species,score,start_time,end_time
+Larus argentatus_Herring Gull,0.7916047,0.0,3.0
+Larus argentatus_Herring Gull,0.1764908,1.0,4.0
+Porzana carolina_Sora,0.14350317,1.0,4.0
+Larus argentatus_Herring Gull,0.29656476,5.0,8.0
+Larus argentatus_Herring Gull,0.8764542,6.0,9.0
+Larus argentatus_Herring Gull,0.79939085,7.0,10.0
+Larus argentatus_Herring Gull,0.62330747,8.0,11.0
+Larus argentatus_Herring Gull,0.28302372,17.0,20.0
+Larus argentatus_Herring Gull,0.7637848,18.0,21.0
+Larus argentatus_Herring Gull,0.5688421,19.0,22.0
+Larus argentatus_Herring Gull,0.95624256,20.0,23.0
+Larus glaucescens_Glaucous-winged Gull,0.23050408,20.0,23.0
+Larus argentatus_Herring Gull,0.26493004,21.0,24.0
+Larus argentatus_Herring Gull,0.3428171,22.0,25.0
+Tringa semipalmata_Willet,0.12837136,23.0,26.0
+Plegadis chihi_White-faced Ibis,0.13219738,25.0,28.0
+Larus argentatus_Herring Gull,0.108063966,25.0,28.0
+Larus argentatus_Herring Gull,0.24202915,27.0,30.0
+Larus argentatus_Herring Gull,0.41524515,28.0,31.0
+Larus argentatus_Herring Gull,0.3288364,29.0,32.0
+Tringa semipalmata_Willet,0.18684645,30.0,33.0
+Tringa semipalmata_Willet,0.37334263,31.0,34.0
+Larus argentatus_Herring Gull,0.17949156,31.0,34.0
+Podiceps auritus_Horned Grebe,0.11511681,31.0,34.0
+Limosa fedoa_Marbled Godwit,0.10439437,31.0,34.0
+Larus argentatus_Herring Gull,0.20510377,32.0,35.0
+Larus argentatus_Herring Gull,0.7777057,33.0,36.0
+Larus argentatus_Herring Gull,0.6228637,34.0,37.0
+Larus argentatus_Herring Gull,0.75557864,35.0,38.0
+Larus argentatus_Herring Gull,0.7929757,36.0,39.0
+Larus argentatus_Herring Gull,0.76911837,37.0,40.0
+Larus argentatus_Herring Gull,0.7886687,38.0,41.0
+Larus argentatus_Herring Gull,0.62454146,39.0,42.0
+Larus argentatus_Herring Gull,0.27632213,40.0,43.0
+Larus argentatus_Herring Gull,0.3301116,41.0,44.0
+Larus argentatus_Herring Gull,0.6523908,42.0,45.0
+Falco peregrinus_Peregrine Falcon,0.17503935,44.0,47.0
+Haliaeetus leucocephalus_Bald Eagle,0.2489774,45.0,48.0
+Larus argentatus_Herring Gull,0.17440155,45.0,48.0
+Falco peregrinus_Peregrine Falcon,0.12819362,45.0,48.0
+Haliaeetus leucocephalus_Bald Eagle,0.3340672,46.0,49.0
+Larus argentatus_Herring Gull,0.15251419,46.0,49.0
+Falco peregrinus_Peregrine Falcon,0.10583263,46.0,49.0
+Gallinago delicata_Wilson's Snipe,0.15680824,47.0,50.0
+Gallinago delicata_Wilson's Snipe,0.7822059,48.0,51.0
+Gallinago delicata_Wilson's Snipe,0.4407929,49.0,52.0
+Larus argentatus_Herring Gull,0.47559494,50.0,53.0
+Larus argentatus_Herring Gull,0.49731195,51.0,54.0
+Larus argentatus_Herring Gull,0.3814834,52.0,55.0
+Larus argentatus_Herring Gull,0.25384966,53.0,56.0
+Larus argentatus_Herring Gull,0.3718365,54.0,57.0
+Larus argentatus_Herring Gull,0.10649001,55.0,58.0
+Aramides ypecaha_Giant Wood-Rail,0.30651215,56.0,59.0
+Larus argentatus_Herring Gull,0.20009434,56.0,59.0
+Larus californicus_California Gull,0.14273421,57.0,60.0
+Larus argentatus_Herring Gull,0.3358278,58.0,61.0
+Larus delawarensis_Ring-billed Gull,0.19522643,58.0,61.0
+Leucophaeus atricilla_Laughing Gull,0.13204588,58.0,61.0
+Leucophaeus atricilla_Laughing Gull,0.15147832,60.0,63.0
+Larus argentatus_Herring Gull,0.28998286,61.0,64.0
+Larus argentatus_Herring Gull,0.29082212,62.0,65.0
+Podiceps major_Great Grebe,0.12124687,63.0,66.0
+Bartramia longicauda_Upland Sandpiper,0.1070293,64.0,66.31201814058957

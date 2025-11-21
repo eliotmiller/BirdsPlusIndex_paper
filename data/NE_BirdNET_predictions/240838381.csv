@@ -1,0 +1,90 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.96787035,0.0,3.0
+Setophaga ruticilla_American Redstart,0.6256033,1.0,4.0
+Vireo philadelphicus_Philadelphia Vireo,0.19526753,5.0,8.0
+Vireo olivaceus_Red-eyed Vireo,0.11961214,5.0,8.0
+Setophaga ruticilla_American Redstart,0.6425006,6.0,9.0
+Setophaga ruticilla_American Redstart,0.5349198,7.0,10.0
+Setophaga ruticilla_American Redstart,0.6338851,8.0,11.0
+Setophaga ruticilla_American Redstart,0.25180343,9.0,12.0
+Cardellina canadensis_Canada Warbler,0.11999724,10.0,13.0
+Vireo olivaceus_Red-eyed Vireo,0.23774786,11.0,14.0
+Vireo philadelphicus_Philadelphia Vireo,0.14759484,11.0,14.0
+Setophaga ruticilla_American Redstart,0.8517085,12.0,15.0
+Setophaga ruticilla_American Redstart,0.92079943,13.0,16.0
+Setophaga ruticilla_American Redstart,0.8694134,14.0,17.0
+Setophaga ruticilla_American Redstart,0.5070729,15.0,18.0
+Vireo philadelphicus_Philadelphia Vireo,0.25077453,16.0,19.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13593163,17.0,20.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11948626,17.0,20.0
+Setophaga fusca_Blackburnian Warbler,0.10414384,17.0,20.0
+Sitta carolinensis_White-breasted Nuthatch,0.10258045,18.0,21.0
+Setophaga fusca_Blackburnian Warbler,0.3367556,21.0,24.0
+Setophaga ruticilla_American Redstart,0.32757482,21.0,24.0
+Setophaga ruticilla_American Redstart,0.6305573,22.0,25.0
+Setophaga ruticilla_American Redstart,0.6894987,23.0,26.0
+Setophaga ruticilla_American Redstart,0.65200543,24.0,27.0
+Geothlypis formosa_Kentucky Warbler,0.12553939,26.0,29.0
+Setophaga ruticilla_American Redstart,0.18816315,28.0,31.0
+Setophaga ruticilla_American Redstart,0.6763897,30.0,33.0
+Setophaga ruticilla_American Redstart,0.93752867,31.0,34.0
+Setophaga ruticilla_American Redstart,0.9181658,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.12067361,32.0,35.0
+Setophaga ruticilla_American Redstart,0.6544869,33.0,36.0
+Ardea herodias_Great Blue Heron,0.2888727,34.0,37.0
+Ardea herodias_Great Blue Heron,0.2770366,35.0,38.0
+Ardea herodias_Great Blue Heron,0.35601768,36.0,39.0
+Setophaga fusca_Blackburnian Warbler,0.14760476,36.0,39.0
+Ardea herodias_Great Blue Heron,0.1987139,37.0,40.0
+Setophaga ruticilla_American Redstart,0.82013917,39.0,42.0
+Setophaga ruticilla_American Redstart,0.8567521,40.0,43.0
+Setophaga ruticilla_American Redstart,0.8211471,41.0,44.0
+Ardea herodias_Great Blue Heron,0.2912028,44.0,47.0
+Sitta carolinensis_White-breasted Nuthatch,0.13355918,45.0,48.0
+Setophaga fusca_Blackburnian Warbler,0.32542565,46.0,49.0
+Setophaga ruticilla_American Redstart,0.39210472,47.0,50.0
+Setophaga ruticilla_American Redstart,0.44223103,48.0,51.0
+Setophaga petechia_Yellow Warbler,0.12697215,48.0,51.0
+Setophaga ruticilla_American Redstart,0.7286825,49.0,52.0
+Setophaga ruticilla_American Redstart,0.2437286,50.0,53.0
+Mareca strepera_Gadwall,0.5384062,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.11578823,53.0,56.0
+Setophaga ruticilla_American Redstart,0.112884864,53.0,56.0
+Setophaga ruticilla_American Redstart,0.792381,54.0,57.0
+Setophaga ruticilla_American Redstart,0.88737005,55.0,58.0
+Setophaga petechia_Yellow Warbler,0.105408445,55.0,58.0
+Setophaga ruticilla_American Redstart,0.5877528,56.0,59.0
+Setophaga ruticilla_American Redstart,0.230227,57.0,60.0
+Setophaga petechia_Yellow Warbler,0.17443925,57.0,60.0
+Setophaga fusca_Blackburnian Warbler,0.16965085,59.0,62.0
+Setophaga ruticilla_American Redstart,0.3434229,60.0,63.0
+Setophaga ruticilla_American Redstart,0.51434404,61.0,64.0
+Setophaga ruticilla_American Redstart,0.82490313,62.0,65.0
+Setophaga petechia_Yellow Warbler,0.25750494,63.0,66.0
+Setophaga ruticilla_American Redstart,0.15011358,63.0,66.0
+Setophaga ruticilla_American Redstart,0.35739687,66.0,69.0
+Setophaga ruticilla_American Redstart,0.522467,67.0,70.0
+Setophaga ruticilla_American Redstart,0.6436689,68.0,71.0
+Setophaga ruticilla_American Redstart,0.25285032,69.0,72.0
+Geothlypis philadelphia_Mourning Warbler,0.10323404,72.0,75.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.112527736,75.0,78.0
+Setophaga ruticilla_American Redstart,0.10713945,76.0,79.0
+Setophaga ruticilla_American Redstart,0.64913064,79.0,82.0
+Setophaga ruticilla_American Redstart,0.82815385,80.0,83.0
+Setophaga ruticilla_American Redstart,0.7254173,81.0,84.0
+Setophaga ruticilla_American Redstart,0.287425,82.0,85.0
+Setophaga petechia_Yellow Warbler,0.1510991,82.0,85.0
+Sitta carolinensis_White-breasted Nuthatch,0.11399335,86.0,89.0
+Setophaga ruticilla_American Redstart,0.70952034,88.0,91.0
+Setophaga ruticilla_American Redstart,0.7519145,89.0,92.0
+Setophaga ruticilla_American Redstart,0.83183193,90.0,93.0
+Setophaga ruticilla_American Redstart,0.3955647,91.0,94.0
+Setophaga ruticilla_American Redstart,0.49606112,93.0,96.0
+Setophaga ruticilla_American Redstart,0.4225449,94.0,97.0
+Setophaga ruticilla_American Redstart,0.32773742,95.0,98.0
+Setophaga ruticilla_American Redstart,0.13487163,96.0,99.0
+Arremonops chloronotus_Green-backed Sparrow,0.15352419,99.0,102.0
+Setophaga ruticilla_American Redstart,0.25331986,101.0,104.0
+Setophaga ruticilla_American Redstart,0.22564673,102.0,105.0
+Setophaga ruticilla_American Redstart,0.30856022,103.0,105.79201814058958
+Protonotaria citrea_Prothonotary Warbler,0.10456069,103.0,105.79201814058958

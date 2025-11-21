@@ -1,0 +1,53 @@
+species,score,start_time,end_time
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9927947,0.0,3.0
+Setophaga petechia_Yellow Warbler,0.15186594,0.0,3.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9984798,1.0,4.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99207836,2.0,5.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.40628222,3.0,6.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10290985,3.0,6.0
+Regulus satrapa_Golden-crowned Kinglet,0.52169955,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.23866174,5.0,8.0
+Setophaga castanea_Bay-breasted Warbler,0.108099155,5.0,8.0
+Setophaga fusca_Blackburnian Warbler,0.15881972,6.0,9.0
+Regulus satrapa_Golden-crowned Kinglet,0.12892497,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11121945,6.0,9.0
+Regulus satrapa_Golden-crowned Kinglet,0.19184119,7.0,10.0
+Ficedula parva_Red-breasted Flycatcher,0.154255,7.0,10.0
+Regulus ignicapilla_Common Firecrest,0.12806976,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.10803447,9.0,12.0
+Setophaga fusca_Blackburnian Warbler,0.11692944,10.0,13.0
+Vermivora chrysoptera_Golden-winged Warbler,0.2071387,11.0,14.0
+Vermivora chrysoptera_Golden-winged Warbler,0.16171506,12.0,15.0
+Setophaga discolor_Prairie Warbler,0.10684225,12.0,15.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1580052,13.0,16.0
+Vermivora chrysoptera_Golden-winged Warbler,0.13817276,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.15477085,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15296865,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1214681,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.11236569,16.0,19.0
+Setophaga petechia_Yellow Warbler,0.25807908,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.19990078,19.0,22.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9606269,20.0,23.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9972257,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9939877,22.0,25.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.42822358,23.0,26.0
+Setophaga citrina_Hooded Warbler,0.23045576,23.0,26.0
+Geothlypis trichas_Common Yellowthroat,0.14026836,25.0,28.0
+Geothlypis philadelphia_Mourning Warbler,0.17113954,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.1364448,28.0,31.0
+Geothlypis philadelphia_Mourning Warbler,0.10512974,28.0,31.0
+Seiurus aurocapilla_Ovenbird,0.18958619,30.0,33.0
+Passerina cyanea_Indigo Bunting,0.3468719,31.0,34.0
+Cardellina canadensis_Canada Warbler,0.23518595,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16975151,31.0,34.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99256426,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.9984774,33.0,36.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.99545825,34.0,37.0
+Geothlypis philadelphia_Mourning Warbler,0.19702193,35.0,38.0
+Setophaga citrina_Hooded Warbler,0.18019138,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.14281306,35.0,38.0
+Cardellina canadensis_Canada Warbler,0.13151713,35.0,38.0
+Parkesia noveboracensis_Northern Waterthrush,0.12459774,35.0,38.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.110650435,35.0,38.0
+Geothlypis philadelphia_Mourning Warbler,0.3055017,36.0,38.30403628117914
+Oporornis agilis_Connecticut Warbler,0.11030614,36.0,38.30403628117914

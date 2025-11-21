@@ -1,0 +1,105 @@
+species,score,start_time,end_time
+Geothlypis trichas_Common Yellowthroat,0.15848553,0.0,3.0
+Zosterops lateralis_Silvereye,0.15737982,2.0,5.0
+Poecile atricapillus_Black-capped Chickadee,0.45399886,4.0,7.0
+Poecile atricapillus_Black-capped Chickadee,0.65539,5.0,8.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.39382488,6.0,9.0
+Setophaga petechia_Yellow Warbler,0.13152614,6.0,9.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.41623786,7.0,10.0
+Geothlypis trichas_Common Yellowthroat,0.16502339,7.0,10.0
+Setophaga coronata_Yellow-rumped Warbler,0.12121843,7.0,10.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11705572,8.0,11.0
+Geothlypis trichas_Common Yellowthroat,0.101573996,8.0,11.0
+Eremophila alpestris_Horned Lark,0.11811933,9.0,12.0
+Setophaga coronata_Yellow-rumped Warbler,0.16770713,11.0,14.0
+Melozone crissalis_California Towhee,0.10048411,11.0,14.0
+Setophaga coronata_Yellow-rumped Warbler,0.87680626,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.46066722,12.0,15.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.15227807,12.0,15.0
+Setophaga magnolia_Magnolia Warbler,0.19206862,13.0,16.0
+Setophaga coronata_Yellow-rumped Warbler,0.14578456,13.0,16.0
+Saxicola rubicola_European Stonechat,0.21436298,14.0,17.0
+Spizelloides arborea_American Tree Sparrow,0.26675007,16.0,19.0
+Elanus leucurus_White-tailed Kite,0.12429047,17.0,20.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.38716948,18.0,21.0
+Setophaga petechia_Yellow Warbler,0.111624725,18.0,21.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.472016,19.0,22.0
+Setophaga coronata_Yellow-rumped Warbler,0.15472314,19.0,22.0
+Setophaga petechia_Yellow Warbler,0.13954571,19.0,22.0
+Melospiza georgiana_Swamp Sparrow,0.17469755,20.0,23.0
+Passerina versicolor_Varied Bunting,0.10941988,21.0,24.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17262033,24.0,27.0
+Phylloscopus affinis_Tickell's Leaf Warbler,0.10071145,24.0,27.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.81197983,25.0,28.0
+Setophaga petechia_Yellow Warbler,0.29412246,25.0,28.0
+Setophaga coronata_Yellow-rumped Warbler,0.18022548,25.0,28.0
+Setophaga virens_Black-throated Green Warbler,0.16720475,26.0,29.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.38056657,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.14021213,27.0,30.0
+Geothlypis trichas_Common Yellowthroat,0.15713824,28.0,31.0
+Geothlypis trichas_Common Yellowthroat,0.24398354,29.0,32.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.2506775,32.0,35.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.3192344,33.0,36.0
+Geothlypis trichas_Common Yellowthroat,0.18266201,33.0,36.0
+Geothlypis trichas_Common Yellowthroat,0.30616552,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.16673698,34.0,37.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.56209755,35.0,38.0
+Setophaga coronata_Yellow-rumped Warbler,0.3133555,35.0,38.0
+Setophaga magnolia_Magnolia Warbler,0.19895992,36.0,39.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.1616914,36.0,39.0
+Setophaga magnolia_Magnolia Warbler,0.17099641,38.0,41.0
+Turdus migratorius_American Robin,0.3886241,39.0,42.0
+Setophaga coronata_Yellow-rumped Warbler,0.52088094,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.22418222,40.0,43.0
+Geothlypis trichas_Common Yellowthroat,0.21215902,40.0,43.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.27612758,44.0,47.0
+Myioborus miniatus_Slate-throated Redstart,0.19743611,47.0,50.0
+Setophaga townsendi_Townsend's Warbler,0.18493047,47.0,50.0
+Setophaga magnolia_Magnolia Warbler,0.10072549,53.0,56.0
+Carpodacus sibiricus_Long-tailed Rosefinch,0.18166257,54.0,57.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13173169,56.0,59.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14175726,57.0,60.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.119913384,59.0,62.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13910365,65.0,68.0
+Setophaga magnolia_Magnolia Warbler,0.15576527,66.0,69.0
+Setophaga coronata_Yellow-rumped Warbler,0.14708115,68.0,71.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.1868129,69.0,72.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17282239,69.0,72.0
+Sphyrapicus nuchalis_Red-naped Sapsucker,0.18679325,70.0,73.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.10301035,70.0,73.0
+Lepidocolaptes leucogaster_White-striped Woodcreeper,0.105414756,77.0,80.0
+Setophaga virens_Black-throated Green Warbler,0.117014036,78.0,81.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.28132537,80.0,83.0
+Geothlypis trichas_Common Yellowthroat,0.24881026,80.0,83.0
+Phylloscopus occisinensis_Alpine Leaf Warbler,0.3933275,81.0,84.0
+Hypsipetes leucocephalus_Black Bulbul,0.116920136,82.0,85.0
+Parus minor_Japanese Tit,0.49127558,84.0,87.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.26678362,84.0,87.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.13626914,85.0,88.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.25756985,86.0,89.0
+Setophaga magnolia_Magnolia Warbler,0.10915167,88.0,91.0
+Tyrannus tyrannus_Eastern Kingbird,0.1031114,88.0,91.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.43651086,91.0,94.0
+Setophaga coronata_Yellow-rumped Warbler,0.33382234,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.13734174,91.0,94.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.24562818,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.19268467,92.0,95.0
+Setophaga coronata_Yellow-rumped Warbler,0.16333053,92.0,95.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.11823219,93.0,96.0
+Vireo solitarius_Blue-headed Vireo,0.16488348,94.0,97.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.17370547,97.0,100.0
+Geothlypis trichas_Common Yellowthroat,0.1340248,97.0,100.0
+Setophaga palmarum_Palm Warbler,0.29116088,98.0,101.0
+Parkesia motacilla_Louisiana Waterthrush,0.118163764,100.0,103.0
+Vireo philadelphicus_Philadelphia Vireo,0.14998086,101.0,104.0
+Setophaga fusca_Blackburnian Warbler,0.14810112,102.0,105.0
+Setophaga ruticilla_American Redstart,0.12579657,103.0,106.0
+Setophaga ruticilla_American Redstart,0.5337889,104.0,107.0
+Setophaga ruticilla_American Redstart,0.29473466,105.0,108.0
+Setophaga fusca_Blackburnian Warbler,0.108118266,105.0,108.0
+Setophaga virens_Black-throated Green Warbler,0.3140823,106.0,109.0
+Setophaga fusca_Blackburnian Warbler,0.1794471,106.0,109.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13024315,106.0,109.0
+Buteo platypterus_Broad-winged Hawk,0.10045353,106.0,109.0
+Setophaga virens_Black-throated Green Warbler,0.13949323,107.0,110.0
+Elanus leucurus_White-tailed Kite,0.19182728,118.0,121.0

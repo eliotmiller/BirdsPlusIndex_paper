@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Bubo virginianus_Great Horned Owl,0.9877685,0.0,3.0
+Bubo virginianus_Great Horned Owl,0.85558957,1.0,4.0
+Strix uralensis_Ural Owl,0.40777147,7.0,10.0
+Strix varia_Barred Owl,0.29657176,7.0,10.0
+Bubo virginianus_Great Horned Owl,0.27585787,7.0,10.0
+Bubo virginianus_Great Horned Owl,0.98871595,8.0,11.0
+Bubo virginianus_Great Horned Owl,0.99528706,9.0,12.0
+Bubo virginianus_Great Horned Owl,0.998216,10.0,13.0
+Bubo virginianus_Great Horned Owl,0.99432206,11.0,14.0
+Bubo virginianus_Great Horned Owl,0.99887496,12.0,15.0
+Bubo virginianus_Great Horned Owl,0.97700214,13.0,16.0
+Bubo virginianus_Great Horned Owl,0.98574466,14.0,17.0
+Bubo virginianus_Great Horned Owl,0.9826972,15.0,18.0
+Bubo virginianus_Great Horned Owl,0.9947402,16.0,19.0
+Bubo virginianus_Great Horned Owl,0.97005033,17.0,20.0
+Bubo virginianus_Great Horned Owl,0.49819386,29.0,32.0
+Strix uralensis_Ural Owl,0.47704437,29.0,32.0
+Bubo virginianus_Great Horned Owl,0.9925483,30.0,33.0
+Bubo virginianus_Great Horned Owl,0.9348331,31.0,34.0
+Bubo virginianus_Great Horned Owl,0.88882804,32.0,35.0
+Bubo virginianus_Great Horned Owl,0.7199429,33.0,36.0
+Bubo virginianus_Great Horned Owl,0.8997235,34.0,37.0
+Strix uralensis_Ural Owl,0.113992654,35.0,38.0
+Turdus migratorius_American Robin,0.28856882,38.0,41.0
+Bubo virginianus_Great Horned Owl,0.95797527,40.0,43.0
+Strix varia_Barred Owl,0.36384776,40.0,43.0
+Bubo virginianus_Great Horned Owl,0.97602546,41.0,44.0
+Bubo virginianus_Great Horned Owl,0.9460145,42.0,45.0
+Bubo virginianus_Great Horned Owl,0.9580372,43.0,46.0
+Strix nebulosa_Great Gray Owl,0.22107296,43.0,46.0
+Bubo virginianus_Great Horned Owl,0.5872329,44.0,47.0
+Strix nebulosa_Great Gray Owl,0.38480574,44.0,47.0
+Turdus migratorius_American Robin,0.21250595,45.0,48.0
+Turdus migratorius_American Robin,0.10701314,58.0,61.0
+Buteo platypterus_Broad-winged Hawk,0.2476228,59.0,62.0
+Turdus migratorius_American Robin,0.14616635,60.0,63.0
+Turdus migratorius_American Robin,0.11910821,61.0,64.0
+Buteo platypterus_Broad-winged Hawk,0.10566763,63.0,66.0
+Buteo platypterus_Broad-winged Hawk,0.27506086,65.0,68.0
+Strix varia_Barred Owl,0.6813043,68.0,71.0
+Strix occidentalis_Spotted Owl,0.6250175,68.0,71.0
+Bubo virginianus_Great Horned Owl,0.9484397,69.0,72.0
+Strix varia_Barred Owl,0.18795665,69.0,72.0
+Bubo virginianus_Great Horned Owl,0.96413004,70.0,73.0
+Strix varia_Barred Owl,0.25113115,70.0,73.0
+Bubo virginianus_Great Horned Owl,0.9964809,71.0,74.0
+Bubo virginianus_Great Horned Owl,0.9802603,72.0,75.0
+Bubo virginianus_Great Horned Owl,0.98028594,73.0,76.0
+Bubo virginianus_Great Horned Owl,0.49653152,74.0,77.0
+Asio otus_Long-eared Owl,0.28982738,74.0,77.0
+Buteo platypterus_Broad-winged Hawk,0.17708512,76.0,79.0
+Strix varia_Barred Owl,0.110308215,76.0,79.0
+Turdus migratorius_American Robin,0.11545008,77.0,80.0
+Strix varia_Barred Owl,0.1235744,79.0,82.0
+Buteo platypterus_Broad-winged Hawk,0.11393675,79.0,82.0
+Strix varia_Barred Owl,0.12395739,80.0,83.0
+Bubo virginianus_Great Horned Owl,0.97831386,81.0,84.0
+Strix varia_Barred Owl,0.2446923,81.0,84.0
+Bubo virginianus_Great Horned Owl,0.9978947,82.0,85.0
+Strix varia_Barred Owl,0.1594082,82.0,85.0
+Bubo virginianus_Great Horned Owl,0.99832743,83.0,86.0
+Bubo virginianus_Great Horned Owl,0.99333256,84.0,87.0
+Bubo virginianus_Great Horned Owl,0.97979856,85.0,88.0
+Strix uralensis_Ural Owl,0.4480243,86.0,89.0
+Bubo virginianus_Great Horned Owl,0.3070211,86.0,89.0
+Turdus migratorius_American Robin,0.1052315,87.0,90.0
+Garrulus glandarius_Eurasian Jay,0.35118628,88.0,91.0
+Cyanocitta stelleri_Steller's Jay,0.22056466,88.0,91.0
+Garrulus glandarius_Eurasian Jay,0.121834904,89.0,92.0
+Turdus migratorius_American Robin,0.12301322,94.0,97.0
+Turdus migratorius_American Robin,0.103707135,95.0,98.0
+Bubo virginianus_Great Horned Owl,0.9803687,97.0,100.0
+Bubo virginianus_Great Horned Owl,0.99757344,98.0,101.0
+Bubo virginianus_Great Horned Owl,0.9984363,99.0,102.0
+Bubo virginianus_Great Horned Owl,0.99838305,100.0,103.0
+Bubo virginianus_Great Horned Owl,0.9923969,101.0,104.0
+Bubo virginianus_Great Horned Owl,0.7023428,102.0,105.0
+Strix uralensis_Ural Owl,0.18532251,102.0,105.0
+Piranga ludoviciana_Western Tanager,0.123753145,103.0,106.0
+Piranga ludoviciana_Western Tanager,0.16204543,104.0,107.0
+Contopus cooperi_Olive-sided Flycatcher,0.28771064,111.0,114.0
+Pinicola enucleator_Pine Grosbeak,0.10088072,114.0,117.0
+Strix varia_Barred Owl,0.17373222,130.0,133.0
+Bubo virginianus_Great Horned Owl,0.9927377,131.0,134.0
+Bubo virginianus_Great Horned Owl,0.99788445,132.0,135.0
+Bubo virginianus_Great Horned Owl,0.98794866,133.0,136.0
+Bubo virginianus_Great Horned Owl,0.9944037,134.0,137.0
+Bubo virginianus_Great Horned Owl,0.9938122,135.0,138.0
+Bubo virginianus_Great Horned Owl,0.98467606,136.0,139.0
+Bubo virginianus_Great Horned Owl,0.9820582,137.0,140.0
+Bubo virginianus_Great Horned Owl,0.9345993,138.0,141.0
+Strix uralensis_Ural Owl,0.67978346,138.0,141.0
+Human non-vocal_Human non-vocal,0.13300091,145.0,148.0
+Anthus hodgsoni_Olive-backed Pipit,0.23631759,146.0,148.03201814058957

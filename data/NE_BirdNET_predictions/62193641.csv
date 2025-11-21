@@ -1,0 +1,80 @@
+species,score,start_time,end_time
+Dryobates pubescens_Downy Woodpecker,0.4335726,0.0,3.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.32701787,0.0,3.0
+Dryobates pubescens_Downy Woodpecker,0.27870467,1.0,4.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.26659426,1.0,4.0
+Setophaga citrina_Hooded Warbler,0.136708,2.0,5.0
+Hylocichla mustelina_Wood Thrush,0.35913715,3.0,6.0
+Hylocichla mustelina_Wood Thrush,0.43757644,4.0,7.0
+Hylocichla mustelina_Wood Thrush,0.339323,5.0,8.0
+Dryobates pubescens_Downy Woodpecker,0.22664857,6.0,9.0
+Dryobates pubescens_Downy Woodpecker,0.3082912,7.0,10.0
+Picoides arcticus_Black-backed Woodpecker,0.10090325,7.0,10.0
+Dryobates pubescens_Downy Woodpecker,0.35878092,8.0,11.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.14167799,8.0,11.0
+Dryobates pubescens_Downy Woodpecker,0.49295405,9.0,12.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.37453282,9.0,12.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.40015882,10.0,13.0
+Dryobates pubescens_Downy Woodpecker,0.17691372,10.0,13.0
+Picoides arcticus_Black-backed Woodpecker,0.16471604,10.0,13.0
+Dryobates pubescens_Downy Woodpecker,0.37995347,11.0,14.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.1513575,11.0,14.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.25359136,12.0,15.0
+Dryobates pubescens_Downy Woodpecker,0.22752564,12.0,15.0
+Picoides arcticus_Black-backed Woodpecker,0.13395908,12.0,15.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.8808492,13.0,16.0
+Picoides dorsalis_American Three-toed Woodpecker,0.23529555,13.0,16.0
+Dryobates pubescens_Downy Woodpecker,0.23486176,13.0,16.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.6861558,14.0,17.0
+Dryobates pubescens_Downy Woodpecker,0.24929278,15.0,18.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.10583758,15.0,18.0
+Dryobates pubescens_Downy Woodpecker,0.38227823,16.0,19.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7487952,17.0,20.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8481597,18.0,21.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.488715,19.0,22.0
+Picoides dorsalis_American Three-toed Woodpecker,0.28114432,19.0,22.0
+Picoides arcticus_Black-backed Woodpecker,0.19716746,19.0,22.0
+Dryobates pubescens_Downy Woodpecker,0.68825006,20.0,23.0
+Dryobates pubescens_Downy Woodpecker,0.5123997,21.0,24.0
+Dryobates pubescens_Downy Woodpecker,0.36200085,22.0,25.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.17917947,26.0,29.0
+Picoides dorsalis_American Three-toed Woodpecker,0.15909968,26.0,29.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.13619848,26.0,29.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.35234088,27.0,30.0
+Picoides arcticus_Black-backed Woodpecker,0.26792964,27.0,30.0
+Dryobates pubescens_Downy Woodpecker,0.2430469,27.0,30.0
+Picoides dorsalis_American Three-toed Woodpecker,0.109109275,27.0,30.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.2183102,28.0,31.0
+Dryobates pubescens_Downy Woodpecker,0.21207732,28.0,31.0
+Picoides arcticus_Black-backed Woodpecker,0.112331994,28.0,31.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.36556703,29.0,32.0
+Dryobates pubescens_Downy Woodpecker,0.23691978,29.0,32.0
+Picoides arcticus_Black-backed Woodpecker,0.13408089,29.0,32.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.49910706,30.0,33.0
+Dryobates pubescens_Downy Woodpecker,0.37773114,30.0,33.0
+Picoides arcticus_Black-backed Woodpecker,0.10415587,30.0,33.0
+Dryobates pubescens_Downy Woodpecker,0.6759309,31.0,34.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.4674857,31.0,34.0
+Dryobates pubescens_Downy Woodpecker,0.5838915,32.0,35.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.28981733,32.0,35.0
+Dendragapus fuliginosus_Sooty Grouse,0.27631223,34.0,37.0
+Myiarchus crinitus_Great Crested Flycatcher,0.7293461,35.0,38.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8378919,36.0,39.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8475771,37.0,40.0
+Myiarchus crinitus_Great Crested Flycatcher,0.713548,41.0,44.0
+Myiarchus crinitus_Great Crested Flycatcher,0.80245453,42.0,45.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9031467,43.0,46.0
+Dryobates pubescens_Downy Woodpecker,0.735767,45.0,48.0
+Dryobates pubescens_Downy Woodpecker,0.74767685,46.0,49.0
+Dryobates pubescens_Downy Woodpecker,0.7039481,47.0,50.0
+Dryobates pubescens_Downy Woodpecker,0.6506112,49.0,52.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.11101996,49.0,52.0
+Dryobates pubescens_Downy Woodpecker,0.7499524,50.0,53.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.10254226,50.0,53.0
+Dryobates pubescens_Downy Woodpecker,0.6663337,51.0,54.0
+Picoides arcticus_Black-backed Woodpecker,0.12754995,51.0,54.0
+Picoides tridactylus_Eurasian Three-toed Woodpecker,0.12390368,51.0,54.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15949914,52.0,55.0
+Myiarchus crinitus_Great Crested Flycatcher,0.6018537,53.0,56.0
+Myiarchus crinitus_Great Crested Flycatcher,0.6299283,54.0,57.0
+Myiarchus crinitus_Great Crested Flycatcher,0.8481069,55.0,58.0

@@ -1,0 +1,44 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.8828223,0.0,3.0
+Melospiza melodia_Song Sparrow,0.5348009,0.0,3.0
+Corvus corax_Common Raven,0.68525213,1.0,4.0
+Corvus corax_Common Raven,0.84539324,2.0,5.0
+Spizella pusilla_Field Sparrow,0.11024875,3.0,6.0
+Spizella pusilla_Field Sparrow,0.26922312,4.0,7.0
+Spizella pusilla_Field Sparrow,0.74861723,5.0,8.0
+Corvus corax_Common Raven,0.79602194,7.0,10.0
+Corvus corax_Common Raven,0.80142206,8.0,11.0
+Psilopogon zeylanicus_Brown-headed Barbet,0.27100396,8.0,11.0
+Psilopogon zeylanicus_Brown-headed Barbet,0.22391215,9.0,12.0
+Corvus corax_Common Raven,0.20860644,9.0,12.0
+Corvus corax_Common Raven,0.6740731,10.0,13.0
+Corvus corax_Common Raven,0.7094493,11.0,14.0
+Melospiza melodia_Song Sparrow,0.12823327,11.0,14.0
+Troglodytes rufociliatus_Rufous-browed Wren,0.515949,13.0,16.0
+Spizella pusilla_Field Sparrow,0.7619297,17.0,20.0
+Corvus corax_Common Raven,0.5959988,18.0,21.0
+Spizella pusilla_Field Sparrow,0.30245975,18.0,21.0
+Corvus corax_Common Raven,0.39851,19.0,22.0
+Corvus corax_Common Raven,0.770242,20.0,23.0
+Corvus corax_Common Raven,0.91870004,21.0,24.0
+Corvus corax_Common Raven,0.91274506,22.0,25.0
+Corvus corax_Common Raven,0.36517563,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.25838447,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.24399671,24.0,27.0
+Corvus corax_Common Raven,0.22504842,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.6840615,25.0,28.0
+Corvus corax_Common Raven,0.4633436,26.0,29.0
+Corvus corax_Common Raven,0.7822338,27.0,30.0
+Psilopogon zeylanicus_Brown-headed Barbet,0.4734554,27.0,30.0
+Corvus corax_Common Raven,0.8019339,28.0,31.0
+Psilopogon zeylanicus_Brown-headed Barbet,0.10742826,28.0,31.0
+Corvus corax_Common Raven,0.8767904,29.0,32.0
+Melospiza melodia_Song Sparrow,0.15908767,30.0,33.0
+Chlorophonia cyanocephala_Golden-rumped Euphonia,0.19448143,32.0,35.0
+Chlorophonia cyanocephala_Golden-rumped Euphonia,0.15411007,33.0,36.0
+Pheucticus melanocephalus_Black-headed Grosbeak,0.11166292,36.0,39.0
+Seiurus aurocapilla_Ovenbird,0.13370752,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.41303882,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.12773505,42.0,45.0
+Setophaga fusca_Blackburnian Warbler,0.12711732,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.11312315,43.0,46.0
