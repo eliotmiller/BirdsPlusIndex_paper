@@ -1,0 +1,713 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.15895775,0.0,3.0
+Empidonax virescens_Acadian Flycatcher,0.15222362,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.11356769,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.11288987,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.13706903,16.0,19.0
+Vireo olivaceus_Red-eyed Vireo,0.10959812,17.0,20.0
+Empidonax virescens_Acadian Flycatcher,0.43082947,22.0,25.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.21209049,22.0,25.0
+Vireo olivaceus_Red-eyed Vireo,0.1673866,23.0,26.0
+Empidonax virescens_Acadian Flycatcher,0.24893126,24.0,27.0
+Vireo olivaceus_Red-eyed Vireo,0.14222826,28.0,31.0
+Empidonax virescens_Acadian Flycatcher,0.11921538,34.0,37.0
+Vireo olivaceus_Red-eyed Vireo,0.36618337,35.0,38.0
+Vireo olivaceus_Red-eyed Vireo,0.19167326,36.0,39.0
+Vireo philadelphicus_Philadelphia Vireo,0.10686227,36.0,39.0
+Carduelis carduelis_European Goldfinch,0.11163889,40.0,43.0
+Vireo olivaceus_Red-eyed Vireo,0.42758426,41.0,44.0
+Vireo olivaceus_Red-eyed Vireo,0.31837776,43.0,46.0
+Seiurus aurocapilla_Ovenbird,0.20189013,46.0,49.0
+Vireo olivaceus_Red-eyed Vireo,0.1112872,47.0,50.0
+Vireo philadelphicus_Philadelphia Vireo,0.127757,48.0,51.0
+Vireo olivaceus_Red-eyed Vireo,0.122350916,50.0,53.0
+Empidonax virescens_Acadian Flycatcher,0.12357656,57.0,60.0
+Empidonax virescens_Acadian Flycatcher,0.107043,58.0,61.0
+Empidonax virescens_Acadian Flycatcher,0.13326652,59.0,62.0
+Empidonax virescens_Acadian Flycatcher,0.11138432,60.0,63.0
+Vireo flavoviridis_Yellow-green Vireo,0.16649759,61.0,64.0
+Vireo olivaceus_Red-eyed Vireo,0.13761845,62.0,65.0
+Empidonax virescens_Acadian Flycatcher,0.124956205,66.0,69.0
+Vireo flavoviridis_Yellow-green Vireo,0.102538794,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.101160206,66.0,69.0
+Empidonax affinis_Pine Flycatcher,0.15943061,69.0,72.0
+Carduelis carduelis_European Goldfinch,0.18951532,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.10270074,73.0,76.0
+Vireo olivaceus_Red-eyed Vireo,0.13160995,78.0,81.0
+Vireo olivaceus_Red-eyed Vireo,0.15083003,79.0,82.0
+Empidonax virescens_Acadian Flycatcher,0.19517365,80.0,83.0
+Empidonax virescens_Acadian Flycatcher,0.1132997,81.0,84.0
+Vireo olivaceus_Red-eyed Vireo,0.10533841,81.0,84.0
+Empidonax oberholseri_Dusky Flycatcher,0.20178641,87.0,90.0
+Sayornis phoebe_Eastern Phoebe,0.21403293,88.0,91.0
+Saxicola rubetra_Whinchat,0.10089791,89.0,92.0
+Empidonax affinis_Pine Flycatcher,0.11216878,91.0,94.0
+Setophaga cerulea_Cerulean Warbler,0.10210536,92.0,95.0
+Seiurus aurocapilla_Ovenbird,0.10896796,93.0,96.0
+Saxicola rubetra_Whinchat,0.327167,94.0,97.0
+Vireo olivaceus_Red-eyed Vireo,0.1192304,94.0,97.0
+Vireo philadelphicus_Philadelphia Vireo,0.16934858,95.0,98.0
+Empidonax virescens_Acadian Flycatcher,0.117586784,97.0,100.0
+Empidonax oberholseri_Dusky Flycatcher,0.12637864,99.0,102.0
+Vireo olivaceus_Red-eyed Vireo,0.13865255,101.0,104.0
+Vireo philadelphicus_Philadelphia Vireo,0.13221827,101.0,104.0
+Empidonax virescens_Acadian Flycatcher,0.12046617,102.0,105.0
+Carduelis carduelis_European Goldfinch,0.41050285,104.0,107.0
+Vireo philadelphicus_Philadelphia Vireo,0.101781905,107.0,110.0
+Vireo olivaceus_Red-eyed Vireo,0.10954701,108.0,111.0
+Vireo olivaceus_Red-eyed Vireo,0.14657405,109.0,112.0
+Setophaga cerulea_Cerulean Warbler,0.15416996,111.0,114.0
+Vireo philadelphicus_Philadelphia Vireo,0.116735615,112.0,115.0
+Vireo philadelphicus_Philadelphia Vireo,0.17171945,113.0,116.0
+Seiurus aurocapilla_Ovenbird,0.16244501,113.0,116.0
+Vireo philadelphicus_Philadelphia Vireo,0.14750707,114.0,117.0
+Seiurus aurocapilla_Ovenbird,0.12214052,115.0,118.0
+Empidonax minimus_Least Flycatcher,0.11254484,117.0,120.0
+Empidonax virescens_Acadian Flycatcher,0.18617748,122.0,125.0
+Vireo philadelphicus_Philadelphia Vireo,0.13637476,127.0,130.0
+Empidonax virescens_Acadian Flycatcher,0.18981016,131.0,134.0
+Vireo philadelphicus_Philadelphia Vireo,0.6908556,134.0,137.0
+Serinus flavivertex_Yellow-crowned Canary,0.11403721,135.0,138.0
+Seiurus aurocapilla_Ovenbird,0.23608375,136.0,139.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.11915228,140.0,143.0
+Carduelis carduelis_European Goldfinch,0.12917884,141.0,144.0
+Vireo flavoviridis_Yellow-green Vireo,0.11956927,143.0,146.0
+Empidonax virescens_Acadian Flycatcher,0.105195954,143.0,146.0
+Empidonax virescens_Acadian Flycatcher,0.11210821,144.0,147.0
+Vireo olivaceus_Red-eyed Vireo,0.22088867,146.0,149.0
+Passer ammodendri_Saxaul Sparrow,0.15885042,149.0,152.0
+Vireo philadelphicus_Philadelphia Vireo,0.11137507,151.0,154.0
+Empidonax virescens_Acadian Flycatcher,0.12996258,153.0,156.0
+Seiurus aurocapilla_Ovenbird,0.18430029,155.0,158.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.11141573,155.0,158.0
+Seiurus aurocapilla_Ovenbird,0.2581502,156.0,159.0
+Seiurus aurocapilla_Ovenbird,0.1163463,157.0,160.0
+Vireo philadelphicus_Philadelphia Vireo,0.15399131,158.0,161.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.13156341,159.0,162.0
+Carduelis carduelis_European Goldfinch,0.2901258,163.0,166.0
+Empidonax virescens_Acadian Flycatcher,0.105156496,167.0,170.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.1134291,168.0,171.0
+Melanocorypha maxima_Tibetan Lark,0.17161174,172.0,175.0
+Passer ammodendri_Saxaul Sparrow,0.37598956,173.0,176.0
+Vireo philadelphicus_Philadelphia Vireo,0.10613594,174.0,177.0
+Seiurus aurocapilla_Ovenbird,0.12393777,181.0,184.0
+Carduelis carduelis_European Goldfinch,0.13882045,184.0,187.0
+Vireo olivaceus_Red-eyed Vireo,0.14306805,189.0,192.0
+Empidonax virescens_Acadian Flycatcher,0.14751813,192.0,195.0
+Empidonax virescens_Acadian Flycatcher,0.15767843,193.0,196.0
+Vireo philadelphicus_Philadelphia Vireo,0.19173995,194.0,197.0
+Vireo olivaceus_Red-eyed Vireo,0.17028849,195.0,198.0
+Vireo philadelphicus_Philadelphia Vireo,0.12895897,195.0,198.0
+Seiurus aurocapilla_Ovenbird,0.1132434,203.0,206.0
+Empidonax virescens_Acadian Flycatcher,0.10161824,203.0,206.0
+Empidonax virescens_Acadian Flycatcher,0.32038116,204.0,207.0
+Empidonax virescens_Acadian Flycatcher,0.10604033,205.0,208.0
+Empidonax virescens_Acadian Flycatcher,0.21923126,207.0,210.0
+Vireo olivaceus_Red-eyed Vireo,0.202802,208.0,211.0
+Vireo olivaceus_Red-eyed Vireo,0.17731129,212.0,215.0
+Carduelis carduelis_European Goldfinch,0.16288663,214.0,217.0
+Carduelis carduelis_European Goldfinch,0.2773685,215.0,218.0
+Saxicola rubetra_Whinchat,0.14054619,216.0,219.0
+Vireo olivaceus_Red-eyed Vireo,0.115814,218.0,221.0
+Empidonax virescens_Acadian Flycatcher,0.14382216,219.0,222.0
+Vireo olivaceus_Red-eyed Vireo,0.16840087,220.0,223.0
+Empidonax virescens_Acadian Flycatcher,0.101809524,221.0,224.0
+Vireo philadelphicus_Philadelphia Vireo,0.20562132,225.0,228.0
+Vireo philadelphicus_Philadelphia Vireo,0.30416048,226.0,229.0
+Protonotaria citrea_Prothonotary Warbler,0.104840435,227.0,230.0
+Empidonax virescens_Acadian Flycatcher,0.51791984,228.0,231.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.12694874,228.0,231.0
+Empidonax virescens_Acadian Flycatcher,0.41986302,229.0,232.0
+Empidonax virescens_Acadian Flycatcher,0.28846312,230.0,233.0
+Empidonax virescens_Acadian Flycatcher,0.11173112,232.0,235.0
+Empidonax virescens_Acadian Flycatcher,0.18151996,233.0,236.0
+Vireo olivaceus_Red-eyed Vireo,0.11042988,233.0,236.0
+Empidonax virescens_Acadian Flycatcher,0.12765454,235.0,238.0
+Empidonax virescens_Acadian Flycatcher,0.1318304,242.0,245.0
+Empidonax virescens_Acadian Flycatcher,0.25822902,243.0,246.0
+Seiurus aurocapilla_Ovenbird,0.1960821,246.0,249.0
+Saxicola rubetra_Whinchat,0.12195929,246.0,249.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.101703785,246.0,249.0
+Tringa flavipes_Lesser Yellowlegs,0.25429106,247.0,250.0
+Setophaga cerulea_Cerulean Warbler,0.19054516,249.0,252.0
+Anthus campestris_Tawny Pipit,0.2152393,253.0,256.0
+Saxicola rubetra_Whinchat,0.26098448,254.0,257.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.20165132,254.0,257.0
+Melanocorypha maxima_Tibetan Lark,0.11909038,259.0,262.0
+Saxicola rubetra_Whinchat,0.118704155,262.0,265.0
+Seiurus aurocapilla_Ovenbird,0.28190574,263.0,266.0
+Seiurus aurocapilla_Ovenbird,0.13077874,264.0,267.0
+Setophaga magnolia_Magnolia Warbler,0.12210526,266.0,269.0
+Vireo solitarius_Blue-headed Vireo,0.13739787,267.0,270.0
+Carduelis carduelis_European Goldfinch,0.17764182,270.0,273.0
+Carduelis carduelis_European Goldfinch,0.34102324,271.0,274.0
+Empidonax affinis_Pine Flycatcher,0.12349625,271.0,274.0
+Empidonax affinis_Pine Flycatcher,0.21219727,272.0,275.0
+Saxicola rubetra_Whinchat,0.15608518,275.0,278.0
+Anthus campestris_Tawny Pipit,0.10325947,276.0,279.0
+Saxicola rubetra_Whinchat,0.17094243,277.0,280.0
+Saxicola rubetra_Whinchat,0.6536032,278.0,281.0
+Carduelis carduelis_European Goldfinch,0.12629752,278.0,281.0
+Emberiza hortulana_Ortolan Bunting,0.11997775,278.0,281.0
+Carduelis carduelis_European Goldfinch,0.24118747,279.0,282.0
+Saxicola rubetra_Whinchat,0.1110074,279.0,282.0
+Melanocorypha maxima_Tibetan Lark,0.10024688,279.0,282.0
+Carduelis carduelis_European Goldfinch,0.610827,280.0,283.0
+Saxicola rubetra_Whinchat,0.100285254,286.0,289.0
+Saxicola rubetra_Whinchat,0.41061398,289.0,292.0
+Protonotaria citrea_Prothonotary Warbler,0.22997463,303.0,306.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12778637,303.0,306.0
+Seiurus aurocapilla_Ovenbird,0.108796105,303.0,306.0
+Setophaga cerulea_Cerulean Warbler,0.10595142,303.0,306.0
+Empidonax virescens_Acadian Flycatcher,0.15495606,307.0,310.0
+Empidonax virescens_Acadian Flycatcher,0.12707385,310.0,313.0
+Empidonax virescens_Acadian Flycatcher,0.25217313,311.0,314.0
+Vireo philadelphicus_Philadelphia Vireo,0.19721602,314.0,317.0
+Vireo philadelphicus_Philadelphia Vireo,0.18312857,315.0,318.0
+Vireo olivaceus_Red-eyed Vireo,0.11241724,315.0,318.0
+Seiurus aurocapilla_Ovenbird,0.2484075,319.0,322.0
+Seiurus aurocapilla_Ovenbird,0.21295702,320.0,323.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10205735,322.0,325.0
+Vireo philadelphicus_Philadelphia Vireo,0.101211615,322.0,325.0
+Tachycineta bicolor_Tree Swallow,0.21009974,324.0,327.0
+Sayornis phoebe_Eastern Phoebe,0.16365598,327.0,330.0
+Vireo philadelphicus_Philadelphia Vireo,0.17223148,336.0,339.0
+Empidonax virescens_Acadian Flycatcher,0.10278156,336.0,339.0
+Seiurus aurocapilla_Ovenbird,0.24650452,339.0,342.0
+Seiurus aurocapilla_Ovenbird,0.16445525,340.0,343.0
+Carduelis carduelis_European Goldfinch,0.13573532,340.0,343.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.14212933,345.0,348.0
+Saxicola rubetra_Whinchat,0.2760738,347.0,350.0
+Seiurus aurocapilla_Ovenbird,0.17785601,358.0,361.0
+Empidonax virescens_Acadian Flycatcher,0.11739512,358.0,361.0
+Helmitheros vermivorum_Worm-eating Warbler,0.114413954,358.0,361.0
+Seiurus aurocapilla_Ovenbird,0.10707857,359.0,362.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.52782315,360.0,363.0
+Seiurus aurocapilla_Ovenbird,0.15880248,360.0,363.0
+Setophaga cerulea_Cerulean Warbler,0.1523515,361.0,364.0
+Helmitheros vermivorum_Worm-eating Warbler,0.112547316,361.0,364.0
+Vireo atricapilla_Black-capped Vireo,0.2616604,362.0,365.0
+Empidonax virescens_Acadian Flycatcher,0.15018229,363.0,366.0
+Empidonax virescens_Acadian Flycatcher,0.16601418,367.0,370.0
+Empidonax virescens_Acadian Flycatcher,0.14000158,368.0,371.0
+Saxicola rubetra_Whinchat,0.21883726,369.0,372.0
+Empidonax virescens_Acadian Flycatcher,0.109370224,372.0,375.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.24558294,380.0,383.0
+Saxicola rubetra_Whinchat,0.12128376,380.0,383.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.10787221,383.0,386.0
+Calandrella cinerea_Red-capped Lark,0.10416813,383.0,386.0
+Passer ammodendri_Saxaul Sparrow,0.15089479,393.0,396.0
+Carduelis carduelis_European Goldfinch,0.12295166,393.0,396.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.451202,395.0,398.0
+Seiurus aurocapilla_Ovenbird,0.30148378,398.0,401.0
+Vireo philadelphicus_Philadelphia Vireo,0.1445445,399.0,402.0
+Seiurus aurocapilla_Ovenbird,0.12440915,399.0,402.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.637051,400.0,403.0
+Passer simplex_Desert Sparrow,0.1709244,400.0,403.0
+Seiurus aurocapilla_Ovenbird,0.16718243,400.0,403.0
+Poodytes punctatus_New Zealand Fernbird,0.10287906,400.0,403.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.11849555,406.0,409.0
+Empidonax oberholseri_Dusky Flycatcher,0.18417163,412.0,415.0
+Empidonax oberholseri_Dusky Flycatcher,0.13457707,413.0,416.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.15385817,415.0,418.0
+Empidonax virescens_Acadian Flycatcher,0.14309375,418.0,421.0
+Seiurus aurocapilla_Ovenbird,0.13976201,418.0,421.0
+Geothlypis philadelphia_Mourning Warbler,0.10995652,419.0,422.0
+Seiurus aurocapilla_Ovenbird,0.12953496,420.0,423.0
+Passer ammodendri_Saxaul Sparrow,0.33308476,423.0,426.0
+Carduelis carduelis_European Goldfinch,0.25284454,423.0,426.0
+Vireo olivaceus_Red-eyed Vireo,0.11011257,428.0,431.0
+Carduelis carduelis_European Goldfinch,0.706458,430.0,433.0
+Empidonax oberholseri_Dusky Flycatcher,0.164377,433.0,436.0
+Vireo olivaceus_Red-eyed Vireo,0.114524774,435.0,438.0
+Seiurus aurocapilla_Ovenbird,0.14902817,437.0,440.0
+Empidonax virescens_Acadian Flycatcher,0.11776965,440.0,443.0
+Vireo philadelphicus_Philadelphia Vireo,0.10577448,447.0,450.0
+Vireo olivaceus_Red-eyed Vireo,0.21139282,448.0,451.0
+Vireo olivaceus_Red-eyed Vireo,0.35651785,449.0,452.0
+Vireo olivaceus_Red-eyed Vireo,0.24133573,452.0,455.0
+Vireo olivaceus_Red-eyed Vireo,0.13955986,453.0,456.0
+Vireo philadelphicus_Philadelphia Vireo,0.112149924,453.0,456.0
+Empidonax virescens_Acadian Flycatcher,0.10288598,453.0,456.0
+Seiurus aurocapilla_Ovenbird,0.11358898,458.0,461.0
+Rhynchophanes mccownii_Thick-billed Longspur,0.12194534,459.0,462.0
+Seiurus aurocapilla_Ovenbird,0.115228586,459.0,462.0
+Empidonax virescens_Acadian Flycatcher,0.16943315,465.0,468.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.22811738,466.0,469.0
+Saxicola rubetra_Whinchat,0.19025292,466.0,469.0
+Melanocorypha maxima_Tibetan Lark,0.21144538,472.0,475.0
+Passer ammodendri_Saxaul Sparrow,0.37176535,473.0,476.0
+Passer ammodendri_Saxaul Sparrow,0.32086116,474.0,477.0
+Saxicola rubetra_Whinchat,0.11357397,476.0,479.0
+Seiurus aurocapilla_Ovenbird,0.10389689,478.0,481.0
+Seiurus aurocapilla_Ovenbird,0.16080713,480.0,483.0
+Empidonax minimus_Least Flycatcher,0.10327021,480.0,483.0
+Saxicola rubetra_Whinchat,0.10959635,485.0,488.0
+Vireo olivaceus_Red-eyed Vireo,0.21823639,488.0,491.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.11180217,490.0,493.0
+Empidonax virescens_Acadian Flycatcher,0.18606515,493.0,496.0
+Empidonax virescens_Acadian Flycatcher,0.37423027,495.0,498.0
+Seiurus aurocapilla_Ovenbird,0.12530681,496.0,499.0
+Seiurus aurocapilla_Ovenbird,0.20499595,497.0,500.0
+Seiurus aurocapilla_Ovenbird,0.1357314,499.0,502.0
+Ammospiza maritima_Seaside Sparrow,0.17464016,500.0,503.0
+Empidonax virescens_Acadian Flycatcher,0.15974355,500.0,503.0
+Mirafra africana_Rufous-naped Lark,0.107159376,505.0,508.0
+Carduelis carduelis_European Goldfinch,0.15629704,515.0,518.0
+Seiurus aurocapilla_Ovenbird,0.21142292,519.0,522.0
+Prunella collaris_Alpine Accentor,0.23263565,520.0,523.0
+Seiurus aurocapilla_Ovenbird,0.11603435,520.0,523.0
+Tachycineta bicolor_Tree Swallow,0.10119581,520.0,523.0
+Passer ammodendri_Saxaul Sparrow,0.10349502,521.0,524.0
+Empidonax virescens_Acadian Flycatcher,0.11097717,534.0,537.0
+Seiurus aurocapilla_Ovenbird,0.16796018,535.0,538.0
+Poodytes punctatus_New Zealand Fernbird,0.6703174,536.0,539.0
+Seiurus aurocapilla_Ovenbird,0.2531488,536.0,539.0
+Seiurus aurocapilla_Ovenbird,0.12775484,538.0,541.0
+Empidonax virescens_Acadian Flycatcher,0.14765476,545.0,548.0
+Empidonax virescens_Acadian Flycatcher,0.323241,546.0,549.0
+Vireo flavoviridis_Yellow-green Vireo,0.106562525,546.0,549.0
+Seiurus aurocapilla_Ovenbird,0.2958213,556.0,559.0
+Seiurus aurocapilla_Ovenbird,0.1258716,557.0,560.0
+Seiurus aurocapilla_Ovenbird,0.4248513,558.0,561.0
+Empidonax virescens_Acadian Flycatcher,0.32364622,561.0,564.0
+Empidonax oberholseri_Dusky Flycatcher,0.10743739,565.0,568.0
+Empidonax oberholseri_Dusky Flycatcher,0.24275728,566.0,569.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.29866162,570.0,573.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.17593761,571.0,574.0
+Vireo olivaceus_Red-eyed Vireo,0.2737821,572.0,575.0
+Vireo olivaceus_Red-eyed Vireo,0.25022396,573.0,576.0
+Vireo olivaceus_Red-eyed Vireo,0.123284996,574.0,577.0
+Seiurus aurocapilla_Ovenbird,0.28965178,576.0,579.0
+Seiurus aurocapilla_Ovenbird,0.12980907,577.0,580.0
+Vireo olivaceus_Red-eyed Vireo,0.106903926,577.0,580.0
+Seiurus aurocapilla_Ovenbird,0.10843322,578.0,581.0
+Ammospiza maritima_Seaside Sparrow,0.12711637,579.0,582.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.11618851,580.0,583.0
+Saxicola rubetra_Whinchat,0.15087056,581.0,584.0
+Carduelis carduelis_European Goldfinch,0.12588182,584.0,587.0
+Vireo flavoviridis_Yellow-green Vireo,0.43536836,589.0,592.0
+Empidonax virescens_Acadian Flycatcher,0.14702058,590.0,593.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.118311435,590.0,593.0
+Saxicola rubetra_Whinchat,0.13711277,592.0,595.0
+Empidonax virescens_Acadian Flycatcher,0.10323189,594.0,597.0
+Vireo olivaceus_Red-eyed Vireo,0.1704905,595.0,598.0
+Empidonax virescens_Acadian Flycatcher,0.13866967,600.0,603.0
+Carduelis carduelis_European Goldfinch,0.12188273,600.0,603.0
+Vireo olivaceus_Red-eyed Vireo,0.15015839,605.0,608.0
+Empidonax virescens_Acadian Flycatcher,0.10672384,605.0,608.0
+Empidonax virescens_Acadian Flycatcher,0.1868102,607.0,610.0
+Carduelis carduelis_European Goldfinch,0.18769988,611.0,614.0
+Empidonax virescens_Acadian Flycatcher,0.11333386,618.0,621.0
+Vireo olivaceus_Red-eyed Vireo,0.15709007,622.0,625.0
+Tachycineta bicolor_Tree Swallow,0.2905626,623.0,626.0
+Vireo philadelphicus_Philadelphia Vireo,0.1288597,625.0,628.0
+Empidonax virescens_Acadian Flycatcher,0.22364275,627.0,630.0
+Empidonax virescens_Acadian Flycatcher,0.43457773,628.0,631.0
+Vireo olivaceus_Red-eyed Vireo,0.10582482,628.0,631.0
+Empidonax virescens_Acadian Flycatcher,0.42095777,629.0,632.0
+Empidonax virescens_Acadian Flycatcher,0.15623653,637.0,640.0
+Setophaga cerulea_Cerulean Warbler,0.11030262,637.0,640.0
+Seiurus aurocapilla_Ovenbird,0.21721673,638.0,641.0
+Setophaga cerulea_Cerulean Warbler,0.11086965,638.0,641.0
+Empidonax virescens_Acadian Flycatcher,0.10977222,638.0,641.0
+Seiurus aurocapilla_Ovenbird,0.16389912,640.0,643.0
+Empidonax virescens_Acadian Flycatcher,0.11772269,642.0,645.0
+Vireo olivaceus_Red-eyed Vireo,0.11376768,642.0,645.0
+Empidonax virescens_Acadian Flycatcher,0.14468697,643.0,646.0
+Vireo olivaceus_Red-eyed Vireo,0.19038929,646.0,649.0
+Vireo olivaceus_Red-eyed Vireo,0.15466648,647.0,650.0
+Empidonax virescens_Acadian Flycatcher,0.110892914,647.0,650.0
+Vireo olivaceus_Red-eyed Vireo,0.18325448,648.0,651.0
+Vireo olivaceus_Red-eyed Vireo,0.11345843,650.0,653.0
+Empidonax affinis_Pine Flycatcher,0.13478772,653.0,656.0
+Prunella collaris_Alpine Accentor,0.18184069,655.0,658.0
+Passer ammodendri_Saxaul Sparrow,0.112064086,655.0,658.0
+Seiurus aurocapilla_Ovenbird,0.12577556,658.0,661.0
+Seiurus aurocapilla_Ovenbird,0.11559821,659.0,662.0
+Geothlypis philadelphia_Mourning Warbler,0.111314796,659.0,662.0
+Empidonax virescens_Acadian Flycatcher,0.15077229,662.0,665.0
+Empidonax oberholseri_Dusky Flycatcher,0.23057565,663.0,666.0
+Empidonax virescens_Acadian Flycatcher,0.117673434,668.0,671.0
+Seiurus aurocapilla_Ovenbird,0.2259386,675.0,678.0
+Vireo solitarius_Blue-headed Vireo,0.12488787,676.0,679.0
+Seiurus aurocapilla_Ovenbird,0.18514329,677.0,680.0
+Seiurus aurocapilla_Ovenbird,0.34928608,678.0,681.0
+Empidonax affinis_Pine Flycatcher,0.12117649,680.0,683.0
+Setophaga cerulea_Cerulean Warbler,0.14255436,684.0,687.0
+Empidonax virescens_Acadian Flycatcher,0.29881835,688.0,691.0
+Empidonax virescens_Acadian Flycatcher,0.15560898,689.0,692.0
+Setophaga cerulea_Cerulean Warbler,0.114223875,696.0,699.0
+Setophaga cerulea_Cerulean Warbler,0.13856314,697.0,700.0
+Setophaga cerulea_Cerulean Warbler,0.11239065,698.0,701.0
+Setophaga cerulea_Cerulean Warbler,0.20802361,699.0,702.0
+Setophaga cerulea_Cerulean Warbler,0.3450519,700.0,703.0
+Setophaga cerulea_Cerulean Warbler,0.15975912,701.0,704.0
+Setophaga cerulea_Cerulean Warbler,0.13549966,710.0,713.0
+Setophaga cerulea_Cerulean Warbler,0.17151707,712.0,715.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10311919,713.0,716.0
+Setophaga cerulea_Cerulean Warbler,0.13372985,714.0,717.0
+Limnothlypis swainsonii_Swainson's Warbler,0.100832485,714.0,717.0
+Seiurus aurocapilla_Ovenbird,0.162401,716.0,719.0
+Seiurus aurocapilla_Ovenbird,0.1275907,717.0,720.0
+Setophaga cerulea_Cerulean Warbler,0.1266837,719.0,722.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11389311,719.0,722.0
+Protonotaria citrea_Prothonotary Warbler,0.14961016,720.0,723.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14914481,720.0,723.0
+Setophaga cerulea_Cerulean Warbler,0.103959806,720.0,723.0
+Setophaga cerulea_Cerulean Warbler,0.19179215,721.0,724.0
+Geothlypis formosa_Kentucky Warbler,0.29140666,736.0,739.0
+Setophaga cerulea_Cerulean Warbler,0.1905481,736.0,739.0
+Tamias striatus_Eastern Chipmunk,0.14641301,737.0,740.0
+Seiurus aurocapilla_Ovenbird,0.12952131,737.0,740.0
+Seiurus aurocapilla_Ovenbird,0.1241971,738.0,741.0
+Tamias striatus_Eastern Chipmunk,0.121881865,738.0,741.0
+Empidonax virescens_Acadian Flycatcher,0.10368515,755.0,758.0
+Elaenia martinica_Caribbean Elaenia,0.11366345,756.0,759.0
+Setophaga cerulea_Cerulean Warbler,0.19049416,758.0,761.0
+Seiurus aurocapilla_Ovenbird,0.13814078,758.0,761.0
+Setophaga cerulea_Cerulean Warbler,0.12491953,759.0,762.0
+Setophaga cerulea_Cerulean Warbler,0.1746831,761.0,764.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10021421,761.0,764.0
+Setophaga cerulea_Cerulean Warbler,0.15826549,762.0,765.0
+Ammospiza maritima_Seaside Sparrow,0.124276645,767.0,770.0
+Setophaga cerulea_Cerulean Warbler,0.10156462,770.0,773.0
+Setophaga cerulea_Cerulean Warbler,0.27866855,771.0,774.0
+Seiurus aurocapilla_Ovenbird,0.10261926,776.0,779.0
+Seiurus aurocapilla_Ovenbird,0.13051896,777.0,780.0
+Setophaga cerulea_Cerulean Warbler,0.10388837,777.0,780.0
+Cardellina rubrifrons_Red-faced Warbler,0.123889625,781.0,784.0
+Brachyramphus marmoratus_Marbled Murrelet,0.19842319,782.0,785.0
+Calandrella acutirostris_Hume's Lark,0.12710814,785.0,788.0
+Cissopis leverianus_Magpie Tanager,0.10395965,790.0,793.0
+Setophaga fusca_Blackburnian Warbler,0.11212819,796.0,799.0
+Pachyramphus validus_Crested Becard,0.12703961,820.0,823.0
+Molothrus ater_Brown-headed Cowbird,0.12040474,820.0,823.0
+Empidonax virescens_Acadian Flycatcher,0.19296202,822.0,825.0
+Empidonax virescens_Acadian Flycatcher,0.106353335,823.0,826.0
+Sayornis phoebe_Eastern Phoebe,0.57259125,826.0,829.0
+Empidonax virescens_Acadian Flycatcher,0.22196373,828.0,831.0
+Sayornis phoebe_Eastern Phoebe,0.12609328,830.0,833.0
+Sayornis phoebe_Eastern Phoebe,0.14912179,831.0,834.0
+Piranga flava_Hepatic Tanager,0.117185816,835.0,838.0
+Saxicola rubetra_Whinchat,0.123558514,839.0,842.0
+Empidonax oberholseri_Dusky Flycatcher,0.2884957,843.0,846.0
+Saxicola rubetra_Whinchat,0.20312247,845.0,848.0
+Saxicola rubetra_Whinchat,0.35560355,846.0,849.0
+Saxicola rubetra_Whinchat,0.14983195,847.0,850.0
+Saxicola rubetra_Whinchat,0.76395005,849.0,852.0
+Anthus campestris_Tawny Pipit,0.32244372,849.0,852.0
+Emberiza hortulana_Ortolan Bunting,0.14635737,849.0,852.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.20579563,850.0,853.0
+Saxicola rubetra_Whinchat,0.5303458,852.0,855.0
+Anthus campestris_Tawny Pipit,0.11467615,852.0,855.0
+Anthus campestris_Tawny Pipit,0.13285582,853.0,856.0
+Saxicola rubetra_Whinchat,0.12483999,853.0,856.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.1912635,855.0,858.0
+Emberizoides herbicola_Wedge-tailed Grass-Finch,0.11702061,855.0,858.0
+Saxicola rubetra_Whinchat,0.26616734,857.0,860.0
+Anthus campestris_Tawny Pipit,0.21166763,857.0,860.0
+Emberiza pallasi_Pallas's Bunting,0.12700672,857.0,860.0
+Alaudala cheleensis_Asian Short-toed Lark,0.13869423,858.0,861.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.108697645,858.0,861.0
+Anthus campestris_Tawny Pipit,0.1490496,861.0,864.0
+Galerida theklae_Thekla's Lark,0.22378606,864.0,867.0
+Motacilla alba_White Wagtail,0.38065043,865.0,868.0
+Saxicola rubetra_Whinchat,0.21859278,865.0,868.0
+Saxicola rubetra_Whinchat,0.30255443,869.0,872.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.29896614,871.0,874.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.86875385,872.0,875.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.73986197,873.0,876.0
+Empidonax oberholseri_Dusky Flycatcher,0.18113112,876.0,879.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.17141072,879.0,882.0
+Empidonax oberholseri_Dusky Flycatcher,0.1222863,883.0,886.0
+Calliope calliope_Siberian Rubythroat,0.10267982,895.0,898.0
+Tachycineta bicolor_Tree Swallow,0.11357451,898.0,901.0
+Saxicola rubetra_Whinchat,0.20235392,907.0,910.0
+Euscarthmus meloryphus_Rufous-crowned Pygmy-Tyrant,0.19707352,910.0,913.0
+Saxicola rubetra_Whinchat,0.1737333,915.0,918.0
+Emberiza hortulana_Ortolan Bunting,0.12724446,915.0,918.0
+Anthus campestris_Tawny Pipit,0.80520594,917.0,920.0
+Saxicola rubetra_Whinchat,0.2894322,917.0,920.0
+Empidonax oberholseri_Dusky Flycatcher,0.106158026,922.0,925.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13079247,924.0,927.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.28841728,925.0,928.0
+Anthus campestris_Tawny Pipit,0.19521329,925.0,928.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.10433948,925.0,928.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.107993394,927.0,930.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.14797986,932.0,935.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.10768114,932.0,935.0
+Passer melanurus_Cape Sparrow,0.13558379,938.0,941.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.101969525,939.0,942.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.11400993,940.0,943.0
+Alaudala cheleensis_Asian Short-toed Lark,0.11686471,942.0,945.0
+Mirafra cheniana_Latakoo Lark,0.18096387,943.0,946.0
+Passer ammodendri_Saxaul Sparrow,0.1719624,946.0,949.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.1008241,949.0,952.0
+Vireo philadelphicus_Philadelphia Vireo,0.18131195,950.0,953.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.103885934,955.0,958.0
+Mirafra cheniana_Latakoo Lark,0.24232955,956.0,959.0
+Anthus campestris_Tawny Pipit,0.1873043,956.0,959.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14768858,956.0,959.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.26253164,958.0,961.0
+Passer ammodendri_Saxaul Sparrow,0.18578535,958.0,961.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.28149784,961.0,964.0
+Passer ammodendri_Saxaul Sparrow,0.2636011,962.0,965.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.13713737,962.0,965.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.22086093,963.0,966.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.3519258,964.0,967.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.10736272,965.0,968.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.17196311,967.0,970.0
+Mirafra cheniana_Latakoo Lark,0.14649083,967.0,970.0
+Mirafra cheniana_Latakoo Lark,0.20424294,968.0,971.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.19613059,968.0,971.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.15750678,970.0,973.0
+Alaudala cheleensis_Asian Short-toed Lark,0.10484906,971.0,974.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.39399922,972.0,975.0
+Calandrella cinerea_Red-capped Lark,0.17570402,972.0,975.0
+Haemorhous cassinii_Cassin's Finch,0.17002045,972.0,975.0
+Alaudala cheleensis_Asian Short-toed Lark,0.10360738,972.0,975.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14798933,973.0,976.0
+Haemorhous cassinii_Cassin's Finch,0.22234997,980.0,983.0
+Mirafra cheniana_Latakoo Lark,0.17232285,981.0,984.0
+Mirafra cheniana_Latakoo Lark,0.12661651,982.0,985.0
+Mirafra cheniana_Latakoo Lark,0.15781224,983.0,986.0
+Passer ammodendri_Saxaul Sparrow,0.14808118,983.0,986.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.11401776,986.0,989.0
+Mirafra cheniana_Latakoo Lark,0.13007484,987.0,990.0
+Passer ammodendri_Saxaul Sparrow,0.10302871,987.0,990.0
+Empidonax oberholseri_Dusky Flycatcher,0.11767369,991.0,994.0
+Anthus campestris_Tawny Pipit,0.11129301,994.0,997.0
+Calandrella cinerea_Red-capped Lark,0.15938643,1000.0,1003.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.15732792,1000.0,1003.0
+Passer ammodendri_Saxaul Sparrow,0.1417991,1000.0,1003.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.110075496,1001.0,1004.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.25434116,1002.0,1005.0
+Anthus campestris_Tawny Pipit,0.12054385,1003.0,1006.0
+Anthus campestris_Tawny Pipit,0.1524418,1004.0,1007.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.1424523,1004.0,1007.0
+Motacilla alba_White Wagtail,0.10989957,1007.0,1010.0
+Emberiza pallasi_Pallas's Bunting,0.1037655,1007.0,1010.0
+Carduelis carduelis_European Goldfinch,0.45476294,1009.0,1012.0
+Anthus campestris_Tawny Pipit,0.14723356,1010.0,1013.0
+Melanocorypha maxima_Tibetan Lark,0.12946562,1010.0,1013.0
+Saxicola rubetra_Whinchat,0.11977243,1010.0,1013.0
+Lullula arborea_Wood Lark,0.11886025,1010.0,1013.0
+Saxicola rubetra_Whinchat,0.30763265,1011.0,1014.0
+Galerida theklae_Thekla's Lark,0.18888994,1011.0,1014.0
+Anthus campestris_Tawny Pipit,0.42917952,1012.0,1015.0
+Saxicola rubetra_Whinchat,0.12990323,1012.0,1015.0
+Passer ammodendri_Saxaul Sparrow,0.10820694,1014.0,1017.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.13646102,1015.0,1018.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.13398531,1016.0,1019.0
+Coturnix pectoralis_Stubble Quail,0.11590781,1016.0,1019.0
+Calandrella cinerea_Red-capped Lark,0.112920254,1016.0,1019.0
+Galerida theklae_Thekla's Lark,0.10214167,1016.0,1019.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.29111722,1017.0,1020.0
+Mirafra cheniana_Latakoo Lark,0.10855527,1017.0,1020.0
+Haemorhous cassinii_Cassin's Finch,0.1748971,1019.0,1022.0
+Empidonax oberholseri_Dusky Flycatcher,0.16986917,1019.0,1022.0
+Empidonax oberholseri_Dusky Flycatcher,0.18009059,1023.0,1026.0
+Mirafra cheniana_Latakoo Lark,0.10783253,1023.0,1026.0
+Alaudala cheleensis_Asian Short-toed Lark,0.14125516,1027.0,1030.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14609142,1032.0,1035.0
+Alauda arvensis_Eurasian Skylark,0.118566975,1032.0,1035.0
+Tachycineta bicolor_Tree Swallow,0.19257249,1033.0,1036.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.12509142,1037.0,1040.0
+Vireo olivaceus_Red-eyed Vireo,0.10334977,1040.0,1043.0
+Vireo olivaceus_Red-eyed Vireo,0.15656786,1045.0,1048.0
+Empidonax virescens_Acadian Flycatcher,0.14045739,1049.0,1052.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14479071,1055.0,1058.0
+Saxicola rubetra_Whinchat,0.2955828,1056.0,1059.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.15701832,1056.0,1059.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.10618131,1057.0,1060.0
+Saxicola rubetra_Whinchat,0.20128043,1058.0,1061.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.21247496,1060.0,1063.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.31853077,1062.0,1065.0
+Passer ammodendri_Saxaul Sparrow,0.22473055,1063.0,1066.0
+Mirafra cheniana_Latakoo Lark,0.14765653,1063.0,1066.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.11780527,1063.0,1066.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.13778634,1064.0,1067.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.12434634,1065.0,1068.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.22251913,1066.0,1069.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.19129781,1067.0,1070.0
+Haemorhous cassinii_Cassin's Finch,0.15483439,1068.0,1071.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.16061188,1071.0,1074.0
+Mirafra cheniana_Latakoo Lark,0.20301175,1072.0,1075.0
+Passer ammodendri_Saxaul Sparrow,0.15149188,1072.0,1075.0
+Empidonax oberholseri_Dusky Flycatcher,0.13196355,1076.0,1079.0
+Haemorhous cassinii_Cassin's Finch,0.10991389,1076.0,1079.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.11077537,1077.0,1080.0
+Empidonax oberholseri_Dusky Flycatcher,0.13079883,1078.0,1081.0
+Empidonax wrightii_Gray Flycatcher,0.10118341,1078.0,1081.0
+Saxicola rubetra_Whinchat,0.14106908,1079.0,1082.0
+Empidonax oberholseri_Dusky Flycatcher,0.22476721,1084.0,1087.0
+Melanocorypha maxima_Tibetan Lark,0.11270339,1086.0,1089.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.15040852,1087.0,1090.0
+Euscarthmus meloryphus_Rufous-crowned Pygmy-Tyrant,0.24294779,1088.0,1091.0
+Empidonax wrightii_Gray Flycatcher,0.13097386,1088.0,1091.0
+Mirafra cheniana_Latakoo Lark,0.109961115,1089.0,1092.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.30217472,1091.0,1094.0
+Alaudala cheleensis_Asian Short-toed Lark,0.11762803,1093.0,1096.0
+Saxicola rubetra_Whinchat,0.21952295,1094.0,1097.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.1758637,1094.0,1097.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.2834911,1095.0,1098.0
+Melanocorypha maxima_Tibetan Lark,0.12271759,1095.0,1098.0
+Saxicola rubetra_Whinchat,0.102234766,1095.0,1098.0
+Oenanthe pleschanka_Pied Wheatear,0.10050875,1095.0,1098.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.2362124,1096.0,1099.0
+Saxicola rubetra_Whinchat,0.19158097,1096.0,1099.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.106977694,1096.0,1099.0
+Mirafra cheniana_Latakoo Lark,0.19287463,1097.0,1100.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14645047,1097.0,1100.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.2681655,1098.0,1101.0
+Mirafra cheniana_Latakoo Lark,0.12345282,1098.0,1101.0
+Melanocorypha maxima_Tibetan Lark,0.13544151,1099.0,1102.0
+Melanocorypha maxima_Tibetan Lark,0.12883358,1100.0,1103.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.10181212,1100.0,1103.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.34353876,1102.0,1105.0
+Mirafra cheniana_Latakoo Lark,0.16139504,1102.0,1105.0
+Melanocorypha maxima_Tibetan Lark,0.4846196,1109.0,1112.0
+Melanocorypha maxima_Tibetan Lark,0.34104636,1110.0,1113.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.25139025,1112.0,1115.0
+Melanocorypha maxima_Tibetan Lark,0.12164616,1112.0,1115.0
+Saxicola rubetra_Whinchat,0.33935848,1113.0,1116.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.12374085,1113.0,1116.0
+Alaudala cheleensis_Asian Short-toed Lark,0.22938065,1114.0,1117.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.13111062,1114.0,1117.0
+Saxicola rubetra_Whinchat,0.12015576,1114.0,1117.0
+Passer ammodendri_Saxaul Sparrow,0.18470933,1116.0,1119.0
+Empidonax oberholseri_Dusky Flycatcher,0.15278488,1116.0,1119.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.14954114,1117.0,1120.0
+Galerida theklae_Thekla's Lark,0.17226815,1119.0,1122.0
+Passer ammodendri_Saxaul Sparrow,0.1767319,1120.0,1123.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.133751,1121.0,1124.0
+Alaudala cheleensis_Asian Short-toed Lark,0.1120591,1121.0,1124.0
+Saxicola rubetra_Whinchat,0.13016373,1123.0,1126.0
+Saxicola rubetra_Whinchat,0.108382314,1124.0,1127.0
+Saxicola rubetra_Whinchat,0.39935142,1125.0,1128.0
+Anthus campestris_Tawny Pipit,0.25115904,1125.0,1128.0
+Alauda arvensis_Eurasian Skylark,0.11719615,1125.0,1128.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.104961246,1125.0,1128.0
+Alauda arvensis_Eurasian Skylark,0.24016178,1130.0,1133.0
+Anthus campestris_Tawny Pipit,0.16449483,1130.0,1133.0
+Motacilla alba_White Wagtail,0.10336224,1130.0,1133.0
+Melanocorypha maxima_Tibetan Lark,0.10223667,1132.0,1135.0
+Empidonax affinis_Pine Flycatcher,0.20904894,1135.0,1138.0
+Passer ammodendri_Saxaul Sparrow,0.12856443,1135.0,1138.0
+Melanocorypha maxima_Tibetan Lark,0.292745,1136.0,1139.0
+Saxicola rubetra_Whinchat,0.36011153,1137.0,1140.0
+Lullula arborea_Wood Lark,0.13625164,1137.0,1140.0
+Saxicola rubetra_Whinchat,0.10579648,1138.0,1141.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.15116121,1144.0,1147.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.11383336,1146.0,1149.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.10996751,1151.0,1154.0
+Vireo olivaceus_Red-eyed Vireo,0.13998392,1154.0,1157.0
+Vireo olivaceus_Red-eyed Vireo,0.1454517,1156.0,1159.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.17033906,1158.0,1161.0
+Empidonax virescens_Acadian Flycatcher,0.11629805,1158.0,1161.0
+Vireo olivaceus_Red-eyed Vireo,0.10617287,1158.0,1161.0
+Sayornis phoebe_Eastern Phoebe,0.13085057,1159.0,1162.0
+Carduelis carduelis_European Goldfinch,0.23466416,1163.0,1166.0
+Calandrella brachydactyla_Greater Short-toed Lark,0.18228436,1165.0,1168.0
+Alauda arvensis_Eurasian Skylark,0.13981117,1165.0,1168.0
+Haemorhous cassinii_Cassin's Finch,0.20160699,1167.0,1170.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.30615544,1169.0,1172.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.121545956,1170.0,1173.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13428025,1175.0,1178.0
+Haemorhous cassinii_Cassin's Finch,0.12148864,1186.0,1189.0
+Vireo olivaceus_Red-eyed Vireo,0.11770231,1190.0,1193.0
+Sayornis phoebe_Eastern Phoebe,0.29648277,1195.0,1198.0
+Empidonax virescens_Acadian Flycatcher,0.21449088,1202.0,1205.0
+Vireo philadelphicus_Philadelphia Vireo,0.19288892,1205.0,1208.0
+Vireo olivaceus_Red-eyed Vireo,0.12762478,1205.0,1208.0
+Vireo olivaceus_Red-eyed Vireo,0.1389908,1206.0,1209.0
+Vireo philadelphicus_Philadelphia Vireo,0.10447523,1206.0,1209.0
+Vireo olivaceus_Red-eyed Vireo,0.1466242,1213.0,1216.0
+Vireo olivaceus_Red-eyed Vireo,0.13760528,1214.0,1217.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.11119584,1215.0,1218.0
+Vireo olivaceus_Red-eyed Vireo,0.13082308,1219.0,1222.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.1445551,1221.0,1224.0
+Empidonax oberholseri_Dusky Flycatcher,0.3930934,1222.0,1225.0
+Empidonax hammondii_Hammond's Flycatcher,0.13066901,1222.0,1225.0
+Empidonax wrightii_Gray Flycatcher,0.11190134,1222.0,1225.0
+Cercotrichas galactotes_Rufous-tailed Scrub-Robin,0.13175869,1228.0,1231.0
+Saxicola rubetra_Whinchat,0.18229303,1233.0,1236.0
+Vireo olivaceus_Red-eyed Vireo,0.113097794,1237.0,1240.0
+Vireo olivaceus_Red-eyed Vireo,0.24305084,1239.0,1242.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.1260183,1239.0,1242.0
+Vireo olivaceus_Red-eyed Vireo,0.5162694,1240.0,1243.0
+Vireo philadelphicus_Philadelphia Vireo,0.15548913,1240.0,1243.0
+Vireo olivaceus_Red-eyed Vireo,0.32024056,1241.0,1244.0
+Empidonax virescens_Acadian Flycatcher,0.11627635,1242.0,1245.0
+Piranga ludoviciana_Western Tanager,0.12961037,1243.0,1246.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.21734136,1245.0,1248.0
+Vireo olivaceus_Red-eyed Vireo,0.12466485,1249.0,1252.0
+Vireo olivaceus_Red-eyed Vireo,0.16641366,1250.0,1253.0
+Vireo olivaceus_Red-eyed Vireo,0.23927808,1251.0,1254.0
+Vireo flavoviridis_Yellow-green Vireo,0.13260145,1251.0,1254.0
+Vireo philadelphicus_Philadelphia Vireo,0.28470045,1254.0,1257.0
+Vireo olivaceus_Red-eyed Vireo,0.26612595,1255.0,1258.0
+Haemorhous cassinii_Cassin's Finch,0.10180259,1256.0,1259.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.31453207,1260.0,1263.0
+Vireo olivaceus_Red-eyed Vireo,0.11128367,1260.0,1263.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.19634062,1261.0,1264.0
+Vireo olivaceus_Red-eyed Vireo,0.18442637,1261.0,1264.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.111622766,1262.0,1265.0
+Haemorhous cassinii_Cassin's Finch,0.1176479,1264.0,1267.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.13825975,1265.0,1268.0
+Vireo olivaceus_Red-eyed Vireo,0.31185824,1267.0,1270.0
+Vireo philadelphicus_Philadelphia Vireo,0.14668943,1267.0,1270.0
+Vireo olivaceus_Red-eyed Vireo,0.3667488,1268.0,1271.0
+Vireo philadelphicus_Philadelphia Vireo,0.14876087,1268.0,1271.0
+Vireo olivaceus_Red-eyed Vireo,0.13318133,1269.0,1272.0
+Vireo philadelphicus_Philadelphia Vireo,0.10928829,1269.0,1272.0
+Haemorhous cassinii_Cassin's Finch,0.11333252,1270.0,1273.0
+Vireo philadelphicus_Philadelphia Vireo,0.10276916,1270.0,1273.0
+Vireo olivaceus_Red-eyed Vireo,0.13235408,1271.0,1274.0
+Empidonax virescens_Acadian Flycatcher,0.11127971,1272.0,1275.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.106230125,1272.0,1275.0
+Vireo olivaceus_Red-eyed Vireo,0.25023526,1273.0,1276.0
+Setophaga magnolia_Magnolia Warbler,0.38792294,1274.0,1277.0
+Vireo philadelphicus_Philadelphia Vireo,0.12077271,1274.0,1277.0
+Vireo philadelphicus_Philadelphia Vireo,0.27705622,1275.0,1278.0
+Vireo olivaceus_Red-eyed Vireo,0.15837358,1275.0,1278.0
+Vireo philadelphicus_Philadelphia Vireo,0.13931908,1276.0,1279.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.2974035,1281.0,1284.0
+Empidonax virescens_Acadian Flycatcher,0.113225825,1281.0,1284.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.9153295,1282.0,1285.0
+Empidonax virescens_Acadian Flycatcher,0.15887289,1282.0,1285.0
+Empidonax flaviventris_Yellow-bellied Flycatcher,0.4666775,1283.0,1286.0
+Empidonax virescens_Acadian Flycatcher,0.14686495,1283.0,1286.0
+Empidonax virescens_Acadian Flycatcher,0.20750716,1284.0,1287.0
+Vireo olivaceus_Red-eyed Vireo,0.16662613,1284.0,1287.0
+Empidonax virescens_Acadian Flycatcher,0.1030689,1285.0,1288.0
+Vireo philadelphicus_Philadelphia Vireo,0.22720183,1286.0,1289.0
+Vireo olivaceus_Red-eyed Vireo,0.10544771,1286.0,1289.0
+Empidonax virescens_Acadian Flycatcher,0.1721705,1287.0,1290.0
+Vireo solitarius_Blue-headed Vireo,0.16464001,1287.0,1290.0
+Vireo philadelphicus_Philadelphia Vireo,0.120613426,1287.0,1290.0
+Vireo olivaceus_Red-eyed Vireo,0.17038721,1288.0,1291.0
+Vireo philadelphicus_Philadelphia Vireo,0.14649309,1292.0,1295.0
+Vireo olivaceus_Red-eyed Vireo,0.17063236,1293.0,1296.0
+Vireo philadelphicus_Philadelphia Vireo,0.39546505,1294.0,1297.0
+Vireo olivaceus_Red-eyed Vireo,0.22920345,1294.0,1297.0
+Vireo olivaceus_Red-eyed Vireo,0.20879278,1295.0,1298.0
+Vireo philadelphicus_Philadelphia Vireo,0.17205518,1295.0,1298.0
+Vireo philadelphicus_Philadelphia Vireo,0.20148453,1296.0,1299.0
+Bombycilla cedrorum_Cedar Waxwing,0.11360794,1314.0,1317.0
+Limnothlypis swainsonii_Swainson's Warbler,0.12463227,1318.0,1321.0
+Setophaga cerulea_Cerulean Warbler,0.1392912,1356.0,1359.0
+Setophaga cerulea_Cerulean Warbler,0.10473194,1358.0,1361.0
+Setophaga cerulea_Cerulean Warbler,0.19086017,1359.0,1362.0
+Setophaga cerulea_Cerulean Warbler,0.10372083,1360.0,1363.0
+Setophaga cerulea_Cerulean Warbler,0.12276297,1364.0,1367.0
+Magumma parva_Anianiau,0.1417154,1378.0,1381.0
+Elaenia martinica_Caribbean Elaenia,0.11099634,1379.0,1382.0
+Elaenia martinica_Caribbean Elaenia,0.116212875,1380.0,1383.0
+Loxops coccineus_Hawaii Akepa,0.28700513,1386.0,1389.0
+Magumma parva_Anianiau,0.102796994,1386.0,1389.0
+Pyrocephalus rubinus_Vermilion Flycatcher,0.10016861,1387.0,1390.0
+Pterophylla camellifolia_Common True Katydid,0.13686852,1389.0,1392.0
+Atlanticus testaceus_Protean Shieldback,0.11309525,1389.0,1392.0
+Pterophylla camellifolia_Common True Katydid,0.10344893,1390.0,1393.0

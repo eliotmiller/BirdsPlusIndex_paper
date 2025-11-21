@@ -1,0 +1,157 @@
+species,score,start_time,end_time
+Molothrus ater_Brown-headed Cowbird,0.8769605,1.0,4.0
+Icteria virens_Yellow-breasted Chat,0.5674473,1.0,4.0
+Pitta steerii_Azure-breasted Pitta,0.3093441,1.0,4.0
+Nyctiprogne leucopyga_Band-tailed Nighthawk,0.206621,1.0,4.0
+Molothrus ater_Brown-headed Cowbird,0.82995737,2.0,5.0
+Icteria virens_Yellow-breasted Chat,0.47443497,2.0,5.0
+Molothrus ater_Brown-headed Cowbird,0.9358733,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.13662855,3.0,6.0
+Icteria virens_Yellow-breasted Chat,0.9903667,4.0,7.0
+Icteria virens_Yellow-breasted Chat,0.9914027,5.0,8.0
+Icterus galbula_Baltimore Oriole,0.10880835,5.0,8.0
+Icteria virens_Yellow-breasted Chat,0.97356784,6.0,9.0
+Icteria virens_Yellow-breasted Chat,0.8550797,7.0,10.0
+Colaptes auratus_Northern Flicker,0.46154484,7.0,10.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.79989403,9.0,12.0
+Icteria virens_Yellow-breasted Chat,0.71560377,9.0,12.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.4250286,10.0,13.0
+Icteria virens_Yellow-breasted Chat,0.38047466,10.0,13.0
+Molothrus ater_Brown-headed Cowbird,0.9287598,11.0,14.0
+Icteria virens_Yellow-breasted Chat,0.37044543,11.0,14.0
+Molothrus ater_Brown-headed Cowbird,0.9700482,12.0,15.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.2306001,12.0,15.0
+Icteria virens_Yellow-breasted Chat,0.20310856,12.0,15.0
+Molothrus ater_Brown-headed Cowbird,0.9107185,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.4418645,13.0,16.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.3945379,13.0,16.0
+Icteria virens_Yellow-breasted Chat,0.9238386,14.0,17.0
+Icteria virens_Yellow-breasted Chat,0.89722943,15.0,18.0
+Icteria virens_Yellow-breasted Chat,0.9535983,16.0,19.0
+Icteria virens_Yellow-breasted Chat,0.6595855,17.0,20.0
+Icteria virens_Yellow-breasted Chat,0.9950164,19.0,22.0
+Icterus galbula_Baltimore Oriole,0.14665167,19.0,22.0
+Icteria virens_Yellow-breasted Chat,0.9990023,20.0,23.0
+Icteria virens_Yellow-breasted Chat,0.9988172,21.0,24.0
+Icteria virens_Yellow-breasted Chat,0.99065584,22.0,25.0
+Icteria virens_Yellow-breasted Chat,0.24006812,24.0,27.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.15484707,24.0,27.0
+Icteria virens_Yellow-breasted Chat,0.7798412,25.0,28.0
+Pitta steerii_Azure-breasted Pitta,0.11432452,25.0,28.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.100472905,25.0,28.0
+Pitta steerii_Azure-breasted Pitta,0.6633832,26.0,29.0
+Icteria virens_Yellow-breasted Chat,0.5829266,26.0,29.0
+Pitta steerii_Azure-breasted Pitta,0.5404095,27.0,30.0
+Icteria virens_Yellow-breasted Chat,0.4785324,27.0,30.0
+Icteria virens_Yellow-breasted Chat,0.5898929,28.0,31.0
+Molothrus ater_Brown-headed Cowbird,0.6120675,29.0,32.0
+Icteria virens_Yellow-breasted Chat,0.95702606,30.0,33.0
+Toxostoma rufum_Brown Thrasher,0.28486922,30.0,33.0
+Icteria virens_Yellow-breasted Chat,0.9606169,31.0,34.0
+Icteria virens_Yellow-breasted Chat,0.94020176,32.0,35.0
+Dendrocolaptes picumnus_Black-banded Woodcreeper,0.14350952,32.0,35.0
+Icteria virens_Yellow-breasted Chat,0.45802566,33.0,36.0
+Icteria virens_Yellow-breasted Chat,0.83694893,34.0,37.0
+Locustella luscinioides_Savi's Warbler,0.24750671,35.0,38.0
+Icteria virens_Yellow-breasted Chat,0.8665269,37.0,40.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.75686586,37.0,40.0
+Icteria virens_Yellow-breasted Chat,0.94597465,38.0,41.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.76280546,38.0,41.0
+Icteria virens_Yellow-breasted Chat,0.95592415,39.0,42.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.73866475,39.0,42.0
+Icteria virens_Yellow-breasted Chat,0.7908008,40.0,43.0
+Toxostoma rufum_Brown Thrasher,0.23019046,40.0,43.0
+Icteria virens_Yellow-breasted Chat,0.9821047,41.0,44.0
+Icteria virens_Yellow-breasted Chat,0.99402905,42.0,45.0
+Toxostoma rufum_Brown Thrasher,0.11073694,42.0,45.0
+Icteria virens_Yellow-breasted Chat,0.84817475,43.0,46.0
+Icteria virens_Yellow-breasted Chat,0.9893895,44.0,47.0
+Icteria virens_Yellow-breasted Chat,0.8609611,45.0,48.0
+Pitta steerii_Azure-breasted Pitta,0.3020763,45.0,48.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.12158917,45.0,48.0
+Pitta steerii_Azure-breasted Pitta,0.49838915,46.0,49.0
+Antrostomus noctitherus_Puerto Rican Nightjar,0.11402528,46.0,49.0
+Pitta steerii_Azure-breasted Pitta,0.5824186,47.0,50.0
+Icteria virens_Yellow-breasted Chat,0.23700401,47.0,50.0
+Icteria virens_Yellow-breasted Chat,0.63873076,48.0,51.0
+Icteria virens_Yellow-breasted Chat,0.75781417,49.0,52.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.14466262,49.0,52.0
+Molothrus ater_Brown-headed Cowbird,0.16690923,50.0,53.0
+Icteria virens_Yellow-breasted Chat,0.9886206,51.0,54.0
+Icterus galbula_Baltimore Oriole,0.10644377,51.0,54.0
+Icteria virens_Yellow-breasted Chat,0.9903376,52.0,55.0
+Icteria virens_Yellow-breasted Chat,0.96989733,53.0,56.0
+Icteria virens_Yellow-breasted Chat,0.95239806,54.0,57.0
+Icteria virens_Yellow-breasted Chat,0.9946554,55.0,58.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.4418887,58.0,61.0
+Icteria virens_Yellow-breasted Chat,0.13726407,58.0,61.0
+Icteria virens_Yellow-breasted Chat,0.47139195,59.0,62.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.31952703,59.0,62.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.66819775,60.0,63.0
+Icteria virens_Yellow-breasted Chat,0.41845405,60.0,63.0
+Aix sponsa_Wood Duck,0.12822916,61.0,64.0
+Icteria virens_Yellow-breasted Chat,0.6370194,62.0,65.0
+Icterus graduacauda_Audubon's Oriole,0.28657097,62.0,65.0
+Vireo griseus_White-eyed Vireo,0.16613252,62.0,65.0
+Pipilo erythrophthalmus_Eastern Towhee,0.12001787,62.0,65.0
+Icteria virens_Yellow-breasted Chat,0.9892948,63.0,66.0
+Icteria virens_Yellow-breasted Chat,0.9979361,64.0,67.0
+Icteria virens_Yellow-breasted Chat,0.97944653,65.0,68.0
+Icteria virens_Yellow-breasted Chat,0.9910603,66.0,69.0
+Colaptes auratus_Northern Flicker,0.17972875,66.0,69.0
+Icteria virens_Yellow-breasted Chat,0.68130386,67.0,70.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.25662982,67.0,70.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.8478052,68.0,71.0
+Icteria virens_Yellow-breasted Chat,0.75227576,68.0,71.0
+Icteria virens_Yellow-breasted Chat,0.5946785,69.0,72.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.47816253,69.0,72.0
+Icteria virens_Yellow-breasted Chat,0.94330746,70.0,73.0
+Icteria virens_Yellow-breasted Chat,0.6917577,71.0,74.0
+Dendrocolaptes picumnus_Black-banded Woodcreeper,0.36652276,72.0,75.0
+Icteria virens_Yellow-breasted Chat,0.62745416,73.0,76.0
+Charadrius vociferus_Killdeer,0.6211486,74.0,77.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.49376994,75.0,78.0
+Icteria virens_Yellow-breasted Chat,0.11723226,75.0,78.0
+Icteria virens_Yellow-breasted Chat,0.17565872,76.0,79.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.16604097,76.0,79.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.2727091,77.0,80.0
+Icteria virens_Yellow-breasted Chat,0.18285736,77.0,80.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.7624405,78.0,81.0
+Charadrius vociferus_Killdeer,0.25918832,80.0,83.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.11680228,80.0,83.0
+Charadrius vociferus_Killdeer,0.18684447,81.0,84.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.12840119,81.0,84.0
+Charadrius vociferus_Killdeer,0.92818475,82.0,85.0
+Charadrius vociferus_Killdeer,0.54229176,83.0,86.0
+Charadrius vociferus_Killdeer,0.5459311,84.0,87.0
+Icteria virens_Yellow-breasted Chat,0.28266627,84.0,87.0
+Charadrius vociferus_Killdeer,0.62846404,85.0,88.0
+Icteria virens_Yellow-breasted Chat,0.41174883,85.0,88.0
+Mimus polyglottos_Northern Mockingbird,0.12729336,85.0,88.0
+Charadrius vociferus_Killdeer,0.82435274,86.0,89.0
+Charadrius vociferus_Killdeer,0.7515512,87.0,90.0
+Charadrius vociferus_Killdeer,0.9427406,88.0,91.0
+Charadrius vociferus_Killdeer,0.9585785,89.0,92.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.71859586,90.0,93.0
+Charadrius vociferus_Killdeer,0.20757285,90.0,93.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.9527979,91.0,94.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.1203978,91.0,94.0
+Icteria virens_Yellow-breasted Chat,0.95342374,92.0,95.0
+Icteria virens_Yellow-breasted Chat,0.97142607,93.0,96.0
+Icteria virens_Yellow-breasted Chat,0.99382764,94.0,97.0
+Icterus galbula_Baltimore Oriole,0.111038394,94.0,97.0
+Icteria virens_Yellow-breasted Chat,0.98837215,95.0,98.0
+Charadrius vociferus_Killdeer,0.43514678,96.0,99.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.85088015,97.0,100.0
+Icteria virens_Yellow-breasted Chat,0.44849715,97.0,100.0
+Nyctanassa violacea_Yellow-crowned Night-Heron,0.15917832,97.0,100.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.8174322,98.0,101.0
+Icteria virens_Yellow-breasted Chat,0.16941622,98.0,101.0
+Nycticorax nycticorax_Black-crowned Night-Heron,0.87401754,99.0,102.0
+Icteria virens_Yellow-breasted Chat,0.8086675,100.0,103.0
+Icteria virens_Yellow-breasted Chat,0.75036216,101.0,104.0
+Zenaida macroura_Mourning Dove,0.1061632,101.0,104.0
+Icteria virens_Yellow-breasted Chat,0.3856879,102.0,104.88
+Myiarchus cinerascens_Ash-throated Flycatcher,0.13222788,102.0,104.88
+Myiarchus tyrannulus_Brown-crested Flycatcher,0.11966793,102.0,104.88
+Bartramia longicauda_Upland Sandpiper,0.1067375,102.0,104.88

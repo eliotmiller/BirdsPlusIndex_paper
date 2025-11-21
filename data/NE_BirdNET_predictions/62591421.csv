@@ -1,0 +1,63 @@
+species,score,start_time,end_time
+Meleagris gallopavo_Wild Turkey,0.11817002,0.0,3.0
+Butorides virescens_Green Heron,0.907686,4.0,7.0
+Momotus aequatorialis_Andean Motmot,0.26790425,4.0,7.0
+Butorides virescens_Green Heron,0.97358716,5.0,8.0
+Momotus aequatorialis_Andean Motmot,0.3570583,5.0,8.0
+Butorides striata_Striated Heron,0.11920597,5.0,8.0
+Butorides virescens_Green Heron,0.971764,6.0,9.0
+Momotus aequatorialis_Andean Motmot,0.6382162,6.0,9.0
+Butorides striata_Striated Heron,0.13534078,6.0,9.0
+Butorides virescens_Green Heron,0.9228756,7.0,10.0
+Momotus aequatorialis_Andean Motmot,0.66229856,7.0,10.0
+Butorides striata_Striated Heron,0.14677407,7.0,10.0
+Butorides virescens_Green Heron,0.55946094,8.0,11.0
+Quiscalus quiscula_Common Grackle,0.21478678,9.0,12.0
+Butorides virescens_Green Heron,0.773751,12.0,15.0
+Butorides virescens_Green Heron,0.81596386,13.0,16.0
+Butorides virescens_Green Heron,0.36769554,14.0,17.0
+Coragyps atratus_Black Vulture,0.21227704,16.0,19.0
+Lithobates clamitans_Green Frog,0.3174544,17.0,20.0
+Butorides virescens_Green Heron,0.11936063,17.0,20.0
+Bombycilla cedrorum_Cedar Waxwing,0.51512116,18.0,21.0
+Lithobates clamitans_Green Frog,0.10582796,18.0,21.0
+Lithobates clamitans_Green Frog,0.43744692,19.0,22.0
+Bombycilla cedrorum_Cedar Waxwing,0.1433681,19.0,22.0
+Lithobates catesbeianus_American Bullfrog,0.74033856,21.0,24.0
+Lithobates catesbeianus_American Bullfrog,0.40679243,22.0,25.0
+Lithobates catesbeianus_American Bullfrog,0.7670169,23.0,26.0
+Bombycilla cedrorum_Cedar Waxwing,0.23631977,24.0,27.0
+Quiscalus quiscula_Common Grackle,0.18130784,24.0,27.0
+Bombycilla cedrorum_Cedar Waxwing,0.45867068,25.0,28.0
+Quiscalus quiscula_Common Grackle,0.17771779,26.0,29.0
+Bombycilla cedrorum_Cedar Waxwing,0.15266688,26.0,29.0
+Butorides virescens_Green Heron,0.7280713,28.0,31.0
+Butorides virescens_Green Heron,0.6743644,29.0,32.0
+Butorides striata_Striated Heron,0.17028877,29.0,32.0
+Butorides virescens_Green Heron,0.8987259,30.0,33.0
+Butorides striata_Striated Heron,0.30090523,30.0,33.0
+Butorides virescens_Green Heron,0.7966403,31.0,34.0
+Butorides striata_Striated Heron,0.20633267,31.0,34.0
+Butorides virescens_Green Heron,0.9215988,32.0,35.0
+Butorides striata_Striated Heron,0.4545925,32.0,35.0
+Butorides virescens_Green Heron,0.70619947,33.0,36.0
+Butorides striata_Striated Heron,0.3955254,33.0,36.0
+Butorides virescens_Green Heron,0.8964654,34.0,37.0
+Butorides striata_Striated Heron,0.20540477,34.0,37.0
+Picus viridis_Eurasian Green Woodpecker,0.14347567,34.0,37.0
+Butorides virescens_Green Heron,0.87835056,35.0,38.0
+Picus viridis_Eurasian Green Woodpecker,0.2531899,35.0,38.0
+Butorides virescens_Green Heron,0.9853711,36.0,39.0
+Picus viridis_Eurasian Green Woodpecker,0.21292621,36.0,39.0
+Butorides virescens_Green Heron,0.9956896,37.0,40.0
+Butorides striata_Striated Heron,0.23787142,37.0,40.0
+Butorides virescens_Green Heron,0.98927397,38.0,41.0
+Butorides striata_Striated Heron,0.2835686,38.0,41.0
+Butorides virescens_Green Heron,0.98384166,39.0,42.0
+Butorides virescens_Green Heron,0.99510854,40.0,43.0
+Butorides striata_Striated Heron,0.2031011,40.0,43.0
+Picus viridis_Eurasian Green Woodpecker,0.16588515,40.0,43.0
+Butorides virescens_Green Heron,0.9892007,41.0,44.0
+Butorides striata_Striated Heron,0.43176445,41.0,44.0
+Picus viridis_Eurasian Green Woodpecker,0.111465044,41.0,44.0
+Mergus merganser_Common Merganser,0.15914452,42.0,44.976009070294786

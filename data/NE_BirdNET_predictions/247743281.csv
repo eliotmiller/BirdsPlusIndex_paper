@@ -1,0 +1,78 @@
+species,score,start_time,end_time
+Corvus brachyrhynchos_American Crow,0.49390745,0.0,3.0
+Corvus brachyrhynchos_American Crow,0.5377357,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.9815087,2.0,5.0
+Corvus brachyrhynchos_American Crow,0.8155548,2.0,5.0
+Setophaga virens_Black-throated Green Warbler,0.96169996,3.0,6.0
+Corvus brachyrhynchos_American Crow,0.83811414,3.0,6.0
+Setophaga virens_Black-throated Green Warbler,0.9891878,4.0,7.0
+Corvus brachyrhynchos_American Crow,0.6999777,4.0,7.0
+Setophaga virens_Black-throated Green Warbler,0.42417163,5.0,8.0
+Setophaga occidentalis_Hermit Warbler,0.33118877,5.0,8.0
+Setophaga townsendi_Townsend's Warbler,0.2103619,5.0,8.0
+Zenaida macroura_Mourning Dove,0.19634165,5.0,8.0
+Zenaida macroura_Mourning Dove,0.71825784,6.0,9.0
+Setophaga virens_Black-throated Green Warbler,0.2142354,6.0,9.0
+Zenaida macroura_Mourning Dove,0.68901753,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.4456452,7.0,10.0
+Setophaga occidentalis_Hermit Warbler,0.20844755,7.0,10.0
+Zenaida macroura_Mourning Dove,0.44541645,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.27156684,8.0,11.0
+Corvus brachyrhynchos_American Crow,0.49221677,9.0,12.0
+Zenaida macroura_Mourning Dove,0.25628644,9.0,12.0
+Corvus brachyrhynchos_American Crow,0.732667,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.3748186,10.0,13.0
+Setophaga virens_Black-throated Green Warbler,0.9978904,11.0,14.0
+Corvus brachyrhynchos_American Crow,0.89417416,11.0,14.0
+Setophaga virens_Black-throated Green Warbler,0.99931824,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.7400107,12.0,15.0
+Setophaga virens_Black-throated Green Warbler,0.98146665,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.5630134,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.46955523,14.0,17.0
+Zenaida macroura_Mourning Dove,0.1057813,14.0,17.0
+Corvus brachyrhynchos_American Crow,0.82429826,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.6865324,15.0,18.0
+Corvus brachyrhynchos_American Crow,0.90832466,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.5064875,16.0,19.0
+Corvus brachyrhynchos_American Crow,0.9763482,17.0,20.0
+Corvus brachyrhynchos_American Crow,0.87582254,18.0,21.0
+Setophaga virens_Black-throated Green Warbler,0.98242044,21.0,24.0
+Setophaga virens_Black-throated Green Warbler,0.99038166,22.0,25.0
+Setophaga virens_Black-throated Green Warbler,0.98461354,23.0,26.0
+Zenaida macroura_Mourning Dove,0.27514023,24.0,27.0
+Certhia americana_Brown Creeper,0.12525928,24.0,27.0
+Zenaida macroura_Mourning Dove,0.21253748,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.13547686,26.0,29.0
+Zenaida macroura_Mourning Dove,0.12952238,26.0,29.0
+Corvus brachyrhynchos_American Crow,0.44421706,27.0,30.0
+Corvus brachyrhynchos_American Crow,0.919201,28.0,31.0
+Setophaga virens_Black-throated Green Warbler,0.9948278,29.0,32.0
+Corvus brachyrhynchos_American Crow,0.5397868,29.0,32.0
+Setophaga virens_Black-throated Green Warbler,0.99736434,30.0,33.0
+Corvus brachyrhynchos_American Crow,0.8781023,30.0,33.0
+Setophaga virens_Black-throated Green Warbler,0.9994098,31.0,34.0
+Corvus brachyrhynchos_American Crow,0.9595915,31.0,34.0
+Setophaga virens_Black-throated Green Warbler,0.99970335,32.0,35.0
+Corvus brachyrhynchos_American Crow,0.92098814,32.0,35.0
+Setophaga virens_Black-throated Green Warbler,0.94779795,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.56020725,33.0,36.0
+Poecile atricapillus_Black-capped Chickadee,0.15671903,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.10273805,33.0,36.0
+Setophaga occidentalis_Hermit Warbler,0.19210105,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.16438165,34.0,37.0
+Certhia americana_Brown Creeper,0.10371926,34.0,37.0
+Columba oenas_Stock Dove,0.18803954,35.0,38.0
+Ficedula parva_Red-breasted Flycatcher,0.17249422,36.0,39.0
+Columba oenas_Stock Dove,0.29721686,37.0,40.0
+Zenaida macroura_Mourning Dove,0.20389372,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.99780864,38.0,41.0
+Setophaga virens_Black-throated Green Warbler,0.99686134,39.0,42.0
+Corvus brachyrhynchos_American Crow,0.8208326,39.0,42.0
+Setophaga virens_Black-throated Green Warbler,0.9993162,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.8370679,40.0,43.0
+Corvus brachyrhynchos_American Crow,0.92692417,41.0,44.0
+Setophaga virens_Black-throated Green Warbler,0.7329603,41.0,44.0
+Corvus brachyrhynchos_American Crow,0.9412527,42.0,45.0
+Setophaga virens_Black-throated Green Warbler,0.31597677,42.0,45.0
+Corvus brachyrhynchos_American Crow,0.8408508,43.0,46.0
+Corvus brachyrhynchos_American Crow,0.82874393,44.0,46.36802721088436

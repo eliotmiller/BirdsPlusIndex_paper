@@ -1,0 +1,95 @@
+species,score,start_time,end_time
+Setophaga ruticilla_American Redstart,0.81651807,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.19557293,0.0,3.0
+Setophaga ruticilla_American Redstart,0.3110816,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.15271252,1.0,4.0
+Setophaga cerulea_Cerulean Warbler,0.13836408,1.0,4.0
+Vireo flavifrons_Yellow-throated Vireo,0.9527902,2.0,5.0
+Vireo flavifrons_Yellow-throated Vireo,0.62213147,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.5748727,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.95773137,4.0,7.0
+Setophaga cerulea_Cerulean Warbler,0.9625656,5.0,8.0
+Vireo flavifrons_Yellow-throated Vireo,0.17229511,5.0,8.0
+Setophaga cerulea_Cerulean Warbler,0.7281214,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.13550213,6.0,9.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.13103338,6.0,9.0
+Vireo flavifrons_Yellow-throated Vireo,0.45117298,7.0,10.0
+Piranga olivacea_Scarlet Tanager,0.28521067,7.0,10.0
+Catharus fuscescens_Veery,0.10556486,7.0,10.0
+Catharus fuscescens_Veery,0.1738138,8.0,11.0
+Geothlypis philadelphia_Mourning Warbler,0.15364368,8.0,11.0
+Setophaga pensylvanica_Chestnut-sided Warbler,0.14142765,8.0,11.0
+Setophaga cerulea_Cerulean Warbler,0.50184685,9.0,12.0
+Setophaga ruticilla_American Redstart,0.2216728,9.0,12.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1124747,9.0,12.0
+Setophaga cerulea_Cerulean Warbler,0.5344267,10.0,13.0
+Setophaga ruticilla_American Redstart,0.3449132,10.0,13.0
+Setophaga cerulea_Cerulean Warbler,0.5882665,11.0,14.0
+Setophaga ruticilla_American Redstart,0.4237252,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.80097485,12.0,15.0
+Setophaga cerulea_Cerulean Warbler,0.95872873,13.0,16.0
+Setophaga cerulea_Cerulean Warbler,0.9584273,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12012227,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.5122262,15.0,18.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.23558518,15.0,18.0
+Vireo flavifrons_Yellow-throated Vireo,0.5779787,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.3036761,17.0,20.0
+Setophaga cerulea_Cerulean Warbler,0.86680585,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.86725605,19.0,22.0
+Vireo flavifrons_Yellow-throated Vireo,0.29954115,19.0,22.0
+Setophaga cerulea_Cerulean Warbler,0.6744973,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.21726157,20.0,23.0
+Vireo flavifrons_Yellow-throated Vireo,0.23681691,21.0,24.0
+Setophaga cerulea_Cerulean Warbler,0.6426801,22.0,25.0
+Catharus fuscescens_Veery,0.2071008,22.0,25.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11792289,22.0,25.0
+Setophaga cerulea_Cerulean Warbler,0.9468228,23.0,26.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14286935,23.0,26.0
+Setophaga cerulea_Cerulean Warbler,0.9562484,24.0,27.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11812372,24.0,27.0
+Setophaga citrina_Hooded Warbler,0.18164511,25.0,28.0
+Setophaga cerulea_Cerulean Warbler,0.12724864,25.0,28.0
+Vireo flavifrons_Yellow-throated Vireo,0.11474831,25.0,28.0
+Setophaga ruticilla_American Redstart,0.38072747,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.1557949,26.0,29.0
+Setophaga cerulea_Cerulean Warbler,0.8125144,27.0,30.0
+Setophaga cerulea_Cerulean Warbler,0.8798851,28.0,31.0
+Setophaga ruticilla_American Redstart,0.10098353,28.0,31.0
+Setophaga cerulea_Cerulean Warbler,0.9147649,29.0,32.0
+Vireo flavifrons_Yellow-throated Vireo,0.1562435,30.0,33.0
+Vireo flavifrons_Yellow-throated Vireo,0.49847817,31.0,34.0
+Catharus fuscescens_Veery,0.2645174,31.0,34.0
+Setophaga cerulea_Cerulean Warbler,0.8441463,32.0,35.0
+Vireo flavifrons_Yellow-throated Vireo,0.20492007,32.0,35.0
+Setophaga cerulea_Cerulean Warbler,0.97146726,33.0,36.0
+Vireo flavifrons_Yellow-throated Vireo,0.1354015,33.0,36.0
+Setophaga cerulea_Cerulean Warbler,0.9538576,34.0,37.0
+Vireo flavifrons_Yellow-throated Vireo,0.6364296,35.0,38.0
+Setophaga cerulea_Cerulean Warbler,0.10548126,35.0,38.0
+Vireo flavifrons_Yellow-throated Vireo,0.78877234,36.0,39.0
+Vireo flavifrons_Yellow-throated Vireo,0.6028187,37.0,40.0
+Piranga olivacea_Scarlet Tanager,0.235521,38.0,41.0
+Vireo flavifrons_Yellow-throated Vireo,0.17753847,38.0,41.0
+Setophaga ruticilla_American Redstart,0.104792334,38.0,41.0
+Vermivora chrysoptera_Golden-winged Warbler,0.1432681,39.0,42.0
+Setophaga cerulea_Cerulean Warbler,0.82818633,40.0,43.0
+Setophaga cerulea_Cerulean Warbler,0.8988468,41.0,44.0
+Vireo flavifrons_Yellow-throated Vireo,0.3283906,41.0,44.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10835585,41.0,44.0
+Setophaga cerulea_Cerulean Warbler,0.80768645,42.0,45.0
+Vireo flavifrons_Yellow-throated Vireo,0.36660805,42.0,45.0
+Vireo flavifrons_Yellow-throated Vireo,0.8987405,43.0,46.0
+Vireo flavifrons_Yellow-throated Vireo,0.89012116,44.0,47.0
+Vireo flavifrons_Yellow-throated Vireo,0.85864824,45.0,48.0
+Setophaga cerulea_Cerulean Warbler,0.9751561,46.0,49.0
+Vireo flavifrons_Yellow-throated Vireo,0.16355698,46.0,49.0
+Setophaga cerulea_Cerulean Warbler,0.99015826,47.0,50.0
+Setophaga cerulea_Cerulean Warbler,0.97392726,48.0,51.0
+Vireo flavifrons_Yellow-throated Vireo,0.6575376,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.17551129,49.0,52.0
+Vireo flavifrons_Yellow-throated Vireo,0.61719704,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.14553976,50.0,53.0
+Setophaga cerulea_Cerulean Warbler,0.98676664,51.0,54.0
+Setophaga cerulea_Cerulean Warbler,0.99340516,52.0,55.0
+Setophaga cerulea_Cerulean Warbler,0.99067163,53.0,55.15201814058957
+Vireo flavifrons_Yellow-throated Vireo,0.23958679,53.0,55.15201814058957

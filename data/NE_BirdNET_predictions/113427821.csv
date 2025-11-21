@@ -1,0 +1,72 @@
+species,score,start_time,end_time
+Aythya valisineria_Canvasback,0.106795914,4.0,7.0
+Bucephala albeola_Bufflehead,0.10191224,4.0,7.0
+Aythya valisineria_Canvasback,0.15010777,5.0,8.0
+Bucephala albeola_Bufflehead,0.13895003,5.0,8.0
+Aythya valisineria_Canvasback,0.21378385,6.0,9.0
+Mergus merganser_Common Merganser,0.1520304,7.0,10.0
+Aythya valisineria_Canvasback,0.10921064,7.0,10.0
+Platalea ajaja_Roseate Spoonbill,0.1785228,9.0,12.0
+Platalea ajaja_Roseate Spoonbill,0.21609266,10.0,13.0
+Bucephala albeola_Bufflehead,0.25137547,14.0,17.0
+Podiceps auritus_Horned Grebe,0.17123215,16.0,19.0
+Calidris pusilla_Semipalmated Sandpiper,0.12914062,17.0,20.0
+Cygnus olor_Mute Swan,0.57665855,19.0,22.0
+Mergus serrator_Red-breasted Merganser,0.13744082,19.0,22.0
+Chroicocephalus philadelphia_Bonaparte's Gull,0.10561077,19.0,22.0
+Platalea ajaja_Roseate Spoonbill,0.11047561,20.0,23.0
+Calidris pusilla_Semipalmated Sandpiper,0.116308935,21.0,24.0
+Calidris maritima_Purple Sandpiper,0.10765485,21.0,24.0
+Calidris pusilla_Semipalmated Sandpiper,0.19770853,22.0,25.0
+Podiceps auritus_Horned Grebe,0.15015335,24.0,27.0
+Ardea alba_Great Egret,0.117461294,24.0,27.0
+Egretta tricolor_Tricolored Heron,0.11300002,28.0,31.0
+Calidris maritima_Purple Sandpiper,0.15609796,29.0,32.0
+Bucephala albeola_Bufflehead,0.13843536,30.0,33.0
+Calidris maritima_Purple Sandpiper,0.10937278,30.0,33.0
+Calidris canutus_Red Knot,0.12189936,31.0,34.0
+Platalea ajaja_Roseate Spoonbill,0.17664833,34.0,37.0
+Egretta tricolor_Tricolored Heron,0.12239942,34.0,37.0
+Calidris maritima_Purple Sandpiper,0.17707425,35.0,38.0
+Egretta tricolor_Tricolored Heron,0.11553414,35.0,38.0
+Aythya americana_Redhead,0.119410425,41.0,44.0
+Bucephala albeola_Bufflehead,0.118815176,41.0,44.0
+Calidris canutus_Red Knot,0.11824604,44.0,47.0
+Calidris pusilla_Semipalmated Sandpiper,0.13618931,47.0,50.0
+Aythya valisineria_Canvasback,0.12018136,50.0,53.0
+Mareca americana_American Wigeon,0.10533194,52.0,55.0
+Aythya valisineria_Canvasback,0.12634465,57.0,60.0
+Calidris pusilla_Semipalmated Sandpiper,0.13311961,60.0,63.0
+Egretta tricolor_Tricolored Heron,0.22038005,61.0,64.0
+Egretta tricolor_Tricolored Heron,0.3271902,62.0,65.0
+Calidris maritima_Purple Sandpiper,0.14085671,62.0,65.0
+Platalea ajaja_Roseate Spoonbill,0.14875443,63.0,66.0
+Calidris maritima_Purple Sandpiper,0.14241052,63.0,66.0
+Aythya collaris_Ring-necked Duck,0.14388566,66.0,69.0
+Mergus merganser_Common Merganser,0.10082349,66.0,69.0
+Egretta tricolor_Tricolored Heron,0.18854271,67.0,70.0
+Calidris maritima_Purple Sandpiper,0.28457925,68.0,71.0
+Egretta tricolor_Tricolored Heron,0.17965557,68.0,71.0
+Egretta tricolor_Tricolored Heron,0.18979149,69.0,72.0
+Calidris maritima_Purple Sandpiper,0.12066414,69.0,72.0
+Sciurus carolinensis_Eastern Gray Squirrel,0.18429695,73.0,76.0
+Gavia immer_Common Loon,0.16218436,80.0,83.0
+Gavia immer_Common Loon,0.2220909,81.0,84.0
+Gavia immer_Common Loon,0.15814248,82.0,85.0
+Fregata magnificens_Magnificent Frigatebird,0.1637744,85.0,88.0
+Aramus guarauna_Limpkin,0.10815416,86.0,89.0
+Egretta tricolor_Tricolored Heron,0.10070297,86.0,89.0
+Calidris canutus_Red Knot,0.27462786,89.0,92.0
+Calidris canutus_Red Knot,0.19547099,90.0,93.0
+Pandion haliaetus_Osprey,0.143949,90.0,93.0
+Calidris canutus_Red Knot,0.1558085,91.0,94.0
+Pandion haliaetus_Osprey,0.14647695,91.0,94.0
+Zosterops luteus_Australian Yellow White-eye,0.37794414,96.0,99.0
+Bucephala albeola_Bufflehead,0.14476122,96.0,99.0
+Oxyura jamaicensis_Ruddy Duck,0.103536904,96.0,99.0
+Bucephala albeola_Bufflehead,0.3561779,97.0,100.0
+Platalea ajaja_Roseate Spoonbill,0.3048059,97.0,100.0
+Mergus merganser_Common Merganser,0.15079193,97.0,100.0
+Oxyura jamaicensis_Ruddy Duck,0.10629695,97.0,100.0
+Egretta tricolor_Tricolored Heron,0.12912555,110.0,113.0
+Ardea alba_Great Egret,0.14555982,115.0,118.0

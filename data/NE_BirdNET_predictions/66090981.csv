@@ -1,0 +1,27 @@
+species,score,start_time,end_time
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.9403662,0.0,3.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.37855834,1.0,4.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.21287328,2.0,5.0
+Hylorchilus navai_Nava's Wren,0.12089724,2.0,5.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.7812086,3.0,6.0
+Pheucticus ludovicianus_Rose-breasted Grosbeak,0.47891915,4.0,7.0
+Lophotriccus pileatus_Scale-crested Pygmy-Tyrant,0.1840869,5.0,8.0
+Bombycilla cedrorum_Cedar Waxwing,0.28738835,6.0,9.0
+Bombycilla cedrorum_Cedar Waxwing,0.18971181,7.0,10.0
+Bombycilla cedrorum_Cedar Waxwing,0.16681994,9.0,12.0
+Bombycilla cedrorum_Cedar Waxwing,0.12348727,10.0,13.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10208523,12.0,15.0
+Sitta carolinensis_White-breasted Nuthatch,0.42973325,21.0,24.0
+Sitta carolinensis_White-breasted Nuthatch,0.114262074,22.0,25.0
+Sitta carolinensis_White-breasted Nuthatch,0.20038208,23.0,26.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.2065515,24.0,27.0
+Aix sponsa_Wood Duck,0.10920285,30.0,33.0
+Sitta carolinensis_White-breasted Nuthatch,0.33794868,35.0,38.0
+Sitta carolinensis_White-breasted Nuthatch,0.14268012,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.1251256,36.0,39.0
+Cyanocitta cristata_Blue Jay,0.16051227,37.0,40.0
+Cyanocitta cristata_Blue Jay,0.16372477,38.0,41.0
+Catharus fuscescens_Veery,0.14303215,42.0,45.0
+Turdus migratorius_American Robin,0.10641963,47.0,50.0
+Turdus ignobilis_Black-billed Thrush,0.2121108,49.0,52.0
+Buteo lineatus_Red-shouldered Hawk,0.10332156,51.0,54.0

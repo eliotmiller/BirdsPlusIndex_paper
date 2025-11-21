@@ -1,0 +1,84 @@
+species,score,start_time,end_time
+Buteo lineatus_Red-shouldered Hawk,0.29282236,0.0,3.0
+Garrulus glandarius_Eurasian Jay,0.28282213,0.0,3.0
+Buteo buteo_Common Buzzard,0.2359743,0.0,3.0
+Buteo buteo_Common Buzzard,0.5942652,1.0,4.0
+Garrulus glandarius_Eurasian Jay,0.24966879,1.0,4.0
+Buteo buteo_Common Buzzard,0.40562034,2.0,5.0
+Buteo lineatus_Red-shouldered Hawk,0.13190763,2.0,5.0
+Garrulus glandarius_Eurasian Jay,0.10677807,2.0,5.0
+Buteo buteo_Common Buzzard,0.6493182,3.0,6.0
+Buteo lineatus_Red-shouldered Hawk,0.11779487,3.0,6.0
+Strepera graculina_Pied Currawong,0.10757558,3.0,6.0
+Pinicola enucleator_Pine Grosbeak,0.100517094,4.0,7.0
+Geothlypis formosa_Kentucky Warbler,0.16003175,8.0,11.0
+Oporornis agilis_Connecticut Warbler,0.12768635,8.0,11.0
+Buteo lineatus_Red-shouldered Hawk,0.9681907,9.0,12.0
+Buteo lineatus_Red-shouldered Hawk,0.9934863,10.0,13.0
+Buteo lineatus_Red-shouldered Hawk,0.997083,11.0,14.0
+Buteo lineatus_Red-shouldered Hawk,0.9974106,12.0,15.0
+Buteo lineatus_Red-shouldered Hawk,0.99775404,13.0,16.0
+Buteo lineatus_Red-shouldered Hawk,0.9913898,14.0,17.0
+Buteo lineatus_Red-shouldered Hawk,0.982882,15.0,18.0
+Sitta carolinensis_White-breasted Nuthatch,0.3885878,16.0,19.0
+Chaetura pelagica_Chimney Swift,0.1068701,17.0,20.0
+Poecile palustris_Marsh Tit,0.11286263,20.0,23.0
+Engine_Engine,0.20807457,29.0,32.0
+Engine_Engine,0.18968026,30.0,33.0
+Engine_Engine,0.16209231,32.0,35.0
+Engine_Engine,0.29196993,38.0,41.0
+Chaetura pelagica_Chimney Swift,0.15312539,39.0,42.0
+Engine_Engine,0.103796326,39.0,42.0
+Buteo lineatus_Red-shouldered Hawk,0.9535407,40.0,43.0
+Buteo lineatus_Red-shouldered Hawk,0.9981902,41.0,44.0
+Buteo lineatus_Red-shouldered Hawk,0.9973694,42.0,45.0
+Buteo lineatus_Red-shouldered Hawk,0.9976676,43.0,46.0
+Buteo lineatus_Red-shouldered Hawk,0.9781676,44.0,47.0
+Buteo lineatus_Red-shouldered Hawk,0.9940309,45.0,48.0
+Columba livia_Rock Pigeon,0.49130976,46.0,49.0
+Engine_Engine,0.22180618,46.0,49.0
+Columba livia_Rock Pigeon,0.79542154,47.0,50.0
+Engine_Engine,0.738777,47.0,50.0
+Engine_Engine,0.5036028,48.0,51.0
+Columba livia_Rock Pigeon,0.46202144,48.0,51.0
+Engine_Engine,0.43207696,49.0,52.0
+Empidonax difficilis_Pacific-slope Flycatcher,0.12416488,56.0,59.0
+Cardinalis sinuatus_Pyrrhuloxia,0.3989077,59.0,62.0
+Cardinalis sinuatus_Pyrrhuloxia,0.27230346,60.0,63.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.27740258,65.0,68.0
+Coccothraustes coccothraustes_Hawfinch,0.13866605,65.0,68.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.37769735,66.0,69.0
+Coccothraustes coccothraustes_Hawfinch,0.21573786,66.0,69.0
+Cardinalis sinuatus_Pyrrhuloxia,0.13818835,66.0,69.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.119624436,67.0,70.0
+Myiothlypis flaveola_Flavescent Warbler,0.11497563,67.0,70.0
+Coccothraustes coccothraustes_Hawfinch,0.2098666,68.0,71.0
+Zonotrichia leucophrys_White-crowned Sparrow,0.107245825,68.0,71.0
+Phylloscopus tenellipes_Pale-legged Leaf Warbler,0.12045747,69.0,72.0
+Alcedo atthis_Common Kingfisher,0.21304739,70.0,73.0
+Aegithalos caudatus_Long-tailed Tit,0.31026843,71.0,74.0
+Alcedo atthis_Common Kingfisher,0.17387001,72.0,75.0
+Phylloscopus borealis_Arctic Warbler,0.16411497,73.0,76.0
+Phylloscopus borealis_Arctic Warbler,0.14225428,74.0,77.0
+Phylloscopus borealis_Arctic Warbler,0.63972306,75.0,78.0
+Parkesia noveboracensis_Northern Waterthrush,0.10046293,75.0,78.0
+Buteo lineatus_Red-shouldered Hawk,0.22715148,77.0,80.0
+Buteo lineatus_Red-shouldered Hawk,0.92454576,78.0,81.0
+Buteo lineatus_Red-shouldered Hawk,0.9920832,79.0,82.0
+Buteo lineatus_Red-shouldered Hawk,0.9975688,80.0,83.0
+Buteo lineatus_Red-shouldered Hawk,0.99953973,81.0,84.0
+Buteo lineatus_Red-shouldered Hawk,0.998231,82.0,85.0
+Buteo lineatus_Red-shouldered Hawk,0.987187,83.0,86.0
+Buteo buteo_Common Buzzard,0.13004786,83.0,86.0
+Buteo lineatus_Red-shouldered Hawk,0.96426314,84.0,87.0
+Buteo lineatus_Red-shouldered Hawk,0.99340135,85.0,88.0
+Buteo lineatus_Red-shouldered Hawk,0.99735814,86.0,89.0
+Buteo lineatus_Red-shouldered Hawk,0.9948324,87.0,90.0
+Buteo lineatus_Red-shouldered Hawk,0.99426657,88.0,91.0
+Buteo lineatus_Red-shouldered Hawk,0.99815506,89.0,92.0
+Buteo lineatus_Red-shouldered Hawk,0.9947983,90.0,93.0
+Buteo jamaicensis_Red-tailed Hawk,0.147964,90.0,93.0
+Buteo jamaicensis_Red-tailed Hawk,0.7880555,91.0,94.0
+Buteo buteo_Common Buzzard,0.33356306,91.0,94.0
+Buteo lineatus_Red-shouldered Hawk,0.2340105,91.0,94.0
+Cacicus chrysonotus_Mountain Cacique,0.12288981,98.0,101.0

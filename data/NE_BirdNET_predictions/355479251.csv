@@ -1,0 +1,94 @@
+species,score,start_time,end_time
+Empidonax virescens_Acadian Flycatcher,0.14339483,0.0,3.0
+Vireo olivaceus_Red-eyed Vireo,0.14273912,0.0,3.0
+Setophaga cerulea_Cerulean Warbler,0.23085208,1.0,4.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.12436249,1.0,4.0
+Setophaga virens_Black-throated Green Warbler,0.62276644,2.0,5.0
+Setophaga cerulea_Cerulean Warbler,0.32241365,2.0,5.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.17016588,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.38385755,3.0,6.0
+Setophaga cerulea_Cerulean Warbler,0.10309954,3.0,6.0
+Seiurus aurocapilla_Ovenbird,0.699412,4.0,7.0
+Seiurus aurocapilla_Ovenbird,0.6482023,5.0,8.0
+Seiurus aurocapilla_Ovenbird,0.5454003,6.0,9.0
+Seiurus aurocapilla_Ovenbird,0.7210929,7.0,10.0
+Helmitheros vermivorum_Worm-eating Warbler,0.18368235,7.0,10.0
+Setophaga citrina_Hooded Warbler,0.12958114,7.0,10.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.21723883,11.0,14.0
+Setophaga cerulea_Cerulean Warbler,0.123875104,12.0,15.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.11057414,12.0,15.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.2292842,13.0,16.0
+Setophaga virens_Black-throated Green Warbler,0.6683111,14.0,17.0
+Setophaga cerulea_Cerulean Warbler,0.16340327,14.0,17.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14828143,14.0,17.0
+Setophaga virens_Black-throated Green Warbler,0.68017304,15.0,18.0
+Setophaga cerulea_Cerulean Warbler,0.1369176,15.0,18.0
+Setophaga virens_Black-throated Green Warbler,0.8235323,16.0,19.0
+Setophaga cerulea_Cerulean Warbler,0.17702875,16.0,19.0
+Setophaga virens_Black-throated Green Warbler,0.9003409,17.0,20.0
+Vireo olivaceus_Red-eyed Vireo,0.1221983,18.0,21.0
+Setophaga cerulea_Cerulean Warbler,0.113529705,19.0,22.0
+Empidonax virescens_Acadian Flycatcher,0.16357638,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.16336611,21.0,24.0
+Vireo olivaceus_Red-eyed Vireo,0.14389329,22.0,25.0
+Geothlypis philadelphia_Mourning Warbler,0.15008226,24.0,27.0
+Geothlypis formosa_Kentucky Warbler,0.104499675,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.6270976,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.775918,26.0,29.0
+Seiurus aurocapilla_Ovenbird,0.8224078,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.5525473,28.0,31.0
+Setophaga citrina_Hooded Warbler,0.2809947,29.0,32.0
+Setophaga cerulea_Cerulean Warbler,0.13338934,29.0,32.0
+Geothlypis formosa_Kentucky Warbler,0.11087,29.0,32.0
+Helmitheros vermivorum_Worm-eating Warbler,0.10953618,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.16887835,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.20187463,32.0,35.0
+Vireo olivaceus_Red-eyed Vireo,0.21170639,33.0,36.0
+Setophaga virens_Black-throated Green Warbler,0.3757621,34.0,37.0
+Setophaga cerulea_Cerulean Warbler,0.29337367,34.0,37.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15600146,34.0,37.0
+Setophaga virens_Black-throated Green Warbler,0.8744727,35.0,38.0
+Setophaga virens_Black-throated Green Warbler,0.6462458,36.0,39.0
+Setophaga cerulea_Cerulean Warbler,0.17073396,36.0,39.0
+Setophaga virens_Black-throated Green Warbler,0.6933314,37.0,40.0
+Setophaga virens_Black-throated Green Warbler,0.32343623,43.0,46.0
+Setophaga virens_Black-throated Green Warbler,0.18138342,44.0,47.0
+Setophaga cerulea_Cerulean Warbler,0.17772727,44.0,47.0
+Setophaga virens_Black-throated Green Warbler,0.39001656,45.0,48.0
+Strix uralensis_Ural Owl,0.11824965,46.0,49.0
+Seiurus aurocapilla_Ovenbird,0.31250778,49.0,52.0
+Geothlypis philadelphia_Mourning Warbler,0.3073675,49.0,52.0
+Setophaga cerulea_Cerulean Warbler,0.29435635,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.21299268,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.7000689,50.0,53.0
+Seiurus aurocapilla_Ovenbird,0.843806,51.0,54.0
+Seiurus aurocapilla_Ovenbird,0.7659335,52.0,55.0
+Seiurus aurocapilla_Ovenbird,0.72478807,53.0,56.0
+Setophaga virens_Black-throated Green Warbler,0.66565204,54.0,57.0
+Setophaga cerulea_Cerulean Warbler,0.23308343,54.0,57.0
+Setophaga virens_Black-throated Green Warbler,0.39318255,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.14800635,55.0,58.0
+Empidonax virescens_Acadian Flycatcher,0.10298828,55.0,58.0
+Setophaga cerulea_Cerulean Warbler,0.17835283,56.0,59.0
+Vireo olivaceus_Red-eyed Vireo,0.12566294,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.100616485,56.0,59.0
+Empidonax virescens_Acadian Flycatcher,0.20481224,57.0,60.0
+Contopus virens_Eastern Wood-Pewee,0.10011786,58.0,61.0
+Vireo olivaceus_Red-eyed Vireo,0.13657716,62.0,65.0
+Vireo olivaceus_Red-eyed Vireo,0.1828164,63.0,66.0
+Contopus virens_Eastern Wood-Pewee,0.13619673,64.0,67.0
+Contopus virens_Eastern Wood-Pewee,0.22137089,65.0,68.0
+Empidonax virescens_Acadian Flycatcher,0.186507,65.0,68.0
+Vireo olivaceus_Red-eyed Vireo,0.1497017,65.0,68.0
+Contopus virens_Eastern Wood-Pewee,0.27723345,66.0,69.0
+Empidonax virescens_Acadian Flycatcher,0.11286795,66.0,69.0
+Vireo olivaceus_Red-eyed Vireo,0.106327794,66.0,69.0
+Setophaga cerulea_Cerulean Warbler,0.14531563,68.0,71.0
+Vireo olivaceus_Red-eyed Vireo,0.12818164,68.0,71.0
+Setophaga fusca_Blackburnian Warbler,0.11159905,68.0,71.0
+Setophaga virens_Black-throated Green Warbler,0.77401894,69.0,72.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.110310726,69.0,72.0
+Setophaga virens_Black-throated Green Warbler,0.910009,70.0,73.0
+Setophaga cerulea_Cerulean Warbler,0.10202039,70.0,73.0
+Setophaga virens_Black-throated Green Warbler,0.61577165,71.0,73.48802721088435
+Setophaga cerulea_Cerulean Warbler,0.15737897,71.0,73.48802721088435

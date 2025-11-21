@@ -1,0 +1,344 @@
+species,score,start_time,end_time
+Sayornis phoebe_Eastern Phoebe,0.999634,0.0,3.0
+Sayornis phoebe_Eastern Phoebe,0.9996377,1.0,4.0
+Sayornis phoebe_Eastern Phoebe,0.999172,2.0,5.0
+Sayornis phoebe_Eastern Phoebe,0.9983065,3.0,6.0
+Sayornis phoebe_Eastern Phoebe,0.9987539,4.0,7.0
+Sayornis phoebe_Eastern Phoebe,0.9481562,5.0,8.0
+Sayornis phoebe_Eastern Phoebe,0.9486537,6.0,9.0
+Mimus polyglottos_Northern Mockingbird,0.14244878,7.0,10.0
+Cardinalis cardinalis_Northern Cardinal,0.10855175,7.0,10.0
+Numenius phaeopus_Whimbrel,0.1486925,8.0,11.0
+Numenius phaeopus_Whimbrel,0.39199695,10.0,13.0
+Numenius phaeopus_Whimbrel,0.58071405,11.0,14.0
+Numenius phaeopus_Whimbrel,0.3630762,12.0,15.0
+Mimus polyglottos_Northern Mockingbird,0.10874626,12.0,15.0
+Haliaeetus leucocephalus_Bald Eagle,0.10466123,12.0,15.0
+Lanius borealis_Northern Shrike,0.19267587,13.0,16.0
+Dryobates minor_Lesser Spotted Woodpecker,0.110810556,14.0,17.0
+Charadrius vociferus_Killdeer,0.3775668,15.0,18.0
+Charadrius vociferus_Killdeer,0.17715594,16.0,19.0
+Caprimulgus europaeus_Eurasian Nightjar,0.40840852,17.0,20.0
+Dryobates minor_Lesser Spotted Woodpecker,0.29439527,17.0,20.0
+Dryobates minor_Lesser Spotted Woodpecker,0.11079223,18.0,21.0
+Charadrius vociferus_Killdeer,0.10091902,18.0,21.0
+Mimus polyglottos_Northern Mockingbird,0.49896064,19.0,22.0
+Charadrius vociferus_Killdeer,0.10179051,19.0,22.0
+Mimus polyglottos_Northern Mockingbird,0.23567194,20.0,23.0
+Oriolus sagittatus_Olive-backed Oriole,0.13632005,20.0,23.0
+Bucephala clangula_Common Goldeneye,0.2174225,22.0,25.0
+Bucephala clangula_Common Goldeneye,0.8889812,23.0,26.0
+Trachyphonus vaillantii_Crested Barbet,0.4327787,23.0,26.0
+Bucephala clangula_Common Goldeneye,0.6241801,24.0,27.0
+Mareca penelope_Eurasian Wigeon,0.14327109,29.0,32.0
+Oriolus sagittatus_Olive-backed Oriole,0.15197857,30.0,33.0
+Poodytes gramineus_Little Grassbird,0.45060182,33.0,36.0
+Poodytes gramineus_Little Grassbird,0.6999867,34.0,37.0
+Mimus polyglottos_Northern Mockingbird,0.14279188,34.0,37.0
+Poodytes gramineus_Little Grassbird,0.32595065,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.2898889,35.0,38.0
+Mimus polyglottos_Northern Mockingbird,0.23374045,36.0,39.0
+Grallaria rufula_Muisca Antpitta,0.16929325,36.0,39.0
+Gracupica nigricollis_Black-collared Starling,0.22936694,37.0,40.0
+Mimus polyglottos_Northern Mockingbird,0.18382855,37.0,40.0
+Mimus gilvus_Tropical Mockingbird,0.15274534,37.0,40.0
+Lanius ludovicianus_Loggerhead Shrike,0.2767927,38.0,41.0
+Gracupica nigricollis_Black-collared Starling,0.36335185,39.0,42.0
+Lanius ludovicianus_Loggerhead Shrike,0.17681511,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.123369746,39.0,42.0
+Mimus polyglottos_Northern Mockingbird,0.1923674,40.0,43.0
+Mimus gilvus_Tropical Mockingbird,0.15573476,40.0,43.0
+Charadrius vociferus_Killdeer,0.12642793,41.0,44.0
+Quiscalus quiscula_Common Grackle,0.13205805,43.0,46.0
+Lanius ludovicianus_Loggerhead Shrike,0.18000787,46.0,49.0
+Lanius ludovicianus_Loggerhead Shrike,0.25496265,47.0,50.0
+Lanius ludovicianus_Loggerhead Shrike,0.25048167,48.0,51.0
+Sturnus vulgaris_European Starling,0.17646576,49.0,52.0
+Quiscalus quiscula_Common Grackle,0.12289347,49.0,52.0
+Sturnus vulgaris_European Starling,0.11923597,50.0,53.0
+Quiscalus quiscula_Common Grackle,0.22313389,51.0,54.0
+Lanius ludovicianus_Loggerhead Shrike,0.3336124,52.0,55.0
+Quiscalus quiscula_Common Grackle,0.21390936,52.0,55.0
+Lanius ludovicianus_Loggerhead Shrike,0.31866297,53.0,56.0
+Quiscalus quiscula_Common Grackle,0.11760669,53.0,56.0
+Quiscalus quiscula_Common Grackle,0.21863621,54.0,57.0
+Mimus polyglottos_Northern Mockingbird,0.172612,56.0,59.0
+Colaptes auratus_Northern Flicker,0.17042914,57.0,60.0
+Colaptes auratus_Northern Flicker,0.45473158,58.0,61.0
+Colaptes auratus_Northern Flicker,0.8446259,59.0,62.0
+Mimus polyglottos_Northern Mockingbird,0.22962427,60.0,63.0
+Mimus polyglottos_Northern Mockingbird,0.5494775,61.0,64.0
+Mimus polyglottos_Northern Mockingbird,0.6609951,62.0,65.0
+Mimus thenca_Chilean Mockingbird,0.11559631,62.0,65.0
+Mimus polyglottos_Northern Mockingbird,0.30597657,63.0,66.0
+Mimus thenca_Chilean Mockingbird,0.2261771,63.0,66.0
+Rostrhamus sociabilis_Snail Kite,0.1386154,68.0,71.0
+Tringa solitaria_Solitary Sandpiper,0.9311457,71.0,74.0
+Tringa solitaria_Solitary Sandpiper,0.9919253,72.0,75.0
+Actitis hypoleucos_Common Sandpiper,0.10969837,72.0,75.0
+Tringa solitaria_Solitary Sandpiper,0.89265877,73.0,76.0
+Actitis hypoleucos_Common Sandpiper,0.5766341,73.0,76.0
+Tringa solitaria_Solitary Sandpiper,0.95942295,74.0,77.0
+Actitis hypoleucos_Common Sandpiper,0.80782264,74.0,77.0
+Actitis hypoleucos_Common Sandpiper,0.9344829,75.0,78.0
+Tringa solitaria_Solitary Sandpiper,0.59800804,75.0,78.0
+Actitis hypoleucos_Common Sandpiper,0.9756571,76.0,79.0
+Tringa solitaria_Solitary Sandpiper,0.19993454,76.0,79.0
+Tringa solitaria_Solitary Sandpiper,0.1398155,77.0,80.0
+Actitis macularius_Spotted Sandpiper,0.120976485,78.0,81.0
+Tringa ochropus_Green Sandpiper,0.11203772,78.0,81.0
+Actitis macularius_Spotted Sandpiper,0.26692358,79.0,82.0
+Tringa ochropus_Green Sandpiper,0.25444883,79.0,82.0
+Tringa ochropus_Green Sandpiper,0.36693403,80.0,83.0
+Actitis macularius_Spotted Sandpiper,0.35374185,80.0,83.0
+Tringa ochropus_Green Sandpiper,0.61928016,81.0,84.0
+Actitis macularius_Spotted Sandpiper,0.59743685,81.0,84.0
+Mimus polyglottos_Northern Mockingbird,0.1917331,82.0,85.0
+Cinclus mexicanus_American Dipper,0.13239679,82.0,85.0
+Turdus mandarinus_Chinese Blackbird,0.119851656,82.0,85.0
+Cyanocorax yncas_Green Jay,0.4159669,83.0,86.0
+Mimus polyglottos_Northern Mockingbird,0.14180994,83.0,86.0
+Mimus polyglottos_Northern Mockingbird,0.4289507,84.0,87.0
+Mimus polyglottos_Northern Mockingbird,0.21420358,85.0,88.0
+Cyanocorax yncas_Green Jay,0.13167052,85.0,88.0
+Gracupica nigricollis_Black-collared Starling,0.10222208,86.0,89.0
+Quiscalus mexicanus_Great-tailed Grackle,0.10083093,86.0,89.0
+Cacomantis pallidus_Pallid Cuckoo,0.21980928,87.0,90.0
+Cacomantis pallidus_Pallid Cuckoo,0.23377484,89.0,92.0
+Cacomantis pallidus_Pallid Cuckoo,0.15578601,90.0,93.0
+Picus canus_Gray-headed Woodpecker,0.13308701,90.0,93.0
+Heteromyias albispecularis_Ashy Robin,0.10838441,90.0,93.0
+Mimus polyglottos_Northern Mockingbird,0.10305627,91.0,94.0
+Poodytes gramineus_Little Grassbird,0.14506009,92.0,95.0
+Poodytes gramineus_Little Grassbird,0.4362089,93.0,96.0
+Psophodes nigrogularis_Western Whipbird,0.13928375,93.0,96.0
+Sturnella neglecta_Western Meadowlark,0.10423463,93.0,96.0
+Elanus leucurus_White-tailed Kite,0.48684114,95.0,98.0
+Rallus aquaticus_Water Rail,0.19922759,95.0,98.0
+Tyto alba_Barn Owl,0.14883053,96.0,99.0
+Melanitta americana_Black Scoter,0.20981435,97.0,100.0
+Tyto alba_Barn Owl,0.17639218,97.0,100.0
+Melanitta americana_Black Scoter,0.28535977,98.0,101.0
+Melanitta americana_Black Scoter,0.21085848,99.0,102.0
+Melanitta nigra_Common Scoter,0.18778825,99.0,102.0
+Prosthemadera novaeseelandiae_Tui,0.1123258,100.0,103.0
+Tyto alba_Barn Owl,0.12937963,101.0,104.0
+Tyto alba_Barn Owl,0.20520881,102.0,105.0
+Corvus cornix_Hooded Crow,0.1377241,104.0,107.0
+Calyptorhynchus banksii_Red-tailed Black-Cockatoo,0.118504,105.0,108.0
+Corvus corone_Carrion Crow,0.60531527,106.0,109.0
+Corvus cornix_Hooded Crow,0.25592533,106.0,109.0
+Cyanocitta cristata_Blue Jay,0.13617907,107.0,110.0
+Corvus corone_Carrion Crow,0.108733796,107.0,110.0
+Cyanocitta cristata_Blue Jay,0.14788254,108.0,111.0
+Cyanocitta cristata_Blue Jay,0.45460796,109.0,112.0
+Sitta carolinensis_White-breasted Nuthatch,0.22034986,109.0,112.0
+Cyanocitta cristata_Blue Jay,0.67427427,110.0,113.0
+Cyanocitta cristata_Blue Jay,0.6951289,111.0,114.0
+Cyanocitta cristata_Blue Jay,0.73761827,112.0,115.0
+Cyanocitta cristata_Blue Jay,0.29414782,113.0,116.0
+Mimus polyglottos_Northern Mockingbird,0.25113428,114.0,117.0
+Cyanocitta cristata_Blue Jay,0.2256893,114.0,117.0
+Mimus polyglottos_Northern Mockingbird,0.7621241,115.0,118.0
+Cyanocitta cristata_Blue Jay,0.27130356,115.0,118.0
+Mimus polyglottos_Northern Mockingbird,0.7479368,116.0,119.0
+Cyanocitta cristata_Blue Jay,0.14146012,116.0,119.0
+Mimus polyglottos_Northern Mockingbird,0.9372503,117.0,120.0
+Mimus polyglottos_Northern Mockingbird,0.98258346,118.0,121.0
+Mimus patagonicus_Patagonian Mockingbird,0.10994994,118.0,121.0
+Mimus polyglottos_Northern Mockingbird,0.81966645,119.0,122.0
+Mimus polyglottos_Northern Mockingbird,0.7518834,120.0,123.0
+Charadrius vociferus_Killdeer,0.14970465,120.0,123.0
+Charadrius vociferus_Killdeer,0.5830626,121.0,124.0
+Charadrius vociferus_Killdeer,0.97988623,122.0,125.0
+Charadrius vociferus_Killdeer,0.98604983,123.0,126.0
+Mimus polyglottos_Northern Mockingbird,0.32122126,124.0,127.0
+Charadrius vociferus_Killdeer,0.12877367,124.0,127.0
+Falco sparverius_American Kestrel,0.116866566,124.0,127.0
+Turdus philomelos_Song Thrush,0.1019806,124.0,127.0
+Turdus philomelos_Song Thrush,0.23913611,125.0,128.0
+Mimus polyglottos_Northern Mockingbird,0.21489249,125.0,128.0
+Toxostoma rufum_Brown Thrasher,0.20443936,125.0,128.0
+Mimus polyglottos_Northern Mockingbird,0.7195286,126.0,129.0
+Turdus philomelos_Song Thrush,0.21360195,126.0,129.0
+Toxostoma rufum_Brown Thrasher,0.1362612,126.0,129.0
+Toxostoma redivivum_California Thrasher,0.103071734,126.0,129.0
+Mimus polyglottos_Northern Mockingbird,0.56907153,127.0,130.0
+Toxostoma rufum_Brown Thrasher,0.28177366,127.0,130.0
+Toxostoma redivivum_California Thrasher,0.25420758,127.0,130.0
+Mimus polyglottos_Northern Mockingbird,0.3281663,128.0,131.0
+Icterus galbula_Baltimore Oriole,0.6120441,129.0,132.0
+Icterus cucullatus_Hooded Oriole,0.22399303,129.0,132.0
+Icterus galbula_Baltimore Oriole,0.35872877,130.0,133.0
+Icterus cucullatus_Hooded Oriole,0.31961694,130.0,133.0
+Megaceryle alcyon_Belted Kingfisher,0.20428786,130.0,133.0
+Icterus bullockii_Bullock's Oriole,0.18609685,130.0,133.0
+Icterus cucullatus_Hooded Oriole,0.48625344,131.0,134.0
+Haemorhous mexicanus_House Finch,0.42834303,131.0,134.0
+Icterus galbula_Baltimore Oriole,0.24379708,131.0,134.0
+Icterus bullockii_Bullock's Oriole,0.112497896,131.0,134.0
+Haemorhous mexicanus_House Finch,0.2273862,132.0,135.0
+Icterus galbula_Baltimore Oriole,0.22401425,132.0,135.0
+Icterus cucullatus_Hooded Oriole,0.14885959,132.0,135.0
+Haemorhous mexicanus_House Finch,0.42236915,133.0,136.0
+Icterus cucullatus_Hooded Oriole,0.3572907,133.0,136.0
+Icterus galbula_Baltimore Oriole,0.116549544,133.0,136.0
+Megaceryle alcyon_Belted Kingfisher,0.4754596,134.0,137.0
+Megaceryle alcyon_Belted Kingfisher,0.4417159,135.0,138.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.40347257,135.0,138.0
+Melanerpes erythrocephalus_Red-headed Woodpecker,0.39477107,135.0,138.0
+Engine_Engine,0.34816527,136.0,139.0
+Sialia sialis_Eastern Bluebird,0.5041157,145.0,148.0
+Sialia sialis_Eastern Bluebird,0.9339559,146.0,149.0
+Sialia sialis_Eastern Bluebird,0.9960135,147.0,150.0
+Sialia sialis_Eastern Bluebird,0.95186013,148.0,151.0
+Sialia sialis_Eastern Bluebird,0.8515474,149.0,152.0
+Icterus galbula_Baltimore Oriole,0.30282816,149.0,152.0
+Sialia sialis_Eastern Bluebird,0.9251914,150.0,153.0
+Sialia sialis_Eastern Bluebird,0.92776066,151.0,154.0
+Icterus galbula_Baltimore Oriole,0.14043564,151.0,154.0
+Sialia sialis_Eastern Bluebird,0.9965077,152.0,155.0
+Sialia sialis_Eastern Bluebird,0.99416673,153.0,156.0
+Sialia sialis_Eastern Bluebird,0.99902344,154.0,157.0
+Sialia sialis_Eastern Bluebird,0.9928369,155.0,158.0
+Sialia sialis_Eastern Bluebird,0.9986299,156.0,159.0
+Sialia sialis_Eastern Bluebird,0.9972824,157.0,160.0
+Sialia sialis_Eastern Bluebird,0.50988007,158.0,161.0
+Mimus polyglottos_Northern Mockingbird,0.77093047,159.0,162.0
+Toxostoma rufum_Brown Thrasher,0.15215774,159.0,162.0
+Toxostoma crissale_Crissal Thrasher,0.119731575,159.0,162.0
+Mimus polyglottos_Northern Mockingbird,0.9205957,160.0,163.0
+Mimus polyglottos_Northern Mockingbird,0.8795939,161.0,164.0
+Mimus polyglottos_Northern Mockingbird,0.379226,162.0,165.0
+Acrocephalus australis_Australian Reed Warbler,0.15819685,162.0,165.0
+Mimus gilvus_Tropical Mockingbird,0.113480754,162.0,165.0
+Mimus polyglottos_Northern Mockingbird,0.32967833,163.0,166.0
+Melaniparus cinerascens_Ashy Tit,0.14864051,163.0,166.0
+Mimus gilvus_Tropical Mockingbird,0.14208375,163.0,166.0
+Sitta europaea_Eurasian Nuthatch,0.30412948,164.0,167.0
+Charadrius vociferus_Killdeer,0.34644583,165.0,168.0
+Mimus polyglottos_Northern Mockingbird,0.34985122,166.0,169.0
+Charadrius vociferus_Killdeer,0.7949887,167.0,170.0
+Mimus polyglottos_Northern Mockingbird,0.3732109,167.0,170.0
+Charadrius vociferus_Killdeer,0.7066129,168.0,171.0
+Mimus polyglottos_Northern Mockingbird,0.49588576,168.0,171.0
+Charadrius vociferus_Killdeer,0.36860293,169.0,172.0
+Charadrius vociferus_Killdeer,0.13430542,170.0,173.0
+Euphagus cyanocephalus_Brewer's Blackbird,0.30587834,171.0,174.0
+Cyanocitta cristata_Blue Jay,0.6504496,173.0,176.0
+Lanius borealis_Northern Shrike,0.27234906,173.0,176.0
+Cyanocitta cristata_Blue Jay,0.68640035,174.0,177.0
+Lanius borealis_Northern Shrike,0.17728147,174.0,177.0
+Cyanocitta cristata_Blue Jay,0.76517856,175.0,178.0
+Mimus polyglottos_Northern Mockingbird,0.59786826,176.0,179.0
+Cyanocitta cristata_Blue Jay,0.33667797,176.0,179.0
+Mimus polyglottos_Northern Mockingbird,0.25162682,177.0,180.0
+Mimus polyglottos_Northern Mockingbird,0.200188,179.0,182.0
+Mimus polyglottos_Northern Mockingbird,0.32571754,180.0,183.0
+Charadrius vociferus_Killdeer,0.73131776,182.0,185.0
+Charadrius vociferus_Killdeer,0.49587157,183.0,186.0
+Mimus polyglottos_Northern Mockingbird,0.103270546,183.0,186.0
+Charadrius vociferus_Killdeer,0.9141569,184.0,187.0
+Mimus polyglottos_Northern Mockingbird,0.12026297,184.0,187.0
+Charadrius vociferus_Killdeer,0.9651783,185.0,188.0
+Charadrius vociferus_Killdeer,0.9751409,186.0,189.0
+Charadrius vociferus_Killdeer,0.9754082,187.0,190.0
+Charadrius vociferus_Killdeer,0.98065645,188.0,191.0
+Actitis macularius_Spotted Sandpiper,0.5373846,189.0,192.0
+Tringa ochropus_Green Sandpiper,0.46723884,189.0,192.0
+Tringa solitaria_Solitary Sandpiper,0.40586713,189.0,192.0
+Tringa ochropus_Green Sandpiper,0.28447282,190.0,193.0
+Actitis macularius_Spotted Sandpiper,0.2759466,190.0,193.0
+Tringa solitaria_Solitary Sandpiper,0.2487114,190.0,193.0
+Actitis macularius_Spotted Sandpiper,0.17605916,191.0,194.0
+Actitis macularius_Spotted Sandpiper,0.21073525,192.0,195.0
+Mimus polyglottos_Northern Mockingbird,0.2619306,195.0,198.0
+Mimus polyglottos_Northern Mockingbird,0.516381,196.0,199.0
+Tringa nebularia_Common Greenshank,0.10784356,196.0,199.0
+Mimus polyglottos_Northern Mockingbird,0.37555018,197.0,200.0
+Tringa nebularia_Common Greenshank,0.36810848,197.0,200.0
+Mimus polyglottos_Northern Mockingbird,0.5748491,198.0,201.0
+Tringa nebularia_Common Greenshank,0.14346342,198.0,201.0
+Mimus polyglottos_Northern Mockingbird,0.4203984,199.0,202.0
+Mimus gilvus_Tropical Mockingbird,0.16407824,199.0,202.0
+Mimus polyglottos_Northern Mockingbird,0.6847449,200.0,203.0
+Mimus polyglottos_Northern Mockingbird,0.478795,201.0,204.0
+Mimus polyglottos_Northern Mockingbird,0.21824622,202.0,205.0
+Tyrannus dominicensis_Gray Kingbird,0.45692533,206.0,209.0
+Tyrannus melancholicus_Tropical Kingbird,0.4077714,206.0,209.0
+Tyrannus melancholicus_Tropical Kingbird,0.369032,207.0,210.0
+Actitis macularius_Spotted Sandpiper,0.1254426,213.0,216.0
+Actitis macularius_Spotted Sandpiper,0.17282532,214.0,217.0
+Cardinalis cardinalis_Northern Cardinal,0.22711278,215.0,218.0
+Actitis macularius_Spotted Sandpiper,0.12339784,215.0,218.0
+Cardinalis cardinalis_Northern Cardinal,0.7899672,216.0,219.0
+Numenius phaeopus_Whimbrel,0.21125188,216.0,219.0
+Charadrius vociferus_Killdeer,0.28947014,217.0,220.0
+Charadrius vociferus_Killdeer,0.9707427,218.0,221.0
+Charadrius vociferus_Killdeer,0.96850735,219.0,222.0
+Charadrius vociferus_Killdeer,0.96892637,220.0,223.0
+Charadrius vociferus_Killdeer,0.92370355,221.0,224.0
+Charadrius vociferus_Killdeer,0.7866287,222.0,225.0
+Charadrius vociferus_Killdeer,0.9115595,223.0,226.0
+Charadrius vociferus_Killdeer,0.9327428,224.0,227.0
+Charadrius vociferus_Killdeer,0.99184775,225.0,228.0
+Charadrius vociferus_Killdeer,0.9926726,226.0,229.0
+Charadrius vociferus_Killdeer,0.98897284,227.0,230.0
+Charadrius vociferus_Killdeer,0.9944336,228.0,231.0
+Charadrius vociferus_Killdeer,0.93989813,229.0,232.0
+Charadrius vociferus_Killdeer,0.87511706,230.0,233.0
+Charadrius vociferus_Killdeer,0.7733664,231.0,234.0
+Quiscalus quiscula_Common Grackle,0.16714995,234.0,237.0
+Mimus polyglottos_Northern Mockingbird,0.121222645,234.0,237.0
+Rallus limicola_Virginia Rail,0.1028348,234.0,237.0
+Quiscalus quiscula_Common Grackle,0.44454432,235.0,238.0
+Lanius ludovicianus_Loggerhead Shrike,0.103950165,235.0,238.0
+Lanius ludovicianus_Loggerhead Shrike,0.38918707,236.0,239.0
+Mimus polyglottos_Northern Mockingbird,0.23133148,236.0,239.0
+Quiscalus quiscula_Common Grackle,0.10321962,236.0,239.0
+Cyanocitta cristata_Blue Jay,0.57967705,237.0,240.0
+Lanius ludovicianus_Loggerhead Shrike,0.17853509,237.0,240.0
+Lanius borealis_Northern Shrike,0.1299643,237.0,240.0
+Cyanocitta cristata_Blue Jay,0.18626584,238.0,241.0
+Lanius ludovicianus_Loggerhead Shrike,0.12992822,238.0,241.0
+Cyanocitta cristata_Blue Jay,0.3700235,239.0,242.0
+Cyanocitta cristata_Blue Jay,0.4743654,240.0,243.0
+Apus apus_Common Swift,0.52752614,242.0,245.0
+Elaenia albiceps_White-crested Elaenia,0.15388738,248.0,251.0
+Elaenia albiceps_White-crested Elaenia,0.29561412,251.0,254.0
+Mimus gilvus_Tropical Mockingbird,0.11818457,252.0,255.0
+Elaenia albiceps_White-crested Elaenia,0.14273287,253.0,256.0
+Sturnus vulgaris_European Starling,0.19784862,255.0,258.0
+Sturnus vulgaris_European Starling,0.18540189,256.0,259.0
+Quiscalus quiscula_Common Grackle,0.14279862,257.0,260.0
+Quiscalus quiscula_Common Grackle,0.15903123,258.0,261.0
+Sturnus vulgaris_European Starling,0.11759217,258.0,261.0
+Sturnus vulgaris_European Starling,0.5871823,260.0,263.0
+Quiscalus quiscula_Common Grackle,0.11952635,260.0,263.0
+Sturnus vulgaris_European Starling,0.76881766,261.0,264.0
+Sturnus vulgaris_European Starling,0.124731466,262.0,265.0
+Myiopsitta monachus_Monk Parakeet,0.22601344,263.0,266.0
+Arundinax aedon_Thick-billed Warbler,0.14065316,264.0,267.0
+Lanius schach_Long-tailed Shrike,0.12164644,265.0,268.0
+Myiopsitta monachus_Monk Parakeet,0.10403856,265.0,268.0
+Lanius collurio_Red-backed Shrike,0.3233318,266.0,269.0
+Rallus crepitans_Clapper Rail,0.102114804,267.0,270.0
+Mimus polyglottos_Northern Mockingbird,0.16294427,269.0,272.0
+Mimus polyglottos_Northern Mockingbird,0.16235298,270.0,273.0
+Quiscalus mexicanus_Great-tailed Grackle,0.2524368,271.0,274.0
+Quiscalus mexicanus_Great-tailed Grackle,0.27823254,272.0,275.0
+Mimus polyglottos_Northern Mockingbird,0.10045143,272.0,275.0
+Quiscalus mexicanus_Great-tailed Grackle,0.38116637,273.0,276.0
+Mimus saturninus_Chalk-browed Mockingbird,0.1229974,273.0,276.0
+Mimus saturninus_Chalk-browed Mockingbird,0.21425654,274.0,277.0
+Dumetella carolinensis_Gray Catbird,0.12402279,277.0,280.0
+Macronyx capensis_Orange-throated Longclaw,0.3780516,278.0,281.0
+Milvago chimango_Chimango Caracara,0.13041538,280.0,283.0
+Milvago chimango_Chimango Caracara,0.19047579,281.0,284.0
+Engine_Engine,0.2920367,282.0,285.0
+Milvago chimango_Chimango Caracara,0.17810741,282.0,285.0
+Uria aalge_Common Murre,0.10206591,282.0,285.0
+Engine_Engine,0.28072137,283.0,286.0
+Engine_Engine,0.31226712,284.0,287.0
+Engine_Engine,0.25660586,285.0,288.0
+Engine_Engine,0.18270291,286.0,288.6480272108844

@@ -1,0 +1,28 @@
+species,score,start_time,end_time
+Corvus corax_Common Raven,0.5831155,0.0,3.0
+Ardea herodias_Great Blue Heron,0.5420589,0.0,3.0
+Ardea herodias_Great Blue Heron,0.43798128,1.0,4.0
+Egretta thula_Snowy Egret,0.20832816,1.0,4.0
+Corvus corax_Common Raven,0.106095284,1.0,4.0
+Odocoileus virginianus_White-tailed Deer,0.10508352,1.0,4.0
+Ardea herodias_Great Blue Heron,0.72913617,2.0,5.0
+Egretta thula_Snowy Egret,0.2107263,2.0,5.0
+Ardea alba_Great Egret,0.119533,2.0,5.0
+Ixobrychus exilis_Least Bittern,0.19864213,3.0,6.0
+Ardea herodias_Great Blue Heron,0.47266313,4.0,7.0
+Ardea herodias_Great Blue Heron,0.5279214,5.0,8.0
+Ardea herodias_Great Blue Heron,0.23161663,6.0,9.0
+Melospiza georgiana_Swamp Sparrow,0.24269463,8.0,11.0
+Melospiza georgiana_Swamp Sparrow,0.26981014,9.0,12.0
+Agelaius phoeniceus_Red-winged Blackbird,0.1907832,11.0,14.0
+Agelaius phoeniceus_Red-winged Blackbird,0.14658016,14.0,17.0
+Spatula discors_Blue-winged Teal,0.117820494,16.0,19.0
+Ixobrychus exilis_Least Bittern,0.116346784,17.0,20.0
+Ixobrychus exilis_Least Bittern,0.13234548,18.0,21.0
+Spatula discors_Blue-winged Teal,0.1219274,18.0,21.0
+Porzana carolina_Sora,0.12060516,18.0,21.0
+Spinus psaltria_Lesser Goldfinch,0.16751832,22.0,25.0
+Agelaius phoeniceus_Red-winged Blackbird,0.110494114,22.0,25.0
+Spinus psaltria_Lesser Goldfinch,0.2172558,23.0,26.0
+Agelaius phoeniceus_Red-winged Blackbird,0.21560933,25.0,28.0
+Agelaius phoeniceus_Red-winged Blackbird,0.20640549,26.0,28.27201814058957
