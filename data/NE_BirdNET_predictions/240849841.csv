@@ -1,0 +1,77 @@
+species,score,start_time,end_time
+Hylocichla mustelina_Wood Thrush,0.42382154,0.0,3.0
+Seiurus aurocapilla_Ovenbird,0.3080859,0.0,3.0
+Geothlypis formosa_Kentucky Warbler,0.13447888,0.0,3.0
+Hylocichla mustelina_Wood Thrush,0.5566875,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.33880156,1.0,4.0
+Seiurus aurocapilla_Ovenbird,0.30508548,2.0,5.0
+Seiurus aurocapilla_Ovenbird,0.26119143,3.0,6.0
+Corvus ossifragus_Fish Crow,0.32062313,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.13463402,5.0,8.0
+Empidonax virescens_Acadian Flycatcher,0.123956054,6.0,9.0
+Protonotaria citrea_Prothonotary Warbler,0.113951154,6.0,9.0
+Geothlypis formosa_Kentucky Warbler,0.119799785,7.0,10.0
+Empidonax virescens_Acadian Flycatcher,0.11470347,7.0,10.0
+Seiurus aurocapilla_Ovenbird,0.45677212,8.0,11.0
+Seiurus aurocapilla_Ovenbird,0.8124245,9.0,12.0
+Seiurus aurocapilla_Ovenbird,0.88291955,10.0,13.0
+Seiurus aurocapilla_Ovenbird,0.8951995,11.0,14.0
+Seiurus aurocapilla_Ovenbird,0.94574255,12.0,15.0
+Corvus brachyrhynchos_American Crow,0.11074186,12.0,15.0
+Geothlypis formosa_Kentucky Warbler,0.12665159,13.0,16.0
+Seiurus aurocapilla_Ovenbird,0.28524074,14.0,17.0
+Geothlypis formosa_Kentucky Warbler,0.13852721,14.0,17.0
+Protonotaria citrea_Prothonotary Warbler,0.10025552,14.0,17.0
+Seiurus aurocapilla_Ovenbird,0.12067647,16.0,19.0
+Seiurus aurocapilla_Ovenbird,0.13858886,17.0,20.0
+Corvus ossifragus_Fish Crow,0.13234612,18.0,21.0
+Seiurus aurocapilla_Ovenbird,0.73142856,22.0,25.0
+Seiurus aurocapilla_Ovenbird,0.7800315,23.0,26.0
+Seiurus aurocapilla_Ovenbird,0.9706778,24.0,27.0
+Seiurus aurocapilla_Ovenbird,0.9492204,25.0,28.0
+Corvus brachyrhynchos_American Crow,0.1461792,25.0,28.0
+Seiurus aurocapilla_Ovenbird,0.96912587,26.0,29.0
+Corvus brachyrhynchos_American Crow,0.114962846,26.0,29.0
+Corvus brachyrhynchos_American Crow,0.13854147,27.0,30.0
+Seiurus aurocapilla_Ovenbird,0.34382236,28.0,31.0
+Corvus brachyrhynchos_American Crow,0.34108514,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.104925305,28.0,31.0
+Corvus brachyrhynchos_American Crow,0.49274412,29.0,32.0
+Seiurus aurocapilla_Ovenbird,0.44012627,29.0,32.0
+Vireo olivaceus_Red-eyed Vireo,0.21199249,29.0,32.0
+Corvus brachyrhynchos_American Crow,0.6259374,30.0,33.0
+Hylocichla mustelina_Wood Thrush,0.121143304,30.0,33.0
+Corvus brachyrhynchos_American Crow,0.6476073,31.0,34.0
+Hylocichla mustelina_Wood Thrush,0.42600274,31.0,34.0
+Vireo olivaceus_Red-eyed Vireo,0.107359625,31.0,34.0
+Corvus brachyrhynchos_American Crow,0.5516531,32.0,35.0
+Seiurus aurocapilla_Ovenbird,0.35690272,32.0,35.0
+Dumetella carolinensis_Gray Catbird,0.32055625,32.0,35.0
+Hylocichla mustelina_Wood Thrush,0.17620389,32.0,35.0
+Corvus brachyrhynchos_American Crow,0.61861247,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.44075984,33.0,36.0
+Seiurus aurocapilla_Ovenbird,0.27409574,33.0,36.0
+Pipilo erythrophthalmus_Eastern Towhee,0.25429904,33.0,36.0
+Corvus brachyrhynchos_American Crow,0.68596834,34.0,37.0
+Seiurus aurocapilla_Ovenbird,0.6217063,34.0,37.0
+Corvus brachyrhynchos_American Crow,0.5208205,35.0,38.0
+Seiurus aurocapilla_Ovenbird,0.11488723,35.0,38.0
+Corvus brachyrhynchos_American Crow,0.4822581,36.0,39.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10747248,36.0,39.0
+Corvus brachyrhynchos_American Crow,0.6042073,37.0,40.0
+Vireo olivaceus_Red-eyed Vireo,0.164412,37.0,40.0
+Corvus brachyrhynchos_American Crow,0.23743306,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.13805619,38.0,41.0
+Seiurus aurocapilla_Ovenbird,0.40699294,39.0,42.0
+Seiurus aurocapilla_Ovenbird,0.88370943,40.0,43.0
+Seiurus aurocapilla_Ovenbird,0.84856594,41.0,44.0
+Seiurus aurocapilla_Ovenbird,0.81184644,42.0,45.0
+Seiurus aurocapilla_Ovenbird,0.89219385,43.0,46.0
+Corvus brachyrhynchos_American Crow,0.16149676,44.0,47.0
+Corvus brachyrhynchos_American Crow,0.35181677,45.0,48.0
+Corvus brachyrhynchos_American Crow,0.3261393,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.292706,46.0,49.0
+Hylocichla mustelina_Wood Thrush,0.3671141,47.0,50.0
+Corvus brachyrhynchos_American Crow,0.245822,47.0,50.0
+Empidonax virescens_Acadian Flycatcher,0.16271093,48.0,50.592018140589566
+Hylocichla mustelina_Wood Thrush,0.13068758,48.0,50.592018140589566

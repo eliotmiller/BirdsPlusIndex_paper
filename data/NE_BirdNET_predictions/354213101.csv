@@ -1,0 +1,67 @@
+species,score,start_time,end_time
+Cardinalis cardinalis_Northern Cardinal,0.10494412,2.0,5.0
+Thryothorus ludovicianus_Carolina Wren,0.97231466,3.0,6.0
+Thryothorus ludovicianus_Carolina Wren,0.9775235,4.0,7.0
+Thryothorus ludovicianus_Carolina Wren,0.42613903,5.0,8.0
+Amazona viridigenalis_Red-crowned Parrot,0.18678351,8.0,11.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10558121,10.0,13.0
+Limnothlypis swainsonii_Swainson's Warbler,0.11136882,28.0,31.0
+Thryothorus ludovicianus_Carolina Wren,0.88716197,30.0,33.0
+Thryothorus ludovicianus_Carolina Wren,0.93742716,31.0,34.0
+Thryothorus ludovicianus_Carolina Wren,0.9830687,32.0,35.0
+Thryothorus ludovicianus_Carolina Wren,0.8005426,33.0,36.0
+Catharus mexicanus_Black-headed Nightingale-Thrush,0.11096304,34.0,37.0
+Protonotaria citrea_Prothonotary Warbler,0.17550224,35.0,38.0
+Limnothlypis swainsonii_Swainson's Warbler,0.124769606,35.0,38.0
+Vireo solitarius_Blue-headed Vireo,0.14695594,36.0,39.0
+Thryothorus ludovicianus_Carolina Wren,0.96928173,37.0,40.0
+Thryothorus ludovicianus_Carolina Wren,0.99313724,38.0,41.0
+Thryothorus ludovicianus_Carolina Wren,0.8082753,39.0,42.0
+Thryothorus ludovicianus_Carolina Wren,0.5994937,40.0,43.0
+Protonotaria citrea_Prothonotary Warbler,0.11807041,41.0,44.0
+Vireo gilvus_Warbling Vireo,0.14458922,42.0,45.0
+Lithobates clamitans_Green Frog,0.48695907,44.0,47.0
+Protonotaria citrea_Prothonotary Warbler,0.14045905,44.0,47.0
+Lithobates clamitans_Green Frog,0.2991019,45.0,48.0
+Ardea herodias_Great Blue Heron,0.27077585,46.0,49.0
+Catharus fuscescens_Veery,0.33549142,48.0,51.0
+Piranga olivacea_Scarlet Tanager,0.14008547,55.0,58.0
+Limnothlypis swainsonii_Swainson's Warbler,0.17512622,60.0,63.0
+Protonotaria citrea_Prothonotary Warbler,0.1044638,61.0,64.0
+Sylvia atricapilla_Eurasian Blackcap,0.10452688,67.0,70.0
+Lithobates clamitans_Green Frog,0.49671498,75.0,78.0
+Lithobates clamitans_Green Frog,0.33722124,76.0,79.0
+Vireo gilvus_Warbling Vireo,0.19026235,76.0,79.0
+Protonotaria citrea_Prothonotary Warbler,0.115857944,76.0,79.0
+Vireo gilvus_Warbling Vireo,0.2461776,77.0,80.0
+Protonotaria citrea_Prothonotary Warbler,0.16010211,77.0,80.0
+Vireo gilvus_Warbling Vireo,0.2289645,78.0,81.0
+Catharus fuscescens_Veery,0.107012704,80.0,83.0
+Catharus fuscescens_Veery,0.49805188,81.0,84.0
+Limnothlypis swainsonii_Swainson's Warbler,0.109093145,85.0,88.0
+Limnothlypis swainsonii_Swainson's Warbler,0.18498805,86.0,89.0
+Limnothlypis swainsonii_Swainson's Warbler,0.10509724,87.0,90.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.45664495,90.0,93.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.73521,91.0,94.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.412503,92.0,95.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.32664466,93.0,96.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.9584934,95.0,98.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.8432305,96.0,99.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.50350344,97.0,100.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.66516495,98.0,101.0
+Delichon urbicum_Common House-Martin,0.104213975,98.0,101.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.9222703,99.0,102.0
+Delichon urbicum_Common House-Martin,0.47832993,99.0,102.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.8854215,100.0,103.0
+Delichon urbicum_Common House-Martin,0.28116426,100.0,103.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.7452666,101.0,104.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.30733106,102.0,105.0
+Delichon urbicum_Common House-Martin,0.12956212,104.0,107.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.64393455,105.0,108.0
+Delichon urbicum_Common House-Martin,0.60169756,105.0,108.0
+Delichon urbicum_Common House-Martin,0.8577418,106.0,109.0
+Stelgidopteryx serripennis_Northern Rough-winged Swallow,0.40228832,106.0,109.0
+Ficedula hypoleuca_European Pied Flycatcher,0.116016224,106.0,109.0
+Delichon urbicum_Common House-Martin,0.13366018,107.0,110.0
+Lithobates clamitans_Green Frog,0.498715,109.0,112.0
+Lithobates catesbeianus_American Bullfrog,0.10337633,109.0,112.0

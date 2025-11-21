@@ -1,0 +1,70 @@
+species,score,start_time,end_time
+Piranga olivacea_Scarlet Tanager,0.8007106,0.0,3.0
+Piranga olivacea_Scarlet Tanager,0.42844838,1.0,4.0
+Piranga olivacea_Scarlet Tanager,0.45018014,2.0,5.0
+Setophaga pinus_Pine Warbler,0.2978631,2.0,5.0
+Setophaga pinus_Pine Warbler,0.25678456,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.10460713,3.0,6.0
+Setophaga pinus_Pine Warbler,0.7149277,4.0,7.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.5704388,5.0,8.0
+Setophaga pinus_Pine Warbler,0.1762969,5.0,8.0
+Hylocichla mustelina_Wood Thrush,0.5585103,7.0,10.0
+Setophaga virens_Black-throated Green Warbler,0.18966751,7.0,10.0
+Hylocichla mustelina_Wood Thrush,0.5290717,8.0,11.0
+Hylocichla mustelina_Wood Thrush,0.4966731,9.0,12.0
+Piranga olivacea_Scarlet Tanager,0.11146241,11.0,14.0
+Piranga olivacea_Scarlet Tanager,0.630904,12.0,15.0
+Setophaga pinus_Pine Warbler,0.19695236,12.0,15.0
+Piranga olivacea_Scarlet Tanager,0.582427,13.0,16.0
+Setophaga pinus_Pine Warbler,0.13327736,13.0,16.0
+Setophaga pinus_Pine Warbler,0.4581299,14.0,17.0
+Piranga olivacea_Scarlet Tanager,0.43359393,14.0,17.0
+Helmitheros vermivorum_Worm-eating Warbler,0.12689897,14.0,17.0
+Setophaga pinus_Pine Warbler,0.27582934,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.17434077,15.0,18.0
+Piranga olivacea_Scarlet Tanager,0.14163348,15.0,18.0
+Myiarchus crinitus_Great Crested Flycatcher,0.28243518,16.0,19.0
+Hylocichla mustelina_Wood Thrush,0.4767246,18.0,21.0
+Hylocichla mustelina_Wood Thrush,0.696204,19.0,22.0
+Hylocichla mustelina_Wood Thrush,0.738595,20.0,23.0
+Piranga olivacea_Scarlet Tanager,0.42321113,21.0,24.0
+Piranga olivacea_Scarlet Tanager,0.7726602,22.0,25.0
+Helmitheros vermivorum_Worm-eating Warbler,0.13224281,22.0,25.0
+Piranga olivacea_Scarlet Tanager,0.88783824,23.0,26.0
+Piranga olivacea_Scarlet Tanager,0.6593102,24.0,27.0
+Piranga olivacea_Scarlet Tanager,0.6976541,25.0,28.0
+Hylocichla mustelina_Wood Thrush,0.51674986,26.0,29.0
+Piranga olivacea_Scarlet Tanager,0.10522936,26.0,29.0
+Myiarchus crinitus_Great Crested Flycatcher,0.10485889,26.0,29.0
+Hylocichla mustelina_Wood Thrush,0.60208046,27.0,30.0
+Baeolophus bicolor_Tufted Titmouse,0.116958134,27.0,30.0
+Hylocichla mustelina_Wood Thrush,0.6761048,28.0,31.0
+Sitta carolinensis_White-breasted Nuthatch,0.30005842,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.55488706,31.0,34.0
+Piranga olivacea_Scarlet Tanager,0.8259563,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.511911,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.1645759,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.4619134,34.0,37.0
+Hylocichla mustelina_Wood Thrush,0.27475965,34.0,37.0
+Sitta carolinensis_White-breasted Nuthatch,0.3271157,36.0,39.0
+Hylocichla mustelina_Wood Thrush,0.14730301,36.0,39.0
+Sitta carolinensis_White-breasted Nuthatch,0.7891493,37.0,40.0
+Hylocichla mustelina_Wood Thrush,0.50930953,38.0,41.0
+Hylocichla mustelina_Wood Thrush,0.6660937,39.0,42.0
+Hylocichla mustelina_Wood Thrush,0.811226,40.0,43.0
+Molothrus ater_Brown-headed Cowbird,0.18472366,41.0,44.0
+Piranga olivacea_Scarlet Tanager,0.340983,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.5889827,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.109875575,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.86268586,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.26068336,46.0,49.0
+Myiarchus crinitus_Great Crested Flycatcher,0.2268846,46.0,49.0
+Setophaga pinus_Pine Warbler,0.2333714,47.0,50.0
+Ixoreus naevius_Varied Thrush,0.28838652,48.0,51.0
+Ixoreus naevius_Varied Thrush,0.14850058,49.0,52.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.35823438,50.0,53.0
+Piranga olivacea_Scarlet Tanager,0.37727994,51.0,54.0
+Piranga olivacea_Scarlet Tanager,0.80134994,52.0,55.0
+Piranga olivacea_Scarlet Tanager,0.9165369,53.0,56.0
+Piranga olivacea_Scarlet Tanager,0.4632481,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.35642475,55.0,57.19201814058957

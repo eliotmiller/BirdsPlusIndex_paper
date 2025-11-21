@@ -1,0 +1,159 @@
+species,score,start_time,end_time
+Setophaga fusca_Blackburnian Warbler,0.81826675,0.0,3.0
+Setophaga fusca_Blackburnian Warbler,0.8536652,1.0,4.0
+Setophaga fusca_Blackburnian Warbler,0.83532155,2.0,5.0
+Setophaga fusca_Blackburnian Warbler,0.8797923,3.0,6.0
+Piranga olivacea_Scarlet Tanager,0.31165525,4.0,7.0
+Piranga olivacea_Scarlet Tanager,0.15466425,6.0,9.0
+Piranga olivacea_Scarlet Tanager,0.10146857,8.0,11.0
+Piranga olivacea_Scarlet Tanager,0.2567464,9.0,12.0
+Hylocichla mustelina_Wood Thrush,0.1371092,9.0,12.0
+Vireo olivaceus_Red-eyed Vireo,0.109266415,9.0,12.0
+Helmitheros vermivorum_Worm-eating Warbler,0.16785629,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.16719213,12.0,15.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11901501,12.0,15.0
+Setophaga fusca_Blackburnian Warbler,0.5001457,13.0,16.0
+Setophaga tigrina_Cape May Warbler,0.19905055,13.0,16.0
+Setophaga ruticilla_American Redstart,0.15817185,13.0,16.0
+Setophaga castanea_Bay-breasted Warbler,0.10160024,13.0,16.0
+Setophaga fusca_Blackburnian Warbler,0.92046326,14.0,17.0
+Setophaga fusca_Blackburnian Warbler,0.8079489,15.0,18.0
+Setophaga fusca_Blackburnian Warbler,0.90568984,16.0,19.0
+Setophaga fusca_Blackburnian Warbler,0.29860303,17.0,20.0
+Setophaga ruticilla_American Redstart,0.193422,17.0,20.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.36150342,20.0,23.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.77304363,21.0,24.0
+Trogon melanocephalus_Black-headed Trogon,0.29751158,21.0,24.0
+Trogon melanocephalus_Black-headed Trogon,0.7005819,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.5085619,22.0,25.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9943613,23.0,26.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.9981213,24.0,27.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.99791175,25.0,28.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.97538507,26.0,29.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.3021533,26.0,29.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.96207666,27.0,30.0
+Coccyzus erythropthalmus_Black-billed Cuckoo,0.29995796,27.0,30.0
+Setophaga ruticilla_American Redstart,0.19462317,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.18977585,28.0,31.0
+Piranga olivacea_Scarlet Tanager,0.107818104,28.0,31.0
+Setophaga fusca_Blackburnian Warbler,0.22907144,29.0,32.0
+Setophaga ruticilla_American Redstart,0.22783203,29.0,32.0
+Piranga olivacea_Scarlet Tanager,0.20295808,29.0,32.0
+Setophaga fusca_Blackburnian Warbler,0.19267738,30.0,33.0
+Setophaga ruticilla_American Redstart,0.18514629,30.0,33.0
+Piranga olivacea_Scarlet Tanager,0.15550064,30.0,33.0
+Setophaga fusca_Blackburnian Warbler,0.26342118,31.0,34.0
+Setophaga ruticilla_American Redstart,0.20789057,31.0,34.0
+Setophaga ruticilla_American Redstart,0.33128524,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.12172812,32.0,35.0
+Mniotilta varia_Black-and-white Warbler,0.11653359,32.0,35.0
+Piranga olivacea_Scarlet Tanager,0.44110033,33.0,36.0
+Hylocichla mustelina_Wood Thrush,0.20383224,33.0,36.0
+Turdus migratorius_American Robin,0.10570965,33.0,36.0
+Piranga olivacea_Scarlet Tanager,0.12887098,35.0,38.0
+Setophaga fusca_Blackburnian Warbler,0.38165614,39.0,42.0
+Setophaga fusca_Blackburnian Warbler,0.82894903,40.0,43.0
+Setophaga fusca_Blackburnian Warbler,0.42380124,41.0,44.0
+Setophaga fusca_Blackburnian Warbler,0.6809819,42.0,45.0
+Helmitheros vermivorum_Worm-eating Warbler,0.29155126,43.0,46.0
+Vermivora cyanoptera_Blue-winged Warbler,0.174099,43.0,46.0
+Setophaga fusca_Blackburnian Warbler,0.1295337,43.0,46.0
+Piranga olivacea_Scarlet Tanager,0.23374884,44.0,47.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.1168022,44.0,47.0
+Helmitheros vermivorum_Worm-eating Warbler,0.1026068,44.0,47.0
+Piranga olivacea_Scarlet Tanager,0.12525113,45.0,48.0
+Helmitheros vermivorum_Worm-eating Warbler,0.11942219,45.0,48.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.11336499,45.0,48.0
+Piranga olivacea_Scarlet Tanager,0.31211677,46.0,49.0
+Vireo olivaceus_Red-eyed Vireo,0.1694599,46.0,49.0
+Setophaga ruticilla_American Redstart,0.11598299,46.0,49.0
+Helmitheros vermivorum_Worm-eating Warbler,0.14875457,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.11885798,47.0,50.0
+Geothlypis formosa_Kentucky Warbler,0.103470616,47.0,50.0
+Seiurus aurocapilla_Ovenbird,0.18633528,48.0,51.0
+Seiurus aurocapilla_Ovenbird,0.1738861,49.0,52.0
+Seiurus aurocapilla_Ovenbird,0.13977522,50.0,53.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.10994254,50.0,53.0
+Setophaga fusca_Blackburnian Warbler,0.84309906,51.0,54.0
+Setophaga tigrina_Cape May Warbler,0.1012861,51.0,54.0
+Setophaga fusca_Blackburnian Warbler,0.83463514,52.0,55.0
+Setophaga fusca_Blackburnian Warbler,0.9217529,53.0,56.0
+Setophaga fusca_Blackburnian Warbler,0.9838861,54.0,57.0
+Piranga olivacea_Scarlet Tanager,0.11567566,55.0,58.0
+Piranga olivacea_Scarlet Tanager,0.30257532,56.0,59.0
+Setophaga citrina_Hooded Warbler,0.14659081,56.0,59.0
+Hylocichla mustelina_Wood Thrush,0.14555769,56.0,59.0
+Geothlypis formosa_Kentucky Warbler,0.10533137,56.0,59.0
+Piranga olivacea_Scarlet Tanager,0.41204157,57.0,60.0
+Melanerpes carolinus_Red-bellied Woodpecker,0.16741087,57.0,60.0
+Setophaga citrina_Hooded Warbler,0.11229201,57.0,60.0
+Hylocichla mustelina_Wood Thrush,0.10401714,57.0,60.0
+Piranga olivacea_Scarlet Tanager,0.50841755,58.0,61.0
+Piranga olivacea_Scarlet Tanager,0.8412778,59.0,62.0
+Hylocichla mustelina_Wood Thrush,0.19206999,59.0,62.0
+Vireo olivaceus_Red-eyed Vireo,0.17422734,59.0,62.0
+Pipilo erythrophthalmus_Eastern Towhee,0.14445733,59.0,62.0
+Geothlypis formosa_Kentucky Warbler,0.12438583,59.0,62.0
+Piranga olivacea_Scarlet Tanager,0.52257913,60.0,63.0
+Geothlypis formosa_Kentucky Warbler,0.2049203,60.0,63.0
+Setophaga citrina_Hooded Warbler,0.105790704,60.0,63.0
+Piranga olivacea_Scarlet Tanager,0.31560415,61.0,64.0
+Geothlypis formosa_Kentucky Warbler,0.13591744,61.0,64.0
+Hylocichla mustelina_Wood Thrush,0.10721096,61.0,64.0
+Pipilo erythrophthalmus_Eastern Towhee,0.101728424,61.0,64.0
+Piranga olivacea_Scarlet Tanager,0.34292975,62.0,65.0
+Geothlypis formosa_Kentucky Warbler,0.17402142,62.0,65.0
+Hylocichla mustelina_Wood Thrush,0.16135384,62.0,65.0
+Vireo olivaceus_Red-eyed Vireo,0.15885256,62.0,65.0
+Setophaga citrina_Hooded Warbler,0.12151027,62.0,65.0
+Piranga olivacea_Scarlet Tanager,0.4065372,63.0,66.0
+Pipilo erythrophthalmus_Eastern Towhee,0.15373647,63.0,66.0
+Vireo olivaceus_Red-eyed Vireo,0.14899895,63.0,66.0
+Hylocichla mustelina_Wood Thrush,0.14049381,63.0,66.0
+Seiurus aurocapilla_Ovenbird,0.101431236,63.0,66.0
+Piranga olivacea_Scarlet Tanager,0.26015997,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.19063164,64.0,67.0
+Vireo olivaceus_Red-eyed Vireo,0.12990203,64.0,67.0
+Setophaga fusca_Blackburnian Warbler,0.94017017,65.0,68.0
+Setophaga fusca_Blackburnian Warbler,0.94642097,66.0,69.0
+Setophaga fusca_Blackburnian Warbler,0.8625623,67.0,70.0
+Setophaga fusca_Blackburnian Warbler,0.4331297,68.0,71.0
+Helmitheros vermivorum_Worm-eating Warbler,0.31457743,68.0,71.0
+Dryocopus pileatus_Pileated Woodpecker,0.100402385,70.0,73.0
+Sphyrapicus varius_Yellow-bellied Sapsucker,0.11339669,71.0,74.0
+Seiurus aurocapilla_Ovenbird,0.109278895,72.0,75.0
+Seiurus aurocapilla_Ovenbird,0.2222729,73.0,76.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.108749956,73.0,76.0
+Seiurus aurocapilla_Ovenbird,0.19952253,74.0,77.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.18035461,74.0,77.0
+Seiurus aurocapilla_Ovenbird,0.21022378,75.0,78.0
+Helmitheros vermivorum_Worm-eating Warbler,0.17510572,75.0,78.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14132327,75.0,78.0
+Setophaga fusca_Blackburnian Warbler,0.76872367,78.0,81.0
+Setophaga fusca_Blackburnian Warbler,0.85682744,79.0,82.0
+Setophaga fusca_Blackburnian Warbler,0.79982644,80.0,83.0
+Setophaga fusca_Blackburnian Warbler,0.88252354,81.0,84.0
+Piranga olivacea_Scarlet Tanager,0.16520226,82.0,85.0
+Hylocichla mustelina_Wood Thrush,0.14409627,82.0,85.0
+Chlorodrepanis virens_Hawaii Amakihi,0.10285572,82.0,85.0
+Hylocichla mustelina_Wood Thrush,0.39995682,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.15664831,83.0,86.0
+Pipilo erythrophthalmus_Eastern Towhee,0.10093914,83.0,86.0
+Piranga olivacea_Scarlet Tanager,0.11621563,84.0,87.0
+Coccyzus americanus_Yellow-billed Cuckoo,0.10686988,85.0,88.0
+Piranga olivacea_Scarlet Tanager,0.10044851,85.0,88.0
+Geothlypis formosa_Kentucky Warbler,0.19335358,89.0,92.0
+Piranga olivacea_Scarlet Tanager,0.15683982,89.0,92.0
+Setophaga fusca_Blackburnian Warbler,0.27735904,90.0,93.0
+Setophaga ruticilla_American Redstart,0.18372309,90.0,93.0
+Piranga olivacea_Scarlet Tanager,0.15613659,90.0,93.0
+Setophaga castanea_Bay-breasted Warbler,0.14105152,90.0,93.0
+Setophaga fusca_Blackburnian Warbler,0.7972445,91.0,94.0
+Setophaga fusca_Blackburnian Warbler,0.64267737,92.0,95.0
+Setophaga fusca_Blackburnian Warbler,0.74529415,93.0,96.0
+Setophaga castanea_Bay-breasted Warbler,0.18253672,94.0,97.0
+Setophaga fusca_Blackburnian Warbler,0.17380103,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.14493923,94.0,97.0
+Setophaga caerulescens_Black-throated Blue Warbler,0.15636852,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.11463874,95.0,98.0
+Seiurus aurocapilla_Ovenbird,0.21931607,96.0,99.0

@@ -1,0 +1,56 @@
+species,score,start_time,end_time
+Melospiza georgiana_Swamp Sparrow,0.9937901,0.0,3.0
+Melospiza georgiana_Swamp Sparrow,0.9949126,1.0,4.0
+Melospiza georgiana_Swamp Sparrow,0.9766838,2.0,5.0
+Melospiza georgiana_Swamp Sparrow,0.9447603,3.0,6.0
+Lithobates clamitans_Green Frog,0.1607702,6.0,9.0
+Lithobates clamitans_Green Frog,0.15681827,8.0,11.0
+Podilymbus podiceps_Pied-billed Grebe,0.26666218,10.0,13.0
+Podilymbus podiceps_Pied-billed Grebe,0.10721712,11.0,14.0
+Podilymbus podiceps_Pied-billed Grebe,0.47519135,12.0,15.0
+Ixobrychus exilis_Least Bittern,0.12900822,14.0,17.0
+Ardea herodias_Great Blue Heron,0.12994109,17.0,20.0
+Melospiza georgiana_Swamp Sparrow,0.9863322,18.0,21.0
+Melospiza georgiana_Swamp Sparrow,0.9975126,19.0,22.0
+Melospiza georgiana_Swamp Sparrow,0.95920444,20.0,23.0
+Melospiza georgiana_Swamp Sparrow,0.96622556,21.0,24.0
+Melospiza georgiana_Swamp Sparrow,0.14486656,22.0,25.0
+Melospiza melodia_Song Sparrow,0.117818266,22.0,25.0
+Ardea herodias_Great Blue Heron,0.12688306,27.0,30.0
+Ardea herodias_Great Blue Heron,0.17875236,28.0,31.0
+Ardea herodias_Great Blue Heron,0.29404885,29.0,32.0
+Ardea cocoi_Cocoi Heron,0.101710625,29.0,32.0
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad,0.1386344,31.0,34.0
+Ixobrychus exilis_Least Bittern,0.21494155,32.0,35.0
+Melospiza melodia_Song Sparrow,0.10925778,33.0,36.0
+Melospiza georgiana_Swamp Sparrow,0.6494595,34.0,37.0
+Melospiza georgiana_Swamp Sparrow,0.9966144,35.0,38.0
+Melospiza georgiana_Swamp Sparrow,0.9956548,36.0,39.0
+Melospiza georgiana_Swamp Sparrow,0.9924321,37.0,40.0
+Melospiza georgiana_Swamp Sparrow,0.9868406,38.0,41.0
+Gallinula galeata_Common Gallinule,0.11127675,39.0,42.0
+Gallinula galeata_Common Gallinule,0.12938693,41.0,44.0
+Gallinula galeata_Common Gallinule,0.11090378,42.0,45.0
+Selasphorus platycercus_Broad-tailed Hummingbird,0.14491159,44.0,47.0
+Selasphorus platycercus_Broad-tailed Hummingbird,0.1920744,45.0,48.0
+Ammospiza nelsoni_Nelson's Sparrow,0.28518945,47.0,50.0
+Melospiza georgiana_Swamp Sparrow,0.9848874,48.0,51.0
+Melospiza georgiana_Swamp Sparrow,0.9905714,49.0,52.0
+Melospiza georgiana_Swamp Sparrow,0.9914009,50.0,53.0
+Melospiza georgiana_Swamp Sparrow,0.94108695,51.0,54.0
+Melospiza georgiana_Swamp Sparrow,0.8983707,52.0,55.0
+Platalea ajaja_Roseate Spoonbill,0.49823907,54.0,57.0
+Platalea ajaja_Roseate Spoonbill,0.39566705,55.0,58.0
+Platalea ajaja_Roseate Spoonbill,0.52434266,56.0,59.0
+Coragyps atratus_Black Vulture,0.13215126,56.0,59.0
+Bombycilla cedrorum_Cedar Waxwing,0.22053808,60.0,63.0
+Podilymbus podiceps_Pied-billed Grebe,0.2535924,65.0,68.0
+Rallus elegans_King Rail,0.11114272,65.0,68.0
+Podilymbus podiceps_Pied-billed Grebe,0.34320858,66.0,69.0
+Ardea herodias_Great Blue Heron,0.23180732,71.0,74.0
+Melospiza georgiana_Swamp Sparrow,0.18480769,71.0,74.0
+Melospiza georgiana_Swamp Sparrow,0.15621741,72.0,75.0
+Ardea herodias_Great Blue Heron,0.14906001,72.0,75.0
+Melospiza georgiana_Swamp Sparrow,0.2501308,73.0,76.0
+Ammospiza nelsoni_Nelson's Sparrow,0.13088524,75.0,78.0
+Melospiza georgiana_Swamp Sparrow,0.107988045,75.0,78.0

@@ -1,0 +1,49 @@
+species,score,start_time,end_time
+Cyanocitta cristata_Blue Jay,0.22638418,0.0,3.0
+Agelaius phoeniceus_Red-winged Blackbird,0.3618512,1.0,4.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6726334,2.0,5.0
+Agelaius phoeniceus_Red-winged Blackbird,0.6846568,3.0,6.0
+Ixobrychus exilis_Least Bittern,0.10361097,3.0,6.0
+Sturnus vulgaris_European Starling,0.1088943,4.0,7.0
+Sturnus vulgaris_European Starling,0.115470186,5.0,8.0
+Sturnus vulgaris_European Starling,0.5305719,6.0,9.0
+Apus pacificus_Pacific Swift,0.32137236,6.0,9.0
+Sturnus unicolor_Spotless Starling,0.11648577,6.0,9.0
+Sturnus vulgaris_European Starling,0.2711238,7.0,10.0
+Sturnus vulgaris_European Starling,0.4784168,8.0,11.0
+Sturnus vulgaris_European Starling,0.5572953,9.0,12.0
+Sturnus vulgaris_European Starling,0.2561988,10.0,13.0
+Spiza americana_Dickcissel,0.17785305,11.0,14.0
+Sturnus vulgaris_European Starling,0.59684443,13.0,16.0
+Sturnus unicolor_Spotless Starling,0.12186962,13.0,16.0
+Sturnus vulgaris_European Starling,0.91380006,14.0,17.0
+Sturnus unicolor_Spotless Starling,0.54066545,14.0,17.0
+Tachycineta bicolor_Tree Swallow,0.25909337,15.0,18.0
+Spizella breweri_Brewer's Sparrow,0.25535542,15.0,18.0
+Tachycineta bicolor_Tree Swallow,0.3639497,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.31028038,16.0,19.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7542695,17.0,20.0
+Tachycineta bicolor_Tree Swallow,0.13798498,17.0,20.0
+Agelaius phoeniceus_Red-winged Blackbird,0.7656869,18.0,21.0
+Agelaius phoeniceus_Red-winged Blackbird,0.40174264,19.0,22.0
+Spiza americana_Dickcissel,0.8377444,20.0,23.0
+Spiza americana_Dickcissel,0.93412554,21.0,24.0
+Spiza americana_Dickcissel,0.96654886,22.0,25.0
+Spiza americana_Dickcissel,0.3388819,23.0,26.0
+Spiza americana_Dickcissel,0.20220129,25.0,28.0
+Sturnus vulgaris_European Starling,0.13173662,25.0,28.0
+Tachycineta bicolor_Tree Swallow,0.13004968,25.0,28.0
+Spizella pallida_Clay-colored Sparrow,0.12538038,25.0,28.0
+Sturnus vulgaris_European Starling,0.22633095,26.0,29.0
+Spiza americana_Dickcissel,0.103004865,26.0,29.0
+Sturnus vulgaris_European Starling,0.60607934,27.0,30.0
+Sturnus unicolor_Spotless Starling,0.13029195,27.0,30.0
+Sturnus vulgaris_European Starling,0.77810174,28.0,31.0
+Sturnus unicolor_Spotless Starling,0.27494583,28.0,31.0
+Sturnus vulgaris_European Starling,0.92284596,29.0,32.0
+Quiscalus quiscula_Common Grackle,0.25474232,29.0,32.0
+Sturnus unicolor_Spotless Starling,0.1992924,29.0,32.0
+Spiza americana_Dickcissel,0.8306153,30.0,33.0
+Spiza americana_Dickcissel,0.9328943,31.0,34.0
+Spiza americana_Dickcissel,0.9411019,32.0,35.0
+Sturnus vulgaris_European Starling,0.23640078,33.0,35.49600907029478

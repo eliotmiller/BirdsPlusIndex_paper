@@ -1,0 +1,52 @@
+species,score,start_time,end_time
+Chloris chloris_European Greenfinch,0.49672475,0.0,3.0
+Chloris chloris_European Greenfinch,0.59108424,1.0,4.0
+Ficedula superciliaris_Ultramarine Flycatcher,0.32169983,1.0,4.0
+Ficedula superciliaris_Ultramarine Flycatcher,0.8462117,2.0,5.0
+Chloris chloris_European Greenfinch,0.57988524,2.0,5.0
+Myiarchus crinitus_Great Crested Flycatcher,0.31570336,10.0,13.0
+Myiarchus crinitus_Great Crested Flycatcher,0.9527599,11.0,14.0
+Myiarchus nuttingi_Nutting's Flycatcher,0.10329709,11.0,14.0
+Piranga flava_Hepatic Tanager,0.2887186,14.0,17.0
+Sicalis luteocephala_Citron-headed Yellow-Finch,0.2882254,14.0,17.0
+Leistes loyca_Long-tailed Meadowlark,0.10409494,14.0,17.0
+Passer montanus_Eurasian Tree Sparrow,0.42887938,15.0,18.0
+Passer simplex_Desert Sparrow,0.12726589,15.0,18.0
+Passer montanus_Eurasian Tree Sparrow,0.6645948,16.0,19.0
+Passer simplex_Desert Sparrow,0.19327101,16.0,19.0
+Toxostoma ocellatum_Ocellated Thrasher,0.62518334,18.0,21.0
+Toxostoma redivivum_California Thrasher,0.32453287,18.0,21.0
+Toxostoma crissale_Crissal Thrasher,0.2288171,18.0,21.0
+Toxostoma ocellatum_Ocellated Thrasher,0.78461796,19.0,22.0
+Toxostoma redivivum_California Thrasher,0.16327512,19.0,22.0
+Toxostoma ocellatum_Ocellated Thrasher,0.40613532,20.0,23.0
+Acrocephalus australis_Australian Reed Warbler,0.16786164,20.0,23.0
+Mimus polyglottos_Northern Mockingbird,0.40660512,21.0,24.0
+Mimus gilvus_Tropical Mockingbird,0.20433633,21.0,24.0
+Mimus polyglottos_Northern Mockingbird,0.25586492,22.0,25.0
+Icterus parisorum_Scott's Oriole,0.16434869,22.0,25.0
+Mimus polyglottos_Northern Mockingbird,0.20939851,23.0,26.0
+Icterus parisorum_Scott's Oriole,0.14986134,23.0,26.0
+Mimus polyglottos_Northern Mockingbird,0.39641547,24.0,27.0
+Icterus parisorum_Scott's Oriole,0.17113785,24.0,27.0
+Cinclodes nigrofumosus_Seaside Cinclodes,0.17738324,26.0,29.0
+Tyrannus verticalis_Western Kingbird,0.10959931,26.0,29.0
+Oenanthe leucura_Black Wheatear,0.19086492,27.0,30.0
+Sialia sialis_Eastern Bluebird,0.17947544,29.0,32.0
+Loxia leucoptera_White-winged Crossbill,0.17282091,29.0,32.0
+Icterus spurius_Orchard Oriole,0.15718336,29.0,32.0
+Icterus bullockii_Bullock's Oriole,0.2809633,30.0,33.0
+Icterus bullockii_Bullock's Oriole,0.19070598,31.0,34.0
+Arundinax aedon_Thick-billed Warbler,0.15210935,31.0,34.0
+Tyrannus vociferans_Cassin's Kingbird,0.6406416,32.0,35.0
+Tyrannus vociferans_Cassin's Kingbird,0.23957033,33.0,36.0
+Todiramphus sanctus_Sacred Kingfisher,0.10967511,33.0,36.0
+Urocolius indicus_Red-faced Mousebird,0.21476515,34.0,37.0
+Mycerobas affinis_Collared Grosbeak,0.11844609,34.0,37.0
+Urocolius indicus_Red-faced Mousebird,0.2007669,35.0,38.0
+Urocolius indicus_Red-faced Mousebird,0.12426672,36.0,39.0
+Urocolius indicus_Red-faced Mousebird,0.109835856,37.0,40.0
+Grallaria saturata_Equatorial Antpitta,0.16097635,41.0,44.0
+Mycerobas affinis_Collared Grosbeak,0.7275913,42.0,45.0
+Garrulax taewanus_Taiwan Hwamei,0.22418849,42.0,45.0
+Poliocrania exsul_Chestnut-backed Antbird,0.19310164,43.0,46.0
